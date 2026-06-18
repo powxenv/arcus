@@ -2,6 +2,26 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.12 (2026-06-18): Test 1 second audit, B2 regrounding, profile consistency
+
+Why: the user asked whether I was truly confident Test 1 aligned with the goals. Honest answer was no. A full re-read of the items and profile doc against the v0.7 framework found four more issues, one substantive, all introduced or missed by my own earlier edits.
+
+Changes:
+
+Substantive:
+- B2 facet regrounded. Was "Experiential Approach," which mixed three constructs (agency per DeYoung Assertiveness, experiential engagement per BAS Fun-Seeking, novelty seeking per Zuckerman) while citing only the first. Renamed to **Agency** (DeYoung Assertiveness aspect of Extraversion). Axis B now maps exactly to DeYoung's validated two-aspect structure: B1 Enthusiasm, B2 Assertiveness. The earlier name was a forced citation; this one is honest.
+- B2 item bank rewritten. The v0.10 "diversification" had accidentally clustered three items (B2.6, B2.7, B2.8) on the same agency frame. New 8 items each target a distinct content area: initiation, decision tempo, impact drive, leadership, agency in ambiguity, persistence, control orientation, self-direction. Removed the novelty item that overlapped A2.
+
+Consistency:
+- Profile section renamed from "Your Solstice Moment" to "Your Moment on the Cycle" across all four profiles and the schema list. v0.7 said only Summer and Winter (Axis-A extremes) carry solstice poetry, but all four profiles had a section called Solstice Moment. Schema note added: Summer and Winter get explicit solstice beats within the moment; Autumn and Spring get transition beats.
+- Updated 01 §6 Step 3 B2 label (experientially inward/outward to receptive/agentic) and 01 §9 layer-4 phrasing ("your moment on the cycle" line).
+
+Minor:
+- A2.3 rewritten. Was activation-recovery kinetics (drifted toward A1 baseline arousal). Now measures appetite for further stimulation (clean A2).
+- A2.7 rewritten. Was "where the action is" (drifted toward B2 engagement). Now cleanly about desired surrounding stimulation level.
+
+Net: the forced B2 citation is gone, B2 is cleanly grounded and non-redundant, and the profile doc no longer contradicts the framework's solstice-at-extremes rule.
+
 ## v0.11 (2026-06-18): Test 1 theme-calibration pass, critical fixes
 
 Why: the user asked whether Test 1 truly aligned with the theme and our aims. A focused audit of the metaphor (not just the items) found a critical thematic inversion plus three substantive gaps that prior item-level audits had missed.

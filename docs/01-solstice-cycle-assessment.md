@@ -1,6 +1,6 @@
 # Test 1: The Solstice Cycle Assessment (SCA)
 
-> Status: v0.7 design document. Theme-calibration pass complete. Solstice metaphor corrected, scoring thresholds justified, items de-confounded, hemisphere-aware.
+> Status: v0.8 design document. Second audit pass complete. B2 regrounded as Agency (DeYoung Assertiveness), items de-confounded, profile section renamed for theme consistency.
 > Position: The solstice-themed test of the four-test Solstice Soul suite.
 > Theme served: June Solstice (light and dark, cycles, turning points).
 > Honesty statement: The SCA is an original, theory-informed assessment for reflection and play. Its structure is inspired by validated models of affect (Russell's circumplex) and motivation (approach and withdrawal). It is not independently validated and is not clinical. Seasonal names are an interpretive metaphor, not a claim that personality is literally seasonal. Two further honesty notes: (1) Russell's circumplex is a model of momentary affect, a state model. We use its structure to organize trait-like dispositions, a move supported by the trait-affect literature but stated here openly rather than implied. (2) The June solstice is summer in the Northern Hemisphere and winter in the Southern. The SCA uses internal, hemisphere-neutral seasons and does not assume a hemisphere.
@@ -62,8 +62,10 @@ The facets under each axis are grounded in validated sub-constructs, not invente
 - **A2 Stimulation Appetite:** Zuckerman (1979), Sensation Seeking. The preferred level of varied, novel, and intense stimulation. Validated four-factor instrument; we draw on the general preference dimension.
 
 **Axis B facets.**
-- **B1 Social Approach:** DeYoung, Quilty and Peterson (2007), Big Five Aspect Scales. Extraversion splits into Enthusiasm (sociability, positive emotion, affiliation) and Assertiveness. B1 maps to the Enthusiasm aspect.
-- **B2 Experiential Approach:** DeYoung, Quilty and Peterson (2007), the Assertiveness aspect of Extraversion (proactive agency, action initiation, drive toward goals and impact), reframed as experiential approach to fit the affect and motivation domain. The agentic-versus-affiliative split also mirrors Carver and White (1994) BAS subtypes (Drive, Fun-Seeking, Reward-Responsiveness).
+- **B1 Social Approach:** DeYoung, Quilty and Peterson (2007), Big Five Aspect Scales, Enthusiasm aspect. Sociability, affiliation, positive emotion toward others.
+- **B2 Agency:** DeYoung, Quilty and Peterson (2007), Big Five Aspect Scales, Assertiveness aspect. Proactive agency, action initiation, dominance, drive toward impact. Together B1 and B2 mirror the validated two-aspect structure of Extraversion (Enthusiasm and Assertiveness), with Carver and White (1994) BAS subtypes (Drive, Reward-Responsiveness) as corroborating split.
+
+Naming note. B2 was renamed from "experiential approach" (v0.9) to "agency" (v0.8). The earlier name mixed three constructs (agency, experiential engagement, novelty seeking) and only one was supported by the DeYoung citation. "Agency" is the narrower, correctly grounded construct. The cost is a less poetic facet name; the gain is that Axis B's two facets now map exactly onto DeYoung's validated two-aspect structure of Extraversion.
 
 Honesty note. The facet split is theory-grounded, but the specific SCA facet scales are not independently validated. That line is stated in section 10.
 
@@ -138,7 +140,7 @@ Why Autumn is Bright plus Inward: autumn is the harvest, still luminous (golden 
 - A1 = mean of normalized A1 items, scaled 0 to 100. 0 is low baseline arousal, 100 is high.
 - A2 = mean of normalized A2 items, scaled 0 to 100. 0 is low stimulation appetite, 100 is high.
 - B1 = mean of normalized B1 items, scaled 0 to 100. 0 is socially withdrawn, 100 is socially approachful.
-- B2 = mean of normalized B2 items, scaled 0 to 100. 0 is experientially inward, 100 is experientially outward.
+- B2 = mean of normalized B2 items, scaled 0 to 100. 0 is receptive, 100 is agentic.
 
 **Step 4, axis scores.**
 - A (Solar Height) = mean of A1 and A2, scaled 0 to 100. 0 is Dim, 100 is Bright.
@@ -198,7 +200,7 @@ Explicitly avoided: binary A/B forced choice (no bimodality, discards informatio
 
 **Facet structure.**
 - Axis A, Solar Height: A1 Baseline Arousal (tonic activation, your default energy set-point), A2 Stimulation Appetite (preferred input and activity level).
-- Axis B, Tidal Direction: B1 Social Approach (toward or away from people), B2 Experiential Approach (toward or away from engagement, action, the world of experience). B2 was renamed from "expressive disclosure" in v0.8 to avoid overlap with Test 3 Axis 2 (identity expression). The two facets map to the sociability versus activity distinction in Big Five Extraversion.
+- Axis B, Tidal Direction: B1 Social Approach (toward or away from people, DeYoung Enthusiasm aspect), B2 Agency (proactive action and initiation versus receptive response, DeYoung Assertiveness aspect). B2 was renamed from "experiential approach" (v0.9) and from "expressive disclosure" (v0.8); both earlier names were either off-construct or overlapping with Test 3. The two facets now map exactly to DeYoung's validated two-aspect structure of Extraversion.
 
 **Item-writing rules applied.** Vary exactly one facet per item. True antonym poles on a single dimension. Neutral language (behavior, not virtue). No transparent giveaways. Gender-neutral and identity-agnostic. Both poles affirming. Pole direction randomized at render time to counter position and acquiescence bias.
 
@@ -225,11 +227,11 @@ All items vary preferred input and activity level only.
 |---|---|---|---|
 | A2.1 | How much stimulation do you want in a given hour? | "A lot. Input and activity keep me lit." | "A little. I prefer a calm, low-stimulus current." |
 | A2.2 | Loud, bright, busy environments… | "I seek them out. They charge me." | "I retreat from them. They drain me." |
-| A2.3 | After something exciting happens, your body… | "Stays revved. The charge lingers." | "Settles back down quickly to calm." |
+| A2.3 | After something stimulating, your appetite for more is… | "Whetted. I want the next thing." | "Satisfied. I want to dial back." |
 | A2.4 | Your ideal day is… | "Packed, varied, lots happening." | "Spacious, quiet, few demands." |
 | A2.5 | If you had to choose, you'd take… | "More going on than you can track." | "Less going on, with room to spare." |
 | A2.6 | A typical week's energy pattern is… | "Spiky. Peaks, bursts, high output." | "Even. Steady, moderate, sustainable." |
-| A2.7 | When you can choose your surroundings… | "I go where the action is." | "I find the quiet corner." |
+| A2.7 | When you can choose your surroundings… | "I want a lot going on around me." | "I want very little going on around me." |
 | A2.8 | The level of sensory input you function best at is… | "High. I need a lot of signal." | "Low. I do my best with less." |
 
 ### Facet B1: Social Approach (8 items)
@@ -247,20 +249,20 @@ All items vary orientation toward or away from people only.
 | B1.7 | In a group, you tend to… | "Move toward the center." | "Move toward the edges." |
 | B1.8 | Connection with others is mostly something you… | "Go out and get." | "Wait to receive." |
 
-### Facet B2: Experiential Approach (8 items)
+### Facet B2: Agency (8 items)
 
-All items vary orientation toward or away from engagement, action, and the world of experience. Each item targets a distinct content area (energy direction, opportunity response, novelty tolerance, mode of being, tempo, initiative, value orientation, agency) rather than repeating the move-toward or hang-back frame. Not about people (that is B1) and not about input volume (that is A2).
+All items vary proactive agency and action-initiation versus receptive, responsive orientation. Grounded in DeYoung's Assertiveness aspect of Extraversion. Each item targets a distinct content area (initiation, decision tempo, impact drive, leadership, agency in ambiguity, persistence, control, self-direction) rather than repeating a single frame. Not about people (that is B1) and not about stimulation or novelty (that is A2).
 
-| # | Scenario stem | Outward pole (toward engagement) | Inward pole (toward interior) |
+| # | Scenario stem | Outward pole (agentic) | Inward pole (receptive) |
 |---|---|---|---|
-| B2.1 | When free energy is available, it flows toward… | "The world. Making, doing, engaging." | "My interior. Reflecting, tending, being." |
-| B2.2 | A new opportunity appears. Your instinct is to… | "Reach for it. Engage." | "Watch it first. Decide slowly." |
-| B2.3 | An activity you've never done comes up. | "I'm already moving toward it." | "I'd rather watch someone do it first." |
-| B2.4 | You're most alive when… | "Out in the world, in motion." | "Inside yourself, in reflection." |
-| B2.5 | When you could act or wait, you… | "Act. Doing clarifies." | "Wait. Watching clarifies." |
-| B2.6 | In most situations, you're the one who… | "Starts things. Sets them in motion." | "Watches what starts, then responds." |
-| B2.7 | When a situation calls for a response, you… | "Step in and act on it." | "Step back and let it unfold." |
-| B2.8 | Your relationship to agency is… | "I make things happen." | "I let things happen." |
+| B2.1 | When free energy is available, it flows toward… | "Making an impact on the world." | "Taking in and reflecting on the world." |
+| B2.2 | A decision is yours to make. You… | "Make it and move." | "Let it settle, then respond." |
+| B2.3 | A group needs to move forward. You… | "Step up and set the direction." | "Support whoever steps up." |
+| B2.4 | You're most yourself when… | "Driving something forward." | "Receiving and integrating what comes." |
+| B2.5 | In ambiguous situations, you… | "Act first, refine as you go." | "Wait for the shape to clarify." |
+| B2.6 | When something could be done or left, you… | "Do it. I'd rather act." | "Let it be, unless it calls." |
+| B2.7 | Your relationship to control is… | "I'd rather hold the reins." | "I'd rather adapt to what arrives." |
+| B2.8 | Your default mode is… | "Self-directed. I set my own course." | "Responsive. I meet what comes." |
 
 **Notes.** All 32 items are gender-neutral and identity-agnostic (Pride-inclusive by construction). Both poles of every item are affirming. For the bipolar two-anchor format, pole direction is randomized at render time, which is the functional equivalent of reverse-keying in a unipolar agree-disagree format and counters position and acquiescence bias. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75.
 
@@ -274,7 +276,7 @@ A result has four layers, surfaced in order:
 1. **Your season** (quadrant). The shareable label.
 2. **Your phase** (angle). Gradation and secondary leaning.
 3. **Your prototypicality** (radius). Strongly versus with nuance. Near-center yields the Threshold result, the equinox position.
-4. **Your narrative.** Two to three personalized paragraphs from the full answer pattern, ending with a "your solstice moment" line. Gemini layer per the GDD. Consumes the numeric profile and the per-item answers.
+4. **Your narrative.** Two to three personalized paragraphs from the full answer pattern, ending with a "your moment on the cycle" line. Gemini layer per the GDD. Consumes the numeric profile and the per-item answers.
 
 **Deterministic fallback (no-API path).** 4 primary season profiles plus 1 Threshold profile, modulated by gradation (early, mid, late) and axis-boundary handling per `01b-solstice-result-profiles.md`. This produces 16 distinguishable output states (4 seasons × {early, mid, late, threshold} plus the pure-Threshold reading), all from 5 base profile templates and the modulation rules. The game is fully playable without the API. The API only enriches the narrative.
 

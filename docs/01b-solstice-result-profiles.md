@@ -2,7 +2,7 @@
 
 > Companion to `01-solstice-cycle-assessment.md`.
 > Full-depth profiles for each SCA result, modeled on bigfive-test.com facet depth and mypersonality.net type profiles.
-> Each profile uses the same 14-section schema, so the four types are directly comparable. These are the deterministic fallback narratives. The Gemini layer enriches the Archetype and Solstice Moment sections from the player's answer pattern. It never overrides the structured sections, which keep results consistent and shareable.
+> Each profile uses the same 14-section schema, so the four types are directly comparable. These are the deterministic fallback narratives. The Gemini layer enriches the Archetype and Moment on the Cycle sections from the player's answer pattern. It never overrides the structured sections, which keep results consistent and shareable.
 > Honesty note: profiles describe tendencies associated with a combination of two measured dimensions, affective activation and motivational orientation. They are affirming, non-clinical, and avoid deficit framing. Every low-activation result is described as depth or restoration, never pathology.
 
 ---
@@ -22,7 +22,7 @@
 11. **Under Stress.** Stress signature and recovery.
 12. **Communication.** Style and growth.
 13. **The Complementary Season.** The opposite quadrant they can learn from.
-14. **Your Solstice Moment.** The poetic closing line. AI-personalized in-game.
+14. **Your Moment on the Cycle.** The poetic closing line. AI-personalized in-game. The extreme Axis-A results (Summer, Winter) carry an explicit solstice beat within this moment; Autumn and Spring carry transition beats.
 
 ---
 
@@ -101,7 +101,7 @@ This is the zenith of the cycle. The high point, peak activation. The moment of 
 ### The Complementary Season: ❄️ Winter (The Deep)
 Your wholeness lives in the part of the cycle you tend to skip. Winter's stillness, depth, and restoration. The sun that rests returns brighter. Your deepest growth is permission to dim without fear.
 
-### Your Solstice Moment
+### Your Moment on the Cycle
 "You are the peak of the cycle, the moment the light turns. Your art is learning that the night is not your enemy but the soil your light grows from."
 
 ---
@@ -181,7 +181,7 @@ Autumn is the mind that has learned discernment. Where Summer burns outward, you
 ### The Complementary Season: 🌱 Spring (The Greening)
 Your wholeness lives in re-engagement. Spring's tender, outward, hopeful new growth. Having learned to let go, your next mastery is beginning again, and trusting it.
 
-### Your Solstice Moment
+### Your Moment on the Cycle
 "You are the light that has learned to turn. Your freedom is knowing that release is not loss but the harvest making room for what comes next."
 
 ---
@@ -261,7 +261,7 @@ Winter is reframed, always, as depth and renewal, never deficit. Your power is q
 ### The Complementary Season: ☀️ Summer (The Zenith)
 Your wholeness lives in emergence. Summer's full, outward, radiant expression. The seed's whole purpose is the bloom. Your deepest growth is daring to take up space.
 
-### Your Solstice Moment
+### Your Moment on the Cycle
 "You are the longest night. Your revelation is that the dark was never empty. It was the root, all along, of everything you will grow."
 
 ---
@@ -341,7 +341,7 @@ Spring is the courage of softness. You engage the world without needing to domin
 ### The Complementary Season: 🍂 Autumn (The Turning)
 Your wholeness lives in discernment. Autumn's capacity to keep what matters and release what does not. Having mastered beginning, your next mastery is choosing what to let end.
 
-### Your Solstice Moment
+### Your Moment on the Cycle
 "You are the first green after frost. Your quiet miracle is this: the softest thing in the garden is the one that broke through the cold."
 
 ---
@@ -366,6 +366,6 @@ This is the hybrid dimensional and prototypical structure (Kerber et al. 2021). 
 As of v0.9 the SCA is facet-organized. Every result reports the two axis scores and their four facet sub-scores. The facet signature lets a profile distinguish *which facet drove the axis score*.
 
 - Axis A, Solar Height: A1 Baseline Arousal, A2 Stimulation Appetite.
-- Axis B, Tidal Direction: B1 Social Approach, B2 Experiential Approach.
+- Axis B, Tidal Direction: B1 Social Approach, B2 Agency.
 
-A high-Bright result can now read "high on Solar Height, driven more by stimulation appetite than baseline arousal." A high-Outward result can read "outward mostly through experiential engagement, less through social approach." This is the depth that separates the SCA from a flat axis quiz. Facets are theory-grounded sub-dimensions of validated constructs, not independently validated facets; that line is stated on the results screen.
+A high-Bright result can now read "high on Solar Height, driven more by stimulation appetite than baseline arousal." A high-Outward result can read "outward mostly through agency, less through social approach." This is the depth that separates the SCA from a flat axis quiz. Facets are theory-grounded sub-dimensions of validated constructs, not independently validated facets; that line is stated on the results screen.
