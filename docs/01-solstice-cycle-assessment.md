@@ -1,6 +1,6 @@
 # Test 1: The Solstice Cycle Assessment (SCA)
 
-> Status: v0.10 design document. Post-rebuild verification pass complete. Three residual issues fixed (B2.8 social confound, B2.3 grammar, §7 bias-statement duplication).
+> Status: v0.11 design document. Second verification pass complete. B2.8 redundancy fixed, B1.5 confound fixed, A2.5 grammar fixed.
 > Position: The solstice-themed test of the four-test Solstice Soul suite.
 > Theme served: June Solstice (light and dark, cycles, turning points).
 > Honesty statement: The SCA is an original, theory-informed assessment for reflection and play. Its structure is inspired by validated models of affect (Russell's circumplex) and motivation (approach and withdrawal). It is not independently validated and is not clinical. Seasonal names are an interpretive metaphor, not a claim that personality is literally seasonal. Two further honesty notes: (1) Russell's circumplex is a model of momentary affect, a state model. We use its structure to organize trait-like dispositions, a move supported by the trait-affect literature but stated here openly rather than implied. (2) The June solstice is summer in the Northern Hemisphere and winter in the Southern. The SCA uses internal, hemisphere-neutral seasons and does not assume a hemisphere.
@@ -229,7 +229,7 @@ All items vary preferred stimulation level. Each item targets a distinct content
 | A2.2 | You prefer your environment… | "Busy and full." | "Sparse and open." |
 | A2.3 | The pace you prefer is… | "Fast." | "Slow." |
 | A2.4 | The volume of input coming in that you want is… | "High." | "Low." |
-| A2.5 | It takes ___ stimulation for you to feel it's enough. | "A lot of." | "A little." |
+| A2.5 | To feel like you have enough, you need… | "A lot of stimulation." | "A little stimulation." |
 | A2.6 | Most of the time, you want to be… | "Actively doing." | "Mostly still." |
 | A2.7 | You prefer things… | "Changing and varied." | "Steady and uniform." |
 | A2.8 | Compared to most people, you run on… | "More stimulation." | "Less stimulation." |
@@ -244,14 +244,14 @@ All items vary orientation toward or away from people. Each item targets a disti
 | B1.2 | Meeting new people is something you… | "Move toward." | "Let come to you." |
 | B1.3 | In a group, you move toward… | "The center." | "The edges." |
 | B1.4 | In your close relationships, you tend to… | "Reach out first." | "Wait to be reached out to." |
-| B1.5 | Your circle of people tends to… | "Expand over time." | "Stay close and small." |
+| B1.5 | Most of your days involve… | "Lots of people time." | "Lots of solo time." |
 | B1.6 | Your default orientation is toward… | "People." | "Your own world." |
 | B1.7 | Your primary energy source is… | "Other people." | "Solitude." |
 | B1.8 | Connection with others is something you… | "Actively pursue." | "Let find you." |
 
 ### Facet B2: Agency (8 items)
 
-All items vary proactive agency and action-initiation versus receptive, responsive orientation. Grounded in DeYoung's Assertiveness aspect of Extraversion. Each item targets a distinct content area (decision tempo, leadership, impact drive, persuasion, control orientation, initiative, self-direction, voice) rather than repeating the act-fast or take-charge frame. Not about people (that is B1) and not about stimulation or novelty (that is A2).
+All items vary proactive agency and action-initiation versus receptive, responsive orientation. Grounded in DeYoung's Assertiveness aspect of Extraversion. Each item targets a distinct content area (decision tempo, leadership, impact drive, persuasion, control orientation, initiative, self-direction, competition) rather than repeating the act-fast or take-charge frame. Not about people (that is B1) and not about stimulation or novelty (that is A2).
 
 | # | Scenario stem | Outward pole (agentic) | Inward pole (receptive) |
 |---|---|---|---|
@@ -262,7 +262,7 @@ All items vary proactive agency and action-initiation versus receptive, responsi
 | B2.5 | You prefer to… | "Hold the reins." | "Adapt to what arrives." |
 | B2.6 | If something needs doing, you… | "Do it." | "Let it find the right person." |
 | B2.7 | You mostly… | "Set your own course." | "Respond to what's asked of you." |
-| B2.8 | When something needs driving forward, you… | "Take the wheel." | "Back whoever takes it." |
+| B2.8 | When there's something to win, you… | "Go for it." | "Let others have it." |
 
 **Notes.** All 32 items are gender-neutral and identity-agnostic (Pride-inclusive by construction). Both poles of every item are affirming. Two distinct bias controls operate, and they address different biases. (1) Pole direction is randomized at render time, which counters position bias. (2) The bipolar two-anchor format, where the respondent chooses between two statements rather than agreeing or disagreeing with one, counters acquiescence bias. This is the same function reverse-keying serves in a unipolar agree-disagree format. The v0.8 draft conflated these two mechanisms; this note corrects it. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75. Note that with this v0.9 bank, apparent alpha may run lower than the v0.8 bank because redundant paraphrases have been removed; that is the correct trade, since the earlier inflation was measuring overlap, not signal.
 
