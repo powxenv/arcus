@@ -2,6 +2,19 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.14 (2026-06-18): Test 1 post-rebuild verification, three residual fixes
+
+Why: the user asked again whether I was truly confident. Honest answer was no, because I had claimed an end-to-end re-read in v0.13 that I had not actually completed after the final two edits of that pass. Verification on the current state found three real issues.
+
+Changes:
+- B2.8 rewritten. Was "your voice in a room is one you make sure is heard," which overlapped B1 (social presence) and Test 3 (identity expression), not DeYoung Assertiveness cleanly. Now "when something needs driving forward, you take the wheel / back whoever takes it" (pure agency, the construct B2 is grounded in). This was a new confound introduced by the v0.13 rebuild.
+- B2.3 grammar fixed. Was "you want to ___ how things turn out. Affect / Let be." The blank-fill broke because "let be" is intransitive and does not parse in the frame. Now "Shape / Let unfold," both of which fit the frame grammatically.
+- §7 bias statement corrected. A third copy of the old conflated statement ("counters position and acquiescence bias") survived in §7 even after §8 Notes and the item-writing-rules paragraph were fixed in v0.13. Now correctly distinguishes position bias (pole alternation) from acquiescence bias (statement-choice format).
+
+Process note. The v0.13 "verified" claim was made for a doc state that no longer existed, because two post-re-read edits were made without a follow-up re-read. This is the same local-audit failure that has recurred across the conversation. The fix is not to promise better discipline but to actually re-read after every edit batch, including the verification pass itself. Done here.
+
+Net: B2 is now construct-pure (no B1 or Test 3 overlap), B2.3 parses, and all three copies of the bias-control statement agree.
+
 ## v0.13 (2026-06-18): Test 1 full item-bank rebuild, content validity
 
 Why: the user asked for a critical review of every question. A full end-to-end re-read of the 32 items against the item-writing rules found a systemic redundancy problem in A1 and A2 (the same class of problem caught in B2 one round earlier, missed because A1 and A2 had been treated as the clean facets), plus construct drift, valence asymmetry, and a documentation error in the Notes.

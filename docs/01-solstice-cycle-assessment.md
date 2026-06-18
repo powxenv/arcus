@@ -1,6 +1,6 @@
 # Test 1: The Solstice Cycle Assessment (SCA)
 
-> Status: v0.9 design document. Full item-bank rebuild for content validity. Redundancy removed, drift removed, valence balanced, bias-control documentation corrected.
+> Status: v0.10 design document. Post-rebuild verification pass complete. Three residual issues fixed (B2.8 social confound, B2.3 grammar, §7 bias-statement duplication).
 > Position: The solstice-themed test of the four-test Solstice Soul suite.
 > Theme served: June Solstice (light and dark, cycles, turning points).
 > Honesty statement: The SCA is an original, theory-informed assessment for reflection and play. Its structure is inspired by validated models of affect (Russell's circumplex) and motivation (approach and withdrawal). It is not independently validated and is not clinical. Seasonal names are an interpretive metaphor, not a claim that personality is literally seasonal. Two further honesty notes: (1) Russell's circumplex is a model of momentary affect, a state model. We use its structure to organize trait-like dispositions, a move supported by the trait-affect literature but stated here openly rather than implied. (2) The June solstice is summer in the Northern Hemisphere and winter in the Southern. The SCA uses internal, hemisphere-neutral seasons and does not assume a hemisphere.
@@ -173,7 +173,7 @@ This is the hybrid dimensional and prototypical pattern Kerber et al. (2021) adv
                                        tap a pip
 ```
 
-Each item shows two anchor statements (the two poles of the axis) with seven discrete, clickable segments between them. The midpoint is neutral. Pole direction alternates per item to counter position and acquiescence bias.
+Each item shows two anchor statements (the two poles of the axis) with seven discrete, clickable segments between them. The midpoint is neutral. Pole direction alternates per item to counter position bias; the bipolar two-anchor format itself counters acquiescence bias.
 
 **Why a seven-point bipolar Likert, not a percentage slider.**
 The v0.1 draft proposed a 0 to 100 slider. The literature forced a reversal.
@@ -257,12 +257,12 @@ All items vary proactive agency and action-initiation versus receptive, responsi
 |---|---|---|---|
 | B2.1 | When a decision is yours, you… | "Make it and move." | "Sit with it before acting." |
 | B2.2 | In groups, you tend to… | "Step forward and lead." | "Support whoever steps forward." |
-| B2.3 | You want to ___ how things turn out. | "Affect." | "Let be." |
+| B2.3 | You want to ___ how things turn out. | "Shape." | "Let unfold." |
 | B2.4 | When views differ, you… | "Try to bring others to yours." | "Try to take in others'." |
 | B2.5 | You prefer to… | "Hold the reins." | "Adapt to what arrives." |
 | B2.6 | If something needs doing, you… | "Do it." | "Let it find the right person." |
 | B2.7 | You mostly… | "Set your own course." | "Respond to what's asked of you." |
-| B2.8 | Your voice in a room is… | "One you make sure is heard." | "One you're fine letting others carry." |
+| B2.8 | When something needs driving forward, you… | "Take the wheel." | "Back whoever takes it." |
 
 **Notes.** All 32 items are gender-neutral and identity-agnostic (Pride-inclusive by construction). Both poles of every item are affirming. Two distinct bias controls operate, and they address different biases. (1) Pole direction is randomized at render time, which counters position bias. (2) The bipolar two-anchor format, where the respondent chooses between two statements rather than agreeing or disagreeing with one, counters acquiescence bias. This is the same function reverse-keying serves in a unipolar agree-disagree format. The v0.8 draft conflated these two mechanisms; this note corrects it. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75. Note that with this v0.9 bank, apparent alpha may run lower than the v0.8 bank because redundant paraphrases have been removed; that is the correct trade, since the earlier inflation was measuring overlap, not signal.
 
