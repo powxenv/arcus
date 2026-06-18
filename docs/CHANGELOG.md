@@ -2,6 +2,38 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.13 (2026-06-18): Test 1 full item-bank rebuild, content validity
+
+Why: the user asked for a critical review of every question. A full end-to-end re-read of the 32 items against the item-writing rules found a systemic redundancy problem in A1 and A2 (the same class of problem caught in B2 one round earlier, missed because A1 and A2 had been treated as the clean facets), plus construct drift, valence asymmetry, and a documentation error in the Notes.
+
+Changes:
+
+Redundancy removed (the main fix):
+- A1 rebuilt. 5 of 8 high poles were near-synonymous (hum, running, primed, lit, charged). New 8 items each target a distinct content area: waking state, default attention, inner current, default readiness, idle charge, somatic primed-ness, external read, comparative frame.
+- A2 rebuilt. ~3 underlying questions stretched to 8. New 8 items each target a distinct content area: sensory intensity, environmental density, pace, input volume, satiation threshold, activity level, variety, comparative frame.
+- B1 rebuilt. Removed redundancy between new-people items and between seeking items. New 8 items target: distress sharing, new-people approach, group positioning, close-relationship initiation, circle breadth, default orientation, energy source, connection direction.
+- B2 rebuilt. Removed B2.1/4 redundancy (impact/drive) and B2.2/5 redundancy (act-fast). New 8 items target: decision tempo, leadership, impact drive, persuasion, control orientation, initiative, self-direction, voice.
+
+Construct drift removed:
+- A1.1: removed "wanting to get into things" agency clause.
+- A2.2: removed HSP confound (loud/bright/retreat/drain). Now clean environmental density.
+- A2.6: removed energy-variability item (spiky/even). Now activity level.
+- A1.8: removed physiological introspection (heart rate). Now comparative frame.
+
+Valence asymmetry balanced:
+- B1.6: "effort/hang back" negative inward pole replaced with neutral orientation.
+- B1.3: "corner" (hiding implication) replaced with "edges."
+- B2.7: valence-pulled inward pole replaced.
+- A2.5: "more than you can track" (overload implication) removed.
+
+State contamination removed:
+- B1.5: "when life gets intense" state frame replaced with trait circle-breadth item.
+
+Documentation corrected:
+- Notes section. Corrected the conflation of pole randomization (counters position bias) with reverse-keying (counters acquiescence bias). The bipolar format counters acquiescence via statement-choice, not via pole randomization. Added a note that apparent alpha may run lower than v0.8 because redundant paraphrases were removed, and that this is the correct trade.
+
+Net: ~28 of 32 items revised. Apparent alpha will drop; actual construct validity rises. The discipline applied here (full-bank end-to-end re-read, not local audit) should have been the default from the second audit onward.
+
 ## v0.12 (2026-06-18): Test 1 second audit, B2 regrounding, profile consistency
 
 Why: the user asked whether I was truly confident Test 1 aligned with the goals. Honest answer was no. A full re-read of the items and profile doc against the v0.7 framework found four more issues, one substantive, all introduced or missed by my own earlier edits.

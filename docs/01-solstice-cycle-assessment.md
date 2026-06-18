@@ -1,6 +1,6 @@
 # Test 1: The Solstice Cycle Assessment (SCA)
 
-> Status: v0.8 design document. Second audit pass complete. B2 regrounded as Agency (DeYoung Assertiveness), items de-confounded, profile section renamed for theme consistency.
+> Status: v0.9 design document. Full item-bank rebuild for content validity. Redundancy removed, drift removed, valence balanced, bias-control documentation corrected.
 > Position: The solstice-themed test of the four-test Solstice Soul suite.
 > Theme served: June Solstice (light and dark, cycles, turning points).
 > Honesty statement: The SCA is an original, theory-informed assessment for reflection and play. Its structure is inspired by validated models of affect (Russell's circumplex) and motivation (approach and withdrawal). It is not independently validated and is not clinical. Seasonal names are an interpretive metaphor, not a claim that personality is literally seasonal. Two further honesty notes: (1) Russell's circumplex is a model of momentary affect, a state model. We use its structure to organize trait-like dispositions, a move supported by the trait-affect literature but stated here openly rather than implied. (2) The June solstice is summer in the Northern Hemisphere and winter in the Southern. The SCA uses internal, hemisphere-neutral seasons and does not assume a hemisphere.
@@ -168,8 +168,8 @@ This is the hybrid dimensional and prototypical pattern Kerber et al. (2021) adv
 **Format: a scenario stem plus a seven-point bipolar Likert between two anchor statements.**
 
 ```
-"It's your first free morning in a while. No plans, no alarm."
-[ I wake buzzing, wanting to get into things • • • • • • I let the day unfold slowly and calmly ]
+"At rest, your attention is…"
+[ Switched on, scanning • • • • • • Quiet, observing without scanning ]
                                        tap a pip
 ```
 
@@ -202,69 +202,69 @@ Explicitly avoided: binary A/B forced choice (no bimodality, discards informatio
 - Axis A, Solar Height: A1 Baseline Arousal (tonic activation, your default energy set-point), A2 Stimulation Appetite (preferred input and activity level).
 - Axis B, Tidal Direction: B1 Social Approach (toward or away from people, DeYoung Enthusiasm aspect), B2 Agency (proactive action and initiation versus receptive response, DeYoung Assertiveness aspect). B2 was renamed from "experiential approach" (v0.9) and from "expressive disclosure" (v0.8); both earlier names were either off-construct or overlapping with Test 3. The two facets now map exactly to DeYoung's validated two-aspect structure of Extraversion.
 
-**Item-writing rules applied.** Vary exactly one facet per item. True antonym poles on a single dimension. Neutral language (behavior, not virtue). No transparent giveaways. Gender-neutral and identity-agnostic. Both poles affirming. Pole direction randomized at render time to counter position and acquiescence bias.
+**Item-writing rules applied.** Vary exactly one facet per item. True antonym poles on a single dimension. Neutral language (behavior, not virtue). No transparent giveaways. Gender-neutral and identity-agnostic. Both poles affirming. Two bias controls: pole direction randomized at render time (counters position bias), and the bipolar two-anchor format where respondents choose between two statements rather than agreeing or disagreeing with one (counters acquiescence bias, the function reverse-keying serves in a unipolar format).
 
 ### Facet A1: Baseline Arousal (8 items)
 
-All items vary tonic activation only.
+All items vary the tonic activation set-point. Each item targets a distinct content area (waking state, default attention, inner current, default readiness, idle charge, somatic primed-ness, external read, comparative frame) rather than paraphrasing one idea. No agency, social, or stimulation-volume language.
 
 | # | Scenario stem | Bright pole (high activation) | Dim pole (low activation) |
 |---|---|---|---|
-| A1.1 | First free morning in a while. No plans, no alarm. | "I wake buzzing, wanting to get into things." | "I let the day unfold slowly and calmly." |
-| A1.2 | When you walk into a room, your baseline is… | "Switched on, alert, ready to react." | "Settled, calm, observing without strain." |
-| A1.3 | Your default resting state, nothing demanded… | "A hum. Something is always running." | "A stillness. Calm is my default." |
-| A1.4 | People who know you well would say your inner state is… | "High-output. A lot runs in me." | "Low-output. I run quiet and steady." |
-| A1.5 | Your inner engine, at rest, idles… | "High. Even at rest I'm primed." | "Low. At rest I'm genuinely still." |
-| A1.6 | At your most ordinary moment, you are… | "Lit up, current flowing." | "Dialled down, quiet inside." |
-| A1.7 | When you sit with nothing to do… | "I feel a charge building in me." | "I settle into stillness easily." |
-| A1.8 | Physiologically, your resting baseline runs… | "Fast. Heart rate up, easily warmed." | "Slow. Heart rate low, runs cool." |
+| A1.1 | When you wake, you're… | "Already at full charge." | "Still coming online, quietly." |
+| A1.2 | At rest, your attention is… | "Switched on, scanning." | "Quiet, observing without scanning." |
+| A1.3 | Inside you, there's… | "A steady current running." | "A stillness." |
+| A1.4 | Your default state is closer to… | "Readiness." | "Rest." |
+| A1.5 | Left with nothing to do, you feel… | "Charged." | "Settled." |
+| A1.6 | Your body at rest is… | "Primed." | "Deeply still." |
+| A1.7 | Other people tend to read you as… | "High-energy." | "Low-key." |
+| A1.8 | Compared to most people, you run… | "Hotter." | "Cooler." |
 
 ### Facet A2: Stimulation Appetite (8 items)
 
-All items vary preferred input and activity level only.
+All items vary preferred stimulation level. Each item targets a distinct content area (sensory intensity, environmental density, pace, input volume, satiation threshold, activity level, variety, comparative frame). No sensory-processing-sensitivity language (no "drains me", "overwhelmed"), no energy-variability language (no "spiky", "peaks").
 
 | # | Scenario stem | Bright pole (seeks stimulation) | Dim pole (limits stimulation) |
 |---|---|---|---|
-| A2.1 | How much stimulation do you want in a given hour? | "A lot. Input and activity keep me lit." | "A little. I prefer a calm, low-stimulus current." |
-| A2.2 | Loud, bright, busy environments… | "I seek them out. They charge me." | "I retreat from them. They drain me." |
-| A2.3 | After something stimulating, your appetite for more is… | "Whetted. I want the next thing." | "Satisfied. I want to dial back." |
-| A2.4 | Your ideal day is… | "Packed, varied, lots happening." | "Spacious, quiet, few demands." |
-| A2.5 | If you had to choose, you'd take… | "More going on than you can track." | "Less going on, with room to spare." |
-| A2.6 | A typical week's energy pattern is… | "Spiky. Peaks, bursts, high output." | "Even. Steady, moderate, sustainable." |
-| A2.7 | When you can choose your surroundings… | "I want a lot going on around me." | "I want very little going on around me." |
-| A2.8 | The level of sensory input you function best at is… | "High. I need a lot of signal." | "Low. I do my best with less." |
+| A2.1 | The sensory intensity you prefer is… | "Intense." | "Gentle." |
+| A2.2 | You prefer your environment… | "Busy and full." | "Sparse and open." |
+| A2.3 | The pace you prefer is… | "Fast." | "Slow." |
+| A2.4 | The volume of input coming in that you want is… | "High." | "Low." |
+| A2.5 | It takes ___ stimulation for you to feel it's enough. | "A lot of." | "A little." |
+| A2.6 | Most of the time, you want to be… | "Actively doing." | "Mostly still." |
+| A2.7 | You prefer things… | "Changing and varied." | "Steady and uniform." |
+| A2.8 | Compared to most people, you run on… | "More stimulation." | "Less stimulation." |
 
 ### Facet B1: Social Approach (8 items)
 
-All items vary orientation toward or away from people only.
+All items vary orientation toward or away from people. Each item targets a distinct content area (distress sharing, new-people approach, group positioning, close-relationship initiation, circle breadth, default orientation, energy source, connection direction). No state-framed language (no "when tired", "when low"), no negative-valence inward poles (no "corner", "effort", "demand").
 
 | # | Scenario stem | Outward pole (toward people) | Inward pole (away from people) |
 |---|---|---|---|
-| B1.1 | Something difficult is on your mind. First move? | "Talk it out with someone." | "Sit with it alone first." |
-| B1.2 | You land somewhere new, knowing no one. | "I open up to new people right away." | "I stay close to myself and let things come slowly." |
-| B1.3 | At a gathering of people you half-know… | "Move toward the room. Circulate, join in." | "Find one person or a corner. Small and close rather than many." |
-| B1.4 | In your closest relationships, you're more often the one who… | "Reaches out, initiates, extends toward." | "Holds space, waits, lets others come to you." |
-| B1.5 | When life gets intense, your reflex with people is to… | "Get closer to them." | "Get more distance from them." |
-| B1.6 | Meeting new people feels mostly… | "Like an opening. I lean in." | "Like an effort. I hang back." |
-| B1.7 | In a group, you tend to… | "Move toward the center." | "Move toward the edges." |
-| B1.8 | Connection with others is mostly something you… | "Go out and get." | "Wait to receive." |
+| B1.1 | When something's on your mind, you want to… | "Talk it out with someone." | "Sit with it alone." |
+| B1.2 | Meeting new people is something you… | "Move toward." | "Let come to you." |
+| B1.3 | In a group, you move toward… | "The center." | "The edges." |
+| B1.4 | In your close relationships, you tend to… | "Reach out first." | "Wait to be reached out to." |
+| B1.5 | Your circle of people tends to… | "Expand over time." | "Stay close and small." |
+| B1.6 | Your default orientation is toward… | "People." | "Your own world." |
+| B1.7 | Your primary energy source is… | "Other people." | "Solitude." |
+| B1.8 | Connection with others is something you… | "Actively pursue." | "Let find you." |
 
 ### Facet B2: Agency (8 items)
 
-All items vary proactive agency and action-initiation versus receptive, responsive orientation. Grounded in DeYoung's Assertiveness aspect of Extraversion. Each item targets a distinct content area (initiation, decision tempo, impact drive, leadership, agency in ambiguity, persistence, control, self-direction) rather than repeating a single frame. Not about people (that is B1) and not about stimulation or novelty (that is A2).
+All items vary proactive agency and action-initiation versus receptive, responsive orientation. Grounded in DeYoung's Assertiveness aspect of Extraversion. Each item targets a distinct content area (decision tempo, leadership, impact drive, persuasion, control orientation, initiative, self-direction, voice) rather than repeating the act-fast or take-charge frame. Not about people (that is B1) and not about stimulation or novelty (that is A2).
 
 | # | Scenario stem | Outward pole (agentic) | Inward pole (receptive) |
 |---|---|---|---|
-| B2.1 | When free energy is available, it flows toward… | "Making an impact on the world." | "Taking in and reflecting on the world." |
-| B2.2 | A decision is yours to make. You… | "Make it and move." | "Let it settle, then respond." |
-| B2.3 | A group needs to move forward. You… | "Step up and set the direction." | "Support whoever steps up." |
-| B2.4 | You're most yourself when… | "Driving something forward." | "Receiving and integrating what comes." |
-| B2.5 | In ambiguous situations, you… | "Act first, refine as you go." | "Wait for the shape to clarify." |
-| B2.6 | When something could be done or left, you… | "Do it. I'd rather act." | "Let it be, unless it calls." |
-| B2.7 | Your relationship to control is… | "I'd rather hold the reins." | "I'd rather adapt to what arrives." |
-| B2.8 | Your default mode is… | "Self-directed. I set my own course." | "Responsive. I meet what comes." |
+| B2.1 | When a decision is yours, you… | "Make it and move." | "Sit with it before acting." |
+| B2.2 | In groups, you tend to… | "Step forward and lead." | "Support whoever steps forward." |
+| B2.3 | You want to ___ how things turn out. | "Affect." | "Let be." |
+| B2.4 | When views differ, you… | "Try to bring others to yours." | "Try to take in others'." |
+| B2.5 | You prefer to… | "Hold the reins." | "Adapt to what arrives." |
+| B2.6 | If something needs doing, you… | "Do it." | "Let it find the right person." |
+| B2.7 | You mostly… | "Set your own course." | "Respond to what's asked of you." |
+| B2.8 | Your voice in a room is… | "One you make sure is heard." | "One you're fine letting others carry." |
 
-**Notes.** All 32 items are gender-neutral and identity-agnostic (Pride-inclusive by construction). Both poles of every item are affirming. For the bipolar two-anchor format, pole direction is randomized at render time, which is the functional equivalent of reverse-keying in a unipolar agree-disagree format and counters position and acquiescence bias. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75.
+**Notes.** All 32 items are gender-neutral and identity-agnostic (Pride-inclusive by construction). Both poles of every item are affirming. Two distinct bias controls operate, and they address different biases. (1) Pole direction is randomized at render time, which counters position bias. (2) The bipolar two-anchor format, where the respondent chooses between two statements rather than agreeing or disagreeing with one, counters acquiescence bias. This is the same function reverse-keying serves in a unipolar agree-disagree format. The v0.8 draft conflated these two mechanisms; this note corrects it. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75. Note that with this v0.9 bank, apparent alpha may run lower than the v0.8 bank because redundant paraphrases have been removed; that is the correct trade, since the earlier inflation was measuring overlap, not signal.
 
 **Overlap honesty.** Axis B (approach and withdrawal) overlaps with the sociability facet of Big Five Extraversion. Axis A (activation) overlaps with Extraversion's assertiveness and energy facet and with Neuroticism's arousal component. These are validated constructs we build on, not inventions. The SCA's contribution is the combination, the facet structure, and the cyclical framing.
 
