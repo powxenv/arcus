@@ -1,6 +1,6 @@
 # Test 2: The Modes of Mind Assessment (MMA)
 
-> Status: v0.1 design document. Concept locked, item bank in review.
+> Status: v0.2 design document. 32-item facet-organized bank.
 > Position: The Turing-themed test of the four-test Solstice Soul suite.
 > Theme served: Alan Turing (computing, code-breaking, AI, the many valid ways a mind can compute).
 > Honesty statement: The MMA is an original, theory-informed assessment for reflection and play. Its axes are inspired by validated models of cognition (Epstein dual-process theory, Riding's cognitive styles). It is not independently validated and is not clinical. The four result names are an interpretive metaphor drawn from computing and Turing's own work, not a claim that human minds are literally algorithms.
@@ -111,7 +111,7 @@ Why "The Cipher" is Sequential plus Intuitive: a cryptanalyst works sequentially
 
 ## 6. Methodology and scoring
 
-**Step 1, collect.** 16 responses, each 1 to 7.
+**Step 1, collect.** 32 responses, each 1 to 7.
 
 **Step 2, direction-normalize.** Map each item so a higher value always means more Deliberate (Axis C) or more Sequential (Axis D). Reverse-keyed items are inverted.
 
@@ -157,49 +157,77 @@ Explicitly avoided: binary forced choice (McCrae and Costa 1989 dichotomizing fl
 
 ## 8. Number of questions
 
-**16 items, 8 per axis.** Inherited from the locked suite template. Grounded in Spearman-Brown and NEO-PI-R / IPIP precedent (Gosling et al. 2003; Gliem and Gliem 2003).
+**32 items, facet-organized.** 2 axes, 2 facets per axis, 8 items per facet. Matches the NEO-PI-R facet standard. Roughly 8 to 10 minutes.
 
-### Item-writing rules applied (from Test 1 rigor check)
+**Facet structure.**
+- Axis C, Processing Mode: C1 Deliberation Preference (preference for and engagement in effortful thinking, Need for Cognition core), C2 Override Tendency (checking and verifying intuitions, Cognitive Reflection core).
+- Axis D, Encoding Structure: D1 Entry Point (parts-first versus whole-first when approaching new information), D2 Decomposition Habit (tendency to break down versus synthesize).
 
-- Vary exactly one axis per item. No item that mixes processing mode with encoding structure.
-- True antonym poles on a single dimension. Not two vibes.
-- Neutral language. Poles describe behavior, not virtue.
-- No transparent giveaways that invite self-flattery.
-- Gender-neutral and identity-agnostic. Both poles affirming.
+**Item-writing rules applied.** Vary exactly one facet per item. No item mixes processing mode with encoding structure. True antonym poles on a single dimension. Neutral language (behavior, not virtue). No transparent giveaways. Gender-neutral and identity-agnostic. Both poles affirming. Pole direction randomized at render time.
 
-### Item bank v0.1, Axis C: Processing Mode (deliberate versus intuitive)
+### Facet C1: Deliberation Preference (8 items)
 
-All items vary processing mode only. No encoding-structure language (no "steps", "whole", "parts", "big picture") that would confound with Axis D.
+All items vary preference for effortful thinking only. No encoding-structure language.
 
 | # | Scenario stem | Deliberate pole (System 2) | Intuitive pole (System 1) |
 |---|---|---|---|
-| C1 | A decision is in front of you and you have time. How do you decide? | "I work through it deliberately, step by step." | "I go with what feels right, then check it." |
-| C2 | Someone asks why you believe something. Your honest answer is closest to… | "I can lay out my reasons in order." | "I knew it before I could explain it." |
-| C3 | You get an answer quickly and it feels right. What do you do? | "Slow down and verify it before trusting it." | "Trust it, then move on." |
-| C4 | When you're learning something new, you prefer to… | "Understand the principles first, deliberately." | "Pick it up by doing, before I have the theory." |
-| C5 | How often do you enjoy effortful, slow thinking for its own sake? | "Often. I like grinding through a hard problem." | "Rarely. I'd rather get to the answer and move on." |
-| C6 | A gut feeling conflicts with your analysis. You tend to… | "Follow the analysis." | "Follow the gut, even if I can't justify it yet." |
-| C7 | Your natural speed for hard problems is best described as… | "Slow and careful. I take the time to be right." | "Fast. I land on answers before I can show my work." |
-| C8 | When you can't explain how you know something, you… | "Don't fully trust it until I can." | "Trust it anyway. Some knowledge is pre-verbal." |
+| C1.1 | How often do you enjoy effortful, slow thinking for its own sake? | "Often. I like grinding through a hard problem." | "Rarely. I'd rather get to the answer and move on." |
+| C1.2 | When you're learning something new, you prefer to… | "Understand the principles first, deliberately." | "Pick it up by doing, before I have the theory." |
+| C1.3 | Your natural speed for hard problems is best described as… | "Slow and careful. I take the time to be right." | "Fast. I land on answers before I can show my work." |
+| C1.4 | A hard problem lands on you. Your impulse is to… | "Sit with it and work it through." | "Find the quickest path to an answer." |
+| C1.5 | You'd rather… | "Spend an hour understanding why." | "Spend an hour getting it done." |
+| C1.6 | Thinking hard feels… | "Satisfying. I seek it out." | "Costly. I'd rather avoid it." |
+| C1.7 | When something is complex… | "I want to map it fully before acting." | "I want to get the gist and act." |
+| C1.8 | Effortful reasoning is… | "My natural mode." | "Something I use only when I must." |
 
-### Item bank v0.1, Axis D: Encoding Structure (sequential versus holistic)
+### Facet C2: Override Tendency (8 items)
 
-All items vary encoding structure only. No processing-mode words (no "deliberate", "careful", "feel", "instinct") that would confound with Axis C.
+All items vary how much you check or verify your intuitions. Not about preference for thinking (that is C1).
+
+| # | Scenario stem | Deliberate pole (verifies) | Intuitive pole (trusts fast) |
+|---|---|---|---|
+| C2.1 | You get an answer quickly and it feels right. What do you do? | "Slow down and verify it before trusting it." | "Trust it, then move on." |
+| C2.2 | A gut feeling conflicts with your analysis. You tend to… | "Follow the analysis." | "Follow the gut, even if I can't justify it yet." |
+| C2.3 | When you can't explain how you know something, you… | "Don't fully trust it until I can." | "Trust it anyway. Some knowledge is pre-verbal." |
+| C2.4 | Your first instinct on a question is usually… | "A hypothesis I then check." | "Something I trust and run with." |
+| C2.5 | When you're confident fast… | "I still want to verify." | "I act on it." |
+| C2.6 | A quick judgment you made… | "Gets re-examined if I have time." | "Stands unless it clearly fails." |
+| C2.7 | Doubt, for you, is… | "A signal to dig deeper." | "A drag I'd rather skip." |
+| C2.8 | When the stakes are real… | "I override instinct with analysis." | "I trust instinct and analyze after." |
+
+### Facet D1: Entry Point (8 items)
+
+All items vary what registers first when approaching new information. No processing-mode words.
 
 | # | Scenario stem | Sequential pole (parts-first) | Holistic pole (whole-first) |
 |---|---|---|---|
-| D1 | You're handed a problem you've never seen before. First move? | "Break it into steps and solve each one." | "Get the overall shape of it, then fill in." |
-| D2 | You're explaining something you understand well. You tend to… | "Build it up piece by piece for the listener." | "Give the whole picture first, then refine." |
-| D3 | A complex system is in front of you. Where do you start? | "With the individual components and how each works." | "With the overall structure and what it's doing." |
-| D4 | When you read, your eye moves… | "Line by line, in order." | "Around the page, grabbing the shape of it first." |
-| D5 | You're building something (a meal, a design, a doc). You… | "Work through the parts in sequence." | "Hold the finished thing in mind, then realize it." |
-| D6 | A pile of details lands on you. You prefer to… | "Order them into a sequence and work through it." | "Stand back and find the pattern they form." |
-| D7 | How do you usually grasp a new idea? | "Component by component, until the whole assembles." | "Whole first, then I learn what the parts are." |
-| D8 | When the details don't add up to a sensible whole, you… | "Keep working the parts until they do." | "Step back and reconsider the shape of the whole." |
+| D1.1 | You're handed a problem you've never seen before. First move? | "Break it into steps and solve each one." | "Get the overall shape of it, then fill in." |
+| D1.2 | How do you usually grasp a new idea? | "Component by component, until the whole assembles." | "Whole first, then I learn what the parts are." |
+| D1.3 | When you read, your eye moves… | "Line by line, in order." | "Around the page, grabbing the shape of it first." |
+| D1.4 | A new subject. You start with… | "The basics, the building blocks." | "The big picture, what it's about." |
+| D1.5 | Entering a new situation… | "I notice the pieces first." | "I get the overall feel first." |
+| D1.6 | A new person… | "I register details about them first." | "I get an overall impression first." |
+| D1.7 | When information arrives… | "I take it in piece by piece." | "I take in the whole pattern." |
+| D1.8 | Your entry point into anything new is… | "The parts." | "The whole." |
 
-**Notes.** Pole direction is randomized at render time. All items are gender-neutral and identity-agnostic. Both poles of every item are affirming. A launch pass should add 2 to 4 buffer items per axis and drop the weakest by an internal-consistency check.
+### Facet D2: Decomposition Habit (8 items)
 
-**Overlap honesty.** Axis C (Processing Mode) overlaps with Big Five Conscientiousness (deliberate pole) and Openness (both poles, via intellectual engagement). Axis D (Encoding Structure) overlaps with Riding's Wholist-Analytic and weakly with Openness. These are validated constructs we build on, not inventions. The MMA's contribution is the combination and the cognitive (not personality) framing.
+All items vary how you work with information once you have it. Related to D1 but distinct: D1 is the moment of entry, D2 is the ongoing processing habit.
+
+| # | Scenario stem | Sequential pole (decomposes) | Holistic pole (synthesizes) |
+|---|---|---|---|
+| D2.1 | You're explaining something you understand well. You tend to… | "Build it up piece by piece for the listener." | "Give the whole picture first, then refine." |
+| D2.2 | A complex system is in front of you. Where do you start? | "With the individual components and how each works." | "With the overall structure and what it's doing." |
+| D2.3 | You're building something (a meal, a design, a doc). You… | "Work through the parts in sequence." | "Hold the finished thing in mind, then realize it." |
+| D2.4 | A pile of details lands on you. You prefer to… | "Order them into a sequence and work through it." | "Stand back and find the pattern they form." |
+| D2.5 | When the details don't add up to a sensible whole, you… | "Keep working the parts until they do." | "Step back and reconsider the shape of the whole." |
+| D2.6 | Faced with complexity… | "I decompose it into manageable units." | "I look for the unifying pattern." |
+| D2.7 | Your instinct with any system… | "Take it apart to understand it." | "Find what holds it together." |
+| D2.8 | Understanding, for you, comes from… | "Assembling parts into wholes." | "Grasping wholes that contain their parts." |
+
+**Notes.** All 32 items are gender-neutral and identity-agnostic. Both poles of every item are affirming. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75.
+
+**Overlap honesty.** Axis C (Processing Mode) overlaps with Big Five Conscientiousness (deliberate pole) and Openness (both poles, via intellectual engagement). Axis D (Encoding Structure) overlaps with Riding's Wholist-Analytic and weakly with Openness. These are validated constructs we build on, not inventions. The MMA's contribution is the combination, the facet structure, and the cognitive (not personality) framing.
 
 ---
 

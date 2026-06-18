@@ -2,6 +2,65 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.11 (2026-06-18): Test 1 theme-calibration pass, critical fixes
+
+Why: the user asked whether Test 1 truly aligned with the theme and our aims. A focused audit of the metaphor (not just the items) found a critical thematic inversion plus three substantive gaps that prior item-level audits had missed.
+
+Changes to `01-solstice-cycle-assessment.md`:
+
+Critical, thematic:
+- Fixed the solstice metaphor inversion. The near-center result was called a "personal solstice, a turning point," but a solstice is an extreme of light (the cycle's turn point), while the wheel center is the equinox (balance point). Renamed the near-center result to the **Threshold** (equinox position). The solstice poetry now correctly lives at the Axis-A extremes (Summer and Winter).
+- Rewrote section 3 (theme fit) to state the solstice-versus-equinox distinction explicitly and to commit Axis A to the energy/activation reading. "Bright" and "Dim" are now labeled as evocative metaphors for activation, not literal light.
+- Added honest note on Spring and Autumn placement: placed by current activation state (Spring low, Autumn high), with trajectory captured by angle gradation. Previously asserted as settled.
+- Added hemispheric framing to the honesty statement. June solstice is summer in the Northern Hemisphere, winter in the Southern. SCA is hemisphere-neutral.
+- Generalized the Summer essence from "the longest day" to "peak activation, the high point of the cycle."
+
+Substantive, structural:
+- Added the state-versus-trait caveat to the honesty statement. Russell's circumplex is a state model; we use its structure to organize trait-like dispositions, a move supported by trait-affect literature, now stated openly.
+- Justified the 0.28 prototypicality threshold (distance ~20 from center, ~14 points per axis, inner ~8 percent by area, designer-set and tunable). Was previously an unjustified magic number.
+- Defined the angle gradation bins: three 30-degree bands per quadrant (early, mid, late), measured from the quadrant entry edge. Was previously asserted without definition.
+- Fixed the section 9 fallback claim. Previously said "16 pre-written results" but only 4 base profiles exist. Now honestly states 4 season profiles plus 1 Threshold profile, modulated by gradation rules in 01b, producing 16 distinguishable output states.
+- Resolved the TEMPS contradiction. Section 4 cited "hyperthymic versus depressive temperament" as Axis A construct basis, but section 2.2 restricts TEMPS to flavor only. Removed from section 4.
+
+Item-level:
+- Rewrote B2.3 (was novelty-seeking, overlapping A2 stimulation appetite; now targets action toward a new activity).
+- Rewrote B2.7 (was values, off-construct; now targets approach versus withdraw in response situations).
+- Rewrote A1.8 ("hard to rile" drifted to Neuroticism reactivity; now measures resting physiological baseline).
+
+Doc hygiene:
+- Updated section 11 from stale "Open decisions" (suite template marked Pending) to "Status," reflecting the v0.3, v0.4, v0.6, v0.7 locks.
+- Updated `01b-solstice-result-profiles.md` gradation table: near-center renamed to Threshold, extreme Axis-A results flagged for the solstice beat.
+
+Net: the metaphor now passes the theme-fit test the prior passes were auditing around rather than through. Test 1 is ready to lock.
+
+## v0.10 (2026-06-18): Test 1 rigor pass, all seven audit fixes
+
+Why: a full audit of Test 1 against the locked v0.9 model surfaced six issues. Two were substantive (scoring contradicted the facet model; items confounded axes). This pass fixes all of them.
+
+Changes to `01-solstice-cycle-assessment.md`:
+- Section 6 rewritten to the hierarchical facet-then-axis computation, matching the v0.9 suite standard. Previously described flat axis means and contradicted section 8. Step 5 now reports the facet signature.
+- Added section 2.5 Facet grounding with citations: Thayer (energetic arousal) for A1, Zuckerman (sensation seeking) for A2, DeYoung et al. Big Five Aspect Scales (Enthusiasm and Assertiveness) for B1 and B2, Carver-White BAS subtypes as corroborating split for B2. Facets were previously asserted without support.
+- Rewrote A1.4 (removed "fill the space", social/outward confound) and A1.7 (removed "engage", approach confound). Both now measure pure tonic activation.
+- Rebuilt the B2 bank. The old 8 items repeated the move-toward/hang-back frame, inflating alpha without content validity. The new 8 items each target a distinct content area: energy direction, opportunity response, novelty tolerance, mode of being, tempo, initiative, value orientation, agency.
+- Differentiated A2.8 (stimulation intensity) from B2 content to remove overlap.
+- Patched A2.5 (both poles now affirming, removed over-stimulated/overwhelmed negative framing) and B1.5 (reframed from distress-state to trait approach under load).
+- Clarified in section 8 Notes that pole randomization is the functional equivalent of reverse-keying for the bipolar format.
+- Updated Spearman-Brown reference (was stale: "12 to 16"; now: 8-per-facet, .85 to .92 band).
+
+Net: section 6 and section 8 now agree. No item confounds an axis. Facets are grounded. B2 has real content validity. Test 1 is now ready to lock.
+
+## v0.9 (2026-06-18): 32-item standard, full update
+
+Why: the user questioned whether 16 items per test was enough for accuracy. Reliability math (Spearman-Brown) showed 4 items per facet was marginal (.60 to .70 alpha) versus the .85 to .92 strong band at 8 per facet. The 16-item count was inherited from marketing-quiz UX sources, not psychometrics.
+
+Changes:
+- Item standard raised from 16 to 32 per test (8 per facet). Matches the NEO-PI-R facet standard. Expected reliability moves from marginal to strong.
+- Time estimate: roughly 8 to 10 minutes per test, within personality-test norms.
+- `00-suite-framework.md` §2: updated item structure, scoring, added item-count rationale with reliability bands. §4: updated all facet counts to 8 each. Refined Test 1 Axis B facets from "social approach, expressive disclosure" to "social approach, experiential approach" to remove overlap with Test 3 Axis 2 (identity expression).
+- `01-solstice-cycle-assessment.md` and `02-modes-of-mind-assessment.md`: §6 methodology updated to 32 responses. §8 item banks rebuilt at 32 items each (8 per facet, facet-organized). Test 1 bank revised to match the refined facets.
+- `01b` and `02b` profile docs: facet sub-scores upgraded from optional enrichment to core reporting.
+- Tests 3 and 4 will be designed at 32 items from the start.
+
 ## v0.8 (2026-06-18): facet-level upgrade, honest ceiling locked
 
 Why: the framework was axis-level, which is the structure of a shallow quiz. The user asked whether questions, result types, and scoring were the most advanced achievable through research synthesis alone. Audit showed three design-only upgrades were available.

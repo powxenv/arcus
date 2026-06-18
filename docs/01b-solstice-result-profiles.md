@@ -33,7 +33,7 @@
 ### The Archetype
 You run hot and you run outward. When you enter a situation you raise its temperature, not by force but by generative presence. Yours is the energy of full summer. Things bloom around you because you bring light and momentum to them. You are most yourself in motion, making, connecting, giving.
 
-This is the zenith of the cycle. The longest day. The moment of fullest expression. Your gift is intensity turned into output. You do not just feel things strongly, you act on them, share them, build them into the world. The risk matches the gift. A sun that never sets burns out.
+This is the zenith of the cycle. The high point, peak activation. The moment of fullest expression. Your gift is intensity turned into output. You do not just feel things strongly, you act on them, share them, build them into the world. The risk matches the gift. A sun that never sets burns out.
 
 ### Core Motivations
 - To express fully. Bring what is inside into the world without dampening it.
@@ -102,7 +102,7 @@ This is the zenith of the cycle. The longest day. The moment of fullest expressi
 Your wholeness lives in the part of the cycle you tend to skip. Winter's stillness, depth, and restoration. The sun that rests returns brighter. Your deepest growth is permission to dim without fear.
 
 ### Your Solstice Moment
-"You are the longest day. Your art is learning that the night is not your enemy but the soil your light grows from."
+"You are the peak of the cycle, the moment the light turns. Your art is learning that the night is not your enemy but the soil your light grows from."
 
 ---
 
@@ -352,8 +352,8 @@ The base profile above is the quadrant archetype. A player's exact position on t
 
 | Signal | Meaning | Effect on the profile |
 |---|---|---|
-| High prototypicality (far from center) | Strongly that season | Report the archetype at full strength. |
-| Low prototypicality (near center) | Between types | Report the solstice turning-point framing. "You sit near a personal solstice, the pause between X and Y." Pull one or two lines from each adjacent season. |
+| High prototypicality (far from center) | Strongly that season | Report the archetype at full strength. The extreme Axis-A results (most Bright, most Dim) additionally carry a solstice beat, since those are the literal solstice positions on the wheel. |
+| Low prototypicality (near center) | Between types | Report the **Threshold** framing, the equinox position. "You sit at a threshold, the equinox point, the pause between X and Y where energy and stillness, outward and inward, are in balance." Pull one or two lines from each adjacent season. |
 | Near an axis boundary | Strong on one axis, neutral on the other | Emphasize the dominant axis. Soften the secondary. |
 | Angle maps to early, mid, or late | Position along the quadrant arc | Shift tone. "Early Summer" is building toward peak. "Late Autumn" is nearing the deep. |
 
@@ -361,6 +361,11 @@ This is the hybrid dimensional and prototypical structure (Kerber et al. 2021). 
 
 ---
 
-## Facet-style depth (optional enrichment)
+## Facet reporting (core, not optional)
 
-To approach Big-Five-style facet depth within our two-axis model, each axis can be reported with its component signals as sub-scores. For example, Axis A can split into baseline arousal, stimulation preference, energy distribution, and recovery rate. Axis B can split into social approach, affect expansion, creative direction, and regulatory direction. These are illustrative sub-groupings of the eight items per axis, not independently validated facets. Useful for the results screen's nuance, presented transparently as "what shaped your score."
+As of v0.9 the SCA is facet-organized. Every result reports the two axis scores and their four facet sub-scores. The facet signature lets a profile distinguish *which facet drove the axis score*.
+
+- Axis A, Solar Height: A1 Baseline Arousal, A2 Stimulation Appetite.
+- Axis B, Tidal Direction: B1 Social Approach, B2 Experiential Approach.
+
+A high-Bright result can now read "high on Solar Height, driven more by stimulation appetite than baseline arousal." A high-Outward result can read "outward mostly through experiential engagement, less through social approach." This is the depth that separates the SCA from a flat axis quiz. Facets are theory-grounded sub-dimensions of validated constructs, not independently validated facets; that line is stated on the results screen.

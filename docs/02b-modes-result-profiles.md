@@ -361,6 +361,11 @@ This is the hybrid dimensional and prototypical structure (Kerber et al. 2021). 
 
 ---
 
-## Facet-style depth (optional enrichment)
+## Facet reporting (core, not optional)
 
-To approach Big-Five-style facet depth within our two-axis model, each axis can be reported with its component signals as sub-scores. For example, Axis C (Processing Mode) can split into deliberation preference, override tendency, verification habit, and effort tolerance. Axis D (Encoding Structure) can split into entry-point preference, decomposition habit, scale of working memory, and tolerance for ambiguity. These are illustrative sub-groupings of the eight items per axis, not independently validated facets. Useful for the results screen's nuance, presented transparently as "what shaped your score."
+As of v0.9 the MMA is facet-organized. Every result reports the two axis scores and their four facet sub-scores. The facet signature lets a profile distinguish *which facet drove the axis score*.
+
+- Axis C, Processing Mode: C1 Deliberation Preference, C2 Override Tendency.
+- Axis D, Encoding Structure: D1 Entry Point, D2 Decomposition Habit.
+
+A high-Deliberate result can now read "deliberate mostly through override tendency, less through enjoying effortful thought." A high-Sequential result can read "sequential at entry, but synthesizes once engaged." This is the depth that separates the MMA from a flat axis quiz. Facets are theory-grounded sub-dimensions of validated constructs, not independently validated facets; that line is stated on the results screen.

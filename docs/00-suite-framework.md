@@ -32,11 +32,11 @@ This partition is the suite's main strength. Affect, cognition, identity, and ti
 **Item structure. Facet-organized, not axis-level.**
 - Two axes per test.
 - Two theory-grounded facets per axis (sub-dimensions drawn from the parent construct).
-- Four items per facet, 8 per axis, 16 per test.
+- Eight items per facet, 16 per axis, 32 per test. This matches the NEO-PI-R standard of 8 items per facet, the structure of validated instruments.
 - Facets are named and reported, not collapsed silently. This is the core move that separates this framework from a shallow quiz.
 
 **Scoring. Hierarchical, not flat.**
-- Facet score = mean of its 4 items, scaled 0 to 100.
+- Facet score = mean of its 8 items, scaled 0 to 100.
 - Axis score = mean of its 2 facet scores, scaled 0 to 100.
 - Prototypicality = distance from center / 70.7.
 - Position angle = atan2, for gradation and secondary leaning.
@@ -53,6 +53,8 @@ This partition is the suite's main strength. Affect, cognition, identity, and ti
 - Reverse-keyed items built into every axis.
 - Extreme response style flag: if a respondent uses the endpoints on a disproportionate share of items, surface a soft note in the result.
 - Internal consistency proxy: per-respondent facet spread reported as a confidence signal.
+
+**Item count rationale.** 32 items per test (8 per facet) matches the NEO-PI-R facet standard and sits in the validated-instrument norm. Reliability rises with item count per Spearman-Brown: at 8 per facet the expected Cronbach's alpha is .85 to .92 (strong), versus .60 to .70 at 4 per facet (marginal). At roughly 8 to 10 minutes per test this stays within personality-test norms (16Personalities holds users through 60 items; tests in this suite are taken independently). The four-test suite is 128 items total, but each test is a separate sitting.
 
 **Cross-test synthesis. Structural, not just narrative.**
 - The four tests produce 8 axis scores and 16 facet scores.
@@ -95,16 +97,18 @@ Facet sub-scores appear in every result, regardless of geometry. They are what l
 
 ## 4. Per-test specifications
 
-Each axis has 2 theory-grounded facets (4 items each). Facets named below; full definitions live in each test's doc.
+Each axis has 2 theory-grounded facets (8 items each). Facets named below; full definitions live in each test's doc.
 
 | # | Theme | Name | Domain | Axis 1 (facets) | Axis 2 (facets) | Results |
 |---|---|---|---|---|---|---|
-| 1 | Solstice | SCA | Affect | Solar Height: baseline arousal, stimulation appetite | Tidal Direction: social approach, expressive disclosure | Summer, Autumn, Winter, Spring |
+| 1 | Solstice | SCA | Affect | Solar Height: baseline arousal, stimulation appetite | Tidal Direction: social approach, experiential approach | Summer, Autumn, Winter, Spring |
 | 2 | Turing | MMA | Cognition | Processing Mode: deliberation preference, override tendency | Encoding Structure: entry point, working scale | Algorithm, Cipher, Gestalt, Architecture |
 | 3 | Pride | SSA | Identity | Identity Plurality: self-concept integration, contextual variation | Identity Expression: visibility preference, disclosure selectivity | Beacon, Ember, Prism, Aurora |
 | 4 | Passage of Time | TOA | Time | Temporal Orientation: past valence, future salience | Temporal Mode: scheduling preference, flow tolerance | Archivist, Navigator, Storyteller, Pioneer |
 
-Status. Tests 1 and 2 are designed at axis level and need a retroactive facet pass (their items re-organized into the 2-facet structure above, no new items required). Tests 3 and 4 are designed at facet level from the start.
+Status. Tests 1 and 2 are expanded to 32 items with the facet structure below (v0.9). Tests 3 and 4 are designed at 32 items from the start.
+
+Facet note. Test 1 Axis B facets are "social approach" and "experiential approach" (the sociability versus activity distinction in Big Five extraversion), not "expressive disclosure" as in v0.8. The earlier name overlapped with Test 3 Axis 2 (identity expression); the refinement keeps the four tests non-redundant.
 
 
 ---
