@@ -1,6 +1,6 @@
 # Test 1: The Solstice Cycle Assessment (SCA)
 
-> Status: v0.14 design document. All citations verified against full-text sources. Textural citations removed; every remaining reference directly grounds a design decision.
+> Status: v0.17 design document. v0.16's three judgment-call items (A1.5/A1.3 redundancy, A1.7 meta-perception confound, B2.8 competition confound) overruled for construct purity. Axis A compositing and intra-axis orthogonality honesty notes added. Threshold profile completed.
 > Position: The solstice-themed test of the four-test Solstice Soul suite.
 > Theme served: June Solstice (light and dark, cycles, turning points).
 > Honesty statement: The SCA is an original, theory-informed assessment for reflection and play. Its structure is inspired by validated models of affect (Russell's circumplex) and motivation (approach and withdrawal). It is not independently validated and is not clinical. Seasonal names are an interpretive metaphor, not a claim that personality is literally seasonal. Two further honesty notes: (1) Russell's circumplex is a model of momentary affect, a state model. We use its structure to organize trait-like dispositions, a move supported by the trait-affect literature but stated here openly rather than implied. (2) The June solstice is summer in the Northern Hemisphere and winter in the Southern. The SCA uses internal, hemisphere-neutral seasons and does not assume a hemisphere.
@@ -190,13 +190,15 @@ Explicitly avoided: binary A/B forced choice (no bimodality, discards informatio
 
 **Facet structure.**
 - Axis A, Solar Height: A1 Baseline Arousal (tonic activation, your default energy set-point), A2 Stimulation Appetite (preferred input and activity level).
+
+Honesty note. Unlike Axis B, whose two facets sit within a single validated domain (DeYoung's two-aspect Extraversion), Axis A composites two constructs from different research traditions — energetic arousal and sensation seeking — without a jointly validated higher-order activation factor. The compositing is a design choice. The facet signature recovers lost texture by reporting which sub-component drove the axis score.
 - Axis B, Tidal Direction: B1 Social Approach (toward or away from people, DeYoung Enthusiasm aspect), B2 Agency (proactive action and initiation versus receptive response, DeYoung Assertiveness aspect). B2 was renamed from "experiential approach" (v0.9) and from "expressive disclosure" (v0.8); both earlier names were either off-construct or overlapping with Test 3. The two facets now map exactly to DeYoung's validated two-aspect structure of Extraversion.
 
 **Item-writing rules applied.** Vary exactly one facet per item. True antonym poles on a single dimension. Neutral language (behavior, not virtue). No transparent giveaways. Gender-neutral and identity-agnostic. Both poles affirming. Two bias controls: pole direction randomized at render time (counters position bias), and the bipolar two-anchor format where respondents choose between two statements rather than agreeing or disagreeing with one (counters acquiescence bias, the function reverse-keying serves in a unipolar format).
 
 ### Facet A1: Baseline Arousal (8 items)
 
-All items vary the tonic activation set-point. Each item targets a distinct content area (waking state, default attention, inner current, default readiness, idle charge, somatic primed-ness, external read, comparative frame) rather than paraphrasing one idea. No agency, social, or stimulation-volume language.
+All items vary the tonic activation set-point. Each item targets a distinct content area (waking state, default attention, inner current, default readiness, transition speed, somatic primed-ness, evening energy, comparative frame) rather than paraphrasing one idea. No agency, social, or stimulation-volume language.
 
 | # | Scenario stem | Bright pole (high activation) | Dim pole (low activation) |
 |---|---|---|---|
@@ -204,9 +206,9 @@ All items vary the tonic activation set-point. Each item targets a distinct cont
 | A1.2 | When nothing demands your attention, your mind… | "Stays active." | "Settles into quiet." |
 | A1.3 | Inside you, there's… | "A steady current running." | "A stillness." |
 | A1.4 | Your default state is closer to… | "Readiness." | "Rest." |
-| A1.5 | Left with nothing to do, you feel… | "Charged." | "Settled." |
+| A1.5 | Moving from stillness into action, you… | "Shift quickly." | "Ease into it." |
 | A1.6 | Your body at rest is… | "Primed." | "Deeply still." |
-| A1.7 | Other people tend to read you as… | "High-energy." | "Low-key." |
+| A1.7 | At the end of a full day, you're… | "Still humming." | "Winding down." |
 | A1.8 | Compared to most people, you run… | "Hotter." | "Cooler." |
 
 ### Facet A2: Stimulation Appetite (8 items)
@@ -241,7 +243,7 @@ All items vary orientation toward or away from people. Each item targets a disti
 
 ### Facet B2: Agency (8 items)
 
-All items vary proactive agency and action-initiation versus receptive, responsive orientation. Grounded in DeYoung's Assertiveness aspect of Extraversion. Each item targets a distinct content area (decision tempo, leadership, impact drive, persuasion, control orientation, initiative, self-direction, competition) rather than repeating the act-fast or take-charge frame. Not about people (that is B1) and not about stimulation or novelty (that is A2).
+All items vary proactive agency and action-initiation versus receptive, responsive orientation. Grounded in DeYoung's Assertiveness aspect of Extraversion. Each item targets a distinct content area (decision tempo, leadership, impact drive, persuasion, control orientation, initiative, self-direction, pursuit orientation) rather than repeating the act-fast or take-charge frame. Not about people (that is B1) and not about stimulation or novelty (that is A2).
 
 | # | Scenario stem | Outward pole (agentic) | Inward pole (receptive) |
 |---|---|---|---|
@@ -252,7 +254,7 @@ All items vary proactive agency and action-initiation versus receptive, responsi
 | B2.5 | You prefer to… | "Hold the reins." | "Adapt to what arrives." |
 | B2.6 | If something needs doing, you… | "Do it." | "Let it find the right person." |
 | B2.7 | You mostly… | "Set your own course." | "Respond to what's asked of you." |
-| B2.8 | When there's something to win, you… | "Go for it." | "Let others have it." |
+| B2.8 | When something's yours to go after, you… | "Go after it." | "Let it come to you." |
 
 **Notes.** All 32 items are gender-neutral and identity-agnostic (Pride-inclusive by construction). Both poles of every item are affirming. Two distinct bias controls operate, and they address different biases. (1) Pole direction is randomized at render time, which counters position bias. (2) The bipolar two-anchor format, where the respondent chooses between two statements rather than agreeing or disagreeing with one, counters acquiescence bias. This is the same function reverse-keying serves in a unipolar agree-disagree format. The v0.8 draft conflated these two mechanisms; this note corrects it. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75. Note that with this v0.9 bank, apparent alpha may run lower than the v0.8 bank because redundant paraphrases have been removed; that is the correct trade, since the earlier inflation was measuring overlap, not signal.
 
@@ -268,7 +270,7 @@ A result has four layers, surfaced in order:
 3. **Your prototypicality** (radius). Strongly versus with nuance. Near-center yields the Threshold result, the equinox position.
 4. **Your narrative.** Two to three personalized paragraphs from the full answer pattern, ending with a "your moment on the cycle" line. Gemini layer per the GDD. Consumes the numeric profile and the per-item answers.
 
-**Deterministic fallback (no-API path).** 4 primary season profiles plus 1 Threshold profile, modulated by gradation (early, mid, late) and axis-boundary handling per `01b-solstice-result-profiles.md`. This produces 16 distinguishable output states (4 seasons × {early, mid, late, threshold} plus the pure-Threshold reading), all from 5 base profile templates and the modulation rules. The game is fully playable without the API. The API only enriches the narrative.
+**Deterministic fallback (no-API path).** 5 full base profiles (4 seasons + Threshold), modulated by gradation (early, mid, late) and axis-boundary handling per `01b-solstice-result-profiles.md`. This produces 16 distinguishable output states (4 seasons × {early, mid, late} plus the pure-Threshold reading and near-threshold readings), all from 5 base profile templates and the modulation rules. The game is fully playable without the API. The API only enriches the narrative.
 
 **Never reported as:** a diagnosis, a ranking, a compatibility score, or a fixed identity. Always framed as a snapshot of where your energy tends to live right now.
 

@@ -174,7 +174,9 @@ DeYoung, Quilty, and Peterson (2007) analyzed 75 facet scales from the NEO-PI-R 
 
 The SCA borrows this architecture directly for Axis B. Facet B1, Social Approach, maps to DeYoung's Enthusiasm aspect , it measures whether you move toward people or toward solitude. Facet B2, Agency, maps to DeYoung's Assertiveness aspect , it measures whether you initiate and lead or take a more receptive, responsive posture. The eight items in each facet target distinct content areas rather than paraphrasing one idea: for Social Approach, the items cover distress sharing, new-people approach, group positioning, close-relationship initiation, daily social density, default orientation, energy source, and connection style. For Agency, they cover decision tempo, leadership, impact drive, persuasion, control orientation, initiative, self-direction, and competitive drive.
 
-For Axis A, the two-facet structure follows the same logic but is the framework's own application of DeYoung's pattern to the activation domain. Facet A1, Baseline Arousal, draws on the energetic arousal construct , the awake-tired dimension of felt activation that Schimmack and Reisenzein (2002) demonstrated is a distinct activation type, not reducible to a mixture of valence and general activation. The A1 items cover waking state, default attention, inner phenomenology, default readiness, idle state, somatic activation, social perception, and comparative self-assessment. Facet A2, Stimulation Appetite, draws on the sensation-seeking construct , the preference for varied, novel, and intense stimulation that Zuckerman (2007) validated across hundreds of studies with the Sensation Seeking Scale. The A2 items cover sensory intensity, environmental density, pace, information volume, scheduling density, boredom susceptibility, variety, and comparative frame.
+For Axis A, the two-facet structure follows the same logic but is the framework's own application of DeYoung's pattern to the activation domain. Facet A1, Baseline Arousal, draws on the energetic arousal construct , the awake-tired dimension of felt activation that Schimmack and Reisenzein (2002) demonstrated is a distinct activation type, not reducible to a mixture of valence and general activation. The A1 items cover waking state, default attention, inner phenomenology, default readiness, transition speed, somatic activation, evening energy, and comparative self-assessment. Facet A2, Stimulation Appetite, draws on the sensation-seeking construct , the preference for varied, novel, and intense stimulation that Zuckerman (2007) validated across hundreds of studies with the Sensation Seeking Scale. The A2 items cover sensory intensity, environmental density, pace, information volume, scheduling density, boredom susceptibility, variety, and comparative frame.
+
+Unlike Axis B, which maps both facets onto a single validated domain (DeYoung's two-aspect Extraversion), Axis A composites two constructs from different research traditions — energetic arousal and sensation seeking — that have not been jointly validated as aspects of a single higher-order activation factor. The compositing is a design choice. The facet-level reporting recovers the lost texture: a high-Bright result can still distinguish whether it is driven by high baseline arousal, high stimulation appetite, or both.
 
 ### The format
 
@@ -194,9 +196,11 @@ The scoring is hierarchical. Your eight responses within each facet are averaged
 
 Your position is plotted on a two-dimensional plane with center at (50, 50). The four quadrants determine your season. If your Solar Height is above 50 and your Tidal Direction is above 50, you are Summer , Bright and Outward. Above 50 in Brightness and below 50 in Direction puts you in Autumn , Bright and Inward. Below 50 in both is Winter , Dim and Inward. Below 50 in Brightness and above 50 in Direction is Spring , Dim and Outward.
 
+The four quadrants treat the two axes as orthogonal. In practice, Solar Height and Tidal Direction are correlated — both load on Big Five Extraversion, Solar Height through Extraversion's energy and enthusiasm facets, Tidal Direction through Extraversion's sociability facet. The quadrant boundaries are approximate. The hybrid dimensional/prototypical reporting pattern, where the type is a label applied to continuous scores rather than a discrete cluster assignment, accommodates this. A person whose position is near a quadrant boundary receives gradation and leaning rather than a hard type switch.
+
 But the test gives you more than a quadrant label. Your exact position within your quadrant determines your gradation: early, mid, or late in the season. The phase angle , computed as atan2 of your two axis scores relative to the center , maps you to a specific angular position on the wheel. Each 90-degree quadrant is divided into three 30-degree bands: early (the first 30 degrees from the entry edge), mid, and late. "Late Autumn" means you are approaching Winter. "Early Summer" means the energy is still building toward peak.
 
-Your distance from the center , called prototypicality , tells you how clearly you embody your season. Far from center means you are strongly that season. Close to center means you are between types. If your prototypicality falls below a threshold of 0.28 , which corresponds to being within about 20 points of the center on both axes , the test reports the Threshold result. This is the equinox position on the wheel: a point of balance between seasons, where neither the energy pole nor the direction pole dominates. The Axis-A extremes , the most Bright and most Dim , are the literal solstice positions on the wheel, where the cycle reaches a peak and reverses direction. The June solstice is summer in the Northern Hemisphere and winter in the Southern; the SCA uses hemisphere-neutral seasons.
+Your distance from the center , called prototypicality , tells you how clearly you embody your season. Far from center means you are strongly that season. Close to center means you are between types. If your prototypicality falls below a threshold of 0.28 , which corresponds to being within about 14 points of the center on both axes (or within about 20 points on one axis while the other sits near center) , the test reports the Threshold result. This is the equinox position on the wheel: a point of balance between seasons, where neither the energy pole nor the direction pole dominates. The Axis-A extremes , the most Bright and most Dim , are the literal solstice positions on the wheel, where the cycle reaches a peak and reverses direction. The June solstice is summer in the Northern Hemisphere and winter in the Southern; the SCA uses hemisphere-neutral seasons.
 
 The facet signature is reported alongside the type , which facet drove which axis score. A high-Bright result might be driven mostly by Stimulation Appetite (you seek intensity) rather than Baseline Arousal (your resting energy is moderate). A high-Outward result might be driven mostly by Agency (you initiate and lead) rather than Social Approach (your people-orientation is balanced). This level of reporting , distinguishing which sub-component of a dimension is doing the work , is what separates a serious instrument from a single-number quiz. It is the same logic the NEO-PI-R uses when it reports that your high Extraversion is driven more by Assertiveness than by Warmth.
 
@@ -246,9 +250,9 @@ The SCA has not been validated through factor analysis of its items, test-retest
 | A1.2 | When nothing demands your attention, your mind… | Stays active. | Settles into quiet. |
 | A1.3 | Inside you, there's… | A steady current running. | A stillness. |
 | A1.4 | Your default state is closer to… | Readiness. | Rest. |
-| A1.5 | Left with nothing to do, you feel… | Charged. | Settled. |
+| A1.5 | Moving from stillness into action, you… | Shift quickly. | Ease into it. |
 | A1.6 | Your body at rest is… | Primed. | Deeply still. |
-| A1.7 | Other people tend to read you as… | High-energy. | Low-key. |
+| A1.7 | At the end of a full day, you're… | Still humming. | Winding down. |
 | A1.8 | Compared to most people, you run… | Hotter. | Cooler. |
 
 ### Axis A, Facet A2 , Stimulation Appetite
@@ -288,7 +292,7 @@ The SCA has not been validated through factor analysis of its items, test-retest
 | B2.5 | You prefer to… | Hold the reins. | Adapt to what arrives. |
 | B2.6 | If something needs doing, you… | Do it. | Let it find the right person. |
 | B2.7 | You mostly… | Set your own course. | Respond to what's asked of you. |
-| B2.8 | When there's something to win, you… | Go for it. | Let others have it. |
+| B2.8 | When something's yours to go after, you… | Go after it. | Let it come to you. |
 
 ---
 

@@ -346,6 +346,85 @@ Your wholeness lives in discernment. Autumn's capacity to keep what matters and 
 
 ---
 
+## ⚖️ The Threshold, The Equinox  (near-center)
+
+**Essence.** The balance point. Neither strongly seasonal. You sit at the equinox, where light and dark, outward and inward, are in equipoise.
+
+### The Archetype
+You do not live at one extreme of the cycle. You live at its center. This is not a lack of definition — it is its own position, with its own gifts. The equinox is the moment of equal light and dark, and people who live there see what the extremes cannot: both sides clearly, at once.
+
+You are hard to pin down because you contain multitudes without being dominated by any one of them. Your energy is moderate, your direction is flexible. You can move outward or inward, brighten or dim, depending on what the moment asks. You are the bridge between seasons, and you belong to all of them without being claimed by any.
+
+### Core Motivations
+- To see clearly, from the center, without distortion.
+- To adapt and respond rather than impose.
+- To hold balance — in yourself and in your context.
+- To move freely across the cycle rather than commit to one season.
+
+### Behavioral Patterns
+- Moderate, even energy across situations. Neither loud nor withdrawn.
+- Flexible orientation — you can lead or follow, engage or step back.
+- Others may find you hard to read, because your signals are mixed.
+- You shift easily between social and solitary modes.
+- You are often the one who can translate between very different people.
+
+### Strengths
+- Perspective. You see what each extreme misses.
+- Adaptability. You fit many contexts without losing yourself.
+- Low ego. You do not need to dominate or perform.
+- Bridge-building. You connect different temperaments.
+- Comfort with ambiguity. You do not need things to resolve neatly.
+
+### Blind Spots
+- Drift. Without a strong pull in any direction, you may float.
+- Indecision. Seeing all sides can make it hard to pick one.
+- Being underestimated. Others may read moderation as lack of depth.
+- Unclaimed identity. You may avoid naming who you are.
+- Blending in so well you forget you are a presence, not just a mirror.
+
+### Growth Edges
+- Claim your position. The center is not neutral — it has power.
+- Practice choosing. Not every decision needs to hold both sides.
+- Let yourself be seen — your balance is a gift, not an absence.
+- Resist the pull to be what others need. Be what you are.
+
+### In Relationships
+- You offer understanding, flexibility, and genuine presence.
+- Partners may feel you are too accommodating, or too hard to read.
+- You thrive with people who value equilibrium, not intensity.
+- Growth: let yourself be wanted, not just useful.
+
+### Work Style
+- Excellent at integration, mediation, synthesis, and diplomacy.
+- You shine in roles requiring balance and multi-perspective thinking.
+- Risk: being overlooked. Your value is quiet and structural.
+- Ideal: environments that reward wisdom over volume.
+
+### Decision-Making
+- Comprehensive, considered, multi-angle.
+- You rarely make rash calls.
+- Risk: prolonged deliberation. The center can become a holding pattern.
+- Strength: your decisions tend to be fair and durable.
+
+### Under Stress
+- Signature: withdraw into observation. Go quiet, wait, watch.
+- You may disappear from view while carrying real weight.
+- Recovery: gentle re-engagement. Small, chosen actions.
+- Watch: passivity disguised as patience.
+
+### Communication
+- Measured, diplomatic, inclusive. You hear everyone.
+- Growth: say what YOU think, not just what you see.
+- Your ability to translate between perspectives is rare. Name it.
+
+### The Complementary Season
+All of them. Your wholeness lives in the permission to lean — toward Summer when the world needs your light, toward Winter when you need restoration, toward Autumn when it is time to release, toward Spring when it is time to begin. The equinox is not the absence of season. It is the freedom to move through all of them.
+
+### Your Moment on the Cycle
+"You are the pause between breaths, the hinge of the year. Your wisdom is not in choosing a season but in knowing that all of them pass through you."
+
+---
+
 ## How scores modulate these profiles
 
 The base profile above is the quadrant archetype. A player's exact position on the wheel modulates it.
@@ -353,7 +432,7 @@ The base profile above is the quadrant archetype. A player's exact position on t
 | Signal | Meaning | Effect on the profile |
 |---|---|---|
 | High prototypicality (far from center) | Strongly that season | Report the archetype at full strength. The extreme Axis-A results (most Bright, most Dim) additionally carry a solstice beat, since those are the literal solstice positions on the wheel. |
-| Low prototypicality (near center) | Between types | Report the **Threshold** framing, the equinox position. "You sit at a threshold, the equinox point, the pause between X and Y where energy and stillness, outward and inward, are in balance." Pull one or two lines from each adjacent season. |
+| Low prototypicality (near center) | Between types | Report the **Threshold** profile, the equinox position (see full profile above). Pull one or two lines from each adjacent season for additional texture. |
 | Near an axis boundary | Strong on one axis, neutral on the other | Emphasize the dominant axis. Soften the secondary. |
 | Angle maps to early, mid, or late | Position along the quadrant arc | Shift tone. "Early Summer" is building toward peak. "Late Autumn" is nearing the deep. |
 

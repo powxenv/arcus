@@ -2,6 +2,47 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.17 (2026-06-18): Test 1 structural audit + 00 citation cleanup
+
+Why: a fresh critical audit of the complete Test 1 stack (research paper, design doc, result profiles) against the current evidence standard found five issues requiring fixes. The 00 framework doc's Test 3/4 proposal citations were also audited against the full-text paper batch and culled for relevance.
+
+### Test 1 changes (01, 01b, SCA-research-paper)
+
+**Math error fixed.** The research paper described the prototypicality threshold (0.28) as "within about 20 points of the center on both axes." The correct figure is about 14 points for equal-offset (0.28 × 70.71 ≈ 19.8 distance; √(2d²) = 19.8 → d = 14.0). Fixed to "within about 14 points of the center on both axes (or within about 20 points on one axis while the other sits near center)."
+
+**A1/A2 compositing honesty note added.** Unlike Axis B, where both facets sit within DeYoung's validated two-aspect Extraversion domain, Axis A composites energetic arousal (Schimmack & Reisenzein 2002) and sensation seeking (Zuckerman 2007) — two constructs from different research traditions, never jointly validated as a single higher-order activation factor. The compositing is now stated as a design choice with facet-level reporting recovering lost texture. Same pattern as the Past-composite honesty note in 00's Test 4 proposal. Added to both 01 §8 and the research paper's facet section.
+
+**Intra-axis orthogonality honesty note added.** Both axes load on Big Five Extraversion — Solar Height through energy/enthusiasm facets, Tidal Direction through sociability. The quadrant boundaries are approximate, not strictly orthogonal. The hybrid dimensional/prototypical reporting pattern (types are labels on continuous scores, not discrete clusters) accommodates this. Added to research paper scoring section.
+
+**Three item replacements for construct clarity.**
+
+- A1.5: "Left with nothing to do, you feel charged / settled" → "Moving from stillness into action, you shift quickly / ease into it." The original's "idle charge" content area was a near-duplicate of A1.3's felt internal activation ("steady current running / stillness"). Replaced with transition speed — genuinely distinct from all other A1 items.
+
+- A1.7: "Other people tend to read you as high-energy / low-key" → "At the end of a full day, you're still humming / winding down." The original's "external read" was a meta-perception item in a facet otherwise measuring internal felt experience, introducing a method confound. The v0.16 review kept it as a judgment call ("activation is observable so the item has validity benefit"), but for a no-data framework, unidimensionality within a facet takes priority over potential incremental criterion validity. Replaced with evening energy — still internal experience, complements A1.1's morning anchor. This overrules the v0.16 judgment call.
+
+- B2.8: "When there's something to win, you go for it / let others have it" → "When something's yours to go after, you go after it / let it come to you." The original's "competition" content area conflated agency with competitiveness; someone can be highly agentic (proactive, self-directed) without caring about winning. The "let others have it" pole also had an Agreeableness/altruism confound. The v0.16 review kept it as a judgment call ("mild Agreeableness confound but defensible within Assertiveness"), but B2 is grounded specifically in DeYoung's Assertiveness aspect, which measures proactive agency — not competition. Replaced with pursuit orientation: proactive engagement without competitive framing. This overrules the v0.16 judgment call.
+
+B2 content area list updated: "competition" → "pursuit orientation" in both docs.
+
+**Threshold profile added to 01b.** A full 14-section profile for the equinox/balance-point result now exists (previously the modulation section handled the Threshold with only a short framing sentence). The Threshold now has its own archetype, motivations, strengths, blind spots, growth edges, relationships, work style, decision-making, stress signature, communication, and complementary season ("all of them"). Deterministic fallback updated to "5 full base profiles" from "4."
+
+### 00 framework changes
+
+**Citation audit for Tests 3 and 4.** All 16+ proposal citations in 00 §5–§10 were evaluated against full-text PDFs (downloaded by the user). Seven removed for low relevance: Showers (1992) — evaluative compartmentalization ≠ identity plurality; McConnell (2011), Benet-Martinez (2002) — not downloaded, not essential; Strathman (1994), Joireman (2012), Petrocelli (2003) — CFC was rejected on design-preference grounds, not paper claims; Bluedorn (2007) — duplicative with Schell & Conte (2008).
+
+**Sailer et al. (2014) citation corrected.** The 00 doc claimed Sailer used a Past-Positive/Past-Negative composite, justifying the Test 4 Axis 1 compositing. Sailer does not — it treats the two past dimensions separately and finds they contribute differently to well-being. The compositing is now stated as our design choice, not attributed to Sailer.
+
+**§8 status updated.** Now reflects that retained citations have been reviewed for construct relevance.
+
+00 bumped to v0.3.
+
+### Docs modified
+- docs/01-solstice-cycle-assessment.md (v0.14 → v0.17)
+- docs/01b-solstice-result-profiles.md (Threshold profile added, modulation table updated)
+- docs/SCA-research-paper.md (math fix, A1/A2 note, orthogonality note, 3 item replacements, content-area update)
+- docs/00-suite-framework.md (v0.2 → v0.3)
+- docs/CHANGELOG.md (this entry)
+
 ## v0.16 (2026-06-18): Test 1 comprehensive multi-cycle review
 
 Why: the user requested a comprehensive, objective, critical review with explicit instruction to iterate until genuinely satisfied, not declare done after one pass. Four review cycles were performed.
