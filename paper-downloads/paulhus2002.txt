@@ -1,0 +1,357 @@
+JOURNAL OF
+
+Journal of Research in Personality 36 (2002) 556–563
+
+RESEARCH IN
+PERSONALITY
+www.academicpress.com
+
+Brief report
+
+The Dark Triad of personality: Narcissism,
+Machiavellianism, and psychopathy
+Delroy L. Paulhus * and Kevin M. Williams
+Department of Psychology, The University of British Columbia, Vancouver V6T 1Z4, Canada
+
+Abstract
+Of the oﬀensive yet non-pathological personalities in the literature, three are especially prominent: Machiavellianism, subclinical narcissism, and subclinical psychopathy. We evaluated the recent contention that, in normal samples, this ÔDark
+TriadÕ of constructs are one and the same. In a sample of 245 students, we measured
+the three constructs with standard measures and examined a variety of laboratory
+and self-report correlates. The measures were moderately inter-correlated, but certainly were not equivalent. Their only common Big Five correlate was disagreeableness. Subclinical psychopaths were distinguished by low neuroticism;
+Machiavellians, and psychopaths were low in conscientiousness; narcissism showed
+small positive associations with cognitive ability. Narcissists and, to a lesser extent,
+psychopaths exhibited self-enhancement on two objectively scored indexes. We conclude that the Dark Triad of personalities, as currently measured, are overlapping
+but distinct constructs.
+Ó 2002 Elsevier Science (USA). All rights reserved.
+
+1. Introduction
+Among the socially aversive personalities cited in Kowalski (2001), three
+have attracted the most empirical attention: Machiavellianism, narcissism,
+and psychopathy. The construct of Machiavellianism—in short, the manipulative personality—emerged from Richard ChristieÕs selection of statements from MachiavelliÕs original books (see Christie & Geis, 1970).
+*
+
+Corresponding author.
+
+0092-6566/02/$ - see front matter Ó 2002 Elsevier Science (USA). All rights reserved.
+PII: S 0 0 9 2 - 6 5 6 6 ( 0 2 ) 0 0 5 0 5 - 6
+
+Brief report / Journal of Research in Personality 36 (2002) 556–563
+
+557
+
+Christie fashioned those statements into a measure of normal personality by
+demonstrating reliable diﬀerences in respondentsÕ agreement with the items.
+Further research showed that respondents who agreed with these statements
+were more likely to behave in a cold and manipulative fashion in laboratory
+and real world studies (Christie & Geis, 1970).
+The construct of subclinical or ÔnormalÕ narcissism emerged from Raskin
+and HallÕs (1979) attempt to delineate a subclinical version of the DSM-deﬁned personality disorder. Facets retained from the clinical syndrome included grandiosity, entitlement, dominance, and superiority. Items were
+reﬁned on large samples of students and assembled in the Narcissistic Personality Inventory (NPI). The successful migration from clinical to subclinical construct is well supported by a strong research literature (Morf &
+Rhodewalt, 2001).
+The adaptation of psychopathy to the subclinical sphere is the most recent of the three (Hare, 1985; Lilienfeld & Andrews, 1996). Central character elements include high impulsivity and thrill-seeking along with low
+empathy and anxiety. The self-report psychopathy (SRP) scale was assembled from items that diﬀerentiated clinically diagnosed psychopaths from
+non-psychopaths (Hare, 1985). It was later validated in non-criminal samples (Forth, Brown, Hart, & Hare, 1996). Recent research by Williams
+and Paulhus (2002) conﬁrmed that the SRP has the same four-factor solution as the Psychopathy Check List (Hare, 1991), which is the gold standard
+in the measurement of psychopathy. Moreover, SRP scores predict anti-social behavior in forensic and non-forensic populations (Paulhus, Hemphill,
+& Hare, in press).
+Despite their diverse origins, the personalities composing this ÔDark
+TriadÕ share a number of features. To varying degrees, all three entail a
+socially malevolent character with behavior tendencies toward self-promotion, emotional coldness, duplicity, and aggressiveness. In the clinical literature, the links among the triad have been noted for some time (e.g., Hart
+& Hare, 1998). The recent development of non-clinical measures of all
+three constructs has permitted the evaluation of empirical associations in
+normal populations. As a result, there is now empirical evidence for the
+overlap of (a) Machiavellianism with psychopathy (Fehr, Samsom, &
+Paulhus, 1992; McHoskey, Worzel, & Szyarto, 1998), (b) narcissism with
+psychopathy (Gustafson & Ritzer, 1995), and (c) Machiavellianism with
+narcissism (McHoskey, 1995). Given such associations, the possibility
+arises that, in normal samples, the Dark Triad of constructs may be equivalent.
+In the present study, we exploited three methods for teasing apart the
+triad of constructs. First, we mapped the triad onto the Big Five domains
+to examine similarities and diﬀerences on fundamental dimensions of personality. Second, we compared the triad with respect to two measures
+of cognitive ability. Finally, we determined whether the substantial self-
+
+558
+
+Brief report / Journal of Research in Personality 36 (2002) 556–563
+
+enhancement observed in narcissists (John & Robins, 1994; Paulhus, 1998;
+Raskin, Novacek, & Hogan, 1991) would also be evident in Machiavellian
+and subclinically psychopathic individuals. Two objective measures of
+self-enhancement were developed: One was an index of the tendency to
+over-claim general knowledge items; the other was a measure of discrepancy
+between self-reported intelligence and objectively scored intelligence.
+
+2. Method
+Two hundred and forty-ﬁve undergraduate psychology students (65%
+female) participated in the present study for extra course credit. The procedure involved two steps. First, each participant took home an anonymous questionnaire package, which included standard self-report
+measures of the Dark Triad and the Big Five as well as self-ratings of intelligence. Participants later returned to the lab for a supervised administration of the over claiming measure and an objective measure of global
+cognitive ability (IQ).
+The NPI (Raskin & Hall, 1979) was used to measure narcissism. The NPI
+is a 40 item forced-choice questionnaire, currently the standard measure of
+subclinical narcissism. The Mach-IV inventory (Christie & Geis, 1970) was
+used to measure Machiavellianism: It consists of 20 5-point Likert items. To
+measure subclinical psychopathy, we used the SRP III (Hare, 1985) consisting of 31 5-point items. In our sample, the alpha reliabilities for the NPI,
+SRP, and Mach-IV scale were .84, .79, and .74, respectively.
+The Big Five inventory (BFI) is a 44 item questionnaire designed to measure the Big Five personality traits (extraversion, agreeableness, conscientiousness, neuroticism, and openness). Its validity is well-established (John
+& Srivastava, 1999). The alpha reliabilities in our sample were .87, .81,
+.81, .86, and .80, respectively.
+To measure self-perceptions of intelligence, we summed four 5-point
+scales anchored by Not at all (1) to Very much (5). The items were intelligent,
+smart, good at school, and known as brainy. In our sample, the alpha reliability was .83.
+The 50-item speeded Wonderlic Personnel Test (Wonderlic, 1977) was
+used to measure global cognitive ability, including both verbal and nonverbal IQ. The Over Claiming Questionnaire (OCQ) was designed as an unobtrusive measure of both cognitive ability and self-enhancement bias
+(Paulhus, Harms, Bruce, & Lysy, in press). The task requires rating the familiarity of 90 persons, events, and things, 20% of which do not exist. Signal
+detection formulas were then calculated to index accuracy of general knowledge (cognitive ability) and response bias (knowledge self-enhancement). In
+our sample, the alpha reliabilities for accuracy and bias indexes were .84 and
+.93, respectively.
+
+Brief report / Journal of Research in Personality 36 (2002) 556–563
+
+559
+
+3. Analysis and results
+Males scored signiﬁcantly higher on all three of the Dark Triad: Biserial
+correlations were .11, .21, and .40, for NPI, Mach IV, and SRP, respectively
+(all signiﬁcant, p < :05, two-tailed). Within gender, however, the correlational patterns with external variables were remarkably similar: Therefore,
+we pooled the data across gender. The measures overlapped considerably,
+as evident from Fig. 1. Nonetheless, the maximum inter-correlation of .50
+suggests that they cannot be considered equivalent. Even disattenuated,
+the highest correlation—that between psychopathy and narcissism—reaches
+only .61.
+Big Five traits. In Table 1, several correlations between Big Five scores
+and the Dark Triad measures reached signiﬁcance using two-tailed tests,
+p < :01. Agreeableness showed correlations of ).36, ).47, and ).25, for narcissism, Machiavellianism, and psychopathy, respectively. Narcissists and
+psychopaths also tended to have higher Extraversion (.41 and. 34) and
+Openness scores (.38 and .24). Machiavellians and psychopaths showed
+low scores on Conscientiousness ().34 and ).24). Finally, psychopaths
+tended to report lower levels of Neuroticism ().34).
+Cognitive ability. Table 1 shows small positive correlations of both cognitive ability measures with narcissism but no links with Machiavellianism or
+psychopathy. After separating the IQ items into verbal and nonverbal subscales, a discrepancy score was calculated by subtracting the standardized
+verbal from the standardized nonverbal subscale. Table 1 shows signiﬁcant
+positive correlations of the diﬀerence score with Machiavellianism (.20) and
+psychopathy (.13), indicating a higher nonverbal IQ score relative to verbal.
+Self-enhancement bias. Over-claiming bias was operationalized as the signal detection parameter (ÔcÕ) that indexes any claim of familiarity with an
+
+Fig. 1. Correlations among measures of narcissism, Machiavellianism, and psychopathy.
+
+560
+
+Brief report / Journal of Research in Personality 36 (2002) 556–563
+
+Table 1
+Correlations of the Dark Triad with the Big Five, cognitive ability, and self-enhancement
+Narcissism
+
+Machiavellianism
+
+Psychopathy
+
+Big Five Inventory
+Extraversion
+Agreeableness
+Conscientiousness
+Neuroticism
+Openness
+
+.42
+).36
+).06
+.02
+.38
+
+).05
+).47
+).34
+.12
+).03
+
+.34
+).25
+).24
+).34
+.24
+
+Cognitive ability
+OCQ accuracy index
+IQ test
+Verbal–nonverbal discrepancy
+
+.09
+.15
+.05
+
+.04
+.04
+.20
+
+.09
+.05
+.13
+
+.24
+
+).02
+
+.14
+
+.17
+
+.08
+
+.09
+
+Self-enhancement
+Discrepancy of self-rating vs.
+IQ test
+Over-claiming bias index
+
+Note. N ¼ 245. All correlations in bold are signiﬁcant at p < :05, two-tailed.
+
+OCQ item, regardless of its true existence. Over-claiming correlated signiﬁcantly with narcissism (.17), but not with Machiavellianism or psychopathy
+(see Table 1). The OCQ accuracy index (dÕ) was unrelated to any of the Dark
+Triad variables.
+A second measure of self-enhancement was calculated by partialing IQ
+scores out of self-rated intelligence using regression analysis (see Paulhus
+& John, 1998). This residual represents the discrepancy between self-ratings
+and objective performance. As Table 1 shows, narcissists and, to a lesser extent, psychopaths tended to overestimate their intelligence (rs ¼ .24 and .14),
+whereas Machiavellians did not.
+4. Discussion
+Our goal was to evaluate the similarities and diﬀerences among the Dark
+Triad of personality traits: narcissism, Machiavellianism, and psychopathy.
+Our data do not support the contention that, when measured in normal
+populations, these three constructs are equivalent. The intercorrelations
+were all positive and ranged from .25 to .50. Their distinctiveness became
+most apparent in our examination of the external correlates, including both
+self-report and performance measures. Their locations in the ﬁve factor
+space of personality revealed only one commonality across the triad,
+namely, low agreeableness. Both narcissism and psychopathy were also associated with extraversion and openness: Thus they fall in the circumplex
+quadrant labeled ‘‘unmitigated agency’’ (Helgeson & Fritz, 1999; Paulhus
+& John, 1998). Also consistent, Machiavellianism and psychopathy were
+
+Brief report / Journal of Research in Personality 36 (2002) 556–563
+
+561
+
+negatively associated with conscientiousness, a communal trait. Finally,
+only psychopaths were low on neuroticism, consistent with their traditional
+characterization as lacking anxiety (Hare, 1991).
+On two objective measures, narcissists exhibited the most self-enhancement, followed by the psychopaths. The narcissism ﬁnding replicates previous research (John & Robins, 1994; Paulhus, 1998) but the establishment of
+self-enhancement in subclinical psychopaths is novel. In contrast, machiavellians showed no sign of self-enhancement. This diﬀerence is consistent
+with previous evidence that Machiavellians are more grounded, or realitybased, in their sense of self (Christie & Geis, 1970), whereas narcissists have
+a strong self-deceptive (i.e., low insight) component to their personality (Raskin et al., 1991; Paulhus, 1998). Such grandiosity and poor insight have also
+been noted in clinical-range psychopathy (Hart & Hare, 1998).
+The only association with cognitive ability was the small positive correlation between IQ and narcissism. However, we did ﬁnd signiﬁcant associations of psychopathy and Machiavellianism with a relatively higher
+nonverbal to verbal IQ score. A breakdown on ethnicity and gender indicated the strongest correlate of this diﬀerence score (r ¼ .27) was psychopathy in males of European heritage (i.e., white people with dark
+personalities). This ﬁnding is consistent with previous work showing that
+a parallel performance-verbal diﬀerence score is higher in delinquent than
+in non-delinquent adolescents (e.g., Lynam, Moﬃtt, & Stouthamer-Loeber,
+1993) and higher in psychopathic than non-psychopathic delinquents (Gretton, 1998). These samples, too, were primarily white males.
+The tendency for dark personalities to exhibit relatively higher levels of
+nonverbal IQ is intriguing but the implications are unclear. The ﬁnding deﬁes the stereotype of the smooth talking manipulator but supports the notion of a complex intellectual deﬁcit. One possibility is that the frustration
+arising from an inability to communicate oneÕs ideas eventuates in more malevolent interpersonal strategies. Another possibility is some subtle neurological deﬁcit.
+As for fundamental personality features, our ﬁndings suggest that, in
+non-clinical samples, members of the Dark Triad share a common core of
+disagreeableness. Thus the root of their social destructiveness is disturbingly
+normal - even banal. In combination with disagreeableness, the minimal
+anxiety of psychopaths may make them the most treacherous of the three
+- even within the normal range of personality found in our sample. Our
+more recent work has supported this fear. A wide variety of self-report
+and behavioral measures of antisocial behavior were signiﬁcantly predicted
+by psychopathy but not by Machiavellianism or narcissism (Paulhus & Williams, 2002; Williams & Paulhus, 2002).
+Which of the triad is most maladaptive? Our view is that no personality
+trait is universally adaptive or maladaptive (Paulhus, Fridhandler, & Hayes,
+1997). Indeed, Machiavellians and narcissists may be more of an interper-
+
+562
+
+Brief report / Journal of Research in Personality 36 (2002) 556–563
+
+sonal irritant than a threat: Data suggest that such characters are a mixed
+blessing in personal life (Robins & Beer, 2001), interpersonal life (Paulhus,
+1998), and some organizational contexts (Hogan, Raskin, & Fazzini, 1990;
+Robins & Paulhus, 2001). Adaptive interpersonal correlates of subclinical
+psychopathy may be more diﬃcult to ﬁnd. Their positive self-view and lack
+of anxiety, however, can be viewed as adaptive in an intrapsychic sense
+(Taylor & Armor, 1996).
+To summarize, our comparison of the Dark Triad of personalities does
+not support the proposition that they are equivalent in normal populations.
+Even in non-forensic, non-pathological, high-achievement populations, they
+are distinctive enough to warrant separate measurement.
+References
+Christie, R., & Geis, F. L. (1970). Studies in Machiavellianism. New York: Academic Press.
+Fehr, B., Samsom, D., & Paulhus, D. L. (1992). The construct of Machiavellianism: Twenty
+years later. In C. D. Spielberger & J. N. Butcher (Eds.), Advances in personality assessment
+(Vol. 9, pp. 77–116). Hillsdale, NJ: Erlbaum.
+Forth, A. E., Brown, S. L., Hart, S. D., & Hare, R. D. (1996). The assessment of psychopathy in
+male and female noncriminals: Reliability and validity. Personality and Individual
+Diﬀerences, 20, 531–543.
+Gretton, H. M. (1998). Psychopathy and recidivism in adolescence: A ten-year retrospective
+follow-up. Unpublished dissertation, University of British Columbia.
+Gustafson, S. B., & Ritzer, D. R. (1995). The dark side of normal: A psychopathy-linked
+pattern called aberrant self-promotion. European Journal of Personality, 9, 147–183.
+Hare, R. D. (1985). Comparison of procedures for the assessment of psychopathy. Journal of
+Consulting and Clinical Psychology, 53, 7–16.
+Hare, R. D. (1991). The Hare psychopathy checklist-revised (PCL-R). Toronto, Ontario: MultiHealth Systems.
+Hart, S., & Hare, R. D. (1998). Association between psychopathy and narcissism: Theoretical
+views and empirical evidence. In E. F. Ronningstam (Ed.), Disorders of narcissism:
+Diagnostic, clinical, and empirical implications (pp. 415–436). Washington, DC: American
+Psychiatric Press.
+Helgeson, V. S., & Fritz, H. L. (1999). Unmitigated agency and unmitigated communion:
+Distinctions from agency and communion. Journal of Research in Personality, 33, 131–158.
+Hogan, R., Raskin, R., & Fazzini, D. (1990). The dark side of charisma. In K. E. Clark et al.
+(Eds.), Measures of leadership (pp. 343–354). West Orange, NJ: Leadership Library of
+America.
+John, O. P., & Robins, R. (1994). Accuracy and bias in self-perception: Individual diﬀerences in
+self-enhancement and the role of narcissism. Journal of Personality and Social Psychology,
+66, 206–219.
+John, O. P., & Srivastava, S. (1999). The Big Five trait taxonomy: History, measurement, and
+theoretical perspectives. In L. A. Pervin & O. P. John (Eds.), Handbook of personality:
+Theory and research (2nd ed.., pp. 102–138). New York: Guilford.
+Kowalski, R. M. (Ed.). (2001). Behaving badly: Aversive behaviors in interpersonal relationships.
+Washington, DC: American Psychological Association.
+Lilienfeld, S. O., & Andrews, B. P. (1996). Development and preliminary validation of a selfreport measure of psychopathic personality traits in noncriminal populations. Journal of
+Personality Assessment, 66, 488–524.
+
+Brief report / Journal of Research in Personality 36 (2002) 556–563
+
+563
+
+Lynam, D. R., Moﬃtt, T., & Stouthamer-Loeber, M. (1993). Explaining the relation between
+IQ and delinquency: Class, race, test motivation, school-failure, or self-control? Journal of
+Abnormal Psychology, 102, 187–196.
+McHoskey, J. (1995). Narcissism and Machiavellianism. Psychological Reports, 77, 755–759.
+McHoskey, J. W., Worzel, W., & Szyarto, C. (1998). Machiavellianism and psychopathy.
+Journal of Personality and Social Psychology, 74, 192–210.
+Morf, C. C., & Rhodewalt, F. (2001). Expanding the dynamic self-regulatory processing model
+of narcissism: Research directions for the future. Psychological Inquiry, 12, 243–251.
+Paulhus, D. L. (1998). Interpersonal and intrapsychic adaptiveness of trait self-enhancement: A
+mixed blessing? Journal of Personality and Social Psychology, 74, 1197–1208.
+Paulhus, D. L., Harms, P. D., Bruce, M. N., & Lysy, D. (in press). The Over-Claiming
+Questionnaire: Measuring self-enhancement independent of ability. Journal of Personality
+and Social Psychology.
+Paulhus, D. L., Hemphill, J., & Hare, R. (in press). Manual for the Self-report psychopathy scale
+(SRP-III). Toronto: Multi-Health Systems.
+Paulhus, D. L., & John, O. P. (1998). Egoistic and moralistic bias in self-perceptions: The
+interplay of self-deceptive styles with basic traits and motives. Journal of Personality, 66,
+1024–1060.
+Paulhus, D. L., Fridhandler, B., & Hayes, S. (1997). Psychological defense: Contemporary
+theory and research. In R. Hogan, J. A. Johnson, & S. R. Briggs (Eds.), Handbook of
+personality psychology (pp. 543–579). San Diego: Academic Press.
+Paulhus, D. L., & Williams, K. M. (2002). The dark side of normal personality: Self-report and
+behavioral correlates. Unpublished manuscript, University of British Columbia.
+Raskin, R., & Hall, C. S. (1979). A Narcissistic Personality Inventory. Psychological Reports,
+45, 590.
+Raskin, R. N., Novacek, J., & Hogan, R. T. (1991). Narcissism, self-esteem, and defensive selfenhancement. Journal of Personality, 59, 19–38.
+Robins, R. W., & Beer, J. S. (2001). Positive illusions about the self: Short-term beneﬁts and
+long-term costs. Journal of Personality and Social Psychology, 80, 340–352.
+Robins, R. W., & Paulhus, D. L. (2001). The character of self-enhancers: Implications for
+organizations. In B. W. Roberts & R. Hogan (Eds.), Personality psychology in the workplace
+(pp. 193–222). Washington, DC: American Psychological Association.
+Taylor, S. E., & Armor, D. A. (1996). Positive illusions and coping with adversity. Journal of
+Personality, 64, 873–898.
+Wonderlic, E. F. (1977). Wonderlic Personnel Test manual. Northﬁeld, IL: Personnel Testing.
+Williams, K., & Paulhus, D. L. (2002). The hierarchical factor structure of the Self-Report
+Psychopathy scale. Presented at the meeting of the Canadian Psychological Association,
+Vancouver, Canada.
+
+

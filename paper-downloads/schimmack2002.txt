@@ -1,0 +1,392 @@
+                                                                                                                     Emotion                                                                                      Copyright 2002 by the American Psychological Association, Inc.
+                                                                                                                     2002, Vol. 2, No. 4, 412–417                                                                         1528-3542/02/$5.00 DOI: 10.1037//1528-3542.2.4.412
+
+
+
+
+                                                                                                                                                                                BRIEF REPORT
+
+                                                                                                                        Experiencing Activation: Energetic Arousal and Tense Arousal
+                                                                                                                                Are Not Mixtures of Valence and Activation
+                                                                                                                                             Ulrich Schimmack                                                        Rainer Reisenzein
+                                                                                                                                    University of Toronto at Mississauga                                             University of Bielefeld
+
+                                                                                                                                                    R. E. Thayer (1989) proposed 2 types of activation: energetic arousal (awake–tired)
+
+
+
+
+  This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                                                    and tense arousal (tense–calm). This view has been challenged by claims that
+                                                                                                                                                    energetic arousal and tense arousal are mixtures of valence and a single activation
+                                                                                                                                                    dimension. The authors present a direct test of this hypothesis by computing the
+                                                                                                                                                    correlation between the residuals of energetic arousal and tense arousal after re-
+                                                                                                                                                    moving the shared variance with valence. Whereas the valence activation hypoth-
+                                                                                                                                                    esis predicts a strong positive correlation between the 2 residuals, the authors found
+                                                                                                                                                    that it was not significantly different from 0. This finding reaffirms the view of
+                                                                                                                                                    energetic arousal and tense arousal as 2 distinct types of activation.
+
+
+                                                                                                                        In 1967, Thayer conducted a seminal study of the                           1989; Watson et al., 1999) that corresponds to activity
+                                                                                                                     dimensionality of people’s experiences of activation.                         in brain cells that regulate organisms’ sleep–wake
+                                                                                                                     Initially, he obtained four independent factors, two                          cycle (Tucker & Williamson, 1984). Tense arousal
+                                                                                                                     Activation factors and two Deactivation factors. Sub-                         does not show a similar circadian rhythm. Second, the
+                                                                                                                     sequent research suggested, however, that the inde-                           two activation dimensions can change in opposite di-
+                                                                                                                     pendence of the Activation and Deactivation factors                           rections. For example, Gold, MacLeod, Deary, and
+                                                                                                                     were a method artifact. Accordingly, activation was                           Frier (1995) examined the influence of experimentally
+                                                                                                                     reconceptualized as varying along two dimensions:                             induced hypoglycemia on energetic arousal and tense
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                     energetic arousal (ranging from feeling sleepy to feel-                       arousal. Whereas energetic arousal decreased in re-
+                                                                                                                     ing awake) and tense arousal (ranging from feeling                            sponse to low blood sugar levels, tense arousal in-
+                                                                                                                     calm to feeling nervous; Matthews, Jones, & Cham-                             creased, presumably as the result of an emergency
+                                                                                                                     berlain, 1990; Schimmack & Grob, 2000; Steyer,                                response to mobilize the body to take action to restore
+                                                                                                                     Schwenkmezger, Notz, & Eid, 1994; Thayer, 1989;                               blood sugar levels. Third, the two types of activation
+                                                                                                                     Watson, Wiese, Vaidya, & Tellegen, 1999).                                     have different consequences. For example, several
+                                                                                                                        This two-dimensional conceptualization of activa-                          studies show that energetic arousal is a better predic-
+                                                                                                                     tion is supported by several key findings. First, the                         tor of cognitive tasks than tense arousal (Heller,
+                                                                                                                     two activation dimensions are related to different                            Nitschke, & Lindsay, 1997; Matthews & Davies,
+                                                                                                                     causes. For example, energetic arousal is influenced                          2001; Matthews & Westerman, 1994).
+                                                                                                                     by a circadian rhythm (Schimmack, 1999; Thayer,                                  Notwithstanding these findings, the two-dimen-
+                                                                                                                                                                                                   sional conceptualization of activation has recently be-
+                                                                                                                                                                                                   come the topic of renewed controversy (Russell &
+                                                                                                                        Ulrich Schimmack, Department of Psychology, Univer-
+                                                                                                                                                                                                   Barrett, 1999; Schimmack & Grob, 2000; Watson et
+                                                                                                                     sity of Toronto at Mississauga, Mississauga, Ontario,
+                                                                                                                     Canada; Rainer Reisenzein, Department of Psychology,                          al., 1999; Yik, Russell, & Barrett, 1999). The present
+                                                                                                                     University of Bielefeld, Bielefeld, Germany.                                  article seeks to resolve this controversy by means of a
+                                                                                                                        We thank Stephane Coté and Romin Tafarodi for helpful                     direct test of the recent challenge to the two-
+                                                                                                                     comments.                                                                     dimensional model of activation.
+                                                                                                                        Correspondence concerning this article should be ad-
+                                                                                                                     dressed to Ulrich Schimmack, Department of Psychol-
+                                                                                                                                                                                                   The Challenge of the Two-Dimensional Model
+                                                                                                                     ogy, University of Toronto at Mississauga, 3359 Missis-                                      of Activation
+                                                                                                                     sauga Road North, Mississauga, Ontario L5L 1C6, Canada.                        Several articles suggested that the two-dimensional
+                                                                                                                     E-mail: uli.schimmack@utoronto.ca                                             model of activation is an artifact because it neglects
+
+
+                                                                                                                                                                                             412
+                                                                                                                                                                       BRIEF REPORT                                                  413
+
+                                                                                                                     valence (e.g., Yik et al., 1999). According to this al-    that once the valence component has been removed
+                                                                                                                     ternative view of activation, markers of energetic         from energetic arousal and from tense arousal, both
+                                                                                                                     arousal (awake–tired) and tense arousal (tense–calm)       residual variables reflect variance along the same ac-
+                                                                                                                     represent mixtures of a single type of activation and      tivation dimension. Therefore, the two residual vari-
+                                                                                                                     valence. Feeling awake describes a state of high ac-       ables should be highly correlated (as they are just
+                                                                                                                     tivation and positive valence, whereas feeling tired       different measures of a single activation dimension).
+                                                                                                                     describes a state of low activation and negative va-       In contrast, the two-dimensional view of activation
+                                                                                                                     lence. Feeling tense describes a state of high activa-     assumes that energetic arousal and tense arousal are
+                                                                                                                     tion and negative valence, whereas feeling calm de-        distinct types of activation. Therefore, the residual
+                                                                                                                     scribes a feeling of deactivation and positive valence.    variances in each dimension should still reflect varia-
+                                                                                                                     Furthermore, the discriminant validity of energetic        tion along different dimensions even after their shared
+                                                                                                                     arousal and tense arousal is attributed to the fact that   variance with valence has been removed. As a con-
+
+
+
+
+  This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                     the two dimensions incorporate valence in opposite         sequence, the residuals of energetic arousal and tense
+                                                                                                                     directions. Energetic arousal increases with valence,      arousal should still support the discriminant validity
+                                                                                                                     whereas tense arousal decreases with valence.              of the two activation dimensions even after the shared
+                                                                                                                        If energetic arousal were a perfect combination of      variance with valance has been removed.
+                                                                                                                     activation and positive valence, and tense arousal            To conclude, the valence activation hypothesis and
+                                                                                                                     were a perfect combination of activation and negative      the two-dimensional view of activation make distinct
+                                                                                                                     valence, then the correlation between the two arousal      predictions about the relation between energetic
+                                                                                                                     dimensions would be zero (Yik et al., 1999). In short,     arousal and tense arousal once shared variance with
+                                                                                                                     the weak correlation between energetic arousal and         valence has been statistically removed. The valence
+                                                                                                                     tense arousal may provide misleading evidence about        activation hypothesis predicts a high positive correla-
+                                                                                                                     the dimensionality of activation because energetic         tion because both measures are supposed to share the
+                                                                                                                     arousal and tense arousal may combine a single type        same kind of activation. In contrast, the two-dimen-
+                                                                                                                     of activation with valence. Subsequently, we refer to      sional model of activation predicts a weak correlation
+                                                                                                                     this proposal as the valence activation hypothesis.        because both dimensions are supposed to reflect two
+                                                                                                                                                                                different types of activation.
+                                                                                                                               A Direct Test of the Valence                        Although ideally the valence activation hypothesis
+                                                                                                                                  Activation Hypothesis                         predicts a correlation of 1, this prediction is not real-
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                                                                                istic for several reasons. First, measures can be con-
+                                                                                                                        We conducted a straightforward test of the nature       taminated by measurement error, which can attenuate
+                                                                                                                     of energetic arousal and tense arousal. To conduct this    the relation between variables. To address these con-
+                                                                                                                     test, it was only necessary to measure energetic           cerns, we controlled for influences of random and
+                                                                                                                     arousal, tense arousal, and valence. Provided that         systematic measurement error. Tense arousal and en-
+                                                                                                                     variance due to valence is measured with a reliable        ergetic arousal may also contain unique valid variance
+                                                                                                                     and valid scale, it is possible to remove the valence      that is not shared with valence and activation. Never-
+                                                                                                                     component of energetic arousal and tense arousal. For      theless, a shared-activation dimension should produce
+                                                                                                                     example, energetic arousal can be regressed onto va-       positive correlations between the residuals of tense
+                                                                                                                     lence, and the residual variance in energetic arousal      arousal and energetic arousal.
+                                                                                                                     can be retained. This residual represents the variance
+                                                                                                                     in energetic arousal that remains after valence has                What About Measurement Error?
+                                                                                                                     been removed. According to the valence activation
+                                                                                                                     hypothesis, energetic arousal has two components, va-         Proponents of the valence activation hypothesis
+                                                                                                                     lence and activation. Therefore, after removing vari-      have emphasized that measurement error can distort
+                                                                                                                     ance due to valence, the residual of energetic arousal     empirical results, and they have typically attributed
+                                                                                                                     represents variance in activation. Similarly, the va-      findings at odds with their model to measurement
+                                                                                                                     lence activation hypothesis regards tense arousal as a     error (Yik et al., 1999). As it turns out, however,
+                                                                                                                     mixture of valence and activation. Hence, after re-        measurement error is not a serious obstacle to our test
+                                                                                                                     moving the variance in valence from tense arousal,         of the valence activation hypothesis. In discussing this
+                                                                                                                     the residual of tense arousal should also represent        issue, it is important to distinguish between random
+                                                                                                                     variance in activation.                                    and systematic error. Random measurement error can
+                                                                                                                        In sum, the valence activation hypothesis predicts      be controlled simply by examining the relation be-
+                                                                                                                     414                                                BRIEF REPORT
+
+                                                                                                                     tween constructs at the level of latent factors. System-    crucial correlation in an analysis of data from a large,
+                                                                                                                     atic measurement error (caused by response styles)          diverse sample.
+                                                                                                                     also does not threaten the validity of our analyses for
+                                                                                                                     several reasons. First, although there is some concern                            Disclaimer
+                                                                                                                     about the influence of response styles on checklists           Before we present the test and the results, it is
+                                                                                                                     (Green, Goldman, & Salovey, 1993), studies with rat-        important to note that this article does not present a
+                                                                                                                     ing scales often find nonsignificant or small effects of    complete alternative structural theory of emotions. It
+                                                                                                                     systematic measurement error (Green et al., 1993;           also does not resolve the debate over discrete emo-
+                                                                                                                     Schimmack, Boeckenholt, & Reisenzein, 2002; Wat-            tions versus dimensional models of affect. We also do
+                                                                                                                     son & Clark, 1997). Second, systematic error can be         not address the debate about unipolar versus bipolar
+                                                                                                                     removed by first assessing energetic arousal and tense      models of affect. Finally, we do not provide a review
+                                                                                                                     arousal with unipolar scales and then subtracting one       of the existing neurophysiological research on activa-
+
+
+
+
+  This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                     pole from the other pole. This approach is common           tion and arousal. Rather, this article focuses exclu-
+                                                                                                                     practice in the assessment of tense arousal and ener-       sively on one point of contention in contemporary
+                                                                                                                     getic arousal (Matthews et al., 1990; Schimmack &           affect research: Are energetic arousal and tense
+                                                                                                                     Grob, 2000; Steyer et al., 1994; Thayer, 1989). Fi-         arousal really two distinct types of activation? Or are
+                                                                                                                     nally, our reliance on residuals of energetic arousal       energetic arousal and tense arousal mixtures of acti-
+                                                                                                                     and tense arousal also reduces the problem of system-       vation and valence?
+                                                                                                                     atic measurement error. The reason is that systematic
+                                                                                                                     measurement error is shared between the activation                                  Method
+                                                                                                                     ratings and the valence ratings. Hence, it becomes part     Participants
+                                                                                                                     of the shared variance between activation and valence          Data were collected at the University of Illinois,
+                                                                                                                     and not part of the activation residuals (i.e., the vari-   Urbana–Champaign (131 students), the University of
+                                                                                                                     ance in activation that is not shared with the valence      Texas, El Paso (n ⳱ 59), the University of the Virgin
+                                                                                                                     measure).                                                   Islands (n ⳱ 60), and the University of Toronto at
+                                                                                                                                                                                 Mississauga (n ⳱ 460).
+                                                                                                                                        What Is New?                             Materials and Procedure
+                                                                                                                        Several studies have examined and reported the              Energetic arousal, tense arousal, and valence were
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                     zero-order correlations between energetic arousal and       assessed with Schimmack and Grob’s (2000) 18-item
+                                                                                                                     tense arousal (Matthews et al., 1990; Schimmack &           questionnaire. The questionnaire consists of three
+                                                                                                                     Grob, 2000; Steyer et al., 1994). However, simple           items for each pole of the three dimensions (valence:
+                                                                                                                     correlations are unable to discriminate clearly be-         pleasant, good, positive vs. unpleasant, bad, negative;
+                                                                                                                     tween the competing models of activation. The reason        energetic arousal: awake, alert, wakeful vs. sleepy,
+                                                                                                                     is that both models are consistent with the same pat-       tired, drowsy; tense arousal: restless, tense, jittery vs.
+                                                                                                                     tern of zero-order correlations. Both models predict a      at rest, relaxed, calm). The response format was a
+                                                                                                                     positive correlation between valence and energetic          unipolar intensity scale (0 ⳱ not at all, 1 ⳱ slightly,
+                                                                                                                     arousal, a negative correlation between valence and         2 ⳱ moderately, 3 ⳱ strongly). To obtain bipolar
+                                                                                                                     tense arousal, and independence between energetic           indicators of each dimension, ratings on the lower
+                                                                                                                     arousal and tense arousal. In contrast, the correlations    pole items were subtracted from ratings on the higher
+                                                                                                                     between the residuals of energetic arousal and tense        pole items. Besides using bipolar indicators to reduce
+                                                                                                                     arousal after removing shared variance with valence         response style effects, we had two other reasons for
+                                                                                                                     leads to competing predictions. The valence activa-         using bipolar indicators. First, Yik et al. (1999) also
+                                                                                                                     tion model predicts a strong positive correlation,          used bipolar indicators, although they used quasi-
+                                                                                                                     whereas the two-dimensional model predicts a corre-         bipolar response formats (cf. Russell & Carroll,
+                                                                                                                     lation close to zero.                                       1999), whereas we created bipolar indicators from
+                                                                                                                        It is true that the pattern of simple correlations de-   unipolar ratings. Second, unipolar indicators present a
+                                                                                                                     termines the correlation of the residuals. However,         methodological challenge for structural analyses of
+                                                                                                                     researchers have not reported the correlation between       affect (Russell & Carroll, 1999; Schimmack, 2001).
+                                                                                                                     the residuals, and the ongoing controversy attests to       The reliance on bipolar indicators is not a problem for
+                                                                                                                     the fact that they have no real sense of the magnitude      the present research question because both the valence
+                                                                                                                     of this correlation. We provide an estimate of this         activation model and the two-dimensional model of
+                                                                                                                                                                       BRIEF REPORT                                                   415
+
+                                                                                                                     activation assume approximate bipolarity of energetic
+                                                                                                                     arousal, tense arousal, and valence (Matthews et al.,
+                                                                                                                     1990; Russell & Barrett, 1999; Russell & Carroll,
+                                                                                                                     1999; Steyer et al., 1994; Yik et al., 1999).
+
+                                                                                                                                            Results
+                                                                                                                        We used structural equation modeling to eliminate
+                                                                                                                     variance caused by random error. We first tested a
+                                                                                                                     measurement model in which each latent factor was
+                                                                                                                     based on its three indicators, and the latent factors
+                                                                                                                     were free to correlate with each other (cf. Schimmack
+
+
+
+
+  This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                     & Grob, 2000, for details). The model fit was accept-
+                                                                                                                     able (evaluation criteria: comparative fit index [CFI]
+                                                                                                                     > .90, root-mean-square error of approximation
+                                                                                                                     [RMSEA] < .08), ␹2 (24, N ⳱ 710) ⳱ 85, CFI ⳱
+                                                                                                                     .983, RMSEA ⳱ .060. The measurement model re-
+                                                                                                                     veals the correlations between the three latent factors
+                                                                                                                     without random measurement error. Energetic arousal        Figure 1. Relation between valence, energetic arousal,
+                                                                                                                     was positively correlated with valence (r ⳱ .46),          tense arousal, and residuals of energetic arousal and tense
+                                                                                                                     tense arousal was negatively correlated with valence       arousal without shared variance in valence.
+                                                                                                                     (r ⳱ −.65), and energetic arousal and tense arousal
+                                                                                                                     were weakly negatively correlated (r ⳱ −.28). These                              Discussion
+                                                                                                                     zero-order correlations are consistent with previous          This study presented a new approach to resolving
+                                                                                                                     findings (Matthews et al., 1990; Schimmack & Grob,         the recent controversy about the conceptualization of
+                                                                                                                     2000; Steyer et al., 1994).                                activation. Previous researchers regarded energetic
+                                                                                                                        The second model imposed causal paths from the          arousal and tense arousal as two separate dimensions
+                                                                                                                     valence factor to the arousal factors. These causal        of activation that are influenced by different causal
+                                                                                                                     paths represent the assumption of the valence activa-      factors and seem to be based on different neurological
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                     tion hypothesis that valence partly determines ener-       systems. In contrast, the valence activation hypothesis
+                                                                                                                     getic arousal and tense arousal, and it simultaneously     assumes that energetic arousal and tense arousal are
+                                                                                                                     allows estimating the correlation between the residu-      mixtures of a single activation dimension with va-
+                                                                                                                     als of energetic arousal and tense arousal. The mag-       lence. As explained previously, the correlation be-
+                                                                                                                     nitude of this parameter is the crucial test of the two    tween the residuals of energetic arousal and tense
+                                                                                                                     models of activation. If the two residuals are highly      arousal, after the shared variance with valence has
+                                                                                                                     positively correlated, energetic arousal and tense         been removed, provides a direct test of this hypoth-
+                                                                                                                     arousal share a common source of variance other than       esis. According to the valence activation hypothesis, a
+                                                                                                                     valence. If the correlation between the two residuals is   strong positive correlation should emerge, whereas
+                                                                                                                     weak, energetic arousal and tense arousal contain dis-     the two-dimensional model of activation predicts a
+                                                                                                                     tinct sources of variance. This goodness-of-fit test for   correlation close to zero. These predictions can also
+                                                                                                                     this second model is the same as for the first model       be formulated in terms of convergent and discriminant
+                                                                                                                     because it contains the same number of parameters. In      validity: The valence activation hypothesis predicts
+                                                                                                                     this model, the estimated correlation between the re-      that after removing valence, energetic arousal and
+                                                                                                                     siduals of energetic arousal and tense arousal was         tense arousal should show high convergent and low
+                                                                                                                     close to zero and not statistically significant, despite   discriminant validity, because both residuals reflect
+                                                                                                                     the large sample size (see Figure 1). It should be noted   the same activation dimension. In contrast, the two-
+                                                                                                                     that the model in Figure 1 is designed to test the         dimensional model of activation assumes that the re-
+                                                                                                                     valence activation hypothesis. The causal path from        siduals should show high discriminant validity and
+                                                                                                                     valence to the activation factors is imposed for this      low convergent validity because they represent two
+                                                                                                                     purpose, and the model does not reveal the causal          distinct types of activation. A test of this prediction
+                                                                                                                     processes underlying the correlations between valence      provided unambiguous support for the two-dimen-
+                                                                                                                     and the two activation dimensions.                         sional model of activation.
+                                                                                                                     416                                                BRIEF REPORT
+
+                                                                                                                         This finding cannot be attributed to measurement        this way, the correlation between the residuals of en-
+                                                                                                                     artifacts. Random error was controlled by means of          ergetic arousal and tense arousal is a quantitative in-
+                                                                                                                     estimating the residual correlations between latent         dex of the importance of a general activation dimen-
+                                                                                                                     factors. Systematic measurement error caused by re-         sion. The stronger the correlation between the
+                                                                                                                     sponse styles also cannot explain the results for rea-      residuals, the more it makes sense to postulate a com-
+                                                                                                                     sons discussed in detail in the introduction. However,      mon activation dimension. However, given that the
+                                                                                                                     it is also noteworthy that response styles would inflate    correlation is close to zero, support for a moderate
+                                                                                                                     correlations, which would benefit the valence activa-       valence activation model is also weak.
+                                                                                                                     tion model and not the two-dimensional model of ac-
+                                                                                                                     tivation that was actually supported. Hence, response
+                                                                                                                     styles cannot explain our findings.                            Are Tense Arousal and Energetic Arousal
+                                                                                                                         Another concern may be that the residuals no                         Basic Dimensions?
+
+
+
+
+  This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                     longer contain any reliable variance after the shared
+                                                                                                                     variance with valence has been removed. In this case,          The notion of (psychologically) basic dimensions
+                                                                                                                     the lack of a correlation between residuals would in-       of affect comprises two claims. First, a basic dimen-
+                                                                                                                     dicate that valence accounts for most of the variance       sion is not a mixture or combination of other dimen-
+                                                                                                                     in the activation measures. However, Figure 1 shows         sions. Second, other affects are reducible to the basic
+                                                                                                                     that the residuals explain more than 50% of the vari-       dimensions. It is important to distinguish between
+                                                                                                                     ance in the Activation factors. If the residuals can        these two claims (see Reisenzein, 2000). For example,
+                                                                                                                     correlate that highly with a factor, then they could        discrete emotion theories consider some emotions as
+                                                                                                                     correlate as highly with each other. Hence, the zero        basic in the sense that they are not reducible, but not
+                                                                                                                     correlation between the two residuals cannot be at-         necessarily in the sense that other emotions can be
+                                                                                                                     tributed to a lack of reliable variance in the residuals.   reduced to the basic emotions (see, e.g., Ekman,
+                                                                                                                         It is also not possible to attribute the results to a   1992). In the same vein, we consider energetic arousal
+                                                                                                                     chance finding, because the analyses were based on a        and tense arousal as basic dimensions of activation.
+                                                                                                                     large data set comprising four divergent samples. In        They cannot be reduced to more basic dimensions
+                                                                                                                     addition, the observed simple correlations are consis-      such as valence or activation. However, we do not
+                                                                                                                     tent with previous findings in the literature (Matthews     consider energetic arousal and tense arousal to be ba-
+                                                                                                                     et al., 1990; Steyer et al., 1994). As noted earlier, the   sic elements of other emotions. In particular, we do
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                     pattern of simple correlations determines the correla-      not propose that the valence of affective experiences
+                                                                                                                     tion between the residuals of energetic arousal and         can be reduced to activation patterns. Hence, we do
+                                                                                                                     tense arousal after controlling for valence. Hence, we      not equate pleasure with a state of calm wakefulness
+                                                                                                                     were able to examine the generalizability of the            or displeasure with a state of tense tiredness (see also
+                                                                                                                     present findings by computing the crucial correlation       Matthews et al., 1990; Steyer et al., 1994). In short,
+                                                                                                                     between the residuals of energetic arousal and tense        although we propose that energetic arousal and tense
+                                                                                                                     arousal from the published simple correlations. The         arousal cannot be reduced to valence and activation,
+                                                                                                                     results confirmed the present findings (.14 from Mat-       we do not claim that valence can be reduced to ener-
+                                                                                                                     thews et al., 1990; −.03 from Steyer et al., 1994). The     getic arousal and tense arousal (cf. Schimmack &
+                                                                                                                     high consistency across studies is not surprising be-       Grob, 2000).
+                                                                                                                     cause Reisenzein and Schimmack (1999) demon-                   This position is difficult to understand only if the
+                                                                                                                     strated that the raw correlations between affect ratings    structure of affect were truly two-dimensional. If this
+                                                                                                                     are highly replicable across studies.                       were the case, then the claim that energetic arousal
+                                                                                                                         Finally, there may be some concern that our analy-      and tense arousal are basic dimensions would imply
+                                                                                                                     ses were biased toward the two-dimensional model.           that other dimensions are mere mixtures of these di-
+                                                                                                                     After all, it seems more difficult to achieve a corre-      mensions. However, quantitative tests show that two-
+                                                                                                                     lation of 1 than a correlation of 0, even after carefully   dimensional models show a poor fit to actual data (cf.
+                                                                                                                     controlling measurement error. One reason for attenu-       Schimmack & Grob, 2000; Watson et al., 1999). We
+                                                                                                                     ated correlations could be valid variance in affects        suggest that future research on affect structure should
+                                                                                                                     that is not explained by valence and activation (Rus-       move toward more precise tests of structural hypoth-
+                                                                                                                     sell & Barrett, 1999). A more moderate valence acti-        eses. The present article demonstrates that such tests
+                                                                                                                     vation hypothesis could allow for some specific vari-       can provide clear and unambiguous evidence about
+                                                                                                                     ance in energetic arousal and tense arousal. Viewed         controversial issues.
+                                                                                                                                                                            BRIEF REPORT                                                    417
+
+                                                                                                                                            References                                 Rückschau, Rundschau, Ausschau [The structure of
+                                                                                                                                                                                       mood: Review, overview, and outlook]. Psychologische
+                                                                                                                     Ekman, P. (1992). An argument for basic emotions. Cog-            Rundschau, 50, 90–97.
+                                                                                                                       nition & Emotion, 6, 169–200.                                 Schimmack, U. (2001). Pleasure, displeasure, and mixed
+                                                                                                                     Gold, A. E., MacLeod, K. M., Deary, I. J., & Frier, B. M.         feelings: Are semantic opposites mutually exclusive?
+                                                                                                                       (1995). Changes in mood during acute hypoglycemia in            Cognition & Emotion, 15, 81–97.
+                                                                                                                       healthy participants. Journal of Personality and Social       Schimmack, U., Boeckenholt, U., & Reisenzein, R. (2002).
+                                                                                                                       Psychology, 68, 498–504.                                        Response styles in affect ratings: Making a mountain out
+                                                                                                                     Green, D. P., Goldman, S. L., & Salovey, P. (1993). Mea-          of a molehill. Journal of Personality Assessment, 78,
+                                                                                                                       surement error masks bipolarity in affect ratings. Journal      461–483.
+                                                                                                                       of Personality and Social Psychology, 64, 1029–1041.          Schimmack, U., & Grob, A. (2000). Dimensional models of
+                                                                                                                     Heller, W., Nitschke, J. B., & Lindsay, D. L. (1997). Neuro-      core affect: A quantitative comparison by means of struc-
+
+
+
+
+  This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                       psychological correlates of arousal in self-reported emo-       tural equation modeling. European Journal of Personal-
+                                                                                                                       tion. Cognition & Emotion, 11, 383–402.                         ity, 14, 325–345.
+                                                                                                                     Matthews, G., & Davies, D. R. (2001). Individual differ-        Steyer, R., Schwenkmezger, P., Notz, P., & Eid, M. (1994).
+                                                                                                                       ences in energetic arousal and sustained attention: A           Testtheoretische Analysen des Mehrdimensionalen Be-
+                                                                                                                       dual-task study. Personality and Individual Differences,        findlichkeitsfragebogen (MDBF) [Theoretical analysis of
+                                                                                                                       31, 575–589.                                                    a multidimensional mood questionnaire (MDBF)]. Diag-
+                                                                                                                     Matthews, G., Jones, D. M., & Chamberlain, A. G. (1990).          nostica, 40, 320–328.
+                                                                                                                       Refining the measurement of mood: The UWIST Mood              Thayer, R. E. (1967). Measurement of activation through
+                                                                                                                       Adjective Checklist. British Journal of Psychology, 81,         self-report. Psychological Reports, 20, 663–678.
+                                                                                                                       17–42.                                                        Thayer, R. E. (1989). The biopsychology of mood and
+                                                                                                                     Matthews, G., & Westerman, S. J. (1994). Energy and ten-          arousal. New York: Oxford University Press.
+                                                                                                                       sion as predictors of controlled visual and memory
+                                                                                                                                                                                     Tucker, D. M., & Williamson, P. A. (1984). Asymmetric
+                                                                                                                       search. Personality and Individual Differences, 17, 617–
+                                                                                                                                                                                       neural control systems in human self-regulation. Psycho-
+                                                                                                                       626.
+                                                                                                                                                                                       logical Review, 91, 185–215.
+                                                                                                                     Reisenzein, R. (2000). Einschätzungstheoretische Ansätze
+                                                                                                                                                                                     Watson, D., & Clark, L. A. (1997). Measurement and
+                                                                                                                       in der Emotionspsychologie [Appraisal theories in emo-
+                                                                                                                                                                                       mismeasurement of mood: Recurrent and emergent is-
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                       tion psychology]. In J. H. Otto, H. A. Euler, & H. Mandl
+                                                                                                                                                                                       sues. Journal of Personality Assessment, 68, 267–296.
+                                                                                                                       (Eds.), Handbuch der Emotionspsychologie (pp. 117–
+                                                                                                                                                                                     Watson, D., Wiese, D., Vaidya, J., & Tellegen, A. (1999).
+                                                                                                                       138). Weinheim, Germany: Psychologie Verlags Union.
+                                                                                                                                                                                       The two general activation systems of affect: Structural
+                                                                                                                     Reisenzein, R., & Schimmack, U. (1999). Similarity judg-
+                                                                                                                                                                                       findings, evolutionary considerations, and psychobiologi-
+                                                                                                                       ments and covariations of affects: Findings and implica-
+                                                                                                                                                                                       cal evidence. Journal of Personality and Social Psychol-
+                                                                                                                       tions doe affect structure. Personality and Social Psychol-
+                                                                                                                                                                                       ogy, 76, 820–838.
+                                                                                                                       ogy Bulletin, 25, 539–555.
+                                                                                                                     Russell, J. A., & Barrett, L. F. (1999). Core affect, proto-    Yik, M. S. M., Russell, J. A., & Barrett, L. F. (1999).
+                                                                                                                       typical emotional episodes, and other things called emo-        Structure of self-reported current affect: Integration and
+                                                                                                                       tion: Dissecting the elephant. Journal of Personality and       beyond. Journal of Personality and Social Psychology,
+                                                                                                                       Social Psychology, 76, 805–819.                                 77, 600–619.
+                                                                                                                     Russell, J. A., & Carroll, J. M. (1999). On the bipolarity of
+                                                                                                                       positive and negative affect. Psychological Bulletin, 125,                              Received March 4, 2002
+                                                                                                                       3–30.                                                                            Revision received May 27, 2002
+                                                                                                                     Schimmack, U. (1999). Die Struktur der Stimmungen:                                           Accepted July 3, 2002 ■
+

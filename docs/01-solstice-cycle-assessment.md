@@ -1,6 +1,6 @@
 # Test 1: The Solstice Cycle Assessment (SCA)
 
-> Status: v0.12 design document. Comprehensive multi-cycle review complete. Four review cycles applied (12, 1, 1, 0 issues found per cycle).
+> Status: v0.14 design document. All citations verified against full-text sources. Textural citations removed; every remaining reference directly grounds a design decision.
 > Position: The solstice-themed test of the four-test Solstice Soul suite.
 > Theme served: June Solstice (light and dark, cycles, turning points).
 > Honesty statement: The SCA is an original, theory-informed assessment for reflection and play. Its structure is inspired by validated models of affect (Russell's circumplex) and motivation (approach and withdrawal). It is not independently validated and is not clinical. Seasonal names are an interpretive metaphor, not a claim that personality is literally seasonal. Two further honesty notes: (1) Russell's circumplex is a model of momentary affect, a state model. We use its structure to organize trait-like dispositions, a move supported by the trait-affect literature but stated here openly rather than implied. (2) The June solstice is summer in the Northern Hemisphere and winter in the Southern. The SCA uses internal, hemisphere-neutral seasons and does not assume a hemisphere.
@@ -25,32 +25,25 @@ Structure comes from validated models. Texture comes from classical and archetyp
 
 - **Russell (1980), Circumplex Model of Affect.** Affect is organized on a circle defined by two orthogonal axes, activation and valence. *Use:* core geometric anchor. A circle is the correct shape for anything seasonal, because seasons are cyclical.
 - **Yik, Russell and Steiger (2011), 12-Point Affect Circumplex Scales.** Validated instrument for the circumplex. *Use:* evidence that the circular structure is measurable, not just conceptual.
-- **Thayer (1989), energetic arousal.** A studied dimension of felt energy versus tiredness. *Use:* grounds Axis A's high pole (brightness) in a real construct.
-- **Carver and White (1994), BIS/BAS scales.** **Gable and Harmon-Jones, approach and avoidance motivation.** Validated motivational dimension, energy moving toward versus away. *Use:* grounds Axis B (Tidal Direction) in approach and withdrawal. Cleaner for our theme than circumplex valence.
-- **Horne and Ostberg (1976), Morningness-Eveningness Questionnaire.** Chronotype as temporal rhythm. *Use:* motivates framing the result as a phase on a cycle rather than a fixed box.
+- **Schimmack and Reisenzein (2002), energetic arousal.** Demonstrated that energetic arousal is a distinct activation type, not a mixture of valence and general activation. *Use:* grounds Axis A's high pole (brightness) in an independently validated construct. The energetic arousal concept originates with Thayer (1989), but our direct source is Schimmack and Reisenzein.
+- **Carver and White (1994), BIS/BAS scales.** Validated motivational dimension: approach and withdrawal are orthogonal systems, not opposite poles of one. *Use:* grounds Axis B (Tidal Direction) in approach and withdrawal.
 
 ### 2.2 Textural sources (define how we describe)
 
-- **Classical four temperaments (Hippocrates and Galen), revived as affective temperaments by Akiskal (TEMPS-A).** *Use:* archetype flavor only (sanguine, melancholic, and so on).
-- **Kwapil et al. (2013), affective temperaments as Big Five dimensions.** *Use:* the caveat. Their work shows affective temperaments largely reduce to Big Five dimensions, so we borrow the poetry, never the clinical claims. All low-activation descriptions are reframed as depth and restoration.
 - **Big Five and HEXACO.** The consensus dimensional baseline. *Use:* reality check that our axes do not reinvent variance already captured elsewhere. Stated overlap in §8.
 
 ### 2.3 Why four types is defensible
 
-- **Gerlach, Farb, Revelle and Amaral (2018, Nature Human Behaviour).** Clustering and latent-profile analysis on roughly 1.5 million people yielded four replicable types (Average, Reserved, Role-Model, Self-Centered). *Use:* empirical defense that four types can be data-supported, not arbitrary.
+- **Gerlach, Farb, Revelle and Amaral (2018, Nature Human Behaviour).** Gaussian mixture models with density-based significance testing on roughly 1.5 million people yielded four replicable types (Average, Reserved, Role-Model, Self-Centered). *Use:* empirical defense that four types can be data-supported, not arbitrary.
 - **Kerber, Roth and Herzberg (2021), Personality types revisited.** Argues for a hybrid prototypical and dimensional representation. *Use:* justifies our scoring pattern. Dimensional underneath, labelled type on top.
 
 ### 2.4 Response-format sources (decide how we ask)
 
 - **McCrae and Costa (1989), reinterpreting the MBTI.** MBTI's binary dichotomies show no bimodality. Dichotomizing discards about 26 to 32 percent of information and inflates reliability. *Use:* reason to reject binary A/B forced choice.
-- **Schulte, Holling and Burkner (2020).** Pure forced-choice yields ipsative scores that cannot compare people. *Use:* reason to reject forced-choice scoring.
-- **Backstrom and Bjorklund (2024).** Forced-choice and Likert converge with enough items. Forced-choice's faking-resistance advantage is overstated. *Use:* reason not to sacrifice dimensional information for a marginal faking benefit.
+- **Schulte, Holling and Burkner (2020).** Pure forced-choice yields ipsative scores that cannot compare people, even with 30 traits. *Use:* reason to reject forced-choice scoring.
 - **Sun, Schmidt and Henry (2025), "Don't Let Your Likert Scales Grow Up To Be Visual Analog Scales."** Visual analogue scales (0 to 100 sliders) do not outperform Likert and add measurement error, especially with few items. *Use:* primary reason to reject the slider format proposed in v0.1.
-- **Zhang et al. (2025, Assessment).** Compared Likert against three slider formats on a validated scale (CES-D). Likert held up best. *Use:* corroborates the rejection of sliders.
-- **Kuhlmann, Dantlgraber and Reips (2017).** Visual analogue and Likert scales often fail measurement equivalence. *Use:* corroborates the rejection of sliders.
-- **Vollbracht et al. (2026).** Sliders have some phone-UX advantages but the psychometric case is unsettled. *Use:* context for the slider decision, kept for honesty about the trade-off.
 - **Chang (1994), four-point and six-point Likert scales.** *Use:* grounds the choice of seven points (at least five, with strong discrimination and low cognitive load).
-- **Gosling, Rentfrow and Swann (2003), TIPI.** **Gliem and Gliem (2003), Cronbach's alpha.** Ultra-short scales (two items per dimension) are too thin for acceptable reliability. *Use:* sets the item-count floor.
+- **Gosling, Rentfrow and Swann (2003), TIPI.** Ultra-short scales (two items per dimension) are too thin for acceptable reliability. *Use:* sets the item-count floor.
 - **Spearman-Brown prophecy formula.** Reliability rises monotonically with item count, with diminishing returns past 8 per facet. *Use:* grounds the 8-items-per-facet standard, where expected Cronbach's alpha reaches the .85 to .92 strong band.
 
 ### 2.5 Facet grounding (added v0.6)
@@ -58,8 +51,8 @@ Structure comes from validated models. Texture comes from classical and archetyp
 The facets under each axis are grounded in validated sub-constructs, not invented.
 
 **Axis A facets.**
-- **A1 Baseline Arousal:** Thayer (1989), energetic arousal. The tonic activation set-point, felt as energy versus tiredness. Distinct from tense arousal, which we do not measure.
-- **A2 Stimulation Appetite:** Zuckerman (1979), Sensation Seeking. The preferred level of varied, novel, and intense stimulation. Validated four-factor instrument; we draw on the general preference dimension.
+- **A1 Baseline Arousal:** Schimmack and Reisenzein (2002), energetic arousal. The tonic activation set-point, felt as energy versus tiredness. Demonstrated to be a distinct activation type, not reducible to valence plus general activation. The energetic arousal construct originates with Thayer (1989), but our direct source is Schimmack and Reisenzein.
+- **A2 Stimulation Appetite:** Zuckerman (2007), Sensation Seeking Scale. The preferred level of varied, novel, and intense stimulation. The SSS-V has been validated across hundreds of studies with replicated four-subscale structure and discriminant validity. The general construct originates in Zuckerman (1979), but our direct source is the 2007 validation review.
 
 **Axis B facets.**
 - **B1 Social Approach:** DeYoung, Quilty and Peterson (2007), Big Five Aspect Scales, Enthusiasm aspect. Sociability, affiliation, positive emotion toward others.
@@ -96,12 +89,12 @@ Honesty note on Spring and Autumn. They are the transitional seasons, and we pla
 Two orthogonal continuous axes, each 0 to 100.
 
 **Dimension A, Solar Height** (affective activation, energetic intensity).
-- Construct basis: Russell circumplex activation axis. Thayer energetic arousal. Bright and Dim are evocative labels for high and low activation, inspired by the solstice's light cycle but not literal light measurements.
+- Construct basis: Russell circumplex activation axis. Schimmack and Reisenzein (2002) energetic arousal. Bright and Dim are evocative labels for high and low activation, inspired by the solstice's light cycle but not literal light measurements.
 - High pole, Bright: radiant, high-energy, intense.
 - Low pole, Dim: quiet, low-arousal, still, interior. Reframed as depth and calm, never depression.
 
 **Dimension B, Tidal Direction** (motivational orientation, energy flow).
-- Construct basis: BAS approach versus BIS withdrawal (Carver and White 1994). Approach and avoidance (Gable and Harmon-Jones).
+- Construct basis: BAS approach versus BIS withdrawal (Carver and White 1994).
 - High pole, Outward: energy moving toward the world. Opening, engaging, approach-oriented.
 - Low pole, Inward: energy drawing toward the interior. Conserving, gathering, reflective.
 
@@ -178,9 +171,6 @@ Each item shows two anchor statements (the two poles of the axis) with seven dis
 **Why a seven-point bipolar Likert, not a percentage slider.**
 The v0.1 draft proposed a 0 to 100 slider. The literature forced a reversal.
 - Sun, Schmidt and Henry (2025): sliders do not outperform Likert and add measurement error with few items.
-- Zhang et al. (2025): Likert held up best against three slider formats on a validated scale.
-- Kuhlmann et al. (2017): VAS and Likert often fail measurement equivalence.
-- Vollbracht et al. (2026): sliders have some phone-UX advantages but the psychometric case is unsettled.
 
 Decisive practical point: every validated personality inventory uses Likert. NEO-PI-R, BFI-2, HEXACO-PI-R, TIPI, IPIP. None use sliders. Likert is more familiar, more mobile-friendly (discrete taps, not dragging), and more reproducible (better test-retest). The bipolar two-statement form keeps the vivid either-or feel the theme wants while behaving psychometrically like a Likert or semantic-differential item.
 
@@ -320,6 +310,6 @@ Test 1 decisions locked. No open decisions.
 - Name: The Solstice Cycle Assessment (SCA). Locked v0.3.
 - Result naming: season-primary with archetype subtitle (for example `🍂 Autumn: The Turning`). Locked v0.3.
 - Suite template: Option A. Tests 2 to 4 reuse Test 1's structure (two validated axes, two facets per axis, continuous scoring, four quadrant types with gradation, 14-section profile, AI narrative, deterministic fallback, eight items per facet, seven-point bipolar Likert) with their own axes, themes, and result names. Locked v0.4.
-- All audit fixes through v0.12 applied.
+- All audit and reference fixes through v0.13 applied. See CHANGELOG for full history.
 
 See `CHANGELOG.md` for revision history.

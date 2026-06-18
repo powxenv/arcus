@@ -1,0 +1,1008 @@
+        Reinterpreting the Myers-Briggs Type
+        Indicator From the Perspective of the
+             Five-Factor Model of Personality
+
+            Robert R. McCrae and Paul T. Costa, Jr.
+                 Gerontology Research Center
+                National Institute on Agmg, NIH
+
+ABSTRACT The Myers-Bnggs Type Indicator (MBTI, Myers & McCauUey,
+ 1985) was evaluated from the perspectives of Jung's theory of psychological
+types and thefive-factormodel of personahty as measured by self-reports and
+peer ratings on the NEO Personality Inventory (NEO-PI, Costa & McCrae,
+ 1985b) Data were provided by 267 men and 201 women ages 19 to 93 Con-
+sistent with earlier research and evaluations, there was no support for the view
+that the MBTI measures truly dichotomous preferences or qualitatively distmct
+types, instead, the instrument meastires four relatively independent dimensions
+The interpretation of the Judging-Pferceivmg index was also called into ques-
+tion The data suggest that Jung's theory is either incorrect or madequately op-
+erationalized by the MBTI and cannot provide a sound basis for interpreting it
+However, correlational analyses showed that the four MBTI indices did measure
+aspects of four of the five major dimensions of normal personality The five-
+factor model provides an alternative basis for interpreting MBTI findings within
+a broader, more commonly shared conceptual framework
+
+The Myers-Bnggs Type Indicator (MBTI, Myers & McCaulley, 1985) is
+unusual among personality assessment devices for three reasons It is
+based on one of the classic statements of personality theory, it purports
+to measure types rather than traits or other continuous vanables, and it is
+
+
+Thanks are due to Hamson Gough, Mary McCaulley, and Avnl Thome for valuable
+suggestions on earlier drafts of this article, however, we retain full responsibility for
+the interpretations offered Correspondence concerning this article can be addressed
+to Robert R McCrae, ftrsonality. Stress, and Coping Section, Gerontology Re-
+search Center, 4940 Eastem Avenue, Baltimore, MD 21224
+Journal of Personality 57 1, March 1989
+18                                                    McCrae and Costa
+
+widely used to explam individuals' personality charactenstics not only
+to professionals but also to the individuals themselves and to their
+fnends, families, and co-workers These distinctions have made the
+MBTI a popular personality instrument for organizational and lndustnal
+psychologists (e g , Hirsh, 1985) and for individuals who wish to under-
+stand themselves better
+   Personality psychologists, however, have generally been less enthu-
+siastic about the MBTI Stacker and Ross (1964a, 1964b) conducted ex-
+tensive and sophisticated analyses that led them to a cntical evaluation
+of both the typology and the scales themselves, and their concerns have
+been echoed by more recent cntics Theonsts complain that the Jungian
+concepts that are supposed to underlie the MBTI have been distorted
+(Coan, 1978, Comrey, 1983) Psychometncians are troubled by the con-
+ception of psychological types (Mendelsohn, Weiss, & Feimer, 1982)
+and the limited evidence that the MBTI measures anything other than
+quasi-normally distributed personality traits (DeVito, 1985, Hicks,
+1984)
+   Even cntical reviewers, however, see promise in the instrument, and
+Its continued populanty, as well as empincal literature to date, suggests
+that It IS effective at some level In the present article we assess the MBTI
+from the perspective of Jungian theory, we then offer an alternative con-
+ceptualization of the scales ofthe MBTI m terms of a taxonomy ofper-
+sonality traits widely accepted in mainstream personality psychology,
+thefive-factormodel (Digman & Inouye, 1986, McCrae & Costa, 1987,
+Norman, 1963)
+
+
+                 Jung's Types a n d the MBTI Scales
+ In Psychological Types, Jung (1923/1971) reviewed the history of psy-
+chological typologies from classical literature and poetry through the
+wntmgs of William James as a basis for his own formulations His cen-
+tral distinction was between introverted and extraverted attitudes, which
+represent fundamental onentations to either the objective or the subjec-
+tive world Further, he postulated that individuals relate to the world
+through two sets of opposed functions the rational (or judging) functions
+of thinking and feeling, and the irrational (or perceiving) functions of
+sensing and intuition Finally, one of the four functions was seen as the
+dominant, and a second as the auxiliary function
+   Although It provides nch insights mto some aspects of individual dif-
+ferences, Jung's theory also creates formidable obstacles to the develop-
+MBTI and NEO-PI                                                         19
+
+ment of an inventory for assessing types Much of his descnption con-
+cerns the unconscious life of the individual, which is not directly
+accessible to self-report The subjective world of introverts is populated
+by archetypes and images that are not easily communicated, Jung wrote
+that introverted feeling "manifests itself for the most part negatively" (p
+387) and that the introverted sensing type "is uncommonly inaccessible
+to objective understfuidmg, and he usually fares no better in understand-
+ing himself" (p 397) Descnptions of attitudes and functions sometimes
+seem to overlap—for example, sensing types often seem to resemble ex-
+traverts—and all classifications are complicated by the intrusion of un-
+conscious elements of the opposing function when the dominant, con-
+scious function IS overdeveloped Finally, Jung's descnptions of what
+might be considered superficial but objectively observable charactenstics
+often include traits that do not empincally covary Jung descnbed extra-
+verts as "open, sociable, jovial, or at least fnendly and approachable
+characters" (p 330), but also as morally conventional (p 334) and
+tough-mmded in James's sense (p 307) Decades of research on the di-
+mension of extraversion show that these attnbutes simply do not cohere
+in a single factor (Guilford, 1977, Guilford & Guilford, 1934) The
+MBTI manual itself contradicts Jung by using tough-mmded to descnbe
+the thinking function rather than the extraverted attitude (Myers &
+McCaulley, 1985, p 13)
+   Faced with these difficulties, Myers and Bnggs created an instrument
+by elaborating on the most easily assessed and distinctive traits sug-
+gested by Jung's wntmgs and their own observations of individuals they
+considered exemplars of different types and by relying heavily on tradi-
+tional psychometnc procedures (pnncipally item-scale correlations)
+Their work produced a set of internally consistent and relatively uncor-
+related mdices measunng Extraversion-Introversion (EI), Sensing-In-
+tuition (SN), and Thmking-Feeling (TF) They also added a Judgment-
+Fterception (JP) index that indicates, in conjunction with the EI prefer-
+ence, whether the rational or irrational function is dominant Each ofthe
+indices is dichotomized at a theoretically fixed zero point to show a pref-
+erence, and a four-letter code gives the type classification Numeric
+scores indicate the strength of preference, and a continuous score can be
+computed for each index that contrasts strengths of opposing prefer-
+ences
+   Jungians might question the addition of the JP scale, or even the en-
+terpnse of constructing a self-report type mdicator From the psycho-
+metnc perspective, however, the MBTI may be looked upon as an ad-
+20                                                     McCrae and Costa
+
+vance over Jung's largely untested speculations However one chooses to
+evaluate the instrument, it is crucial to realize that it is not lsomorphic
+with the theory on which it is based In consequence, using the MBTI to
+test Jungian theory, or using the results of such tests to validate the
+MBTI, must be viewed with caution
+
+
+                Continuous Scoring and Typologies
+The MBTI is offered as a "type indicator" on the assumption that it can
+classify individuals into 1 of 16 qualitatively different types, formed by
+combination of the four dichotomous preferences In some respects, the
+validity of this typology is the central question in the evaluation of the
+instrument If qualitatively distinct types cannot be demonstrated, then
+either Jung's theory is wrong, or the MBTI fails to operationahze it ade-
+quately In the absence of evidence for the typology, the instrument be-
+comes merely a series of scales whose information is reduced, rather
+than increased, by dichotomous classifications, the charactenstics that
+set It apart from countless other personahty instruments vanish, and it
+must be evaluated and used m a more traditional context
+    MBTI theory specifies three levels at which distinctive typological
+ characteristics should be seen in qualitative differences between op-
+ posed preferences, in the identification of a dominant function through
+ the use ofthe EI and JP scales, and in statistical interactions among pref-
+erences on external cntena
+    The first issue concerns the validity of dichotomizing preference
+ scores Although most trait psychologists adopt the language of types in
+discussing individuals (contrasting, e g , introverts and extraverts), this
+IS generally done as a convenient way of saying "above average on a nor-
+ mally distnbuted trait" or "below average " Jung himself appears to
+adopt this position m some of his wntings, admitting that there are in-
+termediate positions between pure introversion and pure extraversion, m
+which individuals are "infiuenced as much from within as from without"
+(1923/1971, p 516) The authors of the MBTI, however, have adopted
+the interpretation that types are mutually exclusive groups of people, and
+that the cutting point between them is not arbitrary, but a true zero point
+The most persuasive evidence for this would be a clear bimodal distn-
+buuon of preference scores None of the MBTI indices shows bimodal-
+lty, a point which Stncker and Ross (1964a) held against them
+ MBTI and NEO-PI                                                         21
+
+     An alternative interpretation of the nature of types points to a more
+  subtle form of discontinuity, in which external correlates (or regression
+  coefficients) vary for the two types (Hicks, 1984, Mendelsohn et al ,
+   1982) The manual provides some studies showing such dispanties in the
+  relations between external cntena and opposite preferences For exam-
+  ple, when grade-point average is plotted against EI scores, there appears
+  to be a jump at the zero point, with introverts showing higher grades The
+  effect, however, is extremely subtle, and the authors admit that "for such
+  small differences to be visible, samples of 4,000-5,000 are needed"
+ (Myers & McCaulley, 1985, p 158) DeVito (1985) concludes that the
+ evidence provided by the manual on this issue is "weak "
+     A second typological charactenstic that must be addressed concerns
+ the JP index This preference is intended to show which ofthe two types
+ of functions—^judging or perceiving—is favored m dealing with the ex-
+ ternal world, m combination with the EI preference, it determines the
+ dominant and auxiliary functions specified in Jung's theory Individuals
+ classified as ENTJ (l e , Extraverted, Intuitive, Thinking, and Judging)
+ emphasize the judging function of Thinking in the external world, as Ex-
+ traverts, they would have Thinking as the dominant function and Intui-
+tion as the auxiliary INTJs (Introverted, Intuitive, Thmhng, and Judg-
+ ing individuals) would also show a preference for Thinking m dealing
+with the external world, but because they are Introverts, this would be
+their auxiliary function The distinction between auxiliary and dominant
+functions is important in Jungian theory, and forms the major rationale
+for the JP index It is therefore surpnsing that so few studies have at-
+tempted to validate it Myers and McCaulley noted that "according to
+theory, the dominant function will show a clearer preference [l e , a
+higher preference score] than will the auxiliary" (1985, p 58), but ad-
+mitted that "scores for the dominant are greater than those for the auxil-
+iary in only about half the types" (p 60)—as one would expect from
+chance
+    Third, if the 16 types represent unique configurations of attitudes and
+preferences, as MBTI theory holds, there should be evidence of differ-
+ences between types above and beyond that attnbutable to the four pref-
+erences themselves Although other interpretations are possible (Block
+& Ozer, 1982), most researchers have interpreted this to mean that there
+must be theoretically meaningful and statistically significant interaction
+effects as well as main effects (Mendelsohn et al , 1982, Weiss, Mendel-
+sohn, & Feimer, 1982) As Hicks (1985) noted, "without evidence for
+22                                                          McCiae and Costa
+
+interactions there is no evidentiary basis for a 16-box matnx of distinct
+types" (p 13) Hicks (1984) herself failed to demonstrate predicted in-
+teractions, and Stncker and Ross (1964a) found no evidence of interac-
+tion effects m analyses of academic aptitude and performance measures
+They recommended further study of this question using "other kinds of
+vanables, particularly those from the personality sphere" (p 69) '
+   Finally, it might be noted that scale development apparently disre-
+garded the hypothesized typologicd structure If the types are qualita-
+tively distinct, one might need to create different scales to measure
+Thinkmg-Feeling (and Sensation-Intuition) m extraverts and in intro-
+verts Instead, the indices were developed as four independent scales,
+with Item selection pooled across all different types
+
+
+          Ezpenmental and Conelational Approaches to
+                       Scale Validation
+Most studies on the validity of the MBTI have focused on individual m-
+dices rather than the full typology Because of its explicit theoretical ba-
+sis, some researchers have adopted an expenmental, hypothetico-deduc-
+tive approach to validation of the MBTI indices (J G Carlson, 1985,
+DeVito, 1985) For example, R Carlson (1980) conducted a study m
+which students were asked to wnte letters mtroducmg themselves to an
+imagined foreign correspondent As hypothesized, intuitive types were
+more likely to make references to the imagined other, sensing types were
+more likely to provide physical descnptions of themselves
+   An alternative to the expenmental approach in personality research is
+the correlational study, in which a new scale is related to established
+meastires It is possible to test specific hypotheses if alternative measures
+of the same or theoretically related constructs are used In the case of the
+MBTI, the problem is that few other mstruments attempt to measure Jun-
+gian constructs Aside from those m the Jungian Type Survey (Wheel-
+wnght, Wheelwnght, & Buehler, 1964), which do correlate with the cor-
+
+1 The dependent vanables for which interaction effects should be found must, of
+course, be different from the MBTI categonzmg vanables If MBTI mdices are
+themselves simply nMsasures of tr^iitional personahty vanables, it would not make
+sense to lode for interaction effects on other measures of the same perscmality van-
+ables H K MBTI typology, however, claims to be sometfung other than an inventory
+of personality traits, and umter this hypothesis, an examination of pMsonality mea-
+sures as dependent vanables is appropnate
+MBTI and NEO-PI                                                        23
+
+ responding MBTI indices, there are few alternative measures of sensmg
+ versus mtuition or thinking versus feeling
+    Correlational research may also be exploratory, seeking an interpreta-
+ tion ofthe scale from a pattern of convergent and discnminant relations
+ There is no lack of correlational data on the MBTI, as the manual (Myers
+ & McCaulley, 1985) amply attests What is needed, however, is a mean-
+ ingful framework in which to organize and interpret the many corre-
+ lates—a set of standard dimensions by reference to which the MBTI in-
+dices can be understood Ideally, this set would systematically sample
+the full range ofpersonality traits, providing the basis for a comprehen-
+sive assessment of the MBTI
+    One classification of traits—thefive-factormodel—seems to provide
+a comprehensive taxonomy Beginning with the work of Allport and Od-
+bert (1936), several studies have attempted to specify exhaustively the
+range of personality traits by examining English language trait names,
+on the assumption that native speakers would have evolved words for all
+important individual differences Independently, Block (1961) and his
+colleagues sought to provide a universal, clinically based language for
+descnbing all important aspects of personality, and they developed the
+California Q-Set (CQS) Research from both these traditions has con-
+verged on thefive-factormodel ofpersonality (Goldberg, 1981, McCrae,
+Costa, & Busch, 1986, Nonnan, 1963), and the same factors have also
+been identified in studies of several standard personality inventories
+(Costa & McCrae, 1985a, McCrae & Costa, 1985a, 1987)
+    Thefive-factormodel is not based on any single theory ofpersonality,
+but has been shown to encompass scales that operationalize a ntimber of
+theoretical perspectives (McCrae & Costa, 1985a, 1985b) The model
+has been recovered m ratings (Tlipes & Chnstal, 1961) as well as self-
+reports (McCrae & Costa, 1985c), in German (Amelang & Borkenau,
+ 1982) as well as Enghsh, m children (Digman & Inouye, 1986) as well
+as adults Although not universally recognized as a comprehensive tax-
+onomy (Waller & Ben-Porath, 1987), an mcreasmg number of person-
+ahty researchers have adopted some version of the five-factor model
+(Funder & Colvm, 1988, McCrae & Costa, m press-a)
+    Each of the five dimensions represents a broad domain compnsing a
+vanety of more discrete traits, or facets Neuroticism includes the pre-
+disposition to expenence negative affects such as anxiety, anger, and
+depression, and other cognitive and bdiavioral manifestations of emo-
+tional instability Extraversion mcludes sociability, activity, dominance,
+and the tendency to expenence positive emotions Openness to Expert-
+24                                                       McCiae and Costa
+
+ence is seen in imaginativeness, aesthetic sensitivity, depth of feeling,
+cunosity, and need for vanety Agreeableness encompasses sympathy,
+trust, cooperation, and altruism. Conscientiousness includes organiza-
+tion, persistence, scrupulousness, and need for achievement
+    Those familiar with the content and correlates of the MBTI indices
+may note some conceptual similanties, beyond the obvious alignment of
+the two Extraversion scales (Dachowski, 1987) In particular, Intuitives
+seem to be open to expenence whereas sensing types are closed. Feeling
+types seem to be agreeable and Thinking types antagonistic, and Judging
+types seem high and Pfcrceivmg types low m Conscientiousness ^ Note
+that these correspondences do not necessanly denve directly from Jun-
+ gian theory Jung (1923/1971) does descnbe both extraverted and intro-
+ verted intuitive types as "continually scenting out new possibilities" (p
+ 400) in the outer and inner worlds, respectively, so the link of SN with
+ Openness seems justified However, as we have pointed out, Jung's con-
+ ception of extraversion is more diffuse than that embodied in the Extra-
+ version factor Moreover, it would be difficult to justify the association
+ of the feeling function with Agreeableness Fbr Jung, thinking is an in-
+ tellectual activity m which judgments are based on the rational applica-
+ tion of pnnciples,^e//«g is the assignment of value (acceptance or rejec-
+ tion) to objects of expenence An individual whose first reaction to each
+ expenence was a judgment of rejection (contempt, mistrust, or hatred)
+ without a logical basis would be classified by Jung as a feeling type, but
+ would probably score very low on the MBTI Feeling preference As de-
+ scnbed by Jung, the thinking and feeling functions seem to refer to em-
+ phases on different modes of expenence, and might be related more di-
+ rectly to facets of Openness (see Coan, 1974)
+     In the present research, we first examine charactenstics ofthe MBTI
+  typology, evaluating the utility of the JP scale in indicating dominant
+  function and searching for interaction effects on personality vanables
+  We then consider relations between the MBTI continuous scales and the
+  five factors ofpersonality as measured by the NEO Personality Inventory
+  (NEO-PI), usmg both self-reports and peer ratings ofpersonality In ad-
+  dition, we test the hypothesis that the TF scale is positively related to
+
+
+ 2 Similarly, Conley (1985) associated Sensing versus Intuition with a Conserva-
+ tive-Radical dimension, and Thinking versus Feeling with a Tough-Mmded-
+ Tender-Minded dimension
+MBTI a n d NEO-PI                                                         25
+
+openness to Feelings, and negatively related to openness to Ideas These
+analyses should provide a basis for understanding the MBTI scores
+within the framework of a widely accepted personality taxonomy
+
+
+                                 METHOD
+
+                                 Subjects
+Participants in the Baltimore Longitudinal Study of Agmg (BLSA, Shock et
+al , 1984) and their spouses provided data for the study BLSA volunteers
+are a group of predominantly white, community-dwelling individuals who
+have agreed to return for periodic biomedical and psychological testing
+Most have at least a college degree, and many have advanced degrees Com-
+pansons with a national sample (Costa et al , 1986) suggest that they are
+somewhat higher than the general population in Openness to Expenence, but
+do not differ markedly m Extraversion or Neuroticism The 267 men who
+provided complete data on both the NEO-PI and MBTI ranged in age from
+21 to 93 (M = 62 7), the 201 women ranged in age from 19 to 93 (M =
+58 9)
+   A subsample of 70 men and 35 women had previously participated m a
+peer ratmg study Mean ratings on the NEO-PI were provided by from one
+to four fnends and neighbors, details are given elsewhere (McCrae & Costa,
+1987)
+
+
+                                Measures
+Form G of the MBTI (Myers & McCaulley, 1985) was used in this study
+This form consists of 126 questions, of which only 94 are actually scored
+Most Items offer a forced-choice between two responses, although some
+have more response options, and respondents are occasionally allowed to
+endorse two or more responses Separate sconng keys are provided for each
+preference (e g , both E and I, both S and N), although most items are sim-
+ply reverse scored for the opposing function Because the opposing prefer-
+ence scores are almost completely lpsative, they are not analyzed separately
+here Preference is determined by the greater of the two preference scores
+(with provisions for breaking ties), and a four-letter code (e g , INTJ) sum-
+manzes all four sets of contrasts and specifies into which ofthe 16 types the
+individual is classified
+  Four continuous scores can also be obtained that correspond to the differ-
+ence between opposing preferences, these scores have a theoretical neutral
+point of 100 Both intemal consistency and retest reliability of the continu-
+ous scores are adequate, according to the manual, from 31% to 61% of sub-
+26                                                        McCrae and Costa
+
+jects showed identical four-letter types after retest intervals of from 5 weeks
+to 6 years The four contmuous scores show low intercorrelations except for
+SN and JP, which are positively related, r = 38, m both normative data and
+the present sample
+   The NEO-PI (Costa & McCrae, 1985b) is a 181-item questionnaire de-
+veloped to operationalize the five-factor model Early work emphasized the
+three domams of Neuroticism (N), Extraversion (E), and Openness to Ex-
+penence (O). each measured by six 8-item facet scales and a total domain
+scale The facets of Neuroticism are Anxiety, Hostility, Depression, Self-
+Consciousness, Impulsiveness, and Vulnerability, the facets of Extraversion
+are Warmth, Greganousness, Assertiveness, Activity, Excitement Seeking,
+and Positive Emotions, and the facets of Openness are Fantasy, Aesthetics,
+Feelings, Actions, Ideas, and Values Global, 18-item scales measunng the
+domains of Agreeableness (A) and Conscientiousness (C) were later added
+   NEO-PI Items are answered on a 5-point Likert scale, and scales are bal-
+anced to control for acquiescence Social desirability does not appear to bias
+NEO-PI scales when used in volunteer samples (McCrae & Costa, 1983)
+Intemal consistency for the five domain scales ranges from 76 to 93, and
+scores for adults are very stable, with 3- to 6-year retest coefficients ranging
+from 63 to 83 (Costa & McCrae, 1988) NEO-PI scales have been corre-
+lated with other questionnaires, observer ratings, and sentence completions,
+and have been used to predict psychological well-being, coping styles, and
+somatic complaints (Costa & McCrae, 1985b) A thu-d-person form of the
+NEO-PI has been developed and validated for use by raters (McCrae &
+Costa, 1987)
+   The 18 N, E, and O facet scales and the A and C domain scales were
+factored to provide an optimal operationalization of the five-factor model
+(McCrae & Costa, in press-b) Factors were rotated to maximize convergent
+and discnmmant validity with a senes of extemal cntena, including peer
+and spouse ratings and self- and interviewer Q-sorts The NEO-PI factors
+correlate highly with their corresponding domain scales (rs = 79 to 96),
+but show a somewhat stronger pattem of convergent and discnminant valid-
+ity, particularly for the A and C factors
+   The MBTI and NEO-PI were mailed to subjects m June 1986 and retumed
+by mail, peer ratings on the NEO-PI were {*tained m 1983 Because of the
+stability of personality scores m adults, this time lag is unlikely to affect
+results substantially (Costa & McCrae, 1985a) Both inventones were
+scored according to directions in the manuals, and all subjects with com-
+plete data are mcluded in the analyses
+   Finally, instruments offenng altemative operationalizations of the five-
+factor model had been administered to subsets of subjects Factors from self-
+sorts on Block's (1961) CQS (McCrae et al , 1986) were available for 119
+men and 49 women, factors from an adjective checklist (McCrae & Costa,
+1985c) were available for 133 men and 58 women
+MBTI a n d NEO-PI                                                       27
+
+                                RESULTS
+Although the absence of normative information on continuous scores
+makes companson difficult, the present sample seems to resemble other
+adult samples m the distnbution of MBTI scores Fbr purposes of com-
+panson, subjects were classified into four-letter code types Men clus-
+tered m the ISTJ (27 7%) and ESTJ (18 0%) types, whereas women
+were somewhat more evenly distnbuted among the 16 types Normative
+data from a national sample (Tables 4 12 and 4 13 m Myers & Mc-
+Caulley, 1985) show a similar pattem Age, sex, and years of education
+were correlated with the four continuous scales, only three correlations
+were greater than 20 age with JP (r = - 28), gender with TF (r =
+ 39), and education with SN(r = 23) Older subjects preferred judging,
+women preferred feeling, and better-educated individuals preferred in-
+tuition
+   Jungian theory suggests that a balance between opposing functions
+should be developed in later life, so it might be hypothesized that older
+men and women would show less extreme scores on the SN and TF
+scales However, F tests for the equality of vanance for subjects above
+and below age 65 showed no significant differences—a nullfindingrep-
+licated by the data m Appendix C of the MBTI manual given for a
+younger group of adults These cross-sectional studies provide no sup-
+port for the Jungian theory of adult personality development Either
+Jung's theory is incorrect on this point, or the MBTI indices do not ade-
+quately operationalize Jungian constmcts
+
+                      Analyses of the Typology
+According to MBTI theory, individuals classified as EJ or IP have a dom-
+inant judging function (l e , T or F), whereas those who are classified as
+EP or IJ have a dominant perceivmg function (S or N) The dominant
+function IS the most highly developed, so the individual should show the
+clearest preference for it Strength of preference for judging can be as-
+sessed by the distance (in either the thinking or feeling direction) of the
+continuous TF score from the neutral point of 100, similarly, strength of
+preference for perceiving can be assessed by the distance of the contin-
+uous SN score from 100 A companson of these two values should indi-
+cate which of the two functions shows the stronger preference
+   However, as Table 1 shows, when subjects were cross-classified by hy-
+pothesized dominant function and observed stronger preference, chi-
+28                                                        McCiae and Costa
+
+                              Tabtol
+ Cross-Tabulation ot Hypothesized Dommant Function by Observed
+                        Stronger Preference
+
+                                         Hypothesized dominant function
+Observed stronger preference              Judging           Perceiving
+Men"
+  Judging                                    42                    72
+  Perceiving                                 65                    80
+Women"
+  Judging                                    35                    46
+  Perceiving                                 48                    68
+Note Data from 8 men and 4 women with tied preference scores are omitted
+a Continuity-adjusted chi-square = 1 37, ns
+b Continuity-adjusted chi-square = 0 01, ns
+
+
+square analysis showed no significant association for either men or
+women It is possible that these results are due to the fact that the range
+for the SN score is greater than the range for the TF score, mcreasmg the
+probability that all individuals will have a higher preference score on the
+perceivmg function To examine this possibility, both SN and TF scores
+were standardized to have a mean of 0 and a standard deviation of 1, the
+higher absolute value was taken to indicate a more clearly preferred func-
+tion Again, chi-square analysis failed to show a significant association
+with the hypothesized dommant function in either men or women These
+data provide no support for the MBTI system as a means of assessing the
+Jungian dominant function
+   To examine the configural effects ofthe MBTI classifications on nor-
+mal personality dimensions, multivanate analyses of vanance were per-
+formed on the five NEO-PI factor scores using the four MBTI dichoto-
+mies as classifying vanables A total of 55 two-, three-, and four-way
+interactions were thus examined Overall F tests were significant for the
+main effects andforthe EI x JP interaction, but not for any of the 10
+other two-, three-, and four-way interaction terms Inspection ofthe uni-
+vanate F tests for the EI x JP interaction showed one significant effect
+NEO-PI Neuroticism was particularly high among individuals who
+showed both I and P preferences However, when examined withm sex,
+this effect was significant only for women These analyses do not support
+the hypothesis that personality traits will be affected by particular com-
+binations of MBTI preferences into qualitatively distinct types Instead,
+MBTI and NEO-PI                                                                29
+
+                              Table 2
+      Mean Levels of NEO-PI Factor Scores for MBTI Preferences
+
+                                        MBTI preference
+NEO-PI factor E            I      S      N        T     F         J        P
+Neuroticism      48 6    50 4* 49 4      49 7    47 7    52 8*** 48 9    51 8
+Extra-           55 7    44 4*** 48 8    50 5    48 7    51 1* 48 8      51 9**
+  version
+Openness         504     50 2    45 1 56 9*** 49 6       515     49 1    54 Q***
+Agreeableness    50 3    49 1    49 0 50 6    46 9       54 4*** 49 5    50 2
+Conscien-        487     49 8    49 9 48 5    50 3       47 6*** 51 4    42 •7***
+  tiousness
+
+N               214     254     264     204     297     171    357      111
+Note NEO-PI = NEO Personahty Inventory MBTI = Myers-Bnggs Type Indicator
+E = Extraverted, I = Introverted, S = Sensing, N = Intuitive T = Thinking, F =
+Feeling, J = Judging, P = Perceiving
+*p< 05
+**p< 01
+**V< 001
+
+the four-letter type codes of the MBTI simply summarize four indepen-
+dent main effects
+   Analyses were then repeated using contrasting MBTI preferences and
+gender as classifying vanables Because there were no Preference x
+Gender interactions, only the mam effects for preference need be consid-
+ered, mean values for the NEO-PI factors (expressed as T scores) are
+given m Table 2 These findings show that individuals categonzed as In-
+troverts by the MBTI score slightly higher in NEO-PI Neuroticism and
+much lower in NEO-PI Extraversion, Intuitive types score higher in
+Openness to Expenence, Feeling types score higher m Neuroticism, Ex-
+traversion, and Agreeableness, and lower m Conscientiousness, and Psr-
+ceivmg types score higher m NEO-PI Extraversion and Openness, and
+lower m Conscientiousness
+
+                        Analyses ol Continuous Scores
+Although several of these effects are large m magnitude, the typal analy-
+sis probably underestimates the true relations, because information is
+lost when the MBTI indices are dichotomized A clearer picture can be
+seen when the continuous scale scores are used, and correlations be-
+tween the MBTI scores and self-reported NEO-PI factors are given in
+30                                                    McCrae and Costa
+
+                                Tabto 3
+ Correlations of Self-Reported NEO-PI Factors With MBTI Continuous
+                      Scales in Men and Women
+
+                                             NEO-PI factor
+MBTI scales                 N         E          0         A         C
+Men
+ EI (Introversion)        16**     _ •74***      03      03          08
+ SN (Intuition)         - 06          10         72***   04    -     15*
+ TF (Feeling)             06          19**       02      44*** -     15*
+ JP (Perception)          11          15*        30*** - 06    -     49***
+Women
+ EI (Introversion)         17* _ 69*** - 0 3              08         08
+ SN (Intuition)            01    22**     69***           03    -    10
+ TF (Feeling)              28*** 10    - 02               46*** -    22**
+ JP (Perception)           04    20**     26***           05    -    46***
+Note A' = 267 for men, 201 for women NEO-PI = NEO Personahty Inventory,
+MBTI = Myers-Bnggs Type Indicator N = Neuroticism, E = Extraversion, O =
+Openness to Expenence, A = Agreeableness, C = Conscientiousness
+*p< 05
+**p< 01
+***p< 001
+
+
+Table 3, for men and women separately Note that the MBTI continuous
+scores are given in the direction ofthe second letter, that is, they measure
+introversion, intuition, feeling, and perceiving For both men and
+women, the correlations between the two extraversion measures and be-
+tween the MBTI SN index and NEO-PI Openness factor are around 7 in
+absolute magnitude, corrected for unrealiability, they would approach
+unity There are also substantial correlations between MBTI TF and
+NEO-PI Agreeableness and between JP and Conscientiousness in both
+sexes
+   Among both men and women there is a modest correlation between
+the JP scale and Openness, which is understandable in view of the cor-
+relation between JP and SN Among women. Intuition shows a small as-
+sociation with NEO-PI Extraversion, and feeling preference is related to
+higher Neuroticism and lower Conscientiousness In general, however,
+the pattem of correlations is very similar for men and women
+   Table 4 gives correlations between NEO-PI factor scores denved from
+mean peer ratings with the self-reported continuous MBTI scores for
+men and women separately Results provide strong cross-observer reph-
+MBTI and NEO-PI                                                           31
+                                Tabl*4
+   Correlations of Peer-Sated NEO-PI Factois With MBTI Continuous
+                      Scales in Men and Women
+
+                                           NEO-PI factor
+MBTI scales                  N         E         0         A         C
+Men
+ EI (Introversion)          05     _ 34**       15         10        17
+  SN (Intuition)            07        06        61*** - 27*      - 15
+  TF (Feeling)           - 11         22        01         25*   - 16
+  JP (Perception)        - 10         11        04         10    - 34**
+Women
+ EI (Introversion)          08     - 38*     -04           03    - 02
+  SN (Intuition)            16        09       41*      - 01   - 04
+  TF (Feeling)              15     - 01      - 06         46** - 39*
+  JP (Perception)           12        00        18         11    - 55***
+Note N = 10 for men, 35 for women NEO-PI = NEO Personality Inventory, MBTI
+ = Myers-Bnggs Type Indicator N = Neuroticism, E = Extraversion, O = Openness
+to Expenence, A = Agreeableness, C = Conscientiousness
+*p< 05
+**p< 01
+***p< 001
+
+cation of the findings seen within self-reports in Tables 2 and 3 In both
+men and women, EI is significantly (negatively) correlated with peer-
+rated Extraversion, SN with peer-rated Openness, TF with peer-rated
+Agreeableness, and JP (negatively) with peer-rated Conscientiousness
+Two other correlations are significant, but not replicated across gender
+Men who score m the Intuitive direction are seen by peers as being lower
+in Agreeableness, and women who score m the Feeling direction are seen
+as being lower m Conscientiousness Note that none of the MBTI indices
+IS related to peer-rated Neuroticism
+   The relations shown in Tables 3 and 4 were replicated when alternative
+measures of the five factors were examined in subsets of subjects The
+EI index was correlated with Extraversion factors from the CQS (r =
+ - 58, N = 168, p < 001) and the adjective checklist (r = - 62,N
+ = 191, p < 001), the SN index with Openness factors (rs = 56 and
+ 54), the TF index with Agreeableness factors (rs = 46 and 32), and
+the JP index with Conscientiousness factors (rs = - 29 and - 28, all
+ps< 001) These correlations suggest that the correspondences between
+the MBTI and the NEO-PI are generalizable to other measures of the
+five-factor model that do not rely on standard questionnaire format
+ 32                                                  McCrae and Costa
+
+   Scatterplots of the significant relations in Tables 3 and 4 were exam-
+ined visually for evidence of deviations from lineanty or discontinuity at
+the transition point between contrasting types None was apparent
+   Finally, the MBTI TF scale was correlated with two relevant facets of
+Openness to Expenence that provide a test ofthe distinctive onentations
+of thinking and feeling As hypothesized, a preference for feeling was
+directly related to Openness to Feelings in both self-reports (r = 30, N
+ = 468,p< 001), and peer ratings ( r = 24,A^=105,p< 05),itwas
+inversely related to Openness to Ideas (rs = - 16, p< 001, and - 21,
+p < 05, for self-reports and peer ratings, respectively) Thus, although
+the TF scale appears chiefiy to measure aspects ofthe domain of Agree-
+ableness, It does show some ability to differentiate between onentations
+toward thinking and feeling
+
+
+                             DISCUSSION
+ The results of the present study provide the basis for a very mixed eval-
+ uation—-or a radical reinterpretation—of the MBTI Consistent with
+ much previous research (especially Stncker & Ross, 1964a), the study
+found no support for the typological theory the instrument is intended to
+embody There was no evidence that preferences formed true dichoto-
+mies, the 16 types did not appear to be qualitatively distinct, because
+analyses of then-joint effects on personality dimensions showed that only
+ 1 of 55 interactions was significant, and only m women, and, contrary to
+hypothesis, the theoretically dominant function was no more clearly pre-
+ferred than the auxiliary The Jungian prediction that opposing functions
+should be developed in later life was not confirmed using the MBTI The
+correlates of individual scales were consistent with their item content, '
+but would probably not have been predicted from Jungian theory Froni
+the perspective of construct validation, the MBTI appears to have very
+senous problems Weighing the evidence to date, the MBTI does not
+seem to be a promising instrument for measunng Jung's types, those
+who embrace Jung's theory should probably avoid the MBTI
+   Conversely, those who have found the MBTI to be a useful instrument
+for assessing and descnbing individual differences should senously con-
+sider abandoning Jungian theory and some of the associated language
+Yet how can the MBTI be interpreted or employed without reference to
+Jung's psychological types'? One alternative is to adopt the perspective
+of the five-factor model of personality Each of the four indices showed
+MBTI a n d NEO-PI                                                       33
+
+impressive evidence of convergence with one of the five major dimen-
+sions of normal personality, whether assessed through self-reports or
+peer ratings It is these convergences that probably account for the many
+meaningful associations between MBTI scales and extemal cntena such
+as occupational preferences, creativity, and educational performance
+   The correspondences seen in the present study are generally consistent
+with the body of literature on the correlates of the MBTI (see Myers &
+McCaulley, 1985, pp 175-223) For example, the SN index, which is
+highly correlated with Openness to Expenence m the present study, is
+also related to the Sixteen Personality Factor Questionnaire (16PF, Ca-
+tell, Eber, & Tatsuoka, 1970) Intelligence, Tender-Mmdedness, Imagi-
+nativeness, and Radicalism scales, which are known to form an openness
+factor (McCrae & Costa, 1985b) Studies summanzed m the MBTI
+manual showing that creativity is characteristic of intuitive types are
+consistent with recent evidence that most personality vanables related to
+creativity measure aspects of Openness to Expenence (McCrae, 1987)
+Again, the JP scale seems from the current perspective to measure an
+aspect of Conscientiousness, and the manual shows that it is related to
+other measures of orderliness and self-disciplme, such as 16PF Control
+and Superego Strength
+   The view of the MBTI indices provided by the five-factor model ex-
+plains some anomalous correlations reported in the manual For exam-
+ple, one might suppose that the Thinking Introversion scale of the Om-
+nibus Pfersonality Inventory (OPI, Heist, McConnell, Webster, & Yonge,
+ 1963) would be related to Thinking and to Introversion, m fact, it is vir-
+tually unrelated (rs = 10) to either the EI or the TF index However, it
+IS strongly related (r = 53) to the SN index These relations make sense
+if Thinking Introversion is viewed as a form of thoughtfulness or open-
+ness to ideas The Thinking Introversion factor of the Guilford-Zimmer-
+man Temperament Survey (Guilford, Zimmerman, & Guilford, 1976) is
+known to load on a broader Openness to Experience factor (Costa &
+McCrae, 1985a)
+   Similarly, a reinterpretation ofthe MBTI scales can make better sense
+of some of the reported correlates of the TF index TF is positively re-
+lated to needs for Affiliation, Blameavoidance, Nurturance, and Succor-
+ance on Stein's (1966) Self-Descnption Questionnaire, and negatively
+related to needs for Aggression, Counteraction, and Dominance These
+correlations could not be predicted from Jung's definitions of thinking
+and feeling functions, but are easily understood withm the broader con-
+34                                                    McCiae and Costa
+
+stmct of Agreeableness The TF index emphasizes a cognitive style as-
+sociated with Agreeableness, the Stem scales represent interpersonal as-
+pects of the same broad domain
+   The five-factor model is purely descnptive, it does not explain the
+ongins ofpersonality nor the mechanisms that account for individual dif-
+ferences Can Jungian psychology provide a theoretical basis for any of
+the factors'' In particular, can individual differences in Openness and
+Agreeableness, respectively, be attnbuted to different styles of perceiv-
+ing and judging "^ A brief examination of this possibility raises some
+doubts Although openness is related to perception m the broad sense of
+taking m information, the contrast between sensation and intuition does
+not seem to capture the essence of openness Open individuals use their
+five senses as much or more than closed individuals, they differ not m
+the type of information they prefer, but rather m the quantity Similarly,
+agreeable people differ from antagonistic people not simply in a prefer-
+ence for feeling over logic, but in a preference for warm feelmgs over
+cold logic Other psychologists, however, may perceive deeper connec-
+tions between Jungian theory and thefive-factormodel, further explora-
+tion of this issue would be welcome
+   The dimensional model offered here as an altemative to a Jungian ty-
+pology may seem deficient in another respect In their cntique of the ear-
+lier three-dimensional NEO trait model, Whitboume and Weinstock
+(1986) argued that "What is still lacking       is a set of predictions con-
+ceming the interrelationships among the three dunensions and different
+combinations of scores on the three personality factors" (pp 224-225)
+The MBTI types attempt to satisfy the need to consider the whole pattem
+of traits and summanze personality m a single comprehensive Gestalt
+In fact, however, there is no evidence that MBTI types represent unique
+configurations, they merely summanze four additive main effects INTJs
+differ from ENTJs only m the ways that mtroverts differ from extraverts,
+EI does not interact with the other indices to form qualitatively new com-
+binations
+   The fact that personality dimensions do not appear to mteract to form
+distmct types of persons does not mean that traits do not mteract with
+one another and with situations m determmmg behavior At a social gath-
+ermg the anxious introvert may worry about meeting strangers, the anx-
+ious extravert may worry about being left alone These interactions, how-
+ever, are dynamic determinants ofthe ongoing flow of behavior, and are
+not useful m charactenzmg the mdividual
+MBTI and NEO-PI                                                            35
+
+              Some Implications for the Interpretation
+                           of the MBTI
+There are numerous books, chapters, and pamphlets devoted to an expla-
+nation of the MBTI types for use by counselors, personnel psycholo-
+gists, educators, and laypersons They descnbe the 16 cells individually
+or in subgroups (e g , Introverted Thinkers) The descnptions are based
+in part on Jungian theory, in part on the item content of the indices, and
+in part on empmcal research or personal expenence with the types How
+well these descnptions square with known correlates of the indices can
+be roughly gauged by substituting the corresponding factor names from
+Table 3 for the MBTI codes Fbr example, the ENFJ type is, m terms of
+the five-factor model, extraverted, open, agreeable, and conscientious
+Myers and McCaulley's (1985, p 21) descnption of individuals of this
+type appears to fit extraverted, agreeable, and conscientious individuals
+(although there is httle m the descnption suggesting openness) Most of
+the descnptions provided m the manual seem to be reasonably good by
+this cntenon
+   However, the accompanying assertions about the dominance of partic-
+ular preferences in inner and outer life are based solely on Jungian theory
+and on the use of the JP and EI scales to determine the dominant func-
+tion, and are not supported by data There is no good evidence that the
+JP scale has any beanng at all on the relative importance of thinking or
+perceiving However, MBTI users might wish to reconceptualize the JP
+scale as an mdex of preference for structured versus spontaneous living,
+this view IS supported by the item content and the extemal correlates
+   The use of dichotomous preference scores is also questionable, as
+many reviewers have noted Some authors (e g , Keirsey & Bates, 1978)
+have taken the reality of the dichotonues so senously that they estimate
+their numbers m the population—surely an unwarranted reification In
+mterpretmg scores, Myers (1980) advised individuals to explore closely
+related types (differmg in one or two letters) to see if a better fit could be
+found In fact, however, most individuals will probably accept at face
+value whatever descnption is provided This system errs in two ways by
+nusclassifymg many of the individuals who are near the cuttmg point,
+and by failing to note the large differences that may be found within type
+between those with strong and weak preferences At one time, tied
+scot^s were designated by an "x" in the type code (e g , ExTJ), it might
+be useful to restore this practice, classifymg everyone in the middle third
+36                                                           McCrae and Costa
+
+or so of the distnbution on each index as an "x " Data on the retest sta-
+bility of types (Table 10 7 of the manual) show that such a policy could
+substantially increase reliability
+
+                  Merits of Alternative Instruments and
+                               Approaches
+ Most personality inventones report scores in terms of continuous scales,
+ using all available information MBTI users have this option, by attend-
+ ing to the preference scores or continuous scores A companson of the
+MBTI with the NEO-PI, however, suggests some ways m which MBTI
+users might benefit from the supplementary use of other personality in-
+ struments Most conspicuous is the lack of a Neuroticism factor in the
+MBTI Its absence is understandable on two counts first, because emo-
+tional instability versus adjustment did not enter into Jung's definitions
+of the types, and second, because the authors of the test were apparently
+philosophically committed to a position which saw each type as equally
+valuable and positive (Myers with Myers, 1980)—a view that is difficult
+to hold with regard to Neuroticism ' Although it makes interpretation of
+results palatable to most respondents, this approach also omits informa-
+tion that may be cmcial to employers, co-workers, counselors, and the
+individuals themselves For many, if not most, applications, some mea-
+sure of Neuroticism would be useful
+    Further, the MBTI does not give comprehensive information on the
+four domains it does sample The TF scale, for example, encompasses
+the tough- versus tender-minded aspect of Agreeableness, but has no di-
+rect measures of interpersonal aspects such as trust, altmism, and co-
+operativeness All four indices give only a broad, global picture, without
+any distinctions of traits within each domain Other personality mea-
+sures give more detail For example, the NEO-PI provides information
+on SIX specific facets of Extraversion—Warmth, Greganousness, Asser-
+tiveness, Activity, Excitement Seefang, and Positive Emotions This is
+especially important for understanding individuals who score in the av-
+erage range on overall extraversion Individuals who are good leaders but
+relatively sober and senous may score the same as others who are cheer-
+
+3 To a lesser extent, the same cnticism applies to the TF and JP mdices Descnp-
+tions downplay the antagonistic side of Thinking types and the lazy and disorganized
+side of Ftrceivmg types
+MBTI a n d NEO-PI                                                                    37
+
+ ful and jovial, but would rather let others make decisions Such differ-
+ ences would be important in a variety of applied settings, and show the
+ potential value of supplementing the MBTI with other measures
+    There are two ways in which the users of other psychological tests can
+ benefit from experience with the MBTI First, translation of the MBTI
+ mdices into the common language of thefive-factormodel makes it pos-
+ sible to assimilate the extensive empincal literature on the MBTI For
+ example, dozens of occupations have been classified with respect to the
+ frequency of MBTI preferences (Myers & McCaulley, 1985) Intuitive
+types are disproportionately found in such occupations as artist, wnter,
+ and psychologist, whereas sensing types choose vocations such as
+farmer, mechanic, or clencal worker When the SN index is interpreted
+as a measure of Openness to Experience, these data provide valuable rep-
+lications of other work linking Openness to vocational preferences
+(Costa, McCrae, & Holland, 1984)
+    At another level, those who develop and employ personahty measures
+can leam a good deal from the strategies of application that have been
+used with the MBTI Decades of expenence show that it is possible and
+sometimes useful to descnbe personality m lay terms, to teach individ-
+uals the nature and value of individual differences, and to increase un-
+derstanding among people who interact by shanng information on per-
+sonahty and explaining differences m styles Adapting such approaches
+to instmments that include measures of ostensibly undesirable traits such
+as Neuroticism will require tact and skill, but promises to be valuable in
+the long mn Regardless of the mstmment used, information given to
+laypersons should refiect current knowledge m personality psychology
+If the MBTI IS used, evidence to date suggests that it may be better to
+abandon its Jungian framework and reinterpret the MBTI in terms ofthe
+five-factor model
+
+
+                                   SEFERENCES
+
+Allport, G W.&Odbert, H S (1936) Trait names A psycho-lexical study
+   logical Monographs, 47 (1, Whole No 211)
+Amelang, M , & Borkenau, P (1982) Uber die faktonelle Struktur und exteme Validitat
+   einiger Fragebogen-Skalen zur Erfassung von Dimensionen der Extraversion und
+   emotionalen Labilitat [On the factor structure and extemal validity of some question-
+   naire scales measunng dimensions of extraversion and neuroticism] Zeitschnft fur
+  Differentielle und Diagnostische Psychologie, 3, 119-146
+ 38                                                            McCiae and Costa
+
+ Block, J (1961) The Q-sort method in personality assessment and psychiatric research
+     Springfield, IL Charles C Thomas
+ Block, J , & Ozer, D J (1982) Two types of psychologists Remarks on the Mendel-
+     sohn , Weiss, and Feimer contnbution Journal qf Personality and Social Psychology,
+     42, 1171-1181
+ Carlson, J G (1985) Recent assessments of the Myers-Bnggs Type Indicator Jburna/
+     cf Personality Assessment, 49, 356-365
+ Carlson, R (1980) Studies of Jungian typology II Representations of the personal
+     world Journal qf Personality and Social Psychology, 38, 801 - 810
+ Cattell, R B , Eber, H W, & Tatsuoka, M M (1970) The handbook for the Sixteen
+    Personality Factor Questionnaire Champaign, IL Institute for Ftersonality and Abil-
+    ity Testing
+ Coan, R W (1974) The optimal personality New York Columbia Umversity Press
+ Coan, R W (1978) [Review of Myers-Bnggs Type Indicator] In O K Buros (Ed ),
+    The eighth mental measurements yearbook (Vol 1 , pp 973-975) Highland Park,
+    NJ Gryphon Press
+ Comrey, A L (1983) An evaluation ofthe Myers-Bnggs Type Indicator Academic Piy-
+    chology Bulletin, S, 115-129
+ Conley, J J (1985) A personality theory of adulthood and aging InR Hogan&WH
+    Jones (Eds), Perspectives in personality (Vol 1, pp 81-115) Greenwich, CT JAI
+    Press
+ Costa, P T, Jr ,& McCrae, R R (1985a) Concurrent validation after 20 years Impli-
+    caUons ofpersonality Stability for Its assessment InJ N Butcher &C D Spielber-
+    ger (Eds ), Advances in personality assessment (Vol 4, pp 31-54) Hillsdale, NJ
+   Lawrence Erlbaum
+Costa, P T , Jr , & McCrae, R R (1985b) The NEO Personality Inventory manual
+   Odessa, FL Psychological Assessment Resources
+Costa, P T, Jr, & McCrae, R R (1988) Pfersonality m adulthood A six-year longitu-
+   dinal study of self-reports and spouse ratings on the NEO Personality Inventory Jour-
+   nal qf Personality and Social Psychology, 54, 853-863
+Costa, P T, Jr, McCrae, R R , & Holland, J L (1984) ftrsonality and vocational
+   interests m an adult sample Journal qf Applied Psychology, 69, 390-400
+Costa, P T, Jr, McCrae, R R , Zonderman, A B , Barbano, H E , Lebowitz, B , &
+   Larson, D M (1986) Cross-sectional studies of personality in a national sample 2
+   Stability in neuroticism, extraversion, and openness Psychology and Aging, 1 144-
+    149
+Dachowski M M (1987) A convergence of the tender-minded and the tough-minded''
+  American Psychologist, 42, 886-887
+DeVito, A J (1985) [Review of Myers-Bnggs Type Indicator] InJ V Mitchell, Jr
+   (Ed), Ninth mental measurements yearbook (Vol 2, pp 1030-1032) Lincoln Uni-
+   versity of Nebraska Press
+Digman, J M , & Inouye, J (1986) Furtter specification ofthe five robust factors of
+   personality Joumal (^Personality and Social Psychology, SO, 116-123
+Funder, D C ,& Colvm, C R (1988) Fnends and strangers Acquaintanceship, agree-
+   ment, and the accuracy of personality judgment Journal qf Personality and Social
+  Psychology, SS,149-15S
+MBTI a n d NEO-PI                                                                  39
+
+Goldberg, L R (1981) Language and individual differences The search for universals
+   m personality lexicons In L Wheeler (Ed ), Review qf personality and social psy-
+   chology (Vol 2, pp 141-165) Beverly Hills Sage
+Guilford, J P (1977) Will the real factor of extraversion-introversion please stand up''
+   A reply to Eysenck Psychological Bulletin, 84, 412-416
+Guilford, J P , & Guilford, R B (1934) An analysis of the factors in a typical test of
+   mtroversion-extroversion Journal qfAbnormal and Social Psychology, 28, 377-399
+Guilford, J S , Zimmerman, W S , & Guilford, J P (1976) The Guilford-Zimmerman
+   Temperament Survey Handbook Twenty-five years qf research and application San
+   Diego EdITS Publishers
+Heist, P A , McConnell, T R , Webster, H , & Yonge, G D (1963) Omnibus Person-
+   ality Inventory New York The Psychological Corporation
+Hicks, L E (1984) Conceptual and empincal analysis of some assumptions of an ex-
+   plicitly typological theory Journal of Personality and Social Psychology, 46, 1118-
+    1131
+Hicks, L E (1985) Dichotomies and typologies Summary and implications Journal
+   qf Psychological Type, 10, 11-13
+Hirsh,S K (1985) Using the Myers-Bnggs Type Indicator in organizations A resource
+   book Palo Alto Consulting Psychologists Press
+Jung, C G (1971) Psychological types (H G Baynes, Trans , revised by R F C
+   Hull) Pnnceton Pnnceton University Press (Ongmal work published 1923)
+Keirsey, D , & Bates, M (1978) Please understand me Character and temperament
+   types Del Mar, CA Prometheus Nemesis Books
+McCrae, R R (1987) CreaUvity, divergent thinking, and openness to expenence Jour-
+   nal (rfPersonality and Social Psychology, 52, 1258-1265
+McCrae, R R , & Costa, P T , Jr (1983) Social desirability scales More substance
+   than style Journal of Consulting and Clinical Psychology, 51, 882-888
+McCrae, R R , & Costa, P T , Jr (1985a) Companson of EPI and Psychoticism scales
+   with measures of thefive-factormodel of personality Personality and Individual Dif-
+  ferences, 6, 587-597
+McCrae, R R , & Costa, P T, Jr (1985b) Openness to expenence In R Hogan & W
+   H ]one&(Ejd&),Perspectives in personality (Vol 1, pp 145-172) Greenwich, CT
+   JAI Press
+McCrae, R R , & Costa, P T , Jr (1985c) Updating Norman's "adequate taxonomy"
+   Intelligence and personality dimensions in natural language and in questionnaires
+  Journal af Personality and Social Psychology, 49, 710-721
+McCrae, R R , & Costa, P T , Jr (1987) Validation ofthe five-factor model ofperson-
+   ality across instruments and observers Joumal cfPersonality and Social Psychology,
+   52,81-90
+McCrae, R R , & Costa, P T , Jr (m press-a) More reasons to adopt the five-factor
+   model American Psychologist
+McCrae, R R , & Costa, P T , Jr (in press-b) Rotation to maximize the construct va-
+   hdity of factors in the NEO Personality Inventory Multivanate Behavioral Research
+McCrae, R R , Costa, P T , Jr ,& Busch, C M (1986) Evaluating comprdiensiveness
+   m personality systems The California Q-Set and the five-factor model Journal of
+  Personality, 54,430-446
+40                                                                 McCrae and Costa
+
+ Mendelsohn, G A Weiss D S ,& Feimer N R (1982) Conceptual and empincal
+     analysis of the typological implications of patterns of socialization and feminity Jour-
+     nal of Personality and Social Psychology, 42, 1157-1170
+Myers I B (1980) Introductwnto npe Orded) Palo Alto Consulting Psychologists
+     Press
+Myers I B ,& McCaulley M H (1985) Manual A guide to the development and use
+     ofthe Myers-Bnggs Type Indicator Palo Alto Consulting Psychologists Press
+Myers, I B , with Myers, P B (1980) Gifts differing Palo Alto Consulting Psychol-
+    ogists Press
+Norman, W T (1963) Toward an adequate taxonomy ofpersonality attributes Repli-
+    cated factor structure m peer nomination personality ratings Journal ofAbnormal and
+    Social Psychology 66 574-583
+Shock, N W Greulich, R C Andres, R , Arenberg, D , Costa, P T Jr , Lakatta,
+    E G ,&Tobin J D (1984) Normal human aging The Baltimore Longitudinal Studv
+    o/i4gmg (NIH Publication No 84-2450) Bethesda National Institutes of Health
+Stem, M I (1966) Volunteers for peace New York Wiley
+Stncker, L J , & Ross, J (1964a) An assessment of some structural properties of the
+    Jungian personality typology Journal of Abnormal and Social Psychology, 68 6 2 -
+    71
+Strieker, L J , & Ross, J (1964b) Some correlates of a Jungian personality inventory
+   Psychological Reports, 14, 623-643
+Tupes, E C , & Chnstal R E (1961) Recurrent personality factors based on trait rat-
+   ings (USAF ASD Tech Rep No 61-97) Lackland Air R)rce Base, TX U S Air
+   Force
+Waller, N G ,& Ben-Porath, Y S (1987) Is it time for clinical psychology to embrace
+  thefive-factormodel of personality''vAmencan Psychologist, 42, 887-889
+Weiss, D S , Mendelsohn G A , & Feimer, N R (1982) Reply to the comments of
+  Block and Ozer Journal qf Personality and Social Psychology 42 1182-1189
+Wheelwnght J B , Wheelwright, J H ,& Buehler, H A (1964) Jungian Type Survey
+  The Gray-Wheelwright test (I6th revision) San Francisco Society of Jungian Ana-
+  lysts of Northern California
+Whitboume,S K ,& Weinstock, C S (1986) Adult development (2nd ed) New York
+ Praeger
+
+           Manuscript received November 23, 1987 revised August 8, 1988
+

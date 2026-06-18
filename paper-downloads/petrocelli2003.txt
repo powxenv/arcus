@@ -1,0 +1,465 @@
+This article was downloaded by: [University of Winnipeg]
+On: 26 August 2014, At: 06:34
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954
+Registered office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH,
+UK
+
+The Journal of Social
+Psychology
+Publication details, including instructions for
+authors and subscription information:
+http://www.tandfonline.com/loi/vsoc20
+
+Factor Validation of the
+Consideration of Future
+Consequences Scale: Evidence
+for a Short Version
+John V. Petrocelli
+
+a
+
+a
+
+Department of Counseling and Human
+Development Services , University of Georgia
+Published online: 03 Apr 2010.
+
+To cite this article: John V. Petrocelli (2003) Factor Validation of the Consideration
+of Future Consequences Scale: Evidence for a Short Version, The Journal of Social
+Psychology, 143:4, 405-413, DOI: 10.1080/00224540309598453
+To link to this article: http://dx.doi.org/10.1080/00224540309598453
+
+PLEASE SCROLL DOWN FOR ARTICLE
+Taylor & Francis makes every effort to ensure the accuracy of all the
+information (the “Content”) contained in the publications on our platform.
+However, Taylor & Francis, our agents, and our licensors make no
+representations or warranties whatsoever as to the accuracy, completeness,
+or suitability for any purpose of the Content. Any opinions and views
+expressed in this publication are the opinions and views of the authors, and
+are not the views of or endorsed by Taylor & Francis. The accuracy of the
+Content should not be relied upon and should be independently verified with
+primary sources of information. Taylor and Francis shall not be liable for any
+losses, actions, claims, proceedings, demands, costs, expenses, damages,
+and other liabilities whatsoever or howsoever caused arising directly or
+indirectly in connection with, in relation to or arising out of the use of the
+Content.
+
+Downloaded by [University of Winnipeg] at 06:34 26 August 2014
+
+This article may be used for research, teaching, and private study purposes.
+Any substantial or systematic reproduction, redistribution, reselling, loan,
+sub-licensing, systematic supply, or distribution in any form to anyone is
+expressly forbidden. Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/page/terms-and-conditions
+
+The Journul of Social Psychology, 2003, 143(4),405413
+
+Downloaded by [University of Winnipeg] at 06:34 26 August 2014
+
+Factor Validation of the Consideration
+of Future Consequences Scale:
+Evidence for a Short Version
+JOHN V. PETROCELLI
+Department of Counseling and Human Development Services
+University of Georgia
+
+ABSTRACT. The author examined the factor structure of the 12-item Consideration of
+Future Consequences (CFC) Scale (A. Strathman, F. Gleicher, D. S . Boninger, & S.
+Edwards, 1994) among 664 undergraduate university students enrolled in human development courses. A principal-components factor analysis with varimax rotation yielded 2 factors. The author used confirmatory factor analysis procedures to examine the fit of 4 models, according to the principal-components factor analysis findings, with the observed
+covariance. The author used a number of fit indices to compare the 4 models. Both sets of
+analysis provided the greatest support for an 8-item short version of the CFC Scale. The
+author discussed findings in regard to the CFC Scale as an instrument to measure future time
+perspective.
+Key words: consideration of future consequences
+
+IN RECENT YEARS, INTEREST IN THE FUTURE TIME PERSPECTIVE
+(FTP) has resurged. Earlier studies of time perspectives focused on construct
+definition and speculation about its influence on motivation and social behavior
+(Fraisse, 1963; Lewin, 1942; Nuttin, 1964). Some of the empirical studies of the
+FTP have involved its impact on academic achievement (DeVolder & Lens,
+1982; Joireman, 1999) and health concerns (Strathman, Gleicher, Boninger, &
+Edwards, 1994), as well as its relationship to general clinical symptoms (Zimbardo & Boyd, 1999).
+More recently, researchers (Karniol & Ross, 1996; Zimbardo & Boyd, 1999)
+have noted a continued need for valid and reliable instruments designed to measure FTP. One type of FTP construct is the consideration of future onsequences
+(CFC) construct proposed by Strathman et al. (1994). The CFC construct has
+Address correspondence to John L! Petrocelli, Department of Psychology, Indiana University Bloomington, I101 East 10th Street, Bloomington, IN 47405: send e-mail to
+johnpetrocelli@ 1ycos.com.
+405
+
+Downloaded by [University of Winnipeg] at 06:34 26 August 2014
+
+406
+
+The Journal of Social Psychology
+
+been identified as a stable consequential individual-difference construct that is
+most efficiently measured by the 12-item CFC Scale, one of the most commonly used FTP measures in social psychological research. The CFC is a motivational construct; it enables an individual to perceive what his or her future field
+might require or demand behaviorally, in order to reach desired outcomes. More
+specifically, the CFC refers to the extent to which people prefer to construct the
+future by considering distant versus immediate consequences of potential behaviors and the extent to which behavior is influenced by such perceived outcomes
+(Boninger, Gleicher, & Strathman, 1994; Strathman et al.).
+The CFC has been examined as a potential variable that might reduce the
+discontinuity from the level of competitiveness between individuals and groups
+(Insko et al., 2001; Insko et al., 1998). Currently, the examination of the relationship between the CFC and such discontinuity has produced inconsistent
+results. More consistently, the CFC has been moderately correlated with health
+and environmental behaviors, such as cigarette use (Petrocelli, 1997; Strathman
+et al., 1994), recycling behavior (Lindsay & Strathman, 1997), and academic
+achievement (Joireman, 1999; Petrocelli).
+Zimbardo and Boyd (1999) demonstrated the benefits of empirically scrutinizing measures of time perspective by closely examining the psychometric properties of the Zimbardo Time Perspective Inventory. Less empirical attention has
+been given to the validation of the CFC Scale. However, because of its use in a
+wide range of studies and its somewhat inconsistent results, further empirical validation of the CFC Scale is warranted.
+Strathman et al. (1994) evaluated the factor structure of a 24-item CFC Scale
+with 167 respondents and found that the results of a principal factor analysis suggested that the CFC construct was being measured by a subset of 12 items. Further evidence for a one-factor solution was provided by confirmatory factor
+analysis with a separate sample of 323 respondents who completed the final 12item CFC Scale. Evidence of adequate interitem consistency has also been
+recorded (Cronbach’s a ranging from 30 to .86; Strathman et al.).
+Petrocelli (1997) also examined the factor structure of the CFC Scale with 108
+respondents in a study of risk-taking behavior and found preliminary evidence for
+two factors. Furthermore, several researchers (Comrey, 1973; Glick et al., 2000)
+have argued that factor solution results based on samples of fewer than 500 respondents are to be considered potentially unstable. To date, no researchers have reported examining the factor structure of the 12-item CFC Scale with more than 323
+respondents. Apparently there might be more than one factor reflected in the CFC
+Scale. So, the present study was designed to closely examine its factor structure.
+Method
+Participants
+
+Students in 15 undergraduate human development classes ( N = 664) at a large
+
+Petrocelli
+
+407
+
+university in the northeastern region of the United States participated in the present study. The total sample consisted of 414 women and 250 men (mean age =
+20.49 years, SD = 4.01). The racial distribution of the sample was 55.7% Caucasian, 7. l % African American, 2.2% Hispanic; 35.0% did not indicate their race.
+
+Downloaded by [University of Winnipeg] at 06:34 26 August 2014
+
+Materials and Procedure
+
+The original 12-item version of the CFC Scale (Strathman et al., 1994) was
+administered to participants in their respective classes under untimed neutral
+conditions. Participants were asked to respond to each item by using a 5-point
+scale ranging from 1 (extremely uncharacteristic) to 5 (extremely characteristic).
+In accord with the scoring procedure of the CFC Scale, 7 items were reverse
+scored. Raw scale scores were summed and divided by 12. “Often I engage in a
+particular behavior in order to achieve outcomes that may not result for many
+years” and “I only act to satisfy immediate concerns, figuring the future will take
+care of itself’ (a reverse-scored item) were 2 sample items.
+Participation was voluntary, and no incentives were offered. Subsequent to the
+last class administration of the CFC Scale, I revisited classes and briefed them about
+the purpose of the study. Questions about the nature of the study were answered.
+First, the CFC Scale was evaluated with principal-components factor analysis
+with varimax rotation. Next, confirmatory factor analysis procedures were used via
+maximum likelihood estimates from the covariance matrix. Four separate models
+were examined in light of the principal-components factor analysis findings.
+In their examination of the CFC Scale, Strathman et al. (1994) used two less
+common goodness-of-fit indices: the x2/dfratio, and LISREL‘s root mean square
+residual (RMSR; Joreskog & Sorbom, 1981). Strathman and his colleagues
+reported that “acceptable” and “adequate” fit was achieved from the x2/df ratio
+method and the RMSR method, respectively. However, Marsh, Balla, and
+McDonald (1988) indicated that the RMSR is often inadequate as a stand-alone
+fit index. Because the RMSR has been shown to have several limitations as a
+measure of intermodel differences (Kumar & Sharma, 1999), it was not computed for the present sample as a way to compare the findings of Strathman et al.
+with the present findings. Rather, comparisons of the relative fit of different models with the present sample were obtained through chi-square difference tests
+(Bollen, 1989), which determine whether differences in fit are statistically significant. The goodness-of-fit index (GFI) has been identified as an adequate measure of intermodel differences (Kumar & Sharma), and so it too was used to compare the four models.
+Overall, in the present study, I used the following fit indices: the x2 index,
+the x2/df ratio, the standardized x2 index, the comparative-fit index (CFI), the
+GFI; and the adjusted goodness-of-fit index (AGFI). Bentler and Bonett (1980)
+noted that the chi-square index is inadequate as a stand-alone goodness-of-fit
+index because of its sensitivity to both small and large sample sizes. The x2/df
+
+408
+
+The Journal of Social Psychology
+
+ratio does not vary with sample size. Although Strathman et al. (1994) noted that
+Wheaton, Muthen, Alwin, and Summers (1977) suggested that a ratio of 5 : 1 indicated adequate fit for the x2/dfratio, researchers lack consensus as to what constitutes a good fit for this statistic (Bollen, 1989; Carmines & McIver, 1981).
+Thus, the standardized chi-square index (Bollen, 1989) was used to evaluate chisquare statistics. Bollen (1989) argued that an advantage of the standardized chisquare index over the X2/dfratio is that it controls for the standard deviation of
+the variate. However, the standardized also has an ambiguous cutoff point
+for a “good fit.” CFI, GFI, and AGFI scores of .90 and greater indicate good fit
+(Bentler, 1990; Joreskog & Sorbom, 1989; Tanaka, 1987).
+
+Downloaded by [University of Winnipeg] at 06:34 26 August 2014
+
+x2
+
+x2
+
+Results
+The sample descriptive statistics for the 12-item CFC Scale ( M = 3.51, SD =
+0.61) were similar to those reported in the Strathman et al. (1994) study. Cronbach’s a for the total scale was 22. A gender difference occurred; the men
+( M = 3.43, SD = 0.62) scored significantly lower than the women (M = 3.55,
+SD = 0.60), t(662) = 2.5 1 , p < .02.
+Exploratory Factor Analysis
+
+To assess the structure of the CFC Scale, I subjected all 12 items to a principalcomponents factor analysis with varimax rotation. The initial factor solution of the
+present sample resulted in two factors with eigenvalues greater than 1. The two-factor solution accounted for 44.7% of the variance. A minimum factor loading of .40
+was used as a guideline for considering an item to be part of a factor. Factor loadings
+are displayed for each item in Table 1 . Cronbach’s as of 3 2 and .48 were attained for
+Factor 1 and Factor 2 respectively. The sample attained relatively higher scores on
+Factor 1 (M= 2.27, SD = 0.48) than on Factor 2 (M = 1.23, SD = 0.19). The Pearson
+product-moment correlation between the two factors was .54, p < .01. A gender difference was obtained for Factor 1 where men (M= 2.20, SD = 0.48) again scored significantly lower than women (M= 2.3 1 , SD = 0.48), t(662) = 2.82, p < .02. No statistically significant difference was obtained for Factor 2 between genders.
+Conjhatory Factor Analysis
+
+To verify the factor structure of the CFC Scale obtained from the exploratory analysis, a confirmatory factor analysis of the covariance matrix was used.
+Using LISREL 8.20 (Joreskog & Sorbom, 1998), I examined four separate max-
+
+imum likelihood solutions, to verify the relationship between the observed variables and the latent construct(s).
+I first examined a model similar to the confirmatory factor analysis of
+Strathman et al. (1994)-a one-factor solution with all 12 items. This model fit
+
+Petrocelli
+
+409
+
+TABLE 1. Loadings for Varimax-Rotated
+Two-Factor Solution for the Consideration of Future
+Consequences Scale (N= 664)
+
+Downloaded by [University of Winnipeg] at 06:34 26 August 2014
+
+Item
+4”
+11”
+3”
+1 2”
+5”
+1Oa
+
+9*
+2
+8
+6
+7
+1
+
+Factor loading
+1
+2
+.75b
+.74b
+.74b
+.63b
+.55b
+.53b
+.49b
+.45b
+-.I3
+.12
+.28
+.40
+
+Cornrnunality
+
+.I3
+.28
+.21
+.I 1
+.04
+.46
+.34
+.43
+
+.58
+.63
+.4 1
+.4 1
+.30
+.49
+.35
+.39
+
+.69h
+
+SO
+
+.60b
+.57h
+.4Ib
+
+.37
+.40
+.33
+
+aReverse-scored item. bHigherfactor loading.
+
+adequately with the observed covariance, ~ ~ ( 5N4 =, 664) = 266.16, p < .001;
+x2/df= 4.93; standardized x2 = 20.42; CFI = .901; GFI = .937; and AGFI = .909.
+As expected, this finding was similar to the model of Strathman et al., ~ ~ ( 5N4=,
+323) = 222.41, p < .001; x2/df= 4.12. The second model, with two uncorrelated
+latent factors and 12 items, produced a similar fit, ~ ~ ( 5N4=, 664) = 232.07, p <
+.001; x2/df= 4.30; standardized = 17.14; CFI = .918; GFI = .945; and AGFI =
+.920. A third model, with two correlated latent factors and 12 items, produced a
+similar fit, ~ ~ ( 5N3=, 664) = 232.07, p c .001; x2/df= 4.38; standardized x2 =
+17.89; CFI = .918; GFI = .945; and AGFI = .919. Finally, a fourth model, with
+only one latent factor and the 8 items from Factor 1, also produced an adequate
+fit with the observed covariance, ~ ~ ( 2N0=, 664) = 1 0 6 . 4 8 , ~
+c .001; x2/df= 5.32;
+standardized = 13.68; CFI = .945; GFI = .961; and AGFI = .931.
+With the six fit indices and their respective recommended cutoffs, examination of all four models revealed greater evidence for a shorter, 8-item version of
+the CFC Scale. Again however, comparisons of the relative fit of different models within the sample required chi-square difference tests (Bollen, 1989) to show
+whether differences in fit were statistically significant. Three chi-square difference tests were computed to compare the first three models with the fourth model:
+for Model 1 versus Model 4, ~ ~ ( 3N4 =, 664) = 159.68, p < .001; for Model 2
+versus Model 4, ~ ~ ( 3N4 =, 664) = 125.59, p < .001; and for Model 3 versus
+
+x2
+
+x2
+
+410
+
+The Journal of Social Psychology
+
+Model 4,~ ~ ( 3N3 =, 664) = 1 2 5 . 5 9 , ~< .001. Each of these tests, along with the
+models’ respective GFI scores, suggests that it is very unlikely that any of the
+first three models are correct. The reduction in the number of items (or the exclusion of Factor 2 items) led to a significant improvement in fit. Because of the
+overwhelming number of assumptions in latent variable analysis, Bollen (1989)
+argues that the chi-square difference test must be interpreted with the same caution as the fit index.
+
+x2
+
+Downloaded by [University of Winnipeg] at 06:34 26 August 2014
+
+Discussion
+The purpose of the present study was to closely examine an instrument
+intended to measure the extent to which individuals consider future consequences
+of behavior. The original 12-item CFC Scale is one of the most commonly used
+FTP measures in social psychological research. The primary intention of examining the CFC Scale was to provide further evidence for its validity and to improve
+upon the current literature that supports its use. However, the results found here
+suggest that the 12-item CFC Scale is unstable and that it might be more appropriate to use an 8-item scale when attempting to measure the CFC construct.
+The CFC Scale purports to measure the degree to which one considers potential distant consequences of current behaviors and the extent to which behavior
+is influenced by the consideration of potential consequences. The results of an
+exploratory factor analysis of the original 12-item CFC Scale yielded two distinct factors. Factor 1 and Factor 2 are almost exclusively reserved for reversescored items and non-reverse-scored items, respectively (see Table 1), with the
+exception of Item 2. Little support was found for the stability of Factor 2, which
+attained poor internal consistency. Further, confirmatory factor analysis showed
+that an 8-item scale, representing Factor 1, fit considerably better with the
+observed covariance than did any of the other three models that included Factor
+2 items.
+Although Factor 1 and Factor 2 consist of items from the same scale, the correlation between them is not very high. The gender differences between the 12item scale and Factor 1, in the absence of a gender difference in Factor 2, also
+suggest that Factor 1 and Factor 2 are indicative of different constructs. No
+researchers have reported examining a gender difference in the CFC Scale. However, other investigators, such as Zimbardo and Boyd (1999) and Zimbardo,
+Keough, and Boyd (1997), have noted that women tend to have higher scores than
+men on scales that measure FTP.
+Interestingly, Halpern (1992) has implied that such cognitive differences
+might, in part, be due to the differences in gender role development. Support for
+this notion might be found among differences in the stereotypes about the play
+patterns of boys and girls. Whereas boys tend to engage in at-the-moment competition and conflict, girls might tend to engage in activities that enable them to
+act out stereotyped futures, such as those involving marriage and household
+
+Downloaded by [University of Winnipeg] at 06:34 26 August 2014
+
+Petrocelli
+
+41 1
+
+duties. Thus, if females tend to have a longer FTP than males, and this effect is
+found among Factor 1 but not Factor 2, then there is more evidence to suggest
+that Factor 2 is not adequately measuring FTP.
+Each of the positively worded items of the CFC Scale appears to deal with
+intentional and active efforts to consider future consequences and to influence
+them positively with current behavior. Again, each of these items except Item 2
+was loaded on Factor 2. All of the reverse-scored items, loaded on Factor 1, deal
+with intentional and active efforts to concern oneself with immediate consequences of behavior, as well as the belief that sacrificing immediate desires is not
+important for attaining desired outcomes in the distant future. Statistically, there
+is little reason to assume that the lack of focus on short-term outcomes automatically indicates a concern for distant outcomes of current behavior. Factor 2 items
+clearly deal with a concern for future consequences of behavior. Yet, their poor
+internal consistency suggests that there might be more facets of the CFC than
+originally believed. Therefore, it might be more appropriate to consider the CFC
+Scale as indicating the extent to which an individual is not influenced primarily
+by the immediate consequences of behavior.
+The evidence here, revealing the instability of the original 12-item CFC
+Scale, especially for Factor 2, might explain some of the inconsistent results
+found by Insko and his colleagues (Insko et al., 2001; Insko et al., 1998). Specifically, they were interested in examining competitiveness with respect to one’s
+anticipation of the future and a tendency to think abstractly. The inconsistent
+results suggested that the CFC Scale more adequately measures one’s preference
+for orderliness than an inclination to reason abstractly. However, Insko and his
+colleagues also assumed that the CFC Scale measures one factor (the extent to
+which people prefer to construct the future by considering distant versus immediate consequences of potential behaviors). Thus, the measurement of the CFC
+in such studies might have been diluted by the four items that do not appear to
+improve the measurement of the primary factor. If the CFC Scale is a better measure of the extent to which people do not focus on the immediate consequences
+of behavior than of the extent to which people focus on the distant consequences
+of behavior, then the previous inconsistent results might also be due to the notion
+that lacking a preoccupation with immediate consequences of behavior does not
+adequately measure one’s tendency to think abstractly by considering future consequences of behavior.
+Although the present investigation has examined the CFC Scale among the
+largest sample reported, one limitation involved the academic setting of which
+the sample is representative. Little is known about how the factor structure of the
+CFC Scale holds for nonacademic settings. Subsequent use of the 8-item CFC
+Scale might also contribute to other areas of inquiry by ensuring better construct
+validity than the 12-item scale. Further study of factors and constructs that are
+likely to converge with the CFC, or variables expected to discriminate between
+high and low CFC scorers, is certainly warranted.
+
+4 I2
+
+The Journal of Social Psychology
+
+Downloaded by [University of Winnipeg] at 06:34 26 August 2014
+
+REFERENCES
+Bentler, P. M. (1990). Comparative fit indexes in structural models. Psychological Bulletin, 107, 238-246.
+Bentler, P., & Bonett, D. (1980). Significance tests and goodness of fit in the analysis of
+covariance structures. Psychological Bulletin, 88, 588-606.
+Bollen, K. A. (1989). Structural equations with latent variables. New York: Wiley.
+Boninger, D. S., Gleicher, F., & Strathman, A. (1994). Counterfactual thinking: From what
+might have been to what may be. Journal of Personality and Social Psychology, 67,
+297-307.
+Carmines, E. G., & McIver, J. P. (1981). Analyzing models with unobserved variables.
+Analysis of covariance structures. In G. W. Bohrnstedt and E. F. Borgatta (Eds.), Social
+measurement: Current issues (pp. 65-1 15). Beverly Hills, CA: Sage.
+Comrey, A. L. (1973). A first course in factor analysis. New York: Academic Press.
+DeVolder, M. L., & Lens, W. (1982). Academic achievement and future time perspective
+as a cognitive-motivational concept. Journal of Personality and Social Psychology, 42,
+566571.
+Fraisse, P. (1963). The psychology of time (J. k i t h , Trans.). Westport, CT: Greenwood Press.
+Click, P., Fiske, S. T., Mladinic, A., Saiz, J., Abrams, D., Maser, B., et al. (2000). Beyond
+prejudice as simple antipathy: Hostile and benevolent sexism across cultures. Journal
+of Personality and Social Psychology, 79, 763-775.
+Halpern, D. F. (1992). Sex diTerences in cognitive abilities (2nd ed.). Hillsdale, NJ: Erlbaum.
+Insko, C. A., Schopler, J., Gaertner, L., Wildshut, T., Kozar, R., Pinter, B., et al. (2001).
+Interindividual-intergroup discontinuity reduction through the anticipation of future
+interaction. Journal of Personality and Social Psychology, 80, 95-1 1 I .
+Insko, C. A., Schopler, J., Pemberton, M. B., Wieselquist, J., McIlraith, S. A,, Currey,
+D. P., et al. (1998). Long-term outcome maximization and the reduction of interindividual-intergroup discontinuity. Journal of Personality and Social Psychology, 75,
+695-7 10.
+Joireman, J. A. (1999). Additional evidence for validity of the Consideration of Future
+Consequences Scale in an academic setting. Psychological Reports, 84, 1171-1 172.
+Joreskog, K. G., & Sorbom, D. (1981). LISREL 5: Analysis of linear structural relations
+by the method of maximum likelihood. Chicago: International Educational Services.
+Joreskog, K. G., & Sorbom, D. (1989). LISREL 7: A guide to the program and applications. Chicago: SPSS.
+Joreskog, K. G., & Sorbom, D. (1998). LISREL 8.20. Lincolnwood, IL: Scientific Software International.
+Karniol, R., & Ross, M. (1996). The motivational impact of temporal focus: Thinking
+about the future and the past. Annual Review of Psychology, 47, 593-620.
+Kumar, A., & Sharma, S. (1999). A metric measure for direct comparison of competing
+models in covariance structure analysis. Structural Equation Modeling, 6, 169-1 97.
+Lewin, K. (1942). Time perspective and morale. In G. Lewin (Ed.), Resolving social conJicts (pp. 103-124). New York: Harper.
+Lindsay, J. J., & Strathman, A. (1997). Predictors of recycling behavior: An application of
+a modified health belief model. Journal of Applied Social Psychology, 27, 1799-1823.
+Marsh, H., Balla, J., & McDonald, R. (1988). Goodness-of-fit indexes in confirmatory factor analysis: The effect of sample size. Psychological Bulletin, 103, 391410.
+Nuttin, J. R. (1964). The future time perspective in human motivation and learning. Acta
+Psychologica, 23, 60-83.
+Petrocelli, J. (1997). The role of temporal focus on risk behaviors in college students.
+Unpublished master’s thesis, Westminster College, New Wilmington, PA.
+Strathman, A., Gleicher, F., Boninger, D. S., & Edwards, S. (1994). The consideration of
+
+Downloaded by [University of Winnipeg] at 06:34 26 August 2014
+
+Petrocelli
+
+413
+
+future consequences: Weighing immediate and distant outcomes of behavior. Journal
+of Personaliw and Social Psychology, 66, 742-752.
+Tanaka, J. (1987). How big is big enough? Sample size and goodness-of-fit indices in
+structural equation models with latent variables. Child Development, 58, 134-146.
+Wheaton, B., Muthen, B., Alwin, D. F., & Summers, G. F. (1977). Assessing reliability
+and stability in panel models. In D. R. Heise (Ed.), Sociological methodology 1977 (pp.
+84-1 36). San Francisco: Jossey-Bass.
+Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable
+individual-differences metric. Journal of Personality and Social Psychology, 77,
+1271-1288.
+Zimbardo, P. G., Keough, K. A., & Boyd, J. N. (1997). Present time perspective as a predictor of risky driving. Personality and Individual Differences, 23, 1007-1023.
+
+Received April 12, 2001
+Accepted November 7, 2001
+
+

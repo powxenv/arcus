@@ -1,0 +1,2572 @@
+Journal of Affective Disorders 85 (2005) 113 – 125
+www.elsevier.com/locate/jad
+
+Research report
+
+Affective temperaments in clinically-well subjects in Turkey:
+initial psychometric data on the TEMPS-A
+Simavi Vahip a,*, Sermin Kesebir a, Müge Alkan a, Olcay Yazıcı b,
+Knarig K. Akiskal c, Hagop S. Akiskal c
+a
+
+Affective Disorder Unit, Department of Psychiatry, Psikiyatri Anabilim Dali, Tip Fakultesi, Ege University, Bornova 35100, İzmir, Turkey
+b
+Mood Disorders Unit, Department of Psychiatry, Istanbul University, Istanbul, Turkey
+c
+International Mood Center, University of California at San Diego, San Diego, CA, USA
+Received 23 April 2003; accepted 31 October 2003
+
+Abstract
+Background: This is a first attempt to evaluate the reliability and factor structure replicability of the Temperament
+Evaluation of Memphis, Pisa, Paris and San Diego Autoquestionnaire (TEMPS-A) in its Turkish Version. The questionnaire
+is a self-report 110-item measure that postulates five affective temperaments—the depressive, cyclothymic, irritable,
+hyperthymic, and anxious—which embody both strengths and liabilities along affective lines. Methods: The questionnaire
+was administered to 658 clinically-well subjects in a Turkish university circle. We undertook item analysis and test – retest
+reliability. We then examined internal consistency through factor analysis with PCA rotation. Results: We found good to
+excellent test – retest reliability (0.73 – 0.91), and internal consistency (0.77 – 0.85). We deleted 10 items with factor loading
+< 0.20 for their own subscales, resulting in a questionnaire with 99 items. Despite considerable overlap between depressive
+and cognitive anxiety traits, a distinct ‘‘nervous’’ – anxious factor emerged as well, and the hypothesized (original English) 5factor structure of the TEMPS-A was supported. Cut-offs for each temperament were based on z-scores higher than + 2S.D.
+Dominant irritable (3.7%), nervous – anxious (3.7%) and depressive (3.1%) temperaments were the most common in this
+population, whereas dominant cyclothymic (1.7%) and hyperthymic (1.2%) temperaments were relatively uncommon. These
+temperaments tended to lose their intensity with age. As expected, women scored significantly higher on the nervous –
+anxious, and men on the hyperthymic temperaments. Limitations: The sample was composed of younger subjects with higher
+education than the general population of Turkey. Although the distribution of the scores for each of the temperaments
+deviated somewhat from normal curves, for heuristic reasons we did attempt to provide prevalence rates based on z-scores.
+Conclusion: In this preliminary version of the TEMPS-A, we have retained 100 (of the original 110) traits loading >0.20.
+Some deleted items referred to sleep, others appeared socially desirability traits in the Turkish culture endorsed by many
+subjects. Nonetheless, item analyses within each factor revealed traits indicative of personal assets (specific to each
+temperament) along with those which might represent vulnerability to affective illness. This is in line with the hypothesized
+original theoretical framework of the senior authors. Even in this ‘‘first pass,’’ in its Turkish version the TEMPS-A is a
+
+* Corresponding author. Tel./fax: +90-232-339-8804.
+E-mail address: vahip@med.ege.edu.tr (S. Vahip).
+0165-0327/$ - see front matter D 2003 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jad.2003.10.011
+
+114
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+
+reliable and valid instrument. Further refinement of the instrument will require the study of a nationally representative sample
+in Turkey.
+D 2003 Elsevier B.V. All rights reserved.
+Keywords: Temperament; Affective disorder; Bipolar spectrum; TEMPS-A
+
+1. Introduction
+Although origins of the concept of temperament
+can be traced back to Hippocratic times, Kraepelin
+(1899) was the first to formally introduce it into
+clinical psychiatry. The concept of temperament was
+popular until the psychodynamic preference for
+personality disorders overshadowed this classical
+perspective during the second half of the 20th
+century. The revival of interest in temperament in
+contemporary psychiatry is relatively recent (Akiskal
+et al., 1979).
+This research builds on the work of the last author
+(H.S.A.)—originally based in Memphis—who operationalized depressive, hyperthymic, irritable, cyclothymic and anxious temperaments as the proximal
+behavioral phenotypes in the pre-morbid course of
+affective disorders (Akiskal, 1989; Akiskal and Akiskal, 1992; Akiskal and Mallaya, 1987). Following
+Kraepelin (1899); Kretschmer (1936), this body of
+work hypothesized that these temperaments represent
+the subclinical foundations of affective disorders, and
+that affective temperament represents an early clue for
+a recurrent mood, pre-bipolar disorder (Akiskal,
+1995). As for interpersonal relationships and life
+events, they have been proposed as mediating mechanisms between temperament and clinical mood episodes (Akiskal, 1996).
+Temperament, character and personality are all
+overlapping constructs referring to the basic nature
+of a person (von Zerssen and Akiskal, 1998). Temperament is believed to be more ‘‘heritable,’’ and
+relatively stable throughout life. To measure affective
+traits which could be stable over the lifespan, the
+senior author (H.S.A.) and his colleagues first studied
+subthreshold mood and neurotic disorders, leading to
+the delineation (Akiskal, 1979; Akiskal, 1983) and
+operationalization (Akiskal and Mallaya, 1987; Akiskal, 1998; Akiskal and Akiskal, 1992) of affective
+temperaments that could be useful in clinical prac-
+
+tice. Subsequently, in collaboration with psychiatrists
+and primary care physicians in Memphis, Pisa, Paris,
+and San Diego during the early 1990s, they developed these temperaments into an interview (TEMPSI) (von Zerssen and Akiskal, 1998; Placidi, 1998),
+and eventually into a self-administered Autoquestionnaire or Temperament Evaluation of Memphis, Pisa,
+Paris and San Diego Autoquestionnaire (TEMPS-A)
+format consisting of five subscales (Erfurth et al.,
+2005). Each of the subscales consist of affect-laden
+items, as well as socially adaptive traits (Akiskal and
+Akiskal, 1988, 1992).
+The aim of the present report is to examine the
+reliability of the Turkish version of the self-report
+TEMPS-A and to replicate its postulated 5-factor
+structure. A related objective of ours was to provide
+preliminary cut-off points of the each of the subscales,
+and their relative prevalence in the Turkish population
+under study.
+
+2. Methods
+2.1. Measures
+The TEMPS-A is a self-report instrument consisting of five subscales. Its 110 constituent items inquire
+about the subject’s whole life about traits along
+depressive, cyclothymic, hyperthymic, irritable, and
+anxious lines.
+2.2. Translation
+The questionnaire was translated into the Turkish
+language by two bilingual psychiatrists. The questionnaire was back-translated into English by a third
+bilingual psychiatrist. The originator of the instrument (H.S.A.) evaluated the back-translated version
+of the measure, and an identical translation process
+was carried out for the items that required revisions.
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+Table 1
+The results on reliability and internal consistency
+
+Depressive temperament
+Cyclothymic temperament
+Hyperthymic temperament
+Irritable temperament
+Anxious temperament
+
+115
+
+M.A.), after making sure on the basis of a brief clinical
+interview that they were free of major mental disorders.
+
+Test – retest
+correlations
+
+Cronbach-Alpha
+coefficients
+
+0.91
+0.81
+0.93
+0.76
+0.73
+
+0.77
+0.85
+0.80
+0.82
+0.84
+
+2.4. Statistical analyses
+
+
+Test – retest reliability was conducted to find out if
+the test yields the same scores when administered in
+various conditions. The temperaments of the sub-
+
+The investigation was conducted in conformity with
+the Turkish laws about questionnaire research.
+
+Table 3
+Factor loadings of each temperament as (originally conceived) and
+suggested interpretations
+
+2.3. Subjects
+
+Factor
+
+Items
+
+Depressive
+temperament
+
+The sample of the study consisted of 658 clinicallywell Turkish subjects of both sexes, 43% males
+(n = 286) and 57% females (n = 372). Mean age of all
+subjects was 31.6 (S.D. = 11.6), and its range was
+between 18 and 88 years. Fifty-two percent of the
+sample was single, 41% married, and 3% was separated
+or divorced. The majority (65%) had a university
+degree, 26% had completed high school, and 8% had
+elementary school diplomas. Our sample consisted of
+subjects in the university circle in İzmir: university
+students of various orientations, workers, professionals, academic faculty, artists, retired or unemployed
+people and housewives. The measure was administered
+to the volunteering subjects by two of the authors (S.K.,
+
+1st
+2nd
+3rd
+4th
+5th
+
+9, 10 and 11
+5, 6, 8 and 17
+1, 2, 3 and 4
+7, 12, 13 and 19
+14 and 15
+
+Introversion
+Low self-esteem
+Pessimistic
+Sensitivity
+Altruism
+
+Factor
+
+Items
+
+Cyclothymic
+temperament
+
+1st
+2nd
+3rd
+4th
+
+22, 23, 24, 25, 29 and 30
+31, 32, 33, 34, 35 and 38
+26, 28 and 42
+27, 36, 39 and 40
+
+Variability
+Cyclicity
+Instability
+Intensity
+
+Factor
+
+Items
+
+Hyperthymic
+temperament
+
+1st
+2nd
+3rd
+4th
+
+43, 44, 45, 46 and 55
+47, 48, 49, 50, 51 and 58
+59, 60, 61, 62
+52, 53
+
+5th
+
+54, 56 and 57
+
+Fun loving
+High self-esteem
+Narcissistic
+Risk-taking/
+adventuresome
+Sociable
+
+Factor
+
+Items
+
+Irritable
+temperament
+
+1st
+2nd
+3rd
+4th
+5th
+
+68, 69, 70 and 71
+72, 73, 74 and 77
+67 and 76
+78, 79, 80 and 83
+64, 65, 66 and 81
+
+Restlessness
+Aggressivity
+Critical of others
+Dysphoric emotionaltiy
+Complaining
+
+Factor
+
+Items
+
+Anxious
+temperament
+
+1st
+2nd
+3rd
+4th
+
+85, 86, 87, 88 and 89
+91, 92, 101 and 102
+90, 93, 105 and 106
+98, 99, 100, 107, 108,
+109 and 110
+94, 95, 96 and 97
+
+Worrying about kin
+Inability to relax
+Somatic anxiety
+Fear-prone
+
+Table 2
+Psychometrically weak items that were deleted
+Depressive temperament
+Item #16. I am a hard working person
+Item #18. It is natural for me to be neat and organized
+Cyclothymic temperament
+Item #37. My need for sleep varies a lot from just a few hours to
+more than 9 h
+Item #41. I often have a strong urge to do outrageous things
+Hyperthymic temperament
+Item #63. Normally less than 6 h of sleep is enough for me
+Irritable temperament
+Item #75. I like to tease people, even those I hardly know
+Item #82. I could be a revolutionary
+Item #84. (Women only): I have attacks of uncontrollable rage right
+before my periods
+Anxious temperament
+Item #103. I am, by nature, a very cautious person
+Item #104. I often wake up at night afraid that burglars are in the
+house
+
+5th
+
+Autonomic anxiety
+
+116
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+
+jects are not supposed to change, so the scores at two
+times should be correlated. The test was administered to the same population twice in 2 weeks
+intervals for a subset of 30 subjects.
+ The alpha value of each item on the scale was
+evaluated and correlated with Cronbach-Alpha.
+The results of this analysis would serve to
+indicate that items of each scale represent related
+traits necessary for defining the five postulated
+constructs.
+ Factor analysis with varimax PCA rotation was
+carried out to assess the internal consistencies of
+each of the subscales.
+ We evaluated socio-demographic characteristics.
+Preliminary cut-off points were determined for
+each subscale via calculation of z-scores corresponding to + 2S.D. Subjects who had higher
+scores than cut-off were considered as having the
+specified dominant temperaments.
+
+3. Results
+3.1. Subjects
+The measure was administered to 1000 subjects.
+Thirty four percent of the administered questionnaires
+were either incomplete or not returned. The analyses
+reported herein pertain to the 658 (66%) protocols
+which were complete. Completers and not-completers
+were demographically comparable.
+
+3.2. Reliability
+As shown in Table 1, test –retest reliability ranged
+from 0.73 to 0.93 and Cronbach-Alpha coefficients
+from 0.75 to 0.84.
+Item analysis indicated that 10 items had alpha
+values of < 0.2 (Table 2). The homogeneity of the scale
+will improve if these were removed from the scale.
+Some are sleep related items, others appear to be social
+desirability items. These items were deleted from
+further consideration in the final 100 item questionnaire TEMPS-A, Turkish version (see Appendix A,
+where these items are marked by an asterisk, *).
+3.3. Validity
+The construct validity of the scale was studied
+using exploratory factor analysis (PCA type 2, varimax rotation). Factor analysis of all items yielded
+five main factors (Appendix A). As can be seen,
+factor loadings of depressive and anxious (cognitive)
+items overlap significantly and form a ‘‘cluster.’’
+However, another smaller factor loading with certain
+somatic items of the anxious temperament stands out
+as a separate cluster, without any overlap with other
+temperaments, which we decided to label the ‘‘nervous temperament’’. Cyclothymic, irritable and
+hyperthymic temperaments formed largely independent factors (Table 3).
+In order to obtain additional support for the
+validity of the component traits of each tempera-
+
+Table 4
+Means and standard deviations of scores; frequency distributions; cut-off points of z-scores
+3S.D.
+Depressive temperament
+
+Cyclothymic temperament
+
+Hyperthymic temperament
+
+Irritable temperament
+
+Nervous temperament
+
+n
+(%)
+Score
+n
+(%)
+Score
+n
+(%)
+Score
+n
+(%)
+Score
+n
+(%)
+Score
+
+0
+–
+–
+0
+–
+–
+20
+(3.1)
+–
+0
+–
+–
+0
+–
+–
+
+2S.D.
+
+1S.D.
+
+150
+(22.8)
+
+232
+(35.2)
+
+152
+(23.1)
+
+228
+(34.6)
+
+95
+(14.4)
+
+260
+(39.6)
+
+160
+(24.3)
+
+235
+(35.6)
+
+152
+(23)
+
+256
+(38.8)
+
++ 1S.D.
+
++ 2S.D.
+
++ 3S.D.
+
++ 4S.D.
+
+201
+(30.6)
+7–9
+157
+(23.7)
+9 – 13
+189
+(28.7)
+12 – 15
+163
+(24.8)
+5–8
+158
+(23.9)
+8 – 12
+
+54
+(8.2)
+10 – 12
+80
+(13.9)
+14 – 17
+86
+(13)
+16 – 19
+76
+(11.6)
+9 – 12
+69
+(10.6)
+13 – 17
+
+17
+(2.7)
+13 – 15
+11
+(1.7)
+18 – 19
+8
+(1.2)
+20
+23
+(3.5)
+13 – 16
+20
+(3.1)
+18 – 21
+
+4
+(0.4)
+16 – 18
+0
+
+0
+
+1
+(0.2)
+17 – 18
+3
+(0.6)
+22 – 24
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+Table 5
+The comparisons of temperament scores according to gender
+
+Depressive temperament
+Cyclothymic temperament
+Hyperthymic temperament
+Irritable temperament
+Nervous – anxious temperament
+
+117
+
+Table 7
+Rates of dominant temperaments by age groups*
+
+Male
+
+Female
+
+P*
+
+< 30 years 31 – 40 years >41 years
+
+13.9 (3.5)
+18.8 (2.8)
+19.7 (1.6)
+21.4 (2.6)
+20.6 (3.1)
+
+14.8 (4.1)
+18.7 (3.2)
+17.6 (2.1)
+20.6 (2.8)
+22.3 (3.6)
+
+0.073
+0.643
+0.012
+0.500
+0.025
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+Depressive temperament 12
+Cyclothymic temperament 6
+Hyperthymic temperament 5
+Irritable temperament
+14
+Anxious temperament
+14
+
+2.1
+1
+0.8
+2.4
+2.4
+
+5
+3
+2
+7
+6
+
+0.8
+0.5
+0.3
+1.2
+1
+
+4
+2
+1
+3
+3
+
+0.7
+0.3
+0.1
+0.5
+0.5
+
+* Mann – Whitney U.
+
+* All comparisons non-significant.
+
+ment (Akiskal and Mallaya, 1987; Akiskal et al.,
+1978), factor analysis for each temperament was
+also performed. The items of each temperament
+loaded on five or six subfactors (Table 3). Suggested interpretation of each of these subfactors are
+provided. The factors obtained for each temperament are essentially compatible with the original
+Akiskal and Mallaya (1987); Akiskal and Akiskal
+(1992) criteria for each of the ‘‘classic,’’ as well as
+to the subsequently added generalized anxious
+(Akiskal, 1998) temperaments.
+3.4. Determining cut-off scores
+Dominant temperament was determined according
+to their z-scores: S.D. + 1, mildly high; S.D. + 2,
+moderately high; S.D. + 3, extremely high. The cutoff scores were evaluated according to the z-scores
+above the positive 2S.D. (Table 4).
+3.5. Gender and age effects on prevalence
+
+4. Discussion
+
+The relationship between temperament and gender was assessed with respect to the scores obtained
+for each temperament and the dominant temperament of the subject as well (Table 5). Males had
+significantly higher scores than females for the
+
+Table 6
+Rates of dominant temperaments by gender
+Male
+
+Depressive temperament
+Cyclothymic temperament
+Hyperthymic temperament
+Irritable temperament
+Anxious temperament
+Total
+
+hyperthymic temperament (U = 200.21, P = 0.012),
+whereas nervous – anxious temperament scores were
+significantly higher in women (U = 158.32,
+P = 0.025). There was no statistically significant
+gender difference in the frequency of dominant
+depressive, cyclothymic, and irritable temperaments
+(Table 6). Prevalence of the dominant temperaments
+combining the two sexes are as follows: 3.1% for
+depressive temperament, 1.7% for cyclothymic temperament, 1.2% for hyperthymic temperament, 3.7%
+for irritable temperament, 3.7% for the anxious
+temperament.
+No significant difference was found among three
+age groups (age under 30, between 31 and 40 and over
+41) in mean temperament scores. However, as the age
+increased, the temperament scores tended to decrease
+(Table 7).
+
+Female
+
+Total
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+9
+4
+4
+14
+8
+39
+
+1.5
+0.7
+0.7
+2.4
+1.4
+6.7
+
+12
+7
+4
+10
+15
+48
+
+2.7
+1.2
+0.7
+2
+2.7
+9.1
+
+21
+11
+8
+24
+23
+87
+
+3.1
+1.7
+1.2
+3.7
+3.7
+13.4
+
+The findings of this study indicate that TEMPS-A
+(Turkish Version) is a reliable instrument that is
+suitable for future studies in Turkey (Vahip et al.,
+in press).
+Overall, the hypothesized 5-factor structure of
+the TEMPS was supported, each scale contributing
+largely to its own factor. However, factor analysis
+findings indicate that depressive and anxious (cognitive) traits overlap considerably. Although this
+finding implies that depressive and anxious traits
+coexist in the community, a dominant depressive
+temperament—including trait cognitive anxiety—
+could be delineated; we also found evidence for a
+distinct ‘‘nervous’’– anxious factor. There was also
+a minor overlap of the dominant hyperthymic with
+several irritable traits. Dominant cyclothymic and
+
+118
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+
+irritable temperaments had minimal overlap with
+items from other subscales.
+TEMPS-A (Turkish Version), like its original
+English counterpart, has good internal consistency.
+This was enhanced by removing items with low
+factorial loading from the instrument. We found that
+several sleep items were not useful as trait measures. Curiously, being a ‘‘short sleeper’’ did not
+characterize the hyperthymic. Excessive need for
+sleep characterized not the depressive, but the
+cyclothymic, where it may tap the tendency to
+fatigue and disposition to retarded depression. As
+expected, unrestful sleep and initial insomnia characterized the anxious temperament. The lack of
+traitness for some of the sleep items has been
+found previously in the Italian sample as well
+(Placidi, 1998). Future studies are needed to clarify
+this question. Another item with weak performance
+was, ‘‘I am a hardworking person’’ (originally in
+the depressive scale). This item has a positive
+social valence in the Turkish culture, and does
+not appear to tap depressive traits. Other items
+could also be influenced by cultural factors. Thus
+the self-concept of being neat and organized (#18,
+originally in the depressive temperament) appears
+like a ‘‘social desirability’’ item only endorsed by a
+positive temperament like the hyperthymic, and we
+have elected to delete it as well. It is expected that
+the urge to engage in outrageous acts to be characteristic of the cyclothymic (#41), yet it was
+endorsed by the hyperthymic; as other items (such
+as narcissistic traits) seemed to measure the same
+idea, we also elected to delete it. On the other
+hand, the theoretical structure of the TEMPS-A
+which mixes adaptive social traits and affect-laden
+items is supported by the subfactorial loading for
+each temperament (Table 4). These include, among
+others, fun loving, narcissism, sociability and worrying about kin.
+Now brief comments about each of the constituent
+temperaments. The depressive temperament has been
+validated and standardized on the basis of this first
+psychometric study in Turkey, yielding a prevalence
+of 3.1%. In previous studies based in clinical populations (Klein, 1990; Phillips et al., 1998) using similar
+criteria in other populations, much higher rates of
+prevalence have been reported, possibly due to the use
+of different cut-offs. Rates similar to the present one
+
+were obtained in the study with TEMPS-I Scale in an
+Italian student population (von Zerssen and Akiskal,
+1998; Placidi, 1998).
+The prevalence for cyclothymia in a student
+population was reported as 4– 6% (Depue et al.,
+1981). In the study that was done in Italy to
+determine the reliability and validity of the
+TEMPS-I, the prevalence of this temperament was
+6.4% (Placidi, 1998). We found that the prevalence
+of cyclothymic temperament in our population was
+1.7%, and had a good validity. The difference can
+be due to interview versus self-rated measures, or
+in part explained by the much younger Italian
+sample. Alternatively, there can be real population
+differences.
+In the Turkish sample, the prevalence of dominant
+hyperthymic temperament was 1.2%, which was validated and standardized. These data cohere with two
+other population studies. Thus, Eckblad and Chapman
+(1986) found that intermittent hypomanic characteristics occurred in 1% in 1519 college students. Wicki
+and Angst (1991) found a prevalence of 4% for
+hypomania, of which one out of four (1% of the
+population) was chronically hypomanic, i.e. ‘‘hyperthymic’’. However, in the study that was carried out in
+Italy, none of the subjects obtained scores in the
++ 2S.D. range; it appeared as though many Italian
+students were hyperthymic (between the 1st and 2nd
++ S.D.), and for that reason standardization could not be
+carried out in that population. Further studies are
+needed to examine the relative merits of interview
+and self-rated versions in assessing the hyperthymic
+temperament.
+The distribution of irritable temperament was
+non-Gaussian and unstandardized in the Italian
+TEMPS-I study (Placidi, 1998), it was interestingly
+well standardized and validated in the Turkish
+sample, accounting for 3.7% of subjects. Such a
+difference could stem from better operationalization
+of this temperament in TEMPS-A compared with
+TEMPS-I, though true population differences cannot
+be ruled out.
+The prevalence of the dominant ‘‘nervous’’ temperament in the Turkish sample was 3.7%. This rate is
+compatible with epidemiologic data on generalized
+anxiety (Wittchen et al., 1994).
+Depressive, irritable and ‘‘nervous’’ temperaments
+were the most common temperaments in the Turkish
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+
+sample, and cyclothymic and hyperthymic, the least
+common. As already pointed out, except for concordance with the depressive, these rates are in some
+ways in sharp contrast with those from Italy. The
+present findings are an important beginning, since
+this is the first study in Turkey that assessed affective temperaments. Therefore, replication of this
+study is needed on a larger and more representative
+national sample to decide whether such differences
+are due to population/cultural differences, or emanate
+from methodologic factors.
+As for the distribution by gender, in our population men scored significantly higher on hyperthymic
+temperament, and this finding is similar with other
+studies in clinical populations (Akiskal, 1984; von
+Zerssen and Akiskal, 1998; Perugi, 1990). As
+expected, women scored significantly higher on the
+‘‘nervous’’ temperament and also had more dominant
+anxious temperament traits than males.
+A significant difference with regard to age groups
+was not obtained, however it was observed that
+extreme scores in older ages were rare. Although this
+finding was not statistically significant, it implied that
+as age increases, the temperament scores might decrease. Even this trend might be a measurement
+
+119
+
+artifact, given the relatively small subsample in the
+elderly in the present study.
+
+5. Conclusions and future directions
+We tentatively conclude that anxious, irritable and
+depressive temperaments are the most dominant
+temperaments in Turkey: The ‘‘nervous’’ temperament is more frequent in females, irritable temperament in males.
+This is a first attempt to psychometrically evaluate the TEMPS-A (Turkish Version). It is a reliable
+and valid instrument in our hands. Since it is a selfreport instrument, it is convenient to administer it in
+large epidemiological studies. In clinical and genetic
+studies, however, reliability and validity of the
+instrument are of greater importance, therefore, further development and standardization of semi-structured format of the 100-item TEMPS-A could
+improve the quality of future studies in clinical
+populations from different socio-economic classes
+with different literacy rates—such as that in Turkey—where investigators often need to read the
+questions to the subjects.
+
+Appendix A. Factor structure after varimax (normalized) rotation of Turkish TEMPS-A
+The original English text TEMPS-A is given in italics to facilitate understanding.
+
+1D
+2D
+
+3D
+4D
+5D
+6D
+7D
+
+Üzgün, mutsuz bir insanım.
+I am a sad, unhappy person
+nsanlar bana olayların komik yanlarını
+göremediğimi söylerler.
+People tell me I am unable to see the lighter side
+of things
+Hayatım boyunca ßcok ßcektim.
+I have suffered a lot in life
+şlerin sonu sıklıkla kötüye varır diye düşünürüm.
+I think things often turn out for the worst
+Kolay pes ederim.
+I give up easily
+Kendimi bildim bileli başarısız hissetmişimdir.
+As long as I can remember, I have felt like a failure
+Başkalarının sorun saymadıkları konularda ben
+kendimi daima sucßlamışımdır.
+I have always blamed myself for what others might
+consider no big deal
+
+Factors
+1
+0.51
+
+2
+0.14
+
+0.41
+
+3
+0.12
+
+4
+0.13
+
+5
+
+0.13
+
+–
+
+–
+
+0.12
+
+0.41
+
+0.15
+
+–
+
+–
+
+–
+
+0.54
+
+0.25
+
+–
+
+0.17
+
+–
+
+0.27
+
+0.23
+
+–
+
+0.31
+
+–
+
+0.32
+
+0.18
+
+0.29
+
+0.15
+
+–
+
+0.53
+
+0.21
+
+0.23
+
+0.10
+
+0.11
+
+0.20
+
+(continued on next page)
+
+120
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+
+Appendix A (continued)
+8D
+9D
+
+10 D
+
+11 D
+12 D
+
+13 A
+
+14 D
+15 A
+
+16 *
+17 A
+
+18 *
+
+19 D
+20 D
+21 C
+
+22 C
+23 C
+24 C
+
+25 C
+
+26 C
+
+27 I
+
+Başka insanlar kadar ßcok enerjim olduğunu sanmıyorum.
+I do not seem to have as much energy as other people
+Değişikliği pek sevmeyen tipte bir kisiyim.
+I am the kind of person who does not like change
+very much
+Grup icßinde konuşmaktansa, başkalarini dinlemeyi
+tercih ederim.
+In a group, I would rather hear others talk
+Siklikla önceliği başkalarina veririm.
+I often give into others
+Yeni insanlarla karşilaştiğimda kendimi oldukcßa
+rahatsiz hissederim.
+I feel very uneasy meeting new people
+Eleştirildiğimde ya da reddedildiğimde duygularım
+ßcok kolay zedelenir.
+My feelings are easily hurt by criticism or rejection
+Ben her zaman güvenilebilecek tipte bir insanım.
+I am the kind of person you can always depend on
+Başkalarının ihtiyacßlarını kendiminkilerin önüne
+koyarim.
+I put the needs of others above my own
+Cßok ßcalışan bir kişiyim.
+I am a hard working person
+ßslerin basßısnda olmaktansa basßkasının altında
+ßcalişmayı tercih ederim.
+I would rather work for someone else than be the boss
+Planlı-programlı ve düzenli olmak benim
+yapımda vardır.
+It is natural for me to be neat and organized
+Hicßbir şeyden emin olamayan tipte bir kişiyim.
+I am the kind of person who doubts everything
+Cinsel arzularım her zaman az olmuştur.
+My sex drive has always been low
+Normal olarak günde 9 saatten fazla uykuya
+ihtiyacım vardir.
+I normally need more than 9 h of sleep
+Cßoğu zaman sebepsiz yorgunluk hissederim.
+I often feel tired for no reason
+Ruh halimde ve enerjimde ani değişiklikler olur.
+I get sudden shifts in mood and energy
+Ruh halim ve enerjim ya yukarılarda ya da
+aşağılardadır, ender olarak ikisinin arasındadır.
+My moods and energy are either high or low,
+rarely in between
+Ortada görünür bir neden yokken zihnim
+bazen ßcok acßık bazen de donuk olur.
+My ability to think varies greatly from sharp to dull
+for no apparent reason
+Birisini gercßekten ßcok sevebilir ve sonra ona
+olan ilgimi tamamen kaybedebilirim.
+I can really like someone a lot, and then completely
+lose interest in them
+Sıklıkla insanlara parlarım ve sonra sucßluluk duyarım.
+I often blow up at people and then feel guilty about it
+
+0.31
+
+0.22
+
+0.37
+
+–
+
+0.12
+
+0.25
+
+–
+
+0.19
+
+–
+
+–
+
+0.27
+
+–
+
+0.31
+
+0.17
+
+0.13
+
+0.25
+
+0.16
+
+0.26
+
+0.24
+
+0.13
+
+0.38
+
+0.24
+
+0.21
+
+–
+
+–
+
+0.19
+
+0.12
+
+0.18
+
+–
+
+0.36
+
+–
+
+–
+
+0.19
+
+0.22
+
+0.14
+
+0.16
+
+0.23
+
+0.18
+
+–
+
+0.29
+
+–
+
+–
+
+0.19
+
+0.12
+
+0.14
+
+–
+
+–
+
+0.36
+
+0.11
+
+0.23
+
+0.14
+
+0.11
+
+0.51
+
+0.21
+
+0.12
+
+0.37
+
+0.19
+
+0.22
+
+0.10
+
+0.28
+
+0.11
+
+–
+
+0.31
+
+–
+
+0.11
+
+0.15
+
+0.33
+
+–
+
+–
+
+–
+
+0.21
+
+0.49
+
+–
+
+–
+
+0.15
+
+–
+
+0.59
+
+–
+
+0.19
+
+0.10
+
+0.22
+
+0.58
+
+0.15
+
+–
+
+–
+
+–
+
+0.64
+
+0.12
+
+–
+
+0.18
+
+–
+
+0.44
+
+0.16
+
+0.18
+
+– 0.20
+
+–
+
+0.37
+
+0.14
+
+0.38
+
+–
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+
+121
+
+Appendix A (continued)
+28 C
+
+29 C
+30 C
+31 C
+
+32 C
+
+33 C
+
+34 C
+
+35 C
+
+36 C
+37 *
+
+38 C
+
+39 C
+
+40 C
+
+41 *
+
+42 C
+43 H
+
+Sıklıkla birşeylere başlar ve onları bitirmeden
+ilgimi kaybederim.
+I often start things and then lose interest before
+finishing them
+Ruh halim (duygularım) sebepsiz yere sık sık değişir.
+My mood often changes for no reason
+Canlılık ve uyuşukluk arasında sürekli gider gelirim.
+I constantly switch between being lively and sluggish
+Bazen yatağa ßcökkün girer, fakat sabah müthiş yi
+hissederek uyanırım.
+I sometimes go to bed feeling down,
+but wake up in the morning feeling terrific
+Bazen yatağa kendimi ßcok iyi hissederek girer ve
+sabahleyin yaşamin yaşanmaya değer olmadığı
+duygusuyla uyanırım.
+I sometimes go to bed feeling great, and wake up in
+the morning feeling life is not worth living
+Bana olaylar karşisinda sıklıkla karamsarlığa
+kapıldığım ve eski mutlu zamanlari unuttuğum söylenir.
+I am told that I often get pessimistic about things,
+and forget previous happy times
+Aşırı kendine güven ile bir türlü kendinden
+emin olamama duyguları arasında gider gelirim.
+I go back and forth between feeling overconfident
+and feeling unsure of myself
+Dışa dönüklükle icße kapanma arasında gider gelirim.
+I go back and forth between being outgoing
+and being withdrawn from others
+Tüm duyguları yoğun olarak yaşarım.
+I feel all emotions intensely
+Birkacß saat ile 9 saat arasinda değişen sürelerde
+uykuya ihtiyacß duyarım.
+My need for sleep varies a lot from just a few hours
+to more than 9 h
+Bazen herşeyi ßcok canlı, bazen yaşamdan yoksun
+denecek kadar renksiz algılarım.
+The way I see things is sometimes vivid,
+but at other times lifeless
+Aynı anda hem mutsuz, hem de mutlu olabilen
+tipte bir kişiyim.
+I am the kind of person who can be sad and happy at
+the same time
+Başkalarının ulaşılmaz saydıkları şeyler hakkında
+uzun uzun hayaller kurarim.
+I daydream a great deal about things that other people
+consider impossible to achieve
+Sıklıkla kuraldışı, topluma aykırı şeyler yapmak icßin
+gücßlü bir istek duyarim.
+I often have a strong urge to do outrageous things
+Kolay asık olup, kolay vazgecßen bir kişiyim.
+I am the kind of person who falls in and out of love easily
+Cßoğunlukla havamda ya da neşeli bir ruh halindeyimdir.
+I am usually in an upbeat or cheerful mood
+
+–
+
+0.47
+
+0.19
+
+0.63
+
+0.21
+
+–
+
+0.19
+
+–
+
+–
+
+0.25
+
+–
+
+0.62
+
+–
+
+0.16
+
+–
+
+–
+
+0.41
+
+–
+
+0.26
+
+–
+
+0.26
+
+0.52
+
+–
+
+–
+
+–
+
+0.32
+
+0.42
+
+0.10
+
+0.10
+
+–
+
+0.21
+
+0.55
+
+0.14
+
+–
+
+–
+
+0.22
+
+0.50
+
+0.16
+
+0.10
+
+–
+
+–
+
+0.27
+
+0.16
+
+0.11
+
+–
+
+–
+
+0.10
+
+–
+
+–
+
+–
+
+0.25
+
+0.56
+
+–
+
+–
+
+–
+
+0.15
+
+0.44
+
+0.18
+
+–
+
+–
+
+–
+
+0.34
+
+0.22
+
+0.15
+
+0.10
+
+0.10
+
+0.20
+
+0.42
+
+–
+
+0.18
+
+–
+
+0.39
+
+0.23
+
+–
+
+–
+
+0.37
+
+–
+
+0.41
+
+–
+
+0.18
+
+(continued on next page)
+
+122
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+
+Appendix A (continued)
+44 H
+45 H
+
+46 H
+
+47 H
+48 H
+49 H
+50 H
+
+51 H
+
+52 H
+53 H
+
+54 H
+
+55 H
+56 H
+
+57 H
+
+58 H
+59 H
+
+60 H
+
+61 H
+
+62 H
+
+Yaşam, sonuna kadar tadını ßcikardığım bir şölendir.
+Life is a feast which I enjoy to the fullest
+Fikra anlatmayı, espriler yapmayi severim, insanlar
+bana şakacı olduğumu söylerler.
+I like telling jokes, people tell me I am humorous
+Herşeyin zamanla iyi olacağina inanan tipte bir
+kişiyim.
+I am the kind of person who believes everything will
+eventually turn out all right
+Kendime müthiş güvenirim.
+I have great confidence in myself
+Sıklıkla büyük fikirler üretirim.
+I often get many great ideas
+Her zaman birşeylerle meşgulümdür.
+I am always on the go
+Bircßok işi hem de yorulmadan yapabilirim.
+I can accomplish many tasks without even
+getting tired
+Konuşmaya doğuştan yetenekliyim. Konuşmam
+başkalari icßin ikna edici, etkileyici ve ilham vericidir.
+I have a gift for speech, convincing and inspiring
+to others
+Riskli bile olsalar yeni projelere atlamaya bayılirım.
+I love to tackle new projects, even if risky
+Bir şey yapmayi bir kez kafama koyduğumda,
+beni hicßbir şey durduramaz.
+Once I decide to accomplish something,
+nothing can stop me
+Doğru dürüst tanımadığım insanlarla bile son
+derece rahatım.
+I am totally comfortable even with people
+I hardly know
+İnsanlarla birlikte olmayı ßcok severim.
+I love to be with a lot of people
+İnsanlar bana sıklıkla burnumu başkalarının işine
+soktuğumu söylerler.
+People tell me that I often get my nose into
+others business
+Cömertim ve başkalari icßin bol para harcarım.
+I am generous, and spend a lot of money
+on other people
+Bircßok alanda yetenekli ve uzmanım.
+I have abilities and expertize in many areas
+Canımın istediğini yapma hakkım ve ayrıcalığım
+olduğunu hissederim.
+I feel I have the right and privilege to do as I please
+İşin patronu, ‘‘tepedeki adam’’ olmayı seven
+tipte bir kişiyim.
+I am the kind of person who likes to be the boss
+Birisiyle bir konu üzerinde anlaşamadığım zaman
+ateşli bir tartışmaya girebilirim.
+When I disagree with someone,
+I can get into a heated argument
+Cinsel isteklerim daima fazladır.
+My sex drive is always high
+
+0.23
+
+0.13
+
+0.47
+
+–
+
+0.13
+
+0.22
+
+–
+
+0.39
+
+–
+
+0.12
+
+0.17
+
+–
+
+0.32
+
+0.28
+
+0.20
+
+–
+
+–
+
+0.68
+
+–
+
+–
+
+–
+
+–
+
+0.65
+
+–
+
+–
+
+–
+
+–
+
+0.56
+
+–
+
+0.12
+
+–
+
+–
+
+0.56
+
+–
+
+0.12
+
+–
+
+–
+
+0.55
+
+–
+
+–
+
+–
+
+0.16
+
+0.51
+
+–
+
+0.21
+
+–
+
+–
+
+0.55
+
+–
+
+–
+
+0.12
+
+–
+
+0.50
+
+–
+
+–
+
+0.19
+
+0.10
+
+0.32
+
+–
+
+0.20
+
+–
+
+–
+
+0.37
+
+–
+
+0.10
+
+–
+
+0.18
+
+0.29
+
+–
+
+–
+
+–
+
+–
+
+0.51
+
+–
+
+–
+
+–
+
+0.22
+
+0.43
+
+0.19
+
+–
+
+–
+
+–
+
+0.36
+
+0.25
+
+–
+
+–
+
+–
+
+0.45
+
+0.18
+
+–
+
+–
+
+–
+
+0.50
+
+0.11
+
+0.17
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+
+123
+
+Appendix A (continued)
+63*
+64 I
+65 I
+66 I
+67 I
+68 I
+69 I
+70 I
+
+71 I
+
+72 I
+73 I
+74 I
+75 *
+76 I
+77 I
+78 I
+
+79 I
+80 I
+81 I
+82 *
+83 I
+
+84 *
+
+85 D
+
+Normalde 6 saatten az uyku bana yeter.
+Normally I can get by with less than 6 h of sleep
+Huysuz (sinirli) bir kişiyim.
+I am a grouchy (irritable) person
+Bir türlü hoşnut olmayan tabiatta bir kişiyim.
+I am by nature a dissatisfied person
+Cßok yakınırım.
+I complain a lot
+Başkalarını ßcok eleştiririm.
+I am highly critical of others
+Kendimi sıklıkla patlamaya hazır, gergin hissederim.
+I often feel on edge
+Kendimi sıklıkla keman yayı gibi gerilmiş hissederim.
+I often feel wound up
+Adeta hayatımı anlayamadığım, hoş olmayan bir
+huzursuzluk yönlendiriyor.
+I am driven by an unpleasant restlessness that
+I do not understand
+Sık sık öylesine sinirleniyorum ki, gözüm hicß bir
+şey görmüyor.
+I often get so mad that I will just trash everything
+Terslendiğimde kavga edebilirim.
+When crossed, I could get into a fight
+İnsanlar bana hicß yokken parladığımı söylerler.
+People tell me I blow up out of nowhere
+Sinirlendiğimde insanlara bağırırım.
+When angry, I snap at people
+Az tanısam bile insanlara takılmayı, şakalaşmayı severim.
+I like to tease people, even those I hardly know
+İğneleyici şakalarım beni zor durumda bırakır.
+My biting humor has gotten me into trouble.
+O kadar öfkelenebilirım ki birilerine zarar verebilirim.
+I can get so furious I could hurt someone
+Eşimi (ya da sevgilimi) o kadar kıskanırım ki buna
+dayanamıyorum.
+I am so jealous of my spouse (or lover),
+that I cannot stand it
+Küfürbaz olarak bilinirim.
+I am known to swear a lot
+Birkacß kadeh icßkiyle saldırganlaştığım söylenmiştir.
+I have been told that I become violent with just a few drinks
+Cßok kuşkucu bir kişiyim.
+I am a very skeptical person
+Devrimci bir ruha sahibim.
+I could be a revolutionary
+Cinsel isteklerim sıklıkla o kadar yoğundur ki
+gercßekten rahatsızlık yaratır.
+My sex drive is often so intense that it is truly unpleasant
+(Yalnızca bayanlar): Adet dönemlerimin hemen
+öncesinde kontrol edemediğim öfkelerim olur.
+(Women only): I have attacks of uncontrollable rage
+right before my periods
+Kendimi bildim bileli endişeli biriyim.
+I have been a worrier for as long as I can remember
+
+0.10
+
+–
+
+–
+
+–
+
+0.15
+
+0.19
+
+–
+
+–
+
+0.63
+
+–
+
+0.28
+
+–
+
+–
+
+0.52
+
+–
+
+0.31
+
+–
+
+0.14
+
+0.49
+
+0.12
+
+–
+
+–
+
+–
+
+0.52
+
+0.13
+
+0.47
+
+0.20
+
+–
+
+0.54
+
+–
+
+0.38
+
+0.12
+
+–
+
+0.48
+
+–
+
+0.28
+
+0.27
+
+0.14
+
+0.53
+
+–
+
+0.23
+
+0.23
+
+–
+
+0.51
+
+–
+
+–
+
+0.10
+
+–
+
+0.48
+
+0.12
+
+0.15
+
+0.23
+
+0.14
+
+0.50
+
+–
+
+–
+
+0.17
+
+–
+
+0.47
+
+–
+
+– 0.17
+
+0.14
+
+0.18
+
+0.16
+
+–
+
+–
+
+0.14
+
+0.18
+
+0.42
+
+–
+
+0.10
+
+0.21
+
+–
+
+0.30
+
+0.12
+
+0.14
+
+0.20
+
+0.18
+
+0.35
+
+0.21
+
+0.10
+
+–
+
+–
+
+0.31
+
+–
+
+–
+
+0.14
+
+0.10
+
+0.19
+
+–
+
+0.28
+
+0.15
+
+–
+
+0.40
+
+–
+
+–
+
+–
+
+–
+
+0.11
+
+–
+
+–
+
+–
+
+0.21
+
+0.32
+
+–
+
+0.10
+
+–
+
+–
+
+0.10
+
+–
+
+0.60
+
+–
+
+–
+
+–
+
+0.34
+
+(continued on next page)
+
+124
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+
+Appendix A (continued)
+86 D
+87 D
+
+88 D
+89 D
+90 A
+91 D
+92 D
+93 A
+94 A
+95 A
+96 A
+97 A
+
+98 D
+
+99 D
+
+100 D
+
+101 A
+102 A
+103 *
+104 *
+105 A
+106 A
+107 D
+108 D
+
+Her zaman endişelenecek bir şey bulurum.
+I am always worrying about one thing or another
+Başkalarının ufak tefek saydığı günlük şeyler hakkında
+endişelenir dururum.
+I keep on worrying about daily matters that others
+consider minor
+Endişelenmemin önüne gecßemiyorum.
+I cannot help worrying
+Bircßok insan bana bu kadar endişelenmememi söylemiştir.
+Many people have told me not to worry so much
+Zorda kaldığımda ßcoğu kez kafam durur, bloke olurum.
+When stressed, my mind often goes blank
+Gevşemeyi beceremiyorum.
+I am unable to relax
+Sık sık icßimde huzursuz bir kıpırtı hissederim.
+I often feel jittery inside
+Zor durumda kaldığımda, sıkıldığımda sıklıkla ellerim titrer.
+When stressed, my hands often tremble
+Sık sık midem bozulur.
+I often have an upset stomach
+Heyecanlandığımda ishal olabilirim.
+When I am nervous, I may have diarrhea
+Heyecanlandığımda sıklıkla bulantı hissederim.
+When I am nervous, I often feel nauseous
+Heyecanlandığımda tuvalete daha sık gitmek
+zorunda kalırım.
+When I am nervous, I have to go to the bathroom
+more often
+Birisi eve gecß kaldiği zaman basına bir kaza
+gelmiş olabileceğinden korkarim.
+When someone is late coming home,
+I fear they may have had an accident
+Sıklıkla ailemden birileri ciddi bir hastalığa
+yakalanacak diye ßcok korkarım.
+I am often fearful of someone in my family coming
+down with a serious disease
+Devamlı olarak aile üyelerinden biriyle ilgili
+kötü bir haber alacakmışım gibi geliyor.
+I am always thinking someone might break
+bad news to me about a family member
+Uykum dinlendirici değil.
+My sleep is not restful
+Sıklıkla uykuya dalmakta gücßlük ßcekerim.
+I frequently have difficulty falling asleep
+Ben tabiat olarak ßcok temkinli bir kişiyim.
+I am, by nature, a very cautious person
+Sıklıkla geceleri eve hırsız girmiş diye korkarak uyanırım.
+I often wake up at night afraid that burglars are in the house
+Zor durumda kaldığımda, sıkıldığımda hemencecik basım ağrır.
+I easily get headaches when stressed
+Zor durumda kaldığımda, sıkıldığımda göğsüm sıkışır.
+When stressed, I get an uncomfortable feeling in my chest
+Kendimi güvende hissetmiyorum.
+I am an insecure person
+Günlük işleyişteki kücßük değişiklikler bile beni ßcok zorlar.
+Even minor changes in routine stress me highly
+
+0.65
+
+–
+
+–
+
+0.13
+
+0.22
+
+0.64
+
+–
+
+–
+
+–
+
+0.25
+
+0.69
+
+–
+
+0.17
+
+0.12
+
+0.39
+
+0.71
+
+–
+
+–
+
+–
+
+0.29
+
+0.21
+
+0.11
+
+0.16
+
+–
+
+0.43
+
+0.45
+
+0.18
+
+–
+
+0.10
+
+0.13
+
+0.53
+
+0.23
+
+–
+
+0.22
+
+0.13
+
+0.21
+
+0.20
+
+0.10
+
+–
+
+0.33
+
+0.12
+
+–
+
+–
+
+0.10
+
+0.49
+
+–
+
+–
+
+–
+
+–
+
+0.53
+
+–
+
+0.14
+
+–
+
+–
+
+0.46
+
+–
+
+–
+
+0.13
+
+0.11
+
+0.53
+
+0.36
+
+0.11
+
+–
+
+0.21
+
+0.12
+
+0.43
+
+0.32
+
+0.11
+
+0.21
+
+0.22
+
+0.49
+
+0.25
+
+0.12
+
+0.24
+
+0.21
+
+0.36
+
+0.23
+
+–
+
+–
+
+0.21
+
+0.32
+
+0.22
+
+–
+
+–
+
+0.12
+
+0.11
+
+0.12
+
+–
+
+0.12
+
+–
+
+0.16
+
+0.16
+
+–
+
+–
+
+–
+
+–
+
+0.11
+
+–
+
+–
+
+0.56
+
+0.13
+
+–
+
+–
+
+–
+
+0.57
+
+0.45
+
+0.23
+
+–
+
+0.18
+
+–
+
+0.31
+
+0.18
+
+–
+
+0.25
+
+0.22
+
+S. Vahip et al. / Journal of Affective Disorders 85 (2005) 113–125
+
+125
+
+Appendix A (continued)
+109 D
+
+110 A
+
+Araba kullanırken yanlış herhangi bir şey
+yapmasam bile, polis beni durduracakmiş
+gibi bir korku duyarım.
+While driving, even when I have not done anything
+wrong I fear that police may stop me
+Ani sesler beni kolayca irkiltir.
+Sudden noises startle me easily
+
+0.40
+
+0.17
+
+–
+
+–
+
+0.11
+
+0.19
+
+0.24
+
+0.15
+
+–
+
+0.38
+
+D, item was selected for the depressive temperament subscale; C, item was selected for the cyclothymic
+temperament subscale; H, item was selected for the hyperthymic temperament subscale; I, item was selected for
+the irritable temperament subscale; A, item was selected for the anxious temperament subscale; *, item was
+discarded from TEMPS-A TV.
+References
+Akiskal, H.S., 1983. In: Grinspoon, L. (Ed.), The Bipolar Spectrum: New Concepts in Classification and Diagnosis. Psychiatry
+Update, Vol. 2. American Psychiatric Press, Washington, DC,
+pp. 271 – 292.
+Akiskal, H.S., 1984. Characterologic manifestations of affective
+disorders: toward a new conceptualization. Integrative Psychiatry 2, 83 – 88.
+Akiskal, H.S., 1989. In: Robins, L., Barrett, J. (Eds.), Validating
+Affective Personality Types: In the Validity of Psychiatric Diagnosis. Raven Press, New York, pp. 217 – 227.
+Akiskal, H.S., 1995. Toward a temperament-based approach to depression: implications for neurobiologic research. Adv. Biochem. Psychopharmacol. 49, 99 – 112.
+Akiskal, H.S., 1996. In: Mundt, C. (Ed.), The Temperamental Foundations of Affective Disorders. Interpersonal Factors in the Origin and Course of Affective Disorders. Gaskell, Royal College
+of Psychiatrists, London, pp. 3 – 30.
+Akiskal, H.S., 1998. Toward a definition of generalized anxiety
+disorder as an anxious temperament type. Acta Psychiatr. Scand.
+Suppl. 393, 66 – 73.
+Akiskal, H.S., Akiskal, K., 1988. Re-assessing the prevalence of
+bipolar disorders: clinical significance and artistic creativity.
+Psychiatrie Psychobiol. 3, 29s – 36s.
+Akiskal, H.S., Akiskal, K., 1992. Cyclothymic, hyperthymic and
+depressive temperaments as subaffective variants of mood disorders. In: Tasman, A., Riba, M.B. (Eds.), Annual Review,
+vol. 11. American Psychiatric Press, Washington, DC,
+pp. 43 – 62.
+Akiskal, H.S., Mallaya, G., 1987. Criteria for the ‘‘soft’’ bipolar
+spectrum: treatment implications. Psychopharmacol. Bull. 23
+(7), 68 – 73.
+Akiskal, H.S., Bitar, A.H., Puzantian, V.R., Rosenthal, T.L., Walker,
+P.W., 1978. The nosological status of neurotic depression: a
+prospective three-to-four year follow-up examination in light
+of the primary-secondary and unipolar-bipolar dichotomies.
+Arch. Gen. Psychiatry 35, 756 – 766.
+Akiskal, H.S., Khani, M.K., Scott-Strauss, A., 1979. Cyclothymic temperamental disorders. Psychiatr. Clin. North Am. 4,
+25 – 46.
+
+Depue, R.A., Slater, J.F., Wolfstetter-Kausch, H., Klein, D., Goplerud, E., Farr, D., 1981. A behavioral paradigm for identifying persons at risk for bipolar depressive disorder: a conceptual
+framework and five validation studies. J. Abnorm. Psychol. 90,
+381 – 437.
+Eckblad, M., Chapman, L.J., 1986. Development and validation of a
+scale for hypomanic personality. J. Abnorm. Psychol. 95, 214 – 222.
+Erfurth, A., Gerlach, A.L., Hellweg, I., Boenigk, I., Michael, N.,
+Akiskal, H.S., 2005. Studies on a German (Münster) version of
+the temperament auto-questionnaire TEMP-A: construction and
+validation of the brief TEMPS-M. J. Affect. Disord. 85, 53 – 69.
+Klein, D.N., 1990. Depressive personality: reliability, validity, and
+relation to dysthymia. J. Abnorm. Psychol. 99, 412 – 421.
+Kraepelin, E., 1899/1921. Manic-Depressive Insanity and Paranoia
+E&S Livingstone, Edinburgh (trans).
+Kretschmer, E., 1936. Physique and Character Kegan, Paul, Trench,
+Trubner and Co. Ltd, London.
+Perugi, G., 1990. Gender-mediated clinical features of depressive
+illness: importance of temperamental differences. Br. J. Psychiatry 157, 835 – 841.
+Phillips, K.A., Gunderson, J.G., Triebwasser, J., Kimble, C.R.,
+Faedda, G., Lyoo, I.K., Renn, J., 1998. Reliability and validity
+of depressive personality disorder. Am. J. Psychiatry 155,
+1044 – 1048.
+Placidi, G.F., 1998. TEMPS-1 reliability and psychometric properties
+in 1010 14 – 26 year old students. J. Affect. Disord. 47, 1 – 10.
+Vahip, S., Kesebir, S., Alkan, M., Yazıcı, O., Akiskal, H. Türk
+Toplumunda Affektif Mizacß Özellikleri. TEMPS-A (Temperament Evaluation of Memphis, Pisa, Paris and San Diego Autoquestionnaire) Gecßerlik ve Güvenirlik Cßalısßması. Türk Psikiyatri
+Dergisi (in press).
+von Zerssen, D., Akiskal, H.S., 1998. Personality factors in affective disorders: historical developments and current issues with
+special reference to the concepts of temperament and character.
+J. Affect. Disord. 51, 1 – 5.
+Wicki, W., Angst, J., 1991. The Zurich Study. X. Hypomania in a
+28- to 30-year-old cohort. Eur. Arch. Psychiatry Clin. Neurosci.
+240, 339 – 348.
+Wittchen, H., Zhaos, S., Kessler, R.C., Eaton, W.W., 1994. DSMIII-R generalized anxiety disorder in the national comorbidity
+survey. Arch. Gen. Psychiatry 51, 355 – 364.
+
+

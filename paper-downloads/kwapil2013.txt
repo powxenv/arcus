@@ -1,0 +1,1518 @@
+Journal of Affective Disorders 151 (2013) 882–890
+
+Contents lists available at ScienceDirect
+
+Journal of Affective Disorders
+journal homepage: www.elsevier.com/locate/jad
+
+Research report
+
+Affective temperaments: Unique constructs or dimensions of normal
+personality by another name?
+Thomas R. Kwapil a,n, Daniella DeGeorge a, Molly A. Walsh a, Christopher J. Burgin b,
+Paul J. Silvia a, Neus Barrantes-Vidal a,c,d,e
+a
+
+University of North Carolina at Greensboro, P.O. Box 26170, Greensboro, NC 27402-6170, USA
+Tennessee Tech University, USA
+c
+Universitat Autònoma de Barcelona, Spain
+d
+Sant Pere Claver – Fundació Sanitària, Spain
+e
+Instituto de Salud Carlos III, CIBERSAM, Spain
+b
+
+art ic l e i nf o
+
+a b s t r a c t
+
+Article history:
+Received 2 June 2013
+Received in revised form
+26 June 2013
+Accepted 31 July 2013
+Available online 16 August 2013
+
+Background: Current models theorize that affective temperaments underlie the development and
+expression of mood psychopathology. Recent studies support the construct validity of affective
+temperaments in clinical and non-clinical samples. However, one concern is that affective temperaments
+may be describing characteristics that are better captured by models of normal personality. We
+conducted two studies examining: (a) the association of affective temperaments with domains and
+facets of normal personality, and (b) whether affective temperaments accounted for variance in mood
+symptoms and disorders, impairment, and daily-life experiences over-and-above variance accounted for
+by normal personality.
+Methods: Study 1 included 522 young adults who completed the TEMPS-A and the NEO-PI-3. Study
+2 included 145 participants who were administered the TEMPS-A, NEO-FFI, interviews assessing
+psychopathology and impairment, and an assessment of daily life experiences.
+Results: Study 1 revealed that personality domains and facets accounted for one-third to one-half of the
+variance in affective temperaments. However, study 2 demonstrated that affective temperaments
+accounted for unique variance in measures of psychopathology, impairment, and daily-life experiences
+after partialling variance associated with personality domains. Speciﬁcally, cyclothymic/irritable temperament predicted bipolar disorders, impairment, borderline personality traits, urgency, and anger in
+daily life. Hyperthymic temperament predicted hypomanic episodes, grandiosity, sensation seeking, and
+increased activity in daily life.
+Limitations: The study was limited by the fact that only domain, not facet-level, measures of FFM were
+available in study 2.
+Conclusions: The ﬁndings support the validity of hyperthymic and cyclothymic/irritable temperaments as
+indicators of clinical psychopathology and indicate that they provide information beyond normal
+personality.
+& 2013 Elsevier B.V. All rights reserved.
+
+Keywords:
+Affective temperaments
+Personality
+Mood psychopathology
+Bipolar spectrum disorders
+
+1. Affective temperaments
+Kraeplin (1899/1921) introduced four temperaments—depressive, manic, cyclothymic, and irritable—that he described as continuous states that occur not only during the course of mood episodes,
+but also during the intervals between episodes. Building on these
+foundations, Akiskal and Mallya (1987) operationalized four affective
+temperaments: dysthymic, cyclothymic, irritable, and hyperthymic
+
+n
+Correspondence to: UNCG Department of Psychology, P.O. Box 26170,
+Greensboro, NC 27402-6170, USA. Tel.: þ1 336 256 0003; fax: þ1 336 334 5066.
+E-mail address: t_kwapil@uncg.edu (T.R. Kwapil).
+
+0165-0327/$ - see front matter & 2013 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.jad.2013.07.028
+
+temperaments. Affective temperaments are deﬁned as relatively
+stable, trait-like expressions of affect that presumably convey risk
+for mood psychopathology (Akiskal et al., 2005a).
+Dysthymic temperament is characterized by being pessimistic,
+highly self-critical, gloomy, and prone to excessive worrying. It also
+involves preoccupation with personal failure, lack of assertiveness,
+being self-denying, and striving to please others (Akiskal et al.,
+2005a). Cyclothymic temperament is operationalized by abrupt shifts
+between high and low moods, with each lasting a few days at a time.
+These biphasic alterations in mood are also associated with behavioral changes between sluggishness and increased energy, low selfconﬁdence and over-conﬁdence, and creative thinking and dull or
+confused thoughts (Akiskal et al., 2000). Irritable temperament,
+
+T.R. Kwapil et al. / Journal of Affective Disorders 151 (2013) 882–890
+
+which is conceptually and empirically linked with cyclothymic
+temperament, is characterized by reactivity to aversive events with
+negative affect, moodiness, and a tendency to complain (Akiskal and
+Mallya, 1987).
+In contrast to the other three temperaments, hyperthymic
+temperament consists of more adaptive tendencies that can prove
+to be beneﬁcial to daily functioning. Hyperthymic temperament
+includes characteristics such as sociability, increased energy, and
+excessive cheerfulness. However, hyperthymic temperament also
+includes maladaptive aspects such as unwarranted over-conﬁdence, over-involvement in activities, uninhibited or reckless
+behavior, along with grandiose ideas that can lead to undesirable
+consequences (Akiskal et al., 2000). Consistent with the potential
+adaptive features of hypomanic episodes, hyperthymic temperament can have beneﬁcial effects. However, markedly elevated
+hyperthymic traits, especially in conjunction with low constraint
+or with superimposed episodes of depression, can contribute to
+impairment and psychopathology (Akiskal et al., 2005b).
+
+2. Assessment of affective temperaments
+The Temperament Evaluation of Memphis, Pisa, Paris, and San
+Diego—Autoquestionnaire (TEMPS-A; Akiskal et al., 2005a) is a selfreport measure assessing cyclothymic, irritable, hyperthymic, and
+dysthymic temperaments. The measure has been widely used and is
+reported to have good psychometric properties. Several studies have
+examined affective temperaments in patients with mood psychopathology. For example, Evans et al. (2005) reported that mood
+disorder patients had signiﬁcantly higher scores for all temperaments except hyperthymic temperament compared to healthy
+controls. Similar results have been reported (Di Florio et al., 2010;
+Mendlowicz et al., 2005; Nowakowska et al., 2005), although
+Kesebir et al. (2005) found similar scores for hyperthymic temperament across patients with bipolar disorder and healthy controls.
+Recent studies have also examined the validity of the TEMPS-A
+in non-clinical samples. Lazary et al. (2009) reported that cyclothymic and dysthymic temperaments were associated with depressive symptoms and a family history of mood disorders. Walsh et al.
+(2012) examined affective temperaments in a sample of young
+adults at risk for mood psychopathology. They reported that
+combined cyclothymic/irritable temperament was associated with
+DSM-IV-TR bipolar disorders and broader bipolar spectrum disorders proposed by Akiskal (2004). In contrast, hyperthymic
+temperament was only associated with broader bipolar spectrum
+disorders and not DSM-IV-TR mood psychopathology. Dysthymic
+temperament was associated with depressive symptoms, but not
+mood disorders. These ﬁndings suggest that affective temperaments may convey risk for psychopathology and could serve as an
+important model for identifying those at risk for developing severe
+mood psychopathology.
+
+3. Affective temperaments and normal personality
+Affective temperaments share a number of features in common
+with normal dimensions of personality such as the Five-Factor
+Model (FFM). Affective temperaments and normal personality are
+expressed and measurable in both clinical and non-clinical populations, and their extreme variants are presumed to be associated
+with pathological expressions. An obvious concern is that affective
+temperaments may essentially be describing human characteristics that are more fully described by normal personality (and that
+measures of affective temperament may be capturing variance
+that is more fully explained by trait-based measures of personality). However, research examining the association of affective
+
+883
+
+temperaments and normal dimensions of personality is relatively
+limited. A validation study of the TEMPS-A in a German nonclinical sample (Blöink et al., 2005) examined the association of
+personality as measured by the NEO Five-Factor Inventory (NEOFFI; Costa and McCrae, 1992) and affective temperaments assessed
+by the TEMPS-A. Results indicated that neuroticism was positively
+associated with cyclothymic, irritable, and dysthymic temperaments, but not hyperthymic temperament. In contrast, extraversion positively correlated with hyperthymic temperament and
+negatively with the remaining three temperaments. Conscientiousness was negatively correlated with cyclothymic temperament, whereas agreeableness was negatively correlated with both
+the cyclothymic and irritable temperaments. In addition, openness
+was found to have minimal associations to the four temperaments,
+but this may represent a more complex association of openness at
+the level of subfactors or facets. Similar results were reported by
+Rózsa et al. (2008) and Walsh et al. (2012). However, studies have
+not reported associations of FFM facets with affective temperaments, examined the total variance in the affective temperaments
+accounted for by normal personality, or examined whether affective temperaments account for variance in measures of psychopathology, functioning, or daily life experiences over-and-above
+variance accounted for by normal personality.
+
+4. Goals and hypothesis
+The goals of the present study were to examine the associations
+of affective temperaments with domains and facets of normal
+personality and to determine whether affective temperaments
+accounted for variance in measures of mood symptoms and
+disorders, impairment, and daily life experiences over-and-above
+variance accounted for by normal personality domains. We conducted two studies to: (a) examine the FFM structure of affective
+temperaments, and (b) examine whether affective temperaments
+accounted for variance over-and-above the effects of FFM domains
+in the prediction of interview-based ratings of psychopathology
+and functioning and ESM ratings of daily life experiences. Consistent with the model that normal personality provides the
+components for affective temperaments and with previous ﬁndings (e.g., Walsh et al., 2012), we hypothesized that hyperthymic
+temperament would be associated with high extraversion and low
+neuroticism, dysthymic temperament with low extraversion and
+high neuroticism, and cyclothymic/irritable temperament would
+be associated with high neuroticism and low agreeableness and
+conscientiousness. Study 1 is the ﬁrst study to our knowledge that
+will examine the association of FFM facets with affective temperaments, and we expected that these associations will provide
+further information regarding the nature of these temperaments.
+Study 2 represents the ﬁrst attempt to examine whether affective
+temperaments account for variance in symptoms and functioning
+over-and-above the variance accounted for by the FFM. We speciﬁcally hypothesized that: (a) cyclothymic/irritable temperament will
+account for unique variance over-and-above normal personality
+domains in the prediction of mood psychopathology and impairment;
+(b) hyperthymic temperament will account for unique variance in
+terms of interview-based hyperthymic and grandiose symptoms; and
+(c) dysthymic temperament will account for unique variance in
+depressive symptoms and disorders.
+4.1. Study 1
+4.1.1. Overview
+Study 1 examined the association of the four affective temperaments with FFM domains and facets in a large sample of young
+adults.
+
+884
+
+T.R. Kwapil et al. / Journal of Affective Disorders 151 (2013) 882–890
+
+4.2. Methods
+4.2.1. Participants
+Participants were undergraduates enrolled in psychology
+courses at UNC-Greensboro who were recruited to participate in
+an online survey for course credit. A total of 580 participants
+started the study. Usable data were completed by 522 participants
+(58 participants failed to complete the survey or had elevated
+scores on an infrequency scale). The ﬁnal sample consisted of 391
+females and 131 males with a mean age of 19.7 (SD ¼3.3).
+4.2.2. Materials and procedures
+Participants completed the TEMPS-A, NEO-PI-3 (Costa and McCrae,
+2010), a 13-item infrequency measure (Chapman and Chapman, 1983),
+and a brief demographic questionnaire. The 50-item research version
+of the TEMPS-A that assesses hyperthymic, dysthymic, cyclothymic,
+and irritable temperaments was administered. The 240-item NEO-PI-3
+assesses ﬁve domains and 30 facets of normal personality. Following
+Chapman and Chapman, participants who endorsed more than two of
+the infrequency items were dropped from the analyses. The study was
+approved by the UNCG IRB and participants provided informed
+consent. Participants completed the questionnaires on-line using
+Qualtrics software. Previous studies by our laboratory indicated that
+participants who complete surveys on-line have comparable completion rates, infrequency scores, and scale scores to participants who
+complete paper versions of questionnaires in group testings.
+
+5. Results
+5.1. Descriptive statistics
+Table 1 contains descriptive statistics and intercorrelations for the
+TEMPS-A subscales and the NEO-PI-3 domain scores. The values are
+consistent with previous ﬁndings in college student samples (e.g.,
+
+Walsh et al., 2012). Given the large sample size and large number of
+correlations computed, alpha level in study 1 was set at .001 to
+minimize risk of Type 1 error and to avoid interpreting correlations
+that accounted for a trivial amount of variance as meaningful.
+Following Cohen (1992), medium and large effect sizes were noted
+in the tables. Note that the relatively poor internal consistency
+reliability for the dysthymic temperament subscales seems to reﬂect
+that it is the shortest of the four temperament subscales (only 9 items).
+Given their conceptual similarity and the high correlation of the
+TEMPS-A cyclothymic and irritable subscales, our previous studies
+have combined them into a single scale. The reliability of the
+combined items was .86 in the present sample, which is higher than
+either of the individual subscales. The descriptive data and correlations
+for the NEO-PI-3 domains are consistent with Costa and McCrae
+(2010). Note that the coefﬁcient alpha values for the NEO-PI-3 facets
+ranged from .48 (Openness-3) to .82 (Neuroticism-3).
+
+5.2. Association of affective temperaments with FFM domains and
+facets
+Table 2 presents the correlations of the TEMPS-A scales with the
+NEO-PI-3 factor scores; Table 3 presents the correlations with the
+NEO-PI-3 facet scores. Hyperthymic temperament was distinguished
+from the other affective temperaments by its personality domain
+correlates. Consistent with previous ﬁndings, hyperthymic temperament had its strongest association with extraversion, and was inversely associated with neuroticism. Hyperthymic temperament also had
+a moderate-sized association with conscientiousness, although this
+may have been driven in part by the strong inverse association of
+neuroticism and conscientiousness in the present sample. Dysthymic
+temperament was characterized by high neuroticism and introversion
+(low extraversion), as well as by small associations with low conscientiousness and agreeableness (the latter consistent with the
+dependent and people-pleasing aspects of dysthymic temperament).
+
+Table 1
+Descriptive statistics and intercorrelations of the TEMPS-A Subscales and of the NEO-PI-3 Factors (n¼522).
+
+Hyperthymic
+Dysthymic
+Cyclothymic
+Irritable
+
+Neuroticism
+Extraversion
+Openness
+Agreeableness
+Conscientiousness
+
+Mean
+
+SD
+
+Alpha
+
+Dysthymic
+
+Cyclothymic
+
+Irritable
+
+8.52
+4.98
+7.34
+2.70
+
+2.97
+1.93
+4.16
+2.32
+
+.75
+.54
+.82
+.73
+
+ .42n
+
+ .17n
+.27n
+
+ .27n
+.22n
+.57*
+
+Mean
+
+SD
+
+Alpha
+
+Extraversion
+
+Openness
+
+Agreeableness
+
+Conscientiousness
+
+98.4
+114.9
+114.3
+113.2
+113.5
+
+22.7
+20.5
+18.7
+15.7
+19.6
+
+.92
+.90
+.88
+.83
+.91
+
+ .31n
+
+.07
+.36n
+
+ .17n
+.09
+.14
+
+ .48n
+.28n
+ .03
+.29*
+
+Medium effects in bold, large effects in bold and italics.
+n
+
+po .001.
+
+Table 2
+Correlations of the TEMPS-A Subscales and of the NEO-PI-3 Factors (n ¼522).
+
+Neuroticism
+Extraversion
+Openness to experience
+Agreeableness
+Conscientiousness
+
+Hyperthymic
+
+Dysthymic
+
+Cyclothymic
+
+Irritable
+
+Cyclothymic/Irritable
+
+ .48n
+.60n
+.08
+ .03
+.32n
+
+.49n
+ .34n
+ .08
+.21n
+ .19n
+
+.57n
+ .06
+.15
+ .22n
+ .42n
+
+.56n
+ .12
+.06
+ .33n
+ .27n
+
+.64n
+ .10
+.12
+ .31n
+ .39n
+
+Medium effects in bold, large effects in bold and italics.
+n
+
+po .001.
+
+T.R. Kwapil et al. / Journal of Affective Disorders 151 (2013) 882–890
+
+885
+
+Table 3
+Correlations of the TEMPS-A Subscales and of the NEO-PI-3 Facets (n ¼522).
+
+N1 Anxiety
+N2 Angry hostility
+N3 Depression
+N4 Self-Consciousness
+N5 Impulsiveness
+N6 Vulnerability
+E1 Warmth
+E2 Gregariousness
+E3 Assertiveness
+E4 Activity
+E5 Excitement seeking
+E6 Positive emotions
+O1 Fantasy
+O2 Aesthetics
+O3 Feelings
+O4 Actions
+O5 Ideas
+O6 Values
+A1 Trust
+A2 Straightforwardness
+A3 Altruism
+A4 Compliance
+A5 Modesty
+C1 Competence
+C2 Order
+C3 Dutifulness
+C4 Achievement striving
+C5 Self-Discipline
+C6 Deliberation
+
+Hyperthymic
+
+Dysthymic
+
+Cyclothymic
+
+Irritable
+
+Cyclothymic/Irritable
+
+ .38n
+ .19n
+ .47n
+ .54n
+ .18n
+ .41n
+.43n
+.44n
+.51n
+.51n
+.32n
+.43n
+.00
+.14
+.00
+.23n
+.15
+ .16
+.24n
+ .09
+.14
+ .03
+ .34n
+.42n
+.14
+.16n
+.42n
+.35n
+ .02
+
+.45n
+.16n
+.48n
+.53n
+.17n
+.40n
+ .18n
+ .24n
+ .48n
+ .27n
+ .22n
+ .12
+ .04
+ .01
+.13
+ .32n
+ .14
+ .01
+ .02
+.14
+.07
+.14
+.28n
+ .29n
+ .11
+ .01
+ .24n
+ .23n
+.04
+
+.41n
+.43n
+.54n
+.36n
+.43n
+.42n
+ .11
+ .06
+ .11
+.00
+.14
+ .12
+.18n
+.15n
+.24n
+ .09
+.04
+.02
+ .25n
+ .25n
+ .13
+ .26n
+.00
+ .38n
+ .26n
+ .28n
+ .21n
+ .46n
+ .28n
+
+.38n
+.59n
+.48n
+.37n
+.38n
+.37n
+ .25n
+ .08
+ .06
+.03
+.08
+ .23n
+.06
+.05
+.23n
+ .16n
+ .01
+.03
+ .36n
+ .23n
+ .20n
+ .45n
+ .01
+ .28n
+ .12
+ .19n
+ .13
+ .30n
+ .18n
+
+.45n
+.57n
+.58n
+.41n
+.46n
+.45n
+ .21n
+ .08
+ .10
+.01
+.13
+ .20n
+.13
+.11
+.27n
+ .14
+.02
+.03
+ .34n
+ .28n
+ .18n
+ .40n
+ .01
+ .37n
+ .22n
+ .27n
+ .19n
+ .43n
+ .26n
+
+Medium effects in bold, large effects in bold and italics.
+n
+
+po .001.
+
+Cyclothymic/irritable temperament was strongly associated with neuroticism and had moderate inverse associations with agreeableness
+and conscientiousness, consistent with affective volatility and hostile
+orientation towards others.
+The individual personality facets provided additional information
+regarding the nature of the affective temperaments. Hyperthymic
+temperament was signiﬁcantly associated with all of the extraversion
+facets and inversely with all the neuroticism facets, but had a mixed
+pattern of associations with the facets in the other domains. Consistent
+with its outgoing, appetitive characteristics, hyperthymic temperament was associated with the actions facet of openness, and the
+competence, achievement striving, and self-discipline facets of conscientiousness, but not the deliberation facet. Likewise, hyperthymic
+temperament was associated positively with the trust facet of
+agreeableness, but inversely with the modesty facet. Dysthymic
+temperament was associated with negative affect (all the facets of
+neuroticism), meekness (associated with modesty and self-consciousness, and inversely with assertiveness and action), and diminished
+competence. At the facet level, cyclothymic/irritable temperament was
+associated with all the facets of neuroticism. It was further distinguished from hyperthymic temperament by being low on warmth,
+positive emotions, trust, compliance, competence, and self-discipline.
+Table 4 presents the total variance in the TEMPS-A affective
+temperaments accounted for by the NEO-PI-3 domains and facets.
+Not surprisingly, the personality facets accounted for a signiﬁcant
+increment in variance over-and-above the variance accounted for
+by the domains in each of the affective temperaments (p o .001
+for the change in R-square in each analysis).
+
+5.3. Conclusions
+Consistent with previous ﬁndings, FFM domains differentiated
+affective temperaments, and the personality facets provided even
+
+Table 4
+Total variance in the TEMPS-A affective temperaments accounted for by the NEOPI-3 domains and facets (n ¼522).
+
+Hyperthymic
+Dysthymic
+Cyclothymic
+Irritable
+Cyclothymic/Irritable
+
+Variance accounted
+for by 5 NEO-PI-3 domains
+
+Variance accounted
+for by 30 NEO-PI-3 facets
+
+.49
+.39
+.39
+.38
+.47
+
+.56
+.46
+.47
+.49
+.56
+
+further characterization of the temperaments. However, normal
+personality domains and facets only accounted for up to one-half
+of the variance in the temperament measures, indicating that
+affective temperaments as measured by the TEMPS-A accounts for
+additional variance beyond normal personality. However, it is
+unclear whether the variance in affective temperaments that is
+unaccounted for by normal personality is signiﬁcantly associated
+with measures of psychopathology and impairment.
+6.1. Study 2
+6.1.1. Overview
+Affective temperaments are proposed to underlie the development
+and expression of mood psychopathology. Therefore, ratings of
+affective temperaments should be associated with interview-based
+ratings of mood psychopathology, impairment, and experiences in
+daily life. Furthermore, if affective temperaments represent distinct
+constructs beyond normal personality domains, they should account
+for variance in measures of symptoms, impairment, and daily life
+experiences over-and-above variance accounted for by normal personality domains. We expected that the strongest ﬁndings for affective
+
+886
+
+T.R. Kwapil et al. / Journal of Affective Disorders 151 (2013) 882–890
+
+temperaments over-and-above normal personality should be in the
+prediction of clinical disorders and that the weakest effects should be
+found for the prediction of events in daily life.
+6.2. Methods
+6.2.1. Participants
+Participants were drawn from an ongoing longitudinal study of risk
+for bipolar-spectrum psychopathology described in Walsh et al. (2012)
+and Walsh et al. (2013). Approximately 1200 students enrolled in
+General Psychology courses at UNC-Greensboro completed self-report
+questionnaires as part of a departmental mass screening for course
+credit. A total of 191 students were invited to participate in a study of
+risk for bipolar spectrum psychopathology. Speciﬁcally, all of the massscreening participants who scored at least 1.5 SD above the mean on
+the Hypomanic Personality Scale (Eckblad and Chapman, 1986) and a
+comparable number of randomly selected participants who scored less
+than 1.5 SD above the mean were invited to participate. This recruitment strategy was employed to ensure the inclusion of a sufﬁcient
+number of individuals who experience bipolar spectrum psychopathology, and presumably a broad range of affective temperaments.
+A total of 145 young adults completed a structured interview and
+questionnaire battery. The sample included 100 women and 45 men.
+Mean age was 19.5 years (SD¼2.3 years). A subset of 138 of these
+participants completed a week-long experience sampling assessment.
+The study was approved by the UNCG IRB and participants provided
+informed consent.
+6.3. Materials and procedures
+6.3.1. Self-report questionnaires
+Participants completed the TEMPS-A, the NEO-FFI, the HPS, the
+Beck Depression Inventory (BDI; Beck et al., 1961), and the UPPS
+Impulsivity Scale (Whiteside and Lynam, 2001; Whiteside et al., 2005).
+Consistent with the studies by Walsh et al. (2012) and Walsh et al.
+(2013), a uniﬁed cyclothymic/irritable temperament was computed by
+averaging the standardized scores on the two temperament ratings.
+The NEO-FFI is a widely used 60-item self-report measure assessing
+the FFM's domains of personality. The HPS consists of 48 true–false
+items that assess mild, trait-like, manic functioning that identify risk
+for bipolar disorder. The BDI is a widely used screening measure of the
+severity of depressive symptoms. The UPPS is a 46-item scale used to
+assess four domains of impulsivity including urgency, lack of premeditation, lack of perseveration, and sensation seeking.
+6.3.2. Structured interview
+The interview assessed DSM-IV-TR mood disorders, Akiskal's
+bipolar spectrum disorders, borderline personality disorder, global
+functioning, and grandiose beliefs. All interviews were taperecorded and lasted approximately 90 min. Interviews were conducted by two advanced clinical psychology graduate students
+under the supervision of a licensed psychologist. The Structured
+Clinical Interview for DSM-IV (SCID-I; First et al., 1995) was used to
+assess current and past mood disorders. Broader bipolar spectrum
+disorders were diagnosed using the criteria reported in Akiskal
+(2004). The SCID-I interview was appropriate for determining
+diagnoses of bipolar II ½ (history of depression superimposed on
+cyclothymic temperament) and III (history of depression and
+antidepressant-induced hypomania). Using Akiskal's (2004) criteria, participants were interviewed for hyperthymic temperament
+to determine diagnoses of bipolar IV. Participants' current functioning was examined using the global assessment of functioning
+(GAF; American Psychiatric Association, 2000). Borderline personality disorder was assessed using the International Personality
+Disorder Examination (IPDE; Loranger et al., 1994). Following
+
+Eckblad and Chapman (1986), the interview included a brief
+assessment of grandiosity. Speciﬁcally, participants were asked to
+rate the likelihood that they would become famous or be featured
+on the cover of a magazine, as well as their level of ambition,
+creativity, and the extent to which they felt that they were odd or
+different from their peers rated on Likert scales. Participants were
+also questioned about whether they considered themselves to be a
+leader or follower.
+6.3.3. ESM assessment
+The present study used 9 ESM items or indices from Walsh
+et al.'s (2013) study that assessed experiences relevant to affective
+temperaments (e.g., items assessing affect, energy, activity level,
+risky behavior, and conﬁdence/grandiosity). Participants were
+issued a personal digital assistant (PDA) for seven days. The PDAs
+signaled participants, administered questionnaires, and timestamped and recorded responses. Participants were signaled to
+complete ESM questionnaires eight times daily between noon and
+midnight, and had 3 min to initiate responses following the signal.
+After this time interval (or completion of the questionnaire), the
+PDA turned off and did not reactivate until the next signal,
+ensuring that participants did not skip questionnaires and complete them later.
+6.3.4. Statistical method
+Analyses of the interview, questionnaire, and experience sampling
+data examined whether affective temperaments accounted for variance over-and-above the normal personality domains assessed by
+the NEO-FFI. In every analysis, the ﬁve NEO-FFI domains were
+entered into regression equations at step 1, followed by the three
+affective temperaments (hyperthymic, dysthymic, and cyclothymic/
+irritable) at step 2. Thus, the effect of each affective temperament
+was examined with the ﬁve personality domains and the other two
+affective temperaments partialled from the equation. This resulted in
+an especially conservative strategy, but the goal was to determine
+whether the affective temperaments had unique explanatory power
+beyond the normal personality domains. Analyses assessing the
+interview and questionnaire measures were conducted with linear
+regression or binary logistic regression using SPSS 20; analyses
+assessing ESM criteria were computed using multilevel regressions
+with MPlus 6.1 (Muthén and Muthén, 2010). Multilevel linear
+modeling provides a more appropriate method than conventional
+unilevel analyses for nested data (Hox, 2002). Predictors were grand
+mean centered, and parameter estimates were calculated using
+robust standard errors in the multilevel analyses.
+6.4. Results
+6.4.1. Prediction of interview and questionnaire measures
+Descriptive statistics for the interview and questionnaire measures can be found in Walsh et al. (2012). The bivariate correlations
+among the personality domains and the affective temperaments
+were comparable to those reported in study 1. Table 5 presents the
+prediction of mood disorders and episodes by the personality
+domains and affective temperaments. Cyclothymic/irritable temperament predicted DSM-IV bipolar disorders, any broad bipolar
+disorders, and hypomanic episodes or hyperthymia, over-andabove the effects of the ﬁve personality domains and the two
+other temperaments. However, this association was speciﬁc to
+bipolar psychopathology as cyclothymic/irritable temperament
+was not uniquely associated with the presence of “any DSM-IV
+mood disorders” (including both bipolar and unipolar depressive
+disorders). As expected, hyperthymic temperament was uniquely
+associated with hypomanic episodes or interview-based hyperthymia. Dysthymic temperament was not associated with any of
+
+1.27–7.30
+1.78–9.73
+.87–2.68
+1.43–6.16
+3.04n
+4.17nnn
+1.52
+2.97nn
+.70–1.42
+.65–1.27
+.78–1.23
+.73–1.27
+1.00
+.91
+.98
+.96
+.78–1.38
+.97–1.65
+.83–1.19
+1.01–1.63
+1.04
+1.27
+1.00
+1.28n
+.87–1.04
+.89–1.03
+.91–1.03
+.92–1.05
+.95
+.96
+.97
+.98
+.80  .99
+.87–1.03
+.95–1.08
+.91–1.05
+.97–1.15
+.98–1.13
+1.01–1.14
+.94–1.08
+1.05
+1.05
+1.07n
+1.01
+
+nn
+
+n
+
+p o .05.
+p o .01.
+nnn
+p o .001.
+a
+Includes bipolar I, II, II-1/2, III, and IV disorders.
+
+.96–1.15
+.98–1.16
+.95–1.07
+1.13–1.35
+1.05
+1.07
+1.01
+1.24nnn
+.96–1.09
+.99–1.10
+1.02–1.12
+.99–1.10
+1.02
+1.04
+1.07nn
+1.05
+Any DSM bipolar disorder
+Any broad bipolar disordera
+Any DSM mood disorder
+Hypomania or Hyperthymia
+
+887
+
+the diagnoses. Note that none of the personality domains were
+associated with diagnoses.
+Table 6 presents the linear regressions assessing interview and
+questionnaire criteria. Cyclothymic/irritable temperament had the
+strongest associations over-and-above the personality domains' effect
+with psychopathology ratings—being positively associated with ratings
+of depression, hypomanic personality, and borderline personality
+traits, as well as impaired overall functioning. As expected, hyperthymic temperament was uniquely associated with all of the ratings of
+grandiosity (e.g., likelihood of being famous or on a magazine cover),
+except ratings of being different and odd. In terms of impulsivity,
+cyclothymic/irritable temperament accounted for unique variance in
+urgency, and hyperthymic temperament was positively associated
+with sensation seeking and inversely associated with lack of perseverance. The associations of affective temperaments with the UPPS overand-above the personality domains are especially striking given that
+the UPPS was initially derived from the FFM.
+The personality domains were associated with the interview
+and questionnaire measures in a predictable fashion at the ﬁrst
+step of the regression analysis. Neuroticism was associated with
+impaired functioning, ratings of psychopathology, and urgency.
+Extraversion was associated with hypomanic personality, impulsivity, and aspects of grandiosity. Similarly, openness was associated with hypomanic personality and aspects of grandiosity.
+Antagonism (low agreeableness) was associated with hypomanic
+and borderline personality traits and urgency, as well as ratings of
+being a leader or the likelihood of being famous. Conscientiousness was associated with healthy functioning and being ambitious
+and a leader, and inversely with aspects of impulsivity.
+
+.89n
+.95
+1.01
+.98
+
+Hyperthymic
+OR 95%CI
+Agreeableness
+OR 95%CI
+Openness
+OR 95%CI
+Extraversion
+OR 95%CI
+Neuroticism
+OR 95%CI
+
+Step 1
+Criterion
+
+Table 5
+Prediction of interview measures of mood psychopathology by normal personality and affective temperaments.
+
+Conscientiousness
+OR 95%CI
+
+Step 2
+
+Dysthymic
+OR 95%CI
+
+Cyclothymic/Irritable
+OR 95%CI
+
+T.R. Kwapil et al. / Journal of Affective Disorders 151 (2013) 882–890
+
+6.4.2. Prediction of daily life experiences
+We examined the association of normal personality and affective temperaments with ratings of affect, hypomanic energy and
+activity, grandiosity, and risky behavior (see Table 7). Not surprisingly, after partialling out variance associated with normal personality, the affective temperaments were less robustly associated
+with experiences in normal daily life than they were with
+measures of psychopathology and impairment. Nevertheless,
+hyperthymic temperament was uniquely associated with feeling
+energetic and doing many and exciting activities. Cyclothymic/
+irritable temperament was associated with feeling angry in the
+moment and inversely with feeling energetic. Dysthymic temperament was not uniquely associated with any of the daily activities,
+including feeling sad in the moment.
+The personality domains were associated with daily life experiences at step 1 in an expected fashion. Neuroticism was associated
+with measures of negative affect, whereas extraversion was
+associated with ratings of positive affect, energy, activity, and
+grandiosity. Openness was associated with feeling better than
+others. Agreeableness was inversely associated with anger and
+feeling better than others, and conscientiousness was inversely
+associated with risky behavior.
+
+7. General discussion
+Affective temperaments have their historical roots in descriptions
+of psychopathology dating back to antiquity and were represented in
+Kraeplin (1899/1921) diagnostic formulations at the turn of the 20th
+century. Work by Akiskal and colleagues (e.g., Akiskal and Mallya,
+1987) during the past three decades has offered a theoretical framework that led to the operationalization of affective temperaments
+and development of a widely used self-report assessment. However,
+theoretical and empirical reports have not adequately disambiguated
+affective temperaments, which are explicitly linked to mood psychopathology, from normal dimensions of personality or examined the
+
+888
+
+T.R. Kwapil et al. / Journal of Affective Disorders 151 (2013) 882–890
+
+Table 6
+Prediction of interview and questionnaire measures of symptoms and impairment.
+Criterion
+
+Step 1
+
+Psychosocial Functioning GAF
+Hypomanic personality Scale
+Beck depression inventory
+Borderline personality traits
+Grandiosity
+Likely famous
+Ambitious
+Creative
+Leader
+On a magazine cover
+Odd or different
+UPPS Impulsivity
+Lack of premeditation
+Urgency
+Sensation seeking
+Lack of perseverance
+
+Step 2
+
+Neuroticism
+β
+
+Extraversion
+β
+
+Openness
+β
+
+Agreeableness
+β
+
+Conscientiousness
+β
+
+Hyperthymic
+β
+
+Dysthymic
+β
+
+Cyclothymic/Irritable
+Β
+
+ .337nnn
+.257nnn
+.479nnn
+.181n
+
+ .090
+.626nnn
+.011
+.041
+
+ .005
+.178nn
+.039
+.139
+
+.108
+ .335nnn
+ .053
+ .243nn
+
+.196n
+ .079
+.018
+ .187n
+
+.067
+.438nnn
+ .106
+ .020
+
+ .109
+.039
+.117
+.209n
+
+ .339nnn
+.356nnn
+.524nnn
+.516nnn
+
+ .246n
+.064
+ .186
+ .110
+.024
+.156
+
+.142
+.150
+.152
+.255nn
+.258nnn
+.247nn
+
+.227n
+.163
+.396nnn
+.017
+.226n
+.372nnn
+
+ .305nn
+ .145
+ .160
+ .502nnn
+ .176
+ .061
+
+ .094
+.296nn
+.036
+.247nn
+ .066
+ .150
+
+.490nnn
+.264n
+.366nn
+.421nnn
+.369nn
+.176
+
+ .060
+ .098
+ .080
+ .040
+.025
+.103
+
+.187n
+ .146
+.088
+.138
+.149
+.174
+
+.037
+.336nnn
+ .102
+.179n
+
+.438nnn
+.160n
+.334nnn
+ .030
+
+.003
+ .017
+.138
+ .069
+
+ .039
+ .320nnn
+ .107
+.094
+
+ .389nnn
+ .218nn
+ .166
+ .609nnn
+
+.070
+ .063
+.334nn
+ .223n
+
+ .067
+.063
+.055
+.086
+
+ .045
+.398nnn
+.007
+.026
+
+n
+
+p o .05.
+p o .01.
+nnn
+p o .001.
+nn
+
+Table 7
+Prediction of ESM measures of daily life experiences by normal personality and affective temperaments.
+Criterion
+
+Step 1
+Neuroticism
+
+Energetic
+Happy
+Sad
+Angry
+Doing something exciting
+Doing many things
+Conﬁdent
+Doing something risky
+Better than others
+
+ .015 (.010)
+ .023 (.009)n
+.041 (.009)nnn
+.014 (.006)n
+ .012 (.007)
+.006 (.009)
+ .026 (.010)n
+.010 (.004)n
+ .027 (.013)n
+
+Step 2
+Extraversion
+nnn
+
+.049 (.012)
+.033 (.012)nn
+.018 (.010)
+.008 (.008)
+.024 (.010)n
+.035 (.012)nn
+.028 (.012)n
+.015 (.007)n
+.043 (.019)n
+
+Openness
+.000 (.014)
+ .010 (.013)
+.017 (.012)
+ .004 (.007)
+ .004 (.010)
+ .008 (.013)
+.004 (.013)
+ .002 (.006)
+.031 (.016)n
+
+Agreeableness
+-.012 (.013)
+.001 (.012)
+-.014 (.012)
+-.029 (.010)nn
+-.007 (.010)
+-.019 (.014)
+-.015 (.013)
+-.013 (.007)
+ .061 (.017)nnn
+
+Conscientiousness
+.004 (.012)
+ .009 (.010)
+.007 (.011)
+ .002 (.008)
+.010 (.010)
+.014 (.013)
+.006 (.012)
+ .012 (.006)n
+.019 (.019)
+
+Hyperthymic
+n
+
+.082 (.039)
+.008 (.035)
+.047 (.032)
+.028 (.029)
+.084 (.035)n
+.105 (.035)nn
+.029 (.040)
+.030 (.023)
+.114 (.059)
+
+Dysthymic
+
+Cyclothymic/Irritable
+
+.060 (.043)
+.018 (.046)
+ .020 (.039)
+ .007 (.032)
+.041 (.035)
+.051 (.041)
+ .020 (.048)
+ .008 (.027)
+.080 (.058)
+
+-.290 (.120)n
+-.137 (.100)
+.136 (.113)
+.187 (.091)n
+-.009 (.097)
+ .006 (.125)
+.054 (.120)
+.056 (.070)
+.176 (.157)
+
+Note: Values are raw multilevel regression coefﬁcients (and standard error).
+n
+
+p o .05.
+p o .01.
+nnn
+p o .001.
+nn
+
+extent to which affective temperaments contribute incremental validity to the prediction of mood psychopathology over-and-above
+normal personality.
+Differentiating affective temperaments from normal dimensions
+of personality also requires differentiating the terminology used to
+describe these constructs, including the use of temperament, normal
+personality, and personality pathology or disorders. Unfortunately,
+there are almost as many deﬁnitions of these constructs as there
+are researchers. Rothbart (e.g., Rothbart and Hwang, 2005) deﬁned
+temperament as individual differences in infants and young children
+that are present prior to the development of higher cognitive and
+social aspects of personality that manifest in the domains of emotion,
+activity and attention. Akiskal and colleagues (e.g., Akiskal, 1981;
+Akiskal et al., 2005) followed Kraeplin (1899/1921) and Schneider
+(1958) suggesting that affective temperaments are dispositions to
+mood disorders. Akiskal et al. (2005) distinguished affective temperaments from the recent DSM model of personality disorders by
+focusing on a dispositional framework based upon emotional reactivity that could offer adaptive manifestations (primarily within
+hyperthymic temperament), rather than a maladaptive interpersonal
+conﬁguration. Nevertheless, the pathological expressions of affective
+temperaments seem to share features in common with the DSM
+
+model of personality disorders. However, the closest analogues in
+DSM-IV-TR to pathological manifestations of affective temperaments
+are cyclothymic and dysthymic disorders, which are classiﬁed as Axis
+I syndromes, not Axis II personality disorders.
+As noted, affective temperaments and normal personality dimensions share several features in common, including their trait-like
+expression in normal and pathological populations. In fact, in a study
+of the associations of affective temperaments with Cloninger's tridimensional personality model, Maremmani et al. (2005) argued for a
+general model of personality and affective temperaments. Thus,
+normal personality facets and traits may provide the building blocks
+or primary components of affective temperaments. However, the
+present ﬁndings speak against affective temperaments being redundant with normal personality. Conceptually, the difference seems to lie
+in affective temperaments' speciﬁc associations with mood psychopathology. Thus, affective temperaments share many features with
+normal personality dimensions, but their uniqueness seems to be their
+ability to straddle and connect domains of normal affective variation
+with subclinical and clinical mood psychopathology. We believe that
+this is supported by the ﬁndings in study 1 of considerable, but not
+complete, overlap between affective temperaments and normal
+personality, and the ﬁndings of study 2 that affective temperaments
+
+T.R. Kwapil et al. / Journal of Affective Disorders 151 (2013) 882–890
+
+are associated with mood psychopathology and impairment (even in a
+non-clinically ascertained sample) over-and-above the effects of
+normal personality. Thus, consistent with Haynes and Lench (2003),
+affective temperaments provide incremental validity beyond normal
+personality in the prediction of mood psychopathology.
+Study 2 adopted a conservative analytic strategy to examine the
+correlates of affective temperaments. Speciﬁcally, the correlates
+of each affective temperament were assessed with the ﬁve normal
+personality domains and the other two affective temperaments
+partialled out of the regression equation. Nevertheless, affective
+temperaments accounted for variance in measures of mood psychopathology, impairment, grandiosity, impulsivity, and even daily life
+functioning. These unique associations of affective temperaments
+were stronger with measures of psychopathology and weaker with
+measures of normal daily activities. This was not surprising given that
+normal personality domains would be expected to account for more
+variance in normal, daily experiences than in diagnoses and ratings of
+psychopathology.
+The results of study 2 indicated that that cyclothymic/irritable
+temperament was associated with psychopathology and impairment
+outcomes, consistent with Di Florio et al. (2010), Savitz et al. (2008),
+Evans et al. (2005), and Mendlowicz et al. (2005). It was also
+signiﬁcantly associated with borderline personality disorder and
+urgency (impulsivity in response to negative affect), consistent with
+Angst's (2007) inclusion of borderline personality within the bipolar
+spectrum. These characteristics share many features with neuroticism and antagonism, but cyclothymic/irritable temperament
+accounted for variance beyond these personality dimensions.
+Hyperthymic temperament was associated with an activated, energetic, and grandiose proﬁle. These characteristics are often associated with extraversion, but hyperthymic temperament accounted
+for unique variance beyond this personality domain.
+In contrast to the other affective temperaments, dysthymic
+temperament had the poorest psychometric properties and the
+weakest pattern of associations. Consistent with the operationalization of the construct, the FFM facets indicated that it was
+characterized by negative affect, passivity, modesty, withdrawal,
+and a lack of perceived competence. However, dysthymic temperament generally did not account for variance over-and-above
+the FFM domains. Furthermore, Walsh et al. (2012) reported that
+dysthymic temperament did not have zero-order correlations with
+mood disorder diagnoses.
+Previous studies examining the association of the FFM and affective
+temperaments have only reported on the personality domains, not at
+the facet level. As seen in study 1, the facets accounted for a signiﬁcant
+increment in variance in affective temperaments (an average of about
+8% more variance), beyond the variance accounted for by the FFM
+domains. The greatest variation at the facet level seemed to occur for
+openness and agreeableness. For example, hyperthymic temperament
+was not signiﬁcantly associated with agreeableness at the domain
+level, but had a signiﬁcant positive association with the agreeableness
+facet of trust, but a signiﬁcant inverse association with the facet of
+modesty. Both of these correlations are consistent with the operationalization of hyperthymic temperament, but tend to “wash out” the
+association at the domain level. This is consistent with Paunonen and
+Ashton's (2001) recommendation to consider variation at the facet
+level when considering how psychological constructs map on to FFM
+space. Nevertheless, even analyzing the composition of the affective
+temperaments at the FFM facet level left approximately one-half of the
+variance in the temperaments unexplained.
+Given the previous point, an obvious limitation of study 2 was that
+we only had a measure of FFM domains, not facets. Therefore, we
+offer the caveat that ﬁndings in which the affective temperaments
+accounted for signiﬁcant variance in measures of psychopathology,
+functioning, and daily life over-and-above the personality domains,
+may not have been signiﬁcant if we had been able to employ facet
+
+889
+
+level measures of normal personality. Additional limitations included
+that predictor and criterion measures in study 2 were measured
+concurrently. Longitudinal data is needed to determine if affective
+temperaments predict the development of bipolar spectrum psychopathology over-and-above normal personality.
+In conclusion, the present ﬁndings offer the ﬁrst comprehensive assessment of the overlap and differentiation of affective
+temperaments with normal domains of personality. These ﬁndings
+provide both a description of the temperaments within a FFM
+framework and demonstrate that affective temperaments are not
+simply expressions of normal personality under another name.
+Affective temperaments offer a promising phenotype for understanding the etiology and development of mood disorders and
+speciﬁcally bipolar spectrum psychopathology.
+
+Role of funding source
+This research was not supported by external funding sources.
+
+Conﬂict of interest
+None of the authors had any conﬂicts of interest.
+
+Acknowledgments
+The authors thank Charlotte Chun for her comments on the manuscript.
+
+References
+Akiskal, H.S., 1981. Subaffective disorders: dysthymic, cyclothymic, and bipolar II
+disorders in the “borderline” realm. Psychiatric Clinics of North America 4,
+25–46.
+Akiskal, H.S., 2004. The bipolar spectrum in psychiatry and general medical
+practice. Primary Psychiatry 11, 30–35.
+Akiskal, H.S., Bourgeois, M.L., Angst, J., Post, R., Möller, H., Hirschfeld, R., 2000.
+Re-evaluating the prevalence of and diagnostic composition within the broad
+clinical spectrum of bipolar disorders. Journal of Affective Disorders 59 (Suppl.
+1), 5–30.
+Akiskal, H.S., Mallya, G., 1987. Criteria for the “soft” bipolar spectrum: treatment
+implications. Psychopharmacology Bulletin 23, 68–73.
+Akiskal, H.S., Akiskal, K.K., Haykal, R.F., Manning, J.S., Connor, P.D., 2005a. TEMPS-A:
+progress towards validation of a self-rated clinical version of the temperament
+evaluation of the Memphis, Pisa, Paris, and San Diego autoquestionnaire.
+Journal of Affective Disorders 85, 3–16.
+Akiskal, H.S., Mendlowicz, M.V., Jean-Louis, G., Rapaport, M.H., Kelsoe, J.R.,
+Gillin, J.C., Smith, T.L., 2005b. TEMPS-A: validation of a short version of a selfrated instrument designed to measure variations in temperament. Journal of
+Affective Disorders 85, 45–52.
+American Psychiatric Association, 2000. Diagnostic and statistical manual of mental
+disorders (fourth edition-text revision). American Psychiatric Association,
+Washington, DC.
+Angst, J., 2007. The bipolar spectrum. British Journal of Psychiatry 2007 (190),
+189–191.
+Beck, A.T., Ward, C.H., Mendelson, M., Mock, J., Erbaugh, J., 1961. An inventory for
+measuring depression. Archives of General Psychiatry 4, 561–571.
+Blöink, R., Brieger, P., Akiskal, H.S., Marneros, A., 2005. Factorial structure and
+internal consistency of the German TEMPS-A scale: validation against the NEOFFI questionnaire. Journal of Affective Disorders 85, 77–83.
+Chapman, L.J., Chapman, J.P., 1983. Infrequency scale. Unpublished test (copies
+available from T. R. Kwapil, Department of Psychology, University of North
+Carolina at Greensboro, Greensboro, NC, 27402–6170).
+Cohen, J., 1992. A power primer. Psychological Bulletin 112, 155–159.
+Costa, P.T., McCrae, R.R., 1992. NEO PI/FFI manual supplement. Psychological
+Assessment Resources, Inc, Odessa.
+Costa Jr., P.T., McCrae, R.R., 2010. NEO personality inventory and ﬁve-factor
+inventory-3 professional manual. Psychological Assessment Resources, Inc,
+Odessa.
+Di Florio, A., Hamshere, M., Forty, L., Green, E.K., Grozeva, D., Jones, I., Caesar, S.,
+Fraser, C., Gordon-Smith, K., Jones, L., Craddock, N., Smith, D.J., 2010. Affective
+temperaments across the bipolar-unipolar spectrum: examination of the
+TEMPS-A in 927 patients and controls. Journal of Affective Disorders 123,
+42–51.
+Eckblad, M., Chapman, L., 1986. Development and validation of a scale for
+hypomanic personality. Journal of Abnormal Psychology 95, 214–222.
+Evans, L., Akiskal, H.S., Keck Jr., P.E., Mcelroy, S.L., Sadovnick, A.D., Remick, R.A.,
+Kelsoe, J.R., 2005. Familiality of temperament in bipolar disorder: support for a
+genetic spectrum. Journal of Affective Disorders 85, 153–168.
+
+890
+
+T.R. Kwapil et al. / Journal of Affective Disorders 151 (2013) 882–890
+
+First, M., Spitzer, R., Gibbon, M., Williams, J., 1995. Structured Clinical Interview for
+DSM-IV Axis I disorders (SCID-I/P, Version 2.0). Biometric Research Department, New York.
+Haynes, S.N., Lench, H.C., 2003. Incremental validity of new clinical assessment
+measures. Psychological Assessment 15, 456–466.
+Hox, J., 2002. Multilevel analysis: techniques and applications. Erlbaum Assoc,
+Mahwah.
+Kesebir, S., Vahip, S., Akdeniz, F., Yuncu, Z., Alkan, M., Akiskal, H.S., 2005. Affective
+temperaments as measured by TEMPS-A in patients with bipolar I disorder and
+their ﬁrst-degree relatives: a controlled study. Journal of Affective Disorders 85,
+127–133.
+Kraeplin, E., 1899/1921. Manic-depressive Insanity and Paranoia. E. & S. Livingstone,
+Edinburgh. ([trans]).
+Lazary, J., Gonda, X., Benko, A., Gacser, M., Bagdy, G., 2009. Association of depressive
+phenotype with affective family history is mediated by affective temperaments.
+Psychiatry Research 168, 145–152.
+Loranger, A., Sartorius, N., Andreoli, A., Berger, P., Buchheim, P., Channabasavanna, S.,
+Coid, B., Dahl, A., Diekstra, F.W., Ferguson, B., Jacobsberg, L.B., Mombour, W.,
+Pull, C., Ono, Y., Regier, D.A., 1994. The international personality disorder
+examination: the World Health Organization/Alcohol, Drug abuse, and mental
+health administration international pilot study of personality disorders. Archives
+of General Psychiatry 51, 215–224.
+Maremmani, I., Akiskal, H.S., Signoretta, S., Liguori, A., Perugi, G., Cloninger, R.,
+2005. The relationship of Kraepelian affective temperaments (as measured by
+TEMPS-I) to the Tridimensional Personality Questionnaire (TPQ). Journal of
+Affective Disorders 85, 17–27.
+Mendlowicz, M.V., Jean-Louis, G., Kelsoe, J.R., Akiskal, H.S., 2005. A comparison of
+recovered bipolar patients, healthy relatives of bipolar probands, and normal
+controls using the short TEMPS-A. Journal of Affective Disorders 85, 147–151.
+
+Muthén, L.K., Muthén, B.O., 2010. MPlus 6.1. Author, Los Angeles.
+Nowakowska, C., Strong, C.M., Santosa, C.M., Wang, P.W., Ketter, T.A., 2005. Temperamental commonalities and differences in euthymic mood disorder patients, creative
+controls, and healthy controls. Journal of Affective Disorders 85, 207–215.
+Paunonen, S.V., Ashton, M.C., 2001. Big Five factors and facets and the prediction of
+behavior. Journal of Personality and Social Psychology 81, 524–539.
+Rothbart, M.K., Hwang, J., 2005. Temperament and the development of competence
+and motivation. In: Elliot, A.J., Dweck, A.C. (Eds.), Handbook of competence and
+motivation. Guilford Press, New York, pp. 167–184. (I).
+Rózsa, S., Rihmer, Z., Gonda, X., Szili, I., Rihmer, A., Kő, N., Németh, A., Pestality, P.,
+Bagdy, G., Alhassoon, O., Akiskal, K.K., Akiskal, H.S., 2008. A study of affective
+temperaments in Hungary: internal consistency and concurrent validity of the
+TEMPS-A against the TCI and NEO-PI-R. Journal of Affective Disorders 106, 45–53.
+Savitz, J., Van Der Merwe, L., Ramesar, R., 2008. Hypomanic, cyclothymic and hostile
+personality traits in bipolar spectrum illness: a family-based study. Journal of
+Psychiatric Research 42, 920–929.
+Schneider, K., 1958. Psychopathic personalities. Charles C.Thomas, Springﬁeld, IL.
+Walsh, M.A., Brown, L.H., Barrantes-Vidal, N., Kwapil, T.R., 2013. The expression of
+affective temperaments in daily life. Journal of Affective Disorders 145, 179–186.
+Walsh, M.A., Royal, A.M., Barrantes-Vidal, N., Kwapil, T.R., 2012. The association of
+affective temperaments with impairment and psychopathology in a young
+adult sample. Journal of Affective Disorders 141, 373–381.
+Whiteside, S.P., Lynam, D.R., 2001. The ﬁve factor model and impulsivity: using a
+structural model of personality to understand impulsivity. Personality and
+Individual Differences 30, 669–689.
+Whiteside, S.P., Lynam, D.R., Miller, J.D., Reynolds, S.K., 2005. Validation of the UPPS
+impulsive behaviour scale: a four-factor model of impulsivity. European Journal
+of Personality 19, 559–574.
+
+

@@ -1,0 +1,1584 @@
+Journal of Personality and Social Psychology
+1992, Vol. 62, No. 6,1036-1049
+
+Copyright 1992 by the American Psychological Association, Inc
+OO22-3514/92/S3.OO
+
+Compartmentalization of Positive and Negative Self-Knowledge:
+Keeping Bad Apples Out of the Bunch
+Carolin Showers
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+University of Wisconsin—Madison
+Three studies examined whether categorical organization of knowledge about the self explains
+variance in self-esteem and depression beyond that which is accounted for by sheer amount of
+positive or negative content. Compartmentalization is the tendency to organize positive and negative knowledge about the self into separate, uniformly valenced categories (self-aspects). As long as
+positive self-aspects are activated, access to negative information should be minimized. Compartmentalization was associated with high self-esteem and low depression scores for individuals
+whose positive self-aspects were important; when negative self-aspects were important, compartmentalization was correlated with low self-esteem and high depression scores. An analysis of
+self-aspect labels showed that individuals with compartmentalized organization define negative
+self-aspects in especially narrow terms. A possible relationship between compartmentalized organization and cognitive complexity is discussed.
+
+Increasingly, models of the self take a multidimensional, multifaceted view of the self-concept (e.g., Epstein, 1973; Greenwald & Pratkanis, 1984; Markus& Wurf, 1987). Empirical work
+has shown that people have multiple self-aspects or identities
+denned by situations (Pelham & Swann, 1989), roles (Stryker,
+1980), other persons (James, 1890; S. Rosenberg, 1988), audiences (Schlenker & Weigold, 1989), goals (Carver & Scheier,
+1990; Markus & Nurius, 1986), traits and mood states (Pietromonaco, 1985), or combinations of these (Linville, 1985,1987).
+Whatever may be the dimensions along which multiple aspects
+of the self are denned, self theorists recognize that the multifaceted nature of the self allows us to differentiate among various
+self-aspects; that is, we may construct different selves to fit
+different contexts (Cantor, Markus, Niedenthal, & Nurius,
+1986; Kihlstrom & Cantor, 1984). Moreover, we may have some
+aspects of the self that are well-elaborated and some that are
+not, some aspects that are evaluated positively and some that
+are not, and some aspects that are important and some that are
+not.
+Studies of global self-esteem demonstrate how the multidimensional organization of self-knowledge allows individuals to
+maintain a differentiated view of themselves across different
+domains (Hoge & McCarthy, 1984; Marsh, 1986). Global selfPortions of this research were supported by faculty grants from Barnard College and by a fellowship from the National Institute of Mental
+Health (MH1OO58). Study 3 was conducted by Anne Protsman and
+submitted as a senior thesis at the University of Wisconsin.
+I thank Lyn Abramson, Ben Dykman, Suzanne Carter, Jean Chapman, Jack Mayer, Paula Niedenthal, and three anonymous reviewers
+for their helpful comments and suggestions. I am also grateful to Allison Missling, Lynette Studer, Elisha Tarlow, and Deborah Weiss for
+their assistance in collecting and coding these data.
+Correspondence concerning this article should be addressed to Carolin Showers, Department of Psychology, University of Wisconsin,
+1202 West Johnson Street, Madison, Wisconsin 53706. Electronic
+mail may be sent to showers@wiscmacc.bitnet.
+1036
+
+esteem can be predicted by assessing an individual's self-evaluations in a set of specific domains and then averaging across
+them. Most recently, Pelham and Swann (1989) confirmed the
+hypothesis that the predictive power of domain-specific evaluations improves if the perceived importance of each domain is
+taken into account. Similarly, Harter (1988) reported that children with high global self-worth are successful in domains they
+perceive to be important and are able to discount the importance of domains in which they feel less adequate. Thus, the
+association between positive or negative evaluations of the self
+and global self-esteem may be minimal if those evaluations
+appear in domains that are perceived to be low in importance.
+This multidimensional view suggests that it is not just the positive or negative content of one's knowledge about the self that
+matters, but how that information is organized in relation to
+other aspects of the self.
+The self-esteem studies cited earlier impose a priori, situationally defined domains on the individual in assessing selfevaluations. However, from an information processing view,
+multiple aspects of the self are idiographically defined categories that people use to organize self-knowledge. The nature of
+these categories may influence processing of old and of new
+information about the self (Klein & Kihlstrom, 1986). According to category models of memory, categorical organization influences the accessibility of relevant information (Hastie, 1980;
+Srull, 1983). When a particular category of information is activated, the accessibility of all items of information associated
+with that category is enhanced (Bower, 1970; Tulving & Pearlstone, 1966). Thus, we may be able to use categorical organization to control the accessibility of positive and negative knowledge about the self. The types of categories (i.e., self-aspects)
+that we construct may determine whether we have self-aspects
+that are extremely positive or negative and whether those
+aspects are perceived to be important or not.
+For example, consider two college students, both of whom
+have exactly the same knowledge about themselves as students.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COMPARTMENTALIZATION OF THE SELF
+
+Imagine that one student organizes this knowledge under two
+self-aspects, one that contains mostly positive information
+("myself as a brilliant Renaissance scholar") and one that contains mostly negative information ("worrying about tests and
+grades"). This student has compartmentalized positive and negative information about the self as student into separate categories. As long as his academic experiences typically activate only
+the first category, the most accessible information about the
+self as student will be positive. Negative information about self
+as student only comes to mind when the second category is
+activated. To the extent that he can avoid activating the negative
+category (e.g., by avoiding courses with high-pressure exams or
+by taking courses on a pass-fail basis), he will activate only
+positive knowledge about self as student.
+In contrast, Table 1 shows how that same knowledge about
+the self might be organized along different lines, unrelated to
+the positive or negative valence of the information. Hypothetically, a second individual might have the same items of knowledge about the self as thefirststudent, but she might organize
+them into two different self-aspects, each containing a mix of
+positive and negative information ("myself in humanities
+classes" and "myself in science classes"). This mixed organization would mean that both positive and negative information
+about the self would be activated when either category was
+primed. As long as thefirststudent primarily activates the "Renaissance scholar" category, it would seem that compartmentalized organization would be preferable to the mixed organization of the second student, who activates some negative information regardless of which category is primed.
+In a similar way, the psychological phenomenon of "splitting" the self into distinctly positive and negative aspects (the
+good me vs. the bad me) is said to be an important defensive
+mechanism for coping with negative experience and negative
+knowledge about the self (Bowlby, 1980; Sullivan, 1953). From a
+psychodynamic point of view, the splitting of the good me and
+the bad me facilitates the repression of negative experience.
+From an information processing perspective, compartmentalized categorization of positive and negative information may
+help to limit the accessibility of negative knowledge. Moreover,
+each category or self-aspect may be evaluated as more or less
+important; namely, more or less central to the self as a whole.
+When a negative category is perceived to be low in importance,
+the individual may be able to avoid the situations or experiences
+that would activate that category. Thus, if the first student sees
+grades and tests as unimportant, then he may choose courses
+with less structured forms of evaluation. When he does have to
+take a test, a great deal of negative knowledge about the self may
+be activated, but it may also be seen as unimportant and not
+central to the self.1
+However, when one's negative categories are frequently accessed or are especially important to the self, then it would
+seem that compartmentalization would increase the impact of
+negative events on the self. A negative event would likely activate a negative category andfloodthe individual with negative
+information. This would intensify an individual's negative reactions in the short term, and with repeated activation, it would
+presumably have long-term implications for global self-evaluations and affect. Thus, the relationship between compartmentalized organization and global thoughts and feelings about the
+
+1037
+
+self may depend on the relative importance and frequency of
+activation of positive and negative categories. When positive
+categories are most important or most frequently accessed,
+then the model predicts that compartmentalization will be associated with more positive self-evaluation and positive affect
+than noncompartmentalized organization; however, when negative categories are most frequently activated, compartmentalization should maximize negative thoughts and feelings about
+the self.
+Existing Literature on the Organization
+of Self-Knowledge
+The present work highlights a distinction between the content and the organization of self-knowledge that has been made
+in literature on self-schemata (Segal, 1988) and construct accessibility (Higgins & Bargh, 1987; Higgins, King, & Mavin, 1982).
+In particular, although negative self-descriptions and negative
+constructs appear to be available and highly accessible among
+depressed persons (Bargh & Tota, 1988), there is very little evidence as to how the organization of negative information (in
+relation to other less negative information about the self) might
+facilitate accessibility. Recent studies that have examined the
+interconnectedness of positive and negative information have
+obtained mixed results, and they did not explicitly examine the
+categorical structure of the information (Higgins, Van Hook, &
+Dorfman, 1988; Segal, Hood, Shaw, & Higgins, 1988; Showers,
+in press; Spielman & Bargh, 1990).
+Linville's (1985,1987) work on self-complexity examines the
+organization of self-descriptive information into idiographically generated categories (i.e., self-aspects; see also Niedenthal,
+Setterlund, & Wherry, in press). The self-complexity model focuses on the number of differentiated self-aspects irrespective
+of their positive or negative content. However, evaluative valence may be an especially salient basis for the organization of
+information about self and others (Greenwald & Pratkanis,
+1984; Kim & Rosenberg, 1980; Rogers, 1981; Ross, 1989). Studies of possible selves consider both the adaptive and maladaptive potential of positive and negative self-aspects (Ruvolo &
+Markus, 1986; Wurf & Markus, 1990). While Oyserman and
+Markus (1990) found that the number of negative possible selves
+was correlated with negative outcomes (cf. also Ogilvie, 1987, on
+the undesired self), they also discovered that the balance of
+positive expected selves and negative feared selves was predictive of nondelinquent behavior in adolescents. This is consistent with the present prediction that compartmentalization of
+positive and negative self-aspects is associated with a positive
+view of the self as long as negative aspects are "balanced" by
+more important positive ones. Methodologically, these studies
+share an idiographic approach to the assessment of positive and
+negative self-aspects.2
+1
+
+Important self-aspects are understood to be those that have a
+strong influence on one's overall feelings of self-worth. Pelham and
+Swann (1989) presented an excellent discussion of this view of importance, which is in keeping with that adopted by Hoge and McCarthy
+(1984) and Marsh (1986).
+2
+Similarly, self-discrepancy theory (e.g., Strauman & Higgins, 1987)
+compares positive ideal or ought selves with actual selves that may be
+
+1038
+
+CAROLIN SHOWERS
+
+Table 1
+Examples ofCompartmentalized Organization and Mixed Organization
+for Identical Items of Information About Self as Student
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Compartmentalized organization
+
+Mixed organization
+
+Renaissance
+scholar (+)
+
+Taking tests,
+grades (-)
+
+Humanities
+classes (+/-)
+
+Science
+classes (+/-)
+
++ curious
++ disciplined
++ motivated
++ creative
++ analytical
++ expressive
+
+- worrying
+- tense
+- distracted
+- insecure
+- competitive
+- moody
+
++ creative
+- insecure
++ motivated
+- distracted
++ expressive
+- moody
+
++ disciplined
++ analytical
+- competitive
+- worrying
++ curious
+- tense
+
+Note. A positive (+) or negative (-) valence is indicated for each category and each item. The symbol (+/-)
+denotes a mixed-valence category.
+
+Is Organization of Self-Knowledge Cause or
+Consequence of Self-Evaluation and Affect?
+The discussion up to this point suggests that compartmentalized organization of self-knowledge may have a causal impact on reactions to positive and negative events. If
+compartmentalization is a characteristic way of organizing selfknowledge, then it may also influence global self-evaluations
+and aifect. However, it is also possible that global self-evaluations or affective states influence organization (Blaney, 1986;
+Mayer, Gayle, Meehan, & Haarman, 1990; Salovey & Singer,
+1991). The evaluative valence of information may be more salient to individuals in extreme mood states or to those who hold
+extremely positive or negative views of the self (Pietromonaco,
+1985). As a result, such individuals may be more likely to organize that information according to its valence (e.g., "the depressed me"). Because the direction of causality could lead either way, in the present studies I used a correlational design to
+establish whether the organization of self-knowledge is related
+to global self-evaluation and current affective state.
+Study 1 (Pilot)
+A pilot study examined whether current levels of self-esteem
+or depressed mood were associated with a measure of compartmentalization of positive and negative characteristics of the
+self. According to the model outlined earlier, compartmentalized organization may be associated with either extremely high
+or extremely low self-esteem and depressed mood, depending
+on whether one's positive or negative categories are most important. However, in a random sample of individuals, most people
+probably view their positive aspects as the important ones.
+Thus, compartmentalization should most often be associated
+with high self-esteem and low depression scores. However, if
+the sample includes a sufficient number of individuals who
+compartmentalize positives and negatives and who view their
+negative categories as highly important, then those individuals
+relatively negative. Although such discrepancies have been linked to
+negative affect (anxiety or sadness), the balance of positive ideal or
+ought selves with negative actual selves may be adaptive and motivate
+change.
+
+will likely be extremely low in self-esteem or depressed. Thus,
+although a negative, linear relationship between compartmentalization and depression or low self-esteem was expected for
+the present random sample, the possibility of a quadratic relationship between compartmentalization and self-esteem or depression was considered as well. In either case, these relationships are theoretically most interesting if compartmentalized
+organization of self-knowledge explains variance in self-esteem
+and depression beyond that which can be accounted for by the
+negative content of self-descriptive information.
+
+Method
+Subjects
+Subjects were 69 female and 13 male undergraduates from Barnard
+College and Columbia University who volunteered to participate to
+satisfy a course requirement or to earn $5.
+
+Measures
+Compartmentalization. The measure of compartmentalization was
+based on the same self-concept sorting task used by Linville (1985,
+1987) to assess self-complexity. Subjects were given a deck of 33 cards,
+each containing an adjective derived from pretesting (see following
+discussion). They were told, "\bur task is to think of the different
+aspects of yourself or your life and then sort the cards into groups
+where each group describes an aspect of yourself or your life." The
+remainder of the instructions were very similar to those published by
+Linville (1987). Subjects were told that they could form as many or as
+few groups as they needed, with as many or as few cards asfitinto each
+one. If an adjective did not fit into any of their groups, they could
+simply set it aside. Subjects were given 25 min to complete this task.
+The 33 adjectives used in the sorts were based on pretesting of 36
+Barnard students, who were asked to generate lists of characteristics
+that described them in academic, social, and family situations, respectively A set of 21 positive and 12 negative characteristics that appeared
+most frequently on these lists were selected for the sorting task, and the
+consensual evaluation of these characteristics as positive or negative
+was confirmed by a separate sample of pretest subjects. This ratio of
+positives to negatives (21:12) is similar to the ratio of positive to negative self-statements observed in the automatic thoughts of a normal
+population (Kendall & Motion, 1981; Schwartz, 1986).
+The measure of compartmentalization across multiple self-aspects
+was the phi (0) coefficient (or Cramer's V; Cramer, 1945/1974; Everitt,
+
+1039
+
+COMPARTMENTALIZATION OF THE SELF
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1977), which was based on a chi-square statistic computed for each
+subject's sort. The sort can be viewed as a contingency table, where
+each self-aspect is a column of the table, and there are two rows, one for
+the number of positive characteristics in that self-aspect and one for
+the number of negative characteristics. Expected frequencies of positives and negatives in each column can be computed from the overall
+ratio of positives to negatives in that individual's sort. These expected
+frequencies represent chance values, if valence is not used as a basis for
+categorization. The chi-square statistic is a measure of deviation from
+a random sort, and
+
+Phi ranges from 0 to 1, where 0 represents a perfectly random sort
+and 1 represents a perfectly compartmentalized sort. This measure is
+independent of the number of categories and the proportion of positives and negatives in the sort.
+Personality measures. The measure of global self-evaluation was
+the 10-item Rosenberg Self-Esteem Scale (M. Rosenberg, 1965). The
+Beck Depression Inventory (BDI; Beck, Ward, Mendelson, Mock, &
+Erbaugh, 1961) assessed depressed mood.
+
+Procedure
+Subjects participated in groups of 2 to 10. The self-descriptive sorting task was completed first, followed by the personality measures.
+This order was chosen to avoid the possibility thatfillingout self-evaluative personality measures would activate a positive-negative dimension as a basis for categorization in the sorting task.
+
+Results
+Two subjects' data were excluded because they used 0 and 1
+negative adjectives, respectively, in their sorts. For the remaining subjects, the minimum number of negatives used was 4. On
+average, subjects' sorts consisted of 6.4 categories, containing
+7.9 words per category. On average, the sorts included 16.0
+(30%) negative adjectives and excluded 5.1 adjectives from the
+card deck. Mean compartmentalization (<£) was .71 (SD = .21),
+which was significantly different from zero, /(78) = 3.4, p <
+.005. Table 2 displays a sort with perfect compartmentalization.
+Hierarchical multiple regression analyses were used to examine the relationship of compartmentalization to depression and
+self-esteem scores, after the negative content of the self-descriptive sorts had been taken into account. In each regression (pre-
+
+dicting either self-esteem or depressed mood), the proportion
+of negative items used in the subject's sort was arcsine transformed (to stabilize variance) and entered on Step 1. Phi was
+entered on Step 2, resulting in a significant change in the
+squared multiple correlation for both the self-esteem and the
+depressed mood equations (A/?2 > .05, ps < .04; see Table 3).
+The signs of the semipartials indicate that there was a negative
+linear relationship between compartmentalized organization
+and depression or low self-esteem.
+A second pair of regressions showed no evidence of a quadratic relationship between depressed mood or self-esteem
+and compartmentalization (A/?2 for quadratic terms < .03,
+ps>.15).
+
+Discussion
+As predicted for a random sample, compartmentalized organization of positive and negative characteristics was associated
+with high self-esteem and low depression scores. Moreover,
+these subjects exhibited a substantial degree of compartmentalization in that their average score on this measure was fairly
+high (71 on a scale from 0 to 1). There was no evidence for the
+alternative hypothesis that compartmentalization may be associated with negative mood and self-evaluation when negative
+self-aspects are important. However, because I did not ask subjects to evaluate the importance or negativity of their selfaspects, it was not possible to examine explicitly the role of
+negativity and importance as specified by the theoretical
+model. A preliminary test of the theoretical model (by including quadratic depressed mood and self-esteem terms in the
+regression analysis) provided no support for a curvilinear relationship between compartmentalization and depression or selfesteem.
+However, as suggested earlier, in a random sample of individuals, most will evaluate their positive self-aspects as most important. Therefore, to test explicitly the possibility that compartmentalization may be associated with either extremely
+good or extremely poor self-evaluation and affect, the sample
+should include a group of individuals who are likely to articulate important negative self-aspects. One such group of individuals may be those who frequently become depressed. The negativity of the self-statements of depressed persons is well-known
+
+Table 2
+Sample Sort of Self-Descriptive Adjectives Showing Perfect Compartmentalization
+of Positives and Negatives (4> = 1.0)
+Amusement-play
+Energetic
+Fun and entertaining
+Creative
+
+Responsibleconscientious
+Independent
+Communicative
+Hardworking
+Mature
+Organized
+
+Relaxed
+
+Bad mood
+
+Sports-aggressive
+
+Quiet
+Affectionate
+Comfortable
+Kind
+Reflective
+Happy
+Giving
+Friendly
+Interested
+
+Disagreeing
+Insecure
+Lazy
+Tense
+Irritable
+Not the "real me"
+
+Confident
+Assertive
+Outgoing
+
+1040
+
+CAROLIN SHOWERS
+
+Table 3
+Study 1 (Pilot): Hierarchical Regressions to Predict Depression and Self-Esteem
+From Measures ofContent and Organization ofthe Self
+Depressed mood
+
+Self-esteem
+
+Predictor
+
+Cumulative
+R2
+
+Increase
+in R2
+
+sr2
+
+sr
+
+Cumulative
+R2
+
+Increase
+in R2
+
+sr2
+
+sr
+
+Step 1: Proportion of
+negative items
+Step 2: 0
+
+.07*
+.12*
+
+.07*
+.05*
+
+.07*
+.05*
+
+.27*
+-.23*
+
+.10**
+.15**
+
+.10**
+.05*
+
+.10**
+.05*
+
+-.31**
+.23*
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Note. Depressed mood was determined by score on the Beck Depression Inventory (BDI); self-esteem
+was determined by score on Rosenberg Self-Esteem Scale. Phi is the measure of compartmentalization.
+Proportion of negatives was arcsine transformed. BDI scores were square-root transformed. N= 80.
+
+*p<.05.
+
+**p<.0l.
+
+(e.g., Beck, 1976). Individuals who are not just currently depressed but who also report a history of depressive episodes
+(depression prone) are especially likely to be experiencing a lowself-esteem subtype of depression (Abramson, Metalsky, & Alloy, 1989). In other words, their negative mood is likely to be
+associated with a negative view of the self, rather than simply
+being a one-time response to an unusually severe negative
+event.
+Study 2
+Study 2 replicated the correlational design of Study 1 with
+two groups of subjects, one identified as not prone to depression and not currently depressed and the other identified as
+prone to depression and currently depressed. By using both
+current mood and chronic vulnerability to depression as criteria, one can capitalize on the possibility that mood state may be
+both cause and consequence of the way information about the
+self is organized.
+In addition, in Study 2, subjects were asked to evaluate
+whether each of their self-aspects was positive or negative and to
+indicate the importance of each. It was predicted that negative
+self-aspects would be more important to depressed subjects
+than they would be to nondepressed subjects. Moreover, the
+relationship between compartmentalized organization and
+mood state should depend on the importance of subjects' negative categories. As long as negative self-aspects are perceived to
+be of low importance, compartmentalized organization should
+be associated with positive mood. However, for individuals
+whose negative self-aspects are highly important, compartmentalized organization should be associated with higher levels of
+depression, even when the amount of negative content in their
+self-descriptions has been taken into account.
+The availability of importance measures in this study also
+allowed a conceptual replication of Pelham and Swann's (1989)
+finding that global self-esteem is best predicted when subject's
+reports of the positivity of their self-concept in a set of domains
+are weighted by the individual's perceived importance of each
+domain. In the present analysis, the average positivity of subjects' self-aspects and a measure of positivity weighted by importance were included in the initial step of the regression anal-
+
+yses as measures of negative content (along with the proportion
+of negative characteristics in each subject's sort).
+Method
+Subjects
+A total of 1,037 introductory psychology students at the University
+of Wisconsin filled out the Depression Proneness Inventory (DPI; Alloy, Hartlage, Metalsky, & Abramson, 1989) and the BDI as part of a
+mass survey during the first week of their semester. The prone-depressed group consisted of individuals who scored in the uppermost
+quartile (59 or more) on the DPI and 12 or more on the BDI. The not
+prone-nondepressed group consisted of individuals who scored in the
+lowest quartile (35 or less) on the DPI and 6 or less on the BDI. Equal
+numbers of men and women were selected. Forty-nine not prone-nondepressed individuals and 41 prone-depressed individuals participated in the laboratory sessions. Students received bonus credit toward
+their course grade for participation in the mass survey or the laboratory session.
+
+Self-Concept Sorting Task
+The same self-concept sorting task developed for Study 1 was used.
+In addition, after completing their sorts, subjects did the following
+supplementary tasks: (a) wrote a descriptive label for each of their selfaspects; (b) numbered their self-aspects in order of importance, assigning a 1 to the aspect that they considered the most important aspect of
+themselves;3 (c) indicated whether each aspect was mostly positive,
+mostly negative, or both positive and negative; and (d) rated the positivity and the negativity of each aspect on 5-point Likert scales.
+
+Procedure
+Subjects participated in laboratory sessions in groups of 2 to 10. The
+experimenter was blind to the depression proneness status of the subjects. Subjects were given 25 min to complete the self-concept sorting
+task. At the end of this period, they completed the supplementary
+ratings of positivity, negativity, and importance. Finally, subjects filled
+out the Rosenberg Self-Esteem Scale and the BDI. These measures
+3
+More specifically, subjects were asked to consider "how important
+each self-aspect is for the way you think about yourself, i.e., how central is that self-aspect to your overall concept of yourself."
+
+1041
+
+COMPARTMENTALIZATION OF THE SELF
+were administered last so that the self-evaluative content of these
+scales would not influence the sorts.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Results
+BDI scores at the time of the laboratory session were used as a
+check on the selection of subjects. Only subjects whose laboratory BDI scores were consistent with their mass survey scores
+were included in the analyses. Subjects in the prone-depressed
+group whose BDI scores were below 9 were excluded from the
+analyses. Similarly, subjects in the not prone-nondepressed
+group whose BDI scores were 9 or above were excluded. This
+left 42 not prone-nondepressed subjects (24 men and 18
+women) and 30 prone-depressed subjects (14 men and 16
+women).
+A separate sample of 485 University of Wisconsin introductory psychology students had an average Rosenberg Self-Esteem Scale score of 32.6 (on a scale from 10 to 40). Among the
+42 nondepressed subjects included in our analyses, the average
+score was 36.4. The average self-esteem score of the depressed
+group was 26.3, with only 2 individuals obtaining scores above
+33. Thus, the screening procedure successfully identified depressed individuals who also had low self-esteem.
+In preparation for the regression analyses, three measures of
+the negativity of the content of subjects' sorts were computed.
+The first measure was the proportion of negative characteristics used in the sort. These values were arcsine transformed to
+stabilize variance. The second measure was the average positivity or negativity of each subject's self-aspects. This measure was
+the average across an individual's self-aspects of the difference
+between the positivity and negativity ratings for each aspect.
+Positive scores indicate that, on average, self-aspects are evaluated positively.
+The third measure of content was differential importance
+(from Pelham & Swann, 1989). This is the correlation, computed for each individual across their self-aspects, of their importance rankings and their positivity-negativity difference
+scores for each aspect. The signs of the resulting correlations
+were reversed, so that positive correlations indicated that the
+individual tended to rank more positive self-aspects as more
+important and negative correlations indicated that the individual evaluated negative self-aspects as more important.
+Table 4, Panel A, presents means for the depressed and nondepressed groups on the raw measures of content and organization (as well as their average self-esteem and depression scores).
+All measures of content showed significant differences. However, note that even the depressed subjects generated selfaspects that were generally positive; their average positivitynegativity difference score was positive (M = 1.09). Moreover,
+their differential importance (which can range from - 1 to 1)
+was positive {M = .59), indicating that even depressed subjects
+ranked their positive aspects as more important than their negative aspects.
+Hierarchical regression analyses were performed with selfesteem and depression scores, respectively, as the dependent
+variables. Each regression had four steps:
+Step 1. Enter the three measures of content to control for
+variance that would be due to amount of negative content.
+
+Step 2. Enter the interactions of differential importance with
+the other two measures of negative content (proportion of negative items and average positivity of self-aspects). These interactions, as well as the main effect term for differential importance, would replicate Pelham and Swann's (1989)findingsthat
+differential importance is a significant predictor of global selfesteem (main effect), primarily for individuals whose self-descriptions are relatively negative (interaction terms).
+Step 3. Enter the measure of compartmentalization (phi),
+testing whether organization has a linear relationship to self-esteem or depression, once the effects of positive and negative
+content and differential importance have been taken into account.
+Step 4. Enter the interaction of phi with the differential importance of subjects' positive and negative self-aspects to test
+the full theoretical model.
+The theoretical model predicts that compartmentalized organization will interact with differential importance. Compartmentalization will be associated with lower depression scores
+and higher self-esteem scores among individuals whose positive
+aspects are perceived to be relatively important. However, when
+negative self-aspects are perceived to be important, compartmentalization will be associated with increased depression and
+lower self-esteem.
+Table 5 reports the results of the regressions for the prediction of self-esteem and depression, respectively. The measures
+of negative content accounted for 17% and 22% of the variance
+in self-esteem and depression scores, respectively. In particular,
+this was due to the proportion of negatives used, rather than to
+the average positivity or negativity of the self-aspects or to differential importance. The interaction terms involving differential importance were also nonsignificant, thereby failing to replicate Pelham and Swann's (1989)findings.Contrary to the theoretical model, but consistent with the findings of Study 1,
+there was a significant positive, linear relationship between
+compartmentalized organization and high self-esteem (and low
+depression scores). There was no evidence of any interaction of
+phi with differential importance.4
+
+Discussion
+Even though Study 2 included a group of subjects selected for
+proneness to depression and currently depressed mood, the
+findings replicate the positive, linear relationship between
+compartmentalized organization and high self-esteem (and low
+depression) observed in Study 1. The prone-depressed group of
+subjects did use more negative characteristics in their self-descriptive sorts than did the not prone-nondepressed group. Depressed subjects also rated their self-aspects less positively than
+did nondepressed subjects and had weaker correlations between their importance rankings and the positivity of their selfaspects. However, including the importance ratings and their
+
+4
+
+Regressions performed for men and women separately obtained
+very similar results. For the depression equation, the change in R2 for
+phi (Step 3) was .20 (p < .005) for men and. 15 (p < .02) for women.
+
+1042
+
+CAROLIN SHOWERS
+
+Table 4
+Measures of Depressed Mood, Self-Esteem, Negative Content, and Compartmentalization
+for Nondepressed and Depressed Groups in Study 2 (Panel A) and Study 3 (Panel B)
+Panel A: Study 2
+Nondepressed Depressed
+(n = 42)
+(« = 30)
+
+Measure
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Beck Depression Inventory
+Rosenberg Self-Esteem Scale
+Proportion of negative items
+Average positivity of groups
+Differential importance
+Compartmentalization <£
+
+17.7
+26.3
+
+2.9
+
+36.4
+.22
+
+.33
+
+2.05
+
+1.09
+
+.64
+.70
+
+.59
+.66
+
+Panel B: Study 3
+t
+
+-12.17*
+-11.87*
+-4.39*
+3.81*
+0.81
+1.02
+
+Nondepressed Depressed
+(71 = 41)
+(n = 36)
+16.3
+25.1
+
+2.1
+
+36.2
+.21
+
+.44
+
+2.39
+
+0.41
+
+.59
+.68
+
+.29
+.76
+
+;
+
+-12.76*
+-12.81*
+-8.32*
+6.80*
+3.31*
+-1.65
+
+Note. Scores for average positivity of groups in Study 3 have been adjusted to make the scale comparable
+with that used in Study 2.
+*p<.001.
+
+interaction with the measure of organization in the analysis did
+not have the theoretically predicted effects.
+At this point, two interpretations of the findings seemed
+plausible. First, accepting these results at face value suggests
+that compartmentalization may indeed always be associated
+with more positive views of the self and positive affect than
+distributed organization. For example, there may be advantages
+to organizing information about the self so that one always has a
+few self-aspects that are purely positive, regardless of how important one's negative aspects are. A homeless child who has
+many negative self-aspects (e.g., "living in the shelter," "trouble
+with kids at school," and "missing my Dad") may be better off if
+she can isolate one self-aspect that is purely positive (e.g., "taking music lessons at the Settlement") than ifshe were to incorporate the positive information with other features of her daily life
+
+in a set of self-aspects, each of which included a mix of positive
+and negative characteristics.
+Alternatively, it is possible that the theoretical model that
+predicts a curvilinear relationship between compartmentalization and the positivity of one's view of the self in fact holds, but
+that the present method has failed to identify individuals with
+important negative self-aspects. Although the depressed subjects in this study generated more negative self-aspects than did
+the nondepressed subjects, their self-descriptions were still
+largely positive. Recall that the depressed subjects' average rating of their self-aspects was positive, as was their average differential importance (Table 4, Panel A). Only 6% of the sample
+obtained differential importance scores that were less than
+zero, meaning that their more negative self-aspects were rated
+as more important than their positive ones. Yet it is only under
+
+Table 5
+Study 2: Hierarchical Regressions to Predict Depression and Self-Esteem
+From Measures ofContent and Organization ofthe Self
+Depressed mood
+Predictor
+Step 1:
+Proportion of negative
+items (NI)
+Average positivity of
+groups (PG)
+Differential
+importance (DI)
+Step 2:
+NIXDI
+PGXDI
+S t e p 3 : <)>
+Step 4: <j> X DI
+
+Cumulative : Increase
+R2
+in/? 2
+.22***
+
+sr2
+
+sr
+
+.22***
+
+Cumulative Increase
+R2
+inR2
+.17**
+
+.08* -.29*
+
+.00
+
+-.00
+
+.00
+
+.05
+
+.01
+
+-.07
+
+.01
+
+.11
+
+.00
+
+.02
+.10
+
+.02
+
+.13***
+.00
+
+sr
+
+.17**
+
+.18*
+-.10
+-.15
+.02
+.13*** -.37***
+.00
+.00
+
+.01
+
+.01
+
+.38***
+.38***
+
+sr2
+
+.33**
+
+.11**
+
+.25***
+
+Self-esteem
+
+.01
+.25**
+.27**
+
+.07*
+
+.07*
+
+.02
+
+.02
+
+.26*
+-.14
+
+Note. Depressed mood was determined by score on the Beck Depression Inventory (BDI); self-esteem
+was determined by score on the Rosenberg Self-Esteem Scale. Phi (&) is the measure of compartmentalization. Proportion of negatives was arcsine transformed. BDI scores were square-root transformed. A'= 66.
+Six subjects were excluded from these analyses because their importance ratings had no variability, and so
+their DI scores were undefined.
+*p<.05. **p<.0l. ***p<.00l.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COMPARTMENTALIZATION OF THE SELF
+
+1043
+
+ferentially endorsed by depressed and nondepressed individuals.
+those conditions that the theoretical model predicts that comThese adjectives also either appear on Derry and Kuiper's (cited in
+partmentalized organization will be associated with higher levKuiper, Derry, & MacDonald, 1982) list of adjectives judged to be
+els of depression or lower self-esteem.
+descriptive of depressed persons or are near synonyms of words on that
+The notion that depressed persons have important, frelist (e.g., unloved vs. unwanted). Nine positive trait and mood adjectives
+quently accessed aspects of the self that are extremely negative
+that were near antonyms of the depressed-content adjectives were sefits well with descriptions of depressive symptomatology. How- lected from Dykman et al.'s list. In addition, 11 positive and 11 negative
+ever, the present procedure may not have been successful in
+commonly used adjectives were taken from the set used in Studies 1
+identifying those aspects. Clearly, the self-concept sorting task
+and 2. Thus, the new adjective set included words that were likely to be
+used by either depressed or nondepressed subjects (but not both) as
+tends to limit subjects' self-aspects to those that are well-dewell as a set of common positive and negative adjectives that most
+scribed by the adjectives included in the card deck. Although
+subjects would use.
+the effects of compartmentalization already described suggest
+After completing their sorts, subjects wrote descriptive labels for
+that these adjectives did allow individuals some important aleach of their groups and made the following ratings for each selfternatives in the kinds of categories they generated, it is possiaspect, on 7-point Likert scales: (a) How important is this aspect of
+ble that they do not permit depressed individuals to generate
+yourself for the way you think about yourself? (b) How positive is this
+the kinds of negative self-aspects that are most important for
+aspect of yourself? and (c) How negative is this aspect of yourself?
+5
+their self-view. Recall that the set of adjectives used in Studies 1
+and 2 were those most commonly reported in the self-descripProcedure
+tions of a random sample of subjects. For this reason, the negative adjectives available tend to represent negative feelings or
+The procedure was identical to that used in Study 2. Subjects comstates that are transient and not likely to influence global feelpleted the sorting task and filled out the Rosenberg Self-Esteem Scale
+ings of self-worth, such as irritable, self-centered, or disorgan- and the BDI.
+ized. In contrast, studies of the self-concepts of depressed versus nondepressed persons typically find differences in endorseResults
+ment and accessibility of adjectives like hopeless, inadequate,
+and unloved or optimistic, capable, and needed (Kuiper, Derry,
+Only subjects whose BDI scores at the time of the laboratory
+& MacDonald, 1982; Dykman, Abramson, Alloy, & Hartlage,
+sessions were consistent with their proneness group were in1989). Such adjectives represent traits and states that are protocluded in the analyses. These were 41 (15 men and 26 women)
+typically descriptive of depressed and nondepressed individout of 46 nondepressed subjects and 36 (10 men and 26 women)
+uals, respectively. These adjectives, especially the negative ones,
+out of 49 depressed subjects. Table 4, Panel B displays the group
+would have been excluded from the adjectives used in Studies 1
+means on self-esteem and BDI scores, and the same three meaand 2 because they are not common self-descriptors for most
+sures of negative content used in Study 2 (proportion of negative
+people.
+items, average positivity-negativity difference scores across all
+self-aspects, and differential importance). As in Study 2, there
+were significant differences between depressed and nondeStudy 3
+pressed groups on all measures. A comparison of Panel A
+(Study 2) and Panel B (Study 3) confirms that the subjects seThe design of Study 3 was identical to that of Study 2, with
+lected for the two studies were similar in terms of self-esteem
+prone-depressed and not prone-nondepressed subjects seand depressed mood. However, the change in the adjective set
+lected by prescreening. The procedure was the same, except for
+for Study 3 seems to have affected the sorts generated by the
+changes in the adjectives provided for the card sorting task and
+depressed group. Although the measures of negative content
+minor adjustments in the ratings that subjects provided for each
+were quite similar for the nondepressed subjects in both studof their self-aspects.
+ies, the depressed subjects in Study 3 differed from the depressed subjects in Study 2 on all three measures. First, the
+Method
+proportion of negative adjectives in depressed subjects' sorts
+jumped from 33% in Study 2 to 44% in Study 3. Although there
+Subjects
+were more negative adjectives in the card deck for Study 3, this
+Twelve hundred introductory psychology students at the University
+did not affect the proportion of negatives used by nondepressed
+of Wisconsin were screened on the DPI and the BDI during the first
+subjects. Second, the average positivity-negativity rating across
+week of the semester. The criteria used to select prone-depressed and
+groups was closer to zero for the depressed subjects in Study 3.
+not prone-nondepressed subjects were the same as those in Study 2.
+Third, the depressed subjects' differential importance score in
+Forty-nine prone-depressed individuals (17 men and 32 women) and
+Study 3 was less than that in Study 2. In fact, 13% of the subjects
+46 not prone-nondepressed individuals (19 men and 27 women) participated in the laboratory sessions. (The male-female ratio in each group
+in Study 3 had negative values on differential importance, indicorresponds to that available in the sample.) Students received bonus
+cating that their negative self-aspects were perceived to be more
+credit toward their course grade for participation.
+important than their positive ones. These are the conditions
+under which the theoretical model predicts that compartmen-
+
+Self-Concept Sorting Task
+A set of 20 positive and 20 negative adjectives was constructed for
+the sorting task. Nine negative trait and mood adjectives were selected
+from Dykman et al.'s (1989) set of bipolar adjective scales that are dif-
+
+5
+
+1 am extremely grateful to both Lyn Abramson and Ben Dykman
+for this insightful suggestion.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1044
+
+CAROLIN SHOWERS
+
+talization will be associated with relatively high depression
+scores or low self-esteem scores.
+Table 4 also presents the average compartmentalization
+scores for each group. Again, the depressed groups in Studies 2
+and 3 differ. Depressed subjects in Study 3 display increased
+compartmentalization compared with those in Study 2. It is
+important to note that these are raw scores, unadjusted for negative content. With the adjective set used in Study 3, depressed
+subjects used more negatives, and they generated self-aspects
+that were more negative on average and that were more important to their overall self-concept than those generated by depressed subjects in Study 2. In other words, providing depressed-content adjectives seems to have allowed depressed
+subjects to generate negative "compartments" that were highly
+important.
+The logic of the regression analyses, using measures of content and organization to predict self-esteem and depression
+scores, was the same as in Study 2. Table 6 presents the results.
+Measures of negative content accounted for 63% and 54% of the
+variance in self-esteem and depression scores, respectively, in
+Study 3, as compared with 17% and 22% in Study 2. In particular, the average positivity-negativity rating of self-aspects was
+significant in Study 3 as was the proportion of negative characteristics.
+Differential importance was significant in the case of SelfEsteem Scale scores and appeared as a nonsignificant trend in
+the case of BDI scores. This replicates Pelham and Swann's
+(1989) finding that differential importance accounts for a
+unique portion of the variance in global self-esteem. The combined interactions of differential importance with proportion
+of negatives and average positivity of self-aspects were marginally significant in the case of self-esteem. The nature of the
+interaction of differential importance with positivity of selfaspects (which is significant at p < .03 if entered alone) was
+examined by estimating the slope of the regression of self-esteem on differential importance for high and low values of
+positivity of self-aspects (i£., for values one standard deviation
+above and below the mean). When positivity of groups is high,
+this slope is 0.17; when positivity of groups is low, the slope is
+6.79. The interaction, then, is the same as that obtained by
+Pelham and Swann; differential importance is only correlated
+with self-esteem for individuals with relatively negative selfviews.
+Any linear relationship between compartmentalization and
+self-esteem or depression is superseded by the significant interaction of phi with differential importance. The nature of this
+interaction can be described by estimating the slope of the regression of Self-Esteem Scale scores (or BDI scores) on phi for
+different values of differential importance (DI). Table 7 gives
+the slopes for values of differential importance that are one
+standard deviation above the mean (DI = .88) and one standard
+deviation below the mean (DI = .04). In addition, a slope is
+calculated for DI = -.35, the average differential importance
+for those 10 subjects whose negative self-aspects were rated as
+more important than their positive self-aspects (i£., subjects for
+whom DI < 0). Table 7 shows that compartmentalization is
+associated with higher self-esteem and lower depression scores
+when positive self-aspects are highly important (data column 1).
+When negative self-aspects are similar in importance to posi-
+
+tives (data column 2) or more important (data column 3), compartmentalization is associated with low self-esteem and high
+depression scores.6
+Discussion
+Although the depressed groups in Studies 2 and 3 were similarly depressed and low in self-esteem, the content and organization of their sorts differed, presumably because of the availability of depressed-content adjectives in the stimuli in Study 3. In
+Study 3, depressed subjects used a higher proportion of negative
+adjectives in their sorts, evaluated their self-aspects more negatively (on average), and were less likely to rate their positive
+self-aspects as more important than their negative ones. These
+indicators and the raw compartmentalization scores for depressed subjects suggest that when depressed-content adjectives
+are provided, depressed subjects generate negative "compartments" that are important (i.e., central to their overall concept
+of themselves).
+With this wider range of content in the stimulus adjectives,
+the relationship between differential importance and global
+self-esteem established by Pelham and Swann (1989) was replicated. Note that in Pelham and Swann's study, subjects were
+asked to rate the descriptiveness of positive and negative statements about the self in each of 10 domains provided by the
+experimenter. The present findings replicate their results for
+categories of self-knowledge that are generated idiographically
+by each subject. Evaluating positive categories as more important than negative ones is associated with higher global self-esteem, especially among individuals whose categories are relatively negative.
+Most important, Study 3 obtained the interaction of compartmentalization and differential importance predicted by
+the theoretical model. When positive self-aspects are perceived
+to be highly important, compartmentalized organization is associated with high self-esteem and low depression scores. However, when negative self-aspects are important, then mixed
+(noncompartmentalized) organization is associated with more
+positive global self-esteem and mood.
+Analysis of Self-Aspect Labels: Studies 2 and 3
+Having found compartmentalization to be associated with
+self-esteem and depressed mood in a manner consistent with
+the theoretical model, we turn to an analysis of category labels
+to understand better how individuals who compartmentalize
+keep positive and negative information separate. In other
+words, what kinds of categories do these individuals use?
+On one hand, individuals who compartmentalize may generate self-aspects that are broad, global categories (e.g., student,
+daughter, and social life) of which they take an affectively "simple" view. Whereas individuals who do not compartmentalize
+may include both positive and negative information in categories such as student, daughter, or social life, individuals who
+6
+Separate regressions for men and women obtained similar results.
+For example, for the self-esteem equation, the change in J& for the
+interaction of phi and importance (Step 4) was .03 (p < .03, n <= 49) for
+women and .04 (p < .17, n = 24) for men.
+
+1045
+
+COMPARTMENTALIZATION OF THE SELF
+
+Table 6
+Study 3: Hierarchical Regressions to Predict Depression and Self-Esteem
+From Measures ofContent and Organization of the Self
+Self-esteem
+
+Depressed mood
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Cumulative Increase
+
+Predictor
+
+R2
+
+in/? 2
+
+Step 1:
+Proportion of negative
+items (NI)
+Average positivity of
+groups (PG)
+Differential
+importance (DI)
+Step 2:
+NIXDI
+PGxDI
+
+.54***
+
+.54***
+
+Step 3: <t>
+Step 4: <t> X DI
+
+.57***
+.60***
+
+sr2
+
+sr
+
+Cumulative Increase
+R2
+in/? 2
+.63***
+
+.06**
+
+.25**
+
+.01
+
+.09*** -.31***
+
+-.12
+
+.01
+.03*
+.03*
+
+.66***
+.01
+.09
+.01
+.11
+.03* -.16*
+.03* -.16*
+
+sr
+
+.63***
+
+.05* -.21*
+.55***
+
+sr2
+
+.67***
+.69***
+
+.04*
+
+.19*
+
+.02*
+
+.15*
+
+.00
+.01
+.01
+.02*
+
+-.02
+-.11
+.11
+.15*
+
+.03
+.01
+.02*
+
+Note. Depressed mood was determined by score on the Beck Depression Inventory (BDI); self-esteem
+was determined by score on the Rosenberg Self-Esteem Scale. Phi (<t>) is the measure of compartmentalization. Proportion of negatives was arcsine transformed. BDI scores were square-root transformed. N = 73.
+Four subjects were excluded from these analyses because their importance ratings had no variability, and
+so their differential importance scores were undefined.
+*p<.05. **p<.01. ***/><.001.
+
+count for the curvilinear relationship between compartmentalization and depression. In subjects who are low in depression
+or high in self-esteem, compartmentalized organization may
+be associated with narrowly denned negative aspects, which
+have minimal impact on the self. In contrast, in depressed subjects who compartmentalize, negative self-aspects may be more
+broadly defined, with greater impact on the self.
+These predictions are consistent with literature on levels of
+thinking (e.g., Vallacher & Wegner, 1985) that suggests that it
+may be advantageous to focus on concrete and specific features
+of difficult actions (Vallacher, Wegner, & Somoza, 1989) or
+stressful events (Pennebaker, Czajka, Cropanzano, & Richards,
+1990). Similarly, Zirkel and Cantor (1990) report that identifying the life task of being on one's own at college in terms of
+concrete, narrowly defined activities is associated with less anxiety and absorption in that task than is thinking in terms that
+give the task broader meaning.
+Table 7
+The predictions were tested by coding the labels that subjects
+Slopes for the Regression of Rosenberg Self-Esteem Scale and in Studies 2 and 3 had generated for their self-aspects along two
+Beck Depression Inventory Scores on Compartmentalization dimensions: breadth and type of domain (see following discusas a Function of Differential Importance (DI)
+sion). Measures of the average breadth for positive self-aspects
+and for negative self-aspects in situational and self-domains
+DI (range: - 1 to 1)
+were computed for each subject. The relationship between
+High
+Low
+Very low
+compartmentalization and breadth of self-aspects was examPredicted variable
+(DI = .88) (DI = .04) (DI = -.35)
+ined by multiple regression analysis.
+
+compartmentalize may take an all-or-nothing perspective,
+identifying either all positive or all negative characteristics with
+each self-aspect. Such broadly denned categories might tend to
+have broad impacts on the self.
+Alternatively, compartmentalized organization may be associated with the use of narrowly denned self-aspects (e.g., "me
+when I'm being productive at work" or "me before exams"). The
+specific definition of the category constrains the characteristics
+to be only positive or only negative. When categories are narrow
+in scope (i.e., those self-aspects are experienced in a limited
+range of situations or on a limited number of occasions), the
+impact on the self will likely be narrow as well.
+Thus, the relative breadth of positive and negative categories
+may correspond to their differential importance and may ac-
+
+Rosenberg Self-Esteem Scale
+Beck Depression Inventory
+
+9.21
+-2.48
+
+-4.55
+0.65
+
+-10.95
+2.11
+
+Note. Slopes are based on unstandardized regression coefficients
+(5s) and BDI scores were square-root transformed. For DI, M = 0.46
+and SD =0.42. The high and low values in columns 1 and 2 correspond
+to 1 SD above and below the mean, respectively. The very low value in
+column 3 is the average DI for those 10 subjects who rated their negative aspects as more important than their positives (i.e., DI < 0).
+
+Coding Procedure for Self-Aspect Labels
+The breadth of each self-aspect was coded on a 5-point scale.
+A broad self-aspect was defined as one that encompassed many
+occasions and situational contexts (Carter & Showers, 1992).
+Coders were given definitions and examples for each point on
+the rating scale, ranging from 1 {single occasions or specific situa-
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1046
+
+CAROLIN SHOWERS
+
+tions with special circumstances, e.g. "how I felt about my chemis- partial r = -.40, p < .04). Again, the negative situational selftryfinal")to 5 (generalization about the selfas a whole or about aspects of subjects who compartmentalize were more narrowly
+a set ofcharacteristics; no situational context, e.g. "my personal- defined than those of subjects who did not compartmentalize.
+ity"). Two undergraduate coders who were blind to the hypothe- None of the other breadth measures was correlated with phi.
+ses and design, as well as to the depression status of the subjects,
+The results of the domain analyses supported and extended
+coded each label for each subject who had been included in the
+those obtained for Study 2. Hierarchical regressions revealed
+analyses of Study 2 or Study 3. Altogether, there were 1,161
+that subjects who compartmentalize generated a greater numlabels. Coders obtained 87.3% agreement. Disagreements were
+ber of self (evaluative) aspects (p < .001) and somewhat more
+resolved by majority rule after the disputed item had been
+self (nonevaluative) aspects (p <. 10). They also generated fewer
+coded by two additional judges. There were 5 labels that could
+family (p < .001) and miscellaneous activities aspects (p < .01).
+not be coded because of their ambiguity.
+Moreover, in this data set that utilized the sorting task with
+The domains coded were achievement, social (nonfamily),
+depressed and nondepressed content adjectives, subjects who
+family, miscellaneous activities, self (evaluative) and self (nonecompartmentalize generated a greater number of self-aspects
+valuative). The two self domains included labels that did not
+on average (AR2 = .07, p < .04), albeit with fewer domains
+specify a clear situational context (e.g., "my personality" or "relirepresented per group (AR2 = .08, p < .02). These were all main
+able"). Self-evaluative labels had a clear evaluative tone (e.g.,
+effects of compartmentalization; there were no significant in"things I like about myself or "sad"). Descriptive definitions
+teractions of phi with differential importance.
+were written for each domain. Two coders who were blind to
+the hypotheses and design of the study, as well as to the subjects'
+Discussion
+depression status, coded each label for each subject. All but 4 of
+the 1,161 labelsfitinto one of the six domains described earlier.
+The results of the labels coding for Study 3 provide a sketch of
+Coders obtained 91.7% agreement. Disagreements were rethe self-aspects of individuals who compartmentalize. Their
+solved by a third judge.
+negative situational categories were relatively narrow and speThe labels for self-aspects that fall into the "self domains are
+cific; this is consistent with the finding that these subjects genbroader than those in the various situational domains because
+erated more categories representing fewer domains. Ifone's cate"self aspects are context free. Because of this and also because
+gories are narrowly defined, one can easily generate several in
+not all individuals have all domains represented in their sorts,
+each domain. Similarly, in Study 2, subjects who compartmenfour breadth scores were computed for each subject by averagtalized had negative situational categories that were narrowly
+ing the breadth codings for those self-aspects that fit into each
+defined. In both studies, these subjects generated more self
+of the following groups: positive situations (PosSit), negative
+(evaluative) categories (e.g., "things I would like to be" or "sad").
+situations (NegSit), positive self (PosSelf) and negative self (NegSurprisingly, there were no interactions of compartmentalSelf). (The positivity or negativity of each category was deterization with differential importance on these measures. Conmined by the subjects' own reports. Categories that were persistent with predictions, nondepressed individuals who comceived to be equally positive and negative were excluded.) These
+partmentalize have narrowly defined negative aspects (which
+four variables were then used as dependent variables in four
+are presumably low in importance); however, depressed individmultiple regressions where the predictors were the same as
+uals who compartmentalize apparently also have narrowly dethose used in the regression equations for self-esteem and defined negative aspects, even though it was seen previously that
+pression scores.
+these aspects are relatively important. Thus, the importance
+ratings these subjects give to their negative aspects seem inconResults: Study 2
+sistent with their narrowly defined labels. Their negative situationally based aspects may have great impact on mood and
+Only one of the breadth variables, NegSit, showed a significant association with compartmentalized organization (<t>: self-esteem not because they are broadly defined, but perhaps
+because they are (mistakenly?) perceived to be highly imporAR2 =.11, partial r = -.35, p < .04). The negative situational
+tant. In other words, these subjects may not err in the way they
+self-aspects of subjects who compartmentalize were more narrowly defined than those of subjects who did not compartmenorganize their self-aspects, but rather in the importance they
+talize (e.g., "when I get a bad grade" vs. "student").
+assign to narrow, situation-specific negative self-aspects (e.g.,
+"me during finals week").
+In addition, separate regressions using the same set of predictors examined the relationship between compartmentalization
+and the number of groups, number of groups per domain, and
+General Discussion
+the types of domains generated. These analyses suggested that
+subjects who compartmentalize generated more self (evaluative)
+In the first two studies, organization of positive and negative
+aspects (AR2 = .04, partial r = .22, p < .10) and fewer family
+characteristics of the self into separate, evaluatively compartaspects (AR2 = . 14, partial r = -.39, p < .002) than did subjects mentalized self-aspects was associated with high self-esteem
+who did not compartmentalize. There were no significant difand low depression scores. In these studies, the stimulus adjecferences in the number of groups or the number of groups per
+tives that subjects used to generate their self-aspects were comdomain.
+mon positive and negative self-descriptors. However, in Study 3,
+when a wider range of content (including both depressed-conResults: Study 3
+tent adjectives and their antonyms) was used, the relationship
+between compartmentalization and self-esteem or depression
+As was the case for Study 2, NegSit showed a significant association with compartmentalized organization (<j>: AR2 = .15, was found to be more complex. Consistent with the theoretical
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COMPARTMENTALIZATION OF THE SELF
+
+model, the relationship between compartmentalization and
+self-esteem or depression was mediated by the relative importance of positive and negative self-aspects: When positive selfaspects were perceived to be highly important, compartmentalized organization was associated with high self-esteem and low
+levels of depression; when negative self-aspects were important,
+compartmentalization was associated with low self-esteem and
+high levels of depression.
+As suggested in the introduction, the categorical organization of self-knowledge may be both cause and consequence of
+global self-views or mood state. When positive self-aspects are
+important, compartmentalization may contribute to positive
+feelings because activation of those important self-aspects
+brings to mind only positive knowledge about the self. Conversely, when negative knowledge about the self is important, it
+may be better to form self-aspects which contain a mixture of
+positive and negative information. Each time negatives are activated, there will be some positive knowledge associated with
+the same self-aspect that can buffer affective and cognitive reactions to the negative knowledge.7
+Alternatively, extreme mood states or extremely positive or
+negative self-views may increase compartmentalization. The
+processes may be either affective or cognitive. For example,
+extreme affective states may strengthen the associative links
+between items of similarly valenced knowledge in memory,
+causing them to be activated together (Bower, 1981) or extreme
+affective states may make the affective valence of items of information about the self particularly salient, so that affective valence is likely to be used as a basis for cognitive categorization
+(Pietromonaco, 1985; cf. also Niedenthal & Cantor, 1986).
+One might say that individuals who compartmentalize display less evaluative complexity in their organization of selfknowledge than do those who use evaluatively mixed categories. Informational items of opposite valence are not likely to be
+integrated under the same category label. Yet this evaluative
+simplicity is probably achieved by cognitive complexity (cf.
+Schroder, Driver, & Streufert, 1967; Tetlock & Kim, 1987).
+Broad-based categories such as "social life" or "academics"
+must be differentiated into more specific categories such as
+"myself when I am not doing well in school" to create an evaluatively simple, compartmentalized organization.
+Interestingly, a correlation between compartmentalization
+and narrow definition of self-aspects was observed only for negative (but not positive) self-aspects. Narrowly defined negative
+self-aspects should prevent overgeneralization of negative characteristics (cf. Carver & Ganellan, 1983; Kernis, Brockner, &
+Frankel, 1989). They should be less likely to be perceived as
+stable or as having global impact and therefore less likely to lead
+to feelings of helplessness about negative events (Abramson,
+Metalsky, & Alloy, 1989). Hence, learning to define one's negative self-aspects in narrow terms may be beneficial. Compartmentalized individuals may define positive self-aspects either
+narrowly (like their negatives) or more broadly (to gain the benefits of generalization of positive characteristics).
+For most nondepressed individuals, the relative importance
+of positive self-aspects implies that compartmentalization
+should be associated with high self-esteem. Thus, for most people, learning to compartmentalize negative characteristics
+("not good at team sports") may help strengthen and protect
+positives ("like to jog for exercise"). However, when negative
+aspects are highly important (e.g., if peer pressure dictates join-
+
+1047
+
+ing the volleyball team), then an evaluatively integrative organization that links negative knowledge (about playing team
+sports) to a positive view of the self (as physically fit) may be
+optimal.
+Of course, compartmentalization effects do not belie the fact
+that sheer amount of negative content (as well as the average
+positivity or negativity of self-aspects) have strong associations
+with depressed mood and self-esteem. In fact, for individuals
+whose positive self-aspects are most important, compartmentalization may be part of a process by which negative information
+is "removed" from the self-concept (e.g., if the corresponding
+negative self-aspects were perceived to be less and less important over a period of time). However, the organization of the self
+may also have treatment implications for individuals who have
+important negative knowledge that is not easily "removed" or
+denied. Perhaps even clinically depressed individuals may benefit from learning to integrate their negative self-aspects with
+more positive features of the self. If sufficient positive information is available, evaluative integration should increase its accessibility. Unfortunately, clinical diagnoses were not available for
+the present samples, and only 50% (Study 2) and 42% (Study 3)
+of depressed subjects were moderately to severely depressed
+(i£., BDI scores > 15). Recent studies by Pelham (1991) found
+that persons who are severely depressed (on the basis of their
+BDI scores) do have isolated, yet highly positive, self-views that
+may help them overcome their depression.
+The perceived importance of self-aspects plays a critical role
+in this model. However, a direct relationship between importance and self-esteem or depression was not always apparent (cf.
+Hoge & McCarthy, 1984; Marsh, 1986). It was only in Study 3
+that a significant correlation between importance and self-esteem was observed. However "importance" does seem to be
+important in its interaction with compartmentalization. Differential importance is a strong predictor of depression and
+self-esteem for individuals who are highly compartmentalized.
+Perhaps individuals who have differentiated the aspects of
+themselves along evaluative lines rely on differential weights of
+importance to keep their negative aspects at bay. Similarly, Pelham and Swann (1989) found that importance was related to
+self-esteem only for individuals with relatively negative selfviews. Thus, compartmentalized categorization, accompanied
+by differential importance ratings that weight positive selfaspects heavily, may allow individuals with many negative beliefs about the self to acknowledge that negative information
+without being overwhelmed by it. Some examples of this might
+be the acknowledgement of "pockets of incompetence" that, if
+identified as unimportant for one's areas of competence, may
+actually increase perceptions of self-worth (Taylor & Brown,
+1988) or the case of low self-esteem individuals who seemingly
+ignore their global self-evaluations in seeking to verify specific
+positive self-views (Swann, Pelham, & Krull, 1989).
+Related studies of evaluative integration of positive and nega7
+
+In the present studies, the measure of compartmentalization always preceded the measures of self-esteem and depression. This leaves
+open the possibility that the sorting task itself raised or lowered self-esteem or mood (depending on the degree of compartmentalization and
+the importance of positives and negatives). If this were the case, it
+would still imply that the way one organizes self-knowledge in that task
+has a systematic influence on reports of mood and self-esteem.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1048
+
+CAROLIN SHOWERS
+
+tive self-descriptive information have obtainedfindingsconsistent with the present data (Showers, in press). In that work,
+subjects spontaneously generated lists of self-descriptive information. Subjects who intermixed positive and negative characteristics in their self-descriptive lists were identified as evaluatively integrated. Among those subjects who had important negative characteristics in their self-descriptions, those who were
+evaluatively integrated had higher self-esteem or less negative
+affect than those who listed groups of positives and groups of
+negatives, even when the number of positives and negatives was
+held constant. However, the individuals who were highest in
+self-esteem listed groups of positives only. Although those studies focused on the associative links between oppositely valenced items of self-descriptive information, rather than on category structures, both approaches suggest that grouping information of similar valence together is advantageous only when
+positive characteristics are highly important. Integrating positive and negative information is preferable when negative information is important or frequently accessed.
+In summary, the present data (and also the findings of
+Showers, in press) demonstrate that organization of self-knowledge may be importantly related to self-esteem and affect and
+that it is not just the positive and negative content of self-knowledge that matters. The organizational model proposed here
+may have important implications for the treatment of individuals whose negative knowledge about the self is debilitating.
+The present work suggests that negative knowledge about the
+self need not necessarily be changed or denied. This insight
+may be especially helpful in light of recent empirical work on
+depressive realism (Alloy, Albright, Abramson, & Dykman,
+1990). If a depressed person's negative beliefs about the self are
+realistic, reorganization of negative knowledge may be a more
+effective means of improving self-evaluation and affect than
+attempts to change the content of realistic beliefs. Organizational strategies may be used to maximize access to whatever
+positive characteristics are available. However, the kind of organization—compartmentalization or integration—that is most
+advantageous depends on the relative importance of positive
+and negative characteristics of the self. Thus, the present findings suggest that keeping one's bad apples out of the bunch may
+be advantageous, as long as they do not represent highly important aspects of the self.
+
+Beck, A. T., Ward, C. H., Mendelson, M., Mock, J., & Erbaugh, J.
+(1961). An inventory for measuring depression. Archives of General
+Psychiatry, 4, 561-571.
+Blaney, P. H. (1986). Affect and memory: A review. Psychological Bulletin, 99, 229-246.
+Bower, G. H. (1970). Organizational factors in memory. Cognitive Psychology, 1,18-46.
+Bower, G. H. (1981). Mood and memory. American Psychologist, 36,
+129-148.
+Bowlby, J. (1980). Attachment and loss: Vol. 3. Loss, sadness and depression. New York: Basic Books.
+Cantor, N., Markus, H., Niedenthal, P., & Nurius, P. (1986). On motivation and the self-concept. In R. M. Sorrentino & E. T. Higgins (Eds.),
+Handbook of motivation and cognition: Foundations ofsocial behavior (pp. 96-121). New York: Guilford Press.
+Carter, S. M., & Showers, C. (1992, May). The paradox of defensive
+pessimism and its relation to the self-concept. Paper presented at the
+Annual Meeting of the Midwestern Psychological Association, Chicago.
+Carver, C. S., & Ganellen, R. J. (1983). Depression and components of
+self-punitiveness: High standards, self-criticism, and overgeneralization. Journal of Abnormal Psychology, 92, 330-337.
+Carver, C. S., & Scheier, M. F. (1990). Principles of self-regulation:
+Action and emotion. In E. T. Higgins & R. M. Sorrentino (Eds.),
+Handbook ofmotivation and cognition, (Vol. 2, pp. 3-52). New York:
+Guilford Press.
+Cramer, H. (1974). Mathematical methods ofstatistics. Princeton, NJ:
+Princeton University Press. (Original work published 1945)
+Dykman, B. M., Abramson, L. Y, Alloy, L. B., & Hartlage, S. (1989).
+Processing of ambiguous and unambiguous feedback by depressed
+and nondepressed college students: Schematic biases and their implications for depressive realism. Journal of Personality and Social
+Psychology, 56, 431-445.
+Epstein, S. (1973). The self-concept revisited: Or a theory of a theory.
+American Psychologist, 28, 404-416.
+Everitt, B. S. (1977). The analysis ofcontingency tables. London: Chapman & Hall.
+Greenwald, A. G, & Pratkanis, A. R. (1984). The self. In R. S. Wyer &
+T. K. Srull (Eds.), Handbook ofsocial cognition (Vol. 3, pp. 129-178).
+Hillsdale, NJ: Erlbaum.
+Harter, S. (1988). Developmental and dynamic changes in the nature of
+the self-concept. In S. R. Shirk (Ed.), Cognitive development and child
+psychotherapy. New York: Plenum Press.
+Hastie, R. (1980). Memory for information that confirms or contradicts a general impression. In R. Hastie, T. M. Ostrom, E. B. Ebbesen, R. S. Wyer, Jr., D. L. Hamilton, & D. E. Carlston (Eds.), Person
+memory.Thecognitivebasis ojsocial perception (pp. 155-178). HillsReferences
+dale, NJ: Erlbaum.
+Abramson, L. Y., Metalsky, G. I, & Alloy, L. B. (1989). Hopelessness
+Higgins, E. X, & Bargh, J. A. (1987). Social cognition and social perdepression: A theory-based subtype of depression. Psychological Reception. Annual Review of Psychology, 38, 369-425.
+view, 96, 358-372.
+Higgins, E. X, King, G. A., & Mavin, G. H. (1982). Individual construct
+Alloy, L. B., Albright, J. S., Abramson, L. Y, & Dykman, B. M. (1990).
+accessibility and subjective impressions and recall. Journal of PersonDepressive realism and nondepressive optimistic illusions: The role
+ality and Social Psychology, 43, 35-47.
+of the self. In R. E. Ingram (Ed.), Contemporary psychological ap- Higgins, E. X, Van Hook, E., & Dorfman, D. (1988). Do self-attributes
+proaches to depression: Treatment, research and theory (pp. 71-86). form a cognitive structure? Social Cognition, 6, 177-206.
+New \brk: Plenum Press.
+Hoge, D. R., & McCarthy, J. D. (1984). Influence of individual and
+Alloy, L. B., Hartlage, S., Metalsky, G., & Abramson, L. Y. (1989). The
+group identity salience in the global self-esteem of youth. Journal of
+Depression Proneness Inventory: A brief, face-valid scale ofvulnerabil- Personality and Social Psychology, 47, 403-414.
+ity to depressive reactions in response to stress. Unpublished manu- James, W (1890). Principles of psychology New York: Holt.
+script.
+Kendall, P. C, & Hollon, S. D. (1981). Assessing self-referent speech:
+Bargh, J. A., & Tota, M. E. (1988). Context-dependent automatic proMethods in the measurement of self-statements. In P. C. Kendall &
+cessing in depression: Accessibility of negative constructs with reS. D. Hollon (Eds.), Assessment strategies for cognitive-behavioral
+gard to self but not others. Journal ofPersonality and Social Psycholinterventions (pp. 85-118). San Diego, CA: Academic Press.
+ogy, 54, 925-939.
+Kernis, M. H., Brockner, J., & Frankel, B. S. (1989). Self-esteem and
+Beck, A. T. (1976). Cognitive therapy and the emotional disorders. Mad- reactions to failure: The mediating role of overgeneralization. Jourison, CT: International Universities Press.
+nal of Personality and Social Psychology, 57, 707-714.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COMPARTMENTALIZATION OF THE SELF
+
+1049
+
+Salovey, P., & Singer, J. A. (1991). Mood congruency effects in recall of
+Kihlstrom, J. F., & Cantor, N. (1984). Mental representations of the
+childhood versus recent memories. In D. Kuiken (Ed.), Mood and
+self. Advances in Experimental Social Psychology, 17,1-47.
+memory: Theory, research, and applications (pp. 99-120). Newbury
+Kim, M. P., & Rosenberg, S. (1980). Comparison of two structural
+Park, CA: Sage.
+models of implicit personality theory. Journal ofPersonality and SoSchlenker, B. R., & Weigold, M. F (1989). Goals and the self-identificacial Psychology, 38, 375-389.
+tion process: Constructing desired identities. In L. A. Pervin (Ed.),
+Klein, S. B., & Kihlstrom, J. F. (1986). Elaboration, organization, and
+Goal concepts in personality and social psychology (pp. 243-290).
+the self-reference effect in memory. Journal ofExperimental PsycholHillsdale, NJ: Erlbaum.
+ogy: General, 115, 26-38.
+Schroder, H. M., Driver, M. X, & Streufert, S. (1967). Human informaKuiper, N. A., Derry, P. A., & MacDonald, M. R. (1982). Self-reference
+tion processing. New \brk: Holt, Rinehart & Winston.
+and person perception in depression: A social cognition perspective.
+In G. Weary & H. L. Mirels (Eds.), Integrations ofclinical and social Schwartz, R. M. (1986). The internal dialogue: On the asymmetry between positive and negative coping thoughts. Cognitive Therapy and
+psychology (pp. 79-103). New York: Oxford University Press.
+Research, 10, 591-605.
+Linville, P. W (1985). Self-complexity and affective extremity: Don't
+put all of your eggs in one cognitive basket. Social Cognition, 3, Segal, Z. Y (1988). Appraisal of the self-schema construct in cognitive
+models of depression. Psychological Bulletin, 103,147-162.
+94-120.
+Segal, Z. V, Hood, J. E., Shaw, B. F, & Higgins, E. T. (1988). A structural
+Linville, P. W. (1987). Self-complexity as a cognitive buffer against
+analysis of the self-schema construct in major depression. Cognitive
+stress-related illness and depression. Journal of Personality and SoTherapy and Research, 12, 471-485.
+cial Psychology, 52, 663-676.
+Markus, H., & Nurius, P. (1986). Possible selves. American Psycholo- Showers, C. (in press). Evaluatively integrative thinking about characteristics of the self. Personality and Social Psychology Bulletin.
+gist, 41, 954-969.
+Spielman, L. A., & Bargh, J. A. (1990). Does the depressive self-schema
+Markus, H., & Wurf, E. (1987). The dynamic self-concept: A social
+really exist? In C. D. McCann & N. S. Endler (Eds.), Depression: New
+psychological perspective. Annual Review of Psychology, 38, 299directions in theory, research, and practice (pp. 111-126). Toronto,
+337.
+Canada: Wall & Emerson.
+Marsh, H. W (1986). Global self-esteem: Its relation to specific facets
+of self-concept and their importance. Journal ofPersonality and So- Srull, T. K. (1983). Organizational and retrieval processes in person
+memory: An examination of processing objectives, presentation forcial Psychology, 51,1224-1236.
+mat, and the possible role of self-generated retrieval cues. Journal of
+Mayer, J. D., Gayle, M., Meehan, M. E., & Haarman, A.-K. (1990).
+Personality and Social Psychology, 44,1157-1170.
+Toward better specification of the mood-congruency effect in reStrauman, T. J., & Higgins, E. T. (1987). Automatic activation of selfcall. Journal of Experimental Social Psychology, 26, 465-480.
+discrepancies and emotional syndromes: When cognitive structures
+Niedenthal, P. M., & Cantor, N. (1986). Affective responses as guides to
+influence affect. Journal of Personality and Social Psychology, 53,
+category-based inferences. Motivation and Emotion, 10, 217-232.
+1004-1014.
+Niedenthal, P. M, Setterlund, M. B., & Wherry, M. B. (in press). PossiStryker, S. (1980). Symbolic interactionism. Menlo Park, CA: Benjable self-complexity and affective reactions to goal-relevant evaluamin/Cummings.
+tion. Journal of Personality and Social Psychology.
+Ogilvie, D. M. (1987). The undesired self: A neglected variable in per- Sullivan, H. S. (1953). The interpersonal theory ofpsychiatry. New \brk:
+sonality research. Journal of Personality and Social Psychology, 52, Norton.
+Swann, W B., Jr., Pelham, B. W, & Krull, D. S. (1989). Agreeable fancy
+379-385.
+or disagreeable truth? Reconciling self-enhancement and self-verifiOyserman, D., & Markus, H. R. (1990). Possible selves and delincation. Journal of Personality and Social Psychology, 57, 782-791.
+quency. Journal of Personality and Social Psychology, 59,112-125.
+Taylor, S. E., & Brown, J. D. (1988). Illusion and well-being: A social
+Pelham, B. W (1991). On the benefits of misery: Self-serving biases in
+psychological perspective on mental health. Psychological Bulletin,
+the depressive self-concept. JournalofPersonality and Social Psychol103,193-210.
+ogy, 61, 670-681.
+Tetlock, P. E., & Kim, J. I. (1987). Accountability and judgment proPelham, B. W, & Swann, Jr., W B. (1989). From self-conceptions to
+cesses in a personality prediction task. Journal of Personality and
+self-worth: On the sources and structure of global self-esteem. JourSocial Psychology, 52, 700-709.
+nal of Personality and Social Psychology, 57, 672-680.
+Tulving, E., & Pearlstone, Z. (1966). Availability versus accessibility of
+Pennebaker, J. W, Czajka, J. A., Cropanzano, R., & Richards, B. C.
+information in memory for words. Journal of Verbal Learning and
+(1990). Levels of thinking. Personality and Social Psychology BulleVerbal Behavior, 5, 381-391.
+tin, 16, 743-757.
+Vallacher, R. R., & Wegner, D. M. (1985). A theory ofaction identificaPietromonaco, P. R. (1985). The influence of affect on self-perception
+tion. Hillsdale, NJ: Erlbaum.
+in depression. Social Cognition, 3,121-134.
+Vallacher, R. R., Wegner, D. M., & Somoza, M. P. (1989). That's easy for
+Rogers, T. B. (1981). A model of the self as an aspect of the human
+you to say: Action identification and speech fluency. Journal of Perinformation processing system. In N. Cantor & J. F. Kihlstrom
+(Eds.), Personality, cognition, and social interaction (pp. 193-214). sonality and Social Psychology, 56,199-208.
+Wurf, E., & Markus, H. (1990). Possible selves and the psychology of
+Hillsdale, NJ: Erlbaum.
+personal growth. In A. Stewart, D. Ozer, & J. M. Healy, Jr. (Eds.),
+Rosenberg, M. (1965). Society and the adolescent self-image. PrincePerspectives in personality (Vol. 3, Part A, pp. 39-62). London: Jeston, NJ: Princeton University Press.
+sica Kingsley.
+Rosenberg, S. (1988). Self and others: Studies in social personality and
+autobiography. Advances in Experimental Social Psychology, 21, 57- Zirkel, S., & Cantor, N. (1990). Personal construal of life tasks: Those
+who struggle for independence. Journal of Personality and Social
+95.
+Psychology, 58,172-196.
+Ross, M. J. (1989). Self-schematic instability in mild depression. Journal ofSocial Behavior and Personality, 4,119-126.
+Received June 25,1991
+Ruvolo, A. P., & Markus, H. (1986, August). Possible selves and motivaRevision received September 19,1991
+tion. Paper presented at the 94th Annual Convention of the American Psychological Association, Washington, DC.
+Accepted October 26,1991 •
+
+

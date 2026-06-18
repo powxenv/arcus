@@ -1,0 +1,1245 @@
+Journal of Personality and Social Psychology
+1974, Vol. 30, No. 4, 526-537
+
+SELF-MONITORING OF EXPRESSIVE BEHAVIOR1
+MARK SNYDER2
+University of Minnesota
+A social psychological construct of self-monitoring (self-observation and
+self-control guided by situational cues to social appropriateness) of expressive
+behavior and self-presentation was proposed. An internally consistent, temporally stable self-report measure of individual differences in self-monitoring was
+constructed. Four converging laboratory and field studies of peer perception
+ratings, criterion group membership, self-control of facial and vocal emotional
+expressive behavior, and attention to normative social comparison information
+were conducted to demonstrate the convergent and discriminant validity of
+the Self-Monitoring Scale (SM). The use of SM to investigate hypotheses
+concerning consistency in expression across situations and between channels of
+expressive behavior was discussed.
+
+as a pipeline or radarscope to one's true inner
+"self" (e.g., Freud, 1959). Although nonverbal behavior may often escape voluntary
+attempts at censorship (Ekman & Friesen,
+1969), there have been numerous demonstrations that individuals can voluntarily express
+various emotions with their vocal and/or
+facial expressive behavior in such a way that
+their expressive behavior can be accurately
+interpreted by observers (e.g., Davitz, 1964).
+In fact, some social observers have proposed
+that the ability to manage and control expressive presentation is a prerequisite to effective social and interpersonal functioning.
+Thus Goffman (1955) has likened social interaction to a theatrical performance or
+"line" of verbal and nonverbal self-expressive
+acts which are managed to keep one's line
+1
+This report is based on a doctoral dissertation appropriate to the current situation. Such
+submitted to Stanford University. The research was self-management requires a repertoire of
+supported in part by National Institute of Mental
+Health Training Grant MH-12283 in Social Psy- face-saving devices, an awareness of the inchology and in part by a Canada Council Doctoral terpretations which others place on one's acts,
+Fellowship. The author thanks Daryl J. Bern, chair- a desire to maintain social approval, and the
+man of the dissertation committee, for his encour- willingness to use this repertoire of impresagement and intelligent counsel throughout the conceptual, empirical, and literary phases of the disser- sion management tactics. Within the more
+tation; and J. Merrill Carlsmith, Lee D. Ross, and restricted domain of facial expressions of
+Philip G. Zimbardo, members of the committee, for emotional affect, Ekman (1971) has suggested
+their interest, attention, and suggestions at various that individuals typically exercise control
+stages of the research. John Grether, Tom Price, over their facial expressions to intensify, deChris Ryan, Anne Coffey, Sheridan Crawford, Jul'.e
+Steinmetz, Mike Cochran, Kris Keller, Richard intensify, neutralize, or mask the expression
+Quan, and Mike Boyle provided valuable and of a felt affect, according to various norms of
+creative assistance in conducting the experiments and social performance.
+contributed their insights into self-monitoring.
+There are, however, striking and important
+2
+Requests for reprints should be sent to Mark
+individual
+differences in the extent to which
+Snyder, Laboratory for Research in Social Relations,
+Department of Psychology, University of Minne- individuals can and do monitor their selfsota, Minneapolis, Minnesota 55455.
+presentation, expressive behavior, and non526
+A common observation in literature and
+cultural folklore has been that certain nonlanguage behaviors, such as voice quality,
+body motion, touch, and the use of personal
+space appear to play a prominent role in
+communication. Furthermore, laboratory and
+field research clearly indicates that much information about a person's affective states,
+status and attitude, cooperative and competitive nature of social interaction, and interpersonal intimacy is expressed and accurately
+communicated to others in nonverbal expressive behavior (e.g., Ekman, 1971; Hall, 1966;
+Mehrabian, 1969; Sommer, 1969).
+Much interest in nonverbal expressive behavior stems from a belief that it may not be
+under voluntary control and might function
+
+SELF-MONITORING OF EXPRESSIVE BEHAVIOR
+verbal affective display. Clearly, professional
+stage actors can do what I cannot. Politicians
+have long known how important it is to wear
+the right face for the right constituency. LaGuardia learned the expressive repertoires of
+several different cultures in New York and
+became "chameleon-like" the son of whatever people he was facing. Yet little research
+has directly concerned such individual differences in the self-control of expressive behavior. At best, some dispositional correlates
+of spontaneous and natural expression of emotion have been reported (e.g., Buck, Savin,
+Miller, & Caul, 1972; Davitz, 1964).
+A Concept of Self-Monitoring of
+Expressive Behavior
+How might individual differences in the
+self-control of expressive behavior arise? What
+might be the developmental, historical, and
+current motivational origins of self-control
+ability and performance? Perhaps some individuals have learned that their affective experience and expression are either socially
+inappropriate or lacking. Such people may
+monitor (observe and control) their selfpresentation and expressive behavior. The
+goals of self-monitoring may be (a) to communicate accurately one's true emotional state
+by means of an intensified expressive presentation; (b) to communicate accurately an
+arbitrary emotional state which need not be
+congruent with actual emotional experience;
+(c) to conceal adaptively an inappropriate
+emotional state and appear unresponsive and
+unexpressive; (d) to conceal adaptively an
+inappropriate emotional state and appear to
+be experiencing an appropriate one; (e) to
+appear to be experiencing some emotion when
+one experiences nothing and a nonresponse is
+inappropriate.
+An acute sensitivity to the cues in a situation which indicate what expression or selfpresentation is appropriate and what is not
+is a corollary ability to self-monitoring. One
+such set of cues for guiding self-monitoring
+is the emotional expressive behavior of other
+similar comparison persons in the same situation.
+There is some evidence of an acute version
+of this process. When persons are made un-
+
+527
+
+certain of their emotional reactions, they look
+to the behavior of others for cues to define
+their emotional states and model the emotional expressive behavior of others in the
+same situation who appear to be behaving
+appropriately (Schachter & Singer, 1962).
+On the other hand, persons who have not
+learned a concern for appropriateness of their
+self-presentation would not have such welldeveloped self-monitoring skills and would not
+be so vigilant to social comparison information about appropriate patterns of expression
+and experience. This is not to say that they
+are not emotionally expressive or even that
+they are less so than those who monitor their
+presentation. Rather, their self-presentation
+and expressive behavior seem, in a functional
+sense, to be controlled from within by their
+affective states (they express it as they feel
+it) rather than monitored, controlled, and
+molded to fit the situation.
+Self-Monitoring and Consistency in
+Expression: Between Modalities and
+across Situations
+Do people, as Freud (1959) believed, say
+one thing with their lips and another with
+their fingertips? More specifically, what governs the consistency between expression in
+different channels of expression, such as vocal
+and facial, and the consistency between nonverbal and verbal expression? The self-monitoring approach provides one perspective on
+differences and consistencies across channels
+of expression, including verbal self-presentation.
+It is likely that when one is monitoring,
+various channels are monitored differentially,
+and perhaps some forgotten. Thus, what may
+be communicated by one channel may differ
+from what is communicated by another. For
+example, I may cover my sadness by putting
+on a happy face but forget to use a happy
+voice.
+Ekman and Friesen (1969, 1972) have
+demonstrated with psychiatric patients and
+student nurses that in deception situations
+people are more likely to monitor their facial
+than body presentation, with the result that
+the deception is more likely to be detected
+from an examination of body cues than fa-
+
+528
+
+MARK SNYDER
+
+cial cues. Thus, the information encoded in
+monitored channels should differ from that
+encoded in nonmonitored channels. However,
+it is likely that great consistency characterizes that set of channels of expressive (verbal
+or nonverbal) behaviors which are simultaneously monitored according to the same
+criteria. Furthermore, self-monitored expressive behavior should vary more from situation to situation than nonmonitored expressive behavior. Self-monitoring individuals
+should be most likely to monitor and control
+their expression in situations which contain
+reliable cues to social appropriateness. Thus,
+such a person would be more likely to laugh
+at a comedy when watching it with amused
+peers than when watching it alone. The laughing behavior of the non-self-monitoring person should be more invariant across those two
+situations and more related to how affectively
+amused he himself actually is. The expressive
+behavior of self-monitoring individuals should
+be more reflective of an internal affect state
+when it is generated in a situation with minimal incentives for, and cues to, self-monitoring.
+The cross-situational variability of the selfmonitoring versus the consistency of the nonself-monitoring individuals is similar to the
+"traits versus situations" issue: Is behavior
+controlled by situational factors and hence
+predictable from characteristics of the surrounding situation, or is it controlled by
+internal states and dispositions which produce
+cross-situational consistency and facilitate
+prediction from characteristics of the person,
+measures of internal states, or dispositions
+(Mischel, 1968; Moos, 1968, 1969)? Bern
+(1972) has proposed that the issue be redirected from an "either traits or situations for
+all behavior of all people" debate to a search
+for moderating variables which would allow
+the specification for an individual of equivalence classes of situations and responses across
+which he monitors his behavior with respect
+to a particularly central self-concept. In these
+areas he would show trait-like cross-situational and interresponse mode consistency; in
+others he would not. In the domain of expressive behavior, individual differences in
+self-monitoring are a moderating variable
+which identifies individuals who demonstrate
+
+or fail to demonstrate consistency across
+channels of expression and between situations
+differing in monitoring properties.
+In Search of a Measure of Individual
+Differences in Self-Monitoring
+How can we capture individual differences
+in self-monitoring? A review of the literature
+suggests at least one currently available measure which might serve to identify individuals
+who differ in self-monitoring.
+The self-monitoring individual is one who,
+out of a concern for social appropriateness, is
+particularly sensitive to the expression and
+self-presentation of others in social situations
+and uses these cues as guidelines for monitoring his own self-presentation. Is there then
+any difference between this person and the
+individual with a high "need for approval"
+as measured by the Marlowe-Crowne Social
+Desirability Scale (Crowne & Marlowe,
+1964)? In a wide variety of situations, individuals who have a high need for approval
+give socially desirable responses. They conform more than low-need-for-approval individuals in an Asch situation; they verbally
+condition better; they do not show overt
+hostility toward one who has insulted and
+double-crossed them; and they are less likely
+to report dirty words in a perceptual defense
+task (Crowne & Marlowe, 1964). All of this
+would suggest that the high-need-for-approval
+person is one who modifies his behavior from
+situation to situation. However, other evidence
+suggests that this ability to alter behavior
+may be severely limited to contingencies of
+social approval (Bern, 1972).
+In addition, it may be only the social approval of adult experimenters which is reinforcing and sought after. In a sociometric
+study, fraternity members with a high need
+for approval were described by their peers as
+individuals who spend most of their time
+alone rather than with other people, do not
+go out of their way to make friends, are not
+very conversational, and do not act friendly
+toward other fraternity members (study by
+Stephen C. Bank, reported in Crowne & Marlowe, 1964, pp. 162-163).
+In another study on verbal conditioning,
+high- and low-need-for-approval subjects did
+not differ in the extent to which they mod-
+
+SELF-MONITORING OF EXPRESSIVE BEHAVIOR
+eled the behavior of a peer (actually a confederate) they had previously observed perform the experimental task appropriately
+(Crowne & Marlowe, 1964, pp. 61-72).
+Furthermore, and particularly relevant to the
+self-monitoring of expressive behavior, this
+self-control ability may not extend into the
+domain of expressive behavior. Zaidel and
+Mehrabian (1969) reported that individuals
+who scored high on the Need for Approval
+Scale were actually less able to communicate
+either positive or negative affect facially or
+vocally than were low-need-for-approval subjects. In this experimental situation, the socially desirable response and the one which
+would gain the approval of the experimenter
+would clearly be the accurate expression and
+communication of affect. Thus, although highneed-for-approval individuals may be motivated to modify their expressive self-presentation in order to gain approval, they may lack
+the necessary self-control abilities and skills.
+Self-monitoring would probably best be
+measured by an instrument specifically designed to discriminate individual differences
+in concern for social appropriateness, sensitivity to the expression and self-presentation
+of others in social situations as cues to social
+appropriateness of self-expression, and use of
+these cues as guidelines for monitoring and
+managing self-presentation and expressive behavior. Accordingly, an attempt was made to
+transpose the self-monitoring concept into a
+self-report scale which reliably and validly
+measures it.
+The convergence between diverse methods
+of measuring self-monitoring was examined
+according to the strategy of construct validation (Cronbach & Meehl, 19SS). To demonstrate discriminant validity (Campbell &
+Fiske, 1959), comparisons were made between
+self-monitoring and need for approval in the
+prediction of each external criterion in the
+validation strategy. Need for approval was
+chosen for these critical comparisons for two
+reasons. Its conceptual relationship to selfmonitoring has already been discussed.
+Naturally, this procedure also further individuates the type of person identified by the
+Need for Approval Scale. In addition, Campbell (1960) has recommended that in view of
+the general response tendency of some indi-
+
+529
+
+viduals to describe themselves in a favorable
+manner, and the close relationship between
+probability of endorsement of personality
+statements and their social desirability, all
+tests of the voluntary self-descriptive sort
+should be demonstrated to predict their criterion measures better than a measure of the
+general social desirability factor.
+CONSTRUCTION OF THE SELF-MONITORING
+SCALE
+Forty-one true-false self-descriptive statements were administered to 192 Stanford
+University undergraduates. The set included
+items which describe (a) concern with the
+social appropriateness of one's self-presentation (e.g., "At parties and social gatherings,
+I do not attempt to do or say things that
+others will like"); (£) attention to social
+comparison information as cues to appropriate
+self-expression (e.g., "When I am uncertain
+how to act in social situations, I look to the
+behavior of others for cues"); (c) the ability
+to control and modify one's self-presentation
+and expressive behavior (e.g., "I can look
+anyone in the eye and tell a lie with a
+straight face [if for a right end]"); (d) the
+use of this ability in particular situations
+(e.g., "I may deceive people by being friendly
+when I really dislike them"); and (e) the
+extent to which the respondent's expressive
+behavior and self-presentation is cross-situationally consistent or variable (e.g., "In different situations and with different people, I
+often act like very different persons").
+The individual items were scored in the
+direction of high self-monitoring. For approximately half the items, agreement was
+keyed as high SM; for the remainder, disagreement was keyed as high SM.
+An item analysis was performed to select
+items to maximize internal consistency. In
+this procedure, the top and bottom thirds in
+total test scores of persons were found. Then
+the percentages of persons in each group who
+responded in the manner keyed as high SM
+were determined. Finally, the percentage in
+the bottom group was subtracted from the
+percentage in the top group. This difference
+(D) served as an index of item validity to
+discriminate total test scores (Anastasi, 1968).
+D is directly proportional to the difference
+
+530
+
+MARK SNYDEE
+
+between the number of "correct" and "incor- of social performance required in a wide
+rect" total score discriminations made by an range of situations and who seeks social apitem. D values are not independent of item proval by becoming whatever kind of person
+difficulty and are biased in favor of items of the situation requires. He is literally a chaintermediate difficulty level. D is, then, an meleon. Clearly the SM and c do not identify
+appropriate criterion for selecting items ac- the same individuals.
+cording to both discriminative power and
+The SM was also found to be unrelated to
+intermediate difficulty level (Nunnally, 1967). Christie and Geis's (1970) Machiavellianism
+Items were discarded on the basis of low D (r=-.0931, d f = 5 l , ns), Alpert-Haber
+scores until a set of 25 items remained which (1960) Achievement Anxiety Test (r —
+maximized the internal consistency of the + .1437, df = 51, ns), and Kassarjian's
+scale (Nunnally, 1967, pp. 263-265). The (1962) inner-other directedness (r = —.1944,
+Self-Monitoring Scale has a Kuder-Richard- df = 54, ns).
+son 20 reliability of .70, and a test-retest
+It thus appears that SM is relatively indereliability of .83 (dj = 51, p < .001, one- pendent of the other variables measured.
+month time interval). Cross-validation on an
+independent sample of 146 University of MinVALIDATION: SELF-MONITORING AND
+nesota undergraduates yielded a KuderPEER RATINGS
+Richardson 20 reliability coefficient of .63.
+As a first source of validity evidence for
+The 25 items of the SM, proportions of
+the
+SM, a sociometric study of peer ratings
+respondents answering the item in the lowSM-scored direction, their D values, and item- was conducted. In choosing this method, it
+total point-biserial correlations calculated for was assumed that a person who has good conthe University of Minnesota sample are pre- trol of his self-presentation and expressive behavior and who is sensitive to social approsented in Table 1.
+priateness cues should be seen as such a perCorrelations with Other Scales
+son by others who have had the opportunity
+Correlations between the SM and related for repeated observation of his self-presentabut conceptually distinct individual differ- tion in a wide variety of social situations.
+ences measures provide some evidence for its
+Method
+discriminant validity. There is a slight negaSubjects
+tive relationship (r = -.1874, dj = 190, p <
+.01) between the SM and the MarloweThe subjects in this study were 16 members of a
+Crowne Social Desirability Scale (M-C SDS, male fraternity living group at Stanford University
+Crowne & Marlowe, 1964). Individuals who who agreed to participate in an investigation of
+report that they observe, monitor, and man- person perception.
+age their self-presentation are unlikely to report that they engage in rare but socially Procedure
+Each subject completed the SM and the M-C SDS
+desirable behaviors.
+There is a similarly low negative relation- and then participated in a sociometric person perception task.
+ship (r=-.2002, d(=19Q, p < .01) beEach subject indicated for each of six other memtween the SM and the Minnesota Multiphasic bers of the fraternity specified for him by the exPersonality Inventory Psychopathic Deviate perimenter whether the following self-monitoring
+scale. High-SM subjects are unlikely to report attributes were very true, mostly true, somewhat
+or not at all true:
+deviant psychopathological behaviors or his- true,
+(1) Concerned about acting appropriately in social
+tories of maladjustment.
+situations;
+There is a small and nonsignificant nega(2) Openly expresses his true inner feelings, attitive relationship (r — —.25, df = 24, ns) be- tudes, and beliefs;
+(3) Has good self-control of his behavior. Can
+tween the SM and the c scale of the Performplay many roles;
+ance Style Test, (e.g., Ring & Wallston,
+(4) Is good at learning what is socially appropri1968). The c scale was designed to identify a ate in new situations;
+(5) Often appears to lack deep emotions; and
+person who is knowledgeable about the kind
+
+SELF-MONITORING OF EXPRESSIVE BEHAVIOR
+
+531
+
+TABLE 1
+INSTRUCTIONS, ITEMS, SCORING KEY, DIFFICULTY, AND DISCRIMINATION
+INDEXES TOR THE SELF-MONITORING SCALE"
+Discrimination
+Item and scoring key b
+
+1. I find it hard to imitate the behavior of other people. (F)
+2. My behavior is usually an expression of my true inner feelings,
+attitudes, and beliefs. (F)
+3. At parties and social gatherings, I do not attempt to do or
+say things that others will like. (F)
+4. I can only argue for ideas which I already believe. (F)
+5. I can make impromptu speeches even on topics about which
+I have almost no information. (T)
+6. I guess I put on a show to impress or entertain people. (T)
+7. When I am uncertain how to act in a social situation, I look
+to the behavior of others for cues. (T)
+8. I would probably make a good actor. (T)
+9. I rarely need the advice of my friends to choose movies,
+books, or music. (F)
+10. I sometimes appear to others to be experiencing deeper
+emotions than I actually am. (T)
+11. I laugh more when I watch a comedy with others than when
+alone. (T)
+12. In a group of people I am rarely the center of attention. (F)
+13. In different situations and with different people, I often act
+like very different persons. (T)
+14. I am not particularly good at making other people like
+me. (F)
+IS. Even if I am not enjoying myself, I often pretend to be
+having a good time. (T)
+16. I'm not always the person I appear to be. (T)
+17. I would not change my opinions (or the way I do things) in
+order to please someone else or win their favor. (F)
+18. I have considered being an entertainer. (T)
+19. In order to get along and be liked, I tend to be what people
+expect me to be rather than anything else. (T)
+20. I have never been good at games like charades or improvisational acting. (F)
+21. I have trouble changing my behavior to suit different people
+and different situations. (F)
+22. At a party I let others keep the jokes and stories going. (F)
+23. I feel a bit awkward in company and do not show up quite
+so well as I should. (F)
+24. I can look anyone in the eye and tell a lie with a straight
+face (if for a right end). (T)
+25. I may deceive people by being friendly when I really dislike
+them. (T)
+
+Difficulty"
+
+D'l
+
+X 2c
+
+P
+
+rpb'
+
+.63
+
+.50
+
+32.07
+
+.0005
+
+.33
+
+.67
+
+.23
+
+7.26
+
+.01
+
+.13
+
+.17
+.43
+
+.21
+.29
+
+8.29
+8.91
+
+.005
+.005
+
+.34
+.22
+
+.69
+.65
+
+.21
+.44
+
+6.41
+26.5
+
+.025
+.0005
+
+.32
+.45
+
+.20
+.69
+
+.19
+.36
+
+6.55
+17.8
+
+.025
+.0005
+
+.24
+.43
+
+.64
+
+.24
+
+6.78
+
+.01
+
+.15
+
+.57
+
+.20
+
+4.78
+
+.05
+
+.39
+
+.33
+.64
+
+.23
+.32
+
+6.51
+13.09
+
+.025
+.0005
+
+.29
+.40
+
+.40
+
+.22
+
+5.54
+
+.025
+
+.40
+
+.30
+
+.27
+
+10.12
+
+.005
+
+.22
+
+.61
+.26
+
+.21
+.23
+
+5.67
+7.17
+
+.025
+.01
+
+.24
+.33
+
+.61
+.79
+
+.34
+.28
+
+15.5
+12.64
+
+.0005
+.0005
+
+.34
+.46
+
+.79
+
+.25
+
+9.96
+
+.005
+
+.29
+
+.52
+
+.45
+
+25.96
+
+.0005
+
+.31
+
+.36
+.65
+
+.38
+.24
+
+19.35
+6.80
+
+.0005
+.01
+
+.45
+.36
+
+.54
+
+.21
+
+11.05
+
+.001
+
+.32
+
+.58
+
+.38
+
+19.25
+
+.0005
+
+.33
+
+.46
+
+.35
+
+15.07
+
+.0005
+
+.32
+
+Note.
+T = true; F = false; SM = Self-Monitoring Scale.
+a
+Directions for Personal Reaction Inventory were: The statements on the following pages concern your personal reactions to a
+number of different situations. No two statements are exactly alike, so consider each statement carefully before answering. If a
+statement is TRUE or MOSTLY TRUE as applied to you, blacken the space marked T on the answer sheet. If a statement is
+FALSE or NOT USUALLY TRUE as applied to you, blacken the space marked F. Do not put your answers on this test booklet
+itself.
+It is important that you answer as frankly and as honestly as you can. Your answers will be kept in the strictest confidence,
+b Items keyed in the direction of high SM.
+od Difficulty = proportion of individuals not responding in SM-keyed direction.
+Discrimination = difference between proportions of individuals in upper and lower thirds of total scores responding in hlgh-SM
+direction.
+8 a
+x calculated from the contingency table relating frequencies of T, F for each item and upper third, lower third for total SM
+score
+(including that item).
+f
+Point-biserial correlations between individual items and total scores with that item excluded.
+
+(6) Has good self-control of his emotional expression. Can use it to create the impression he
+wants.
+In addition, two other judgments were required:
+"Is ingratiating. Attempts to do or say things designed to make others like him more" (same 4-point
+scale as above) and "How much do you like this
+
+person?" (very much, moderately, somewhat, not at
+all).
+
+Results and Discussion
+Each subject in the experiment served as a
+judge of six others and was in turn judged
+
+532
+
+MARK SNYDER
+
+by six other members of his living group. tions of appropriateness. He is also less vigiFor each person as a stimulus, ratings of him lant to such cues.
+High and low scorers on the M-C SDS, by
+were summed across his six judges to form a
+single score on each dimension which could contrast, do not differ in these characteristics.
+range from 0 (six ratings of not at all true) In fact, the evidence suggests that if in fact
+to 18 (six ratings of very true). For each the M-C SDS is a measure of need for apperson, a single "peer rating of self-monitor- proval, this need is not related to the ability
+ing" score was computed by summing across (as perceived by one's peers) to control and
+monitor one's self-presentation and emotional
+the six self-monitoring dimensions.
+The group of 16 subjects was then dichoto- expressive behavior on the basis of situationmized at the median to form a high-SM group to-situation variation in contingencies of social appropriateness.
+(n = 8) and a low-SM group (n = 8).
+Self-monitoring characteristics were seen as
+VALIDATION: SELF-MONITORING, STAGE
+more true of high-SM (M = SO.S) than of
+ACTORS, AND PSYCHIATRIC
+low-SM (M = 40.2) individuals (* = 2.69,
+WARD PATIENTS
+df=14, p<.02, two-tailed test). No difAnother
+means
+of establishing the validity
+ferences were observed between high-SM and
+low-SM individuals on ingratiation or liking of an instrument is by predicting how pre(t = .49 and .20, respectively, df = 14, ns). determined groups of individuals would score
+Mean peer rating of self-monitoring, in- when the instrument is administered to them.
+gratiation, and liking for high M-C SDS According to this strategy, SM scores of cri(above the median, n = 8) and low M-C SDS terion groups chosen to represent extremes in
+(below the median, n = 8) were also calcu- self-monitoring were compared with the unselated. In contrast to SM scores, M-C SDS lected sample of Stanford University underscores were unrelated to peer rating of self- graduates.
+monitoring (high M-C SDS M = S4.0, low
+M-C SDS M = 56.7, t - .59, df = 14, ns). Professional Stage Actors
+Groups of individuals known to be particuThe relationship between the SM, M-C
+SDS, and peer rating of self-monitoring may larly skilled at controlling their expressive
+be examined in terms of product-moment cor- behavior (e.g., actors, mime artists, and polirelations. There is a significant relationship ticians) should score higher on the SM than
+between the SM and peer rating of self-moni- an unselected sample. The SM was admintoring (r=A5, «//=14, p<.05). The istered to a group of 24 male and female drahigher an individual's score on the SM, the matic actors who were appearing in profesmore frequently self-monitoring character- sional productions at Stanford and in San
+istics were attributed to him. The M-C SDS Francisco.
+and peer rating of self-monitoring are not
+Their average score on the SM was 18.41
+with a standard deviation of 3.38. This is sigrelated (r = —.14, df = 14, ns).
+An image emerges of the high-SM indi- nificantly higher than the mean SM score for
+vidual as perceived by his peers. He is a per- the Stanford sample (f = 8.27, df - 555, p
+son who, out of a concern for acting appro- < .001).
+Thus, stage actors do score higher than
+priately in social situations, has become particularly skilled at controlling and modifying nonactors on the SM. Actors probably do
+his social behavior and emotional expression have particularly good self-control of their
+expressive behavior and self-presentation
+to suit his surroundings on the basis of cues
+while on stage. It is not clear that actors are
+in the situation which indicate what attitudes any more concerned about monitoring their
+and emotions are appropriate. The low-SM expressive presentation in other situations.
+individual, as perceived by his peers, is less
+able and/or less likely to control and modify Hospitalized Psychiatric Ward Patients
+The behavior of hospitalized psychiatric
+his self-presentation and expressive behavior
+to keep it in line with situational specifica- patients is less variable across situations than
+
+SELF-MONITORING OP EXPRESSIVE BEHAVIOR
+that of "normals." Moos (1968) investigated
+the reactions of patients and staff in a representative sample of daily settings in a psychiatric inpatient ward in order to assess the
+relative amount of variance accounted for
+by settings and individual differences. The
+results indicated that for patients, individual
+differences accounted for more variance than
+setting differences; whereas for staff, individual differences generally accounted for less
+variance than setting differences. One interpretation of this finding is that psychiatric
+ward patients are unable or unwilling to
+monitor their social behavior and self-presentation to conform to variations in contingencies of social appropriateness between situations. In fact, diagnoses of "normal" and
+"psychopathological" may be closely related
+to cross-situational plasticity or rigidity
+(Cameron, 1950). Moos (1969) has reported
+that situational factors play an increasingly
+potent role in the behavior of institutionalized
+individuals as therapy progresses.
+Accordingly, it was expected that a sample
+of hospitalized psychiatric ward patients
+should score lower on the SM than nonhospitalized normals.
+The SM was administered to 31 male hospitalized psychiatric patients at the Menlo
+Park Veterans Administration Hospital. Their
+psychiatric diagnoses varied, and most had
+been previously institutionalized. Each patient's cumulative length of hospitalization
+varied from several months to several years.
+The average SM score for this group was
+10.19 with a standard deviation of 3.63. This
+is significantly lower than the mean SM score
+for the Stanford sample (t = 3.44, dj = 562,
+p< .001).
+VALIDATION: SELF-MONITORING AND THE
+EXPRESSION OF EMOTION
+If the SM discriminates individual differences in the self-control of expressive behavior, this should be reflected behaviorally.
+In a situation in which individuals are given
+the opportunity to communicate an arbitrary
+affective state by means of nonverbal expressive behavior, a high-SM individual should be
+able to perform this task more accurately,
+easily, and fluently than a low SM.
+
+533
+
+Method
+Subjects: Expression of Emotion
+Male and female students whose SM scores were
+above the 75th percentile (SM > IS) or below the
+25th percentile (SM < 9) were recruited by telephone from the pool of pretested introductory psychology students. In all, 30 high-SM and 23 lowSM subjects participated in the study and received
+either course credit or $1.50.
+
+Procedure: Expression of Emotion
+Each subject was instructed to read aloud an
+emotionally neutral three-sentence paragraph (e.g.,
+"I am going out now. I won't be back all afternoon. If anyone calls, just tell him I'm not here.")
+in such a way as to express each of the seven emotions anger, happiness, sadness, surprise, disgust,
+fear, and guilt or remorse using their vocal and
+facial expressive behavior. The order of expression
+was determined randomly for each subject. The
+subject's facial and upper-body expressive behavior
+was filmed and his voice tape-recorded. It was
+suggested that he imagine he was trying out for a
+part in a play and wanted to give an accurate,
+convincing, natural, and sincere expression of each
+emotion—one that someone listening to the tape or
+watching the film would be able to understand as
+the emotion the subject had been instructed to express. The procedure is similar to one used by
+Levitt (1964).
+These filmed and taped samples of expressive
+behavior were scored by judges who indicated
+which of the seven emotions the stimulus person
+was expressing. Accuracy of the judges was used as
+a measure of the expressive self-control ability of
+the stimulus subjects.
+
+Judgments of Expressive Behavior: Subjects
+The films and tapes of expressive behavior were
+scored by a group of 20 high-SM (SM > 15, or
+top 25%) and 13 low-SM (SM < 9, or bottom
+25%) naive judges who were paid $2.00 an hour.
+
+Judgments of Emotional Expressive
+Behavior: Procedure
+Judges participated in small groups of both highand low-SM judges who watched films for approximately one fourth of the subjects in the expression
+experiment and listened to the tapes of approximately another one fourth of the subjects. For each
+stimulus segment, judges indicated which of the
+seven emotions had been expressed.
+
+Results and Discussion
+Accuracy of Expression and SM Scores
+Accuracy of the judges in decoding the
+filmed and taped expressive behavior for each
+stimulus person was used as a measure of his
+
+534
+
+MARK SNYDER
+
+self-control of expressive behavior ability. For
+each of the 53 subjects in the expression
+task, the average accuracy of his judges was
+computed separately for films and tapes and
+high- and low-SM judges. Table 2 represents
+these accuracy scores as a function of stimulus (expresser) SM scores, facial or vocal
+channel of expression, and judge SM score
+for naive judges. Each stimulus person expressed seven emotions. Therefore, mean accuracy scores can range from 0 to 7.
+The average accuracy scores for each stimulus person's facial and vocal expressive behavior, as judged by high-SM and low-SM
+judges, were entered into an analysis of variance. Expresser SM score (high SM or low
+SM) was a between-stimulus-persons factor;
+channel of expression (face or voice) and
+judge SM score (high SM or low SM) were
+within-stimulus-persons factors.
+The following pattern of results emerges.
+Individuals who scored high on the SM were
+better able to communicate accurately an
+arbitrarily chosen emotion to naive judges
+than were individuals who scored low on the
+SM. That is, judges were more often accurate
+in judging both the facial and vocal expressive behavior generated in this emotion communication task by high-SM stimuli than by
+low-SM stimuli (F - 11.72, df = 1/51, p <
+.01). For both high- and low-SM stimuli,
+accuracy was greater in the vocal than the
+facial channel (F = 19.12, df = 1/153, p <
+.001). Finally, there was a tendency for highTABLE 2
+SM AND ACCURACY OF EXPRESSION 'OP EMOTION :
+NAIVE JUDGES
+High-SM judge
+
+Low-SM judge
+
+Face
+
+Voice
+
+Face
+
+Voice
+
+3.353
+.718
+
+4.047
+.636
+
+3.196
+1.117
+
+3.564
+1.769
+
+2.518
+1.348
+
+2.957
+.982
+
+2.493
+1.479
+
+3.094
+2.102
+
+Stimulus
+High SM
+(n = 30)
+
+M"
+Variance
+Low SM
+(*• = 23)
+
+M
+Variance
+
+Note.
+SM = Self-Monitoring Scale.
+Q
+Average accuracy computed for each stimulus across all
+judges who rated him and then averaged across « stimulus
+persons; range = 0-7.
+
+SM judges to be better judges of emotion
+than low-SM judges (F - 1.69, df = 1/153,
+p< .25). In addition, high-SM judges may
+have been more differentially sensitive to the
+expressive behavior of high- and low-SM
+stimuli. That is, the difference in accuracy
+for judging high-SM and low-SM stimuli for
+high-SM judges was greater than the corresponding difference for low-SM judges. However, once again the differences are not significant (F = 2.41, df = 1/153, p < .25).
+Discriminant Validation: SM versus M-C
+SDS
+In the sample of 192 from which the subjects for the expression task were selected,
+scores on the SM and M-C SDS were very
+slightly correlated (r = — .1874). However,
+in the sample of 53 subjects chosen for this
+experiment, the correlation was —.3876 (df
+= 51, p < .01). Furthermore, individuals
+who scored below the median on the M-C
+SDS were better able than those who scored
+above the median to voluntarily communicate
+emotion in this experimental task (F = 4.426,
+df=l/5l, / > < .05). These differences present a rival explanation of the differences observed in self-control of expressive behavior
+between high-SM and low-SM groups.
+To discriminate between the SM and M-C
+SDS as predictors of self-control of expression ability, two analyses of covariance were
+performed. In the first, accuracy scores for
+naive judges collapsed across judge SM score
+and channel were examined as a function of
+stimulus SM scores as the independent variable and stimulus M-C SDS scores as the covariate. After removing the effects of the
+covariate (M-C SDS), there is still a highly
+significant treatment (SM) effect (F = 7.13,
+df = 1/50, p < .01). That is, individuals who
+scored high on the SM were better able than
+low-SM scorers to accurately express and
+communicate arbitrary emotions independent
+of their M-C SDS scores.
+In the second analysis of covariance, accuracy scores for naive judges collapsed across
+judge SM score and channel were examined
+as a function of stimulus M-C SDS as the
+independent variable and stimulus SM scores
+as the covariate. The results of this analysis
+
+SELF-MONITORING OF EXPRESSIVE BEHAVIOR
+are quite conclusive. After removing the effects of the covariate (SM), there is no remaining relationship between the independent
+variable (M-C SDS) and expression accuracy
+(F=..7S, d / = l / S O , ns). That is, whatever relationship exists between M-C SDS
+scores and self-control of expression ability is
+entirely accounted for by the slight negative
+correlation between the M-C SDS and SM.
+Thus, the results of this experiment clearly
+indicate that scores on the SM are related to
+the self-control of expressive behavior. HighSM individuals were better able than lowSM individuals to express arbitrary emotional states in facial and vocal behavior.
+VALIDATION: SELF-MONITORING AND
+ATTENTION TO SOCIAL COMPARISON
+INFORMATION
+It has been proposed that out of a concern
+for social appropriateness of his behavior, a
+high-SM individual is particularly attentive
+to social comparison information and uses
+this information as guidelines to monitor and
+manage his self-presentation and expressive
+behavior.
+Consistent with this formulation, high-SM
+individuals are seen by their peers as better
+able to learn what is socially appropriate in
+new situations than are low-SM. Two SM
+items which best predict performance in the
+emotion expression task are: "When I am
+uncertain how to act in a social situation, I
+look to the behavior of others for cues," and
+"I laugh more when I watch a comedy with
+others than when alone."
+All of this suggests that, given the opportunity in a self-presentation situation, a highSM individual should be more likely to seek
+out relevant social comparison information.
+Method
+Subjects
+Subjects were recruited from the pretested introductory psychology subject pool on the basis of highSM scores (SM > IS) or low-SM scores ( S M < 9 ) .
+A total of 14 high-SM and 13 low-SM subjects
+participated in the experiment and were paid $1.00.
+
+Procedure
+Each subject performed a self-presentation task in
+a situation designed to facilitate self-monitoring. He
+
+535
+
+was asked to respond to a series of true-false selfdescriptive personality test items in preparation for
+a discussion of how test-takers decide how to respond to ambiguously worded questionnaire items,
+During the task he was given the opportunity to
+consult a "majority response sheet" which listed the
+modal response of his introductory psychology class
+for each item in order to consider possible alternative interpretations of the items in preparation for
+the discussion.
+Pretesting had indicated that the task was interpreted as neither social pressure to consult the information nor a test of resistance to temptation to
+cheat. Rather it appears that a situation was created in which the subjects knew that normative
+social comparison information was available to
+them and they could consult it or not as they wished
+in preparation for a later discussion of their selfdescriptions on the questionnaire items.
+Unknown to the subject who performed this task
+alone, an observer in the next room recorded the
+frequency with which the subject consulted the
+majority response sheet and timed each look. The
+sheet had been left by the experimenter at the far
+corner of the subject's table so that consulting it
+required observable but not effortful behavior by
+the subject. It was expected that a high-SM subject would look more often, as measured by frequency and duration of looking, at this social comparison information than would a low-SM subject.
+
+Results and Discussion
+Results on the dependent measures of seeking out of social comparison information
+were analyzed as a function of both SM and
+M-C SDS scores (rSM,M_0 SDS = -.067, dj =
+25, ns) in a 2 X 2 (High SM, Low SM X
+High M-C SDS, Low M-C SDS) unweighted
+means analysis of variance.
+There were three measures of seeking out
+social comparison information during the selfpresentation task: (a) frequency of looking
+at the majority response sheet as recorded by
+the observer; (b) frequency of looking at the
+majority response sheet as measured by the
+subject's retrospective self-report; and (c)
+total duration of looking at the majority response sheet as timed by the observer. These
+three measures are highly intercorrelated (r&
+= .92, r13 = .90, r2S = .83, df = 2 5 , p <
+.001). The means for each of these measures
+are presented in Table 3.
+For frequency of looking as recorded by an
+observer, a high-SM subject looked more frequently than a low-SM at the majority response sheet (F = 4.70, df = 1/23, p < .05).
+
+MARK SNYDER
+
+536
+
+TABLE 3
+THREE MEASURES or LOOKING AT SOCIAL
+COMPARISON INFORMATION
+Measure
+High SM, low
+M-C SDS
+High SM, high
+M-C SDS
+Low SM, low
+M-C SDS
+Low SM, high
+M-C SDS
+
+n
+
+Total
+duration of
+Frequency Frequency
+of looking* of looking1* looking (in
+seconds)
+
+6
+
+14.67
+
+15.83
+
+20.83
+
+8
+
+12.25
+
+12.25
+
+19.38
+
+7
+
+5.14
+
+5.83
+
+5.43
+
+6
+
+4.83
+
+4.13
+
+4.83
+
+Note. SM = Self-Monitoring Scale; M-C SDS = MarloweCrowne
+Social Desirability Scale.
+a
+Recorded by observer.
+b
+Subject's self-report.
+
+Given the opportunity to consult social comparison information in a self-presentation
+situation in which they expected to justify
+their self-descriptions, high self-monitors did
+so more frequently than did low self-monitors.
+There was no systematic relationship between M-C SDS and looking behavior (F —
+.122, dj = l/23,ns), nor was there any interaction between SM and M-C SDS scores (F
+= .011, df = 1/23, ns). Thus, there was no
+relationship between the tendency to describe
+oneself in socially desirable fashion and consulting social comparison information in this
+self-presentation situation.
+Analyses of subjects' self-report of looking
+behavior and total time looking measured by
+the observer result in identical conclusions.
+For either measure, high-SM subjects were
+more likely than low-SM to seek out social
+comparison information.
+CONCLUSIONS
+Individuals differ in the extent to which
+they monitor (observe and control) their expressive behavior and self-presentation. Out
+of a concern for social appropriateness, the
+self-monitoring individual is particularly sensitive to the expression and self-presentation
+of others in social situations and uses these
+cues as guidelines for monitoring and managing his own self-presentation and expressive
+behavior. In contrast, the non-self-monitoring
+person has little concern for the appropriateness of his presentation and expression, pays
+less attention to the expression of others, and
+
+monitors and controls his presentation to a
+lesser extent. His presentation and expression
+appear to be controlled from within by his
+experience rather than by situational and
+interpersonal specifications of appropriateness.
+A self-report measure of individual differences in self-monitoring was constructed. The
+Self-Monitoring Scale is internally consistent,
+temporally stable, and uncorrelated with selfreport measure of related concepts.
+Four studies were conducted to validate the
+Self-Monitoring Scale. According to their
+peers, individuals with high SM scores are
+good at learning what is socially appropriate
+in new situations, have good self-control of
+their emotional expression, and can effectively
+use this ability to create the impressions they
+want. Theater actors scored higher and hospitalized psychiatric ward patients scored
+lower than university students. Individuals
+with high SM scores were better able than
+those with low SM scores to intentionally
+express and communicate emotion in both the
+vocal and facial channels of expressive behavior. In a self-presentation task, individuals
+with high SM scores were more likely than
+those with low scores to seek out and consult
+social comparison information about their
+peers. Self-monitoring and need for approval
+were compared as predictors of each external
+criterion to demonstrate the discriminant
+validity of the SM.
+REFERENCES
+Alpert, R., & Haber, R. Anxiety in academic achievement situations. Journal of Abnormal and Social
+Psychology, 1960, 61, 207-215.
+Anastasi, A. Psychological testing. New York: Macmillan, 1968.
+Bern, D. J. Constructing cross-situational consistencies in behavior: Some thoughts on Alker's
+critique of Mischel. Journal of Personality, 1972,
+40, 17-26.
+Buck, R., Savin, V. J., Miller, R., & Caul, W. F.
+Nonverbal communication of affect in humans.
+Journal of Personality and Social Psychology,
+1972, 23, 362-371.
+Cameron, N. W. Role concepts in behavior pathology. American Journal of Sociology, 1950, 55,
+464-467.
+Campbell, D. J. Recommendations for APA test
+standards regarding construct, trait, and discriminant validity. American Psychologist, 1960, 15,
+S46-S53.
+Campbell, D. J., & Fiske, D. W. Convergent and
+discriminant validation by the multitrait-multi-
+
+SELF-MONITORING or EXPRESSIVE BEHAVIOR
+method matrix. Psychological 'Bulletin, 1959, 56,
+81-105.
+Christie, R., & Geis, F. L. Studies in Machiavellianism. New York: Academic Press, 1970.
+Cronbach, L. J., & Meehl, P. E. Construct validity
+in psychological tests. Psychological Bulletin,
+195S, 52, 281-302.
+Crowne, D. P., & Marlowe, D. The approval motive. New York: Wiley, 1964.
+Davitz, J. R. (Ed.) The communication of emotional meaning. New York: McGraw-Hill, 1964.
+Ekman, P. Universals and cultural differences in
+facial expressions of emotion. In J. Cole (Ed.),
+Nebraska Symposium on Motivation: 1971. Lincoln: University of Nebraska Press, 1971.
+Ekman, P., & Friesen, W. V. Nonverbal leakage and
+clues to deception. Psychiatry, 1969, 32, 88-105.
+Ekman, P., & Friesen, W. V. Judging deception
+from the face or body. Paper presented at the
+meeting of the Western Psychological Association, Portland, Oregon, April 1972.
+Freud, S. Fragment of an analysis of a case of
+hysteria (1905). In, Collected Papers. Vol. 3.
+New York: Basic Books, 1959.
+Goffman, E. On face work: An analysis of ritual
+elements in social interaction. Psychiatry, 1955,
+18, 213-221.
+Hall, E. T. The hidden dimension. Garden City,
+N.Y.: Doubleday, 1966.
+Kassarjian, W. M. A study of Riesman's theory of
+social character. Sodomelry, 1962, 25, 213-230.
+
+537
+
+Levitt, E. A. The relationship between abilities to
+express emotional meanings vocally and facially.
+In J. R. Davitz (Ed.), The communication of
+emotional meaning. New York: McGraw-Hill,
+1964.
+Mehrabian, A. Significance of posture and position
+in the communication of attitude and status relationship. Psychological Bulletin, 1969, 71, 359-372.
+Mischel, W. Personality and assessment. New York:
+Wiley, 1968.
+Moos, R. H. Situational analysis of a therapeutic
+community milieu. Journal of Abnormal Psychology, 1968, 73, 49-61.
+Moos, R. H. Sources of variance in responses to
+questionnaires and in behavior. Journal of Abnormal Psychology, 1969, 74, 403-412.
+Nunnally, J. C. Psychometric theory. New York:
+McGraw-Hill, 1967.
+Ring, K., & Wallston, K. A test to measure performance styles in interpersonal relations. Psychological Reports, 1968, 22, 147-154.
+Schachter, S., & Singer, J. Cognitive, social, and
+physiological determinants of emotional state.
+Psychological Review, 1962, 69, 379-399.
+Sommer, R. Personal space. Englewood Cliffs, N.J.:
+Prentice-Hall, 1969.
+Zaidel, S., & Mehrabian, A. The ability to communicate and infer positive and negative attitudes
+facially and vocally. Journal of Experimental
+Research in Personality, 1969, 3, 233-241.
+(Received February 23, 1973)
+
+

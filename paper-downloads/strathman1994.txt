@@ -1,0 +1,1189 @@
+Journal of Personality and Social Psychology
+1994, Vol. 66, No. 4,742-752
+
+Copyright 1994 by the American Psychological Association, Inc
+0O22-3514/94/S3.OO
+
+The Consideration of Future Consequences: Weighing Immediate and
+Distant Outcomes of Behavior
+Alan Strathman, Faith Gleicher, David S. Boninger, and C. Scott Edwards
+We propose a new construct called consideration of future consequences (CFC), which is hypothesized to be a stable individual difference in the extent to which people consider distant versus immediate consequences of potential behaviors. Following a description of the construct itself, a measure
+of this individual difference is developed and validated. Data collected from 7 samples of college
+students indicates that the measure has acceptable reliability and validity. In addition, evidence of
+the role of CFC in regulating affective responses to negative events is reviewed. The utility of the CFC
+construct is demonstrated in 2 studies. The 1st study shows that CFC affects the extent to which
+individuals are influenced by a persuasive communication; the 2nd demonstrates that CFC predicts
+health and environmental behaviors better than do other related constructs. Areas of application
+and future research are discussed.
+
+Over the last several decades, advances in scientific technology and medical understanding have demonstrated that the extent to which individuals consider the future implications of
+current activities can have significant implications for their
+choice of behavior and, in the long run, for their life outcomes.
+For example, advances in medicine have clearly demonstrated
+the importance of whether individuals think about the longterm consequences of immediate behaviors. Several modern
+health problems (i.e., heart disease, AIDS, and some types of
+cancer) have now been found to be the direct result of behaviors
+that may have occurred 10 or 20 years before the onset of symptoms. Thus, many health campaigns now stress the idea that
+engaging in behaviors such as smoking, drinking, and eating nutritionally unsound foods may carry serious future costs for
+those who engage in them. The present research starts with the
+notion that there are clear and reliable individual differences
+in the extent to which individuals are likely to consider distant
+outcomes in choosing their present behavior. At one end of the
+continuum are those individuals who consider future outcomes
+as a matter of course. These individuals believe certain behaviors are worthwhile because of future benefits, even if immediate outcomes are relatively undesirable, or even if there are immediate costs. They are willing to sacrifice immediate benefits
+
+Alan Strathman, Department of Psychology and Center for Research
+in Social Behavior, University of Missouri, Columbia; Faith Gleicher,
+Department of Psychology, University of California, Santa Barbara; David S. Boninger, Department of Psychology, University of California,
+Los Angeles; C. Scott Edwards, Department of Psychology, Florida
+State University.
+We thank Bob Arkin, David Armor, Daphne Bugental, John Hetts,
+and three anonymous reviewers for their help during various phases of
+this research.
+Correspondence concerning this article should be addressed to Alan
+Strathman, Department of Psychology, University of Missouri, 210 McAlester Hall, Columbia, Missouri 65211. Electronic mail may be sent
+to psy371@mizzoul.missoun.edu.
+
+like pleasure or convenience to achieve more desirable future
+states.
+At the other end of the continuum are individuals who are
+not interested in considering possible future consequences.
+These individuals are more concerned with maximizing immediate benefits at the expense of costs or benefits that will not
+occur for some time, and they place a high priority on such
+immediate benefits. Thus, when individuals who do not typically consider future consequences encounter information
+about diminishing landfill space, they mayfindthis future-relevant information unpersuasive. This may be because they think
+that immediate goals are more important, or they may be more
+strongly influenced by the relatively more concrete and certain
+immediate consequences than by uncertain, probabilistic future outcomes.
+In this article, the Consideration of Future Consequences
+(CFC) Scale is presented as a measure of this individual difference, as is evidence attesting to the reliability and validity of the
+scale, and evidence that the construct is meaningful and has
+consequences for attitudes and behaviors. Although we consider
+this research to capture a unique aspect of future thought, the
+importance of concepts such as future time perspective and future orientation has been demonstrated in past research (see
+deVoider, 1979; deVoider & Lens, 1982; Fraisse, 1963; Lamm,
+Schmidt, & Trommsdorff, 1976;LeShan, 1952; Nuttin, 1964,
+1985; Nuttin & Lens, 1985; Wallace & Rabin, 1960; Zaleski,
+1992).
+Prior Conceptualizations and Operation of Future
+Orientation
+Typically, future orientation has been considered as a general
+preoccupation with the future or future events. This idea is reflected in researchers' definitions of future orientation and future time perspective. For instance, Kastenbaum (1961) defined
+future time perspective (FTP) as "a general concern for future
+events" (p. 204). Wallace (1956) described differences in FTP
+as "the length of the future time span over which one conceptualizes personalized future events" (p. 240).
+
+742
+
+743
+
+FUTURE CONSEQUENCES
+
+This common view of future orientation is also reflected in
+the measures typically used to measure future concern. Perhaps
+the most common measure (see Barndt & Johnson, 1955; Teahan, 1958) is to provide individuals with the beginning of a
+story that they are to finish. After the subjects complete the
+story, they are asked by the experimenter to estimate how much
+time passed in the duration of the story.
+Brock and Del Giudice (1963) used an additional measure of
+time orientation in which subjects were presented with a list of
+10 simple nouns (e.g., school and door) and 10 words related to
+time (e.g., minute, day, and tomorrow). Subjects were then asked
+to choose the 10 words that would be the best to use in telling a
+story. A third method (see, for example, Klineberg, 1968) involves asking subjects to recall 10 things that they have thought
+or spoken about during the preceding week or two. The experimenter then questions the subjects until the temporal focus of
+the thing about which they had thought or spoken is determined
+and the proportion of references to the past, present, and future
+is noted. A fourth method (see Lessing, 1972) involves asking
+subjects to choose a number of events they think about now or
+for which they have started to plan (e.g., buying a car, getting
+married, and having children). Subjects are then asked to estimate the number of years that will elapse before they expect
+each event to occur.
+One problem with these measures has been that they do not
+seem to provide consistent results. Studies that have used
+multiple measures have found patterns of data that are not consistent across measures, and studies that have used one measure
+of future orientation have tended not to replicate earlier work
+that had used a different measure of future orientation. In one
+study, Lessing (1968) measured future orientation with the future events test, the incomplete sentences measure, and the
+story completion task. Lessing found that the intercorrelations
+of these measures were .06 (incomplete sentences and story
+completion),. 10 (story completion and events), and .37 (incomplete sentences and events).
+A few researchers have used questionnaires to measure time
+orientation. Stewart (1976) developed the Stewart Personality
+Inventory (SPI), an 80-item scale composed of 8 subscales including one intended to measure future orientation. Respondents were asked to indicate which of the items they liked or
+thought they would like. Items on the Future Orientation subscale included "planning the future" and "thinking about distant goals." Unfortunately, a factor analysis of the items (Stewart & Ahmed, 1984) yielded 10 interpretable factors, none of
+which could be considered future orientation.
+In a recent dissertation, Sanders (1986) developed a series of
+questions designed to measure subjective time experience. Six
+factors were identified, including a Future Orientation factor.
+Items on the Future Orientation subscale included "I think a lot
+about the future" and "Much of my talk is about the future."
+However, no information concerning the reliability or validity
+of the questions intended to address future orientation was included.
+The Stanford Time Perspective Inventory (Zimbardo, 1990)
+consists of 38 items tapping the dimensions of past, present, and
+future orientation. Gonzalez and Zimbardo (1985) described
+seven factors, four of which they considered future-oriented factors. Gonzalez and Zimbardo labeled these four factors Work
+
+Motivation, Goal Seeking, Daily Planning, and Pragmatic Action for Future Gain. It is this last subscale that is most similar
+to the present measure. Items loading on this factor included
+"It makes sense to invest a substantial part of my income in
+insurance premiums" and "I believe it is important to save for
+a rainy day."
+
+Consideration of Future Consequences
+Both the questionnaire methods and the more projective
+measures are similar to the present method of measurement in
+that they are attempts to measure a relatively stable construct.
+They differ from the present method in that they typically measure a general preoccupation with the future or concern with
+specific future events. Although this preoccupation with present and future time is interesting, it represents a significantly
+different construct from the consideration of future consequences presented in this article.
+The CFC refers to the extent to which individuals consider
+the potential distant outcomes of their current behaviors and
+the extent to which they are influenced by these potential outcomes. It involves the intrapersonal struggle between present
+behavior with one set of immediate outcomes and one set of
+future outcomes. Whether particular individuals resolve this dilemma between present and future in favor of one or the other
+is hypothesized to be a relatively stable characteristic. Individuals low in CFC are expected to focus more on their immediate,
+versus distant, needs and concerns, and are thus expected to act
+to satisfy these immediate needs. At the extreme end of this
+continuum, individuals may not even consider future consequences of their behavior. In contrast, people who are high in
+CFC are expected to consider the future implications of their
+behavior and to use their distant goals as guides for their current
+actions. Again, in extreme cases, they may not consider immediate implications at all.
+Scale Development and Validation
+Three samples of college students received a set of 24 statements generated by us. These statements were intended to determine the degree to which each individual considered distant
+outcomes when deciding on his or her present behavior. Sample
+1 comprised college students at the University of Missouri.
+Samples 2 and 3 were college students at the University of California, Los Angeles, who were administered the CFC as part
+of other ongoing investigations. From these 24 items, we used
+reliability assessments and factor loadings to identify a subset of
+12 items (see the Appendix) that provided a valid and reliable
+measure of CFC. Four additional samples of respondents (Samples 4-7) received only these 12 items of interest. Subsets of
+respondents from Samples 1 and 4 returned at a later time to
+provide data concerning stability of the measure. In addition to
+these seven samples of students, an eighth sample of respondents was composed of individuals who belonged to student organizations involved in issues related to social causes at the University of Missouri. Indices of reliability and validity, described
+later in this article, are reported only for the four administrations of the reduced 12-item scale (data for all administrations
+can be found in Table 1).
+
+744
+
+STRATHMAN, GLEICHER, BONINGER, AND EDWARDS
+Table 1
+
+Descriptive Information About the Six Administrations of the
+Consideration ofFuture Consequences Scale
+Sample receiving
+24-item scale
+sample
+Time
+Location
+n
+M
+SD
+Cronbach's a
+
+Sample receiving
+12-item scale
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Fall
+1991
+
+UMC
+167
+
+Fall
+1991
+UCLA
+
+Spring
+1992
+UCLA
+
+Fall
+1992
+
+Spring
+1993
+
+Spring
+1993
+
+294
+
+267
+
+UMC
+323
+
+UMC
+379
+
+UMC
+153
+
+Spring
+1993
+UCSB
+138
+
+43.8
+7.08
+.817
+
+44.3
+7.84
+.819
+
+44.1
+6.93
+.784
+
+41.4
+7.86
+.800
+
+43.1
+7.02
+.816
+
+43.8
+7.64
+.860
+
+41.9
+7.06
+.805
+
+Note. UMC = University of Missouri; UCLA = University of California, Los Angeles; UCSB = University
+of California, Santa Barbara.
+
+Indications ofReliability
+Internal Consistency
+Cronbach's alpha was computed for each of the four samples
+that received the reduced version of the scale (see Table 1). Coefficient alphas for the four samples were .80 (item-total correlation range of .26-.67), .82 (item-total correlation range of
+.30-.70), .86 (item-total correlation range of .32-.71), and .81
+(item-total correlation range of .27-.64).
+Stability
+To examine the stability of the CFC Scale over time, we computed test-retest reliability for Samples 1 and 4. Eighty-eight of
+the original 167 respondents from Sample 1 returned after a 2week interval and completed the identical measure. The correlation between the first and second administration was .76, p
+< .001. Of the original 323 respondents from Sample 4, 102
+returned after a 5-week interval and completed the identical
+measure. The correlation between the first and second administration was .72, p < .001. These correlations provide evidence
+of the temporal stability of the CFC Scale.
+Factor Analyses
+Factor analyses of the CFC Scale occurred in two phases. We
+conducted exploratory factor analysis on Sample 1 to eliminate
+items that did not load on the underlying factor of consideration
+of future consequences. Principal factors analysis on data from
+Sample 1 indicated that a one-factor solution provided the best
+fit of the data. Of the 12 items retained in the CFC Scale, factor
+loadings ranged from .30-.72, and the one factor accounted for
+94.6% of the variance.
+Because confirmatory factor analyses provide a stronger test
+of the hypothesized factor structure of the scale items than do
+exploratory analyses, data from Samples 2, 3, and 4 were subjected to confirmatory factor analysis using the factor pattern
+determined by the exploratory factor analysis of Sample 1. Confirmatory factor analysis was accomplished by using the LISREL VII program (Joreskog & Sorbom, 1990). Our goal was to
+confirm that data from Samples 2, 3, and 4 conformed to the
+
+proposed one-factor model identified in Sample 1. Although
+chi-square statistics indicated statistically significant differences
+between the observed and predicted covariance matrixes for
+Sample 2, x2(54, TV = 294) = 117.82, p < .001, Sample 3, x 2 (54,
+N = 267) = 156.24, p < .001, and Sample 4, x2(54, TV = 323) =
+222.41, p < .001, it is well-known that chi-square statistics offer
+overly conservative estimates of the goodness of fit of a model
+(seeBurt, 1973).
+Because the chi-square statistic is too conservative to provide
+an informative measure offit,a number of researchers have proposed alternative indices of goodness of fit. One such indicator
+of fit, proposed by Wheaton, Muthen, Alwin, & Summers
+(1977), is the ratio of the chi-square to its degrees of freedom.
+Wheaton et al. suggested that a ratio of 5:1 or less indicates adequatefit.Our ratios of 2.18:1,2.89:1, and 4.11:1 for Samples 2,
+3, and 4, respectively, fall well below Wheaton et al.'s acceptable
+limit. We also computed one other commonly used indication
+of fit, the root-mean-square residual (RMSR). The RMSR can
+be thought of as an average of the discrepancies between the
+observed and predicted correlation (or covariance) matrices
+(Loehlin, 1992). As such, RMSR can range from 0 to 1, with
+good fit being indicated by values close to 0. Computation of
+the RMSR confirms that a single factor solution for data from
+Sample 2 (RMSR = .057), Sample 3 (RMSR = .059), and Sample 4 (RMSR = .069) provides an adequate fit.
+
+Indications of Validity
+Three pieces of evidence demonstrating the validity of the
+CFC Scale are presented. First, to provide convergent validity,
+data concerning the relationship between the CFC Scale and
+other relevant individual-differences measures is presented.
+Second, scores from the first four samples of respondents are
+compared with scores from a separate group of respondents
+that constitutes a known group. Third, the results of an experimental investigation involving the CFC Scale are presented. Finally, we present data that provides evidence that the CFC Scale
+accounts for unique variance in a number of dependent variables over and above several related measures.
+
+FUTURE CONSEQUENCES
+
+Relationship With Other Measures
+Evidence for the notion that orientation toward the future is
+related to willingness to delay gratification (see Mischel, 1958)
+was provided by Klineberg (1968). In this study, Klineberg
+found that preference for a larger, delayed reward over a smaller,
+immediate reward was related to the degree of everyday preoccupation with the future. To assess the relationship between the
+delay of gratification and consideration of future consequences,
+respondents from Sample 1 completed a 12-item instrument
+intended to assess a general trait of deferment of gratification
+(Ray & Najman, 1986). The correlation between the CFC Scale
+and Ray and Najman's Deferment of Gratification Scale was
+.47,p<.001(n = 167).
+We also expected orientation toward the future to be positively related to locus of control (see Rotter, Chance, & Phares,
+1972). Franklin (1963) and Rotter and Mulry (1965) found evidence that locus of control was positively related to degree of
+achievement motivation. Teahan (1958) found evidence of a
+similar relation between achievement motivation and future
+orientation, and Nurmi (1987) and Platt and Eisenman (1968)
+found evidence of a relation between future orientation and locus of control. To examine the relation between locus of control
+and CFC, subjects from Sample 1 also completed the InternalExternal Locus of Control Scale (Rotter, 1966). The correlation
+between the I-E Scale and the CFC Scale was .25, p < .01 (n =
+167). The magnitude of this correlation is interesting because it
+indicates that there is a significant, albeit modest, relationship
+between CFC and locus of control. The low correlation suggests
+that perceived control over outcomes represents only one component of the tendency to consider future outcomes.
+Finally, subjects in this first sample received the Stanford
+Time Perspective Inventory (Zimbardo, 1990). As mentioned
+earlier, this measure consists of items assessing past, present,
+and future orientation. Scores on the CFC Scale were correlated
+with the future orientation items of the Stanford measure. This
+correlation was .43, p < .001 (« = 167), indicating, not surprisingly, that the CFC Scale is related to a more general preoccupation with the future.
+Comparison With a Known Group
+We have identified social activism as one type of behavior
+likely to be influenced by a consideration of future consequences. We hypothesize this to be the case because there are
+often no immediate positive outcomes of such activities. In addition, the future outcomes may be very distant or may never be
+experienced by the activist. For instance, individuals working to
+reduce the emissions leading to global warming must realize
+that because of the slow rate at which regulations are enacted,
+obvious signs of a reverse in warming may not be seen for many
+years. If this is the case, then activists ought to be high in the
+extent to which their behavior is influenced by future outcomes,
+indicating a willingness to forgo immediate outcomes in favor
+of distant ones.
+To test this possibility, we recruited a separate sample of respondents from University of Missouri student organizations
+involved in social causes. This sample of respondents (« = 22)
+was drawn from four such organizations: College Democrats,
+
+745
+
+Black Students for Progressive Change, Committee Against Intervention, and National Organization for the Reform of Marijuana Laws. Samples 1, 2, 3, and 4 and the activist sample were
+entered as afive-levelindependent variable in a one-way analysis of variance (ANOVA) with score on the CFC Scale as the
+dependent variable. This analysis yielded a significant F value,
+F(3, 746) = 5.20, p < .05. Mean scores on Samples 1 (M =
+43.8), 2 (M = 44.3), 3 (M = 44.1), and 4 (M = 41.4) were not
+found to be significantly different from each other by the Newman-Keuls test, but each was significantly different from the
+mean score of the activist sample (M - 52.3).
+Psychological Consequences of CFC
+Another method of demonstrating the usefulness of an individual-differences measure is to show that it predicts response
+patterns in theoretically expected ways. The extent to which
+people consider the future consequences of current behaviors is
+likely to have an important impact on attitudes, behaviors, and
+information processing. A test of the impact of CFC on information processing is reported by Boninger, Gleicher, & Strathman (1993).
+This study examined the effects of CFC and a manipulated
+future focus on individuals' affective responses to counterfactual simulations of reality. Much research has suggested that
+when people experience negative outcomes, they spontaneously
+consider hypothetical alternative outcomes (i.e., "what could
+have been"; e.g., Wells & Gavanski, 1989). If the counterfactual
+alternatives that are considered can change the negative outcome to something neutral or even positive, the individual feels
+worse about what actually happened to him or her than if she or
+he does not consider the counterfactual at all or if the counterfactual does not change the negative outcome (e.g., Kahneman
+& Miller, 1986).
+Boninger et al. (1993) suggested a qualification to this influence of counterfactual thought on affect. They noted that sometimes counterfactuals can prepare people to deal with future
+events (see also Markman, Gavanski, Sherman, & McMullen,
+1993). Whereas people who are concerned primarily with present outcomes would be unlikely to be affected by this feature of
+counterfactuals, those people who are concerned with future
+outcomes would be expected to be reassured at knowing that
+they have learned something that will be of use to them in the
+future. Boninger et al. thus predicted that subjects who were
+guided to dwell on a negative event that just happened, regardless of their level of CFC, would feel particularly bad when there
+was a counterfactual that could have changed the negative outcome. However, they expected that of subjects who were guided
+to think about the future, only those low in CFC would feel bad.
+The negative affect of subjects high in CFC, in contrast, was
+expected to be alleviated by thoughts of future preparation.
+In the experiment (Boninger et al., 1993, Experiment 2), subjects imagined they were an athlete who was preparing to compete in pre-Olympic national competitions. Subjects read and
+imagined that just before theirfirstnational race, they sustain a
+painful ankle injury. They are given a choice of two drugs to
+take to alleviate the pain. They choose one of the drugs, which
+effectively reduces the pain but induces nausea and fatigue that
+cause them to lose the race. In this situation, the available
+
+746
+
+STRATHMAN, GLEICHER, BONINGER, AND EDWARDS
+
+counterfactual that subjects consider is that they could have
+taken the other drug. Some subjects read that other athletes who
+took the other drug suffer the same side effects that they do (i.e.,
+no change in outcome). Other subjects read that the other athletes who took the other drug suffer no side effects (i.e., change
+in outcome; they could have won if they had taken the other
+drug). At the end of the scenario, subjects were either instructed
+to think about the race they just lost (present focus) or to think
+about the next race 2 weeks away (future focus).
+Consistent with predictions, findings on three measures of
+affect showed that subjects suffered more regret and blamed
+themselves more for the loss when they knew that the other athletes did not suffer the same side effects. More important, however, this negative affect was ameliorated for high-CFC subjects
+who thought about their next upcoming race. These high-CFC
+individuals, who tend to consider and try to influence future
+outcomes, presumably felt better about their loss because they
+learned something useful from their experience: next time they
+would take the better drug and possibly win. Low-CFC subjects,
+on the other hand, who weigh immediate outcomes more
+heavily, were not able to benefit from an induced future focus;
+their affect was not influenced by thoughts of how their current
+loss might lead to future gain. These data provide evidence that
+CFC has important psychological consequences.
+Experiment 1
+In the current research, we wanted to provide a further demonstration of the influence of CFC on behaviors, attitudes, and
+information processing. We therefore constructed a series of
+strict tests of the effects of CFC, expecting that if it is a consequential individual difference, it would exert its influence in a
+variety of domains.
+One goal of the current research was to provide an experimental demonstration of the effect of CFC on information processing. One implication of CFC is that high- and low-CFC individuals, when they consider the same current behavior, ought
+to be differentially concerned about the immediate and longterm consequences of that behavior. In other words, if high- and
+low-CFC individuals considered both immediate and distant
+consequences of the same behavior, we would expect low-CFC
+individuals to be more favorable toward the behavior if the immediate consequences were positive, regardless of the potential
+distant consequences. We would expect high-CFC individuals,
+on the other hand, to be more favorable toward the behavior if
+the distant consequences were positive, regardless of the current
+consequences.
+To examine these hypotheses, we presented high- and lowCFC subjects with a message that discussed both the advantages
+and disadvantages of increased oil drilling off the California
+coast. We expected our subjects, who were mostly young, proenvironmental California residents, to oppose increased oil
+drilling. However, we also expected that CFC would influence
+how subjects responded to the message. Because offshore drilling tends to be perceived as bad for the environment, we expected high-CFC subjects to weight long-term environmental
+concerns relatively high in their evaluation of the advantages
+and the disadvantages of increased drilling. Thus, we expected
+high-CFC subjects to be more critical of the arguments in favor
+
+of offshore drilling and to oppose it more than low-CFC subjects.
+Finally, we expected that the main effect of CFC would be
+modified by whether the advantages to increased drilling were
+framed as immediate or distant. We expected that when the advantages were framed as immediate, low-CFC subjects would
+be more favorable than they would be when the advantages were
+framed as distant. Conversely, we expected that when the advantages were framed as distant, high-CFC subjects would be
+more favorable than they would be when the advantages were
+framed as immediate.
+
+Method
+Subjects
+Two hundred eight students in an introductory social psychology
+course at UCLA participated in exchange for extra course credit.
+
+Procedure
+All subjects received a booklet that presented the study as a series of
+pretests of materials to be used in experiments the following quarter.
+They were informed that they would be asked to answer several sets of
+questions about their attitudes and behaviors and to read and respond
+to an essay. First, subjects were asked several questions pertaining to a
+variety of behaviors and attitudes. The target item asked subjects to indicate (on a 7-point scale that ranged from not at all to very much) how
+concerned they were about environmental issues. This item served as a
+covariate in the experiment.
+After they completed the attitude and behavior survey, subjects read
+a two-sided message on the topic of oil drilling off the coast of California.
+All versions of the message presented four main arguments describing
+the consequences of offshore drilling: two in favor of offshore drilling
+(arguing that increased drilling would lead to a reduction in dependence
+on nuclear power and to a reduction of gas and oil prices) and two
+against it (arguing that increased drilling would lead to oil seepage and
+to a diversion of research funds from alternative sources of energy). Although the same advantages and disadvantages were presented in all
+conditions, we manipulated the temporal framing of these consequences. In one version of the message, the advantages were presented
+as immediate and the disadvantages as distant. In this message, for example, offshore drilling was described as likely to lead directly to immediate reductions in gas prices, whereas the pollution caused by oil seepage would not be likely to be seen for many years. In the other version
+of the essay, the timing of the advantages and disadvantages was
+switched, such that the disadvantages were immediate and the advantages distant. In this essay, then, gas prices were predicted to drop eventually, but not for several years, whereas oil seepage would lead to immediate increases in pollution. We also manipulated whether the advantages or disadvantages were presented first.
+After subjects read the message, they completed a thought listing task
+in which they wrote down all the thoughts that crossed their minds as
+they read the message. They then responded to three 9-point scales that
+assessed their attitudes toward increased offshore drilling. These scales
+assessed the extent to which subjects favored offshore drilling (from not
+at all in favor to very much in favor), how positive they believed drilling
+to be (from negative to positive), and how good they believed drilling to
+be (from bad to good). Subjects completed several ancillary measures
+and then turned back to the thoughts they had listed and rated each
+thought for whether it was positive, negative, or neutral toward offshore
+oil drilling. Finally, subjects completed the 12-item version of the CFC
+Scale, were debriefed, and were dismissed.
+
+747
+
+FUTURE CONSEQUENCES
+
+Table 2
+Effect ofCFC and Framing ofConsequences on Attitudes
+Toward Increased Offshore Oil Drilling
+Measure of attitude
+Framing of
+advantages
+
+Negativepositive
+
+Not in favorin favor
+
+Badgood
+
+Low CFC subjects
+Immediate
+Distant
+
+3.84
+3.36
+
+Immediate
+Distant
+
+2.28
+2.83
+
+3.57
+3.47
+
+3.70
+3.47
+
+2.34
+2.68
+
+2.46
+2.83
+
+High CFC subjects
+
+Note. Ratings were made on 9-point scales. Higher numbers indicate
+more positive attitude toward increased offshore oil drilling. CFC =
+consideration of future consequences.
+
+Results
+CFC Scale
+Responses to the 12 items of the CFC Scale were averaged.
+Scores ranged from 1.67 to 5.00, with a median of 3.83. Ten
+subjects who failed to complete the scale were removed from
+further analyses.
+
+Attitudes Toward Offshore Oil Drilling
+To analyze subjects' responses to the persuasive message, subjects were divided into low- and high-CFC groups on the basis
+of a median split of the distribution of CFC scores. Their responses to the three measures of attitude toward increased offshore drilling were then analyzed in a 2 (CFC: low or high) X 2
+(framing of consequences: immediate or distant advantages) X
+2 (order: advantages or disadvantagesfirst)multivariate analysis
+of variance (MANOVA), in which their concern about the environment was entered as a covariate.'
+First, this analysis supported our initial assumptions regarding subjects' perceptions of offshore oil drilling. Subjects tended
+to oppose offshore drilling (overall M = 3.07, reliably below the
+midpoint on a 9-point scale). More important, the MANOVA
+yielded the predicted main effect of CFC (Wilks's X = .93), F(3,
+193) = 5.16, /7 < .003. Univariate analyses indicated that all
+three measures contributed significantly to this effect; compared with high CFC subjects, low CFC subjects reported that
+they were more in favor of drilling (Ms = 2.49 and 3.52), F(l,
+195) = 12.59, p < .0001, and that increased drilling was more
+positive (Ms = 2.52 and 3.58), F(l, 195) = 15.23, p < .0001,
+and better (Ms = 2.62 and 3.58), F(l, 195)= 10.87,p< .0001.
+The main effect of CFC was qualified by the predicted Framing of Consequences X CFC interaction (Wilks's X = .96), F(3,
+193) = 2.36, p = .07. The top two rows of Table 2 show that lowCFC subjects favored increased offshore drilling to a greater extent when its advantages, rather than its disadvantages, were
+portrayed as immediate. This pattern reversed for high-CFC
+subjects, as the bottom two rows of Table 2 indicate. High-CFC
+
+subjects favored increased drilling more when its advantages
+were portrayed as distant and its disadvantages as immediate.
+Univariate analysis indicated that the negative-positive measure was the strongest contributor to this effect, F(l, 195) =
+4.39, p < .04. Although the pattern of the interactions for the
+other two measures paralleled that of the negative-positive
+measure, the interactions were not significant (ps > . 10).2
+
+Thought Listings
+The number of positive and negative thoughts that subjects
+generated in response to the message were analyzed in the
+context of a 2 (CFC: low or high) X 2 (framing of consequences:
+immediate or distant advantages) X 2 (order: advantages or disadvantages first) X 2 (type of thoughts: negative or positive)
+mixed ANOVA, in which type of thoughts was a within-subjects
+measure. This ANO\ft indicated, first, that consistent with
+their generally negative attitude toward increased oil drilling,
+subjects tended to generate more negative (M = 3.74) than positive (M = 1.12) thoughts about drilling, F( 1, 200) = 131.99, p
+< .0001. A CFC X Type of Thought interaction, F(l, 200) =
+4.22, p < .04, also indicated that the effect of CFC on subjects'
+thoughts about offshore oil drilling paralleled its effects on their
+attitudes. Planned comparisons indicated that although they
+generated an equivalent number of positive thoughts about drilling (Ms = 1.24 and 1.01 for high- and low-CFC subjects, respectively), high-CFC subjects generated more negative
+thoughts about drilling (M = 4.10) than did low-CFC subjects
+(M = 3.34). The CFC X Framing of Consequences X Type of
+Thought interaction was not significant (p > .25).
+
+Discussion
+The results of this study support the validity of the CFC Scale
+and support the viability of the CFC construct. High- and lowCFC subjects in this study read an essay describing both the
+advantages and disadvantages of increased drilling. We predicted that, consistent with their greater concern for the environment, high-CFC subjects would respond less favorably than
+low-CFC subjects toward the proposal of increased drilling.
+Both subjects' attitudes and their thoughts in response to the
+essay were consistent with this prediction. Not surprisingly, our
+Southern Californian college-student subjects tended, as a rule,
+to be against offshore drilling. However, high-CFC subjects reported more critical attitudes toward increased drilling than did
+low-CFC subjects. Furthermore, their thought listings indicated
+1
+
+As recommended by Hull, Tedlie, and Lehn (1992), we entered two
+covariates into our analysis of subjects' attitudes: concern about the environment and the interaction term of concern about the environment
+and framing of consequences.
+2
+The appropriate follow-up to the multivariate test provided by the
+MANOVA is to examine the canonical variate. We report the univariate
+tests because they are more easily interpreted and because they are completely consistent with the canonical correlations. The correlations between the canonical variable and each of the dependent measures are as
+follows: for unfavorable-favorable, r = —.30, for negative-positive, r =
+- . 7 8 , and for bad-good, r = —.38.
+
+748
+
+STRATHMAN, GLEICHER, BONINGER, AND EDWARDS
+
+that they counterargued more in response to the arguments in
+favor of drilling.
+The strongest test of the effect of CFC on subjects' responses
+to the essay was provided by the interaction of CFC and the
+framing of the advantages and disadvantages of offshore drilling. Low-CFC subjects, who care more about the immediate
+implications of current actions, were more persuaded when the
+advantages were presented as immediate and the disadvantages
+as far off. In contrast, consistent with their tendency to focus on
+the future implications of current actions, high-CFC subjects
+were more convinced when the advantages were distant and the
+disadvantages immediate.
+Experiment 2
+Our goal in Experiment 2 was to demonstrate the predictive
+ability of CFC over and above the predictive ability of other related individual-differences measures. By demonstrating this
+incremental validity, we can provide support for the idea that
+CFC is a unique and important construct that is not redundant
+with already established individual-differences measures.
+Method
+Subjects
+Sixty students in introductory psychology courses at the University of
+Missouri participated in exchange for extra course credit.
+
+Procedure
+All subjects received a booklet that contained questions concerning a
+wide variety of attitudes and behaviors. Of importance to this study
+were a series of questions regarding each individual's health-related behaviors and a series of questions regarding each individual's participation in environmentalism-related behaviors. These two topics were selected as dependent measures because we consider these topics to be
+ideal examples of the type of domain in which CFC should exert a
+strong influence.
+Along with these dependent measures, subjects completed a series of
+individual-differences measures that served as independent variables.
+These scales were selected for use because they seemed to be the most
+closely related to the CFC Scale and therefore provided the most stringent test of incremental validity.
+
+gaged in. The seven behaviors were "recycle glass or plastic, recycle
+newspaper, usefluorescentlight bulbs, walk or ride your bike instead of
+driving a car, turn off lights whenever you leave a room, use a watersaving shower head, and drive a fuel-efficient car."3 Summing the number of items checked by each subject yielded the measure of environmentalism behavior.
+
+Results
+Relation of CFC to the Dependent Variables
+Thefirststep in examining the predictive validity of the CFC
+Scale was to compute Pearson product-moment correlations
+between the CFC Scale and the health and environmentalism
+measures. Scores on the CFC Scale were significantly related to
+general concern for health, r(59) = .37, p < .01, and to number
+of cigarettes smoked, r(59) = -.35, p < .01, and marginally
+related to amount of alcohol consumed, r(59) = -.23, p < .09.
+In addition, scores on the CFC Scale were significantly related
+to extent of environmentalism behavior, r(59) = .38, p < .01.
+Relation of CFC to Other Personality Measures
+Mean scores on thefiveindividual-differences measures were
+M = 42.5 (SD = 7.9) for the CFC Scale, M=69.l (SD = 10.2)
+for the Conscientiousness dimension of the Big Five Personality
+Inventory, M = 25.1 (SD = 2.6) for the Hope Scale, M = 28.8
+(SD = 4.4) for the Life Orientation Scale, and M = 42.8 (SD =
+6.5) for the Stanford Time Perspective Inventory.
+As expected, the CFC Scale was related in varying degrees to
+the personality measures included in the study. Scores on the
+CFC Scale were significantly related to scores on the Big Five
+Conscientiousness dimension, r(59) = .49, p < .01, the Life Orientation Test, r(59) = .33, p < .02, and the Stanford Time Perspective Inventory, r(59) = .36,/? < .01, and marginally related
+to scores on the Hope Scale, r(59) = .23, p < . 10.
+Incremental Validity of the CFC Scale
+
+Given that we have learned that the CFC Scale is related to
+the health- and environment-dependent variables and that the
+CFC Scale is related to the other individual-differences measures, we next examined whether the CFC Scale can account
+for a significant amount of unique variance over and above these
+other personality measures. To do this, we constructed four
+Measures
+pairs of regression equations. In the first regression equation in
+each pair, one of the related personality measures was regressed
+Independent variables. In addition to the CFC Scale, subjects completed the Stanford Time Perspective Inventory (Zimbardo, 1990), the
+on each of the dependent variables. In the second equation in
+Hope Scale (Snyder et al., 1991), the Life Orientation Test (LOT, which
+the pair, CFC was added as a second variable in the model.
+is a measure of dispositional optimism-pessimism; Scheier & Carver,
+Then, by computing the increase in amount of variance ac1985), and the Conscientiousness dimension of the Big Five Personality
+counted for (increase in R2) by the second model over the first
+Inventory (Goldberg, 1992).
+model, we can determine whether CFC accounts for a unique
+Dependent variables. To assess health-related behavior, we asked subportion
+of the variance in the dependent variable. The signifijects about their general health beliefs and about specific health behavcance of the increase in R2 can be evaluated by computing an F
+iors. Subjects rated how concerned they were, in general, about their
+statistic by hand (Table 3; see Cohen & Cohen, 1983).
+health (5-point scale anchored by not at all and extremely). Next, the
+specific health behavior questions asked subjects to indicate how many
+times they had consumed alcohol in the past month and to indicate how
+many cigarettes they smoke on a weekly basis.
+To assess subjects' participation in environmentalism-related behavior, we presented them with a list of seven environmentalism behaviors
+and asked them to indicate which of the behaviors they regularly en-
+
+3
+
+Only two subjects reported using a water-saving shower head, and
+only four subjects reported using fluorescent light bulbs. Therefore, these items were not included in the measure of environmental
+behavior.
+
+749
+
+FUTURE CONSEQUENCES
+
+Table 3
+Hierarchical Multiple Regression Analysis Examining Increase
+in Variance Accountedfor by CFC Term
+Individual-differences measure
+Dependent variable
+
+Conscientiousness
+
+Hope
+
+Life
+Orientation Test
+
+Stanford Time
+Perspective Inventory
+
+4.52**
+.135
+.044
+
+7.18***
+.121
+.095
+
+7.41***
+.106
+.101
+
+7.10***
+.107
+.096
+
+7.36***
+.112
+.110
+
+6.40**
+.132
+.093
+
+6.67***
+.109
+.100
+
+10.71***
+.165
+.155
+
+.654
+.045
+.002
+
+4.29**
+.053
+.052
+
+3.03*
+.029
+.027
+
+.595
+.134
+.006
+
+2.83*
+.129
+.028
+
+10.02***
+.136
+.134
+
+10.51***
+.134
+.127
+
+5.23**
+.100
+.067
+
+Environmental behavior
+F
+r2
+Ar2
+
+Health concern
+F
+
+r2
+
+Ar2
+
+Alcohol use
+F
+r2
+Ar2
+
+Cigarette use
+F
+
+r2
+
+Ar2
+
+Note. Top number is the F value for the increase in variance explained. Middle number is amount of
+variance explained by the full model. Bottom number is increase in explained variance due to the CFC
+term. Degrees of freedom for all comparisons are 1, 56. CFC = consideration of future consequences.
+*p<.10. **p<.05. ***p<.0l.
+
+CFC served as a significant predictor of unique variance compared with the Hope Scale and was a marginally significant predictor over the LOT. However, the CFC Scale did not predict a
+significant amount of variance over and above the Conscientiousness dimension or the Stanford Time Perspective Inventory for the alcohol use measure.
+If we reverse the terms in the regression equations described
+above, and therefore examine the influence of each of the competing individual-differences measures over and above the effect
+of the CFC Scale, the pattern of results changes dramatically.
+Recall that CFC explained a significant or marginally significant amount of unique variance over and above the other measures in 14 of the 16 comparisons. When the terms are reversed,
+however, only one of the 16 comparisons is significant. That is,
+
+As can be seen in Tables 3 and 4, there is strong support for
+the ability of the CFC Scale to account for variance in health
+and environmental behavior over and above the four competing
+individual-differences measures. On the measures of environmental behavior, CFC predicts a significant amount of unique
+variance over each of the four related individual-differences
+scales. Similarly, CFC predicts a significant amount of unique
+variance over each of the other scales for the measure of general
+health concern. On the measure of cigarette use, CFC serves as
+a significant predictor of unique variance over that accounted
+for by the Hope Scale, the LOT, and the Stanford Time Perspective Inventory, and CFC was a marginally significant predictor
+of unique variance over the Conscientiousness dimension of the
+Big Five Personality Inventory. On the measure of alcohol use,
+
+Table 4
+Standardized Regression Weights Associated With CFC Term in Regression Analyses
+Examining Increase in Variance Accountedfor by CFC
+Individual-differences measure
+Dependent variable
+
+Conscientiousness
+
+Hope
+
+Life
+Orientation Test
+
+Stanford Time
+Perspective Inventory
+
+Environmental behavior
+Health concern
+Alcohol use
+Cigarette use
+
+.286**
+.408***
+-.112
+-.236*
+
+.339***
+.335**
+-.272**
+-.397***
+
+.358***
+.357***
+-.240*
+-.420***
+
+.355***
+.463***
+-.102
+-.306**
+
+Note. CFC = consideration of future consequences.
+*/><.10. **/><.05. ***/?<.01.
+
+750
+
+STRATHMAN, GLEICHER, BONINGER, AND EDWARDS
+
+only the Stanford Time Perspective Inventory ever accounts for
+a significant amount of variance over and above that accounted
+for by the CFC Scale, and this only for the alcohol use measure.
+Discussion
+Our purpose in this study was to examine the ability of the
+CFC Scale to account for unique variance over and above a
+number of related individual-differences measures. By doing so,
+we have established that the CFC construct is not simply redundant with already established measures. Rather, there is substantial variance in behavior that can be explained by the CFC
+construct, and not by other measures.
+The CFC Scale was not a perfect predictor of unique variance, however. Most notably, the CFC Scale did not seem to be
+a very good predictor of unique variance in alcohol use. There
+are a number of plausible explanations for this weak effect. One
+such explanation centers on the unclear relationship between
+present drinking behavior and health problems later in life.
+Whereas the relationship between smoking cigarettes now and
+developing lung cancer later in life is relatively well-known, the
+same type of relationship for drinking is not as clear-cut. Many
+people believe that if they drink excessively only once or twice a
+week, they are not doing long-term harm to their body. Indeed,
+some research indicates that moderate alcohol use does not put
+one at risk for health complications later in life. The CFC Scale,
+not surprisingly, may simply be a better predictor of behavior
+when the relationship between present behavior and future implications is very clear.
+General Discussion
+The goal of the present research was to examine a consequential individual-differences construct, CFC. First, we developed
+and validated a measure of the extent to which individuals consider future consequences in making decisions about their current behaviors. Data collected during four academic terms at
+three universities indicated that the CFC Scale has acceptable
+reliability and validity. In addition, administration of the CFC
+Scale to a known group (i.e., college activists) further attested to
+the scale's validity.
+Next, we demonstrated several important psychological consequences of individual differences in CFC. In Experiment 1,
+CFC moderated the impact of persuasive messages: Individuals
+high in CFC were more persuaded about the benefits of offshore
+oil drilling by arguments that focused on the future advantages
+of drilling, whereas individuals low in CFC were more persuaded by arguments that focused on the immediate disadvantages of drilling. Because prior research on the impact of CFC
+has been conducted in domains quite different from persuasion
+(Boninger et al., 1993, demonstrated the effects of CFC in the
+context of counterfactual thinking), Experiment 1 is significant
+in its demonstration of CFC's scope of influence.
+Finally, in Experiment 2, we provided evidence for the unique
+contribution of CFC over and above other related measures.
+CFC significantly predicted several environmental and health
+behaviors, consistently predicting unique variance over the
+Stanford Time Perspective Inventory, the Hope Scale, the Life
+Orientation Test, and the Conscientiousness dimen^on of the
+
+Big Five Personality Inventory. Health and the environment
+provide outstanding examples of domains in which individuals
+engage in an intrapersonal struggle over behaviors with immediate and distant consequences. As we mentioned earlier, medical advances have taught us that many of the health problems
+of our era result from lifestyle-related causes. The development
+of these illnesses (e.g., heart disease, AIDS, and some forms of
+cancer) is a relatively distant consequence of volitional behaviors.
+A number of researchers (Bandura, 1986; Hochbaum, 1958;
+Rosenstock, 1966) have proposed that the practice of preventive
+health behaviors (i.e., those behaviors that would prevent the
+development of lifestyle-related illnesses) is a function of five
+beliefs: general health values, severity of threat posed by the illness, belief about personal vulnerability, belief that a particular
+action will reduce the threat, and belief about the barriers to
+performing a particular health behavior. It seems reasonable to
+expect that the extent to which one considers future consequences could influence a number of these beliefs. For instance,
+one factor that might influence beliefs about personal vulnerability is the extent to which an individual can imagine negative
+occurrences in the distant future. To the extent that someone
+generally considers future consequences, she or he might feel
+more vulnerable to a specific disorder. However, a general tendency to disregard future consequences may prevent the individual from feeling particularly vulnerable. In fact, it may even
+prevent the person from perceiving that a significant health
+threat exists.
+Future research might profitably focus on examining more
+fundamental questions concerning the consideration of future
+consequences. One very basic question is "What leads to the
+development of concern for future consequences?" Our research has indicated that, at least by the time they reach college,
+some individuals have developed a concern for distant events
+and others have not. A factor in the development of this concern
+might be whether the individual has experienced a major consequence of some much earlier behavior. This could occur
+through life experience or learning. For instance, a parent may
+develop a lifestyle-related health problem, or a parent may be
+involved in some form of activism, therefore modeling concern
+for future consequences.
+Consideration of future consequences may well be a changeable construct. We believe that although the individual difference is relatively stable over time, individuals might experience
+events that influence the extent to which they consider future
+consequences. For instance, individuals who experience a dramatic increase in socioeconomic status may develop the "luxury" of thinking ahead, rather than being solely concerned with
+immediate issues such as having enough food. Future research
+might address factors that contribute to the ways in which individuals become more or less concerned with future consequences.
+There is much to be learned about the process by which highand low-CFC individuals decide about their current behavior.
+Do individuals low in CFC consider the immediate and distant
+consequences of their behavior and then decide in favor of the
+immediate consequences? Boninger and his colleagues' (1993)
+data provide support for this hypothesized process, in that lowCFC subjects who were forced through a focus manipulation to
+
+FUTURE CONSEQUENCES
+
+751
+
+Goldberg, L. R. (1992). The development of markers for the Big-Five
+factor structure. Psychological Assessment, 4, 26-42.
+Gonzalez, A., & Zimbardo, P. G. (1985). Time in perspective: A Psychology Today survey report. Psychology Today, 19, 21-26.
+Hochbaum, G. (1958). Public participation in medical screening programs (DHEW Publication No. 572, Public Health Service). Washington, DC: Government Printing Office.
+Hull, J. G., Tedlie, J. C, & Lehn, D. A. (1992). Moderator variables in
+personality research: The problem of controlling for plausible alternatives. Personality and Social Psychology Bulletin, 18, 115-117.
+Joreskog, K. G., & Sorbom, D. (1990). LISREL VII. Chicago: Statistical Package for the Social Sciences.
+Kahneman, D., & Miller, D. T. (1986). Norm theory: Comparing reality
+to its alternatives. Psychological Review, 93, 136-153.
+Kastenbaum, R. (1961). The dimensions of future time perspective: An
+experimental analysis. Journal ofGeneral Psychology, 65, 203-218.
+Klineberg, S. L. (1968). Future time perspective and the preference for
+delayed reward. Journal ofPersonality and Social Psychology, 8, 253257.
+Lamm, H., Schmidt, R. W., & Trommsdorff, G. (1976). Sex and social
+class as determinants of future orientation in adolescents. Journal of
+Conclusion
+Personality and Social Psychology, 34, 314-326.
+LeShan, L. L. (1952). Time orientation and social class. Journal of AbIn this article, we have identified a new individual-differences
+normal and Social Psychology, 47, 589-592.
+construct and have presented a measure of this individual
+Lessing,
+E. E. (1968). Demographic, developmental, and personality
+difference. In doing so, we have attempted to point out why
+correlates of length of future time perspective. Journal ofPersonality,
+differences in the extent to which individuals consider future
+36, 193-201.
+consequences may be important. We have demonstrated the imLessing, E. E. (1972). Extension of personal future time perspective,
+pact of CFC and have identified areas of research in which the
+age, and life satisfaction of children and adolescents. Developmental
+consideration of future consequences may be consequential,
+Psychology, 6, 457-468.
+and thus, better inform theory development. We also have idenLoehlin, J. C. (1992). Latent variable models: An introduction to factor,
+tified some practical implications of CFC. We believe there is
+path, and structural analysis. Hillsdale, NJ: Erlbaum.
+the potential for a great deal of future research, and we hope
+Markman, K. D., Gavanski, I., Sherman, S. J., & McMullen, M. N.
+that this research will be pursued from basic and applied per(1993). The mental simulation of better and worse possible worlds.
+spectives.
+Journal ofExperimental Social Psychology, 29, 87-109.
+Mischel, W. (1958). Preference for delayed reinforcement: An experimental study of a cultural observation. Journal ofAbnormal and SoReferences
+cial Psychology, 56, 57-61.
+Bandura, A. (1986). Self-efficacy mechanism in psychological activation Nurmi, J.-E. (1987). Age, sex, social class, and quality of family interacand health-promoting behavior. In J. Madden IV, S. Matthysse, & J.
+tions as determinants of adolescents' future orientation: A developBarchas (Eds.), Adaptation, learning and affect (pp. 124-146). New
+mental task interpretation. Adolescence, 22, 977-991.
+York: Raven Press.
+Nuttin, J. (1964). The future time perspective in human motivation and
+Barndt, R. J., & Johnson, D. M. (1955). Time orientation in delinlearning. Ada Psychologica, 23, 60-82.
+quents. Journal ofAbnormal and Social Psychology, 51, 343-345.
+Nuttin, J. (1985). Future time perspective and motivation. Hillsdale, NJ:
+Boninger, D. S., Gleicher, F., & Strathman, A. (1993). Counterfactual
+Erlbaum.
+thinking: From what might have been to what may be. Manuscript Nuttin, J., & Lens, W. (1985). Future time perspective and motivation:
+submitted for publication.
+Theory and research method. Hillsdale, NJ: Erlbaum.
+Brock, X C , & Del Giudice, C. (1963). Stealing and temporal orientaPlatt, J. J., & Eisenman, R. (1968). Internal-external control of reintion. Journal of Abnormal and Social Psychology, 66, 91-94.
+forcement, time perspective, adjustment, and anxiety. Journal ofGenBurt, R. S. (1973). Confirmatory factor-analytic structures and the theeral Psychology, 79, 121-128.
+ory construction process. Sociological Methods and Research, 2,
+Ray, J. J., & Najman, J. M. (1986). The generalizability of deferment of
+131-190.
+gratification. Journal of Social Psychology, 126, 117-119.
+Cohen, J., & Cohen, P. (1983). Applied multiple regression/ correlation
+Rosenstock, I. M. (1966). Why people use health services. Millbank
+analysis for the behavioral sciences. Hillsdale, NJ: Erlbaum.
+Memorial Fund Quarterly, 44, 94.
+deVoider, M. (1979). Time orientation, a review. Psychologica Belgica,
+Rotter, J. B. (1966). Generalized expectancies for internal versus exter79,61-79.
+nal control of reinforcement. Psychological Monographs, 80, 1-28
+deVoider, M., & Lens, W. (1982). Academic achievement and future
+(Whole No. 609).
+time perspective as a cognitive-motivational concept. Journal ofPerRotter, J. B., Chance, J. E., & Phares, E. J. (1972). Applications of a
+sonality and Social Psychology, 42, 566-571.
+social learning theory of personality. New \fork: Holt, Rinehart &
+Fraisse, P. (1963). The psychology of time. Westport, CT: Greenwood
+Winston.
+Press.
+Franklin, R. D. (1963). Youth's expectancies about internal versus ex- Rotter, J. B., & Mulry, R. C. (1965). Internal versus external control of
+ternal control of reinforcement related to N variables. Unpublished
+reinforcement and decision time. Journal of Personality and Social
+doctoral dissertation, Purdue University.
+Psychology, 2, 598-604.
+
+think about the future did not seem to weigh the future greatly.
+Thinking about future possibilities did not ameliorate their
+negative affect, as it did for high-CFC subjects. In some cases,
+however, low-CFC individuals may fail even to consider distant
+consequences. This may occur for individuals who are extremely low in CFC, or when the future consequences seem particularly unclear or ambiguous. It is possible that high-CFC individuals are more likely to generate and consider possible future outcomes even when future consequences are ambiguous,
+whereas low-CFC individuals are less able or inclined to do so.
+A related issue is the generally greater abstractness of future
+as opposed to immediate consequences of behavior. It may be
+that low-CFC individuals are simply less able or willing to
+contemplate abstract future outcomes than are high-CFC individuals. Thus, future research can examine the process by
+which high- and low-CFC individuals decide about their current
+behavior and the role that temporal distance and degree of abstractness play in that process.
+
+752
+
+STRATHMAN, GLEICHER, BONINGER, AND EDWARDS
+
+Sanders, S. (1986). The dimensions of subjective time experience. Unpublished doctoral dissertation, University of Washington, Seattle.
+Scheier, M. F., & Carver, C. S. (1985). Optimism, coping, and health:
+Assessment and implications of generalized outcome expectancies.
+Health Psychology, 4, 219-247.
+Snyder, C. R., Harris, C, Anderson, J. R., Holleran, S. A., Irving, L. M.,
+Sigmon, S. X, Yoshinobu, L., Gibb, J., Langelle, C, & Harney, P.
+(1991). The will and the ways: Development and validation of an individual-differences measure of hope. Journal ofPersonality and Social Psychology, 60, 570-585.
+Stewart, R. A. C. (1976). An experimental form of the Stewart personality inventory: A simplified-format measure of major personality dimensions. Perceptual and Motor Skills, 43, 813-814.
+Stewart, R. A. C, & Ahmed, S. M. S. (1984). Factor analysis of the
+Stewart personality inventory research form and its correlations with
+some other personality instruments. Social Behavior and Personality,
+12, 143-151.
+Teahan, J. E. (1958). Future time perspective, optimism, and academic
+
+achievement. Journal ofAbnormal and Social Psychology, 57, 379380.
+Wallace, M. (1956). Future time perspective in schizophrenia. Journal
+ofAbnormal and Social Psychology, 52, 240-245.
+Wallace, M., & Rabin, A. I. (1960). Temporal experience. Psychological
+Bulletin, 57,213-236.
+Wells, G. L., & Gavanski, I. (1989). Mental simulation of causality.
+Journal ofPersonality and Social Psychology, 56, 161-169.
+Wheaton, B., Muthen, B., Alwin, D. E, & Summers, G. F. (1977). Assessing reliability and stability in panel models. In D. R. Heise (Ed.),
+Sociological methodology 1977 (pp. 84-136). San Francisco: JosseyBass.
+Zaleski, Z. (1992, July). Towards psychology of personal future. In E.
+KJinger (Chair), Time perspective, goals and motivation. Symposium
+conducted at the 25th meeting of the International Congress of Psychology, Brussels.
+Zimbardo, P. G. (1990). The Stanford Time Perspective Inventory Stanford, CA: Stanford University.
+
+Appendix
+Consideration of Future Consequences Scale
+For each of the statements below, please indicate whether or not the statement is characteristic of you. If the statement is extremely uncharacteristic of you (not at all like you) please write a " 1 " to the left of the question; if the
+statement is extremely characteristic of you (very much like you) please write a " 5 " next to the question. And, of
+course, use the numbers in the middle if you fall between the extremes. Please keep the following scale in mind as you
+rate each of the statements below.
+
+extremely
+uncharacteristic
+
+2
+somewhat
+uncharacteristic
+
+uncertain
+
+somewhat
+characteristic
+
+extremely
+characteristic
+
+_ 1. I consider how things might be in the future, and try to influence those things with my day to day behavior.
+_2. Often I engage in a particular behavior in order to achieve outcomes that may not result for many years.
+_3. I only act to satisfy immediate concerns,figuringthe future will take care of itself.
+_4. My behavior is only influenced by the immediate (i.e., a matter of days or weeks) outcomes of my actions.
+_5. My convenience is a big factor in the decisions I make or the actions I take.
+_6. I am willing to sacrifice my immediate happiness or well-being in order to achieve future outcomes.
+_7. I think it is important to take warnings about negative outcomes seriously even if the negative outcome
+will not occur for many years.
+_8. I think it is more important to perform a behavior with important distant consequences than a behavior
+with less-important immediate consequences.
+_9- I generally ignore warnings about possible future problems because I think the problems will be resolved
+before they reach crisis level.
+_ 10. I think that sacrificing now is usually unnecessary since future outcomes can be dealt with at a later time.
+_11. I only act to satisfy immediate concerns,figuringthat I will take care of future problems that may occur
+at a later date.
+_12. Since my day to day work has specific outcomes, it is more important to me than behavior that has
+distant outcomes.
+
+Received December 30, 1992
+Revision received October 12, 1993
+Accepted November 9, 1993 »
+
+

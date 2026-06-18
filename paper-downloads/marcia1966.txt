@@ -1,0 +1,846 @@
+Journal ol Personality and Social Psychology
+1966, Vol. 3, No. 5, 551-558
+
+DEVELOPMENT AND VALIDATION OF EGOIDENTITY STATUSl
+JAMES E. MARCIA
+State University of New York at Buffalo
+4 modes of reacting to the late adolescent identity crisis were described, measured, and validated. Criteria for inclusion in 1 of 4 identity statuses were the
+presence of crisis and commitment in the areas of occupation and ideology.
+Statuses were determined for 86 college male Ss by means of individual interviews. Performance on a stressful concept-attainment task, patterns of goal
+setting, authoritarianism, and vulnerability to self-esteem change were dependent variables. Ss higher in ego identity performed best on the conceptattainment task; those in the status characterized by adherence to parental
+wishes set goals unrealistically high and subscribed significantly more to authoritarian values. Failure of the self-esteem condition to discriminate among
+the statuses was attributed to unreliability in self-esteem measurement.
+
+Ego identity and identity diffusion (Erikson, 19S6, 1963) refer to polar outcomes of
+the hypothesized psychosocial crisis occurring
+in late adolescence. Erikson views this phase
+of the life cycle as a time of growing occupational and ideological commitment. Facing
+such imminent adult tasks as getting a job
+and becoming a citizen, the individual is
+required to synthesize childhood identifications in such a way that he can both establish
+a reciprocal relationship with his society
+and maintain a feeling of continuity within
+himself.
+Previous studies have attempted to determine the extent of ego-identity achievement
+by means of an adjustment measure and
+the semantic differential technique (Bronson,
+19S9), a Q-sort measure of real-ideal-self discrepancy (Gruen, 1960), a measure of role
+variability based on adjective ranking (Block,
+1961), and a questionnaire (Rasmussen,
+1
+This paper is based in part on a doctoral dissertation submitted to the Ohio State University
+(Marcia, 1964).
+The author is indebted to D. P. Crowne, director
+of the dissertation, and to G. A. Kelly for their
+guidance and criticism during various phases of the
+research. The author also wishes to thank D. P.
+Crowne and L. H. Ford for their helpful comments
+concerning portions of the final manuscript. To the
+confederate experimenters from Hiram College, particularly to M. B. Herzbrun who served as research
+assistant, the author expresses his gratitude.
+Parts of the research were reported in a paper
+read at the 1965 Midwestern Psychological Association convention.
+
+551
+
+1964). While these studies have investigated
+self-ratings on characteristics that should follow if ego identity has been achieved, they
+have not dealt explicitly with the psychosocial
+criteria for determining degree of ego identity,
+nor with testing hypotheses regarding direct
+behavioral consequences of ego identity.
+To assess ego identity, the present study
+used measures and criteria congruent with
+Erikson's formulation of the identity crisis
+as a psychosocial task. Measures were a semistructured interview and an incomplete-sentences blank. The interview (see Method
+section) was used to determine an individual's specific identity status; that is,
+which of four concentration points along a
+continuum of ego-identity achievement best
+characterized him. The incomplete-sentences
+blank served as an overall measure of identity
+achievement. The criteria used to establish
+identity status consisted of two variables,
+crisis and commitment, applied to occupational choice, religion, and political ideology.
+Crisis refers to the adolescent's period of
+engagement in choosing among meaningful
+alternatives; commitment refers to the degree
+of personal investment the individual exhibits.
+"Identity achievement" and "identity diffusion" are polar alternatives of status inherent in Erikson's theory. According to the
+criteria employed in this study, an identityachievement subject has experienced a crisis
+period and is committed to an occupation and
+ideology. He has seriously considered several
+
+552
+
+JAMES E. IV ARCIA
+
+occupational choices and has made a decision
+on his own terms, even though his ultimate
+choice may be a variation of parental wishes.
+With respect to ideology, he seems to have
+reevaluated past beliefs and achieved a resolution that leaves him free to act. In general,
+he does not appear as if he would be overwhelmed by sudden shifts in his environment
+or by unexpected responsibilities.
+The identity-diffusion subject may or may
+not have experienced a crisis period; his hallmark is a lack of commitment. He has neither
+decided upon an occupation nor is much concerned about it. Although he may mention a
+preferred occupation, he seems to have little
+conception of its daily routine and gives the
+impression that the choice could be easily
+abandoned should opportunities arise elsewhere. He is either uninterested in ideological
+matters or takes a smorgasbord approach in
+which one outlook seems as good to him as
+another and he is not averse to sampling
+from all.
+Two additional concentration
+points
+roughly intermediate in this distribution are
+the moratorium and foreclosure statuses. The
+moratorium subject is in the crisis period
+with commitments rather vague; he is distinguished from the identity-diffusion subject
+by the appearance of an active struggle to
+make commitments. Issues often described as
+adolescent preoccupy him. Although his parents' wishes are still important to him, he is
+attempting a compromise among them, society's demands, and his own capabilities. His
+sometimes bewildered appearance stems from
+his vital concern and internal preoccupation
+with what occasionally appear to him to be
+unresolvable questions.
+A foreclosure subject is distinguished by
+not having experienced a crisis, yet expressing commitment. It is difficult to tell where
+his parents' goals for him leave off and where
+his begin. He is becoming what others have
+prepared or intended him to become as a
+child. His beliefs (or lack of them) are virtually "the faith of his fathers living still."
+College experiences serve only as a confirmation of childhood beliefs. A certain rigidity
+characterizes his personality; one feels that
+if he were faced with a situation in which
+
+parental values were nonfunctional, he would
+feel extremely threatened.
+Previous studies have found ego identity
+to be related to "certainty of self-conception"
+and "temporal stability of self-rating" (Bronson, 1959), extent of a subject's acceptance
+of a false personality sketch of himself
+(Gruen, 1960), anxiety (Block, 1961), and
+sociometric ratings of adjustment (Rasmussen, 1964). Two themes predominate in these
+studies: a variability-stability dimension of
+self-concept, and overall adjustment. In general, subjects who have achieved ego identity
+seem less confused in self-definition and
+are freer from anxiety.
+Four task variables were used to validate
+the newly constructed identity statuses: a
+concept-attainment task administered under
+stressful conditions, a level of aspiration
+measure yielding goal-setting patterns, a
+measure of authoritarianism, and a measure
+of stability of self-esteem in the face of
+invalidating information.
+The hypotheses investigated were these:
+1. Subjects high in ego identity (i.e.,
+identity-achievement status) will receive significantly lower (better) scores on the stressful concept-attainment task than subjects
+lower in ego identity. Subjects who have
+achieved an ego identity, with the internal
+locus of self-definition which that implies,
+will be less vulnerable to the stress conditions of evaluation apprehension and oversolicitousness (see Method section).
+2. Subjects high in ego identity will set
+goals more realistically than subjects low in
+ego identity on a level of aspiration measure.
+The increment to overall ego strength following identity achievement should be reflected
+in the ego function of reality testing.
+3. Subjects in the foreclosure status will
+endorse "authoritarian submission and conventionality" items to a greater extent than
+subjects in the other statuses.
+4. There will be a significant positive relationship between ego identity measures and a
+measure of self-esteem.
+5. Subjects high in ego identity will change
+less in self-esteem when given false information about their personalities than subjects
+low in ego identity.
+
+EGO-IDENTITY STATUS
+6. There will be a significant relationship
+between the two measures of ego identity:
+the identity-status interview and the incomplete-sentences blank.
+METHOD
+Subjects
+Subjects were 86 males enrolled in psychology,
+religion, and history courses at Hiram College.
+
+Confederate
+
+Experimenters
+
+Due to the possibility of contamination by subject
+intercommunication on a small campus, the study
+employed 10 confederate (task) experimenters who
+administered the concept-attainment task in one
+12-hour period to all subjects. These task experimenters, 7 males and 3 females, were members of
+the author's class in psychological testing and had
+taken three or more courses in psychology. They
+had previously assisted in a pilot study and had
+been checked twice by the author on their experimental procedure. The use of a sample of experimenters, none of whom were aware of the subjects'
+standings on crucial independent variables, also has
+advantages in terms of minimizing the effects of
+experimenter bias (Rosenthal, 1964).
+Identity status. Identity status was established by
+means of a 15-30 minute semistructured interview.
+All interviews followed the same outline, although
+deviations from the standard form were permitted
+in order to explore some areas more thoroughly. In
+most cases, the criteria for terminating an interview
+involved the completion of the prescribed questions
+as well as some feeling of certainty on the interviewer's part that the individual had provided
+enough information to be categorized. Interviews
+were tape-recorded and then replayed for judging.
+Hence, each interview was heard at least twice,
+usually three or four times.
+A scoring manual (Marcia, 1964) was constructed
+using both theoretical criteria from Erikson and
+empirical criteria from a pilot study. Each subject
+was evaluated in terms of presence or absence of
+crisis as well as degree of commitment for three
+areas: occupation, religion, and politics—the latter
+two combined in a general measure of ideology.
+The interview judge familiarized himself with the
+descriptions of the statuses provided in the manual
+and sorted each interview into that pattern which
+it most closely resembled. Analysis of interjudge
+reliability for the identity statuses of 20 randomly
+selected subjects among three judges yielded an
+average percentage of agreement of 75. One of the
+judges was essentially untrained, having been given
+only the scoring manual and the 20 taped interviews.
+A sample question in the occupational area was:
+How willing do you think you'd be to give up
+going into
+if something better came along?
+
+553
+
+Examples of typical answers for the four statuses
+were:
+[Identity achievement] Well, I might, but I
+doubt it. I can't see what "something better"
+would be for me.
+[Moratorium] I guess if I knew for sure I
+could answer that better. It would have to be
+something in the general area—something related.
+[Foreclosure] Not very willing. It's what I've
+always wanted to do. The folks are happy with it
+and so am I.
+[Identity diffusion] Oh sure. If something better
+came along, I'd change just like that.
+A sample question in the religious area was:
+Have you ever had any doubts about your religious beliefs?
+[Identity achievement] Yeah, I even started
+wondering whether or not there was a god. I've
+pretty much resolved that now, though. The way
+it seems to me is . . . .
+[Moratorium] Yes, I guess I'm going through
+that now. I just don't see how there can be a god
+and yet so much evil in the world or . . . .
+[Foreclosure] No, not really, our family is
+pretty much in agreement on these things.
+[Identity diffusion] Oh, I don't know. I guess
+so. Everyone goes through some sort of stage like
+that. But it really doesn't bother me much. I
+figure one's about as good as the other!
+Overall ego identity. The Ego Identity Incomplete
+Sentences Blank (EI-ISB) is a 23-item semistructured projective test requiring the subject to complete a sentence "expressing his real feelings" having
+been given a leading phrase. Stems were selected and
+a scoring manual designed (Marcia, 1964) according
+to behaviors which Erikson (1956) relates to the
+achievement of ego identity. Empirical criteria were
+gathered during a pilot study. Each item was scored
+3, 2, or 1 and item scores summed to yield an
+overall ego-identity score. Two typical stems were:
+If one commits oneself
+, and, When I let
+myself go I
+Scoring criteria for the latter stem
+
+are:
+3—Nondisastrous self-abandonment. Luxuriating
+in physical release. For example, have a good
+time and do not worry about others' thoughts and
+standards, enjoy almost anything that has laughter
+and some physical activity involved, enjoy myself
+more.
+2—Cautiousness, don't know quite what will
+happen, have to be careful. Defensive or trivial.
+For example, never know exactly what I will say
+or do, sleep, might be surprised since I don't
+remember letting myself go.
+1—Goes all to pieces, dangerous, self-destructive,
+better not to. For example, think I talk too
+much about myself and my personal interests,
+tend to become too loud when sober and too
+
+554
+
+JAMES E. MARCIA
+
+melodramatic when drunk, sometimes say things
+I later regret.
+Analysis of interscorer reliability for 20 protocols
+among three judges yielded an average item-by-item
+correlation of f = .76, an average total score correlation of f = .73, and an average percentage of
+agreement of 74.
+
+Measures of Task Variables
+Concept Attainment Task performance. The Concept Attainment Task (CAT) developed by Bruner,
+Goodnow, and Austin (1956) and modified by Weick
+(1964), requires the subject to arrive at a certain
+combination of attributes of cards. The subject may
+eliminate certain attributes by asking whether a card
+is positive or negative for the concept and he may
+guess the concept at any time. He is penalized 5
+points for every request, 10 points for every guess,
+and S points for every 30 seconds that passes before
+he attains the concept. Level of aspiration was obtained by informing the subject of his previous time
+and asking him to estimate his time on the next
+problem.
+Quality of performance on the CAT was assessed
+by the following measures: overall CAT scores
+(points for time plus points for requests and
+guesses), points for time alone, points for requests
+and guesses alone, number of "give-ups" (problems
+which the subject refused to complete). The main
+level of aspiration measure was attainment discrepancy or D score, the algebraic average of the differences between a subject's stated expectancy for a
+problem and his immediately preceding performance
+on a similar problem.
+A combination of two stress conditions (stress
+defined here as externally imposed conditions which
+tend to impair performance) were used: evaluation
+apprehension and oversolicitousness. Evaluation apprehension refers to a subject's feeling that his
+standing on highly valued personal characteristics
+is to be exposed. The characteristic chosen for this
+study was intellectual competence, unquestionably
+salient for college students. Oversolicitousness was
+chosen as a logical complement to evaluation apprehension. It was assumed that unnecessary reassurance
+would validate and, hence, augment whatever anxiety
+the subject was experiencing.
+Pilot study data indicated that the stress conditions were effective. Using the same task experimenters as in the final study, 56 subjects (27 males
+and 29 females) took the CAT under stress and
+nonstress (i.e., stress omitted) conditions. Each experimenter ran about 3 stress and 3 nonstress subjects. Stressed subjects performed significantly more
+poorly than nonstressed ones ({ = 2.61, df = 54,
+p < .02).
+Self-esteem change and authoritarianism. The SelfEsteem Questionnaire (SEQ-F) is a 20-item test
+developed by deCharms and Rosenbaum (1960) on
+which the subject indicates his degree of endorsement of statements concerning general feelings of
+self-confidence and worthiness.
+
+In addition, statements reflecting authoritarian
+submission and conventionality, taken from the California F Scale (Adorno, Frenkel-Brunswik, Levinson,
+& Sanford, 1950), which were originally filler items,
+are used here as a dependent variable. The SEQ-F
+was administered twice, the first time in a classroom
+setting, the second, during the experimental situation
+following an invalidated self-definition.
+The treatment condition of "invalidated selfdefinition" (ISD) followed the CAT and directly
+preceded the second administration of SEQ-F. It
+consisted of giving the subject false information
+concerning the relationship between his alleged selfevaluation and his actual personality.
+
+Procedure
+Following is the experimental procedure: Subjects
+completed the EI-ISB and SEQ-F in class. Each
+subject was interviewed to determine his identity
+status. (This interviewing period lasted about 2
+months.) On the day of the experiment, each subject went through the following conditions: (a)
+Administration of the CAT under stress by the
+task experimenter. Evaluation apprehension was
+created by the task experimenter's saying:
+By the way, I thought you might be interested
+to know that this test is related to tests of intelligence 2 and that it's been found to be one of
+the best single predictors of success in college.
+So of course, you'll want to do your very best.
+Oversolicitousness was created during CAT performance by the task experimenter's hovering over the
+subject, asking him if he were comfortable, advising
+him not to "tense up," not to "make it harder on
+yourself." (6) Following the CAT, the subject was
+seated in the author's office where he was given
+either a positive or negative (randomly assigned)
+invalidated self-definition. The subject found the
+experimenter intently scanning a data sheet and was
+told:
+I've been looking over some of the data and it
+seems that while you consider yourself less [more]
+mature than other subjects, you actually come out
+as being more [less] mature. Is there any way
+you can account for this discrepancy? [Pause for
+the subject's response.] This seems to hold up
+also for self-confidence. It seems that you consider
+yourself as having less [more] self-confidence
+than other subjects, yet you actually come out
+having more [less].
+(c) The subject was then sent to another room
+where he took the SEQ-F for the second time. The
+following day, each subject received a postcard from
+the experimenter explaining the false information.
+2
+In fact, intelligence test scores gleaned from the
+subjects' college files did correlate significantly with
+CAT performance (r=.$$, df = 82, p < .0005).
+However, no significant relationship was found
+between intelligence and identity status.
+
+555
+
+EGO-IDENTITY STATUS
+TABLE 1
+DIFFERENCES BETWEEN IDENTITY STATUSES IN CAT PERFORMANCE
+
+Identity status
+Identity achievement (A)
+Moratorium (B)
+Foreclosure (C)
+Identity diffusion (D)
+Groups compared
+Time
+A versus D
+A versus B + C + D
+A versus C
+A -f- B + D versus C
+Requests + guesses
+A versus D
+A versus B + C + D
+A versus C
+A + B + D versus C
+Overall score
+A versus D
+A versus B + C + D
+A versus C
+A + B + D versus C
+
+N
+
+M time
+
+SD
+
+M requests
++ guesses
+
+SD
+
+M overall
+score
+
+SD
+
+18
+22
+23
+21
+
+18.17
+24.50
+34.20
+29.73
+
+7.94
+15.77
+13.84
+18.52
+
+599.17
+807.14
+875.82
+767.38
+
+186.63
+495.58
+285.44
+266.43
+
+791.94
+1024.82
+1147.83
+1078.57
+
+244.15
+612.04
+407.98
+352.38
+
+t
+
+2.39*
+2.41**
+2.90***
+2.24*
+
+2.19*
+2.28*
+3.47***
+1.69
+3.47***
+2.45**
+3.19***
+1.63
+
+* t < .05.
+** f ? .02.
+
+RESULTS
+Performance on CAT
+The relationship between the identity statuses and CAT performance was investigated
+by means of individual t tests. These are
+found in Table 1 and support the hypothesis
+of significant differences in CAT performance
+between subjects high and low in ego identity.
+For all three indices of CAT performance
+identity-achievement subjects perform significantly 3 better than identity-diffusion subjects
+(^'s ranging from .01 to .05), and identity8
+
+All significance levels for t tests are based on
+two-tailed tests.
+
+achievement subjects perform significantly
+better than the other three statuses combined (p's ranging from .02 to .05).
+Data involving the number of problems on
+which the subjects in the different identity
+statuses gave up are presented in Table 2.
+Comparing identity-achievement subjects
+with other subjects, significantly fewer instances of giving up on CAT problems are
+found for the identity-achievement subjects.
+This, together with the previous findings
+concerning the relationship between identity
+status and CAT performance under stress,
+provides substantial confirmation of Hypothesis 1.
+
+TABLE 2
+NUMBER OF CAT PROBLEMS ON WHICH SUBJECTS IN EACH IDENTITY STATUS GAVE UP
+Identity status
+
+Give-ups
+Completions
+*p <.05.
+** p < .02.
+
+Identity
+achievement
+
+Moratorium
+
+Foreclosure
+
+Identity diffusion
+
+All other
+
+1
+107
+x" = 8.93*
+
+7
+125
+
+13
+131
+
+11
+109
+
+31
+365
+X = 5.69**
+2
+
+556
+
+JAMES E. MARCIA
+
+An interesting supplementary finding is
+that moratorium subjects were significantly
+more variable in overall CAT scores than
+subjects in the other three statuses combined
+(^ma* = 2.62, df = 21/61, p < .05; see McNemar, 195S, pp. 244-247).
+Correlations between all three CAT performance measures and the EI-ISB, while in
+the expected direction, failed to reach significance. The Pearson r between overall CAT
+performance and EI-ISB scores was —.14
+(d/=82).
+Level of Aspiration
+
+TABLE 4
+DIFFERENCES IN F SCORES BETWEEN
+IDENTITY STATUSES
+
+Identity status
+Identity achievement (A)
+Moratorium (B)
+Foreclosure (C)
+Identity diffusion (D)
+Groups compared
+C versus A
+C versus A + B + D
+D versus A
+B versus A
+
+SD
+
+2V
+
+M
+
+18
+23
+24
+21
+
+34.28 8.99
+37.57 8.05
+45.17 9.01
+38.67 10.19
+
+t
+
+3.88*
+3.75*
+
+.44
+
+1.20
+
+The D, or attainment discrepancy score,
+reflects the difference between a subject's
+Authoritarian Submission and Conventionalaspirations and his actual performance. An ity (F)
+overall positive D score means that the subThe t tests presented in Table 4 show
+ject tends to set his goals higher than his
+attainment; a negative D score means the that foreclosure subjects received significantly
+higher F scores than identity-achievement
+opposite.
+Inspection of original data revealed that subjects (£ = 3.88, df = 38, p < .001) and
+no status obtained a negative average D also significantly higher F scores than the
+score, the range being from 3.60 for identity other statuses combined (t = 3.75, df = 82,
+achievement to 5.06 for foreclosure. Analysis p < .001).
+of variance indicates a significant difference
+among statuses in D score (F = 5.10, df Self-Esteem
+= 3/80, p < .01). The t tests presented in
+The significant relationship found here was
+Table 3 show the foreclosure subjects exhibit- between EI-ISB scores and the initial SEQ
+ing higher D scores than identity-achievement (r = .26, df =84, p < .01). No significant
+subjects (* = 3.35, df = 38, p < .01) and differences among identity statuses for SEQ
+higher D scores than the other statuses com- were found (F = .66, df = 3/82, ns). In
+bined (t = 3.70, df = 82, p < .001). It ap- addition, self-esteem appeared to be unrelated
+pears that foreclosure subjects tend to main- to authoritarian submission and conventiontain high goals in spite of failure.
+ality (r = -.03, df = 84, ns) and to CAT
+performance (r = —.03, df = 82, ns).
+TABLE 3
+Change in SEQ following ISO
+DIFFERENCES IN D SCORE BETWEEN
+IDENTITY STATUSES
+Although differences in the expected direction were found (i.e., identity achievement
+SD
+t
+2V
+M
+changed less than identity diffusion), these
+Identity status
+were
+not significant (t = 1.39, df = 37, p
+.80
+Identity achievement (A) 18 3.60
+< .20). Observer ratings of subjects' reacMoratorium (B)
+22 4.11 .72
+Foreclosure (C)
+23 5.06 1.65
+tions to the invalidated self-definition indiIdentity diffusion (D)
+21 3.91 1.49
+cated that this treatment condition was
+Groups compared
+effective. The failure to obtain significant
+3.35*
+C versus A
+results
+may have been due to unreliability
+3.70**
+C versus A + B + D
+1.90
+in the self-esteem measure engendered by the
+B versus A
+.57
+C + B + D versus A
+2-month span between the first and second
+administration.
+There was a tendency for
+. .
+**p < .001.
+foreclosure subjects given negative informa-
+
+EGO-IDENTITY STATUS
+TABLE 5
+DIFFERENCES BETWEEN IDENTITY STATUSES
+IN EI-ISB SCORES
+
+557
+
+ship between such apparently diverse areas as
+performance in a cognitive task and commitment to an occupation and ideology. The
+interview and the CAT tapped two prime
+2V
+SD
+/
+M
+spheres of ego function: the intrapsychic,
+Identity status
+seen on the CAT which required the indiIdentity achievement (A) 18 48.28 5.10
+vidual to moderate between pressing internal
+23 48.09 4.23
+Moratorium (B)
+stimuli (stress-produced anxiety) and exForeclosure (C)
+24 46.17 4.62
+21 43.33 3.52
+Identity diffusion (D)
+ternal demands (completion of the task),
+and the psychosocial, seen in the interview
+Groups compared
+A versus C
+1.37
+which evaluated the meshing of the indi1.41
+B versus C
+vidual's needs and capabilities with society's
+3.94*
+B versus D
+rewards and demands. The relationship be3.89*
+A versus D
+3.61*
+A + C + B versus D
+tween these two spheres contributes validity
+to
+both the identity statuses and to the
+*p <, .001.
+generality of the construct, ego.
+No confirmation of the hypothesis relating
+tion to show a greater decrease in self-esteem
+ego
+identity to resistance to change in selfthan identity-achievement subjects under simiesteem
+was obtained, possibly because the
+lar conditions (t = 2.60, dj = 19, p < .02).
+length
+of
+time between the first and second
+No relationship was found between EI-ISB
+SEQ
+administration
+was 2 months. The variscores and self-esteem change (r = .001, dj
+ability
+in
+subjects'
+self-esteem over this
+= 84, ns).
+period of time may have obscured differences
+due to treatment alone.
+EI-ISB Scores and Identity Status
+Following are experimentally derived proTwo techniques were employed to assess
+files of each status:
+the relationship between overall ego identity
+1. Identity achievement. This group scored
+as measured by EI-ISB and identity status.
+highest on an independent measure of ego
+These were an analysis of variance among
+identity and performed better than other
+the four statuses (F = 5.42, dj = 3/82, p
+statuses on a stressful concept attainment
+<.01), and t tests among the individual
+task—persevering longer on problems and
+statuses. The latter are found in Table 5.
+maintaining a realistic level of aspiration.
+Identity-achievement subjects received sigThey subscribed somewhat less than other
+nificantly higher EI-ISB scores than did
+statuses to authoritarian values and their selfidentity-diffusion subjects (t - 3.89, dj = 37,
+esteem was a little less vulnerable to negative
+p < .001), and the first three identity stat- information.
+uses taken together received significantly
+2. Moratorium. The distinguishing features
+higher EI-ISB scores than did identity difof this group were its variability in CAT
+fusion (t = 3.62, dj = 84, p< .001). Thus,
+performance and its resemblance on other
+the distinctive group with respect to EI-ISB measures to identity achievement.
+scores appears to be identity diffusion. These
+3. Foreclosure. This status' most outstandfindings lend some support to the hypotheing characteristic was its endorsement of
+sized relationship between overall ego identity authoritarian values such as obedience,
+and identity status.
+strong leadership, and respect for authority.
+Self-esteem was vulnerable to negative inDISCUSSION
+formation and foreclosure subjects performed
+Of the two approaches to the measurement more poorly on a stressful concept-attainment
+of ego identity, the interview, based on indi- task than did identity-achievement subjects.
+vidual styles, was more successful than the In addition, their response to failure on this
+incomplete-sentences test, which treated ego task was unrealistic, maintaining, rather
+identity as a simple linear quality.
+than moderating, unattained high goals. This
+Particularly interesting was the relation- behavior pattern is referred to by Rotter
+
+558
+
+JAMES E. MARCIA
+
+(1954) as "low freedom of movement [and
+is associated with] the achievement of
+superiority through identification [pp. 196197]"—an apt description for one who is
+becoming his parents' alter ego.
+4. Identity diffusion. While this status was
+originally considered the anchor point for
+high-low comparisons with identity achievement, it occupied this position only in terms
+of EI-ISB scores. CAT performance was uniformly poorer than that of identity achievement, although not the lowest among the
+statuses. The identity-diffuse individuals to
+which Erikson refers and identity-diffusion
+subjects in this study may be rather different
+with respect to extent of psychopathology.
+A "playboy" type of identity diffusion may
+exist at one end of a continuum and a schizoid
+personality type at the other end. The
+former would more often be found functioning reasonably well on a college campus.
+While having tapped a rather complete range
+of adjustment in the other statuses, the extent
+of disturbance of an extreme identity diffusion would have precluded his inclusion
+in our sample. Hence, it is the foreclosure,
+and not the identity-diffusion, subject who
+occupies the lowest position on most task
+variables.
+In conclusion, the main contribution of this
+study lies in the development, measurement,
+and partial validation of the identity statuses
+as individual styles of coping with the psychosocial task of forming an ego identity.
+
+REFERENCES
+ADORNO, T. W., FRENKEL-BRUNSWIK, E., LEVINSON,
+D. J., & SANFORD, R. N. The aitthorilarian personality. New York: Harper, 1950.
+BLOCK, J. Ego identity, role variability, and adjustment. Journal of Consulting Psychology, 1961,
+25, 392-397.
+BRONSON, G. W. Identity diffusion in late adolescents.
+Journal of Abnormal and Social Psychology,
+1959, 59, 414-417.
+BRUNER, J. S., GOODNOW, I. J., & AUSTIN, G. A. A
+study of thinking. New York: Wiley, 1956.
+DECHARMS, R., & ROSENBACM, M. E. Status variables
+and matching behavior. Journal of Personality,
+1960, 28, 492-502.
+ERIKSON, E. H. The problem of ego identity.
+Journal of the American Psychoanalytic Association, 1956, 4, 56-121.
+ERIKSON, E. H. Childhood and society. (2nd ed.)
+New York: Norton, 1963.
+GRUEN, W. Rejection of false information about
+oneself as an indication of ego identity. Journal
+of Consulting Psychology, 1960, 24, 231-233.
+MARCIA, J. E. Determination and construct validity
+of ego identity status. Unpublished doctoral dissertation, Ohio State University, 1964.
+MCNEMAR, Q. Psychological statistics. (2nd ed.)
+New York: Wiley, 1955.
+RASMUSSEN, J. E. The relationship of ego identity
+to psychosocial effectiveness. Psychological Reports,
+1964, 15, 815-825.
+ROSENTHAL, R. Experimenter outcome-orientation
+and the results of the psychological experiment.
+Psychological Bulletin, 1964, 61, 405-412.
+ROTTER, J. B. Social learning and clinical psychology.
+Englewood Cliffs, N. J.: Prentice-Hall, 1954.
+WEICK, K. E. Reduction of cognitive dissonance
+through task enhancement and effort expenditure.
+Journal of Abnormal and Social Psychology, 1964,
+68, 533-539.
+(Received March 19, 1965)
+
+

@@ -1,0 +1,2060 @@
+515686
+
+research-article2014
+
+SGOXXX10.1177/2158244013515686Sircova et al.Sircova et al.
+
+Article
+
+A Global Look at Time: A 24-Country
+Study of the Equivalence of the Zimbardo
+Time Perspective Inventory
+
+SAGE Open
+January-March 2014: 1­–12
+© The Author(s) 2014
+DOI: 10.1177/2158244013515686
+sgo.sagepub.com
+
+Anna Sircova1, Fons J. R. van de Vijver2,3,4, Evgeny Osin5,Taciano L. Milfont6,
+Nicolas Fieulaine7, Altinay Kislali-Erginbilgic8, Philip G. Zimbardo9, & 54 members of the
+International Time Perspective Research Project (presented in alphabetical order by
+country):
+Slimane Djarallah10, Mohamed Seghir Chorfi11, Umbelina do Rego Leite12,
+Hui Lin13, Houchao Lv14,Tomislav Bunjevac15,Tena Tomaš15, Jasmina Punek15,
+Anica Vrlec15, Jelena Matić15, Marko Bokulić15, Martina Klicperová-Baker16,
+Jaroslav Košt´ ál16, Riin Seema17, Arno Baltin17,Themistoklis Apostolidis18,
+Daphne Pediaditakis19, Fay Griva20, Fotios Anagnostopoulos20, Nurit Carmi21,
+Marina Goroshit21, Martina Peri22,Yumi Shimojima23, Koichi Sato24, Keita Ochi25,
+Antanas Kairys26, Audrone Liniauskaite27,Víctor Corral-Verdugo28, Aneta Przepiorka29,
+Agata Blachnio29,Victor E. C. Ortuño30,Vítor Gamboa31, Olga Mitina32,
+Nadezhda Semyenova32,Valentina Gerasimova33,Tatiana Rawski (Nepryakho)34,
+Ekaterina Kuleshova35, Natalia Polskaya36, Nikolaj Tulinov37, Isabella Romanko38,
+Yulia Semina39, Ekaterina Nikitina40,Vera Yasnaya5,41, Irina Davydova42, Elsa Utyasheva42,
+Irina Emeliyanova41, Regina Ershova43, Jasmina Nedeljkovic44, Juan Francisco Díaz
+Morales45, Maria Grazia Carelli1, Britt Wiberg1, Ilona Boniwell46, P. Alex Linley47,
+and John Nathan Boyd48
+Abstract
+In this article, we assess the structural equivalence of the Zimbardo Time Perspective Inventory (ZTPI) across 26 samples from
+24 countries (N = 12,200). The ZTPI is proven to be a valid and reliable index of individual differences in time perspective across
+five temporal categories: Past Negative, Past Positive, Present Fatalistic, Present Hedonistic, and Future. We obtained evidence for
+invariance of 36 items (out of 56) and also the five-factor structure of ZTPI across 23 countries. The short ZTPI scales are reliable
+for country-level analysis, whereas we recommend the use of the full scales for individual-level analysis. The short version of ZTPI
+will further promote integration of research in the time perspective domain in relation to many different psycho-social processes.
+Keywords
+Zimbardo Time Perspective Inventory, ZTPI, time perspective, equivalence, cross-cultural research
+1
+
+27
+
+2
+
+28
+
+Umeå University, Sweden
+Tilburg University, the Netherlands
+3
+North-West University, South Africa
+4
+University of Queensland, Australia
+5
+National Research University Higher School of Economics, Moscow, Russia
+6
+Victoria University of Wellington, New Zealand
+7
+University of Lyon, France
+8
+Istanbul, Turkey
+9
+Stanford University, USA
+10
+Université of Batna, Algeria
+11
+Université Ferhat Abbas –Setif, Algeria
+12
+Universidade de Rio Verde, Brasil
+13
+Peking University, China
+14
+Southwest University, China
+15
+University of Zagreb, Croatia
+16
+Institute of Psychology, Academy of Sciences of the Czech Republic
+17
+Tallinn University, Estonia
+18
+Université de Provence, France
+19
+Ruprecht-Karls-University of Heidelberg, Germany
+20
+Panteion University of Social and Political Sciences, Greece
+21
+Tel-Hai College, Israel
+22
+Salesiana University, Rome, Italy
+23
+Kyorin University, Japan
+24
+Gunma University, Japan
+25
+Hosei University, Japan
+26
+Vilnius University, Lithuania
+
+Klaipeda University, Lithuania
+Universidad de Sonora, Hermosillo, Mexico
+The John Paul II Catholic University in Lublin, Poland
+30
+Universidade de Coimbra, Portugal
+31
+Universidade do Algarve, Portugal
+32
+Moscow State University, Russia
+33
+Kaluga State University of Education, Russia
+34
+Tver State University, Russia
+35
+A.I. Gertsen Russian State University of Education, Russia
+36
+Saratov State University, Russia
+37
+Balabanovo branch of Moscow State University of Humanities, Russia
+38
+St.Petersburg State University, Russia
+39
+Moscow State Regional University, Russia
+40
+Sociology of Education Center, Russian Academy of Education
+41
+Moscow State University of Psychology and Education, Russia
+42
+Russian State University of Humanities, Russia
+43
+Kolomna State Institute of Education, Russia
+44
+Faculty of Law and Business Studies Novi Sad, Serbia
+45
+Universidad Complutense de Madrid, Spain
+46
+University of East London, UK
+47
+Centre for Applied Positive Psychology, UK
+48
+Google Inc., USA
+29
+
+Corresponding Author:
+Anna Sircova, Skyttegade 14, 2 th, 2200, Copenhagen, Denmark.
+Email: anna.sircova@gmail.com
+
+2
+
+Introduction
+Much of human activity is time bound, both chronologically
+and psychologically. The subjective perception of time, in
+the form of perceived duration, synchrony, pace of life, and
+more, as well as our temporal perspectives are deeply
+ingrained. McGrath and Tschan (2004) distinguished four
+processes in temporal aspects of everyday life: time use,
+pace of life, time perception, and time orientation. Time use
+refers to an individual’s distribution of time over daily activities such as working, eating, leisure time, travel time, and
+personal care. Pace of life refers to the speed of doing everyday activities. Time perception is about how humans judge
+the passage of time and is often studied within individuals by
+their estimations of duration of specific temporal intervals,
+and feelings about the passage of time in general. Finally,
+time orientation refers to how people compare the present to
+the future (hopes and fears).
+If these psychological aspects are tightly linked to human
+activity, it is not surprising that time sense should reveal
+major cross-cultural differences (Frank, 1939; Kluckhohn &
+Strodtbeck, 1961; Levine, 1997; Luhmann, 2002; Poole,
+2000). Previous cross-cultural studies have addressed different aspects of McGrath and Tschan’s (2004) classification of
+psychological time processes. Hall (1989), utilizing his
+anthropological experience, dichotomized cultural time orientations into monochronic and polychronic. He argues that
+cultures with monochronic time orientation tend to prefer to
+do one thing at a time, rely on schedules and segmentation.
+However, people with polychronic time orientation tend to
+do several things at once, and they stress the completion of
+transactions rather than adherence to preset schedules. Hall
+(1989) asserted that Westerners are likely to be monochronic,
+while Latin American and Mediterranean people are more
+polychronic oriented.
+Brislin and Kim (2003) have suggested a closely related
+dichotomy of clock and event time. Clock-time cultures, like
+the United States, adhere to schedules and punctuality,
+whereas event-time cultures, like Latin America, go more
+with the natural flow of social events. Hofstede (2001) who
+studied work-related values in 40 countries, found a longterm versus short-term orientation factor in the Chinese
+Values Survey administered to university students in
+22 countries (Chinese Culture Connection, 1987). Countries
+with a strong short-term orientation (most Western countries)
+foster values involving future-oriented rewards, in particular
+perseverance and thrift, whereas countries with a long-term
+orientation (such as China and Taiwan) foster respect for tradition, preservation of “face,” and fulfilling social obligations. Long-term orientation shows significant correlations
+with other national characteristics, notably the current economic growth. Recently, Hofstede, Hofstede, and Minkov
+(2010) proposed a new version of this index of long-term
+
+SAGE Open
+versus short-term orientation, based on a subset of the World
+Values Survey items, and evidenced a relation between the
+score calculated for 93 countries with school results and economic growth (Hofstede & Minkov, 2010).
+Another large cross-cultural study is the GLOBE project.
+This 62-country study focusing on leadership and organizational behavior also collected data on future orientation,
+described as “the degree to which a collectivity encourages
+and rewards future-oriented behaviours such as planning and
+delaying gratification” (Ashkanasy, Gupta, Mayfield, &
+Trevor-Roberts, 2004, p. 282). Societies with a stronger future
+orientation, such as Singapore, Austria, and Canada, tend to be
+less hierarchical, more humane, and individualistic. Another
+study conducted by Trompenaars and Hampden-Turner (1998)
+examined time horizon in 42 countries. Time horizon refers to
+the length of the planning horizon and the length of time a
+person uses to think about the past or future. Confucian cultures scored higher on long-term planning, whereas Western
+cultures scored higher on short-term planning.
+Three other cross-cultural studies on time should be mentioned. One focused on the pace of life in 31 countries using
+behavioral observations (Levine & Norenzayan, 1999). Pace
+of life was significantly faster in colder climates, economically developed countries and in individualistic cultures. A
+second study by Luszczynska, Gutiérrez-Doña, and Schwarzer
+(2005) measured Consideration of Future Consequences
+(Strathman, Gleicher, Boninger, & Edwards 1994) in
+Americans, Turkish, and Polish high school students. Greater
+consideration of future consequences was associated with
+high general self-efficacy in all countries. The third study
+(Milfont & Gapski, 2010) has integrated a number of culturelevel data of time orientations from 73 countries, yielding two
+factors related to future and long-term orientation. Only the
+future-oriented factor was associated to the countries’ national
+wealth and level of human development.
+Time orientation has been the topic of several major
+cross-cultural studies; however, an integration of their findings is impossible due to the absence of an underlying general theoretical basis and a lack of methodological
+convergence across these studies. In our view, this is due to
+both substantive and methodological reasons. Shortcomings
+include a lack of a global view on parts of the domain of
+psychological time and an absence of widely employed
+instruments with well-established psychometric properties
+for the time concepts studied. In addition, almost no crosscultural studies have conducted equivalence analyses; thus,
+some reported cross-cultural differences in time orientation
+might have been influenced by measurement anomalies,
+such as inadequate item content for some countries.
+Why is equivalence analysis so important in this kind of
+cross-cultural research? When comparing groups on a measured construct, such as time perspective, an assumption is
+made that the instrument measures the same psychological
+
+Sircova et al.
+construct in all groups. This assumption is verified by equivalence testing. Equivalence refers to the measurement invariance of the measured construct across groups. If this
+equivalence assumption holds, the group comparisons are
+valid and differences/similarities between groups can be
+meaningfully interpreted. If this equivalence assumption
+does not hold, comparisons and interpretations are not fully
+meaningful (Milfont & Fischer, 2010; van de Vijver &
+Leung, 1997). Establishing measurement invariance is thus a
+prerequisite for meaningful comparisons across groups, and
+four main levels of equivalence can be distinguished: functional, structural, metric, and full score or scalar equivalence
+(Fontaine, 2005).
+In the present article, we aim to address these shortcomings by examining the extent to which the Zimbardo Time
+Perspective Inventory (ZTPI; Zimbardo & Boyd, 1999), an
+instrument that uses the most comprehensive conception of
+time perspective (McGrath & Tschan, 2004) and that validly
+and reliably assesses time perspective in a Western context,
+also captures dimensions of time perspective in a diverse set
+of other cultures.
+
+The ZTPI
+In recent years, research on the psychological dimension of
+time that can be identified as “time perspective” has increased
+considerably. Time perspective corresponds to an individual’s view on his or her past and future at a given time (Frank,
+1939; Lewin, 1942). Time perspective links past, present,
+and future (Hoornaert, 1973), or in Zimbardo and Boyd’s
+(1999) words: “Between the abstract, psychological constructions of prior past and anticipated future events lies the
+concrete, empirically centered representation of the present”
+(p. 1271). In addition, these researchers conceive of time
+perspective as the ways in which individuals partition the
+flow of their personal experiences into time zones or temporal categories (see also Zimbardo & Boyd, 2008).
+Usually, such temporal categories have been identified
+as past, present, and future. However, they can vary in their
+salience or in the extent of utilization so that some of these
+time frames are overused, while others are underused by
+individuals, social groups, nations, and cultures. Such
+biased time perspectives function automatically and nonconsciously, and may be influenced by many factors,
+including education and upbringing, social class, religion,
+geography, economic and political stability–instability, as
+well as family, social, and cultural structures. Time perspective is critical when it comes to goal setting and decision making: the actor may be too distracted by the
+immediate situation (present orientation), immersed in
+memories (past orientation), or preoccupied with future
+gains and losses (future orientation).
+
+3
+The development of ZTPI (Zimbardo & Boyd, 1999) was
+based on theoretical analyses, in-depth interviews, focus
+groups, factor analyses, feedback from participants, and has
+refined the three major time zones of past, present, and future
+by empirically confirmed factors that decompose the past
+into a focus on positive or negative memories, while the
+present decomposes into a focus on hedonism versus fatalism. As a result, the ZTPI measures five temporal orientations: Past Positive (PP), Past Negative (PN), Present
+Hedonistic (PH), Present Fatalistic (PF), and Future (F).
+The PP dimension represents pleasurable, usually sentimental and nostalgic views of one’s past, while emphasizing
+the maintenance of relationships with family and friends. In
+contrast, the PN dimension reflects a focus on personal experiences that were aversive, noxious, traumatic, or filled with
+regret. Those high on PH live in the moment, enjoy high
+intensity activities, sensation seeking, and act with minimal
+concern for the consequences of their behavior. The PF
+dimension reflects helpless and hopeless attitude toward the
+future and one’s life that seems fated and not under personal
+control. The F factor represents an attitude of goal setting
+and working for these goals at the expense of present enjoyment and delaying gratification, while always considering
+the consequences of one’s own actions and decisions.
+Various studies have addressed the psychometric properties of the ZTPI in particular cultural contexts, and the scales
+reveal adequate internal consistencies (in the range of .63 to
+.84). Adequate psychometric properties were found in more
+than 20 countries: Algeria (Djarallah & Seghir Chorfi,
+2009), Brazil (Leite & Pasquali, 2008; Milfont, Andrade,
+Belo, & Pessoa, 2008), Czech Republic (Lukavská,
+Klicperová-Baker, Lukavský, & Zimbardo, 2011), Estonia
+(Seema & Sircova, , 2013), France (Apostolidis & Fieulaine,
+2004), Greece (Anagnostopoulos & Griva, 2012), Israel
+(Carmi & Goroshit, 2014), Japan (Shimojima, Sato, & Ochi,
+2012), Latvia (Kolesovs, 2009), Lithuania (Liniauskaite &
+Kairys, 2009), Mexico (Corral-Verdugo, Fraijo-Sing, &
+Pinheiro, 2006), the Netherlands (van Beek, & Kamphuis,
+2012), Philippines (Cebuano language; Agsoy, Cacanog,
+Chiong, & Ocenar, 2010), Poland (Przepiorka, 2011),
+Portugal (Ortuño, & Gamboa, 2009), Romania (Gavreliuc,
+Mitu, & Gavreliuc, 2012), Russia (Sircova, Sokolova, &
+Mitina, 2008), Serbia (Kostic & Nedeljkovic, 2013), South
+Africa (Dissel & Potgieter, 2007), Spain (Diaz-Morales,
+2006), Sweden (Carelli, Wiberg, & Wiberg, 2011), and
+Ukraine (Senyk, 2012).
+The predictive, convergent, and discriminant validity of
+the instrument has also been demonstrated across a number
+of studies. The nomological network of each scale and reference to specific studies is given in the website: www
+.TheTimeParadox.com. To illustrate, PN is positively associated with various mental health problems (Laghi, Baiocco,
+
+4
+D’Alessio, & Gurrieri, 2009; Sircova et al., 2008; van Beek,
+Berghuis, Kerkhof, & Beekman, 2011; Zimbardo & Boyd,
+1999) and negatively associated with life satisfaction
+(Boniwell, Osin, Linley, & Ivanchenko, 2010; Shipp,
+Edwards, & Lambert, 2009) and positive relations with others (Holman & Zimbardo, 2009; Sircova & Mitina, 2008).
+PP is positively correlated with mental health and self-esteem
+(Zimbardo & Boyd, 1999), health responsibility, nutrition,
+and spiritual growth (Hamilton, Kives, Micevski, & Grace,
+2003). Higher scores on PF are positively associated with
+aggression, anxiety, and depression (Zimbardo & Boyd,
+1999); suicidal ideation (van Beek et al., 2011); physical
+activity (Hamilton et al., 2003); use of tobacco/alcohol/drug
+(Daugherty & Brase, 2010), and procrastination (Ferrari &
+Diaz-Morales, 2007). Individuals with high scores on PH
+also tend to have high scores on novelty and sensation seeking (Zimbardo & Boyd, 1999), substance use (Fieulaine &
+Martinez, 2011), curiosity and exploration (Kashdan, Rose,
+& Fincham, 2004) and satisfaction with life (Boniwell et al.,
+2010). Future time perspective is positively correlated with
+conscientiousness, preference for consistency, a consideration of future consequences measure, and self-report hours
+spent studying per week (Zimbardo & Boyd, 1999); healthy
+life style (Daugherty & Brase, 2010); long-term adjustment
+following a highly stressful event (Holman & Silver, 2005);
+and pro-environmental attitudes and behaviors (Milfont &
+Gouveia, 2006).
+In sum, from studies conducted in different countries,
+PN and PF orientations repeatedly appeared as negatively
+associated with psychological well-being and behaviors,
+whereas PP and F orientations appeared to be positively
+associated in many cases. PH appeared as having associations, simultaneously related to risky behaviors and to more
+satisfactory relations and greater psychological well-being.
+Recently, Boniwell and Zimbardo (2004) investigated temporal profiles based on the interrelations between the five
+dimensions of the model. These authors proposed that the
+more functional profile is a balanced time perspective with
+low scores on dysfunctional orientations, high scores on the
+functional ones, and a moderate score on the remaining
+present-hedonistic orientation. Three studies subsequently
+demonstrated that balanced time perspective profiles are
+closely related to subjective well-being and satisfaction
+with life (Boniwell et al., 2010; Drake, Duncan, Sutherland,
+Abernethy, & Henry, 2008; Sircova & Mitina, 2008).
+Finally, clinical investigations demonstrated that this balanced time perspective model is effective for diagnosis and
+interventions (van Beek et al., 2011; Zimbardo, Sword, &
+Sword, 2012).
+Many researchers now incorporate the ZTPI into their
+studies; however, only a few studies adopted a comparative
+approach. Some studies performed comparisons of time
+
+SAGE Open
+perspective as measured by the ZTPI between countries
+(Russia and United Kingdom; Boniwell et al., 2010) or
+ethno-linguistic samples (Kolesovs, 2009), with no or limited tests for structural equivalence. A study by White, Valk,
+and Dialmy (2011) tested for structural equivalence of the
+ZTPI measure between three countries (Estonia, Morocco,
+and United States) using principal components analysis
+within each country sample compared with factors extracted
+from a pooled matrix through Tucker coefficients of congruence. They concluded that the ZTPI showed somewhat comparable, but not completely identical factors across the three
+countries. An attempt to summarize the available findings
+using ZTPI in different countries (Brazil, France, Italy, South
+Africa, Spain, Russia, and the United States) was presented
+by Sircova et al. (2007). Thus, the possibility to meaningfully compare findings with other studies becomes of critical
+importance.
+
+The Current Investigation
+The current study assesses the structural equivalence of the
+ZTPI in 24 countries by investigating the invariance of its
+five-factor structure. Applying exploratory factor analyses,
+followed by target rotations and confirmatory factor analyses, we examined if the five time perspective dimensions
+first established in the United States also emerge in other cultures, and therefore if we can utilize this measure of time
+perspective as suitable for meaningful cross-cultural comparisons on these dimensions. To evaluate scalar equivalence
+of the specific scales, we have also performed Differential
+Item Functioning (DIF) procedures.
+
+Method
+Participants and Procedure
+The final sample included 26 samples from 24 countries with
+a total of 12,200 participants (Table 1).1 The data were collected by members of the International Research Network on
+Time Perspective between 2003 and 2007, and for the United
+States the original 1999 data were included.
+The sample sizes varied from 180 (United Kingdom) to
+1,269 (Russia) participants. The average age of respondents
+was 26.9 years (SD = 12.3), with 39.9% being male. The
+majority of the samples comprised undergraduate students
+from humanities. They were recruited from local universities during normal class hours or by randomized sampling
+on campus. The general population was reached using a
+snowball approach or web-based surveys (Germany sample
+and part of the Russian sample). Czech data were gathered
+on a fully representative sample (Klicperová-Baker &
+Košťál, 2004). Samples of workers were from a technology
+
+5
+
+Sircova et al.
+
+Language and Culture Adaptations
+
+Table 1. Description of Country Samples.
+Number of participants
+Country
+
+Adaptation
+Male Female Total M age SD age procedure
+
+Algeria
+190
+244
+434
+Brazil-1
+108
+155
+263
+Brazil-2
+274
+250
+528
+China-1
+138
+217
+356
+China-2
+216
+693
+924
+Croatia
+150
+205
+357
+Czech Republic 506
+528 1,034
+Estonia
+682
+209
+891
+France
+126
+293
+419
+Germany
+47
+147
+215
+Greece-1
+111
+226
+337
+Greece-2
+65
+150
+215
+Israel
+92
+216
+334
+Italy
+54
+89
+143
+Japan
+157
+276
+433
+Lithuania
+115
+311
+438
+Mexico
+139
+154
+293
+New Zealand
+92
+231
+329
+Poland
+87
+113
+200
+Portugal
+108
+217
+342
+Republic of
+115
+286
+401
+Serbia
+Russia
+464
+794 1,269
+Spain
+289
+471
+763
+Sweden
+138
+187
+325
+Turkey
+221
+251
+475
+United
+33
+144
+180
+Kingdom
+United States
+210
+348
+565
+Total samplea 4,819 7,250 12,200
+
+24.1
+25.3
+19.8
+24.7
+25.0
+20.3
+43.2
+23.3
+21.9
+27.6
+20.9
+21.5
+24.2
+24.1
+20.2
+25.5
+31.9
+19.0
+19.9
+23.0
+22.1
+
+5.3
+12.0
+1.8
+6.3
+3.6
+2.5
+17.5
+6.1
+3.5
+8.3
+5.0
+6.6
+3.9
+6.8
+1.5
+7.8
+13.4
+2.6
+1.5
+8.0
+3.4
+
+t-b-t + BC
+BC
+t-b-t
+t-b-t
+t-b-t
+t-b-t
+BC
+t-b-t
+t-b-t
+BC
+t-b-t
+t-b-t
+t-b-t
+t-b-t
+t-b-t
+t-b-t
+BC
+—
+t-b-t
+t-b-t
+t-b-t
+
+29.2
+40.1
+39.2
+21.3
+24.0
+
+15.7
+14.5
+16.9
+1.5
+9.3
+
+t-b-t + BC
+t-b-t
+t-b-t
+BC
+—
+
+20.9
+26.9
+
+6.1
+12.3
+
+—
+
+Note. t-b-t: translation-back-translation method; BC = bilingual committee
+approach; t-b-t + BC = translation-back-translation combined with a
+bilingual committee approach.
+a
+The final sample used in the article excluded Brazil-1 sample, and 131
+respondents failed to indicate their gender.
+
+factory (both white-collar and blue-collar, in China-1 sample), from a communications company (in China-2 sample),
+and from a governmental institution (part of the Portugal
+sample).
+
+Measure
+The ZTPI (Zimbardo & Boyd, 1999) contains 56 items tapping the five time perspectives dimensions discussed.
+Participants were asked to indicate the extent to which each
+of the statements are characteristic or true of them on a
+5-point Likert-type scale ranging from 1 (very untrue) to 5
+(very true).
+
+Data providers were asked to assure quality of their translation. The type of the quality check was left for their choice
+and in every case included one of the following (see Table
+1): translation-back-translation method (Brislin, 1986),
+bilingual committee approach (van de Vijver & Leung,
+1997), or translation-back-translation combined with a
+bilingual committee approach (Harkness, van de Vijver, &
+Mohler, 2003).
+
+Results
+Descriptive Statistics
+We performed data quality check on the instrument level by
+evaluating the number of missing values and comparing
+reliability coefficients (Cronbach’s α). Our sample contained 8.06% cases with some missing data (7.14% had
+three or less items missing). Item correlation matrices were
+produced for each sample using pairwise deletion.
+Regression-based imputation on the dataset of each country
+was used to calculate total scale scores for individual
+responses with missing data. Overall, Cronbach’s alphas
+for three scales (PN, PH, and F) were above .7 with mean
+values of .79, .77, and .74, respectively, and for the other
+two scales (PP and PF) the mean coefficients were .68 (see
+Table 2).
+
+Construct Equivalence
+An exploratory factor analysis was performed upon the
+aggregated correlation matrix (N = 12,200). The correlation
+matrix for each sample was Fisher-transformed, and the
+aggregated correlation matrix was obtained as inverse Fishertransformed weighted sum of those matrices (weights were
+based on the square root of the size of each sample). The
+obtained factor structure matched the original very closely.
+The scree plot indicated three or five factors. Minimum average partial test indicated five factors (O’Connor, 2000;
+Velicer, 1976). Given our theoretical and statistical rationale,
+five factors with eigenvalues above 1.5 were extracted,
+explaining 32% of the total variance. Only two items (25 and
+52) had factor loadings not corresponding to the proposed
+location.
+To measure the similarity of the factor analytic solutions
+across samples, and thus examine construct equivalence,
+exploratory factor analyses with subsequent Procrustes rotation were undertaken in which the factors from each country
+were compared with the factors in the pooled solution
+(Table 2). The factor congruence coefficients (Tucker’s phi)
+were higher than .90 for most of the factors, indicating factorial similarity in most cases (van de Vijver & Leung, 1997).
+
+6
+
+SAGE Open
+
+Table 2. Internal Consistency Coefficients (Cronbach’s α) and Proportionality Coefficients After Procrustes Rotation.
+Internal consistency coefficients
+Country
+
+n
+
+PN
+
+PH
+
+Algeria
+434
+Brazil-2
+528
+China-1
+356
+China-2
+924
+Croatia
+357
+Czech Rep.
+1,034
+Estonia
+891
+France
+419
+Germany
+215
+Greece-1
+337
+Greece-2
+215
+Israel
+334
+Italy
+143
+Japan
+433
+Lithuania
+438
+Mexico
+293
+New Zealand 329
+Poland
+200
+Portugal
+342
+Russia
+1,269
+Serbia
+401
+Spain
+763
+Sweden
+325
+Turkey
+475
+United
+180
+Kingdom
+United States 565
+Mα
+
+.81
+.79
+.74
+.79
+.84
+.82
+.82
+.72
+.78
+.79
+.82
+.82
+.80
+.74
+.78
+.74
+.79
+.84
+.79
+.82
+.76
+.76
+.83
+.80
+.79
+
+.79
+.80
+.74
+.81
+.86
+.84
+.84
+.74
+.81
+.82
+.84
+.84
+.82
+.76
+.80
+.76
+.81
+.84
+.81
+.84
+.77
+.77
+.85
+.81
+.82
+
+.83
+.79
+.64
+.68
+.76
+.84
+.80
+.78
+.82
+.85
+.86
+.80
+.68
+.72
+.76
+.72
+.80
+.76
+.79
+.77
+.78
+.79
+.81
+.75
+.75
+
+.77
+.79
+
+.79
+.81
+
+.76
+.77
+
+F
+
+PP
+
+.82
+.80
+.64
+.69
+.77
+.85
+.81
+.79
+.82
+.85
+.86
+.80
+.70
+.72
+.77
+.73
+.80
+.77
+.80
+.78
+.78
+.80
+.82
+.76
+.76
+
+.76
+.71
+.63
+.71
+.82
+.74
+.78
+.76
+.76
+.83
+.76
+.76
+.68
+.74
+.77
+.70
+.78
+.70
+.72
+.70
+.77
+.74
+.73
+.72
+.76
+
+.71
+.65
+.56
+.66
+.74
+.66
+.73
+.64
+.75
+.73
+.75
+.73
+.61
+.73
+.67
+.56
+.78
+.67
+.64
+.71
+.69
+.65
+.75
+.62
+.77
+
+.68
+.64
+.60
+.67
+.73
+.70
+.73
+.61
+.74
+.72
+.76
+.72
+.61
+.69
+.66
+.58
+.75
+.62
+.61
+.71
+.68
+.65
+.74
+.60
+.75
+
+.74
+.70
+.62
+.78
+.71
+.76
+.69
+.69
+.65
+.69
+.63
+.71
+.74
+.63
+.71
+.72
+.64
+.61
+.70
+.65
+.68
+.61
+.66
+.66
+.68
+
+.76
+.78
+
+.73
+.74
+
+.72
+.69
+
+.70
+.68
+
+.71
+.68
+
+Proportionality coefficient per
+factor
+
+% of explained
+variance
+
+PN
+
+PH
+
+F
+
+PP
+
+PF
+
+.73
+.68
+.62
+.78
+.72
+.75
+.70
+.68
+.66
+.70
+.64
+.72
+.72
+.63
+.72
+.70
+.64
+.64
+.71
+.66
+.71
+.63
+.66
+.65
+.69
+
+34.56
+33.41
+29.92
+34.25
+38.17
+39.48
+36.08
+32.87
+36.66
+37.91
+38.20
+36.03
+35.41
+33.07
+33.69
+36.11
+36.55
+34.02
+35.34
+33.51
+34.58
+33.43
+37.07
+32.34
+36.30
+
+.83
+.97
+.86
+.82
+.97
+.94
+.96
+.94
+.92
+.97
+.95
+.92
+.89
+.93
+.96
+.82
+.96
+.94
+.94
+.98
+.96
+.91
+.95
+.96
+.95
+
+.89
+.95
+.68
+.90
+.96
+.94
+.98
+.97
+.93
+.96
+.96
+.95
+.88
+.92
+.95
+.87
+.96
+.96
+.95
+.96
+.97
+.98
+.94
+.94
+.93
+
+.90
+.94
+.67
+.83
+.97
+.90
+.95
+.96
+.92
+.96
+.94
+.88
+.82
+.90
+.96
+.72
+.95
+.95
+.94
+.97
+.92
+.96
+.95
+.92
+.90
+
+.86
+.93
+.83
+.89
+.94
+.92
+.95
+.93
+.91
+.93
+.92
+.89
+.88
+.92
+.91
+.77
+.93
+.8
+.88
+.94
+.91
+.96
+.94
+.89
+.88
+
+.84
+.94
+.72
+.70
+.92
+.93
+.93
+.81
+.88
+.92
+.68
+.80
+.54
+.82
+.93
+.71
+.93
+.82
+.92
+.95
+.87
+.89
+.79
+.85
+.90
+
+.71
+.69
+
+32.36
+
+.98
+
+.97
+
+.98
+
+.96
+
+.93
+
+PF
+
+Note. Values in bold indicate the revised keying. In the original keying, Item 25 pertains to Past Positive and Item 52 to Present Fatalistic. In the revised
+keying, Item 25 pertains to Past Negative and Item 52 to Present Hedonistic. PN = Past Negative; PH = Present Hedonistic; F = Future; PP = Past
+Positive; PF = Present Fatalistic.
+
+The average proportionality coefficients across all 26 samples were .93 for PH, .93 for PN, .91 for F, .90 for PP, and .84
+for PF. The proportion of explained variance ranged from
+29.92% (China-1) to 39.48% (Czech Republic), with an
+average of 35.05%.
+It can be concluded that structural equivalence was
+rather well supported for the first factors. However, notably PF yielded values in various countries that left considerable room for improvement; some PF items showed
+relatively high secondary loadings (e.g., Items 33 and 47
+had secondary loadings on PN). Additional analyses of the
+misfit did not yield a clear patterning (such as moving
+these items to other factors); hence, there were multiple
+reasons for the lower values of the proportionality coefficient, and these lower values were not associated with specific clusters of countries or salient sub-clusters of items
+not covered in the five-factor model. It can be concluded
+
+that the cross-cultural differences of the PF have to be
+interpreted with great caution.
+
+Scalar Equivalence
+We assessed item bias (DIF) using ANOVA approach (van de
+Vijver & Leung, 1997) to evaluate if direct comparison of
+ZTPI scores is possible across the cultural groups. Effect
+sizes (partial eta-squared) for the country factor were calculated for each item and used as a DIF indicator (similar to
+Cohen’s d). Items and countries contributing to the most bias
+were iteratively removed. The resulting unbiased set included
+36 items and 23 country samples.2 Three samples with more
+than two instances of bias were removed: China-2, Japan,
+and Greece-2. Thus, data from 23 countries (Japan was
+excluded) were deemed suitable for country-level analyses,
+and at most had a single biased item per scale.
+
+7
+
+Sircova et al.
+Table 3. Loading and Explained Variance in Exploratory Factor Analysis of the Aggregated Solution and Unbiased 36 Zimbardo Time
+Perspective Inventory Items (n = 10,775).
+Item
+
+F1
+
+F2
+
+F3
+
+F4
+
+F5
+
+2. Familiar childhood sights, sounds, smells often bring back a flood of wonderful memories.
+4. I often think of what I should have done differently in my life.
+7. It gives me pleasure to think about my past.
+8. I do things impulsively.
+9. If things don’t get done on time, I don’t worry about it.
+10. When I want to achieve something, I set goals and consider specific means for reaching
+those goals.
+11. On balance, there is much more good to recall than bad in my past.
+12. When listening to my favorite music, I often lose all track of time.
+17. I try to live my life as fully as possible, one day at a time.
+19. Ideally, I would live each day as if it were my last.
+20. Happy memories of good times spring readily to mind.
+21. I meet my obligations to friends and authorities on time.
+23. I make decisions on the spur of the moment.
+24. I take each day as it is rather than try to plan it out.
+25. The past has too many unpleasant memories that I prefer not to think about.
+27. I’ve made mistakes in the past that I wish I could undo.
+29. I get nostalgic about my childhood.
+30. Before making a decision, I weigh the costs against the benefits.
+31. Taking risks keeps my life from becoming boring.
+33. Things rarely work out as I expected.
+34. It’s hard for me to forget unpleasant images of my youth.
+35. It takes joy out of the process and flow of my activities, if I have to think about goals,
+outcomes, and products.
+36. Even when I am enjoying the present, I am drawn back to comparisons with similar past
+experiences.
+37. You can’t really plan for the future because things change so much.
+38. My life path is controlled by forces I cannot influence.
+40. I complete projects on time by making steady progress.
+42. I take risks to put excitement in my life.
+44. I often follow my heart more than my head.
+45. I am able to resist temptations when I know that there is work to be done.
+47. Life today is too complicated; I would prefer the simpler life of the past.
+49. I like family rituals and traditions that are regularly repeated.
+50. I think about the bad things that have happened to me in the past.
+51. I keep working at difficult, uninteresting tasks if they will help me get ahead.
+52. Spending what I earn on pleasures today is better than saving for tomorrow’s security.
+54. I think about the good things that I have missed out on in my life.
+55. I like my close relationships to be passionate.
+Eigenvalue
+Proportion of the total variance explained
+
+.01
+.63
+−.08
+.02
+.13
+−.04
+
+.08
+.01
+.06
+.55
+−.21
+.11
+
+.61
+.11
+.68
+.01
+.02
+.09
+
+.07
+−.03
+−.01
+−.20
+.30
+.60
+
+.03
+.06
+−.06
+.12
+−.21
+−.23
+
+−.36
+.09
+−.22
+.01
+−.03
+−.09
+.01
+.10
+.52
+.61
+.28
+.08
+.05
+.38
+.67
+.22
+
+.08
+.39
+.47
+.45
+.21
+−.04
+.49
+−.29
+−.04
+.07
+.04
+−.04
+.72
+.02
+.06
+.12
+
+.60
+.16
+.10
+.08
+.62
+.11
+−.04
+.03
+.43
+.02
+.56
+.09
+−.04
+−.03
+−.20
+−.02
+
+.06
+−.03
+.22
+.11
+.14
+.60
+−.19
+.26
+−.12
+−.03
+−.05
+.51
+−.01
+−.13
+.07
+−.13
+
+−.07
+.07
+.12
+.08
+.06
+.07
+.27
+.52
+−.19
+.01
+.06
+−.14
+−.14
+.40
+.10
+.42
+
+.55
+
+.04
+
+.15
+
+.04
+
+.18
+
+.09
+.24
+−.11
+.04
+.08
+−.09
+.32
+.08
+.73
+.15
+−.01
+.67
+.09
+3.52
+.10
+
+.12
+.03
+−.05
+.75
+.44
+−.12
+−.11
+−.04
+.03
+.05
+.38
+.03
+.38
+2.96
+.08
+
+.02
+.01
+.04
+−.06
+.10
+.00
+.16
+.45
+−.12
+.00
+−.06
+.06
+.18
+2.53
+.07
+
+−.03
+.04
+.68
+−.03
+−.11
+.62
+−.01
+.20
+.02
+.47
+−.24
+−.04
+.11
+2.54
+.07
+
+.68
+.58
+.00
+−.14
+.21
+.05
+.38
+.05
+.06
+−.08
+.19
+.12
+−.06
+2.03
+.06
+
+Note. F1 = Past Negative, F2 = Present Hedonistic, F3 = Past Positive, F4 = Future, F5 = Present Fatalistic. Values in bold indicate the placement of the
+items in the factors. Values in italic for Items 24, 25, 33, and 52 indicate the originally proposed placement. The China-2, Japan, and Greece-2 samples are
+excluded.
+
+Cross-Cultural Psychometric Properties of the
+Short Version of the ZTPI
+To investigate the 36-item structure across the 23 countries,
+we factor analyzed the resulting set. Five factors were
+extracted, explaining 37.74% of the variance (Table 3). The
+loading pattern corresponded to that of the full ZTPI version,
+
+with the exception of two items. Mean alpha coefficients
+were .77 for PN (7 items), .69 for PH (10 items), .66 for PP
+(6 items), .64 for F (7 items), and .60 for PF (6 items).
+To test four alternative models, we used confirmatory factor analysis (LISREL 8.80) taking the pooled covariance
+matrix (based on the whole sample, weighted by the square
+root of the sample size) as the input, and considering only the
+
+8
+
+SAGE Open
+
+Table 4. Intercorrelations Between the Zimbardo Time
+Perspective Inventory Latent Factors Based on Confirmatory
+Factor Analysis.
+Factor
+1. Past Negative
+2. Present
+Hedonistic
+3. Future
+4. Past Positive
+5. Present Fatalistic
+
+Number of
+items
+
+1
+
+2
+
+7
+10
+
+1.00
+.11
+
+1.00
+
+6
+7
+6
+
+−.06 −.17 1.00
+−.20
+.18
+.26 1.00
+.58
+.30 −.34 −.01* 1.00
+
+3
+
+4
+
+5
+
+Note. Only the 36 unbiased items were used in the analysis using a
+23-country sample (n = 10,765). All correlations are significantly different
+from 0, except for the starred correlation.
+
+36 unbiased items. Model 1 tested the original five-factor
+structure, Model 2 tested moving items 25 and 52 to the other
+related factor, Model 3 tested the same structure, but moving
+items 24 and 33, and Model 4 tested the same structure but
+shifting these four items. Models with comparative fit index
+(CFI), root mean square error of approximation (RMSEA),
+and standardized root mean square residual (SRMR) having
+values close to .95, .06, and .08 or better indicate acceptable
+fit (Hu & Bentler, 1999).
+It should be noted that these criteria are mainly based on
+experiences with fit measures in smaller samples. Some fit
+statistics, notably the χ2 measures, are sensitive for sample
+size. In large samples, it is not uncommon to apply more
+relaxed fit criteria. Given these considerations, the first three
+models had an acceptable fit to the data: Model 1, χ2(N =
+10765, 584) = 23943.54, p < .001; RMSEA = .061, 90% confidence interval [CI] = [.060, .062]; SRMR = .067; CFI = .84.
+Model 2, χ2(N = 10765, 584) = 21122.67, p < .001; RMSEA
+= .057, 90% CI = [.056, .058]; SRMR = .061; CFI = .85.
+Model 3, χ2(N = 10765, 584) = 23629.75, p < .001; RMSEA
+= .061, 90% CI = [.060, .061]; SRMR = .067; CFI = .84.
+However, the modified structure (Model 4) provided overall
+better fit to the data: χ2(N = 10765, 584) = 20692.27,
+p < .001; RMSEA = .057, 90% CI = [.056, .057]; SRMR =
+.062; CFI = .86. Given these results, we kept the four items
+in their new positions.
+All factor loadings were significant (p < .05), and the
+weakest standardized path was .28 from both Item 9 to F and
+Item 55 to PH. All intercorrelations (Table 4) were significant (p < .05) and followed the same direction originally
+reported by Zimbardo and Boyd (1999, Table 3), except for
+the only non-significant correlation between PP and PF.
+
+Discussion
+Our study represents a significant contribution to cross-cultural
+research and to time studies by providing a comprehensive
+model of time perspective and a suitably reliable, valid measurement instrument for making meaningful psycho-social
+
+comparisons. Most studies have focused on the cross-cultural
+variations of the time dimension of cultures, splitting between
+contrasted profiles across cultures. This focus and the many
+claims to consider differences in time orientations, perceptions,
+or perspectives led to a wide variety of approaches that did not
+yield an integrative theory or a relevant measure to assess these
+variations systematically. At the same time, research on the
+psychological dimension of time that can be identified as “time
+perspective” has increased considerably both within nations
+and also across cultures in recent years. Despite this recent
+increase in research on time perspective, there has been more
+confusion than enlightenment created by varying, non-comparable definitions of terms, along with a myriad of assessment
+devices, both verbal and pictorial, some with no acceptable
+psychometrics,
+The ZTPI has proven to be a standardized, easily administered measure for assessing relatively stable individual differences across five time perspective domains (PN, PP, PF,
+PH, and F). This inventory is being used by a diverse set of
+researchers in many countries who are uncovering a new
+body of links to attitudes, values, and behaviors. For a full
+presentation of its development, a range of variables related
+to each factor and ideas about changing biased time perspectives into balanced ones, see Zimbardo and Boyd (2008). In
+the present study, we extended the utility of the ZTPI by
+establishing that these five factors of time perspective can be
+empirically identified across diverse cultural samples, and
+further that their meaning is fully or partially invariant across
+countries. We subjected our measure of time perspective to
+invariance tests across the set of data from 24 nations with a
+large total sample of more than 12,000 respondents.
+Our results suggest that five temporal orientations as
+measured by ZTPI are invariant across many countries with
+diverse cultural traditions and across several dozen different language adaptations. The considerable item reduction
+on the basis of the exploratory factor and DIF analyses did
+not affect the global factor structure. The emergent 36-item
+ZTPI is sufficiently reliable for country-level analysis,
+whereas for the individual-level analysis the use of full
+scales is recommended.
+Despite strong empirical evidence that support the fivefactor model across cultures and the measurement invariance
+of the ZTPI, we have to mention some limitations. First, the
+participants from the individual studies used were from convenience samples, thus being very heterogeneous in composition, with many more females than males. The individual
+studies also varied considerably in sample size (ranging from
+around 100 individuals to more than 1,000). In addition,
+given the wide range of research teams involved, there has
+been considerable variability in the data collection methods
+they used (e.g., paper-and-pencil vs. web-based). Moreover,
+some statistics (proportionality coefficients and model fit)
+were low in some analyses. Future research should seek
+alternative methods of data collection organization that could
+allow a priori decisions about representativeness, sample
+
+9
+
+Sircova et al.
+sizes, respondent characteristics, standardized procedures,
+and also sets of comparable variables and measures predicted
+to be correlated with time perspectives. To do so properly
+would likely require a substantial research grant to fund such
+an ambitious endeavor.
+Notwithstanding these limitations, our results strongly suggest that five temporal orientations are invariant across many
+countries with diverse cultural traditions. Although the original scale was developed in the United States on Englishspeaking respondents, we now show for the first time the
+invariance of the ZTPI across several dozen different language
+adaptations. Therefore, we can now strongly recommend these
+ZTPI versions as the “gold standard” for further research on
+time perspective, as well as its utility in cross-cultural comparisons. We can also recommend its inclusion in crossnational studies of well-being, psychological health, and
+economic decision making at individual and national levels.
+Our study confirms the relevance of the theoretical model
+of time perspective proposed by Zimbardo and Boyd (1999),
+and suggests that this construct can be considered as a relevant dimension when analyzing cultural variations. Beyond
+comparisons between country-level scores, future research
+should relate time perspective to other indicators such as
+economic development, well-being, and social functioning.
+At the current time of economic crises in many countries,
+those with insecure economic situations tend to move away
+from a focus on the future of saving and investing toward a
+more pragmatic routine, living each day as it comes
+(Fieulaine, Apostolidis, & Olivetto, 2006). Time perspective
+might thus change during economic crises as the future
+becomes unpredictable and uncertain, and people cannot
+afford to plan for the long term and thus come to prefer an
+orientation toward the present (Muzdybaev, 2000). In addition, recent dramatic storms and droughts around the world
+make evident that global climate change is upon us, creating
+natural disaster-induced traumas for many citizens.
+The 36-item ZTPI opens the way to more integrative and
+cumulative research on issues of economic and political
+instability as well as natural threats by providing a validated
+cross-cultural measure. Research on these topics would especially benefit from a more integrative approach that the
+revised ZTPI can now address. For example, a new timebased therapy for treating post-traumatic stress disorder has
+been proven to be effective for many different types of traumas, by exchanging narratives of being stuck in the past with
+ones of creating a hopeful future and a selected present hedonism of enjoying family, friends, work, and fun (Zimbardo
+et al., 2012). Using the cross-culturally validated version of
+the ZTPI, researcher will be able to more effectively test
+whether this new time-based therapy can be effective across
+cultural milieus. Similarly, we would expect that central to
+establishing a solid future orientation is a sense of trust in
+one’s predictions of outcomes of given current behaviors.
+With instability in one’s family, children cannot trust that
+parents will deliver on their promises, so it is wiser to accept
+
+lesser short-term certain gains than plan on bigger elusive
+future ones. Future research will also be able to more systematically examine this prediction.
+Individuals’ time perspectives are not only antecedent of
+society’s sustainability and growth, but also consequences,
+and research is needed to clarify how this construct, largely
+considered as a personality variable, interacts with cultural
+contexts (see Zimbardo & Boyd, 2008). It is our hope that
+our study will lead researchers to pay more attention to time
+perspective as a critical construct linking attitudes, values,
+and behaviors in cross-cultural research.
+Authors’ Note
+Portions of this article were presented at the XXth Congress of the
+International Association of Cross-Cultural Psychology; the 27th
+International Congress of Applied Psychology, Melbourne,
+Australia, July 2010; and the 11th European Conference on
+Psychological Assessment.
+
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article.
+
+Funding
+The author(s) disclosed receipt of the following financial support
+for the research, authorship, and/or publication of this article: Anna
+Sircova has received a 1-year scholarship from Swedish Institute
+(academic year 2009/2010) to work on this study.
+
+Notes
+1.
+
+2.
+
+A total of 27 samples were initially included, but a Brazil sample (Brazil-1) was later excluded from the analyses due to low
+reliability coefficients.
+Effect sizes for the differential item functioning analysis are
+available upon request.
+
+References
+Agsoy, E. J. R., Cacanog, A. Q., Chiong, K. O., & Ocenar,
+P. A. A. (2010). A validation study of the Zimbardo Time
+Perspective Inventory (ZTPI) using a Cebuano-speaking sample (Unpublished bachelor thesis). Department of Psychology,
+University of San Carlos, Philippines.
+Anagnostopoulos, F., & Griva, F. (2012). Exploring time perspective in Greek young adults: Validation of the Zimbardo
+Time Perspective Inventory and relationships with mental
+health indicators. Social Indicators Research, 106, 41-59.
+doi:10.1007/s11205-011-9792-y
+Apostolidis, T., & Fieulaine, N. (2004). Validation française de
+l’échelle de temporalité [French validation of the time perspective inventory]. Revue européenne de psychologie appliquée,
+54, 207-217. doi:10.1016/j.erap.2004.03.001
+Ashkanasy, N., Gupta, V., Mayfield, M., & Trevor-Roberts, E.
+(2004). Future orientation. In R. House, P. Hanges, M. Javidan,
+P. Dorfman, & W. Gupta (Eds.), Culture, leadership, and organizations: The GLOBE study of 62 societies (pp. 282-342).
+Thousand Oaks, CA: SAGE.
+
+10
+Boniwell, I., Osin, E., Linley, P. A., & Ivanchenko, G. (2010). A
+question of balance: Examining relationships between time
+perspective and measures of well-being in the British and
+Russian student samples. Journal of Positive Psychology, 5,
+24-40. doi:10.1080/17439760903271181
+Boniwell, I., & Zimbardo, P. (2004). Balancing time perspective in pursuit of optimal functioning. In P. A. Linley & S.
+Joseph (Eds.), Positive psychology in practice (pp. 165-178).
+Hoboken, NJ: Wiley.
+Brislin, R. W. (1986). The wording and translation of research
+instruments. In W. J. Loner & J. W. Berry (Eds.), Field methods in cross-cultural research (pp. 137-164). Beverly Hills,
+CA: SAGE.
+Brislin, R. W., & Kim, E. S. (2003). Cultural diversity in people’s understanding and use of time. Applied Psychology:
+An International Review, 52, 363-382. doi:10.1111/14640597.00140
+Carelli, M. G., Wiberg, B., & Wiberg, M. (2011). Development and
+construct validation of the Swedish Zimbardo Time Perspective
+Inventory. European Journal of Psychological Assessment, 27,
+220-227. doi:10.1027/1015-5759/a000076
+Carmi, N., & Goroshit, M. (2014)). ‫ודרבמיז לש ןמזה תביטקפסרפ‬: ‫תניחב‬
+‫[ לש תירבעה הסרגה‬Zimbardo’s Time Perspective Inventory:
+Testing the Hebrew version]. Megamot—Journal of Behavioral
+Science, 49 (3).
+Chinese Culture Connection. (1987). Chinese values and the search
+for culture-free dimensions of culture. Journal of Cross-Cultural
+Psychology, 18, 143-164. doi:10.1177/0022002187018002002
+Corral-Verdugo, V., Fraijo-Sing, B., & Pinheiro, J. Q. (2006).
+Sustainable behavior and time perspective: Present, past, and
+future orientations and their relationship with water conservation behavior. Interamerican Journal of Psychology, 40, 139147.
+Daugherty, J. R., & Brase, G. L. (2010). Taking time to be healthy:
+Predicting health behaviors with delay discounting and time
+perspective. Personality and Individual Differences, 48, 202207.
+Diaz-Morales, J. F. (2006). Estructura factorial y fiabilitad del
+Inventario de Perspectiva Temporal de Zimbardo [Factorial
+structure and reliability of Zimbardo Time Perspective
+Inventory]. Psicothema, 18, 565-571.
+Dissel, J., & Potgieter, J. C. (2007). Validation of a scale to measure time perspective in an African context (Unpublished master’s thesis). North-West University, South Africa.
+Djarallah, S., & Seghir Chorfi, S. (2009). ‫ودرابمز ةمئاق فييكت‬
+‫[ ةيبرعلا ةئيبلل نمزلا روظنمل‬Zimbardo Time Perspective
+Inventory (ZTPI) Arabic version.]. Arabic Journal of
+Psychological Science, 23, 53-65.
+Drake, L., Duncan, E., Sutherland, F., Abernethy, C., & Henry, C.
+(2008). Time perspective and correlates of well-being. Time &
+Society, 17, 47-61. doi:10.1177/0961463X07086304
+Ferrari, & Diaz-Morales, J. (2007). Procrastination: Different time
+orientations reflect different motives. Journal of Research in
+Personality, 41, 707-714. doi:10.1016/j.jrp.2006.06.006
+Fieulaine, N., Apostolidis, T., & Olivetto, F. (2006). Précarité
+et troubles psychologiques: L’effet médiateur de la perspective temporelle [Socioeconomic deprivation and psychological
+distress: The mediating effect of time perspective]. Les Cahiers
+Internationaux de Psychologie Sociale, 72, 51-64.
+
+SAGE Open
+Fieulaine, N., & Martinez, F. (2011). About the fuels of self-regulation: Time perspective and desire for control in adolescents
+substance use. The Psychology of Self-Regulation, 102-121.
+Fontaine, J. R. J. (2005). Equivalence. In K. Kempf-Leonard (Ed.),
+Encyclopedia of social measurement (Vol. 1, pp. 803-813).
+San Diego, CA: Academic Press. doi:10.1016/B0-12-3693985/00116-X
+Frank, L. K. (1939). Time perspectives. Journal of Social
+Philosophy, 4, 293-312.
+Gavreliuc, A., Mitu, E., & Gavreliuc, D. (2012). Time perspective
+in relation with social axioms for Romanian young cohort.
+Validation of the Romanian ZTPI. Manuscript in preparation.
+Hall, E. T. (1989). Beyond culture. New York, NY: Anchor Books
+Editions.
+Hamilton, J., Kives, K., Micevski, V., & Grace, S. (2003). Time
+perspective and health promoting behavior in a cardiac rehabilitation population. Behavioral Medicine, 28, 132-139.
+Harkness, J. A., van de Vijver, F. J. R., & Mohler, P. (2003). Crosscultural survey methods. Hoboken, NJ: Wiley.
+Hofstede, G. (2001). Culture’s consequences: Comparing values,
+behaviors, institutions, and organizations across nations (2nd
+ed.). Thousand Oaks, CA: SAGE.
+Hofstede, G., Hofstede, G. J., & Minkov, M. (2010). Cultures and
+organizations: Software of the mind (3rd ed.). New York, NY:
+McGraw-Hill.
+Hofstede, G., & Minkov, M. (2010). Long- versus short-term orientation: New perspectives. Asia Pacific Business Review, 16, 4,
+493-504. doi:10.1080/13602381003637609
+Holman, E. A., & Silver, R. C. (2005). Future-oriented thinking
+and adjustment in a nationwide longitudinal study following
+the September 11th terrorist attacks. Motivation and Emotion,
+29, 389-410. doi:10.1007/s11031-006-9018-9
+Holman, E. A., & Zimbardo, P. G. (2009). The social language of time: The time perspective-social network connection. Basic and Applied Social Psychology, 31, 136-147.
+doi:10.1080/01973530902880415
+Hoornaert, J. (1973). Time perspective: Theoretical and methodological considerations. Psychologica Belgica, 13, 265-294.
+Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes
+in covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling, 6, 1-55.
+doi:10.1080/10705519909540118
+Kashdan, T. B., Rose, P., & Fincham, F. D. (2004). Curiosity
+and exploration: Facilitating positive subjective experiences
+and personal growth opportunities. Journal of Personality
+Assessment, 82, 291-305.
+Klicperová-Baker, M., & Košťál, J. (2004). Zimbardo Time
+Perspective Inventory: Results of a representative sample of
+the Czech Republic. Unpublished manuscript.
+Kluckhohn, F. R., & Strodtbeck, F. L. (1961). Variations in value
+orientations. Evanston, IL: Row, Peterson.
+Kolesovs, A. (2009). Factorial validity of the Latvian and Russian
+versions of the Zimbardo Time Perspective Inventory in Latvia.
+Baltic Journal of Psychology, 10, (1-2), 55-64.
+Laghi, F., Baiocco, R., D’Alessio, M., & Gurrieri, G. (2009).
+Suicidal ideation and time perspective in high school students.
+European Psychiatry, 24, 41-46.
+Leite, U. R., & Pasquali, L. (2008). Estudo de validação do
+Inventário de Perspectiva de Tempo do Zimbardo [Zimbardo
+
+Sircova et al.
+time perspective inventory validation study]. Avaliação
+Psicológica, 7, 301-320.
+Levine, R. (1997). A geography of time. New York, NY: Basic
+Books.
+Levine, R., & Norenzayan, A. (1999). The pace of life in 31 countries. Journal of Cross-Cultural Psychology, 30, 178-205.
+doi:10.1177/0022022199030002003
+Lewin, K. (1942). Time perspective and morale. In G. Watson (Ed.),
+Civilian morale (pp. 48-69). Boston, MA: Houghton Mifflin.
+Liniauskaite, A., & Kairys, A. (2009). The Lithuanian version of
+the Zimbardo time perspective inventory. Psichologija, 40,
+66-87.
+Luhmann, N. (2002). Theories of distinction: Redescribing the
+descriptions of modernity. Stanford, CA: Stanford University
+Press.
+Lukavská, K., Klicperová-Baker, M., Lukavský, J., & Zimbardo,
+P. G. (2011). ZTPI—Zimbardův dotazník časové perspektivy
+[Zimbardo Time Perspective Inventory]. Československá psychologie, 55, 356-373.
+Luszczynska, A., Gutiérrez-Doña, B., & Schwarzer, R. (2005).
+General self-efficacy in various domains of human functioning: Evidence from five countries. International Journal of
+Psychology, 40, 80-89. doi:10.1080/00207590444000041
+McGrath, J. E., & Tschan, F. (2004). Temporal matters in social
+psychology: Examining the role of time in the lives of groups
+and individuals. Washington, DC: American Psychological
+Association. doi:10.1037/10659-000
+Milfont, T. L., Andrade, P. R., Belo, R. P., & Pessoa, V. S. (2008).
+Testing Zimbardo time perspective inventory in a Brazilian
+sample. Interamerican Journal of Psychology, 42, 49-58.
+Milfont, T. L., & Fischer, R. (2010). Testing measurement invariance across groups: Applications in cross-cultural research.
+International Journal of Psychological Research, 3, 112-131.
+Milfont, T. L., & Gapski, E. (2010, July). Cross-cultural differences
+in time orientations: Integrating culture-level data. Paper presented at the 20th Congress of the International Association for
+Cross-Cultural Psychology, Melbourne, Australia.
+Milfont, T. L., & Gouveia, V. V. (2006). Time perspective and values: An exploratory study of their relations to environmental
+attitudes. Journal of Environmental Psychology, 26, 72-82.
+doi:10.1016/j.jenvp.2006.03.001
+Muzdybaev, K. (2000). Переживание времени в период кризисов.
+[Experience of time in the period of crisis]. Psikholologicheskiy
+Zhurnal, 21(4), 5-21.
+Kostic, A., & Nedeljkovic, J. (2013). Studije vremenskih perspektiva u Srbiji [Studies of Time Perspectives in Serbia]. Niš :
+Punta.
+O’Connor, B. P. (2000). SPSS and SAS programs for determining the number of components using parallel analysis and
+Velicer’s MAP test. Behavior Research Methods, Instruments,
+& Computers, 32, 396-402. doi:10.3758/BF03200807
+Ortuño, V., & Gamboa, V. (2009). Estrutura factorial do Zimbardo
+Time Perspective Inventory—ZTPI numa amostra de estudantes universitários portugueses [Factorial structure of
+Zimbardo Time Perspective Inventory—ZTPI in a sample
+of Portuguese university students]. Avances en Psicología
+Latinoamericana, 27, 21-32.
+Poole, B. S. (2000). On time: Contributions from the social sciences. Financial Services Review, 9, 375-387. doi:10.1016/
+S1057-0810(01)00076-2
+
+11
+Przepiorka, A. (2011). The determinants of realizing entrepreneurial goals (Unpublished doctoral thesis). The John Paul II
+Catholic University of Lublin, Poland.
+Seema, R., & Sircova, A. (2013). Mindfulness-a time perspective?
+Estonian study. Baltic Journal of Psychology, 14, 1-2.
+Senyk, O. (2012). Адаптація опитувальника часової перспекти
+ви особистості Ф. Зімбардо (ZTPI) [The Ukrainian adaptation
+of Zimbardo Time Perspective Inventory (ZTPI)]. Соціальна п
+сихологія, 85, 153-168.
+Shimojima, Y., Sato, K., & Ochi, K. (2012). Factor structure
+of the Japanese version of the Zimbardo Time Perspective
+Inventory (ZTPI). The Japanese Journal of Personality, 21,
+74-83.
+Shipp, A. J., Edwards, J. R., & Lambert, L. S. (2009). Conceptualization and measurement of temporal focus: The subjective experience of the past, present, and future. Organizational Behavior
+and Human Decision Processes, 110, 1-22.
+Sircova, A., & Mitina, O. V. (2008). Возрастная динамика
+временных ориентаций личности [Developmental dynamics
+of time orientations]. Voprosi Psikhologii, 2, 41-54.
+Sircova, A., Mitina, O. V., Boyd, J., Davydova, I. S., Zimbardo,
+P. G., Nepryaho, T. L., . . .Yasnaya, V. A. (2007). Феномен
+временной перспективы в разных культурах (по
+материалам исследований с помощью методики ZTPI)
+[The phenomenon of time perspective across different cultures:
+Review of researches using ZTPI scale]. International Journal
+of Cultural-Historical Psychology, 4, 19-31.
+Sircova, A., Sokolova, E. T., & Mitina, O. V. (2008). Адаптация
+опросника временной перспективы личности Ф. Зимбардо
+[Adaptation of Zimbardo time perspective inventory].
+Psikhologigesky Journal, 29, 101-109.
+Strathman, A., Gleicher, F., Boninger, D. S., & Edwards,
+C. S. (1994). The consideration of future consequences:
+Weighing immediate and distant outcomes of behavior.
+Journal of Personality and Social Psychology, 66, 742-752.
+doi:10.1037/0022-3514.66.4.742.
+Trompenaars, F., & Hampden-Turner, C. (1998). Riding the waves
+of culture: Understanding diversity in global business (2nd
+ed.). New York, NY: McGraw-Hill.
+van Beek, W., Berghuis, H., Kerkhof, A. J. F. M., & Beekman,
+A. T. F. (2011). Time perspective, personality and psychopathology: Zimbardo’s time perspective inventory in psychiatry. Time & Society, 20, 364-374. doi:10.1177/09614
+63X10373960
+van Beek, W., & Kamphuis, J. H. (2012). Validation of the Dutch
+ZTPI: Time perspective in a clinical and a non-clinical sample.
+Manuscript in preparation.
+van de Vijver, F. J. R., & Leung, K. (1997). Methods and data analysis for cross-cultural research. Thousand Oaks, CA: SAGE.
+Velicer, W. F. (1976). Determining the number of components from
+the matrix of partial correlations. Psychometrika, 41, 321-327.
+doi:10.1007/BF0229355
+White, L. T., Valk, R., & Dialmy, A. (2011). What is the meaning
+of “on time”? The sociocultural nature of standards of punctuality. Journal of Cross-Cultural Psychology, 42, 482-493.
+doi:10.1177/0022022110362746
+Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid, reliable individual-differences metric. Journal
+of Personality and Social Psychology, 77, 1271-1288.
+doi:10.1037/0022-3514.77.6.1271
+
+12
+Zimbardo, P. G., & Boyd, J. N. (2008). The time paradox: The new
+psychology of time that will change your life. New York, NY:
+Free Press.
+Zimbardo, P. G., Sword, R., & Sword, R. (2012). The time cure:
+Overcoming PTSD with the new psychology of time perspective
+therapy. San Francisco, CA: Wiley.
+
+Author Biographies
+Anna Sircova, PhD, a freelance researcher and photographer currently based in Copenhagen, Denmark. She is a founder and former leader of Russian Association of Psychology Students, a
+founder of International Research Network on Time Perspective
+and a founder and creative director of Alternative Copenhagen.
+Her research interests are within psychological time, tolerance for
+ambiguity, creativity, complex systems and social simulations.
+Her current aim is to implement service design thinking in creating usable science and develop a sustainable business model for
+hospices.
+Fons van de Vijver, PhD, holds a chair in cross-cultural psychology at Tilburg University, the Netherlands, an extraordinary chair
+at North-West University, South Africa, and the University of
+Queensland, Australia. He has published over 380 publications and
+is one of the most frequently cited cross-cultural psychologists in
+Europe. He is the former editor of the Journal of Cross-Cultural
+Psychology and is now President of the European Association of
+Psychological Assessment.
+Evgeny Osin received his PhD from Lomonosov Moscow State
+University in 2007. He is currently Associate Professor at the
+Psychology department of National Research University Higher
+School of Economics in Moscow, Russia, and a Senior Research
+Fellow of the Positive Psychology and Life Quality research lab
+there.
+Taciano L. Milfont is a senior lecturer and fellow of the Centre for
+Applied Cross-Cultural Research at the School of Psychology,
+Victoria University of Wellington, New Zealand. He earned his
+BA and MSc from Brazilian universities and his PhD from the
+University of Auckland. His recent work has focused on a crosscultural approach to environmental issues, inter-temporal decisionmaking, and development of a functional theory of values.
+Nicolas Fieulaine is Associate Professor of Social Psychology at
+the University of Lyon, France. His research interests deal with the
+social roots and psychological implications of time perspective,
+
+SAGE Open
+mainly in the fields of inequalities related to health, political participation and access to rights. He is also interested in applying psychology to social issues through action-research and field
+experiments.
+Altinay Kislali-Erginbilgic, resigned from academia in 2009 from
+Yeditepe University, Turkey. She received her MA, on Human
+Resource Development at The George Washington University, her
+EdD from Ankara University and was a Post-Doctorate Researcher
+at the Center for the Study of Learning, at TGWU. Her research
+areas focused on leadership and ego development, time perspective,
+and trans-generational transmission of trauma.
+Philip G. Zimbardo, Ph.D., has been teaching psychology for over
+50 years, and has published more than 50 books and 400 journal,
+professional and media articles. He is the senior leader of an international research team creating innovative research across dozens
+of nations, as well as organizing major conferences on the
+Psychology of Time Perspective.
+The International Research Network on Time Perspective grew
+on the grounds of the Time Perspective and Well-Being seminar
+started out in 2005 in Moscow, Russia by Anna Sircova and was
+hosted by the Library of Psychological Literature in Foreign
+Languages in the name of V.V. Luchkov. In 2006, the seminar
+group invited Prof. Philip G. Zimbardo to give a lecture at Moscow
+State University. After several personal discussions with Prof.
+Zimbardo it was decided to initiate an international research network aiming at a cross-cultural project collecting data assessed by
+the Zimbardo Time Perspective Inventory (ZTPI) from a variety of
+countries, which was coordinated by Anna Sircova and Nicolas
+Fieulaine. In 2007 Wessel van Beek launched the Network’s website http://www.timeorientation.com/index.php/research/members
+The first face to face meeting of the International Research Network
+on Time Perspective was held during the XXIXth International
+Congress of Psychology in Berlin, Germany in 2008. Meeting was
+co-organized by Nicolas Fieulaine and Taciano L. Milfont and hosted
+by Altinay Kislali-Erginbilgic, where the International Time
+Perspective Research Project was launched. The first results of the
+Project are presented in the current article. In 2012 participants from
+42 countries attended the 1st International Conference on Time
+Perspective that was held in Coimbra, Portugal organized by Victor
+E. C. Ortuño and the Institute for Cognitive Psychology, Vocational
+and Social Development. The next Conference is being planned for
+2014 in Poland by Maciej Stolarski and his team. Do join us for a chat
+about how we perceive time and how it makes an impact on our lives!
+
+

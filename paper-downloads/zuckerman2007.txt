@@ -1,0 +1,124 @@
+                         Personality and Individual Diﬀerences 43 (2007) 1303–1305
+                                                                                      www.elsevier.com/locate/paid
+
+
+                                          Short Communication
+
+The sensation seeking scale V (SSS-V): Still reliable and valid
+                                             Marvin Zuckerman
+                    Department of Psychology, University of Delaware, Newark, DE 19716, USA
+
+                                              Received 13 March 2007
+                                            Available online 17 May 2007
+
+
+
+
+Abstract
+
+   This is a response to Gray and Wilson’s (2007) article: ‘‘A detailed analysis of the reliability and validity
+of the sensation seeking scale in a UK sample’’. Gray and Wilson analysed the items in the four subscales of
+the SSS-V, using a Likert type response format and deconstructing the forced choice format of the original.
+However they used some anachronistic items from the old 1978 form rather than the revisions of these items
+in the newer form. But even excluding the 19 items from the 80 item test not meeting their internal reliability
+criterion did not improve the reliabilities of the old scales in their Likert format. Validity of the SSS is not
+really addressed despite the title of the article.
+Ó 2007 Elsevier Ltd. All rights reserved.
+
+Keywords: Sensation seeking scale; Reliability; Validity; Test construction
+
+
+
+
+1. Main text
+
+  Some old tests, like their authors, ‘‘just fade away’’. Fortunately this has not proven to be true
+for the SSS-V which dates from Zuckerman, Eysenck, and Eysenck (1978). The SSS-V was a
+shortened version of the older SSS-IV (Zuckerman, 1971) whose items were written in the late
+1960’s and early 1970’s. The forced choice form was used to control the inﬂuence of social desir-
+ability. In the mode of behavioral assessment, popular at that time, items tended to reﬂect behav-
+
+
+
+   E-mail address: zuckerma@udel.edu
+
+0191-8869/$ - see front matter Ó 2007 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.paid.2007.03.021
+1304              M. Zuckerman / Personality and Individual Diﬀerences 43 (2007) 1303–1305
+
+ioral experience, intentions, and desires as well as attitudes consistent with the concept of sensa-
+tion seeking.
+   Unfortunately, some of the item content was worded in the vernacular or slang of the time. This
+is a mistake test constructors should be warned about because if the test survives beyond a gen-
+eration the vernacular of an older generation may become incomprehensible to the following gen-
+erations. Sometime in the 1980’s we became aware of the datedness of some of the items and
+changed the wordings or explained what terms meant in the item itself. One problem with the
+Gray and Wilson study is that they seem to have used an older version of the SSS preceding
+the wording changes. Perhaps they used the copy in the appendix of the ﬁrst book on sensation
+seeking (Zuckerman, 1979) instead of the one in the appendix of the second book on sensation
+seeking (Zuckerman, 1994).
+   The fact that they used the older version is apparent in the items cited, for instance ‘‘I stay away
+from anyone I suspect of being queer’’, this item choice was based on the idea that homophobia is
+a characteristic of low sensation seekers’ fear of the unfamiliar, particularly in the area of sexu-
+ality. The word ‘‘queer’’ was not meant to be pejorative although it is now regarded as oﬀensive,
+at least as used by those who are not themselves homosexual. In the revised version (Zuckerman,
+1994) the item reads: ‘‘I stay away from anyone I suspect of being ‘gay’ or ‘lesbian’’’. The term
+‘‘swingers’’ is deﬁned in the revised item as ‘‘...people who are uninhibited and free about sex’’.
+Four items relating to these two (both choices of the forced choice version) were deleted from
+their revised Likert format of the SSS.
+   The title of their article mentions both the reliability and validity of the sensation seeking scale,
+but their study concerns only the reliability or internal consistency of the four subscales. Both the
+reliability and validity of the SSS-V can be found in the many hundreds of studies done on the test
+over the years (Zuckerman, 1979, 1994, 2007). The discriminant validity of the subscales is shown
+by the ﬁndings that they relate diﬀerentially to various criteria like musical and art preferences
+and biological factors like augmenting of the evoked potential. The factor structure of the test
+has been replicated in many studies even those done on translated versions of the test. But is their
+study a credible test of the reliability and does it challenge the reliability of the older version?
+   They adapted the forced choice form to a Likert form so that the 40 item test was deconstructed
+to 80 Likert type items. The number of subjects (142 British undergraduates) does not seem to be
+adequate for an analysis based on the intercorrelations of 80 items. Did their deletion of the 19
+items which did not cluster most highly with the other items in their respective subscales actually
+improve the reliabilities in the Likert format? The alpha of the Thrill and Adventure Seeking sub-
+scale (0.91) was already so high that it could not be improved by the deletion of items. The alpha
+of the Experience Seeking subscale went from 0.79 to 0.80. The alpha of the Disinhibition subscale
+soared from 0.83 to 0.84. The Boredom Susceptibility alpha changed from 0.72 to 0.74. In sum,
+deleting the 19 deﬁcient items had practically no eﬀect on the reliabilities of the four subscales.
+   The real problem with the SSS-V that became more apparent over the years was not the reli-
+ability of the factors but the confounding of some of the item content with the dependent variables
+in some studies. A few items concerning drinking and the desire to try drugs were a potential con-
+found in studies of actual use or abuse of substances. Questions about desires to engage in speciﬁc
+risky sports were a confound in studies of those actually engaging in those sports. Some investi-
+gators tried to eliminate the confounding by eliminating those items or scales from the test. The
+validity in predicting engagement in risky sex, drugs, or sports was generally unaﬀected by such
+                     M. Zuckerman / Personality and Individual Diﬀerences 43 (2007) 1303–1305                          1305
+
+revisions (Zuckerman, 2007), but when we devised a new scale for ‘‘Impulsive Sensation Seeking’’
+as part of a broader 5-factor personality test (Zuckerman–Kuhlman Personality Questionnaire)
+we decided to remove all references to speciﬁc activities in the items (Zuckerman, 2002; Zucker-
+man, Kuhlman, Joireman, Teta, & Kraft, 1993). Unlike the SSS-V the ImpSS has only two facets,
+impulsivity and sensation seeking. Like the other items of the ZKPQ it is in true-false response
+format. Gray and Wilson (2007) do not mention this scale in their review.
+   In sum, their study did not take account of the revised SSS-V and used items from an older
+form no longer in use. Even so, the deletion of items did not change the reliabilities of the four
+old subscales of the SSS-V and, despite its title, the study did not really address the well-demon-
+strated validity of the SSS-V or its subscales in terms of their relationships to theory and external
+criteria.
+
+
+References
+
+Gray, J. M., & Wilson, M. A. (2007). A detailed analysis of the reliability and validity of the sensation seeking scale in a
+  UK sample. Personality and Individual Diﬀerences, 42, 641–651.
+Zuckerman, M. (1971). Dimensions of sensation seeking. Journal of Consulting and Clinical Psychology, 36, 45–52.
+Zuckerman, M. (1979). Sensation seeking: Beyond the optimal level of arousal. Hillsdale, NJ: Erlbaum.
+Zuckerman, M. (1994). Behavioral expressions and biosocial bases of sensation seeking. New York: Cambridge
+  University Press.
+Zuckerman, M. (2002). Zuckerman–Kuhlman personality questionnaire (ZKPQ): an alternative ﬁve-factorial model. In
+  M. Perugini & B. DeRaad (Eds.), Big ﬁve assessment (pp. 377–396). Seattle, WA: Hogrefe and Huber Publishers.
+Zuckerman, M. (2007). Sensation seeking and risky behavior. Washington, DC: American Psychological Association.
+Zuckerman, M., Eysenck, S. B. G., & Eysenck, H. J. (1978). Sensation seeking in Europe and America: cross-cultural,
+  age, and sex comparisons. Journal of Consulting and Clinical Psychology, 46, 139–149.
+Zuckerman, M., Kuhlman, D. M., Joireman, J., Teta, P., & Kraft, M. (1993). A comparison of three structural models
+  for personality: the big three, the big ﬁve, and the alternative ﬁve. Journal of Personality and Social Psychology, 65,
+  757–768.
+

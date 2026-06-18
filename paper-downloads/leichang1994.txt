@@ -1,0 +1,625 @@
+                Applied Psychological           Measurement
+                           http://apm.sagepub.com/
+
+
+
+
+A Psychometric Evaluation of 4-Point and 6-Point Likert-Type Scales in Relation to Reliability and Validity
+                                                      Lei Chang
+                                   Applied Psychological Measurement 1994 18: 205
+                                         DOI: 10.1177/014662169401800302
+
+                                    The online version of this article can be found at:
+                                       http://apm.sagepub.com/content/18/3/205
+
+
+                                                                   Published by:
+
+                                                   http://www.sagepublications.com
+
+
+                  Additional services and information for Applied Psychological Measurement can be found at:
+
+                                         Email Alerts: http://apm.sagepub.com/cgi/alerts
+
+                                       Subscriptions: http://apm.sagepub.com/subscriptions
+
+                                     Reprints: http://www.sagepub.com/journalsReprints.nav
+
+                                 Permissions: http://www.sagepub.com/journalsPermissions.nav
+
+                                   Citations: http://apm.sagepub.com/content/18/3/205.refs.html
+
+
+
+                                             >> Version of Record - Sep 1, 1994
+
+                                                                  What is This?
+
+
+
+
+                                       Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+        A Psychometric Evaluation of 4-Point and 6-Point
+        Likert-Type Scales in Relation to Reliability
+        and Validity
+        Lei Chang
+        University of Central Florida
+
+
+   Reliability and validity of 4-point and 6-point                  (Jenkins &     Taber, 1977; Lissitz & Green, 1975;
+scales were assessed using a new model-based ap-                    Remmers & Ewart, 1941), 4-point (Bendig, 1954b),
+proach to fit empirical data. Different measurement                 or 3-point scales (Bendig, 1954a). Most of these stud-
+models were fit by confirmatory factor analyses of a
+multitrait-multimethod covariance matrix. 165 gradu-                ies investigated internal consistency reliability, ex-
+ate students responded to nine items measuring three                cept for Boote and Matell & Jacoby who used
+quantitative attitudes. Separation of method from trait             test-retest reliability, and Cicchetti et al. who exam-
+variance led to greater reduction of reliability and                ined interrater reliability.
+heterotrait-monomethod coefficients for the 6-point
+                                                                        One problem with these studies is that they did
+scale than for the 4-point scale. Criterion-related valid-
+                                                                    not distinguish between trait and method variance,
+ity was not affected by the number of scale points. The
+issue of selecting 4- versus 6-point scales may not be              both of which could be affected by the number of
+generally resolvable, but may rather depend on the                  scale points. Method variance represents systematic
+empirical setting. Response conditions theorized to in-             error; if left unidentified, this component of vari-
+fluence the use of scale options are discussed to pro-
+                                                                    ance would artificially increase reliability. Komorita
+vide directions for further research. Index terms:
+                                                                    & Graham (1965) speculated that additional scale
+Likert-type scales, multitrait-multimethod matrix, reli-
+ability, scale options, validity.                                   points could sometimes raise reliability by evoking
+                                                                    an extreme response set. Acting like halo error, such
+   Since Likert (1932) introduced the summative                     response set increases item homogeneity which is
+rating scale, now known as the Likert-type scale,                   traditionally estimated as internal consistency reli-
+researchers have attempted to find the number of                    ability (Alliger & Williams, 1992). Part of the con-
+scale points item response options) that maxi-                      troversy surrounding these findings could be resolved
+mize reliability. Findings from these studies are con-              by determining the extent to which scale points add
+tradictory. Some have claimed that reliability is                   to trait versus systematic error variance due to
+independent of the number of scale points (Bendig,                  method.
+1953;Boote, 1981;Brown,Widing,&Coulter, 1991;                          There are three additional problems with exist-
+Komorita, 1963; Matell & Jacoby, 19719 Peabody,                     ing reliability studies on the number of scale points.
+1962; Remington, Tyrer, Newson-Smith, &                             First, none of the studies used a model-fitting ap-
+Cicchetti, 1979). Others have maintained that reli-                 proach to determine which scale better fit the data.
+ability is maximized using 7-point (Cicchetti,                      Simply comparing two reliability coefficients, as all
+Showalter, &  Tyrer, 1985; Finn, 1972; Nunnally,                    existing studies have done, ignores other measure-
+1967; ~arnsay, 1973; Symonds, 1924), 5-point                        ment considerations. For example, in the studies that
+                                                                    found that fewer scale points resulted in higher reli-
+                                                                    ability than more scale points [e.g., three scale points
+                                                                    had higher reliability than five scale points (Bendig,
+                                                                    1954a); five points had higher reliability than six
+
+                                                                                                                               205
+
+
+
+
+                                            Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+206
+
+
+(Matell & Jacoby, 1971 ) and seven points (McKelvie,                          reliability and criterion-related validity. Systematic
+1978); and 17 points had higher reliability than 18                           variations caused by the number of scale points that
+points (Matell & Jacoby)] it could be that the mea-                           might spuriously increase reliability but not validity
+surement model no longer fit the data obtained by                             were identified. The purpose of the study was to in-
+
+using additional scale options. A second method-                              vestigate whether different numbers of scale points
+ological limitation is that almost all of the studies                         introduce no confounding to the latent relationship
+(except Boote, 1981) used a nested design by com-                             among a set of traits measured by the Likert scale,
+paring reliability coefficients computed from differ-                         one common kind of confounding, or different kinds
+ent groups of respondents. A repeated measures                                of confounding. Using a repeated measures design,
+design would strengthen the statistical validity of                           the goodness-of-fit of different measurement mod-
+this type of research. Third, researchers have com-                           els in relation to a multitrait-multimethod (MTMM)
+pared even and odd numbers of scale points. Con-                              covariance matrix was examined.
+clusions drawn from studies employing both even
+and odd numbers of scale points are indeterminate                                                        Method
+because the middle category in a scale with an odd                            Instrument and Sample
+number of points has been found to result in response
+sets (Cronbach,     1950; Goldberg, 1981; Nunnally,                               Nine items taken from the Quantitative Attitudes
+1967). Comparing       even numbers           of scale options               Questionnaire (Chang, 1994) were used (see Table
+would eliminate this confound.                                                1 ). The Quantitative Attitudes Questionnaire mea-
+   Apart from the contradictory reliability findings                         sures three quantitative traits-perceived quantitative
+in relation to the number of scale points, little at-                        ability, perceived utility of quantitative methodology
+tention has been given to validity. Several studies                          for oneself, and values of quantitative methodology
+have compared factor structures associated with 7-                           in social science research. Confirnatory factor analy-
+point versus binary scales (e.g., Comrey & Montag,                           sis (CFA) was conducted on an initial sample of 112
+1982; Joe & Jahn, 1973; King, King, & Klockars,                              people (Chang, 1993). A 3-factor structure was iden-
+ 19~39 &reg;s~ald ~ Velicer, 1980; Velicer, Diclemente,                      tified [xz(24) 27,~ = .32]. The items also had been
+                                                                                                     =
+
+
+
+
+& Corriveau, 1984; Velicer & Stevenson, 1978).                               tested for T-equivalence in relation to their respec-
+These studies have not examined nomological or                               tive traits; T-equivalent items have equal true score
+criterion-related validity involving variables not                           variances (Joreskog, 1971). T-equivalence was tested
+measured by the Likert-type scales. The possible sys-                        by forcing each set of the three item loadings to be
+tematic error due to number of scale points, such as                         equal. Although having this restriction on the data
+response set and halo effect, would artificially in-                         increased the X2 value [X2 (301) = 44, p = .05], other
+crease reliability or monomethod correlations but not                        goodness-of-fit measures [e.g., the X2 to degrees of
+heteromethod or validity coefficients. Therefore,                            freedom (df) ratio was 1.5] showed satisfactory fit
+validity is a better criterion than reliability in evalu-                    to the data.
+ating the optimal number of scale points. Cronbach                                Respondents were 165 I~ast~r9s students in edu-
+(1950) questioned the notion of adding scale points                          cation taking their first graduate quantitative meth-
+to increase reliability because the former may not                           ods course. They were enrolled in two sections of a
+lead to validity enhancement. He stated, &dquo;There is                      statistics course or four sections of a research meth-
+no merit in enhancing test reliability unless validity                       ods course. A composite score comprised of the stu-
+is enhanced at least proportionately&dquo; (Cronbach, p.                     dents’ midterm and final exam in either of these
+22). Studies of the optimal number of scale points,                          two courses was used as a criterion measure. Because
+therefore, would be more meaningful if both reli-                            of variable test length and item difficulty, z scores
+ability and validity were considered.                                        were used to form the composite. The nine items
+
+    The present study compared 4-point with 6-point                          were administered twice at the beginning of the se-
+
+Likert-type scales in terms of internal consistency                          mester using 4-point and 6-point scales. The 4-point
+
+
+
+
+                  Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+                                                                                                                                207
+
+
+                                                    Table I
+          Nine Quantitative Attitudes Questionnaire Items: C= Perceived Quantitative Competence or
+           Ability, U Perceived Utility of Quantitative Methodology for Oneself, and V Values of
+                       =                                                                                        =
+
+
+
+
+                             Quantitative Methodology in Social Science Research                         ___________
+
+
+
+
+Likert scale was scored as ~=di.~~a~~e~, 2 =somewhat                and one criterion variable, the composite exam score.
+3=somewhat agree, and 4=agree. The                                  Likelihood Estimation
+6-point scale was scored as 1=~t~°~r~~l,y disagree,
+2=disagree, 3=somewhat ~’is~~~°ee, ~=~caaoawvh~t                       The 19 x 19 MTMM matrix was analyzed using
+agree, and agree. The two ad-                                       maximum likelihood (ML) estimation by LISREL 7
+ministrations were one week apart. The order of the                 (Joreskog ~ Sorbom, 1988). Although other esti-
+two administrations varied among the six classes.                   mation methods have been proposed, such as
+The resulting matrix (see Table 2) was a 19 x 19                    weighted least squares (WLS) with a large sample
+MTMM variance-covariance matrix of responses to                     asymptotic covariances matrix (J6reskog dl S6rbom)
+nine items measuring three quantitative traits ob-                  and the categorical variable methodology estimator
+tained by two methods (4-point and 6-point scales)                  (Muth6n &   ~~~~i~r~9 1985), studies by these same
+                                                        Table 2
+  Variance-Covariance Matrix (CV is the Criterion Variable; U i -U3 , V 1 -V3 , and C1-C3 are the Items Shown in Table 1)
+
+
+
+
+                                             Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+208
+
+
+authors have indicated the robustness of ML for or-                            been reduced by the hypothesized model. When it is
+dinal or censored data. According to J6reskog &                                used to compare two nested models, it represents
+S~rb~rr~9 &dquo;if the variables are highly non-normal, it                     the proportion of the maximum lack of fit that has
+is still an open question whether to use ML (or GLS)                           been reduced by the relaxation of restrictions con-
+or WLS with a general weight matrix.... Previous                               tributed by the less restricted of the two nested mod-
+studies have not given a clear-cut answer as to when                           els. The BBI was selected because of its wide usage
+it is necessary to use WLS rather than ML&dquo; (p. 205).                      in the literature (Marsh, Balla, &   McDonald, 1988;
+Because ML has been used to analyze Likert-type                                Mulaik, James, Alstine, Bennett, & ~til~vell, 1989;
+data in CFA studies (e.g., Joreskog &        S8rbom), ML                       Stemberg, 1992).
+estimation was used here.                                                          The TU is similar to the BBI except that it has a
+Goodness-of-Fit Indexes                                                        penalty function on the number of parameters esti-
+                                                                               mated. According to Marsh (1993; Marsh et al.,
+    The goodness-of-fit tests provided by LISREL 7                             1988), the TLI is the only widely used index that com-
+were used in this    study. These include ( 1 ) the over-                      pensates for the more restricted model and provides
+all X’, which tests the difference of lack of fit be-                          an unbiased estimate. Both the BBI and TU range
+tween a hypothesized model and a saturated or                                  from 0.00, indicating total lack of fit, to 1.00 indicat-
+just-identified model (a model is said to be just-,                            ing perfect fit. Models were evaluated by examining
+over-, or under-identified when there is an equal,                             the values of these goodness-of-fit indexes and, more
+large, or smaller number of solutions to estimate                              importantly, by comparing the values of competing
+the unknown parameters in the model, respectively;                             models (Marsh, 1989, 1993; Widaman, 1985).
+thus, a just-identified model has zero df and perfect                          Model Specifications
+fit to the data); (2) the goodness-of-fit index (GFI);
+(3) the adjusted goodness-of-fit index (AGFI), which                             Nine a priori parameter-nested models represent-
+adjusts fordf’(both the GFI and AGFI provide the rela-                        ing different conceptions of the 4-point and 6-point
+tive amount of variance and covariance jointly ex-                            scales were tested to determine which model best fit
+plained by the model); and (4) the root mean square                           the data. This approach represents the most power-
+residual (~tR)9 which indicates the average discrep-                          fizl use of structural equation modeling (Bentler &
+ancy between the elements in the hypothesized and                             Bonnet, 1980; J6reskog, 1971).
+sample covariance matrices [see Joreskog & S6rbom                                ~1~. MO was a no-factor model, a commonly
+(1988, pp. 43-44) for a detailed explanation of these                         used null model in the CFA literature (Mulalk et al.,
+indexes]. Because X2 is sensitive to sample size, de-                         1989). Only 18 error/uniqueness variances were es-
+pasture from multivariate normality, and model com-                           timated.
+plexity, the ratio of X2 to df (which compensates for                             Mla and Mlb. Mla was a simple CFA model.
+some of these &dquo;sensitivity&dquo; problems) also was used.                The estimated parameters included 18 factor load-
+A value below 2 is considered adequate fit (Bollen,                           ings, three trait correlations, and 18 error/unique-
+1989). Models specified in this study represented a                           ness variances. This model tested the hypothesis that
+
+parameter-nested sequence. The X2 difference test                             covariation among observed variables was due only
+of the lack of fit between two adjacent models in a                           to trait factors and their intercorrelations. Acceptance
+nested sequence was evaluated as the most impor-                              of this model would lend support for the equiva-
+tant criterion for comparing different models.                                lence of the 4-point and 6-point Likert-type scales.
+    Two subjective indexes of fit also were evaluated-                        In other words, the model implied that items mea-
+the Bentler &   Bonett (1980) normed fit index (BBI)                          sured by the two scale foimals were congeneric in-
+and the Tucker &      Lewis (1973) ra~n9~&reg;rrned fit in-                   dicators of the same traits. Mlb was a ~e-~q~xival~nce
+dex (TLI). When the BBI is used to evaluate a hy-                             model. It had the same specifications as Mla with
+pothesized model against a null model, it represents                          the additional constraint that the factor loadings
+the proportion of the maximum lack of fit that has                            corresponding to the same traits had to be equal.
+
+
+
+
+                   Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+                                                                                                                                209
+
+
+Mlb was compared to M2b (discussed below).                          the 6-point scale only,. Comparing M3b with M3c
+   M2a and M2b. Both were MTMM models that                          answered the question of which scale format, 4-point
+specified, in addition to three traits as in h4la and               or 6-point, had less method contamination.
+
+Mlb, two method factors corresponding to the 4-point                    1~4. In M4, the nine items with the 4-point scale
+and 6-point scales. Method and trait factors were                   loaded onto three trait factors, whereas the nine items
+uncorrelated, which made trait, method, and error/                  with the 6-point scale loaded onto another set of three
+uniqueness additive. Acceptance of M2a and M2b                      trait factors. Within each set, the three traits were
+and rejection of Mia and Mlb would indicate the                     correlated. Intercorrelations between the two sets of
+presence of a method effect due to different num-                   three traits obtained by the two scales were not esti-
+bers of scale points. Generally for an MTMM model                   mated. Under this rrl&reg;del9 iterns used with the 4-point
+to be identified there must be at least three traits and            and 6-point scales measured different traits.
+three methods (Marsh, 1989; Marsh &           Hocevar,              Criterion= Related Validity
+1983). When there are fewer than three traits, the
+model can be identified by correlating the error/                       The nine models described above were tested
+uniqueness corresponding to the same trait as a way                 again with the inclusion of the criterion variable.
+of estimating the method variance (Kenny, 1979).                    The criterion composite was treated as a single in-
+When there are fewer than three methods, as was the                 dicator variable with perfect reliability and 0.0 er-
+case here, constraints are placed on the model, such                ror/uniqueness. The only specification change was
+as setting certain parameters equal to each other or               in the factor correlation matrix in which the crite-
+setting them to fixed values (I-Ic~~war9 Zimmer, &                 rion variable was allowed to correlate with trait but
+Chen, 1990; Marsh & Hocevar, 1983).                                not method factors. Testing the nine measurement
+   Both types of parameter constraints were used                   models with the inclusion of the criterion variable
+in the present study. In M2b, a c-equivalence con-                 provided an opportunity to evaluate the stability of
+straint was imposed that set the factor loadings cor-              parameter estimates of the original measurement
+responding to the same trait by the same method to                 models. According to Widaman (1985), stability of
+be equal. M2b was compared directly with b. In a                   common parameter estimates is an important crite-
+
+separate analysis not reported here, the method load-              rion in assessing covariance structure models.
+ings were fixed at the values obtained from M2b to                     With the inclusion of the criterion variable, these
+estimate the trait loadings without the T-equivalence              models examined the nomological network relations
+constraints. Errors/uniquenesses obtained from this                among the three quantitative attitudes (as measured
+analysis were used as fixed values in l~I2a. to esti-              by the nine items) and quantitative performance (as
+mate both trait and method factors. M2a was com-                   measured by the composite score). Because these
+pared directly with M Ia.                                          measurement models reflected different hypotheses
+   M3a, M3b, and M3c. These models estimated                       regarding the behavior of scale options (namely,
+three traits and one method factor, instead of two                 whether 4-point and 6-pomt scales introduce no meth-
+method factors as was done in M2a and M2b. The                     od variance, one common kind or two different kinds
+same T-equivalence constraint used in M2b was ap-                  of method contamination) the associated changes in
+plied to these three models for identification. In h43 a,          the true network relations would provide construct
+one common method        factor was parameterized as               and criterion-related validity evidence for or against
+suggested by Widaman (1985). Comparing M2b with                    each of the hypotheses. Similarly, internal consistency
+this model would determine whether reliability and                 reliability also was evaluated within, and compared
+validity were affected differently by the 4-point and              across, these different measurement models.
+6-point scales or if the two scales had the same                                                    Results
+method contamination. In I~3b9 one method factor
+was estimated for items obtained only by the 4-point
+                                                                   Model Fit
+scale. In M3c, the method factor was estimated for                      Table 3 contains values of the goodness-of-fit in-
+
+
+
+
+                                             Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+210
+
+
+dexes for the nine models. Based on these indexes,                          factor was estimated for items using either the
+the models at the two ends of the nested sequence-                          4-point or 6-point scale. The difference in the X2
+M 1 b9 l~ 1 ~~ and h44-had the poorest fit. For ex-                         between the two models (302 - 274) was 28 (with 0
+ample, the X’Idf for these three models were 2.5,                           df) in favor ~f M3c. These results indicated that the
+2.5, and 3.6, respectively. For M 1 ~ and Mlb, which                        4-point scale contributed less to the method vari-
+had three trait factors and no method factor, it                            ance than did the 6-point scale.
+was assumed that the 4-point and 6-point scales                                 This result was confirmed further by comparing
+resulted in congeneric measures of the same traits                          M3a (the common-method model) with I~3b (the
+with no scale contamination. For I~4~9 which had                            4-point-scale model) and withM3c (the 6-point-scale
+two sets of trait factors and no method factor, it was                      model). The reduction in the X’values was substan-
+assumed that the 4-point and 6=point scales mea-                            tially larger in the first comparison (M3a compared
+sured different traits (which had the same factor                           with M3b; from the 3~ column in Table 3, 302 -
+structure). The poor fit observed for these models                          263 = 39 and from the df column, 135 - 126 9)   =
+
+
+
+
+indicated that the impact of the number of scale                            than in the second comparison [M3a compared with
+points was somewhere between two extremeq.-the                              M3c; X 2(9) ~ 11]. These results indicated that the
+unwanted scale confounding was neither totally ab-                          method variance estimated in the common-method
+sent, as shown by the poor fit of M 1 ~ and I~ i b9 nor                     model was contributed mostly by the 6-point scale.
+was the confounding to the extent that it changed                               When two method factors were estimated to dis-
+what was being measured, as exemplified by the re-                          tinguish between the different numbers of scale
+jection ofM4.                                                               points-M2a and M2b-the data were better ex-
+   Among the remaining two sets of models-M2a                               plained (i.e., lower values of the fit indexes were
+and M2b, and M3a, 1~3b, and ~3~-~~~~ and M2b                                obtained) than when one kind of scale factor was
+indicated better fit. M3b, the 4-point-scale model,                         estimated using a single-method model, such as M3a,
+had the poorest fit of these four models. M3b and                           M3b, and h43c (see Table 3). M2b was directly com-
+I~3c had the same specifications, but the method                            parable with ~Jf3~, 1~3b, and M3c because they all
+                                                   Table 3
+        Goodness-of-Fit Indexes of Competing Models When the Criterion Variable Was Not Included and
+                                   When the Criterion Variable Was Irachaded
+
+
+
+
+                Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+                                                                                                                             211
+
+
+had the T-equivalence constraint. These models also              and .51 in the trait-only model) because the crite-
+were compared using X2 difference tests. For M2b                 rion variable involved was measured by a different
+versus M3a, the result was X’(1) = 39; for M2b ver-              method.
+sus M3b, X2(l 0) = 78; and for M2b versus M3c,                       When these validity coefficients were obtained
+x2(10) = 50. These results supported the superiority             from the 4-point and the 6-point scales separately
+of the less parsimonious ~2b-the MTMM model.                     (also shown in Table 4), the 6-point scale had much
+The lower portion of Table 3 also shows that a simi-             higher HTMM correlations (.69, .42, and .26) than
+lar pattern of results was obtained for the various              the 4-point scale (.35, .15, and .09), whereas the
+models when the nine models were tested again with               HTHM correlations were approximately the same for
+the inclusion of the criterion variable.                         the two scales (.26, .27, and .50 versus .30, .19, and
+                                                                 .51). Apparently, the unidentified method variance
+Validity Reliability Coefficients                                inflated the HTMM correlations for the 6-point scale,
+    Validity coefficients were the heterotrait-                  producing the impression that the 6-point scale had
+monomethod (HTMM) correlations among the three                   higher HTMM validity than the 4-point scale. This
+quantitative traits and the heterotrait-heteromethod             method variance did not create such a difference
+(HTHM) correlations between the three quantitative               between the two scales in the HTHM coefficients re-
+traits and the criterion variable. These results are             lating to the criterion variable not measured by
+shown in Table 4. The three HTMM correlations esti-              Likert-type scales.
+mated from the MTMM model in Table 4 (M2a) were                     As is also shown in Table 4, reliability coeffi-
+.32, .21, and .0~6; these were uniformly lower in com-           cients were similar between the two scales when these
+parison with those estimated from the trait-only                 coefficients were estimated within the two scales
+model (M I a; .48, .27, and .12). This difference rep-           respectively using separate CFAS. The reliability es-
+resented the confounding method variance that in-                timates were .67, .66, and .64 for the 6-point scale
+flated the trait correlations when the method com-               and .75, .66, and .66 for the 4-point scale. However,
+ponents were not factored out from the trait or true             when they were estimated in the combined CFA
+score variance. However, there was almost no change              MTMM model, the 6-point scale had much lower es-
+across these two models in the HTHM correlations                 timates (.51, .44, and .60) than the 4-point scale (.69,
+(.30, .24, and .50 in the MTMM model and .31, .25,               .63, and .69). Because method variance due to num-
+
+                                                        Table 4
+              Reliability Coefficients (on the Diagonals) and Validity Coefficients (Off Diagonals)
+                           for the Criterion Variable (CV) and Traits 1-3 (T1, T2, ’f3)
+
+
+
+
+            Validity coefficients in the left matrix were estimated from the 4-point and 6-point
+            scales using MTMM CFA which extracted 3 trait and 2 method factors. Validity coeffi-
+            cients in the trait only matrix were estimated from the 4- and 6-point scales using CFA
+            which extracted 3 trait but no method factors. Reliability coefficients on the diagonals
+            were estimated from the MTMM CFA for the 4-point (left matrix) and 6-point scales.
+
+
+
+
+                                          Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+212
+
+
+ber of scale points represents systematic rather than                        present study identified a method confound contrib-
+random error, when left unaccounted for in the sepa-                         uting to such a positive association. This finding
+rate CFA, it artificially raised the internal consist-                       indicates that additional scale points may not nec-
+ency reliability. This artifact affected the 6-point scale                   essarily enhance reliability. On the contrary, they
+more than the 4-point scale because the former had                           may lead to a systematic &dquo;abuse&dquo; of the scale. In the
+more systematic method variance due to additional                            present study, for example, some respondents may
+scale points.                                                                have systematically skipped certain response catego-
+                                                                             ries associated with the 6-point scale; or they may
+                       Discussion
+                                                                             have used, for example, strongly disagree inter-
+   Simply comparing coefficients computed from 4-                            ch~n~~~bly with ~isca~r°ee throughout the instrument.
+point and 6-point scales can give the false impres-                          Both response behaviors contribute to systematic
+sion that the two scales were approximately the same                         error but not trait variance.
+in reliability and that the 6-point scale had higher                             There are two issues concerning the number of
+HTMM coefficients. Results from this study showed                            scale points that existing studies have failed to dis-
+that the 6-point scale added more to the systematic                          tinguish. The first is a measurement issue that con-
+method variance. When this component was factored                            cerns the consistency or stability of responses as a
+out from the trait variance, both the reliability and                        function of the number of scale points. The present
+the HTMM correlations were substantially reduced                             study addressed this issue. The results showed that
+for the 6-point scale. Within the MTMM framework,                            consistency or reliability as well as intertrait rela-
+the 4-point scale had higher reliability than the 6-                         tions were enhanced by additional scale points if the
+point scale.                                                                 latter added to trait but not systematic or random
+    One important finding was that the number of                             error variance.
+scale points in ~ikert scale affects internal consists-                          The other issue is statistical. The reliabilities fre-
+ency reliability and HTMM validity but not HTHM                              quently used in scale investigations are coefficient
+validity. This finding is consistent with speculations                       alpha (Cicchetti et al., !985; McKelvie, 1978) and
+made by Cronbach (1950) and ~&reg;r~&reg;rit~ ~ Graham                       test-retest reliability, both of which are related to the
+(1965). Apparently, increasing the number of scale                           Pearson correlation. Restriction of range is a well-
+points creates opportunities for response sets to arise,                     known problem that affects the magnitude of a cor-
+which artificially raise correlations involving the                          relation coefficient. Studies of the number of scale
+same measurement method (reliability and HTMM                                points demonstrate the same problem. Nunnally
+validity). However, such artificial scale variance does                      ( 1970) stated, &dquo;The numbers of steps on rating scales
+not inflate correlations with variables measured by                          tend to place limits on the sizes of correlations be-
+a different method. A practical implication of this                          tween scales       and [the restriction] tends to become
+                                                                                                 ...
+
+
+
+
+finding is that test-retest reliability as well as con-                      less and less as the number of scale steps is increased&dquo;
+current validity between two similar Likert scales                           (p. 427). Cohen (1983) demonstrated significant
+can be better evaluated if the two scales use differ-                        reduction in the correlation coefficient when a con-
+ent numbers of scale points.                                                 tinuous scale of measurement was dichotomized.
+   The separation of method variance from internal                           Martin (19739 197~) conducted monte carlo studies
+consistency is important. Existing studies compar-                           to examine the effects of different numbers of scale
+ing reliability among different numbers of scale                             points on different levels of correlation and came to
+points have indiscriminately allocated two kinds of                          the same conclusion. He pointed out further that the
+systematic variance-trait and method-as internal                             correlation reduction due to collapsing scales was
+consistency and, in some cases, may have erro-                               greater when the original variables were highly cor-
+neously contributed to the belief that the number of                         related.
+scale options is positively associated with the inter-                           It seems that additional scale options increase
+nal consistency reliability of a Likert scale. The                           statistical correlations but, up to a certain point, tend
+
+
+
+
+                  Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+                                                                                                                                    213
+
+
+to reduce measurement consistency. Subsequently,                        divergent frames of reference. In this situation, ad-
+reliability is influenced by two competing forces:                      ditional scale alternatives enabled the scale to cap-
+When there is more statistical gain in comparison                       ture more individual differences not reflecting
+to measurement loss, reliability increases; otherwise,                  attitudes toward quantitative methodology but pos-
+reliability suffers. The present study demonstrated a                   sibly different understandings about quantitative
+useful approach for clarifying this seeming paradox-                    methodology. In such a situation, the same endorse-
+decompose correlations into those representing true                     ment for I agree that statistics is importantfbr re-
+trait association and those representing systematic                     search might mean different things for different
+error association.     Further research should investi-                 people. Other response conditions, such as item het-
+gate the conditions under which additional scale                        erogeneity (Komorita & Graham, 1965; Masters,
+points are more likely to increase correlations as a                    1974), also offier clues to a better understanding of
+result of systematic trait but not systematic error or                  the function of scale options.
+method association.                                                        In measuring attitude, a person responds to an
+    Two such response conditions are hypothesized                      item in a way that reflects the strength or valence of
+based on the current study. One is respondent knowl-                   the item in relation to his/her position with respect
+edge with respect to what is being measured. The                       to the latent attribute that is being measured
+respondents in this study were l~ast~r9s students tak-                 (Torgerson, 1958). The two response conditions dis-
+ing their first research methods or statistics course.                 cussed above affect respondents’ ratings of their own
+Because the Likert scale was administered at the                       attitude positions as well as their simultaneous ac-
+beginning of the course, they had relatively limited                   tivity of scaling the items. That is, for example, if
+knowledge of quantitative research methodology.                        Item 1 is more positive than Item 2 (with respect to
+The lack of stimulus knowledge may have contrib-                       the attribute being measured), a good knowledge base
+uted to an &dquo;abuse&dquo; of the additional scale points as-        and a similar reference frames concerning the con-
+sociated with the 6-point scale because the                            tent of the attribute being measured will help ensure
+respondents were were unable to apply them in making                   that the two items be scaled as such by the respon-
+the finer stimulus distinctions of which they were                     dents (independent of their own attitude standings).
+not fully aware. However, had the respondents per-                     Simultaneously, respondents use the same scale to
+haps been more familiar with quantitative research                     gauge their own standings on each of the items of
+procedures, the finer 6-point scale might have en-                     varying valence. Thus, both the respondents’ atti-
+abled them to sort out the items in a way closer to                    tudes and the attitudes reflected by the items deter-
+the structural pattern of the scale, resulting in higher               mine the responses on a Likert-type scale. Future
+reliability and validity. Future studies need to look                  research should examine these proposed response
+beyond a simple relation between numbers of scale                      conditions as well as other influencing factors in
+points and reliability or validity for possible inter-                 relation to these two entwined rating activities. A
+action effects between scale points and other fac-                     possible study could investigate, under varying re-
+tors, such as respondent knowledge.                                    sponse conditions, how many Likert-type scale points
+    Another related factor to consider in future stud-                 will best enable respondents to express their atti-
+ies is the heterogeneity of the reference frames people                tudes in conjunction with their scaling the items.
+employ when responding to a Likert scale. In the
+context of the present study, such reference frames                                                  References
+would be respondents’ experiences with research and
+quantitative methodology. When respondents are het-                    Alliger, G. M., & Williams, K. J. (1992). Relating the
+                                                                           internal consistency of scales to rater response tend-
+erogeneous with respect to the knowledge and ex-
+                                                                          encies. Educational and Psychological Measure-
+perience they use as references, increasing the                           ment, 52, 337-343.
+number of response alternatives may add error by                       Bendig, A. W. (1953). Reliability ofself-ratings as a
+allowing the respondents to draw more freely on their                     function of the amount of verbal anchoring and of
+
+
+
+
+                                                 Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+214
+
+
+
+
+   the number of categories on the scale. Journal of                          Hocevar, D., Zimmer, J., & Chen, C. Y. (1990, April).
+   Applied Psychology, 37, 38-41.                                                  multitrait-multimethod analysis of the worry/emotion-
+Bendig, A. W. (1954a). Reliability and the number of                               ality component in the measurement of test anxiety.
+   rating scale categories. Journal of Applied Psychol-                            Paper presented at a joint session of the American
+   ogy, 38, 38-40.                                                                 Educational Research Association and the National
+Bendig, A. W. (1954b). Reliability of short rating scales                          Council on Measurement in Education, Boston.
+    and the heterogeneity of the rated stimuli. Journal of                    Jenkins, G. D., Jr., & Taber, T. D. (1977). A monte carlo
+   Applied Psychology, 38, 167-170.                                                study of factors affecting three indices of composite
+Bentler, P. M., & Bonett, D. G. (1980). Significance tests                         scale reliability. Journal of Applied Psychology, 62,
+    and goodness of fit in the analysis of covariance struc-                       392-398.
+   tures. Psychological Bulletin, 88, 588-606.                                Joe, V. C., & Jahn, J. C. (1973). Factor structure of the
+              Structural equations with latent
+Bollen, K. M. (1989).                                                              Rotter I-E Scale. Journal of Clinical Psychology, 29,
+   variables. New York: Wiley.                                                     66-68.
+Boote, A. S. (1981). Reliability testing of psychographic                     J&ouml;reskog, K. G. (1971). Statistical analysis of sets of con-
+   scales: Five-point or seven-point? Anchored or la-                              generic tests. Psychometrika, 36, 109-132.
+   beled ? Journal of Advertising Research, 21, 53-60.                        J&ouml;reskog, K. G., & S&ouml;rbom, D. (1988). LISREL 7: A guide
+Brown, G., Widing, R. E., II, & Coulter, R. L. (1991).                             to the program and applications [Computer program
+   Customer evaluation of retail salespeople utilizing the                      manual]. Chicago: SPSS, Inc.
+   SOCO scale: A replication, extension, and applica-                        Kenny, D. A. (1979). Correlation and causality. New
+   tion. Journal of the Academy of Marketing Science,                           York: Wiley.
+    9, 347-351.                                                              King, L. A., King, D. W., & Klockars, A. J. (1983). Di-
+Chang, L. (1993, April). Using confirmatoryfactor analy-                        chotomous and multipoint scales using bipolar adjec-
+   sis of multitrait-multimethod data to assess the psy-                        tives. Applied Psychological Measurement, 7,
+    chometric equivalence of 4-point and 6-point                                  173-180.
+   Likert-type scales. Paper presented at the Annual                         Komorita, S. S. (1963). Attitude content, intensity, and
+    Meeting of the National Council on Measurement in                           the neutral point on a Likert scale. Journal of Social
+   Education, Atlanta.                                                            Psychology, 61, 327-334.
+Chang, L. (1994). Quantitative Attitudes Questionnaire:                      Komorita, S. S., & Graham, W. K. (1965). Number of
+   Instrument development and validation. Manuscript                            scale points and the reliability of scales. Educational
+    submitted for publication.                                                    and Psychological Measurement, 25, 987-995.
+Cicchetti, D. V., Showalter, D., & Tyrer, P. J. (1985).                      Likert, R. (1932). A technique for the measurement of
+   The effect of number of rating scale categories on                             attitudes. Archives of Psychology, 140, 5-55.
+   levels of interrater reliability: A monte carlo investi-                  Lissitz, R. W., & Green, S. B. (1975). Effect of the num-
+   gation. Applied Psychological Measurement, 9,                                ber of scale points on reliability: A monte carlo ap-
+   31-36.                                                                       proach. Journal of Applied Psychology, 60, 10-13.
+Cohen, J. (1983). The cost of dichotomization. Applied                       Marsh, H. W. (1989). Confirmatory factor analyses of
+   Psychological Measurement, 7, 249-253.                                       multitrait-multimethod data: Many problems and a few
+Comrey, A. L., & Montag, I. (1982). Comparison of fac-                          solutions. Applied Psychological Measurement, 13,
+   tor analytic results with two-choice and seven-choice                        335-361.
+   personality item formats. Applied Psychological                           Marsh, H. W. (1993). Stability of individual differences
+   Measurement, 6, 285-289.                                                     in multiwave panel studies: Comparison of simplex
+Cronbach, L. J. (1950). Further evidence on response sets                       models and one-factor model. Journal of Educational
+   and test design. Educational and Psychological Mea-                          Measurement, 30, 157-183.
+   surement, 10, 3-31.                                                       Marsh, H. W., Balla, J. R., & McDonald, R. P. (1988).
+Finn, R. H. (1972). Effect of some variations in rating                         Cloodness-of flt indexes in confirmatory factor analy-
+   scale characteristics on the means and reliabilities of                      sis : The effect of sample size. Psychological Bulletin,
+   ratings. Educational and Psychological Measurement,                          103, 391-410.
+   34, 885-892.                                                              Marsh, H. W., & Hocevar, D. (1983). Confirmatory fac-
+Goldberg, L. R. (1981). Unconfounding situational attri-                        tor analysis of multitrait-multimethod matrices. Jour-
+   butions from uncertain, neutral, and ambiguous ones:                         nal of Educational Measurement, 20, 231-248.
+   A psychometric analysis of descriptions of oneself and                    Martin, W. S. (1973). The effects of scaling on the corre-
+   various types of others. Journal of Personality and                          lation coefficient: A test of validity. Journal of Mar-
+   Social Psychology, 41, 517-552.                                                keting Research, 10,
+                                                                                                   316-318.
+
+
+
+
+                  Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+                                                                                                                                        215
+
+
+Martin, W. S. (1978). Effects of scaling on the correla-                    cine, 9, 765-770.
+   tion coefficient: Additional considerations. Journal of             Remmers, H. H., & Ewart, E. (1941). Reliability of mul-
+   Marketing Research, 15, 304-308.                                       tiple-choice measuring instruments as a function of
+Masters, J. R. (1974). The relationship between number                    the Spearman-Brown prophecy formula. Journal of
+   of response categories and reliability of Likert-type                  Educational Psychology, 32, 61-66.
+   questionnaires. Journal of Educational Measurement,                 Sternberg, R. J. (1992). Psychological Bulletin’stop 10
+   11, 49-53.                                                             "Hit Parade." Psychological Bulletin, 112, 387-388.
+Matell, M. S., & Jacoby, J. (1971). Is there an optimal                Symonds, P. M. (1924). On the loss of reliability in rat-
+      number of alternatives for Likert scale items? Study I:             ings due to coarseness of the scale. Journal of Experi-
+      Reliability and validity. Educational and Psychologi-               mental Psychology, 7, 456-461.
+      cal Measurement, 31, 657-674.                                    Torgerson, W. J. (1958). Theory and methods of scaling.
+McKelvie, S. J. (1978). Graphic rating scales&mdash;How many              New York: Wiley.
+      categories? British Journal of Psychology, 69,                   Tucker, L. R., & Lewis, C. (1973). The reliability coeffi-
+      185-202.                                                            cient for maximum likelihood factor analysis.
+Mulaik, S. A., James, R. L., Alstine, J. V., Bennett, N.,                 Psychometrika, 38, 1-10.
+      Lind, S., & Stilwell, C. D. (1989). Evaluation of good-          Velicer, W. F., DiClemente, C. C., &                  Corriveau, D. P.
+      ness-of-fit for structural equation models. Psychologi-              (1984). Item format and the structure of the personal
+      cal Bulletin, 105, 430-445.                                          orientation inventory. Applied Psychological Measure-
+Muth&eacute;n, B., & Kaplan, D. (1985). A comparison of some               ment, 8, 409-419.
+      methodologies for the factor analysis of non-normal              Velicer, W. F., & Stevenson, J. F. (1978). The relation
+      Likert variables. British Journal ofmathematical and                between item format and the structure of the Eysenck
+      Statistical Psychology, 38, 171-189.                                Personality Inventory. Applied Psychological Measure-
+Nunnally, J. C. (1967). Psychometric theory. New York:                    ment, 2, 293-304.
+      McGraw-Hill.                                                     Widaman, K. F. (1985). Hierarchically nested covariance
+Nunnally, J. C. (1970). Introduction to psychological                     structure models for multitrait-multimethod data. Ap-
+      measurement. New York: McGraw-Hill.                                  plied Psychological Measurement, 9, 1-26.
+Oswald, W. T., & Velicer, W. F. (1980). Item format and
+      the structure of the Eysenck Personality Inventory: A                                   Acknowledgments
+      replication. Journal of Personality Assessment, 44,             The author thanks the editor, two anonymous r°eviewers,
+      283-288.                                                        and Dennis Hocevat-fot- their constructive and helpftil
+Peabody, D. (1962). Two components in bipolar scales:                 suggestion. An earlier version of this paper was presented
+      Direction and extremeness. Psychological Review, 69,            at the 1993 annual meeting of the National Council for
+      65-73.                                                          Measurement in Education, Atlqnt~ Gfl. Preparation of
+Ramsay, J. O. (1973). The effect of number of categories              this paper was partially supported by a 1993 University of
+      in rating scales on precision of estimation of scale            Central Florida Faculty In-House Crrcant.
+      values. Psychometrika, 38, 513-533.
+                                                                                               Author’s Address
+Remington, M., Tyrer, P. J., Newson-Smith, J., &
+      Cicchetti, D. V (1979). Comparative reliability of cat-          Send requests for reprints or further information to Lei
+      egorical and analogue rating scales in the assessment            Chang, of Central Florida, Department &reg;f ~d~-
+      of psychiatric symptomatology. Psychological Medi-               cational F&reg;ur~dati&reg;ris, &reg;rland~ FL 32816-1250, U.S.A.
+
+
+
+
+                                                Downloaded from apm.sagepub.com at FLORIDA STATE UNIV LIBRARY on October 5, 2014
+

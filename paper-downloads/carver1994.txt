@@ -1,0 +1,978 @@
+ Journal of Personality and Social Psychology                                                               Copyright 1994 by the American Psychological Association, Inc.
+ 1994. Vol. 67, No. 2. 319-333                                                                                                                      0022-3514/94/S3.00
+
+
+
+
+  Behavioral Inhibition, Behavioral Activation, and Affective Responses to
+        Impending Reward and Punishment: The BIS/BAS Scales
+                                                        Charles S. Carver and Teri L. White
+
+                               Gray (1981, 1982) holds that 2 general motivational systems underlie behavior and affect: a behav-
+                               ioral inhibition system (BIS) and a behavioral activation system (BAS). Self-report scales to assess
+                               dispositional BIS and BAS sensitivities were created. Scale development (Study 1) and convergent
+                               and discriminant validity in the form of correlations with alternative measures are reported (Study
+                               2). In Study 3, a situation in which Ss anticipated a punishment was created. Controlling for initial
+                               nervousness, Ss high in BIS sensitivity (assessed earlier) were more nervous than those low. In Study
+                               4, a situation in which Ss anticipated a reward was created. Controlling for initial happiness, Ss high
+                               in BAS sensitivity (Reward Responsiveness and Drive scales) were happier than those low. In each
+                               case the new scales predicted better than an alternative measure. Discussion is focused on conceptual
+                               implications.
+
+
+
+  The past several years have seen renewed interest in physio-                        behavior that may lead to negative or painful outcomes. Thus,
+logical models of personality. Of course, Hans Eysenck (e.g.,                         BIS activation causes inhibition of movement toward goals.
+Eysenck, 1967) has long held that two basic dimensions of per-                        Gray has also held that BIS functioning is responsible for the
+sonality (extraversion and emotionality) reflect differences in                       experience of negative feelings such as fear, anxiety, frustration,
+the functioning of two aspects of the nervous system. In more                         and sadness in response to these cues (Gray, 1978,1981, 1987b,
+recent years, more has been learned about brain functioning,                          1990). In terms of individual differences in personality, greater
+and others have incorporated the newer information into their                         BIS sensitivity should be reflected in greater proneness to anxi-
+own views of personality.                                                            ety, provided the person is exposed to the proper situational
+                                                                                     cues.
+       Gray's Theory of Brain Functions and Behavior                                    The physiological mechanism believed to control appetitive
+                                                                                      motivation has been called the behavioral approach system
+   A theory that is often contrasted with Eysenck's, and on                          (Gray, 1981,1987a, 1990) or behavioral activation system (BAS;
+ which we focus here, was proposed by Gray (1972, 1981). This                        Fowles, 1980). The neural basis of the BAS is less clearly speci-
+theory also postulates two dimensions of personality, but in this                    fied than that of the BIS, though catecholaminergic, especially
+case the dimensions are called anxiety (or anxiety proneness)                        dopaminergic, pathways are believed to play a central role (cf.
+and impulsivity. These two qualities of personality represent in-                    Stellar & Stellar, 1985). This system is said to be sensitive to
+dividual differences in the sensitivity of two neurological sys-                     signals of reward, nonpunishment, and escape from punish-
+tems in their responses to relevant environmental cues (see also                     ment. Activity in this system causes the person to begin (or to
+Fowles, 1987, 1993).' One of these systems regulates aversive                        increase) movement toward goals. Gray has also held that the
+motivation; the other regulates appetitive motivation.                               BAS is responsible for the experience of positive feelings such as
+   The aversive motivational system is called the behavioral in-                     hope, elation, and happiness (Gray, 1977, 1981,1990). In terms
+hibition system (BIS). It comprises the septohippocampal sys-                        of individual differences in personality, greater BAS sensitivity
+tem, its monoaminergic afferents from the brainstem, and its                         should be reflected in greater proneness to engage in goal-di-
+neocortical projection in the frontal lobe. Gray has argued that                     rected efforts and to experience positive feelings when the per-
+this physiological mechanism controls the experience of anxiety                      son is exposed to cues of impending reward. Similar lines of
+in response to anxiety-relevant cues (Gray, 1972, 1977, 1978,                        thought have also been developed by Depue and his colleagues
+ 1982, 1987b, 1990). The BIS, according to Gray, is sensitive                        (e.g., Depue & Iacono, 1989; Depue, Krauss, & Spoont, 1987)
+to signals of punishment, nonreward, and novelty. It inhibits                        andbyCloninger(1987).
+                                                                                        Each of these two motivational systems is presumed to be
+                                                                                     related to one broad affective quality (the BAS to positive affect
+   Charles S. Carver and Teri L. White, Department of Psychology, Uni-
+versity of California, Los Angeles.
+   Preparation of this article was facilitated by National Science Foun-                1
+                                                                                          Gray (1987a, 1990) also assumes a third system, thefight-flightsys-
+dation Grant BNS90-! 1653. We thank Andre Perwin for developing the                  tem, which is responsible for organizing behavior in response to uncon-
+computer programs used in Studies 3 and 4 and Herb Quay for com-                     ditioned punishment and unconditioned nonreward. Activity in this
+ments on a draft of the article.                                                     system is assumed to relate to the far extremes of negative emotion:
+  Correspondence concerning this article should be. addressed to                     panic and rage (Gray, 1990). The role of this system in personality has
+Charles S. Carver, who is now at Department of Psychology, University                not been discussed much by Gray, and this aspect of the theory has been
+of Miami. Coral Gables, Florida 33124-2070.                                          disregarded in the work reported here.
+                                                                               319
+320                                         CHARLES S. CARVER AND TERI L. WHITE
+
+and the BIS to negative affect) and to be unrelated to the al-        1993) and indeed normal behavior. Further empirical evalua-
+ternative affect. Furthermore, because the BAS and BIS repre-         tion of the model's applicability to human experience thus
+sent distinct structures in the nervous system (being separable       would seem an important goal.
+both pharmacologically and by brain lesions), their sensitivities
+are presumed to be orthogonal (Gray, 1987a, 1987b; Quay,                         Assessment ofBAS and BIS Sensitivity
+ 1993). Thus, within a given population there should exist people
+with all combinations of high and low BIS and BAS sensitivity.           Although Gray (1972, 1981) postulated two personality di-
+                                                                      mensions defined by variation in BAS and BIS sensitivities, no
+               Significance of Gray's Theory                          consensus has been reached about how to assess these dimen-
+                                                                      sions in humans so that their manifestations can be studied.
+   Gray's work has been focused primarily on animal behavior          Some researchers have used instruments that were developed
+and the effects of drugs, rather than on nonpharmacological           for other purposes to investigate Gray's ideas, but there is reason
+studies of human behavior or affect. The theory has obvious           to be concerned about the adequacy or appropriateness of such
+implications for personality, however (Gray, 1981). Its relevance     measures for this task.
+to human behavior has been discussed primarily in terms of               For example, the Extraversion scale from the EPQ (Eysenck
+stable individual differences in the responsiveness of the two sys-   & Eysenck, 1975) has been used to test individual-difference
+tems to the two classes of stimuli to which they pertain. Given       predictions deriving from Gray's theory (e.g., Larsen & Kete-
+that starting point, the theory provides a plausible way of ac-       laar, 1991). Using this scale for this purpose is problematic,
+counting, in terms of brain functioning, for several sorts of psy-    however, because its conceptual content does not fit the theory.
+chopathology. For this reason, it has a considerable following        Gray (e.g., 1981) has viewed extraversion as a derived quality
+among psychologists interested in various kinds of behavior           that reflects the balance between impulsivity and anxiety (more
+problems (e.g., Fowles, 1987, 1988, 1993; Newman & Kosson,            impulsivity leading to more extraversion and more anxiety lead-
+ 1986; Quay, 1988, 1993).                                             ing to more introversion). However, EPQ extraversion has a
+   Recall that the theory attributes sensitivity to signals of re-    large component of sociability, with very little impulsivity (e.g.,
+ward—in terms of both behavioral approach and the creation            Wolfe & Kasmer, 1988; Zinbarg & Revelle, 1989). Because so-
+of positive affect—to BAS activity. People with high BAS sensi-       ciability plays no obvious role in Gray's theoretical scheme, the
+tivity should respond behaviorally to cues of reward and should       two conceptualizations of extraversion differ in a fundamental
+experience positive affect in the presence of such cues (com-         way. Given this difference, Eysenck's measure of extraversion
+pared to people with lower BAS sensitivity). At an extreme, a         cannot be expected to provide a wholly adequate measure of
+heightened BAS sensitivity may underlie the sociopathic person-       BAS sensitivity.2
+ality (although many discussions of this problem also assume a           It might be argued that other scales reflect BAS sensitivity,
+role for a weak BIS and thus weak inhibition of impulses, see         on the basis of the reasoning that BAS functioning is related to
+Fowles, 1980; Gray, 1985). Depue and colleagues have also ar-         impulsive or antisocial tendencies. For instance, the Socializa-
+gued that a behavioral engagement or facilitation system, con-        tion scale of the California Psychological Inventory measures
+ceptually similar to the BAS, is one underpinning of bipolar dis-     tendencies toward delinquency and antisocial acts (Gough &
+order (Depue & Iacono, 1989; Depue etal., 1987).                      Peterson, 1952; Megargee, 1972). Similarly, the Psychopathy
+   Recall also that the theory attributes sensitivity to signals of   Checklist (Hare, 1980) assesses antisocial behavior. Although it
+punishment—resulting in inhibition and the creation of nega-
+tive affect—to the activity of the BIS. People with high BIS sen-
+                                                                         2
+sitivity should be especially responsive behaviorally to punish-           An issue that is tangential to the point under discussion here, but
+ment cues and should experience great anxiety in situations           which has been a part of the ongoing debate between advocates of
+with cues of impending punishment (compared to people with            Gray's and Eysenck's theories, concerns how the dimensions posited by
+                                                                      the two theorists relate to one another in conceptual space (cf. Diaz
+lower BIS sensitivity). At an extreme, heightened BIS sensitivity     & Pickering, 1993). Gray (e.g., 1981) has argued that his dimensions
+may render the person susceptible to anxiety or depressive dis-       represent a 45° rotation of Eysenck's dimensions. We view this state-
+orders (Fowles, 1993).                                                ment as a useful metaphor, but one that disregards a great deal of em-
+   Along these same lines, Quay (1988, 1993) has summarized           pirical reality. For one thing, as just noted, Eysenck's conceptualization
+and integratedfindingsfrom animal and human studies to clas-          and measures of extraversion incorporate facets that are not included
+sify several childhood disorders in terms of levels of BAS and        anywhere in Gray's theory. For another thing, measures of emotionality
+BIS functioning. He argued that an overactive BAS, causing ex-        derived from Eysenck's theory selectively assess negative emotionality
+                                                                      (thus the dimension is also called neuroticism). Gray, however, treats
+treme responses to signals of reward, is implicated in the devel-     emotionality as a summation of the sensitivities of anxiety proneness
+opment of conduct disorder; that an underactive BIS, causing          (which leads to negative emotions) and impulsivity (which leads to pos-
+impaired inhibition in the face of signals of punishment and          itive emotions). This obviously is a very different conception. Given
+nonreward, is implicated in attention-deficit hyperactivity dis-      these differences in conceptions of emotionality, it is no surprise that
+order; and that an overactive BIS, causing hypersensitivjty to        measures of neuroticism (emotionality) are very highly correlated with
+conditioned signals of punishment or nonreward, is implicated         measures of trait anxiety—so much so that many researchers treat them
+in childhood anxiety disorders.                                       as interchangeable (e.g., Smith, Pope, Rhodewalt, & Poulton, 1989).
+    Nor do these illustrations exhaust the ways in which an un-       This empirical reality does not accord well with the notion of one of
+                                                                      these dimensions being a 45° rotation of the other. In sum, we think that
+derstanding of the effects of appetitive and aversive motivational    the metaphor of the 45° rotation may have outlived its usefulness.
+systems may inform models of psychopathology (Fowles, 1988,
+                                                             BIS/BAS SCALES                                                                  321
+
+is reasonable to see such behaviors as reflecting reward seeking,       Measures Based on Gray's Model
+there is nothing in Gray's theory to suggest that people who are
+highly sensitive to rewards are also inclined to illegal activities,       As we noted earlier, much of the research conducted to inves-
+as opposed to other rewarding activities. Consequently, use of          tigate Gray's theory in humans has used measures with other
+these scales to assess BAS sensitivity would likely lead to very        conceptual origins. This has not invariably been so, however.
+biased sampling.                                                        At least three attempts have been made to develop assessment
+   Some researchers have used measures of impulsiveness to as-          devices from the perspective of Gray's theory. One of them is
+sess BAS sensitivity, following the lead of Gray's label for this       MacAndrew and Steele's (1991) measure of BIS sensitivity. We
+dimension of personality (e.g., Diaz & Pickering, 1993). How-           find two aspects of this measure problematic. Thefirstis that it
+ever, even within Gray's conceptual framework, there are rea-           is focused on ambient anxiety rather than on vulnerability to
+sons to be concerned about whether impulsive behavior should            anxiety (the issue raised in the preceding paragraph). The sec-
+derive solely from BAS sensitivity, as opposed to a combination         ond is that this measure is unaccompanied by a measure of BAS
+of BAS sensitivity and BIS insensitivity (see also Gray, Owen,          sensitivity. Thus, it stands alone as a measure of trait anxiety.
+Davis, & Tsaltas, 1983). Indeed, it may turn out that Gray's            Another scale designed to assess BIS sensitivity, reported by
+choice of impulsivity as a label for this quality of personality is     Torrubia and Tobena (1984), has similar problems. This mea-
+misleading. We do not, of course, mean to imply that impulsive          sure is focused somewhat more on vulnerability than is the
+action is not an important phenomenon to understand (see, e.g.,         MacAndrew and Steele measure, but its item content frequently
+Newman, Widom, & Nathan, 1985; Patterson & Newman,                      is one step or more removed from cues of punishment (e.g., "Do
+ 1993; Wallace, Newman, & Bachorowski, 1991). However,                  you prefer not to ask for something when you are not sure you
+whether impulsiveness per se is the most direct reflection of BAS       will obtain it?"). This measure also stands alone as a measure
+sensitivity is another matter (the issue of impulsiveness is taken      of trait anxiety that is unaccompanied by a measure of BAS
+up again later in the article).                                         sensitivity.
+                                                                           Another measure developed with Gray's theory as back-
+                                                                        ground was devised by Wilson, Barrett, and Gray himself (1989;
+                                                                        Wilson, Gray, & Barrett, 1990). This instrument was developed
+Vulnerability Versus Typical Experience
+                                                                        by writing items that would reflect one of six behavioral ten-
+                                                                        dencies that animal research suggests are related to the func-
+    A more subtle but nonetheless important issue in assessing          tioning of the BIS, the BAS, or thefight-flightsystem. Unfortu-
+ BAS or BIS sensitivity pertains to distinguishing the sensitivity      nately, factor analysis of this instrument provided little support
+ of the system from the person's typical experiences in day-to-         for the existence of factors corresponding to the a priori scales
+ day life. The issue is perhaps most clearly illustrated with regard    (Wilson et al., 1990). Instead, the factors that emerged were
+ to the BIS. Gray characterized the quality of personality deriv-       composites of items from divergent scales (with the relatively
+ ing from BIS sensitivity as anxiety proneness. This dimension          clear exceptions of the item sets intended to assess fight and
+ appears relatively straightforward conceptually. Moreover, it          flight, respectively). This instrument thus does not seem very
+ would seem obvious that BIS sensitivity is readily measured by         well suited to its purpose.3
+ trait anxiety scales, for example, the Taylor (1953) Manifest
+ Anxiety Scale (MAS). The problem is that although a person                One more instrument deserves mention in this context: the
+ with high BIS sensitivity is vulnerable to anxiety in certain sit-     Tridimensional Personality Questionnaire (TPQ), developed by
+ uations, this person may also learn to avoid anxiety-provoking         Cloninger (1987) to assess the three dimensions of personality
+ situations much of the time and consequently experience rela-          he regards as fundamental. Cloninger's model stems partly from
+ tively little anxiety on a day-to-day basis (for more detail of this   some of the same background as underlies Gray's theory and is
+ line of reasoning see Fowles, 1987). Thus, although there surely       similar enough to Gray's that it might be invoked as a concep-
+ is likely to be a substantial positive correlation between BIS sen-    tual equivalent. The three dimensions assessed by the TPQ are
+sitivity and measures of trait anxiety that focus on the day-to-        as follows:
+day experience of anxiety, it does not seem wise to assume that            1. Harm avoidance concerns sensitivity to, and avoidance of,
+the latter measures perfectly reflect BIS sensitivity.                  punishing stimuli. This resembles Gray's BIS sensitivity; in-
+                                                                        deed, Cloninger referred to a "behavioral inhibition system" in
+    The problem just outlined is also implicit in Tellegen's (1985)     describing the brain system he argued underlies it.
+suggestion that measures of positive emotionality and negative             2. Novelty seeking concerns a tendency toward exhilaration
+emotionality might be thought of as reflecting BAS and BIS sen-         or excitement in response to cues of potential reward or relief
+sitivity, respectively. That is, although a person with a highly        of punishment, causing exploration in pursuit of potential re-
+sensitive BIS may be quite vulnerable to states of anxiety and          wards. This resembles Gray's descriptions of BAS sensitivity;
+other negative affects, one who realized the vulnerability and
+arranged his or her life to avoid threatening situations would
+not be especially prone to experience negative affect moment to            3
+moment and thus would not have a high standing on the Nega-                  Although factors for the intended fight and flight item sets did tend
+tive Emotionality scale. In brief, assessment of BIS and BAS            to emerge in the analysis, we would argue that many items of the two
+                                                                        sets are only loosely related to Gray's conceptualization of this system,
+sensitivities would seem to benefit from assessing responses to         which presumably comes into play only under relative extremes of un-
+appropriate classes of situations rather than assessing general         conditioned aversive stimulation. This raises questions about the useful-
+affective tone.                                                         ness of even these scales.
+322                                         CHARLES S. CARVER AND TERI L. WHITE
+
+indeed, Cloninger referred to a "behavioral activation system"        tempted to create statements that reflected a concern over the
+in describing the brain system he argued underlies it.                possibility of a bad occurrence ("I worry about making mis-
+   3. Reward dependence concerns a tendency toward respon-            takes") or a sensitivity to such events when they do occur ("Crit-
+siveness to unconditioned signals of reward and a tendency to-        icism or scolding hurts me quite a bit"). All potential BIS items
+ward maintaining behavior previously associated with reward.          thus referenced potentially punishing events and asked how
+Cloninger proposed this dimension as the basis for individual         people respond to them. It is known that how people react be-
+differences in resistance to extinction and the ability to delay      haviorally when they confront circumstances that induce anxi-
+gratification. It does not correspond directly to any dimension       ety depends on a wide range of factors other than the existence
+in Gray's theory. On the other hand, it might be argued on con-       of the anxiety state per se, for example, confidence of being able
+ceptual grounds that qualities reflected in this dimension repre-     to cope with the anxiety (cf. Carver, Blaney, & Scheier, 1979;
+sent the BAS as well as does Novelty Seeking.                         Carver & Scheier, 1986). Because of this, rather than introduce
+   There is, however, reason to doubt that the TPQ provides an        the influences of these additional factors by assessing BIS sensi-
+ideal operationalization of BAS and BIS sensitivities. For one        tivity in terms of reports of behavioral reactions, we focused
+thing, the BAS-relevant dimensions (each of which is a compos-        instead on the experience of anxiety per se in situations in which
+ite of subscales) are not very consistent internally. That is, Nov-   there are punishment cues.
+elty Seeking and especially Reward Dependence have been                  In approaching the assessment of BAS sensitivity, we used a
+found not to form clean second-order factors (Waller, Lilienfeld,     somewhat more divergent strategy, consistent with the absence
+Tellegen, & Lykken, 1991). Furthermore, many items of the Re-         of complete consensus about exactly how BAS sensitivity is
+ward Dependence scale appear to have a critical ambiguity:            likely to be manifest. We attempted to create statements that
+They reflect a dependence on other people that could be moti-         would reflect one of the following: strong pursuit of appetitive
+vated as easily by desire to avoid social disapproval as by desire    goals ("I go out of my way to get things I want"), responsiveness
+to gain social reward (e.g., "I like to please other people as much   to reward ("When I get something I want I feel excited and en-
+as 1 can"; "Even if there are problems in a friendship, I nearly      ergized"), a tendency to seek out new potentially rewarding ex-
+always try to keep it going anyway"; and "I don't go out of my        periences ("I'm always willing to try something new if I think it
+way to please other people" [reverse scored]). Such a concern         will be fun"), or a tendency to act quickly in pursuit of desired
+over disapproval may reflect a highly active BIS, rather than a       goals ("1 often act on the spur of the moment"). These various
+dependence on reward. Additional information bearing on the           qualities all reflect BAS sensitivity as portrayed in one or more
+TPQ as a potential measure of BIS and BAS sensitivity is dis-         of the theoretical discussions cited earlier in the article.4 Thus,
+cussed later in this article.                                         all BAS items that were generated referenced potentially re-
+   The lack of what we regarded as a fully satisfactory set of        warding events and assessed how people respond to them.
+measures to assess BAS and BIS sensitivity led to the work re-
+ported here. In this article, we describe the development and                        Subscales and Factor Structure
+initial validation of such a set of measures. Study 1 reports the
+development of the BIS/BAS scales. Study 2 reports convergent            The item sets went through several iterations of item genera-
+and discriminant validity with regard to a variety of other mea-      tion and testing (e.g., factor analyses and correlations with other
+sures. Study 3 is a laboratory test of the BIS scale, showing that    scales), with items being tested, and revised or discarded as nec-
+it predicts individual differences in the experience of anxiety       essary. Our goal was an instrument that would be relatively brief
+when exposed to cues of impending punishment in a controlled          and would be narrowly focused on the specific psychological
+situation and does so better than does an alternative measure of      qualities we intended to measure. We eventually arrived at four
+trait anxiety. Study 4 is a comparable laboratory study of the        scales: A BIS or punishment sensitivity scale includes all items
+ BAS scales, predicting individual differences in the experience      referencing reactions to the anticipation of punishment. In con-
+of positive affect in response to cues of impending reward.           trast to this unidimensional character of the BIS scale, there
+                                                                      are three BAS-related scales. The Drive scale is made of items
+                                                                      pertaining to the persistent pursuit of desired goals. The Fun
+                Study 1: Scale Development                            Seeking scale has items reflecting both a desire for new rewards
+                     Method and Results                               and a willingness to approach a potentially rewarding event on
+                                                                      the spur of the moment. The Reward Responsiveness scale has
+   We began by generating a pool of items that were intended to       items that focus on positive responses to the occurrence or an-
+reflect either BAS or BIS sensitivity. All items were written in a    ticipation of reward.
+Likert-type format, with responses made on a 4-point response            Factor analysis of the final set of BIS/BAS items was con-
+scale with 1 indicating strong agreement and 4 indicating strong      ducted on a sample of 732 college students (374 women and 358
+disagreement (with no neutral response). We did not take Wil-         men), using oblique rotation to permit correlations among the
+son et al.'s (1989) approach of trying to write items that would      factors. The analysis yielded four factors with eigenvalues
+correspond structurally to diverse domains of laboratory find-        greater than 1, which together accounted for 49% of the overall
+ings. Rather, we considered the overall conceptualization of BIS
+and BAS functioning—particularly the postulated role of these
+systems in generating emotional reactions—and wrote items on            4
+                                                                          We note that it is possible to take issue with one or more of these
+that basis.                                                           proposed manifestations. This is a point that should be borne in mind
+   In approaching the assessment of BIS sensitivity, we at-           through the remainder of this article.
+                                                                 BIS/BAS SCALES                                                                 323
+
+Table 1
+BIS/BAS Scales: Items, Alpha Reliabilities, Means, Standard Deviations, and Factor Loadings
+                            Scale and items                                                   M        SD
+
+1. BIS                                                                            .74        19.99     3.79
+  If I think something unpleasant is going to happen I usually get pretty
+     "worked up."                                                                                                 72
+  I worry about making mistakes.                                                                                  70
+  Criticism or scolding hurts me quite a bit.                                                                     68
+  I feel pretty worried or upset when I think or know somebody is
+     angry at me.                                                                                                 66
+  Even if something bad is about to happen to me, I rarely experience
+     fear or nervousness.                                                                                         58
+  I feel worried when I think I have done poorly at something.                                                    50
+  I have very few fears compared to my friends.                                                                   49
+2. BAS Reward Responsiveness                                                      .73        17.59     2.14
+  When I get something I want, I feel excited and energized.                                                                74
+  When I'm doing well at something, I love to keep at it.                                                                   69
+  When good things happen to me, it affects me strongly.                                                                    67
+  It would excite me to win a contest.                                                                                      67
+  When I see an opportunity for something I like, I get excited right
+     away.                                                                                                                  65
+3. BAS Drive                                                                      .76        12.05     2.36
+  When I want something, I usually go all-out to get it.                                                                               81
+  I go out of my way to get things I want.                                                                                             73
+  If I see a chance to get something I want, I move on it right away.                                                                  71
+  When I go after something I use a "no holds barred" approach.                                                                        68
+4. BAS Fun Seeking                                                                .66        12.43    2.26
+  1 will often do things for no other reason than that they might be fun.                                                                          81
+  I crave excitement and new sensations.                                                                                   [39]                   73
+  I'm always willing to try something new if I think it will be fun.                                                                              66
+  I often act on the spur of the moment.                                                                                               [39]       57
+
+Note. Decimals and loadings below .35 are omitted; two BIS items have been reverse coded. N = 732. BIS = Behavioral Inhibition System; BAS =
+Behavioral Activation System.
+
+
+
+ variance. The items and factor loadings are shown in Table 1,              were .66 for BIS, .66 for Drive, .59 for Reward Responsiveness,
+ along with the internal reliabilities of the scales.5 Although the         and .69 for Fun Seeking.
+ scales are brief, three of the four have quite reasonable alpha
+ reliabilities; the alpha for Fun Seeking was somewhat lower.
+ Sample means and standard deviations for the four scales are
+                                                                                        Study 2: Convergent and Discriminant Validity
+ also listed in Table 1. In this large sample there were two gender                                           Method
+ differences in scale means; BIS scores were lower among men
+ (M = 18.84) than among women (M = 21.09), as were Reward                      Once a final item set had been established, the scales were adminis-
+ Responsiveness scores (Ms = 17.27 for men and 17.90 for                    tered along with other instruments so that we could begin to establish
+                                                                            convergent and discriminant validity. Measures used for this purpose
+women).
+                                                                            included a 20-item form of the MAS (which has been found to correlate
+    In theory, the sensitivity of the BIS and BAS physiological             .93 with the full MAS [Bendig, 1956]) and a 10-item extraversion scale
+systems should be independent. Consistent with this assump-                 (Eysenck & Eysenck, 1985, p. 84). We expected moderately strong con-
+tion, the BIS scale was relatively independent of the BAS sub-              vergence between these scales and our BIS and BAS scales, respectively.
+scales in this sample, although the degree of independence var-             We also administered the Minnesota Multiphasic Personality Inventory
+ied across subscales. The BIS scale correlated -.12 with Drive,             (MMPI) Hypomania scale and the Socialization scale from the Califor-
+ .28 with Reward Responsiveness, and -.08 with Fun Seeking.                 nia Psychological Inventory (CPI, Gough, 1956, 1960), both of which
+Consistent with their shared conceptual origins, the latter three           were expected to be related to one or more BAS scales.
+scales were more closely related to one another, although not as               Some subjects also completed Scheier and Carver's (1985) Life Ori-
+strongly as might have been expected. Drive was correlated .34              entation Test (LOT), a measure of optimism versus pessimism. We ex-
+with Reward Responsiveness and .41 with Fun Seeking. Reward                 pected this measure to be related to the BIS/BAS scales, but not strongly
+Responsiveness was correlated .36 with Fun Seeking. A factor                so, for the following reason. The BIS/BAS scales were intended to assess
+analysis of scale scores, however, confirmed that the three BAS
+scales all loaded strongly on one second-order factor (all at
+                                                                              5
+above .75 in the unrotated factor matrix), whereas the BIS scale                Separate analyses conducted on the male and female subsamples
+loaded strongly on a second factor (.93). To assess reliability             yielded only one tendency toward a gender difference. Among women
+across time, a sample of 113 subjects was retested approxi-                 but not among men, the two BIS items that were worded so as to reflect
+                                                                            low anxiety tended to separate from the rest of the BIS items. Even
+mately 8 weeks after an initial testing. Test-retest correlations
+                                                                            among the women, however, the alpha for the BIS scale was .70.
+324                                                    CHARLES S. CARVER AND TERI L. WHITE
+
+the sensitivity of systems that react to punishment and reward cues,                                          Results
+respectively. As noted earlier in the article, sensitivity (or reactivity) con-
+veys no information about how frequently such cues are encountered.                  Correlations between the BIS/BAS scales and the other mea-
+In contrast, the LOT assesses the belief that good versus bad things will         sures administered are in Table 2 (as these are largely nonover-
+happen. To put it differently, this variable reflects expectations of the         lapping samples, ns vary from one row to another). Consider
+likelihood (or frequency) of encountering cues of reward versus punish-           first the correlations with the MAS and with Extraversion. The
+ment. Given this difference between sensitivity to a class of stimuli (on         MAS correlated fairly strongly with the BIS, as expected, but
+the one hand) and the perceived likelihood of exposure to the stimuli
+                                                                                  not prohibitively so. Consistent with the relative lack of associ-
+(on the other hand), relationships between the LOT and the BIS/BAS
+scales should not be too strong.
+                                                                                  ation between BIS and BAS scales, the MAS was not strongly
+   The dispositional form of the Positive and Negative Affect Schedule
+                                                                                  correlated with any BAS scale. A complementary pattern
+(PANAS; Watson, Clark, & Tellegen, 1988), a measure of the tendencies             emerged from the correlations with Extraversion. Extraversion
+to experience positive and negative affects (assessed as two distinct ten-        related moderately strongly to all the BAS scales, the strongest
+dencies), was also administered to some subjects. We expected the Neg-            relationship being with Fun Seeking. In contrast, Extraversion
+ative Affectivity scale to correlate with our BIS scale, the Positive Affec-      was nearly unrelated to the BIS. The patterns displayed in these
+tivity scale to correlate with our BAS-related scales, and each to be un-         two rows suggest that the BIS and BAS scales are related to these
+related to conceptually unrelated BIS/BAS scales. We also administered            measures as they should be, but not so closely related as to be
+Watson and Clark's (1993) General Temperament Survey (GTS), which                 indistinguishable from them.
+includes measures of Positive Temperament, Negative Temperament,
+                                                                                     The MMPI Hypomania scale and the CPI Socialization scale
+and Disinhibition-Constraint. As with the PANAS, we expected Nega-
+tive Temperament to be related to the BIS scale, Positive Temperament
+                                                                                  were both moderately related to the Fun Seeking scale of the
+to be related to the BAS-related scales, and each of these to be unrelated        BIS/BAS, and the Hypomania scale was also related to the Drive
+to conceptually unrelated BIS/BAS scales. Of additional interest regard-          scale, but neither was related to the Reward Responsiveness
+ing this measure was the pattern of correlations pertaining to Disinhi-           scale. To put it differently, the Hypomania scale partially cap-
+bition-Constraint, which we tentatively hypothesized would be related             tures two of the three manifestations of BAS functioning re-
+to indexes of both BIS and BAS functioning.                                       flected in our scales, but the only one that is captured (in part)
+   Also administered to some subjects were three measures that are                by CPI Socialization is Fun Seeking. The relative weakness of
+more closely related to the line of reasoning from which this research            all these correlations hints that these two scales are measuring
+derives. The first was MacAndrew and Steele's (1991) measure of BIS               qualities that may diverge somewhat from BAS sensitivity, as we
+sensitivity. This measure, a 30-item MMPI-derived scale, was developed            suggested in the article's introduction with regard to the Social-
+according to a criterion-groups strategy, in which initial selection of           ization scale.
+items was based on their ability to distinguish between prostitutes (pre-
+sumably a low-anxiety-prone group) and female psychiatric outpatients
+                                                                                     The pattern of correlations for the Socialization scale raises
+(a more anxiety-prone group). The second scale was Torrubia and To-               questions about the wisdom of its use as an operationalization
+bena's (1984) Susceptibility to Punishment scale. The third instrument            of BAS sensitivity on two grounds. It is unclear at present
+was the TPQ (Cloninger, 1987), which yields measures of Harm Avoid-               whether any specific manifestation of BAS functioning is more
+ance, Novelty Seeking, and Reward Dependence.                                     important than others. The Socialization scale assesses only one
+
+
+Table 2
+Correlations ofBIS, Drive, Reward Responsiveness, and Fun Seeking Scales With Other Measures: Study 2
+             Scale                                 n                     BIS                 Drive                Reward               Fun Seeking
+
+MAS                                              371                     .58***             -.10                   .13                   -.03
+Extraversion                                     381                   -.14                   .41***               .39***                  .59***
+MMPI Hypomania (9)                               138                   -.03                   .33***               .17                     .37***
+CPI Socialization scale                          304                     .22***             -.14                   .10                   -.25***
+Optimism (LOT)                                   371                   -.22***                .16**                .08                     .11
+PANAS                                            498
+  Negative Affectivity                                                   .42***             -.07                   .05                   -.05
+  Positive Affectivity                                                 -.06                   .31***               .28***                  .19***
+GTS                                              207
+  Negative Temperament                                                   .45***               .06                   .05                    .03
+  Positive Temperament                                                 -.12                   .39***                .35***                 .25***
+  Disinhibition-Constraint                                             -.16*                  .18*                -.03                     .39***
+Susceptibility to Punishment                      107                    .39***             -.07                    .05                  -.21**
+MacAndrews & Steele BIS                           172                    .59***             -.14                    .06                  —.10
+TPQ                                               174
+  Harm Avoidance                                                         .59***             -.23**                -.03                   -.27***
+  Novelty Seeking                                                      -.11                   .08                   .08                    .51***
+  Reward Dependence                                                      .42***               .09                   .28***                 .15
+
+Now. BIS = Behavioral Inhibition System; MAS = Manifest Anxiety Scale; MMPI = Minnesota Multiphasic Personality Inventory; CPI =
+California Psychological Inventory; LOT = Life Orientation Test; PANAS = Positive and Negative Affect Schedule; GTS = General Temperament
+Survey, TPQ = Tridimensional Personality Questionnaire.
+*/><.O5. **p<.0l.        *•*/><.001.
+                                                            BIS/BAS SCALES                                                                 325
+
+of the qualities that our BAS scales measure. Thus, if either of       related to the Susceptibility to Punishment scale). These asso-
+the other qualities is important, reliance on the Socialization        ciations raise questions about the extent to which the Harm
+scale would result in failing to obtain the effect. Second, the        Avoidance scale (and to a lesser extent the Susceptibility to Pun-
+significant association between the Socialization scale and the        ishment scale) reflects BIS functioning independent of BAS
+BIS raises questions about the purity of the Socialization scale       functioning.
+as a reflection of BAS functioning rather than BIS functioning.           With respect to the two scales from Cloninger's TPQ that we
+   The correlations between BIS/BAS scales and the LOT were            are treating as relevant to BAS sensitivity, the picture is clear
+modest, as was expected. We view the modest size of these asso-        and simple for one but more complex for the other. Novelty
+ciations as reflecting the difference between a vulnerability, or      Seeking correlated fairly strongly with our Fun Seeking scale,
+susceptibility, to a particular class of cues and an expectation       but it was unrelated to any other BAS scale. It resembled the
+that one or the other class of cues is likely to be frequently en-     Socialization scale in that respect, although unlike the Social-
+countered in life. As indicated earlier, the former is embodied        ization scale it was not related to BIS. Reward Dependence was
+in the logic behind the BIS/BAS scales, whereas the latter is em-      related to our Reward Responsiveness scale, but it was even
+bodied in the LOT6                                                     more strongly related to the BIS scale. A regression analysis in
+   Correlations between the BIS/BAS scales and the two sub-            which TPQ Reward Dependence was predicted from BIS and
+scales of the PAN AS also took the expected form: The PAN AS           Reward Responsiveness scores found that both contributed sig-
+Negative Affectivity scale was related to the BIS scale but not to     nificantly to prediction (/8s = .38 and .21, respectively). This
+any of the BAS-relevant scales; the latter but not the former          strong association with BIS appears to indicate a problem for
+were related to the Positive Affectivity scale of the PANAS. The       the TPQ Reward Dependence scale as a potential measure of
+only surprising aspect of this pattern of correlations was the rel-    BAS sensitivity. As we noted earlier, many of its items reflect a
+ative weakness of the associations obtained. One reason for the        dependence on other people that could be motivated as easily by
+weakness is probably that the PANAS taps a wider range of spe-         a desire to avoid social disapproval as by a desire for social re-
+cific affects than our measures directly relate to. Another rea-       ward. This ambiguity apparently is reflected in the pattern of
+son, we believe, is that the PANAS asks respondents to what            associations shown in Table 2.
+extent they experience each affect in day-to-day life, whereas
+we aimed to assess a vulnerability to the experience given the                                      Discussion
+appropriate stimulus.
+   A pattern of associations emerged with respect to the GTS              The data bearing on convergent and discriminant validity in-
+that closely resembled the pattern for the PANAS, which doubt-         dicate that the BIS and BAS scales are related to, but also dis-
+lessly reflects the shared conceptual origins of the two instru-       tinguishable from, alternative measures of similar constructs
+ments (although it should be noted that the instruments have           and measures of important alternative constructs. With respect
+completely different response formats). The additional infor-          to the BIS, the pattern of correlations for anxiety-related mea-
+ mation provided under GTS in Table 2 concerns the dimension           sures is consistent with the position that the alternative mea-
+of Disinhibition-Constraint. This dimension was positively re-         sures tested here are more similar to each other than they are to
+lated to Fun Seeking and (more weakly) to Drive, but it was also       our BIS scale. In our view, this is because our BIS scale was
+inversely related (albeit not terribly strongly) to the BIS scale. A   designed to measure sensitivity to anxiety-provoking stimuli
+multiple regression analysis in which Disinhibition-Constraint         rather than ambient affective tone, which is not true of the other
+scores were predicted from Fun Seeking and BIS scores revealed         scales. Whether this is a reasonable interpretation of this pattern
+that both made significant independent contributions to predic-        is examined from a different direction in Study 3, reported later
+tion (fis = .36 and —.13, respectively). This suggests that the        in the article. With respect to one alternative measure of anxiety
+impulsive quality that is measured by the Disinhibition-Con-           proneness, the TPQ Harm Avoidance scale, the data suggest a
+straint scale has contributions from both BAS and BIS sensitiv-        possible lack of specificity, because this measure is related not
+ity.                                                                   only to the BIS but also to two BAS scales, which was not true
+   The correlations between the BIS/BAS scales and the mea-            of any other measure of anxiety proneness.
+sures of MacAndrew and Steele (1991) and Cloninger (1987)
+are also of particular interest. Not surprisingly, our BIS scale         6
+                                                                            Although tangential to the main points of this article, it is also of
+was fairly strongly correlated with both alternative measures of       interest that the correlation between the LOT and the BIS is not as high
+anxiety proneness—indeed, at about the same level as with the          as that obtained in the past between the LOT and other measures of
+MAS. Correlations among the latter scales showed that the              anxiety proneness (Smith et al., 1989). Indeed, the LOT was related to
+MacAndrews and Steele measure was closely aligned with both            the MAS in this sample significantly more strongly (r = —.45) than to
+the MAS (r = .72) and the TPQ Harm Avoidance scale (r = .74);          the BIS (T = 5.38, p< .01; Steiger, 1980). We suggest that this greater
+the latter correlated with the MAS at .62. This pattern suggests       discrimination between BIS and LOT than between MAS and LOT has
+                                                                       substantive meaning. That is, there is a conceptual basis for believing
+that our BIS scale is a bit removed from all of these measures,
+                                                                       that expectancies, as assessed by the LOT, should relate to manifest anx-
+as was intended by our focus on sensitivity to anxiety-provoking       iety (cf. Carver & Scheier, 1990), but there is less conceptual basis for
+stimuli rather than on ambient affective tone. The correlation         expecting a strong relation between expectancies and sensitivity to the
+of the BIS scale with the Susceptibility to Punishment scale was       occurrence of either reward or punishment. Thus, this pattern of
+lower than with the other measures. It will also be noted that the     differential discrimination is one source of information suggesting that
+TPQ Harm Avoidance scale was correlated not only with the              the BIS measures vulnerability to anxiety in reaction to anxiety cues,
+BIS but also with two of the BAS scales (one of which was also         rather than measuring anxiety as affective tone.
+326                                          CHARLES S. CARVER AND TERI L. WHITE
+
+   The pattern for the BAS-related measures suggests that our           dict their nervousness in response to the punishment cues. BAS
+BAS scales can be differentiated from alternative measures              scores should not be related to the nervousness experienced,
+without undue difficulty. The strongest associations were be-           because the physiological BAS is not engaged in this situation.
+tween Fun Seeking and Extraversion and Novelty Seeking from
+the TPQ. The remaining correlations were at the moderate lev-                                           Method
+els we were anticipating. There is also some suggestion in the
+data that our BAS scales provide a broader array of possibilities          Subjects were 69 undergraduates (31 men and 38 women) from the
+for assessing BAS sensitivity than do the alternative measures          University of Miami who completed the procedures of this study in
+tested. If novelty seeking or fun seeking ultimately proves to be       partial fulfillment of a course requirement. Five additional subjects
+the critical manifestation of BAS sensitivity, both the TPQ and         completed the procedures of the study described below, but they were
+the BIS/BAS have relevant scales; the extraversion measure and          omitted from the sample before data analysis because postexperimental
+                                                                        debriefing revealed that they had guessed the point of the experimental
+to a lesser extent the Hypomania scale of the MMPI also tap             procedures. Potential subjects completed the BIS/BAS, the 20-item ver-
+into this quality. If, however, another psychological quality were      sion of the MAS (Bendig, 1956), and the 10-item Extraversion scale
+a critical manifestation of BAS sensitivity, the options would be       described earlier (Eysenck & Eysenck, 1985) during large questionnaire
+fewer. If either Drive or Reward Responsiveness were critical,          sessions at the beginning of the semester. Later, they came to the labora-
+Extraversion would appear to provide the best alternative of            tory for individual sessions.
+those examined here, with Positive Temperament a close sec-                Subjects were met at the experimental site by an experimenter who
+ond. Neither of these provides much discrimination, however,            was blind to the specific hypotheses of the study and the pretest scores
+among the qualities that are assessed by our scales as Drive,           of the subjects. They were led to the experimental room, where they
+Reward Responsiveness, and Fun Seeking.                                 were given a brief overview of the project and were asked to give their
+                                                                        informed consent to participate before continuing. They then received
+   By itself, the fact that our scales are not prohibitively corre-     a standard set of orienting remarks, in which the experiment was por-
+lated with alternative measures does not tell us that our scales        trayed as part of a project concerning pattern recognition. Subjects were
+are better than the others, but only that the measures are assess-      told that ability to recognize patterns or sequences is related to intelli-
+ing somewhat different qualities. Thus far, we have presented no        gence, learning ability, and intuition and that the project was aimed at
+information to indicate whether our scales outperform other             getting a clearer idea of what variables influence the intuitive aspect of
+measures in theoretically meaningful settings. This was the next        the process.
+step in our research strategy: to test the scales' predictive ability      The experimenter then described the task that subjects would be per-
+in contexts that provide information concerning basic psycho-           forming and illustrated it with two sample items. For each item, six
+logical processes.                                                      characters were presented in a line on a computer screen. Thefirstfive
+                                                                        were ostensibly thefirstfiveelements of a sequence; the final character
+   Recall that our reason for developing the scales concerned the
+                                                                        either was or was not the next element in the sequence. The subject was
+presumed involvement of BIS and BAS physiological systems               to assess whether it was or was not—within 8 s—and press either Y (for
+in important aspects of human behavior. Of particular interest          yes) or N (for no) on the keyboard. Except for the two sample items
+to us is how these systems may be involved in people's emo-             (used to illustrate one obviously correct sequence and one obviously
+tional reactions to emotion-relevant cues. For this reason, the         incorrect sequence), the items were not real patterns, but strings of
+criterion measure for the next step in the validation process was       numbers, letters, and characters constructed to appear to be genuine
+an emotional reaction. In Study 3, we attempted to create a             sequences. The 8-s time limit was imposed to keep subjects from study-
+situation in which subjects would be induced to experience anx-         ing the sequence long enough to realize that no pattern actually existed.
+iety. It was predicted that BIS scores would predict the amount         Subjects were told that forcing quick responses encourages the use of
+of anxiety reported. Recall also our earlier emphasis on the idea       intuition instead of logic. Subjects were told explicitly not to try to fig-
+that a measure of BIS sensitivity should assess responses to anx-       ure out the pattern logically, but to use their intuitive judgment to decide
+                                                                        whether thefinalcharacter was correct.
+iety-provoking situations rather than assessing general affective
+tone. To evaluate this aspect of our reasoning, we also included
+the MAS (a measure of general affective tone) as a predictor            Assessing the Dependent Measure
+variable in Study 3.
+                                                                           The experimenter continued by saying that many factors influence
+                                                                        people's intuitive skills, including transient emotional states that the
+ Study 3: BIS Sensitivity and the Experience of Anxiety                 person may not even be particularly aware of. Because affect changes
+                                                                        frequently over periods of even an hour, affect-relevant information
+  To validate the BIS scale, we wished to create a situation that       would be collected periodically while the subject was working on the
+engages the BIS but not the BAS. Because the BIS is assumed to          task. This ostensibly would permit the research team to control for the
+be responsive to cues of punishment, in this study we exposed           effects of these small shifts in emotion in analyzing the data.
+subjects to cues of impending punishment. It was necessary that            This statement provided a rationale for collecting the data that com-
+the cues be unambiguous, in the sense that there should be no           pose the study's dependent measure. At two points during the experi-
+                                                                        ment—after the explanation of the task and at a point that ostensibly
+implication of a possible reward (which would engage the BAS).          was midway through the session—subjects completed mood rating
+Thus, we created a situation in which subjects would have rea-          scales to assess their affect. The target affect for this study was nervous-
+son to anticipate the occurrence of what they know to be an             ness. Because we did not want subjects to focus too much on the affect
+aversive event. In theory, differences in internal BIS sensitivity      assessment, we did not use an extensive set of items to measure ner-
+should lead to differences in how subjects respond affectively to       vousness, but a single item. Burisch (1984a, 1984b) has shown that such
+this impending punishment. If our BIS scale is a valid measure          brief measures typically provide as much information as longer instru-
+of this internal BIS sensitivity, subjects' BIS scores should pre-      ments, particularly when the quality being measured is highly intuitive.
+                                                                   BIS/BAS SCALES                                                                   327
+
+The scale measuring nervousness was embedded in scales measuring               After doing this, the experimenter debriefed the subject, awarded re-
+other affective qualities, which served as distractors.                        search credit, and requested that the subject not discuss the experiment
+   The affect-rating scales were presented on the computer screen and          with his or her fellow students.
+subjects responded to each by choosing a number (1 -9) to indicate how
+much they were currently experiencing that emotional quality. The first
+set of ratings was made immediately after completion of the task in-
+                                                                               Informed Consent Procedure
+structions that were just outlined. The experimenter made an excuse               It was intended that the anticipation of a second exposure to the cold
+and left the room while the subject made the ratings.                          pressor would constitute the key stimulus for anxiety in this study. How-
+                                                                               ever, the requirement that subjects give fully informed consent made the
+                                                                               situation somewhat more complicated than we had intended. That is,
+Punishment Cue Manipulation                                                    we had to tell subjects—well before collecting the initial mood mea-
+                                                                               sure—that they would be asked to complete the cold-pressor procedure
+    After making this set of ratings, subjects were given another cover        and that most people find this procedure unpleasant. In fact, the Uni-
+ story to justify the subsequent delivery of punishment cues. This cover       versity of Miami's human subjects committee required us to include a
+ story concerned an additional factor that ostensibly has an influence on      statement to the effect that in rare cases people with certain health prob-
+ intuition. The experimenter said that there is evidence that what is          lems have adverse reactions and to ask whether the potential subjects
+ called "reticular activation" helps sharpen people's intuitive judgments.     had any of these specific health problems. Thus, there is reason to be-
+ One of the easiest ways to increase reticular activation, the experimenter    lieve that the consent procedure may have caused nervousness to be
+ continued, is the cold-pressor procedure—placing a hand into ice water.       elevated well beyond a true baseline at the first point of measurement.
+ To increase reticular activation (and thus to enhance their task perfor-      This should be kept in mind in evaluating the findings.
+ mance), subjects were asked to place their hand in ice water for 60 s as
+ the experimenter continued with the task instructions. In reality, the
+ reason for this exposure to the cold pressor was to ensure that subjects                                      Results
+ would realize that it creates sensations of discomfort and thus consti-
+ tutes a punisher. (Subjects were casually asked to judge the discomfort          The outcome variable in this study was subjects' self-reported
+ produced by this procedure after they completed it; the ratings averaged      levels of nervousness. Subjects reported themselves to be mod-
+ 7.88 on a scale of 1-10.)                                                     erately nervous even before exposure to the cold pressor (M =
+    The experimenter continued by saying that subjects' performance            4.09, SD = 2.10, on a 1-9 scale). Presumably this reflects both
+ would be monitored by the computer across blocks of the task. The             the general apprehensiveness that subjects often bring to their
+ critical information came next: At the midpoint of the session, the task      initial experience with research, plus anxiety generated by the
+ would be interrupted to give subjects another dose of the cold pressor to     informed consent procedure. Self-reported nervousness did not
+ increase reticular activation again. This time, however, the amount of        increase significantly overall from this initial measure to the
+ exposure to the cold pressor would be individualized. The experimenter        second measure, taken at what subjects believed to be the mid-
+ continued by saying that different people reach different levels of activa-   point of the session (M = 4.46, SD = 1.72). Presumably this
+ tion at the beginning of the session. To control for that, activation would
+                                                                               lack of an overall change reflected two competing factors: There
+ have to be adjusted for each person according to how well he or she had
+ done in thefirsthalf of the session. How much more ice water time the         probably was a decrease in the initial apprehensiveness about
+ subject would get at midsession would depend on how well he or she had        the research experience in general, which was countered by an
+ done thus far. The more blocks on which the subject had done worse            increase in anxiety from the ongoing feedback indicating that
+ than average, the more his or her reticular activation presumably would       further exposure to the cold pressor would be forthcoming.
+ need to be boosted, and the more exposure to the cold pressor could be           The predictor variables of greatest interest in this study were
+ expected. This set of instructions ensured that later feedback of poor        subjects' BIS scores (M = 20.28, SD = 4.02) and MAS scores
+ performance would constitute a cue of impending punishment.                   (M = 27.54, SD = 4.14).7 Correlations between these variables
+    After these aspects of the procedures were fully explained, the exper-     and self-rated nervousness at the two measurement points are
+ imenter left the subject to work alone at the task. Subjects received feed-   shown in Table 3. Significant correlations were obtained be-
+ back from the computer at the end of each task block (10 items each).
+                                                                               tween initial nervousness ratings and both of these personality
+This feedback was identical for all subjects regardless of their response
+ choices. In particular, the feedback indicated that the subject had pro-      measures. A multiple regression analysis indicated that the BIS
+duced sub-par performance on each of thefirstseven blocks except the           was a better predictor of this initial rating of nervousness than
+ second one (one nonfailure block was included to increase credibility).       was the MAS. That is, when both were entered simultaneously
+ Each failure message was accompanied by a message reminding the sub-          as predictors, the BIS scores made a significant unique contri-
+ject that performances below 50% result in increased amounts of cold-          bution (j8 = .38, p < .01), but the MAS did not. The BIS was
+pressor exposure.                                                              also significantly related to the later measure of nervousness,
+    After the feedback for the seventh block of items was presented, a         but the MAS was not.
+message appeared indicating that there was a need to reassess mood to             These findings indicate that the BIS was a reliable predictor
+control for shifts during the first half of the session. The subject then
+                                                                               of nervousness in this laboratory situation, but they stop short
+made the second set of mood ratings, at a point where it would have
+been reasonable to expect that more exposure to the cold pressor was           of indicating that the BIS was a reliable predictor of vulnerabil-
+imminent. After the last mood rating was made, a scale appeared on             ity to nervousness as a function of exposure to cues of impend-
+which subjects were asked to rate the amount of cold-pressor time they         ing punishment. To test this hypothesis, we next related the BIS
+had accumulated during the first half of the session. Then a message
+told the subject to get the experimenter, who was seated outside the lab-
+                                                                                  7
+oratory room. The experimenter asked several questions to assess the                Preliminary tests revealed no gender difference or experimenter
+subjects' understanding of the events of the session and their suspicions      effect in either Study 3 or Study 4. Thus, data presented here are com-
+regardi ng the various aspects of the task and the procedures of the study.    bined across gender and experimenters.
+328                                          CHARLES S. CARVER AND TERI L. WHITE
+
+and MAS to the second measure of nervousness, controlling for          pleted a series of performance trial blocks in which they re-
+the initial level of nervousness (thus removing any effect of ei-      ceived feedback indicating that they would be receiving addi-
+ther BIS or MAS in creating basal differences in nervousness).         tional exposure to the cold pressor. After these blocks, they
+Partial correlations reflecting these tests are also shown in Table    rated their nervousness again. Even when we took into account
+3. As can be seen there, the BIS was a reliable prospective pre-       the initial nervousness ratings, the BIS was a significant predic-
+dictor of later ratings of nervousness, given this control, but the    tor of the subsequent reports of nervousness. This effect re-
+MAS was not. A multiple regression analysis entering BIS               mained significant when we took into account subjects' ratings
+scores, MAS scores, and initial nervousness simultaneously             of the unpleasantness of the cold pressor, their perceptions of
+yielded significant effects for initial nervousness rating (0 = .33,   the amount of exposure they would have to have to the cold
+p < .01) and for BIS scores (/3 = .34, p < .02), but no effect of      pressor, and their scores on the MAS, the Extraversion scale,
+MAS (0 = —.10). Thus, BIS scores successfully predicted rela-          and the BAS scales. That these analyses adjusted for what was
+tive changes in nervousness that occurred as a function of pun-        already a fairly substantial relationship between BIS and the
+ishment cues. The BIS effect remained significant when sub-            earlier rating of nervousness makes this a rather stringent test.
+jects' ratings of the aversiveness of the cold pressor was also           The findings are quite consistent with Gray's view on the
+added to the equation and when subjects' ratings of the amount         source of feelings of anxiety. That is, such feelings were related
+of cold-pressor time they had accumulated were added to the            to a measure that was intended to reflect BIS sensitivity, but
+equation.                                                              they were not predicted by measures intended to reflect BAS
+   The final question was whether the BIS scale was a discrimi-        sensitivity. Thefindingsare also consistent with the view that
+nably better predictor of rated nervousness than measures of           it is desirable to assess anxiety proneness in terms of people's
+the BAS construct. Accordingly, further regression analyses            reactions to anxiety-provoking situations rather than as general
+were conducted in which extraversion and the BAS scales were           affective tone. Thefindingsof this study thus provide one sort
+included as predictors. The addition of these variables did not        of evidence of construct validity for the BIS scale. Not only was
+alter the outcome appreciably. The BIS remained a significant          it differentially related to self-reports of nervousness in re-
+predictor of nervousness and was the only personality measure          sponse to cues of impending punishment (compared with mea-
+to contribute to the prediction of nervousness.                        sures of BAS sensitivity), but it also was related to these self-
+                                                                       reports more reliably than was the alternative measure of anxi-
+                                                                       ety proneness, the MAS.,
+                           Discussion
+   Subjects in this study received an orientation to the research
+procedures which made clear to them that they would be asked                Study 4: BAS Sensitivity and the Experience of
+to place their hands in ice water for 60 s, an experience that                               Happiness
+most people find moderately uncomfortable and that can cause
+adverse physical reactions in some people. Not surprisingly,         To validate the BAS scales, we wished to create a situation
+when asked to rate their degree of nervousness a few minutes      that engages the BAS but not the BIS. Because the BAS is pre-
+later, the average level reported was over 4 on a 9-point scale.  sumed to be responsive to cues of reward, this study exposed
+The BIS was a significant predictor of these nervousness self-    subjects to cues indicating an impending reward. As in Study 3,
+reports, as was the MAS (although more weakly). However, the      the cues had to be unambiguous, in the sense that there should
+variance that the MAS contributed to predicting these scores      be no implication of a possible punishment (which would en-
+appeared to be limited to its overlap with the BIS. The BIS,      gage the BIS). Thus, we created a situation in which subjects
+in contrast, contributed unique variance over and above that      were led to anticipate that they would be receiving a positive
+contributed by the MAS.                                           reinforcer. Theory holds that differences in BAS sensitivity
+   After experiencing the cold-pressor test, subjects then com-   should lead to differences in how subjects respond affectively to
+                                                                  such cues. If the BAS scales are a valid measure of BAS sensitiv-
+                                                                  ity, the BAS scale scores should predict subjects' affective reac-
+                                                                  tions to the reward cues. BIS scores should not be related to the
+Table 3                                                           positive affect experienced, because the physiological BIS is not
+Correlations ofBIS and MAS Pretest Scores With Self-Reports engaged in this situation.
+ofNervousness Before Exposure to the Cold Pressor and                As in Study 3, we also used Study 4 as an opportunity to
+Midway Through the Session After Failure Feedback,                conduct a substantive comparison between measures. In this
+and Partial Correlations With the Second Self-Reports,            case, we compared our BAS scales against a measure of extra-
+Adjusting for the First: Study 3                                  version as predictors of the target affective reaction (cf. Larsen
+                                                                  & Ketelaar, 1991). Because we believe that our scales tap BAS
+                                           Midsession, partialing
+                                                                  sensitivity more directly than does a measure of extraversion,
+Scale   Initial rating  Midsession rating       out initial
+                                                                  we expected that one or more of our scales should perform bet-
+BIS         .41*              .43*                 .30*           ter than extraversion in predicting positive affect in response
+MAS         .26*              .18                  .07            to reward cues. Such a finding would suggest that predictions
+                                                                  derived from Gray's theory are better tested with a measure de-
+Note. BIS = Behavioral Inhibition System; MAS = Manifest Anxiety
+                                                                   veloped from that theory than with measures developed from
+Scale.
+*p<.05. **p<.0l.                                                   other theoretical viewpoints, in this case Eysenck's viewpoint.
+                                                                  BIS/BAS SCALES                                                                     329
+
+                               Method                                          ing that trial block and had thereby acquired one reward "credit" to-
+                                                                               ward additional experiment points. Also presented was the total num-
+   Subjects were 90 undergraduates (47 men and 43 women) from the              ber of reward credits accumulated to that point. By the end of the
+University of Miami. Two additional subjects completed the procedures          seventh block, subjects had acquired enough credits for 3 bonus experi-
+described below, but were omitted from the sample before data analysis         ment points.
+because postexperimental debriefing revealed they had guessed the                 After the last reward message had been presented, a message appeared
+point of the experimental procedures. Potential subjects completed the         indicating that there was a need to reassess mood, to control for shifts
+BIS/BAS, the 20-item version of the MAS (Bendig, 1956), and the 10-            during thefirsthalf of the session. The subject then made the second set
+item measure of Extraversion (Eysenck & Eysenck, 1985) during large            of mood ratings. After the last rating was made, a message told the sub-
+questionnaire sessions at the beginning of the semester. Later, they came      ject to get the experimenter. The experimenter asked several questions
+to the laboratory for individual sessions. A requirement for participa-        to assess the subjects' understanding of the events of the session and
+tion was that this be the subjects'firstresearch experience. Thus, when        their suspicions regarding the various aspects of the task and study pro-
+they arrived at this session, they had not yet earned any of the 6 experi-     cedures. After this, the experimenter debriefed the subject, awarded re-
+ment points required of them.                                                  search credit, and requested that the subject not discuss the experiment
+   Subjects were met at the research site by an experimenter who was           with his or her fellow students.
+blind to the specific hypotheses of the study and the pretest scores of the
+subjects. They were led to the experimental room, where they were given
+a brief overview of the project and were asked to give their informed
+                                                                                                              Results
+consent to participate before continuing. They then received the same             The outcome variable in this study was subjects' self-reported
+set of orienting remarks used in Study 3, in which the session was por-        levels of happiness. Subjects reported moderate levels of happi-
+trayed as part of a project on pattern recognition. The description of the     ness in their initial ratings, which were made before they re-
+task procedure was identical to that used in Study 3.
+                                                                               ceived instructions about how they might obtain bonus points
+                                                                               (M = 5.68, SD = 1.63). Presumably this high baseline reflects
+Assessing the Dependent Measure                                                the fact that the earlier sign-up procedure had indicated the pos-
+   As in Study 3, the experimenter continued by saying that many fac-          sibility of earning extra credit during the session. Self-reported
+tors influence people's intuitive skills, including transient emotional        happiness increased significantly, however, from the initial mea-
+states that the person may not be particularly aware of. Because affect        sure to the measure taken at what subjects believed to be mid-
+changes frequently over periods of even an hour, affect-relevant infor-        session (M = 7.09, SD = 1.50). By this point, all subjects had
+mation would be collected periodically while the subject was working           received feedback indicating that they would be receiving 3 bo-
+on the task. At two points during the experiment—after the explanation         nus research participation credits.
+of the task and at a point that ostensibly was midway through the ses-
+                                                                                   The predictors of greatest interest in this study were the three
+sion—subjects completed mood-rating scales to assess their affect. The
+target affect for this study was happiness. As in Study 3, the scale mea-       BAS subscales—Drive (M = 12.03, SD = 2.90), Reward Re-
+suring the target affect was embedded in scales measuring other affect         sponsiveness (M = 17.97, SD = 1.76), and Fun Seeking (M =
+qualities, which served as distractors. The first set of ratings was made       12.62, SD = 2.09)—and the Extraversion scale (M = 30.90, SD
+immediately after completion of the task instructionsjust outlined, with        = 2.29). Correlations between these scales and self-ratings of
+the experimenter out of the room.                                               happiness are shown in Table 4. A significant correlation was
+                                                                                obtained between initial happiness and Extraversion, but com-
+Reward-Cue Manipulation                                                         parable correlations with the BAS measures were not significant
+                                                                                (the correlation for Fun Seeking was at p < .07). At midsession
+   When signing up for participation in this study, subjects had been           the picture changed, with all four personality measures being
+informed that it would be possible to earn extra experiment points              correlated significantly with self-reports of happiness.
+above and beyond the point they were earning by participating in the
+study. After the first set of affect ratings had been made, the experi-            These findings indicate that the BAS and Extraversion mea-
+menter explained to subjects that these extra credit points would be
+awarded for especially good task performances. The experimenter indi-
+cated that people who are good at this type of task are able to get about
+70% of the items correct. If the subjects performed at that level or better,   Table4
+they would be rewarded.                                                        Correlations ofBAS Subscales and Extraversion Scores With
+   Subjects' performance would be monitored by the computer across             Self-Reports ofHappiness Before Receiving Complete
+blocks of the task. For each block on which subjects guessed correctly at      Instructions and Midway Through the Session After Success
+the rate of 70% or better, they would receive one "credit" toward extra        Feedback, and Partial Correlations With the Second
+experiment points. An extra experiment point would be awarded for              Self-Reports, Adjust ingfor the First: Study 4
+every two "credits" earned. This set of instructions ensured that feed-
+back of good performance would constitute a cue of impending reward.                                                                       Midsession
+   After these aspects of the procedures were fully explained, the exper-                                                    Midsession    partialing
+imenter left the subject to work alone at the task. Subjects received feed-              Scale              Initial rating     rating      out initial
+back from the computer at the end of each task block (10 items each),
+feedback that was identical for all subjects regardless of their response       Drive                           .14            .32**           .30**
+choices. In this study, the feedback indicated that the subjects' perfor-       Reward Responsiveness           .13            .28**           .25**
+                                                                                Fun Seeking                     .20            .23*            .15
+mances entitled them to "credits" on six of thefirstseven blocks of task        Extraversion                    .29**          .28**           .16
+items (to enhance credibility, the second block was not a success). After
+each reward block, the computer presented a message on screen indi-            Note. BAS = Behavioral Activation System.
+cating that the subject had been successful at or above the criterion dur-     *p<.05. **p<.01.
+330                                         CHARLES S. CARVER AND TERI L. WHITE
+
+sures were all reliable predictors of happiness in this situation.    ing and Extraversion were only marginally significant predictors
+However, they stop short of indicating that any scale was a pre-      when tested in this way. Thus, they tended to represent more of
+dictor of susceptibility to happiness as a function of exposure       a "main effect" in the data, that is, an initial effect on happiness
+to cues of impending reward. To test for this susceptibility, we      that carried over into the subsequent rating but was not strongly
+next related the BAS scales and Extraversion to the second mea-       responsive to the intervening events. In contrast, the BAS Drive
+sure of happiness, controlling for initial level of happiness (thus   and Reward Responsiveness scales more clearly predicted posi-
+removing any effect of BAS or Extraversion in creating basal          tive affective responses to the signals of impending reward.
+differences in happiness). Partial correlations reflecting these      Multiple regression analysis revealed that the best predictor of
+tests are shown in the right-hand column of Table 4. When ini-        this happiness response to the reward cues was the Drive scale,
+tial happiness ratings were controlled, only two scales remained      which made a unique contribution to prediction above and be-
+significant predictors of later happiness ratings: the Drive and      yond the effects it shared with Reward Responsiveness, Extra-
+Reward Responsiveness scales. The other two predictors only           version, and earlier happiness ratings.
+approached significance (ps < . 10).                                     Taken as a whole, the pattern of the data is quite consistent
+   To test the ability of the Drive and Reward Responsiveness         with Gray's conceptual model, in that measures designed to re-
+scales to predict responses to reward cues in comparison with         flect BAS sensitivity predicted positive emotional reactions to
+Extraversion, multiple regression analyses were conducted sep-        cues of impending reward. Also consistent with Gray's model
+arately for each of the two BAS scales, entering the relevant BAS     was the fact that the BIS scale was not a significant predictor of
+scale, initial happiness, and Extraversion simultaneously. These      this effect. In supporting the predictions of Gray's model, the
+analyses indicated that both Drive and Reward Responsiveness          pattern as a whole also appears to suggest considerable support
+(when tested individually) remained significant predictors of         for the construct validity of one of the BAS scales (Drive), mod-
+midsession happiness after taking into account both Extraver-         erate support for a second (Reward Responsiveness), and more
+sion and initial happiness(fi = .24,p< .02, andj3 = A9,p< .05,        modest support for the third (Fun Seeking).
+respectively). In neither case did Extraversion make a unique            We should note that at this stage of work it is difficult to know
+contribution to prediction. When Drive and Reward Respon-             whether this pattern of support for the validity of the three BAS
+siveness were both entered into the same analysis, however, only      scales implies that the Drive scale will be the most important
+Drive contributed uniquely to prediction (/? = .21, p < .04).         and useful of the three, or whether the three scales will prove to
+Apparently, then, much of the predictive effect of the Reward         have differential usefulness in different research contexts. Only
+Responsiveness scale in this context is attributable to its overlap   by testing their predictive ability in a broader range of settings
+with the Drive scale.                                                 can this be determined. For example, whereas Drive and Re-
+   The final question was whether happiness was differentially        ward Responsiveness appear to have larger impact on how peo-
+predicted by the BAS scales, as opposed to the BIS scale. Ac-         ple respond to cues of impending reward in the midst of behav-
+cordingly, further regression analyses were conducted in which        ioral efforts, Fun Seeking may be more important in determin-
+the BIS scale was also included as a predictor. The addition of       ing the extent to which people are enticed to enter potentially
+this scale did not alter the outcome appreciably. Taken individ-      rewarding situations. To put this another way, thesefindingsdo
+ually, the Drive and Reward Responsiveness scales each re-            not complete the validation process, but only begin it.
+mained significant predictors of midsession happiness (and
+were the only personality measures to do so). When Drive, Re-
+ward Responsiveness, Extraversion, and BIS were all entered                                 General Discussion
+simultaneously (along with initial happiness), the unique effect
+of Drive remained significant (/3 = .21,/? < .04) and the unique         We have described here the development of a new set of brief
+effect of Reward Responsiveness remained marginal (p < .09),          self-report measures intended to assess individual differences in
+with no other personality effect approaching significance.            personality qualities that reflect the sensitivity of two physiolog-
+                                                                      ical self-regulatory systems, one of which bears on appetitive
+                                                                      motivation, the other of which bears on aversive motivation.
+                          Discussion                                  The work reported here consisted of three steps. First we devel-
+   When arriving at the laboratory for this study, subjects knew      oped sets of items that reflected the kinds of responses that the-
+it would be possible for them to earn a reward beyond the nor-        oretically should be linked to the physiological regulatory sys-
+mal credit for participation. Extraversion was significantly re-      tems in question. Then we correlated the resulting scales with
+lated to self-reports of happiness at this point, but our BAS         theoretically related alternative measures. Finally, we used the
+scales were not (only Fun Seeking approached significance, at p       scales to predict criterion variables that are clearly specified by
+< .07). Subjects then completed a series of performance trial         the theory underlying the project and are also relevant to
+blocks in which they were given feedback indicating that they         broader aspects of human behavior. In these latter two studies,
+would be receiving bonus experiment participation points. The         we found that the BIS scale successfully predicted level of ner-
+levels of happiness that were reported after this feedback were       vousness in response to an impending punishment and that
+higher overall than those reported earlier and were correlated        BAS scales successfully predicted happiness in response to an
+with all four of the personality measures.                            impending reward. Taken as a group, the studies provide initial
+   Further analyses revealed, however, that only Drive and Re-        support for the idea that the BIS/BAS scales validly reflect indi-
+ward Responsiveness significantly predicted this later happiness      vidual differences in the sensitivity of the presumed underlying
+report after controlling for initial levels of happiness. Fun Seek-   neurophysiological regulatory systems.
+                                                            BIS/BAS SCALES                                                            331
+
+               Comparisons Among Measures                              situations are extremely general. That is, affect is evoked by a
+                                                                       great many circumstances in the naturalflowof life. Our find-
+   Not only did the BIS/BAS scales predict the affective out-          ings indicate that different people experience differing intensi-
+comes in Studies 3 and 4, but in each case they did so better          ties of affect when in such situations and that the intensities of
+than did an alternative measure with which they were being             affect experienced are predictable from their earlier self-reports.
+compared. In both instances, the superior prediction has con-          Presumably this will be true in more naturalistic settings, as
+ceptual significance.                                                  well as in the laboratory.
+    With respect to Study 3, the results appear to indicate that           Furthermore, although affect can be viewed as an endpoint of
+measures of anxiety proneness are not all alike. That the BIS          a given study (as was the case here), affect is not necessarily the
+was a better predictor of nervousness than was the MAS in re-          endpoint of a phenomenal chain. Experiencing affect can lead
+sponse to cues of impending punishment would seem to sup-              to many potential consequences. Affect creates a basis for learn-
+port our contention that a measure of anxiety proneness should         ing, and affect can influence decisions a person makes about
+be focused on assessing responses to anxiety-provoking situa-          what subsequent behavior to engage in. The implications of this
+tions rather than on assessing general affective tone (see also En-    interrelation between affect and other aspects of human experi-
+dler, Parker, Bagby, & Cox, 1991). Some will ask whether the           ence are potentially far reaching, certainly much farther than
+world really needs another measure of vulnerability to anxiety,        we have reached in our research on this topic thus far.
+ but this question is answered at least in part by the data from           Our final point follows this line of thought one step further.
+ Study 3. Certainly our measure is not without limitations. For        Our focus in this research has been on affective manifestations
+example, it is not as differentiated as are some measures with         of BAS and BIS functioning. There are, of course, other impor-
+ respect to the situations that are invoked during assessment          tant manifestations of the functioning of these two systems. The
+(e.g., Endler et al., 1991). On the other hand, it is very brief and   systems are also presumed to influence the creation or with-
+ thus is useful in contexts where longer measures would be hard        holding of overt behavior.
+ to implement.                                                             A quality of behavior that many theorists have related con-
+    Study 4 incorporated a different kind of comparison between        ceptually to BAS and BIS activity is impulsiveness (see, e.g.,
+ scales. In Study 4, two of the BAS scales were better predictors      Gray et al., 1983; Newman, 1987; Newman, Widom, & Nathan,
+ of positive affect in response to reward cues than was a measure       1985; Wallace, Newman, & Bachorowski, 1991). Theorists dis-
+ of extraversion. Thesefindingswould appear to suggest that pre-       agree, however, regarding the source of impulsiveness. It is
+ dictions about affective responses that are made from Gray's           sometimes argued that impulsiveness reflects high levels of BAS
+ theory are better tested with measures such as our BIS/BAS             activity, as the person is drawn strongly to desired stimuli. It
+ scales than with measures deriving from other theoretical van-         is sometimes held that impulsiveness reflects low levels of BIS
+ tage points. If we had conducted this study using only the mea-        activity, such that the person displays an inability to restrain
+ sure of extraversion, we would have been able to report that           impulses in the face of impending punishment. It has also been
+ there was a relationship between extraversion and positive             argued that impulsive behavior does not stem intrinsically from
+ affect, much as was found by Larsen and Ketelaar (1991; see            either of these two systems, but derives instead from a more
+ also Costa & McCrae, 1980). It would have been more ambigu-            complex interweaving of forces, forces that go beyond the sys-
+ ous, however, whether the effect was attributable to BAS sensi-        tems proposed by Gray (Newman, Patterson, Howland, & Nich-
+ tivity (as hypothesized) or instead to extraversion per se (an am-     ols, 1990; Patterson & Newman, 1993).
+ biguity that was inherent in Larsen & Ketelaar's findings).               Indeed, there is evidence that impulsiveness itself has several
+ Given the better prediction by the BAS scales than the Extraver-       different facets (Parker, Bagby, & Webster, 1993). This raises
+ sion scale in Study 4, we are able to assert with greater confi-       questions about whether different conceptual models may be
+ dence that the effect derived from variations in BAS sensitivity.      relevant to different manifestations of impulsiveness. In sum,
+                                                                        the puzzle of the determinants of impulsive behavior appears to
+          Broader Contexts and Future Directions                        be one that will require considerably more work to solve.
+                                                                           The data reported in this article do not address these issues
+   We close this article by briefly considering broader issues,         directly, but the scales reported here provide an empirical tool
+which relate to the studies conducted here but also take us well        for doing so in future research. The scales are grounded in the-
+beyond these studies. One issue concerns the somewhat artifi-           ory, in psychometric evidence concerning their convergence and
+cial setting of the laboratory studies reported here. Subjects in       divergence with other measures, and in laboratory tests of their
+Study 3 were exposed to a pain-inducing stimulus for a con-             predictive validity in the ongoing stream of behavior. In consid-
+trolled period of time and then (in the context of an experimen-        ering the nature of impulsivity, as well as in other research areas,
+tal task) received cues indicating that they would soon be ex-          a broad range of empirical predictions can be made relating to
+posed again to the same stimulus. Subjects in Study 4 received          Gray's theory—and to other theories of the same broad fam-
+cues indicating that they would soon be awarded a desired com-          ily—that are worthy of further attention. We hope the BIS/BAS
+modity (bonus experiment points). We used these artificial sit-         scales will be viewed as useful measures for examining these
+uations because they constituted opportunities to exert close           predictions.
+control over the stimulus context and in so doing permitted us
+to engage one of the two systems at a time.                                                     References
+   It should be noted that although the situations we constructed      Bendig, A. W. (1956). The development of a short form of the manifest
+were artificial, the psychological processes we engaged in these         anxiety scale. Journal of Consulting Psychology, 20, 384.
+332                                              CHARLES S. CARVER AND TERI L. WHITE
+
+Burisch, M. (1984a). Approaches to personality inventory construc-              site of action of minor tranquilizers. In L. L. Iversen, S. D. Iversen, &
+  tion: A comparison of merits. American Psychologist, 39, 214-227.             S. H. Snyder (Eds.), Handbook of psychopharmacology (Vol. 8, pp.
+Burisch, M. (1984b). You don't always get what you pay for: Measuring           433-529). New York: Plenum.
+  depression with short and simple versus long and sophisticated scales.     Gray, J. A. (1978). The 1977 Myers lecture: The neuropsychology of
+  Journal of Research in Personality, 18, 81-98.                                anxiety. British Journal of Psychology, 69, 417-434.
+Carver, C. S., Blaney, P. H., & Scheier, M. F. (1979). Focus of attention,   Gray, J. A. (1981). A critique of Eysenck's theory of personality. In
+  chronic expectancy, and responses to a feared stimulus. Journal of            H. J. Eysenck (Ed.), A model for personality (pp. 246-276). Berlin:
+  Personality and Social Psychology, 3 7, 1186-1195.                            Springer-Verlag.
+Carver, C. S., & Scheier, M. F. (1986). Functional and dysfunctional         Gray, J. A. (1982). The neuropsychology of anxiety: An enquiry into the
+  responses to anxiety: The interaction between expectancies and self-         functions of the septo-hippocampal system. New York: Oxford Uni-
+  focused attention. In R. Schwarzer (Ed.), Self-related cognitions in          versity Press.
+  anxiety and motivation (pp. 111-141). Hillsdale, NJ: Erlbaum.              Gray, J. A. (1985). Issues in the neuropsychology of anxiety. In A. H.
+Carver, C. S., & Scheier, M. F. (1990). Origins and functions of positive       Tuma & J. D. Maser (Eds.), Anxiety and the anxiety disorders (pp. 5 -
+  and negative affect: A control-process view. Psychological Review, 97,        25). Hillsdale, NJ: Erlbaum.
+   19-35.                                                                    Gray, J. A. (1987a). Perspectives on anxiety and impulsivity: A com-
+Cloninger, C. R. (1987). A systematic method for clinical description           mentary. Journal of Research in Personality, 21, 493-509.
+  and classification of personality variants. Archives of General Psychi-    Gray, J. A. (1987b). The psychology of fear and stress. Cambridge, En-
+  atry, 44, 573-588.                                                            gland: Cambridge University Press.
+Costa, P. T., & McCrae, R. R. (1980). Influence of extraversion and          Gray, J. A. (1990). Brain systems that mediate both emotion and cogni-
+  neuroticism on subjective well-being: Happy and unhappy people.               tion. Cognition and Emotion, 4, 269-288.
+  Journal of Personality and Social Psychology, 38, 668-678.                 Gray, J. A., Owen, S., Davis, N., & Tsaltas, E. (1983). Psychological
+Depue, R. A., & Iacono, W. G. (1989). Neurobehavioral aspects of                and physiological relations between anxiety and impulsivity. In M.
+  affective disorders. Annual Review of Psychology, 40, 457-492.                Zuckerman (Ed.), Biological bases of sensation seeking, impulsivity,
+Depue, R. A., Krauss, S. P., & Spoont, M. R. (1987). A two-dimensional          and anxiety (pp. 181-217). Hillsdale, NJ: Erlbaum.
+  threshold model of seasonal bipolar affective disorder. In D. Magnus-      Hare, R. D. (1980). A research scale for the assessment of psychopathy
+  son & A. Ohman (Eds.), Psychopathology: An interactional perspec-
+                                                                                in criminal populations. Personality and Individual Differences, 1,
+  tive (pp. 95-123). San Diego, CA: Academic Press.
+                                                                                111-119.
+Diaz, A., & Pickering, A. D. (1993). The relationship between Gray's
+                                                                             Larsen, R. J., & Ketelaar, T. (1991). Personality and susceptibility to
+  and Eysenck's personality spaces. Personality and Individual Differ-
+                                                                                positive and negative emotional states. Journal of Personality and So-
+  ences. 15, 297-305.
+                                                                               cial Psychology, 61, 132-140.
+Endler, N. S., Parker, J. D. A., Bagby, R. M., & Cox, B. J. (1991). Multi-
+                                                                             MacAndrew, C , & Steele, T. (1991). Gray's behavioral inhibition sys-
+  dimensionality of state and trait anxiety: Factor structure of the En-
+                                                                                tem: A psychometric evaluation. Personality and Individual Differ-
+  dler multidimensional anxiety scales. Journal of Personality and So-
+                                                                                ences, 12, 157-171.
+  cial Psychology, 60, 919-926.
+                                                                             Megargee, E. I. (1972). The California Psychological Inventory hand-
+Eysenck, H. J. (1967). The biological basis of personality. Springfield,
+                                                                                book. San Francisco: Jossey-Bass.
+  1L: Charles C Thomas.
+                                                                             Newman, J. P. (1987). Reaction to punishment in extraverts and psy-
+Eysenck, H. J., & Eysenck, S. B. G. (1975). Manual for the Eysenck
+                                                                                chopaths: Implications for the impulsive behavior of disinhibited in-
+  Personality Questionnaire. London: Hodder and Stoughton.
+                                                                                dividuals. Journal of Research in Personality, 21, 464-480.
+Eysenck, H. J., & Eysenck, M. W. (1985). Personality and individual
+                                                                             Newman, J. P., & Kosson, D. S. (1986). Passive avoidance learning in
+  differences: A natural science approach. New York: Plenum.
+                                                                                psychopathic and nonpsychopathic offenders. Journal of Abnormal
+Fowles, D. C. (1980). The three arousal model: Implications of Gray's
+                                                                                Psychology, 95, 252-256.
+  two-factor learning theory for heart rate, electrodermal activity, and
+                                                                             Newman, J. P., Patterson, C. M., Howland, E. W., & Nichols, S. L.
+  psychopathy. Psychophysiology, 17, 87-104.
+                                                                                (1990). Passive avoidance in psychopaths: The effects of reward. Per-
+Fowles, D. C. (1987). Application of a behavioral theory of motivation
+                                                                                sonality and Individual Differences, 11, 1101-1114.
+  to the concepts of anxiety and impulsivity. Journal of Research in
+                                                                             Newman, J. P., Widom, C. S., & Nathan, S. (1985). Passive avoidance
+  Personality, 21, 417-435.
+                                                                                and syndromes of disinhibition: Psychopathy and extraversion. Jour-
+Fowles, D. C. (1988). Psychophysiology and psychopathology: A moti-
+                                                                                nal of Personality and Social Psychology, 48, 1316-1327.
+  vational approach. Psychophysiology, 25, 373-391.
+                                                                             Parker, J. D. A., Bagby, R. M., & Webster, C. D. (1993). Domains of the
+Fowles, D. C. (1993). Biological variables in psychopathology: A psy-
+  chobiological perspective. In P. B. Sutker& H. E. Adams (Eds.), Com-          impulsivity construct: A factor analytic investigation. Personality and
+  prehensive handbook of psychopathology (2nd ed., pp. 57-82). New              Individual Differences, 15, 267-274.
+  York: Plenum.                                                              Patterson, C. M., & Newman, J. P. (1993). Reflectivity and learning
+Gough, H. G. (1956). Manual for the California Psychological Inven-             from aversive events: Toward a psychological mechanism for the syn-
+  tory. Palo Alto, CA: Consulting Psychologists Press.                          dromes of disinhibition. Psychological Review, 100, 716-736.
+Gough, H. G. (i960). Theory and measurement of socialization. Jour-          Quay, H. C. (1988). The behavioral reward and inhibition system in
+  nal of Consulting Psychology, 24, 23-30.                                      childhood behavior disorders. In L. M. Bloomingdale (Ed.), Attention
+Gough, H. G., & Peterson, D. R. (1952). The identification and mea-             deficit disorder (Vol. 3, pp. 176-186). Elmsford, NY: Pergamon Press.
+  surement of predispositional factors in crime and delinquency. Jour-       Quay, H. C. (1993). The psychobiology of undersocialized aggressive
+  nal of Consulting Psychology, 16, 207-212.                                    conduct disorder: A theoretical perspective. Development and Psycho-
+Gray, i. A. (1972). The psychophysiological basis of introversion-extra-        pathology, 5, 165-180.
+  version: A modification of Eysenck's theory. In V. D. Nebylitsyn &         Scheier, M. F., & Carver, C. S. (1985). Optimism, coping, and health:
+  J. A. Gray (Eds.), The biological bases of individual behaviour (pp.          Assessment and implications of generalized outcome expectancies.
+   182-205). San Diego, CA: Academic Press.                                     Health Psychology, 4, 219-247.
+Gray, J. A. (1977). Drug effects on fear and frustration: Possible limbic    Smith, T. W., Pope, M. K., Rhodewalt, F., & Poulton, J. L. (1989). Op-
+                                                                  BIS/BAS SCALES                                                                 333
+
+  timism, neuroticism, coping, and symptom reports. Journal of Per-            straint: A dispositional perspective. In D. M. Wegner & J. W. Penne-
+  sonality and Social Psychology, 56, 640-648.                                 baker (Eds.), Handbook of mental control (pp. 506-527). Englewood
+Steiger, J. H. (1980). Tests for comparing elements of a correlation ma-       Cliffs, NJ: Prentice-Hall.
+  trix. Psychological Bulletin, 87, 245-251.                                 Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and vali-
+Stellar, J. R., & Stellar, E. (1985). The neurobiology of motivation and       dation of brief measures of positive and negative affect: The PAN AS
+   reward. New \brk: Springer-Verlag.                                          scales. Journal of Personality and Social Psychology, 54, 1063-1070.
+Taylor, J. A. (1953). A personality scale for manifest anxiety. Journal of   Wilson, G. D., Barrett, P. X, & Gray, J. A. (1989). Human reactions
+  Abnormal and Social Psychology, 48, 285-290.                                 to reward and punishment: A questionnaire examination of Gray's
+Tellegen, A. (1985). Structures of mood and personality and their rele-        personality theory. British Journal of Psychology, 80, 509-515.
+   vance to assessing anxiety, with an emphasis on self-report. In A. H.     Wilson, G. D., Gray, J. A., & Barrett, P. T. (1990). A factor analysis of
+  Tuma & J. D. Maser (Eds.), Anxiety and the anxiety disorders (pp.            the Gray-Wilson personality questionnaire. Personality and Individ-
+  681-706). Hillsdale, NJ: Erlbaum.                                            ual Differences, II, 1037-1045.
+Torrubia, R., & Tobena, A. (1984). A scale for the assessment of "sus-       Wolfe, R. N., & Kasmer, J. A. (1988). Type versus trait: Extraversion,
+  ceptibility to punishment" as a measure of anxiety: Preliminary re-          impulsivity, sociability, and preferences for cooperative and competi-
+   sults. Personality and Individual Differences, 5, 371-375.                  tive activities. Journal of Personality and Social Psychology, 54, 864-
+Wallace, J. E, Newman, J. P., & Bachorowski, J. (1991). Failures of            871.
+  response modulation: Impulsive behavior in anxious and impulsive           Zinbarg, R., & Revelle, W. (1989). Personality and conditioning: A test
+  individuals. Journal of Research in Personality, 25, 23-44.                  of four models. Journal of Personality and Social Psychology, 57,
+Waller, N. C , Lilienfeld, S. Q , Tellegen, A., & Lykken, D. T. (1991).        301-314.
+  The Tridimensional Personality Questionnaire: Structural validity
+  and comparisons with the Multidimensional Personality Question-                                                      Received July 1, 1993
+  naire. Midtivariate Behavioral Research, 26, 1-23.                                                       Revision received March 14, 1994
+Watson, D., & Clark, L. A. (1993). Behavioral disinhibition versus con-                                            Accepted March 20, 1994 •
+

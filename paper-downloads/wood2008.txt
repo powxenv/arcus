@@ -1,0 +1,2193 @@
+Journal of Counseling Psychology
+2008, Vol. 55, No. 3, 385–399
+
+Copyright 2008 by the American Psychological Association
+0022-0167/08/$12.00 DOI: 10.1037/0022-0167.55.3.385
+
+The Authentic Personality: A Theoretical and Empirical Conceptualization
+and the Development of the Authenticity Scale
+Alex M. Wood
+
+P. Alex Linley
+
+University of Manchester
+
+Centre for Applied Positive Psychology
+
+John Maltby and Michael Baliousis
+
+Stephen Joseph
+
+University of Leicester
+
+University of Nottingham
+
+This article describes the development of a measure of dispositional authenticity and tests whether
+authenticity is related to well-being, as predicted by several counseling psychology perspectives. Scales
+were designed to measure a tripartite conception of authenticity, comprising self-alienation, authentic
+living, and accepting external influence, which was supported with exploratory factor analysis. Multigroup confirmatory factor analysis showed that the factor loadings were invariant across sample,
+ethnicity, and gender. The scale showed substantial discriminant validity from the Big Five personality
+traits, nonsignificant correlations with social desirability, and 2- and 4-week test–retest correlations
+ranging from r ⫽ .78 to .91. Each subscale was strongly related to self-esteem and aspects of both
+subjective and psychological well-being. This article provides the first direct test of several theoretical
+models that view authenticity as integral to well-being.
+Keywords: authenticity, well-being, positive psychology, person centered, self-determination
+
+human strengths, but the psychological database is spotty” (p.
+205); and Harter (2002) concluded that “there is no single, coherent body of literature on authentic self-behavior, no bedrock of
+knowledge” (p. 382). The recent positive-psychology movement
+(see Linley, Joseph, Harrington, & Wood, 2006) has encouraged a
+resurgence of interest in authenticity. This is partly through highlighting understudied areas of research (Gable & Haidt, 2005) and
+partly through promoting an increased dialogue between humanistic and empirical psychologists, involving the rigorous scientific
+testing of ideas with humanistic and counseling psychology lineage (Joseph & Linley, 2006; Linley, 2006; Patterson & Joseph,
+2007). For the study of authenticity to progress, there seems to be
+a need to identify and quantify authenticity as an individual difference variable. There is also a need for a direct test of the
+theoretically driven hypothesis that the authentic personality is
+related to well-being.
+In the empirical study of authenticity, there has been definitional
+confusion regarding the construct (Harter, 2002). As a result,
+previous research has either asked people to rate themselves on a
+false-self to true-self continuum (e.g., Harter, Marold, Whitesell,
+& Cobbs, 1996) or used less direct measures, such as the extent to
+which people’s behavior varies across social roles (e.g., Sheldon,
+Ryan, Rawsthorne, & Ilardi, 1997). As noted by Harter (2002), this
+has led to a diffuse body of literature, which at times is difficult to
+interpret. In developing a scale of dispositional authenticity, there
+is a need for a clear definition of the construct, both for item
+development and to interpret the existing literature. Fortunately,
+such a definition emerges from person-centered psychology, where
+substantial debate and conceptualization has led to a clear explanation of the construct, with consensus on the content and boundaries of authenticity (see Wyatt, 2001). The person-centered model
+
+To thine own self be true, and it must follow, as the night the day, thou
+cans’t not be false to any man.
+—Shakespeare, Hamlet
+
+To know yourself and to act accordingly has been seen as a
+moral imperative throughout history (Harter, 2002). Within humanistic and existential psychology, individual differences in authenticity have been considered critically important to understanding well-being and freedom from psychopathology (May, 1981;
+Rogers, 1959, 1964, 1980; Yalom, 1980), with the importance of
+authenticity also stressed by psychodynamic writers (Horney,
+1951; Winnicott, 1965). However, the study of authenticity has
+largely been neglected in empirical psychology, and there have
+been no direct and psychometrically valid measures of trait authenticity yet developed (Sheldon, 2004). Lopez and Rice (2006)
+lamented the “virtual absence of available measures of the construct” (p. 362); Peterson and Seligman (2004) noted that “most
+[people] agree that integrity, authenticity, and honesty are basic
+
+Alex M. Wood, Department of Psychology, University of Manchester,
+Manchester, England; P. Alex Linley, Centre for Applied Positive Psychology, Coventry, England; John Maltby and Michael Baliousis, School
+of Psychology, University of Leicester, Leicester, England; Stephen Joseph, School of Sociology and Social Policy, University of Nottingham,
+Nottingham, England.
+This research was supported in part by a University of Warwick Research Fellowship awarded to Alex M. Wood. This research was conducted
+while Alex M. Wood was at the University of Warwick. We are grateful to
+Anna Cunningham for her invaluable comments at all stages of the project.
+Correspondence concerning this article should be addressed to Alex M.
+Wood, Department of Psychology, University of Warwick, Coventry,
+England CV4 7AL. E-mail: alex.wood@warwick.ac.uk
+385
+
+WOOD, LINLEY, MALTBY, BALIOUSIS, AND JOSEPH
+
+386
+A: Actual physiological
+states/emotions/deep
+level cognitions
+1: Selfalienation
+
+3: Accepting external
+influence
+
+B: Conscious awareness
+of physiological states/
+emotions/cognitions
+2: Authentic
+living
+
+SocialEnvironment
+
+3: Accepting external
+influence
+
+C: Behavior and
+emotional expression
+
+(Line 3). Taken together, self-alienation, authentic living, and
+accepting external influence compose the tripartite personcentered view of authenticity.
+Although the foregoing discussion has focused on the personcentered conception, the concept of authenticity is considered
+essential to understanding the human condition in psychodynamic
+(e.g., Horney, 1951; Winnicott, 1965), existential (e.g., May, 1981;
+Yalom, 1980), developmental (e.g., Harter et al., 1996), social
+psychological (e.g., Kernis & Goldman, 2005; Lopez & Rice,
+2006), positive psychological (e.g., Sheldon, 2004), and clinical
+perspectives (e.g., Ehlers, Maercker, & Boos, 2000; Joseph &
+Linley, 2005). We have focused on the person-centered definition
+of authenticity simply because it appears to provide the widest and
+most comprehensive explanation of the construct. Authenticity
+appears to represent an area of agreement between various counseling, clinical, and empirical perspectives, with each conception
+of authenticity mapping on one or more of the lines in Figure 1.
+The integrative nature of our definition is evident in treatments of
+the relationship between authenticity and well-being.
+
+Figure 1. The person-centered conception of authenticity.
+
+Authenticity and Well-Being
+
+is presented in Figure 1 (based substantially on the theory of
+Rogers, 1959, 1961).
+In the person-centered conception, authenticity is a tripartite
+construct defined by Barrett-Lennard (1998, p. 82) as involving
+“consistency between the three levels of (a) a person’s primary
+experience, (b) their symbolized awareness, and (c) their outward
+behavior and communication” (corresponding to Lines 1, 2, and 3,
+in Figure 1). This account begins by contrasting actual experience
+(the true self, including actual physiological states, emotions, and
+schematic beliefs; Box A of Figure 1) with the aspects of experience that are represented in cognitive awareness (Box B). The first
+aspect of authenticity involves the inevitable mismatch between
+the conscious awareness and actual experience. Perfect congruence
+between these aspects of experience is never possible, and the
+extent to which the person experiences self-alienation between
+conscious awareness and actual experience (the true self) composes the first aspect of authenticity (Line 1 in Figure 1) and leads
+to psychopathology. The subjective experience of not knowing
+oneself, or feeling out of touch with the true self, is indicative of
+this aspect of authenticity.
+The second aspect of authenticity involves the congruence between experience as consciously perceived (Box B) and behavior
+(Box C; Rogers, 1959, 1961). Authentic living involves behaving
+and expressing emotions in such a way that is consistent with the
+conscious awareness of physiological states, emotions, beliefs, and
+cognitions (Line 2). In other words, authentic living involves being
+true to oneself in most situations and living in accordance with
+one’s values and beliefs.
+The third aspect of authenticity involves the extent to which one
+accepts the influence of other people and the belief that one has to
+conform to the expectations of others. Humans are fundamentally
+social beings, and both self-alienation and authentic living are
+affected by the social environment (Schmid, 2005). Introjecting
+the views of others and accepting external influence affects both
+feelings of self-alienation and the experience of authentic living
+
+In many mainstream counseling psychology perspectives, authenticity is seen as the most fundamental aspect of well-being
+(Horney, 1951; May, 1981; Rogers, 1961; Winnicott, 1965;
+Yalom, 1980). These researchers see authenticity not simply as an
+aspect or precursor to well-being but rather the very essence of
+well-being and healthy functioning. As such, departures from
+authenticity are seen as involving increasing psychopathology.
+However, many of these approaches have not been subjected to
+empirical verification, and the empirical evidence that does exist
+regarding the relationship between authenticity and well-being is
+mostly indirect and focuses primarily on one or another of the
+three facets of authenticity.
+From a psychodynamic perspective, both Winnicott (1965) and
+Horney (1951) focused on how internalizing external influence,
+particularly during childhood, leads to self-alienation. Selfalienation was in turn seen to be the cause of psychopathology.
+From the existential perspective, Yalom (1980) and May (1981)
+focused particularly on self-alienation, again viewing this as the
+core of authenticity and the cause of mental distress. Both of these
+existential perspectives and also more recent humanistic accounts
+(Joseph, 2004; Joseph & Linley, 2005) have conceptualized posttraumatic stress disorder (PTSD) in terms of a shattered, inauthentic self, and linked the distress element of PTSD with bringing
+self-alienation to awareness. Joseph and Linley (2005) presented a
+purely theoretical account, however a qualitative study (with a
+priori coding) by Ehlers et al. (2000) found that both selfalienation and completely accepting external influence were related to more intense PTSD symptoms. Using a similar methodology, Dunmore, Clark, and Ehlers (2001) found that accepting
+external influence led to the worsening of symptoms over time.
+The role of self-alienation was also examined empirically by
+Harter et al. (1996), who found that greater self-alienation was
+related to lower levels of hope in children.
+In the only study to examine dispositional authenticity, Goldman and Kernis (2002) asked 60 questions designed to measure
+authenticity and found strong correlations between authenticity
+and both self-esteem and a composite, subjective well-being
+
+THE AUTHENTIC PERSONALITY
+
+(SWB; although this should be considered preliminary given that
+internal consistencies of their authenticity scale were as low as
+␣ ⫽ .32, and the study used only 79 college students).
+Neff and Harter (2002) examined people who subordinated their
+needs in close relationships to avoid confrontation, accepting external influence. Providing they subjectively felt inauthentic, they
+reported lower levels of self-esteem and more depression. Lopez
+and Rice (2006) rigorously developed a measure of authentic
+living and accepting external influence with respect to romantic
+relationships and found correlations with self-esteem, depression,
+anxiety, and satisfaction with life. Lopez and Rice also found
+correlations between authenticity and relationship satisfaction,
+even after controlling for gender, self-esteem, commitment level,
+avoidance, and anxiety. However, Lopez and Rice were very clear
+that they were measuring the process of authenticity in relationships rather than authenticity as a disposition, and it is not clear
+whether the results will generalize to individual differences on a
+personality level. This study also did not examine the selfalienation dimension, probably appropriately given the focus was
+on the relationship rather than on the individual.
+Social psychological research has demonstrated that the extent
+to which people feel their personality varies between roles is
+related to their levels of well-being, with less role variation being
+correlated with higher well-being (e.g., Roberts & Donahue,
+1994). Sheldon et al. (1997) specifically related this to authentic
+living by showing that people who reported more variability between roles saw themselves as less authentic. Greater feelings of
+authenticity were negatively correlated with anxiety, stress, and
+depression, and positively correlated with self-esteem, and this
+partially mediated the relationship between role variability and
+well-being. In a related study, Bettencourt and Sheldon (2001)
+showed that subjective authenticity in different roles was related to
+both SWB and group connectedness, and this correlation persisted
+when these variables were measured via the peer report of a group
+member.
+There is an increasing body of empirical evidence that supports
+counseling psychology perspectives on authenticity. We suggest a
+tripartite definition of authenticity, grounded in a well-accepted
+definition of person-centered psychology, which sees authenticity
+as being comprised of self-alienation, accepting external influence,
+and authentic living. This definition provides a framework in
+which to interpret the existing empirical work, answering Harter’s
+(2002) call for such an integration. We developed a measure to
+assess this tripartite conception, to directly test whether dispositional authenticity was related to well-being, and to provide a new
+tool for counseling psychology research.
+
+Study 1
+Introduction
+The aim of Study 1 was the initial development of the Authenticity Scale, through standard psychometric procedures (Clark &
+Watson, 1995), to measure the tripartite conception of authenticity
+described in the introduction. An initial item pool was generated
+and analyzed with exploratory factor analysis (EFA) in order to
+check whether the expected three-factor structure emerged. We
+aimed to develop a short scale, as the scale is likely to be used in
+counseling psychology settings. In these settings, time is expected
+
+387
+
+to be at a particular premium, and we wanted to reduce participant
+burden as much as possible. Preliminary evidence is also presented
+regarding the relationship between authenticity and SWB.
+
+Method
+Development of the Item Pool
+Items were developed to measure the a priori three-factor definition of authenticity described in the introduction and illustrated
+in Figure 1. Specifically, items were designed to measure selfalienation, authentic living, and accepting external influence. As
+noted above, this definition is derived from the person-centered
+literature (see Wyatt, 2001) and encompasses the focus of existential and psychodynamic approaches, as well as empirical work
+from a variety of perspectives. The exact items were developed by
+P. Alex Linley (an expert in existential psychology and positive
+psychology) and Stephen Joseph (an expert in positive psychology
+and a psychotherapist specializing in person-centered practice). P.
+Alex Linley took the lead in reviewing the literature, initially
+conducting electronic searches on the PsycINFO database (http://
+psycnet.apa.org/) using the term authenticity and subsequently
+working through the reference sections of the articles that
+emerged. This revealed several empirical studies that researched
+authenticity (e.g., Bettencourt & Sheldon, 2001; Goldman & Kernis, 2002; Harter et al., 1996; McGregor & Little, 1998; Neff &
+Harter, 2002; Sheldon et al., 1997) and several theoretical literatures from humanistic psychology (Rogers, 1959, 1964, 1980),
+psychodynamic theory (Winnicott, 1965), existential psychology
+(May, 1958/1994; Yalom, 1980), and positive psychology (Harter,
+2002; Peterson & Seligman, 2004; Sheldon, 2004).
+P. Alex Linley and Stephen Joseph met weekly during the
+development phase and developed the items together; there were
+no disagreements regarding which items to include. Through a
+consensual process, it was agreed that 7 items parsimoniously and
+accurately represented self-alienation (e.g., “I feel out of touch
+with the real me”), 11 items represented authentic living (e.g., “I
+always stand by what I believe in”), and 7 items represented
+accepting external influence (e.g., “Other people influence me
+greatly”). The two of them agreed that these 25 items accurately
+covered the construct of authenticity and measured each of the
+three factors (see Table 1 for a full list of items). Each item was
+expressed as a statement (e.g., “I am true to myself in most
+situations”), with which participants expressed their agreement on
+a 1 (does not describe me at all) to 7 (describes me very well)
+Likert-type scale; intermediate scale points were not anchored.
+
+Sample and Procedure
+Two hundred undergraduate students (79 men, 121 women)
+participated in Study 1. Ages ranged from 18 to 54 years, with
+90% of participants aged below 26 years. Participants were predominantly of a White ethnicity (64%), with the next highest
+represented ethnicities being Indian (11.5%) and Chinese (9%).
+Most participants were single (86%), with a minority either married (6.5%) or in other forms of relationships (7.5%). Participants
+were presented with a study information sheet in the course of
+academic lectures and invited to take part in the study, being
+advised that they were free to withdraw at any time. Upon com-
+
+WOOD, LINLEY, MALTBY, BALIOUSIS, AND JOSEPH
+
+388
+
+Table 1
+Communalities and Factor Loadings From the Exploratory Factor Analysis (Study 1)
+Factor
+
+Communalities
+
+Item
+
+1
+
+2
+
+3
+
+Initial
+
+Extracted
+
+7. I feel as if I don’t know myself very well.
+18. I feel out of touch with the “real me.”
+*
+20. I feel alienated from myself.
+*
+23. I don’t know how I really feel inside.
+25. I feel “cut off“ from who I really am.
+3. I have to hide the way I feel inside.
+12. I am in touch with “the real me.”
+*
+16. I always stand by what I believe in.
+*
+17. I am true to myself in most situations.
+*
+8. I think it is better to be yourself, than to be popular.
+*
+19. I live in accordance with my values and beliefs.
+15. I find it easier to get on with people when I’m being myself.
+21. My daily behavior reflects “the real me.”
+4. I can be myself in my day-to-day activities.
+22. I am in touch with all of my feelings.
+9. I feel free to express my emotions to others.
+6. I feel that I am doing the things that are right for me.
+2. I dislike people who pretend to be what they are not.
+*
+5. I usually do what other people tell me to do.
+*
+10. Other people influence me greatly.
+*
+13. I am strongly influenced by the opinions of others.
+*
+24. I always feel I need to do what others expect me to do.
+14. I feel pressured to behave in certain ways.
+11. I usually laugh because other people are laughing.
+1. I make my own choices in life.
+
+.79
+.74
+.70
+.69
+.63
+.39
+ⴚ.42
+.27
+⫺.08
+⫺.17
+.08
+.19
+⫺.18
+⫺.27
+⫺.18
+⫺.07
+⫺.17
+.18
+⫺.10
+⫺.02
+⫺.12
+.16
+.18
+.03
+⫺.01
+
+.17
+.03
+⫺.05
+.04
+.08
+⫺.06
+.37
+.73
+.76
+.52
+.52
+.50
+.44
+.43
+.40
+.38
+.38
+.26
+⫺.04
+.01
+⫺.04
+⫺.07
+⫺.12
+⫺.02
+.26
+
+⫺.01
+⫺.07
+⫺.14
+.02
+.02
+⫺.01
+.04
+⫺.06
+⫺.06
+⫺.06
+⫺.09
+.03
+.00
+⫺.02
+.14
+⫺.09
+⫺.04
+.04
+.73
+.74
+.69
+.64
+.61
+.35
+.29
+
+.51
+.47
+.54
+.51
+.42
+.29
+.57
+.47
+.65
+.40
+.35
+.22
+.46
+.45
+.38
+.32
+.40
+.17
+.48
+.53
+.46
+.47
+.54
+.21
+.42
+
+.54
+.49
+.51
+.49
+.37
+.16
+.44
+.45
+.67
+.35
+.28
+.20
+.30
+.36
+.21
+.15
+.24
+.06
+.51
+.54
+.44
+.48
+.44
+.13
+.25
+
+*
+*
+
+Note. N ⫽ 200. Principal axis exploratory factor analysis with oblique rotation; loadings over .35 in bold type.
+Factor 1 represents self-alienation, Factor 2 represents authentic living, and Factor 3 represents accepting
+external influence.
+*
+Item included in final 12-item scale.
+
+pletion and return of the paper-and-pencil survey, participants
+were debriefed on the nature of the research by P. Alex Linley, and
+any questions were answered.
+
+Measures
+Authenticity item pool. All participants completed the full item
+pool of 25 items.
+Anxiety. The Tension subscale of the Profile of Mood States
+(McNair, Lorr, & Droppleman, 1971) was used to measure anxiety. Participants rate how they have been feeling over the last week
+on nine adjectives (e.g., anxious, tense, shaky, on edge) on a 0 (not
+at all) to 4 (extremely frequently) scale. The subscale is one of the
+most commonly used measures of anxiety (McNair et al., 1971). In
+the current study, ␣ ⫽ .92.
+Stress. The Perceived Stress Scale was used to measure subjective stress (Cohen & Williamson, 1988). Participants rate 10
+items regarding how often in the last month they have found their
+lives unpredictable (e.g., “been upset because of something that
+happened unexpectedly”), uncontrollable (e.g., “been unable to
+control irritations in your life”), and overwhelming (e.g., “felt that
+you were on top of things”). Items are rated on a 0 (never) to 4
+(very often) scale. In the current study, ␣ ⫽ .83.
+Happiness. Happiness was measured with the Subjective Happiness Scale (Lyubomirsky & Lepper, 1999). Five items assess the
+participants’ perception of their happiness (e.g., “In general, I
+consider myself . . .”), which are rated on a 1 (not a very happy
+
+person) to 7 (a very happy person) scale. The Subjective Happiness Scale has high test–retest validity over periods varying from
+1 month (r ⫽ .90) to 1 year (r ⫽ .55) and convergent validity with
+measures of depression and life satisfaction (Lyubomirsky & Lepper, 1999). In the current study, ␣ ⫽ .82.
+
+Results
+Factor Analysis of the Initial Item Pool
+A first step in scale construction involves identifying the underlying dimensions that exist in the item pool (Clark & Watson,
+1995). Using Sample 1 (n ⫽ 200), we submitted the whole pool of
+25 items to principal axis EFA, with initial communalities generated using squared multiple correlations. Bartlett’s test suggested
+that the data were suitable for an EFA, ␹2(300) ⫽ 1696.95, p ⬍
+.001, and the Kaiser–Meyer–Olkin measure indicated that there
+was an adequate sample size for this specific analysis (.823). The
+first 10 factors had eigenvalues of 6.20, 2.36, 2.25, 1.38, 1.30,
+1.14, 0.97, 0.93, 0.89, and 0.81, respectively, and respectively
+accounted for 24.78%, 9.43%, 8.10%, 5.51%, 5.19%, 4.54%,
+3.87%, 3.70%, 3.56%, and 3.23% of the variance.
+The decision on the number of factors to retain was based on
+parallel analysis and the minimum average partial (MAP) method.
+In studies using simulated data, Velicer, Eaton, and Fava (2000)
+and Zwick and Velicer (1986) demonstrated that parallel analysis
+and the MAP method produced more accurate decisions regarding
+
+THE AUTHENTIC PERSONALITY
+
+the number of factors to retain than did examination of the scree
+plot or the Kaiser eigenvalue ⬎1 criterion.
+Parallel analysis involves the generation of random data correlation matrices with the same number of variables and participants
+and calculation of the average eigenvalues for each factor in the
+data sets. Any factor in the real data set with eigenvalues exceeding the randomly generated values is considered substantive. Using
+SPSS syntax developed by O’Connor (2000), we calculated 1,000
+randomly generated data sets with 200 cases and 25 variables, for
+which the first five mean eigenvalues were 1.71, 1.59, 1.50, 1.43,
+and 1.36. These values were exceeded by the first three eigenvalues in our actual data set, indicating an optimal three-factor structure.
+The MAP method involves separating common and unique
+variance and only retaining factors comprising common variance
+(see O’Connor, 2000; Velicer et al., 2000). In the current data set,
+the average squared partial correlations associated with the first
+five components were .024, .022, .015, .016, and .018, with the
+smallest average squared partial correlation being associated with
+the third component, again suggesting a three-factor solution.
+Based on parallel analysis and the MAP method, we extracted
+three factors that were rotated with an oblique rotation. An oblique
+rotation is the most appropriate when the components are theoretically or empirically related (Fabrigar, Wegener, MacCallum, &
+Strahan, 1999).
+Table 1 shows the initial and extracted communalities and all
+factor loadings. The initial communalities were considerably lower
+than 1, supporting the use of EFA over principal component
+analysis, as principal component analysis assumes all variance is
+shared variance (Tinsley & Tinsley, 1987). There were few differences between the initial and extracted communalities, again
+suggesting that a sufficient number of factors had been extracted.
+Most of the items loaded strongly and uniquely on one factor. The
+factors were readily interpretable.
+Factor 1 comprised negatively worded statements, such as “I
+feel as if I don’t know myself very well” and “I feel out of touch
+with the real me,” and corresponded to the self-alienation factor of
+authenticity. The highest loading items of Factor 2 were “I always
+stand by what I believe in” and “I am true to myself in most
+situations” and corresponded to the authentic living factor of
+authenticity. Factor 3 was defined by such items as “I usually do
+what other people tell me to do” and “Other people influence me
+greatly” and represented accepting external influence. Thus, the
+factor analysis supported the structure we expected to find based
+on the person-centered definition of authenticity (Rogers, 1961;
+Wyatt, 2001) and suggested that the items we had developed
+mapped onto this conception as desired. The three factors were
+intercorrelated. Self-alienation correlated with authentic living at
+r ⫽ ⫺.44 and with accepting external influence at r ⫽ .40.
+Authentic living was correlated with accepting external influence
+at r ⫽ ⫺.38.
+
+389
+
+develop a short scale for use in counseling psychology settings.
+We did not form subscales with less than four items, as Saucier and
+Goldberg (2002) have demonstrated that scales normally have low
+internal consistency and poor psychometric properties with less
+than four items. The results from the EFA (see Table 1) showed
+that factor loadings dropped off markedly after the fifth item for
+each subscale, so we considered forming subscales each comprised
+of either four or five items. The four-item subscales had internal
+consistency of .69 for Authentic Living, .78 for Accepting External
+Influence, and .78 for Self-Alienation. We examined the change in
+alpha that would occur if we included the fifth highest loading item
+in each factor. For each of the subscales, adding a fifth item
+increased alpha by between .03 and .04. We did not feel that such
+marginal changes in alpha justified burdening the participant with
+an additional item, particularly given the aim of developing a short
+scale. As such, we used the four highest loading items on each
+factor to measure self-alienation, authentic living, and accepting
+external influence. The final 12 items used in the Authenticity
+Scale are indicated in the Appendix, along with revised item
+numbers.
+
+Authenticity and SWB
+Table 2 shows preliminary correlations between the Authenticity Scale and SWB. Each of the subscales was also correlated with
+happiness. Authentic Living and Accepting External Influence
+were correlated with anxiety and stress. The correlations of SelfAlienation with anxiety and stress were particularly notable (r ⫽
+.43 and .54, respectively).
+
+Discussion
+In Study 1, the Authenticity Scale was developed, and initial
+evidence supported the existence of the expected factor structure
+of self-alienation, accepting external influence, and authentic living. This suggests that the items are indeed assessing the a priori
+tripartite conception of authenticity. Based on these three factors,
+a 12-item Authenticity Scale was created.
+Each of the subscales was correlated with happiness. Additionally, anxiety and stress were positively correlated with Authentic
+Living and negatively correlated with Accepting External Influence. Given that authenticity was theoretically expected to be
+associated with SWB (e.g., Horney, 1951; Rogers, 1964; Winnicott, 1965), this provides preliminary evidence for the validity of
+the scale.
+
+Table 2
+Preliminary Correlations Between the Authenticity Scale and
+Subjective Well-Being (Study 1)
+Subscale
+
+M
+
+SD
+
+Anxiety
+
+Stress
+
+Happiness
+
+Authentic Living
+Accepting External
+Influence
+Self-Alienation
+
+22.05
+
+3.72
+
+⫺.07
+
+⫺.11
+
+.26**
+
+13.34
+10.84
+
+4.95
+4.91
+
+Development of the Authenticity Scale
+The Authenticity Scale was developed from the results of the
+EFA. Three subscales were created to represent each of the factors.
+We hypothesized each of the three factors to be equally important
+and therefore purposefully selected an equal number of items for
+each of the subscales. As noted in the introduction, we aimed to
+
+Note. N ⫽ 200.
+*
+p ⬍ .05. ** p ⬍ .01.
+
+.16*
+.43**
+
+.22**
+.54**
+
+⫺.16*
+⫺.55**
+
+WOOD, LINLEY, MALTBY, BALIOUSIS, AND JOSEPH
+
+390
+Study 2
+Introduction
+
+Study 2 aimed to (a) confirm the factor structure with a new
+sample, (b) investigate whether a higher order factor structure
+might best represent the data, (c) test whether the factor structure
+is invariant across sample, gender, and ethnic group, (d) compare
+the a priori three-factor model with an alternate one-factor model,
+(e) investigate the temporal stability of the subscales with test–
+retest correlations, (f) present discriminant validity from social
+desirability and the Big Five (Goldberg, 1993), and (g) present
+convergent validity with self-esteem and a greater number of
+subjective and psychological well-being (PWB) characteristics.
+
+Multigroup Confirmatory Factor Analysis (CFA)
+The factor structure was tested with multigroup CFA. CFA is
+commonly used in scale development to test a factor structure that
+has emerged through EFA (Clark & Watson, 1995). Multigroup
+CFA builds on a conventional CFA by additionally testing whether
+the factor structure is invariant across samples and demographic
+groups (Byrne, 2004). The multigroup approach both provides
+several replications of the CFA and supports the generalizability of
+the measure across the samples and demographic groups included
+in the analysis.
+In addition to testing the factor structure suggested by Study 1,
+we also used the multigroup CFA to test whether authentic living,
+self-alienation, and accepting external influence exist under a
+higher order factor. If these three factors are indeed aspects of
+authenticity, then they would be expected to load highly on a
+higher order authenticity factor. Low loadings would suggest that
+the scales are actually measuring fundamentally different concepts.
+
+Discriminant Validity
+Study 2 presents discriminant validity from socially desirable
+responding and the Big Five personality traits. Discriminant validity from the Big Five would be provided if the Authenticity
+Scale could not be reduced to a linear combination of one or more
+Big Five traits. Correlations between the Big Five and authenticity
+may be expected as authenticity is conceptualized as a variable
+related to well-being and social life, domains with which the Big
+Five are correlated. The Authenticity Scale was especially expected to correlate with extraversion, neuroticism, and agreeableness, as these traits respectively include positive affect, negative
+affect, and prosocial tendencies (Costa & McCrae, 1995).
+However, the discriminant validity of the Authenticity Scale
+would be undermined if the majority of variance in the scale could
+be predicted by one or more Big Five traits. If this were the case,
+then authenticity research may still be useful, as it would explain
+how people with certain Big Five trait configurations see their
+world. However, it would seem that the Authenticity Scale has
+greater potential to make a contribution to the literature if it
+encompasses more than simply a linear combination of the Big
+Five. As there has been much recent interest in a sixth (humility)
+factor of personality, which is not represented in the Big Five (Lee
+& Ashton, 2004), we also provide correlations between the Authenticity Scale and a scale measuring this factor.
+
+Authenticity and Well-Being
+Convergent validity is provided with SWB, PWB, and selfesteem. SWB involves high positive affect, low negative affect
+(including low anxiety and stress), and high satisfaction with life.
+PWB involves fulfilling human potential “existential challenges of
+life” (Keyes, Shmotkin, & Ryff, 2002, p. 1008). Ryff (1989)
+operationalized PWB as comprising autonomy, environmental
+mastery, positive relations with others, personal growth, purpose in
+life, and self-acceptance. SWB and PWB are theoretically and
+empirically distinct concepts, with about 45% of people “offdiagonal,” that is, high on SWB and low on PWB or vice versa
+(Keyes et al., 2002). The literature on authenticity predicts that
+authenticity will be related to both aspects of well-being, with
+authentic people both experiencing positive emotional experience
+and also engaging in the existential challenges of living. Selfesteem was also predicted to be related to authenticity, as selfesteem is a proxy for unconditional self-regard, which personcentered conceptions (e.g., Rogers, 1959, 1961) strongly link with
+authenticity.
+
+Method
+Participants and Procedure
+Sample 1 (ethnically diverse sample). Sample 1 was comprised of 180 people (94 men, 86 women) from the local community. Ages ranged from 24 years to 70 years (M ⫽ 38.6, SD ⫽ 9.0),
+and ethnicity was equally balanced between Asian (60 people),
+Black (60 people), and White (60 people) participants. Participants
+were married (45.6%), cohabiting (21.7%), single (17.8%), dating
+(8.9%), separated (3.3%), divorced (2.2%), or widowed (0.6%).
+Most participants were employed (95.6%), with a diverse range of
+occupations represented, the most common of which were computer operations (20.6%), education (12.6%), and sales (6.7%).
+Sampling was designed to obtain an ethnically diverse sample of
+working adults. The participants in the sample were originally
+contacted via five workplaces and four community groups in
+Northern England. Respondents were sought four at a time, looking to fill a quota of equal numbers of three broadly defined
+ethnicities. Once identified, participants were given a paper-andpencil questionnaire packet, which they completed and returned to
+the researcher. The procedure was repeated until the target number
+of 180 participants was reached. Prior to completing the questionnaire, each individual was told about the broad nature of the
+research, their right to withdraw, and were assured of confidentiality. They were also asked to provide personal contact details,
+should they be willing to complete a second questionnaire at a
+future time point. Informed consent was achieved by the signing of
+a document. Each participant was recontacted either 2 or 4 weeks
+after they first completed the questionnaire (whether they were
+contacted in 2 or 4 weeks was determined by random assignment).
+At the first time point, participants completed the 12-item Authenticity Scale and measures of SWB (satisfaction with life, positive
+and negative affect), PWB (autonomy, environmental mastery,
+positive relations with others, personal growth, purpose in life, and
+self-acceptance), socially desirable responding, and the sixth factor
+of personality (humility). At the second time point, participants
+only completed the 12-item Authenticity Scale (to establish test–
+
+THE AUTHENTIC PERSONALITY
+
+retest reliability). Participants were debriefed on all aspects of the
+study following completion of the second time point measure.
+Sample 2 (College Student Sample A). Sample 2 comprised
+158 undergraduate students (21 men, 137 women) who were
+recruited at two university campuses. Ages ranged from 18 years
+to 50 years, with 96.2% of participants being aged below 26 years.
+Most participants were of White (79.1%) or Indian (9.5%) ethnicity and described their relationship status as single (88.5%) or
+married (3.8%). Participants were presented with a study information sheet in the course of academic lectures and invited to take
+part in the study, being advised that they were free to withdraw at
+any time. Participants completed a paper-and-pencil questionnaire
+packet including the 12-item Authenticity Scale, as well as measures of self-esteem and SWB (stress, satisfaction with life, and
+positive and negative affect). Following completion, participants
+were debriefed on the nature of the research by either P. Alex
+Linley or Stephen Joseph (depending on location) and any questions were answered.
+Sample 3 (College Student Sample B). Sample 3 included 213
+second-year psychology students who participated in return for
+course credit. Participants included 43 men and 170 women, with
+a mean age of 19.45 years (SD ⫽ 2.45 years). Participants were
+primarily of a White (79.9%) or Indian (8.1%) ethnic background,
+and single/never married (94.7%). Participants were presented
+with a study information sheet as part of an academic course and
+invited to take part in the study, being advised that they were free
+to withdraw at any time. Participation in the study was part of a
+course in personality psychology, although several other alternate
+options were available to obtain course credit. Students who
+agreed to participate in the study were given a questionnaire
+packet. All participants completed the 12-item Authenticity Scale
+and a measure of self-esteem. Taking advantage of the large
+participant pool, we then asked participants to complete either a
+measure of the Big Five (n ⫽ 97) or measures of PWB (autonomy,
+environmental mastery, positive relationships with others, gratitude, and emotional intelligence; n ⫽ 115).
+Sample 4 (community sample). Sample 4 was recruited from a
+participant panel run by P. Alex Linley’s university. The initial
+sample was comprised of 117 people (18 men, 99 women), aged
+between 14- and 76-years old (M ⫽ 32.23, SD ⫽ 15.93). Participants were predominantly White (82.1%) or Chinese (6.8%) and
+single (45.3%) or married (35.9%), with a minority divorced
+(5.1%) or with other relationship status. Due to potential developmental differences in authenticity, we excluded 13 participants
+aged below 18, leaving a final sample of 104.
+Information about the study was provided via the internet for
+potentially interested parties. Having read the study information,
+participants then indicated their agreement with the study protocol
+and procedure by signifying their consent online. At a secure
+university website, participants completed the 12-item Authenticity Scale and measures of self-esteem and SWB (anxiety, satisfaction with life, and positive and negative affect). Upon completion
+of the study, participants were sent a debrief to their nominated
+email address. Due to an error in the production of the electronic
+questionnaire, participants completed the Authenticity Scale on a 1
+(does not describe me at all) to 5 (describes me very well) Likerttype scale rather than the usual 7-point scale. Due to this anomaly,
+Sample 4 was not used in the psychometric analysis and was used
+only as a cross-validation sample for the correlational analyses.
+
+391
+
+Measures
+Socially desirable responding. The full 40-item Balanced Inventory of Desirable Responding (Paulhus, 1984) was used to
+measure socially desirable responding. The widely used inventory
+provides two orthogonal scales measuring deliberate misreporting
+of items to create a positive effect (Impression Management [IM]
+subscale) and characteristic positivity bias (Self-Deception [SED]
+subscale). In the current study, alphas were .90 for both subscales.
+Big Five. The Big Five personality traits of extraversion, neuroticism, agreeableness, openness, and conscientiousness were assessed with the Big Five Inventory (John & Srivastava, 1999).
+Each trait is measured with between 8 and 10 items and contains
+a mixture of positively and negatively coded items. The Big Five
+Inventory is one of the mostly widely used measures of the Big
+Five; for each trait, Cronbach’s alpha and test–retest reliability
+have been shown to range from .79 to .90, and each subscale
+correlates with the corresponding scale of the NEO Personality
+Inventory–Revised (Costa & McCrae, 1992) and the Trait Descriptive Adjectives (Goldberg, 1992) at between r ⫽ .83 and r ⫽ .99
+(mean r ⫽ .94; John & Srivastava, 1999). In the current study,
+alphas ranged from .81 to .86.
+Sixth factor of personality. Lee and Ashton’s (2004) Honesty/
+Humility subscale of the HEXACO Personality Inventory was
+used to represent the proposed sixth primary factor of personality.
+Sixteen items assess self-perceptions of honesty (e.g., “If I knew
+that I could never get caught, I would be willing to steal a million
+dollars”) and humility (e.g., “I am an ordinary person who is no
+better than others”). Lee and Ashton demonstrated that these items
+operationalized the proposed sixth factor of personality and have
+incremental validity above the Big Five. In the current study, alpha
+was .86.
+Self-esteem. Rosenberg’s (1965) 10-item Self-Esteem Scale
+assessed global self-esteem. Five items are oriented in a positive
+direction (e.g., “I feel that I am a person of worth, at least on an
+equal plane with others”), and five in a negative direction (e.g., “At
+times I think I am no good at all”). Participants rate statements on
+a 1 (strongly disagree) to 4 (strongly agree) scale. The Rosenberg
+Self-Esteem Scale is one of the most widely used measures of
+self-esteem. In the current study, alphas ranged from .87 to .90.
+Life satisfaction. In the Satisfaction with Life Scale (Diener,
+Emmons, Larsen, & Griffin, 1985), participants rate their agreement with five statements regarding how satisfied they are with
+their life (e.g., “I am satisfied with my life”) on a 1 (strongly
+disagree) to 7 (strongly agree) scale. The Satisfaction with Life
+Scale is the most commonly used measure of the evaluative
+component of SWB and has a high degree of temporal stability
+(ranging from r ⫽ .89 over 2 weeks to .54 over 4 years) while still
+being sensitive to the effects of therapy (Pavot & Diener, 1993). In
+the current study, alphas ranged from .83 to .87.
+Affect. The frequency of positive and negative affect was
+measured with the 20-item Positive and Negative Affect Schedule
+(PANAS; Watson, Clark, & Tellegen, 1988). Ten items form a
+Positive Affect subscale assessing participants’ positive affect
+(e.g., interested, excited, and enthusiastic), and 10 items form a
+second subscale assessing negative affect (e.g., guilty, scared, and
+hostile). Consistent with research on the independence of positive
+and negative affect, the two subscales are minimally correlated.
+The PANAS is an extremely widely used measure of affect, as the
+
+WOOD, LINLEY, MALTBY, BALIOUSIS, AND JOSEPH
+
+392
+
+independence of positive and negative affect is better operationalized than it is in many other similar measures (Watson et al.,
+1988). In the current study, alphas ranged from .83 to .88.
+Scales of PWB. The short versions of the six subscales of
+Ryff’s (1989) scales of PWB were used to measure aspects of
+PWB. Each of the subscales contains three items, including a
+balance of positively and negatively worded items, all of which are
+rated on a 1 (strongly disagree) to 6 (strongly agree) scale. The
+Autonomy subscale measures independence and selfdetermination (e.g., “I have confidence in my opinions, even if
+they are contrary to the general consensus”), Environmental Mastery measures a person’s sense of mastery and competence in
+managing the environment (e.g., “In general, I feel I am in charge
+of the situation in which I live”), Positive Relations With Others
+measures the participant’s impression of the quality of their close
+personal relationships (e.g., “I have not experienced many warm
+and trusting relationships with others” [reverse coded]), Personal
+Growth measures an orientation toward self-improvement and
+actualization (e.g., “For me, life has been a continuous process of
+learning, changing, and growth”), Purpose in Life measures beliefs
+regarding purpose and meaningfulness in life (e.g., “Some people
+wander aimlessly through life, but I am not one of them”) and
+Self-Acceptance measures positive attitudes about the self (e.g., “I
+like most aspects of my personality”). Extensive studies have
+previously used these scales and have shown that the scales are
+independent from SWB (e.g., Keyes et al., 2002; Ryff & Keyes,
+1995). In the current study, alphas for the three-item subscales
+ranged from .54 to .79.
+Gratitude. The Gratitude Questionnaire-6 (McCullough, Emmons, & Tsang, 2002) was used to assess trait gratitude, which was
+included as an additional well-being variable. Six items measure
+grateful affect in terms of intensity (e.g., “I feel thankful for what
+I have received in life”), frequency (e.g., “Long amounts of time
+can go by before I feel grateful to something or someone”), and
+density, reflecting the number of events or people that can elicit the
+emotion (e.g., “I am grateful to a wide variety of people”). Items
+(two reverse coded) are rated on a 7-point scale ranging from 1
+(strongly disagree) to 7 (strongly agree). The Gratitude
+Questionnaire-6 has been shown to correlate with well-being
+
+largely independently of the Big Five, social desirability, and
+coping styles (McCullough et al., 2002; Wood, Joseph, & Linley,
+2007; Wood, Maltby, Stewart, & Joseph, 2008), and to have high
+test–retest reliability (Wood, Maltby, Gillette, Linley, & Joseph, in
+press). In the current study, alpha was .86.
+
+Results
+Descriptive Statistics
+Table 3 shows the descriptive statistics and subscale intercorrelations for all of the samples. Of note are the relatively low
+intercorrelations between the subscales, supporting their discriminant validity. Internal consistencies ranged from .70 to .86.
+
+Multigroup CFA
+Multigroup covariance structural equation modeling was performed with the AMOS software (see Byrne, 2004), using the
+maximum likelihood model of estimation. As the scales showed
+some negative skew, we applied the Satorra-Bentler (Satorra &
+Bentler, 2001) correction for nonnormality.
+Multigroup CFA involves two steps. In Step 1, separate CFAs
+are performed for each of the groups. In Step 2, two models are
+compared for difference in fit. The fit of the first model (the
+unconstrained model) is simply the sum of the chi-squared statistics from the separate CFAs in Step 1. In this model, the values of
+factor loadings have been free to vary between groups. The second
+model (the constrained model) is a single CFA that constrains the
+factor loadings to be equal across the groups. Invariance of the
+measure across groups is inferred if the fit of the constrained
+model is not significantly worse than is the fit of the unconstrained
+model. As the models are nested, the difference in the fit between
+the chi-squared values of the two models is itself chi-squared
+distributed, with number of degrees of freedom equal to the difference between the degrees of freedom of the competing models
+(see Byrne, 2004).
+The first multigroup analysis was performed to test the fit and
+sample invariance of the three-factor model suggested in Study 1.
+
+Table 3
+Descriptive Statistics and Scale Intercorrelations (Study 2)
+Central tendency
+Subscale
+Sample 1 (n ⫽ 180)
+Authentic Living
+Accepting External Influence
+Self-Alienation
+Sample 2 (n ⫽ 158)
+Authentic Living
+Accepting External Influence
+Self-Alienation
+Sample 3 (n ⫽ 210)
+Authentic Living
+Accepting External Influence
+Self-Alienation
+*
+
+p ⬍ .05.
+
+**
+
+p ⬍ .01.
+
+Intercorrelations
+
+␣
+
+M
+
+SD
+
+Authentic Living
+
+Accepting External Influence
+
+Self-Alienation
+
+.82
+.84
+.82
+
+19.52
+13.11
+13.03
+
+5.20
+5.77
+5.16
+
+—
+
+⫺.40**
+—
+
+⫺.32**
+.42**
+—
+
+.70
+.77
+.84
+
+21.75
+13.91
+9.95
+
+3.42
+4.71
+4.79
+
+—
+
+⫺.21**
+—
+
+⫺.16*
+.32**
+—
+
+.79
+.77
+.82
+
+22.41
+13.14
+9.49
+
+3.07
+4.18
+4.15
+
+—
+
+⫺.27**
+—
+
+⫺.32**
+.20**
+—
+
+THE AUTHENTIC PERSONALITY
+
+Three latent factors were specified, corresponding to selfalienation, authentic living, and accepting external influence. Each
+of these latent factors was defined by the items of the subscales.
+We also specified that the latent factors of self-alienation, authentic living, and accepting external influence existed under a higher
+order authenticity factor. No error variances were allowed to
+correlate.
+The individual fit from the separate CFAs for Samples 1, 2, and
+3 are presented in Table 4. Model fit was tested with the chisquared test of the difference between the implied and reproduced
+correlation matrices, the standardized root-mean-square residual
+(SRMR), the comparative fit index (CFI), and the root-meansquare error of approximation (RMSEA). As the chi-squared test is
+highly sensitive to sample size, Hu and Bentler (1999) recommend
+basing model fit assessments on the CFI and SRMR. Based on
+their Monte Carlo analyses, they suggested that good model fit is
+individually indicated with approximate values of SRMR ⱕ.08,
+CFI ⱖ.95, and RMSEA ⱕ.06; conventional values for accepting
+good models are substantially more lenient than these values are.
+Based on these values, individually any of the samples provided a
+good fit for the three-factor model. In the multigroup comparison,
+the constrained model, ␹2(171) ⫽ 312.93, CFI ⫽ .94, RMSEA ⫽
+.04 (90% CI ⫽ .03–.05), provided an equally good fit as the
+unconstrained model did, ␹2(153) ⫽ 285.69, CFI ⫽ .94, RMSEA ⫽ .04 (90% CI ⫽ .03–.05; ⌬␹2 ⫽ 27.25; ⌬df ⫽ 18, p ⫽ .08),
+indicating that the factor loadings were equal between the groups,
+and the measure was sample invariant. This is important, as the
+samples differed in terms of sampling technique and comparison
+(two student groups and one ethnically diverse occupational sample).
+As the measure showed sample invariance, it is acceptable to
+combine the samples and create new groups based on demographic
+groups (Byrne, 2004). We combined the samples and split them
+according to gender (144 men, 325 women). As shown in Table 4,
+
+393
+
+both genders exhibited a good fit for the three-factor model. The
+multigroup CFA showed that again the constrained model,
+␹2(111) ⫽ 146.85, CFI ⫽ .98, RMSEA ⫽ .03 (90% CI ⫽ .01–.04),
+provided an equally good fit as the unconstrained model did,
+␹2(102) ⫽ 135.39, CFI ⫽ .98, RMSEA ⫽ .03 (90% CI ⫽ .01–.04;
+⌬␹2 ⫽ 11.46, ⌬df ⫽ 9, p ⫽ .25), suggesting the gender invariance
+of the measure.
+Finally, we recombined the samples and split the sample between three ethnic groups. Participants were classed as either
+White (n ⫽ 283), Asian (n ⫽ 109), or Black (n ⫽ 65). Finer
+grained comparisons between ethnic groups (e.g., Indian or Chinese) were not possible due to an insufficient sample size for CFA.
+Table 4 shows a model fit for each of the ethnic groups. The
+multigroup CFA showed the constrained model, ␹2(189) ⫽
+273.31, CFI ⫽ .96, RMSEA ⫽ .03 (90% CI ⫽ .02–.04), provided
+an equally good fit as the unconstrained model did, ␹2(180) ⫽
+261.82, CFI ⫽ .96, RMSEA ⫽ .03 (90% CI ⫽ .02–.04; ⌬␹2 ⫽
+11.49, ⌬df ⫽ 9, p ⫽ .09), suggesting that the measure is invariant
+across ethnic groups.
+Factor loadings. The multigroup CFAs suggested that the
+model is invariant across sample, gender, and ethnic groups (the
+factor loadings are equal for each of these groups). Given the
+factor loadings are equal across each group, Figure 2 presents the
+factor loadings based on a combination of all three samples. Visual
+inspection of the factor loadings from the separate CFAs from each
+group confirmed the statistical finding that the loadings were near
+identical. Inspection of Figure 2 shows reasonable factor loadings
+(between .60 and .78). The latent factors also load highly on a
+higher order authenticity factor (between .58 and .63).
+Comparing one- and three-factor models. The results of the
+multigroup CFAs suggested that the three-factor model provides a
+good fit for the data. However, the three latent factors loaded
+highly on a higher order authenticity factor. Although this is
+consistent with each factor being representative of authenticity, it
+
+Table 4
+Results From the Multigroup Confirmatory Factor Analysis
+Model 1: Three factors
+Group
+
+n
+
+␹2(51)
+
+SRMR
+
+CFI
+
+1. Sample 1
+2. Sample 2
+3. Sample 3
+
+180
+158
+213
+
+55.55
+79.25**
+90.06***
+
+.04
+.08
+.08
+
+.99
+.94
+.94
+
+4. Men only
+5. Women only
+
+144
+325
+
+48.44
+83.45**
+
+.05
+.04
+
+.99
+.98
+
+6. White only
+7. Asian only
+8. Black only
+
+283
+109
+65
+
+61.98
+74.30*
+53.43
+
+.04
+.06
+.07
+
+.99
+.96
+.99
+
+Model
+comparisons
+
+Model 2: One factor
+RMSEA
+(90% CI)
+
+␹2(54)
+
+SRMR
+
+CFI
+
+RMSEA
+(90% CI)
+
+⌬df
+
+⌬␹2
+
+.13
+.16
+.16
+
+.63
+.53
+.50
+
+.18 (.16, .19)
+.16 (.14, .18)
+.16 (.15, .18)
+
+3
+3
+3
+
+297.90***
+181.51***
+275.81***
+
+.14
+.15
+
+.62
+.52
+
+.17 (.15, .19)
+.19 (.18, .20)
+
+3
+3
+
+235.72***
+631.25***
+
+.14
+.16
+.14
+
+.51
+.54
+.60
+
+.16 (.15, .18)
+.20 (.18, .23)
+.17 (.13, .20)
+
+3
+3
+3
+
+387.09***
+223.50***
+94.79***
+
+Between sample comparisons
+.02 (.00, .05)
+.06 (.03, .08)
+.06 (.04, .08)
+
+353.45***
+260.76***
+365.87***
+
+Between gender group comparisons
+.00 (.00, .05)
+.04 (.03, .06)
+
+284.16***
+714.70***
+
+Between ethnic group comparisons
+.03 (.00, .05)
+.07 (.03, .10)
+.03 (.00, .09)
+
+449.07***
+297.80***
+148.22***
+
+Note. SRMR ⫽ standardized root-mean-square residual; CFI ⫽ comparative fit index; RMSEA ⫽ root-mean-square error of approximation; CI ⫽
+confidence interval.
+*
+p ⬍ .05. ** p ⬍ .01. *** p ⬍ .001.
+
+WOOD, LINLEY, MALTBY, BALIOUSIS, AND JOSEPH
+
+394
+
+Authenticity
+
+.60
+
+-.58
+Accepting External
+Influence
+
+Self-Alienation
+.77
+
+Item 10
+
+.74
+
+Item 7
+
+.64
+
+Item 2
+
+-.63
+
+.78
+
+Item 12
+
+.74
+
+.70
+
+Item 6
+
+Item 4
+
+.73
+Item 3
+
+Authentic Living
+.65
+
+.68
+
+.70
+
+Item 5
+
+Item 11
+
+Item 9
+
+.78
+
+.60
+
+Item 8
+
+Item 1
+
+Figure 2. Diagram of the confirmatory factor analysis, with item and latent variable loadings. Error variances
+omitted for clarity.
+
+raises the question of whether a one-factor model would provide
+an equally good fit for the data. To test this, for each of the
+samples, genders, and ethnicities, we compared the three-factor
+model with a second one-factor model where all items loaded on
+a single factor. As can be seen in Table 4, for each group, the
+one-factor model provided a poor fit of the data. As also reported
+in Table 4, for every group, direct nested comparisons of chisquared values showed that the three-factor model provided a
+significantly better fit than the one-factor model did. On this basis,
+the one-factor model was rejected.
+
+Reliability and Validity
+Test–retest reliability. Table 5 provides 2- and 4-week test–
+retest reliability. For each of the subscales, responses at Time 1
+were correlated with responses at Time 2 at between r ⫽ .78 and
+r ⫽ .91. In each case, the 4-week test–retest correlation differed
+from the corresponding 4-week correlation by only r ⫽ .01.
+Additionally, at both time intervals each of the subscales showed
+group-level stability, with small and nonsignificant mean level
+differences between the two time points.
+Discriminant validity from social desirability. Both the IM and
+SED subscales of social desirability showed very low and nonsignificant correlations with the Authenticity Scale. Neither scale was
+significantly correlated with accepting external influence (IM r ⫽
+⫺.09; SED r ⫽ ⫺.08), self-alienation (IM r ⫽ ⫺.08; SED r ⫽ ⫺.08),
+or authentic living (IM r ⫽ .05; SED r ⫽ .06), with the smallest p ⫽
+.19. The results suggest that responding to the Authenticity Scale is
+not influenced by socially desirable responding.
+
+Discriminant validity from the Big Five. Table 6 presents
+zero-order correlations between the Authenticity Scale and the Big
+Five, along with three multiple regressions where the Big Five are
+sequentially regressed on Authentic Living, Accepting External
+Influence, and Self-Alienation. There were different patterns of
+zero-order correlations for each of the subscales, but a consistent
+overall picture emerges where all the significant correlations are in
+the same direction. As a construct, authenticity appears to be
+positively correlated with extraversion, agreeableness, conscientiousness, and openness, and negatively correlated with neuroticism. However, the results of the multiple regression suggest that
+authenticity cannot be reduced to a linear combination of Big Five
+traits, with the Big Five only accounting for a small but significant
+11%–13% of the variance in Authentic Living, Accepting External
+Influence, and Self-Alienation. We also correlated the Authenticity
+Scale with the recently conceptualized sixth factor of personality.
+None of the subscales was significantly correlated with the
+HEXACO measure of this factor (largest absolute r ⫽ .11, p ⫽
+.14), ruling out strong correlations with the sixth factor of personality as an explanation for the discriminant validity of the Authenticity Scale from the Big Five.
+
+Correlations With Self-Esteem and SWB
+To test whether authenticity is related to self-esteem and SWB,
+we correlated the Authenticity Scale with measures of self-esteem,
+anxiety, stress, happiness, satisfaction with life, and positive and
+negative affect. These results are presented in Table 7.
+
+Table 5
+Test-Retest Reliabilities at 2 Weeks and 4 Weeks
+Time 1
+Subscale
+2 weeks
+Authentic Living
+Accepting External Influence
+Self-Alienation
+4 weeks
+Authentic Living
+Accepting External Influence
+Self-Alienation
+
+Time 2
+
+Mean change
+
+M
+
+SD
+
+M
+
+SD
+
+t
+
+p
+
+Stability
+r
+
+19.02
+13.67
+12.46
+
+5.26
+5.50
+5.15
+
+19.27
+13.91
+12.41
+
+5.01
+5.12
+4.78
+
+⫺0.69
+⫺1.08
+0.13
+
+.49
+.28
+.90
+
+.79
+.84
+.78
+
+20.02
+12.66
+13.61
+
+5.12
+6.02
+5.12
+
+19.63
+12.84
+13.47
+
+5.25
+5.47
+5.14
+
+1.09
+⫺0.51
+0.38
+
+.28
+.61
+.71
+
+.78
+.81
+.79
+
+Note. All participants from Sample 1. Two-week n ⫽ 90, 4-week n ⫽ 90, all dfs ⫽ 89. For each r, p ⬍ .001.
+
+.03 (.01) .23*
+.01 (.01) .09
+⫺.01 (.01) ⫺.06
+
+B (SE)
+
+⫺.23 .21
+.06 .10
+.13 ⫺.04
+
+r
+
+.04 (.02)
+.19
+.17
+.01 (.02)
+.06 ⫺.23 ⫺.04 (.02)
+.04 (.02)
+.18 ⫺.16
+⫺.03 (.02) ⫺.18
+.19
+.01 (.02)
+⫺.02 (.02) ⫺.11 ⫺.28**
+.03 (.02)
+.19
+.25*
+.02 (.02)
+
+B (SE)
+
+␤
+
+*
+
+Discussion and General Discussion
+
+Note. Participants are from Sample 3 (n ⫽ 94). Adj. ⫽ Adjusted.
+p ⬍ .05. ** p ⬍ .01.
+*
+
+.00 (.02) ⫺.01
+.27
+⫺.07 (.02) ⫺.30** ⫺.07
+⫺.04 (.02) ⫺.21* ⫺.24*
+.11
+⫺.33**
+⫺.29**
+.12
+.11*
+.13**
+3.46
+3.27
+3.92
+Authentic Living
+Accepting External Influence
+Self-Alienation
+
+␤
+B (SE)
+r
+F(5, 89) Adj. R2
+Subscale
+
+**
+
+r
+
+**
+
+B (SE)
+
+␤
+
+r
+
+B (SE)
+
+␤
+
+r
+
+*
+
+Neuroticism
+Conscientiousness
+Agreeableness
+Extraversion
+
+Table 6
+Summary of Zero-Order Correlations and Four Multiple Regressions of the Big Five on the Authenticity Scale and Subscales
+
+395
+
+Self-esteem. As predicted, all subscales of the Authenticity
+Scale were correlated with self-esteem in four samples. SelfAlienation had large correlations with self-esteem (range of r ⫽
+⫺.45 to .59). Authentic Living and Accepting External Influence
+were also correlated with self-esteem in each of the samples. The
+size of the correlations of self-esteem with Authentic Living and
+Accepting External Influence were generally of a medium magnitude (range of absolute r ⫽ .20 to .36). The hypothesis that
+authenticity would be linked to self-esteem was supported in four
+samples across all of the subscales.
+SWB. As can be seen from Table 7, each of the authenticity
+subscales was correlated with the SWB variables. Self-Alienation
+was particularly strongly correlated with each of the SWB variables (absolute rs ranged from .21 to .50). Accepting External
+Influence showed the same pattern of correlations, but the correlations between satisfaction with life and positive affect were not
+stable across all samples. Authentic Living was correlated with
+each of the well-being variables except anxiety, although the
+correlation with negative affect seems less stable. With a few
+exceptions, there was a remarkable level of consistency and replication across samples and strong support for the conception of
+authenticity as a variable related to SWB.
+PWB. Table 8 shows the correlations between the Authenticity
+Scale and PWB. Each of the subscales was significantly correlated
+with almost all of the seven aspects of PWB (Accepting External
+Influence was not correlated with gratitude, and Authentic Living
+was not correlated with purpose in life). Additionally, results were
+replicated in a second sample for the three variables that were
+represented in both samples. The results support the hypothesis
+that authenticity is related to PWB.
+
+*
+
+Openness
+
+␤
+
+THE AUTHENTIC PERSONALITY
+
+Two studies reported the development and testing of the Authenticity Scale. Study 1 developed the Authenticity Scale based
+on a tripartite conception of authenticity. Study 2 confirmed the
+factor structure, presented reliability and validity information, and
+presented the first stringent test of whether trait authenticity is
+related to SWB and PWB.
+The factor structure of the scale appears very robust. EFA in
+Study 1 showed that the factor structure measured the intended
+three-factor conception, which was supported through multigroup
+CFA in Study 2. Of particular note was the factor invariance across
+each sample, between both genders and broad ethnic grouping.
+This provides early indication that the Authenticity Scale behaves
+consistently across diverse demographic groups.
+The Authenticity Scale appears to have good psychometric
+properties. The 2-week and 4-week test–retest reliabilities ranged
+from r ⫽ .78 to .91, suggesting that responses on the scale are
+stable across short intervals, as would be expected for a trait
+measure. Correlations with social desirability were all small and
+nonsignificant. It appears that responding to the scale is neither
+confounded with responses designed to manage impressions nor
+does it represent an overly positive impression of the self. The
+Authenticity Scale also seems to have distinct variance from the
+Big Five traits. The scale was meaningfully related to the Big Five,
+with more authentic people being more extraverted, agreeable,
+conscientious, open, and less neurotic. This pattern of correlations
+is consistent with the conceptualization of authenticity as an aspect
+
+WOOD, LINLEY, MALTBY, BALIOUSIS, AND JOSEPH
+
+396
+Table 7
+Authenticity and Subjective Well-Being
+Subscale
+Sample 1 (n ⫽ 180)
+Authentic Living
+Accepting External Influence
+Self-Alienation
+Sample 2 (n ⫽ 158)
+Authentic Living
+Accepting External Influence
+Self-Alienation
+Sample 3 (n ⫽ 213)
+Authentic Living
+Accepting External Influence
+Self-Alienation
+Sample 4 (n ⫽ 104)
+Authentic Living
+Accepting External Influence
+Self-Alienation
+
+Self-Esteem
+
+Anxiety
+
+Stress
+
+⫺.20**
+.26**
+.47**
+
+.24**
+⫺.23**
+⫺.57**
+
+SWLS
+
+Positive Affect
+
+Negative Affect
+
+.22**
+⫺.35**
+⫺.34**
+
+.23**
+⫺.23**
+⫺.21**
+
+⫺.07
+.20**
+.21**
+
+.22**
+⫺.13
+⫺.50**
+
+.17*
+⫺.15
+⫺.35**
+
+⫺.10
+.18*
+.49**
+
+.21*
+⫺.06
+⫺.34**
+
+.20*
+.06
+⫺.31**
+
+⫺.27*
+.21*
+.48**
+
+.23**
+⫺.27**
+⫺.45**
+⫺.18
+.20*
+.39**
+
+.36**
+⫺.20*
+⫺.59**
+
+Note. SWLS ⫽ Satisfaction With Life Scale.
+*
+p ⬍ .05. ** p ⬍ .01.
+
+of positive emotional and social functioning. However, a linear
+combination of the Big Five only explained a maximum of 13% of
+the variance in the subscales of the Authenticity Scale, suggesting
+that the scale is more than just a reflection of a configuration of
+Big Five traits.
+The Authenticity Scale also was correlated with self-esteem,
+SWB, and PWB. As well as providing convergent validity for the
+scale, this provides the first test using a validated scale of whether
+trait authenticity is related to well-being. This is important, as
+authenticity is considered central to well-being in several counseling psychology conceptions (Horney, 1951; May, 1981; Rogers,
+1959; Winnicott, 1965; Yalom, 1980). Indeed, some of the correlations of authenticity and well-being were particularly high. For
+example, the correlation between self-alienation and satisfaction
+with life ranged between r ⫽ ⫺.34 and ⫺.50. In Park, Peterson,
+and Seligman’s (2004) assessment of the relationship between 24
+character strengths and satisfaction with life, values of |.34| would
+be higher than all but six strengths, and values of .50 are higher
+than all 24 strengths except for hope. It appears that authenticity is
+one of the strongest predictors of well-being. This is particularly
+notable as there is no item overlap between the measure of au-
+
+thenticity and the well-being variables. The strong relationship
+between the Authenticity Scale and well-being is a good example
+of how classical perspectives in counseling psychology can inform
+the direction of current empirical work in personality psychology
+(cf. Linley, 2006).
+It is also notable that authenticity was correlated with both SWB
+and PWB. SWB and PWB are separate concepts, with different
+theoretical positions, causes, correlates, and consequences (Keyes
+et al., 2002; Ryan & Deci, 2001; Ryff & Keyes, 1995). However,
+as predicted, authenticity is related to both conceptions of wellbeing. The Authenticity Scale was also strongly and robustly
+related to self-esteem. This is in keeping with Rogers’ (1959)
+linking of authenticity and unconditional positive regard and Kernis’ (2003) association of authenticity and secure self-esteem.
+The field of authenticity research has been hampered by the lack
+of a valid personality measure. The development of the Authenticity Scale allows for further tests of the theoretical positions, as
+well as the several questions that emerge from this article.
+First, longitudinal research could address the order of causality
+between authenticity and well-being and the developmental antecedents of authenticity. For example, authenticity could lead to well-
+
+Table 8
+Authenticity and Psychological Well-Being
+Subscale
+Sample 1 (n ⫽ 180)
+Authentic Living
+Accepting External Influence
+Self-Alienation
+Sample 3 (n ⫽ 119)
+Authentic Living
+Accepting External Influence
+Self-Alienation
+
+Autonomy
+
+Environmental
+Mastery
+
+PRWO
+
+Personal
+Growth
+
+Purpose
+in Life
+
+SelfAcceptance
+
+.18*
+⫺.25**
+⫺.17*
+
+.17*
+⫺.21**
+⫺.21**
+
+.18*
+⫺.27**
+⫺.23**
+
+.25**
+⫺.30**
+⫺.28**
+
+.08
+⫺.22**
+⫺.15*
+
+.28**
+⫺.41**
+⫺.39**
+
+.45**
+⫺.59**
+⫺.33**
+
+.40**
+⫺.27**
+⫺.52**
+
+.34**
+⫺.24*
+⫺.44**
+
+Note. PRWO ⫽ Positive Relations With Others subscale.
+*
+p ⬍ .05. ** p ⬍ .01.
+
+Gratitude
+
+.37**
+⫺.15
+⫺.35**
+
+THE AUTHENTIC PERSONALITY
+
+being as Rogers (1959) has suggested, well-being could lead to people
+having the courage to be authentic, or the two could operate in a spiral
+in a broaden-and-build fashion (Fredrickson & Joiner, 2002).
+Second, from a developmental perspective, it would be interesting to examine both mean level authenticity across different age
+groups and what kind of environments lead to dispositional authenticity. Rogers (1959) suggested that people were naturally
+authentic at an early age but that this authenticity decreased later
+in life due to the imposition of conditions of worth. Similarly,
+Harter et al. (1996) and Neff and Harter (2002) found that people
+were more authentic when their self was being accepted by other
+people. It would be pertinent to see whether this equated to
+different levels of dispositional authenticity.
+Third, authenticity could also illuminate differences between
+groups. In addition to the disadvantages suffered by all stigmatized
+groups, certain group members may have a potential identity
+which is not visually clear (such as Jewish people, lesbian, gay,
+bisexual, and transsexual people, and people with unseen disabilities, such as epilepsy). For such people, they have the additional
+strain of not knowing whether people would treat them differently
+if their true group membership was known (Crocker, Major, &
+Steele, 1998). Issues of authenticity may be particularly important
+for such groups.
+Fourth, several conceptions have seen increased authenticity as
+sometimes arising in people who have undergone trauma (Joseph,
+2004; Joseph & Linley, 2005; May, 1981). This may be one of the
+benefits that people often report after the trauma, in addition to
+their intense suffering. The Authenticity Scale could be used to test
+not only whether this was the case but also test more complex
+models, such as whether authenticity only arises as a form of
+trauma-related growth when unconditionally accepting relationships are present (Joseph, 2004; Joseph & Linley, 2005).
+Fifth, each of the counseling and existential psychology perspectives on authenticity (Horney, 1951; May, 1981; Rogers,
+1959; Winnicott, 1965; Yalom, 1980) saw the authentic disposition as being increased through psychotherapy. This could be
+tested with the Authenticity Scale, such as by comparing longitudinal change scores between those undergoing therapy and a
+control group. This would be in keeping with an increasing focus
+on the efficacy of counseling and a drive to evaluate therapy by
+other criteria than those based on the medical model of psychopathology (Joseph & Worsley, 2005).
+Sixth, future research could also widen understanding of how
+authenticity fits in with other personality traits. In particular, it is
+not clear how authenticity is related to its nonfelicitous opposites.
+For example, Peterson and Seligman (2004) pointed out that antonyms of authenticity include deceitfulness, insincerity, pretentiousness, and falseness. It would be informative to see whether
+these were part of the same higher order factor as authenticity.
+Kernis (2003) has posited that authenticity should be related more
+to secure self-esteem than to insecure self-esteem, and this could
+now be tested directly. Although such traits as insincerity and
+secure self-esteem are difficult to measure, considerable advances
+have been made into measuring these traits through implicit measures (Greenwald & Farnham, 2000).
+There are multiple new areas of research for authenticity in both
+counseling psychology and personality psychology research. It is
+hoped that the development of the Authenticity Scale will aid these
+research endeavors and support therapeutic applications.
+
+397
+References
+
+Barrett-Lennard, G. T. (1998). Carl Rogers’ helping system: Journey and
+substance. London: Sage.
+Bettencourt, B. A., & Sheldon, K. (2001). Social roles as mechanisms for
+psychological need satisfaction within social groups. Journal of Personality and Social Psychology, 81, 1131–1143.
+Byrne, B. M. (2004). Testing for multigroup invariance using AMOS
+graphics: A road less traveled. Structural Equation Modeling, 11, 272–
+300.
+Clark, L. A., & Watson, D. (1995). Constructing validity: Basic issues in
+objective scale development. Psychological Assessment, 7, 309 –319.
+Cohen, S., & Williamson, G. (1988). Perceived stress in a probability
+sample of the United States. In S. Spacapam & S. Oskamp (Eds.), The
+social psychology of health (pp. 31– 67). Newbury Park, CA: Sage.
+Costa, P. T., & McCrae, R. R. (1992). Revised NEO personality inventory
+(NEO-PI-R) and the NEO five-factor inventory (NEO-FFI): Professional manual. Odessa, FL: Psychological Assessment Resources.
+Costa, P. T., & McCrae, R. R. (1995). Domains and facets: Hierarchical
+personality assessment using the revised NEO personality inventory.
+Journal of Personality Assessment, 64, 21–50.
+Crocker, J., Major, B., & Steele, C. (1998). Social stigma. In D. T. Gilbert,
+S. T. Fiske, & G. Lindzey (Eds.), The handbook of social psychology
+(Vol. 2, pp. 505–553). New York: Oxford University Press.
+Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The
+Satisfaction With Life scale. Journal of Personality Assessment, 49,
+71–75.
+Dunmore, E., Clark, D. M., & Ehlers, A. (2001). A prospective investigation of the role of cognitive factors in persistent posttraumatic stress
+disorder (PTSD) after physical or sexual assault. Behaviour Research
+and Therapy, 39, 1063–1084.
+Ehlers, A., Maercker, A., & Boos, A. (2000). Posttraumatic stress disorder
+following political imprisonment: The role of mental defeat, alienation,
+and perceived permanent change. Journal of Abnormal Psychology, 109,
+45–55.
+Fabrigar, L. R., Wegener, D. T., MacCallum, R. C., & Strahan, E. J.
+(1999). Evaluating the use of exploratory factor analysis in psychological research. Psychological Methods, 4, 272–299.
+Fredrickson, B. L., & Joiner, T. (2002). Positive emotions trigger upward
+spirals toward emotional well-being. Psychological Science, 13, 172–
+175.
+Gable, S. L., & Haidt, J. (2005). What (and why) is positive psychology?
+Review of General Psychology, 9, 103–110.
+Goldberg, L. R. (1992). The development of markers for the Big-Five
+factor structure. Psychological Assessment, 4, 26 – 42.
+Goldberg, L. R. (1993). The structure of phenotypic personality traits.
+American Psychologist, 48, 26 –34.
+Goldman, B. M., & Kernis, M. H. (2002). The role of authenticity in
+healthy psychological functioning and subjective well-being. Annals of
+the American Psychotherapy Association, 5, 18 –20.
+Greenwald, A. G., & Farnham, S. D. (2000). Using the implicit association
+test to measure self-esteem and self-concept. Journal of Personality and
+Social Psychology, 79, 1022–1038.
+Harter, S. (2002). Authenticity. In C. R. Snyder & S. J. Lopez (Eds.),
+Handbook of positive psychology (pp. 382–394). Oxford, England: Oxford University Press.
+Harter, S., Marold, D. B., Whitesell, N. R., & Cobbs, G. (1996). A model
+of the effects of perceived parent and peer support on adolescent false
+self behavior. Child Development, 67, 360 –374.
+Horney, K. (1951). Neurosis and human growth. London: Routledge.
+Hu, L. T., & Bentler, P. M. (1999). Cutoff criteria for fit indices in
+covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling, 6, 1–55.
+John, O. P., & Srivastava, S. (1999). The Big Five trait taxonomy: History,
+measurement, and theoretical perspectives. In L. A. Pervin & O. P. John
+
+398
+
+WOOD, LINLEY, MALTBY, BALIOUSIS, AND JOSEPH
+
+(Eds.), Handbook of personality: Theory and research (2nd ed., pp.
+102–138). New York: Guilford.
+Joseph, S. (2004). Client-centered therapy, post-traumatic stress disorder
+and post-traumatic growth: Theoretical perspectives and practical implications. Psychology and Psychotherapy: Theory, Research and Practice,
+77, 101–119.
+Joseph, S., & Linley, P. A. (2005). Positive adjustment to threatening
+events: An organismic valuing theory of growth through adversity.
+Review of General Psychology, 9, 262–280.
+Joseph, S., & Linley, P. A. (2006). Positive therapy: A meta-theory for
+positive psychological practice. New York: Routledge.
+Joseph, S., & Worsley, R. (Eds.). (2005). Person-centred psychopathology:
+A positive psychology of mental health. Ross-on-Wye, England: PCCS
+Books.
+Kernis, M. H. (2003). Toward a conceptualization of optimal self-esteem.
+Psychological Inquiry, 14, 1–26.
+Kernis, M. H., & Goldman, B. M. (2005). From thought and experience to
+behavior and interpersonal relationships: A multicomponent conceptualization of authenticity. In A. Tesser, J. V. Wood, & D. Stapel (Eds.),
+On building, defending, and regulating the self: A psychological perspective (pp. 31–52). New York: Psychology Press.
+Keyes, C. L. M., Shmotkin, D., & Ryff, C. D. (2002). Optimizing wellbeing: The empirical encounter of two traditions. Journal of Personality
+and Social Psychology, 82, 1007–1022.
+Lee, K., & Ashton, M. C. (2004). Psychometric properties of the HEXACO
+personality inventory. Multivariate Behavioral Research, 39, 329 –358.
+Linley, P. A. (2006). Counseling psychology’s positive psychological
+agenda: A model for integration and inspiration. Counseling Psychologist, 34, 313–322.
+Linley, P. A., Joseph, S., Harrington, S., & Wood, A. M. (2006). Positive
+psychology: Past, present, and (possible) future. The Journal of Positive
+Psychology, 1, 3–16.
+Lopez, F. G., & Rice, K. G. (2006). Preliminary development and validation of a measure of relationship authenticity. Journal of Counseling
+Psychology, 53, 362–371.
+Lyubomirsky, S., & Lepper, H. S. (1999). A measure of subjective happiness: Preliminary reliability and construct validation. Social Indicators
+Research, 46, 137–155.
+May, R. (1981). Freedom and destiny. New York: Basic Books.
+May, R. (1994). Contributions of existential psychotherapy. In R. May, E.
+Angel, & H. F. Ellenberger (Eds.), Existence (pp. 37–91). Northvale, NJ:
+Jason Aronson. (Original work published 1958)
+McCullough, M. E., Emmons, R. A., & Tsang, J. A. (2002). The grateful
+disposition: A conceptual and empirical topography. Journal of Personality and Social Psychology, 82, 112–127.
+McGregor, I., & Little, B. R. (1998). Personal projects, happiness, and
+meaning: On doing well and being yourself. Journal of Personality and
+Social Psychology, 74, 494 –512.
+McNair, D. M., Lorr, M., & Droppleman, L. F. (1971). Manual for the
+profile of mood states. San Diego, CA: Educational and Industrial
+Testing Services.
+Neff, K. D., & Harter, S. (2002). The authenticity of conflict resolutions
+among adult couples: Does women’s other-oriented behavior reflect
+their true selves? Sex Roles, 47, 403– 417.
+O’Connor, B. P. (2000). SPSS and SAS programs for determining the
+number of components using parallel analysis and Velicer’s MAP test.
+Behavior Research Methods, Instrumentation, and Computers, 32, 396 –
+402.
+Park, N., Peterson, C., & Seligman, M. E. P. (2004). Strengths of character
+and well-being. Journal of Social and Clinical Psychology, 23, 603–
+619.
+Patterson, T. G., & Joseph, S. (2007). Person-centered personality theory:
+Support from self-determination theory and positive psychology. Journal of Humanistic Psychology, 47, 117–139.
+
+Paulhus, D. L. (1984). Two-component models of socially desirable responding. Journal of Personality and Social Psychology, 46, 598 – 609.
+Pavot, W., & Diener, E. (1993). Review of the Satisfaction With Life scale.
+Psychological Assessment, 5, 164 –172.
+Peterson, C., & Seligman, M. E. P. (2004). Introduction: Strengths of
+courage. In C. Peterson & M. E. P. Seligman (Eds.), Character strengths
+and virtues: A handbook and classification (pp. 197–212). Oxford,
+England: Oxford University Press.
+Roberts, B. W., & Donahue, E. M. (1994). One personality, multiple selves
+- integrating personality and social roles. Journal of Personality, 62,
+199 –218.
+Rogers, C. R. (1959). A theory of therapy, personality and interpersonal
+relationships as developed in the client-centered framework. In S. Koch
+(Ed.), Psychology: A study of a science. Vol. 3: Formulations of the
+person and the social context (pp. 181–256). New York: McGraw-Hill.
+Rogers, C. R. (1961). On becoming a person: A therapist’s view of
+psychotherapy. London: Constable.
+Rogers, C. R. (1964). Toward a modern approach to values: The valuing
+process in the mature person. Journal of Abnormal and Social Psychology, 68, 160 –167.
+Rogers, C. R. (1980). A way of being. Boston: Houghton Mifflin.
+Rosenberg, M. (1965). Society and the adolescent self-image. Princeton,
+NJ: Princeton University Press.
+Ryan, R. M., & Deci, E. L. (2001). On happiness and human potentials: A
+review of research on hedonic and eudaimonic well-being. Annual
+Review of Psychology, 52, 141–166.
+Ryff, C. D. (1989). Happiness is everything, or is it––Explorations on the
+meaning of psychological well-being. Journal of Personality and Social
+Psychology, 57, 1069 –1081.
+Ryff, C. D., & Keyes, C. L. M. (1995). The structure of psychological
+well-being revisited. Journal of Personality and Social Psychology, 69,
+719 –727.
+Satorra, A., & Bentler, P. M. (2001). A scaled difference chi-square test
+statistic for moment structure analysis. Psychometrika, 66, 507–514.
+Saucier, G., & Goldberg, L. R. (2002). Assessing the Big Five: Applications of ten psychometric criteria to the development of marker scales.
+In B. De Raad & M. Perugini (Eds.), Big Five assessment (pp. 29 –58).
+Seattle, WA: Hogrefe and Huber.
+Schmid, P. F. (2005). Authenticity and alienation: Towards an understanding of the person beyond the categories of order and disorder. In S.
+Joseph & R. Worsley (Eds.), Person-centred psychopathology (pp. 75–
+90). Ross-on-Wye, England: PCCS Books.
+Sheldon, K. M. (2004). Integrity (honesty/authenticity). In C. Peterson &
+M. E. P. Seligman (Eds.), Character strengths and virtues (pp. 249 –
+272). New York: Oxford University Press.
+Sheldon, K. M., Ryan, R. M., Rawsthorne, L. J., & Ilardi, B. (1997). Trait
+self and true self: Cross-role variation in the big-five personality traits
+and its relations with psychological authenticity and subjective wellbeing. Journal of Personality and Social Psychology, 73, 1380 –1393.
+Tinsley, H. E. A., & Tinsley, D. J. (1987). Uses of factor-analysis in
+counseling psychology research. Journal of Counseling Psychology, 34,
+414 – 424.
+Velicer, W. F., Eaton, C. A., & Fava, J. L. (2000). Construct explication
+through factor or component analysis: A review and evaluation of
+alternative procedures for determining the number of factors or components. In R. D. Goffin & E. Helmes (Eds.), Problems and solutions in
+human assessment: Honoring Douglas N. Jackson at seventy. Norwell,
+MA: Kluwer Academic.
+Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and
+validation of brief measures of positive and negative affect––the
+PANAS scales. Journal of Personality and Social Psychology, 54,
+1063–1070.
+
+THE AUTHENTIC PERSONALITY
+Winnicott, D. W. (1965). The maturational processes and the facilitating
+environment. New York: International Universities Press.
+Wood, A. M., Joseph, S., & Linley, P. A. (2007). Coping style as a
+psychological resource of grateful people. Journal of Social and Clinical
+Psychology, 26, 1108 –1125.
+Wood, A. M., Maltby, J., Gillette, R., Linley, P. A., & Joseph, S. (in press).
+The role of gratitude in the development of social support, stress, and
+depression: Two longitudinal studies. Journal of Research in Personality. doi:10.1016/j.jrp. 2007.1011.1003
+
+399
+
+Wood, A. M., Maltby, J., Stewart, N., & Joseph, S. (2008). Conceptualizing gratitude and appreciation as a unitary personality trait. Personality
+and Individual Differences, 44, 619 – 630.
+Wyatt, G. (2001). Rogers’ therapeutic conditions: Evolution, theory and
+practice. Vol. 1: Congruence. Ross-on-Wye, England: PCCS Books.
+Yalom, I. D. (1980). Existential psychotherapy. New York: Basic Books.
+Zwick, W. R., & Velicer, W. F. (1986). Comparison of five rules for
+determining the number of components to retain. Psychological Bulletin,
+99, 432– 442.
+
+Appendix
+Items of the Final Authenticity Scale
+
+1.
+
+“I think it is better to be yourself, than to be
+popular.”
+
+9.
+
+“I am true to myself in most situations.”
+
+2.
+
+“I don’t know how I really feel inside.”
+
+10.
+
+“I feel out of touch with the ‘real me.’”
+
+3.
+
+“I am strongly influenced by the opinions of others.”
+
+11.
+
+“I live in accordance with my values and beliefs.”
+
+12.
+
+“I feel alienated from myself.”
+
+4.
+
+“I usually do what other people tell me to do.”
+
+Scoring Instructions
+
+5.
+
+“I always feel I need to do what others expect me
+to do.”
+
+6.
+
+“Other people influence me greatly.”
+
+All items are presented on a 1 (does not describe me at all) to
+7 (describes me very well) scale. Total Items 1, 8, 9, and 11 for
+Authentic Living; Items 3, 4, 5, and 6 for Accepting External
+Influence; and Items 2, 7, 10, and 12 for Self-Alienation.
+
+7.
+
+“I feel as if I don’t know myself very well.”
+
+8.
+
+“I always stand by what I believe in.”
+
+Received January 24, 2007
+Revision received March 6, 2008
+Accepted March 9, 2008 䡲
+
+E-Mail Notification of Your Latest Issue Online!
+Would you like to know when the next issue of your favorite APA journal will be available
+online? This service is now available to you. Sign up at http://notify.apa.org/ and you will be
+notified by e-mail when issues of interest to you become available!
+
+

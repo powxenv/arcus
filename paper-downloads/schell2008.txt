@@ -1,0 +1,512 @@
+Personality and Individual Diﬀerences 44 (2008) 288–298
+www.elsevier.com/locate/paid
+
+Associations among polychronicity, goal orientation, and
+error orientation
+Kraig L. Schell a,*, Jeﬀrey M. Conte b
+a
+b
+
+Department of Psychology, Angelo State University, 2601 W. Avenue N, San Angelo, TX 76909, USA
+Department of Psychology, San Diego State University, 5500 Campanile Dr, San Diego, CA 92182, USA
+Received 14 March 2007; received in revised form 19 June 2007; accepted 15 August 2007
+Available online 24 September 2007
+
+Abstract
+The current paper examines associations among measures of polychronicity, goal orientation, and error
+orientation with the intent of further explicating the nomological network surrounding polychronicity. Two
+samples of participants completed questionnaires measuring polychronicity, goal orientation, and error orientation: students from a South-western University (n = 302) and employees in a South-western City
+(n = 105). As hypothesized, polychronicity was related positively to learning goal orientation and negatively to performance-avoid goal orientation. In addition, performance-avoid goal orientation mediated
+the relationship between polychronicity and Error Strain orientation. Discussion emphasizes construct
+development as well as future research directions.
+Ó 2007 Elsevier Ltd. All rights reserved.
+Keywords: Polychronicity; Goal orientation; Error orientation; Nomological network
+
+1. Introduction
+Hall (1959, 1983) ﬁrst introduced and elaborated upon the construct of polychronicity, deﬁned
+as the preference for working on multiple tasks at once and a belief that such multi-tasking was
+*
+
+Corresponding author. Tel.: +1 325 942 2068; fax: +1 325 942 2290.
+E-mail address: kraig.schell@angelo.edu (K.L. Schell).
+
+0191-8869/$ - see front matter Ó 2007 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.paid.2007.08.009
+
+K.L. Schell, J.M. Conte / Personality and Individual Diﬀerences 44 (2008) 288–298
+
+289
+
+the best way to approach work. The antithesis of polychronicity would be monochronicity, deﬁned as the belief that serial task performance is the best way to work and that multi-tasking
+is generally a poor option. In the decades that followed, polychronicity did not generate much
+research, but recently a resurgence of interest has begun, involving researchers from psychology,
+management, and marketing (e.g., Bluedorn, 2002; Conte & Jacobs, 2003; Kaufman-Scarborough
+& Lindquist, 1999; Konig, Buhner, & Murling, 2005; Slocombe & Bluedorn, 1999). Most of this
+work has been focused on the development of the nomological network surrounding polychronicity so as to properly locate it in the overall construct space (e.g., Conte, Rizzuto, & Steiner, 1999).
+The current paper continues this work by examining associations among polychronicity and goal
+orientation with the intent of further explicating polychronicity’s nomological network.
+Past research has identiﬁed several variables that are related to polychronicity, although these
+relationships have also been shown to vary somewhat by sample (Conte & Jacobs, 2003; Ishizaka,
+Marshall, & Conte, 2001). Previously-studied variables include gender, age, the Big Five personality dimensions, turnover, sales performance, and absenteeism (Bluedorn, 2002; Conte & Gintoft,
+2005). For a summary of signiﬁcant empirical relationships between polychronicity and related
+variables, see Table 1 of Conte and Gintoft (2005). Given that polychronicity is still a relatively
+new construct, many potentially interesting relationships between polychronicity and other variables await study. Goal orientation is one such construct that provides intriguing theoretical questions relevant to polychronicity.
+1.1. Goal orientation and polychronicity
+Goal orientation has been frequently studied in the past decade or so (i.e., Breland & Donovan, 2005; Elliot & Harackiewicz, 1996; Hofmann, 1993; Phillips & Gully, 1997; Tan & Hall,
+2005). Brieﬂy, goal orientation is deﬁned as the mental structure through which goal situations
+are interpreted and that leads to behavioral choices in response to those situations. A large
+body of research has yielded two dominant models of the construct. A two-factor model separating goal orientation into a learning or mastery component and a performance component
+emerged ﬁrst (Button, Mathieu, & Zajac, 1995), followed by a three-factor model proposed a
+few years later which divided the performance component, adding a performance-avoid dimension (VandeWalle, 1997; VandeWalle, Brown, Cron, & Slocum, 1999). Those researchers who
+advocate for the three-factor model argue that the performance-avoid factor must be included
+because the other two orientations are both approach-related; the two-factor model does not
+provide for motivated decisions to escape a task situation and thus is one-dimensional (VandeWalle, 1997; VandeWalle et al., 1999; Zweig & Webster, 2004). Recent studies have presented
+evidence that the 3-factor model of goal orientation is likely to be the most valid one (Day,
+Radosevich, & Chasteen, 2003). It should be noted that a new line of research is exploring
+the idea of dividing learning goal orientation into a ‘‘learning-approach’’ and ‘‘learning-avoid’’
+factor (Elliot & Harackiewicz, 1996), but it is as yet unclear if this division of LGO is
+warranted.
+Goal orientation has potential theoretical ties to polychronicity that provide a foundation for
+the current investigation. First, the decision to approach or avoid some goal state is at least
+partially based in perceptions of its diﬃculty, which may be implied by its structure (Locke &
+Latham, 1990; Seijts, Latham, Tasa, & Latham, 2004; Wicker, Hamman, Reed, McCann, &
+
+290
+
+K.L. Schell, J.M. Conte / Personality and Individual Diﬀerences 44 (2008) 288–298
+
+Turner, 2005). If a particular goal requires multi-tasking behavior, those high in polychronicity
+should be more comfortable approaching it; by contrast, monochronic individuals should see
+multi-tasking as aversive. However, one question is whether polychronicity and goal orientation
+are related at the trait level rather than situationally. That is, in the absence of goal context, polychronicity may impact one’s tendency toward a particular goal orientation, or vice versa. We propose that polychronicity is more likely to relate to a learning goal orientation (LGO) because
+multi-tasking enhances one’s potential to learn and grow in competence without extensive focus
+on external evaluation (Cron, Slocum, VandeWalle, & Fu, 2005; VandeWalle, 2003). Secondly,
+LGO individuals are more error tolerant, seeing errors as logical extensions of the learning process. Since multi-tasking increases the likelihood of error per unit of time by probability alone,
+polychronic individuals must also tolerate and learn from error, which enhances personal enrichment (Heimbeck, Frese, Sonnentag, & Keith, 2003; VandeWalle, 2003). Polychronic behavior increases task complexity, may increase the probability of error, and improves learning
+opportunities, which suggests that polychronicity and LGO should be related at the construct level. Thus, we expect that polychronicity will be positively related to learning goal orientation
+(H1).
+There should also be a relationship between polychronicity and performance-avoid goal orientation (PAGO). PAGO individuals are averse to goal situations that include external standards perceived to be unattainable. They do not approach goals for the sake of learning, but
+instead only behave when the probability of failure is minimized. Therefore, PAGO is incompatible with polychronic attitudes, since polychronicity leads to preferences for multi-tasking
+and error tolerance and involves more complexity, increasing the chance of failure. Finally,
+we know that LGO and PAGO are negatively associated (Payne, Youngcourt, & Beaubien,
+2007). Thus, we also expect that polychronicity will be negatively related to performance-avoid
+goal orientation (H2).
+Finally, the performance-prove goal orientation (PPGO) is deﬁned as the tendency to approach
+goals in order to demonstrate one’s level of achievement and competence. The PPGO includes
+both approach and avoidance components, although it is likely to be slightly more avoidant
+according to the data (Payne et al., 2007). Unfortunately, in our review of the literature, we
+did not ﬁnd convincing evidence for hypothesizing a directional relationship between polychronicity and the PPGO at the trait level.
+1.2. Error orientation, polychronicity and goal orientation
+Implied in our discussion of goal orientation and polychronicity is that how an actor prefers
+and chooses to handle mishaps (i.e., errors) when they arise. This may provide a conceptual link
+between motivation and time attitudes like polychronicity. It is therefore logical to measure errorbased attitudes and behaviors to more fully clarify the link between these factors. Error orientation was ﬁrst discussed extensively by Rybowiak, Garst, Frese, and Batinic (1999) and has continued to be studied indirectly under the rubric of ‘‘error management’’ (e.g., Keith & Frese,
+2005). Error orientation describes one’s tendencies (attitudinal and behavioral) relevant to handling and processing errors that one makes. Currently, error orientation is thought to be composed of eight factors encompassing a variety of diﬀerent behaviors and attitudes: Error
+Competence, Learning from Errors, Error Risk Taking, Error Strain, Error Anticipation, Cover-
+
+K.L. Schell, J.M. Conte / Personality and Individual Diﬀerences 44 (2008) 288–298
+
+291
+
+ing Up Errors, Error Communication, and Thinking about Errors (Rybowiak et al., 1999). Error
+orientation is usually measured with a 37-item instrument. Curiously, to our knowledge, it has
+only been studied once in connection with goal orientation (Arenas, Tabernero, & Briones,
+2006) and never with polychronicity.
+Relationships between certain error orientations, goal orientation and polychronicity should
+exist for a number of reasons. First, goal orientation informs decisions about one’s goal behaviors, which follow from assessments of goal attainability and diﬃculty (e.g., Locke & Latham,
+1990; Seijts et al., 2004). An error probability assessment should be a part of these decisions,
+so one’s polychronic attitudes and beliefs may aﬀect the results of that error probability assessment. Thus, polychronicity and error orientations should be related because they both impact
+goal-based behaviors. For example, a learning goal orientation might be more probable where
+the individual is both more competent to handle errors and more polychronic. To capture the effect of error orientations on approach-related goal assessments, we must emphasize one’s preference and ability for successfully handling errors in a productive manner. The orientation that
+comes nearest this description is Error Competence, deﬁned as the perception of one’s ability
+to handle and recover from errors in the short-term (Rybowiak et al., 1999), so it will be utilized
+in this study.
+Second, polychronic individuals prefer multi-tasking environments; by mere probability, multitasking increases the likelihood with which errors can occur per unit of time. It is unlikely that a
+polychronic individual will be averse to errors since they prefer to engage situations where the
+base probabilities of those errors are likely to increase. Thus, certain error orientations may be
+related to polychronicity because of similarities in error-related attitudes. A good example is likely
+to be the error orientation labeled Error Strain (deﬁned as the extent to which errors induce stress
+in an individual). Error Strain should be lower in polychronic persons, since they must tolerate a
+greater chance of error and they should be more tolerant of errors in general. In addition, error
+handling in itself is an additional task to be managed, which also ﬁts within the polychronic construct deﬁnition. Thus, Error Strain should be another speciﬁc error orientation related to
+polychronicity.
+Error Competence and Error Strain should also share construct space with learning goal orientation and performance-avoid goal orientation, respectively. Error Competence is dependent
+on one’s sense of eﬃcacy in error situations. Since the LGO individual tends to have a stronger
+sense of self-eﬃcacy (Dweck, 1999), these two constructs should be related. Secondly, Error Strain
+is clearly in line with the performance-avoid goal orientation, which is deﬁned in terms of avoiding
+tasks due to concerns about one’s abilities and due to the anxiety that such concerns produce.
+Thus, we should expect that performance-avoid goal orientation and Error Strain should be related. Therefore, we expect that learning goal orientation (LGO) and Error Competence should
+be positively correlated (H3), and also that performance-avoid goal orientation (PAGO) and Error Strain should be positively correlated (H4).
+Finally, we argue that the goal orientation – error orientation relationships described should be
+more salient than relationships between error orientation and polychronicity. First, the construct
+deﬁnitions are more similar in a number of ways between goal and error orientations. Second,
+polychronicity is a broader attitude that can apply in a number of ways across situations to a wide
+variety of factors. Therefore, it is probably not a proximal factor in the prediction of behavior;
+studies have borne this out so far (Ishizaka et al., 2001). Therefore, we expect that goal orientation
+
+292
+
+K.L. Schell, J.M. Conte / Personality and Individual Diﬀerences 44 (2008) 288–298
+
+will be a mediator in this study because of its more proximal relationship with error orientation.
+We therefore expect that two mediation paths should be discernable: ﬁrst, learning goal orientation (LGO) will fully mediate the relationship between polychronicity and Error Competence
+(H5), and second, performance-avoid goal orientation (PAGO) will fully mediate the relationship
+between polychronicity and Error Strain (H6).
+
+2. Method
+2.1. Participants
+Four hundred and seven participants completed the study’s requirements. These were from
+two samples: students from a Southwestern University in the USA (n = 302) and employees
+in a South-western City in the USA (n = 105). Course credit was given to students. Employee
+data was collected as part of another project under the direction of the ﬁrst author. In the student sample, there were 72 men and 219 women (11 failed to report data), and in the employee
+sample, there were 35 men and 70 women. Also, in the student sample, the mean age was 22.8
+years (SD = 6.03) and the median age was 21 years (15 failed to report data). In the employee
+sample, the mean age was 44.5 years (SD = 9.88) and the median age was 46 years (6 failed to
+report data).
+2.2. Measures
+Polychronicity. Polychronicity was measured using a 10-item scale assessing polychronic values
+reﬂected in the construct deﬁnition (Bluedorn, Kalliath, Strube, & Martin, 1999). Each item was
+scored from 1 (strongly disagree) to 7 (strongly agree), and half of the items were scored in reverse.
+Examples of the polychronicity items are ‘‘I prefer to do one thing at a time’’ and ‘‘I believe people
+should try to do many things at once’’. The internal consistency reliability of the polychronicity
+scale was .88 (student sample) and .84 (employee sample).
+Goal orientation. Goal orientation was measured using the 3-factor measure developed by VandeWalle (1997). The measure uses a scale from 1 (strongly disagree) to 6 (strongly agree). The
+measure has 13 items such as ‘‘I often look for new opportunities to develop new skills and knowledge’’, ‘‘I try to ﬁgure out what it takes to prove my ability to others at work’’, and ‘‘I prefer to
+avoid situations at work where I might perform poorly’’. The internal consistency reliability of the
+learning, performance-prove, and performance-avoid scales in this 3-factor measure were .84
+(LGO), .84 (PPGO), and .87 (PAGO) for the student sample, and .85 (LGO), .88 (PPGO), and
+.88 (PAGO) for the employee sample.
+Error Orientation. The Error Orientation Questionnaire (Rybowiak et al., 1999) is a 37-item
+self-report instrument measuring eight factors concerning attitudes toward and coping with making errors. Each item requires a response from 1 (not at all) to 5 (completely) and the instrument
+does not incorporate reverse scoring procedures. The two subscales used in this study were Error
+Competence (4 items) and Error Strain (5 items). Example items are ‘‘When I do something wrong
+at work, I correct it immediately’’ and ‘‘I feel embarrassed when I make an error’’. The internal
+consistency reliabilities of these two subscales were .61 (Error Competence) and .73 (Error Strain)
+
+K.L. Schell, J.M. Conte / Personality and Individual Diﬀerences 44 (2008) 288–298
+
+293
+
+for the student sample, and .74 (Error Competence) and .74 (Error Strain) for the employee sample. Reliability was notably low for Error Competence, but this has been observed before (Rybowiak et al., 1999).
+2.3. Procedure
+Questionnaires were administered to the student sample both in group settings and through the
+use of a customized web delivery form; for the employee sample, all data was collected through
+the web form. Code numbers were used to guarantee anonymity. Students were instructed to consider any mention of ‘‘work’’ in the survey items to refer to either a job that they currently held or
+one that they recently held. Because the university sampled is largely commuter in nature, outside
+jobs are very common and important for students.
+
+3. Results
+Table 1 displays means and standard deviations for both samples on important constructs. The
+summary data were consistent with expectations. Sample sizes vary across variables due to missing values; these cases were removed per analysis on a pairwise basis.
+Table 2 displays zero-order correlations and reliabilities for goal orientation, polychronicity
+and the error orientation subscales. The reliabilities for the scales were mostly adequate. Second, the correlational structure of the VandeWalle goal orientation instrument was similar to
+that found in other research (e.g., Payne et al., 2007; VandeWalle, 1997) and was similar across
+samples. Third, diﬀerences were observed in the correlations between polychronicity and the
+two performance-based orientation scales (PPGO, PAGO) between samples. These diﬀerences
+were not signiﬁcant (all t values >.05), so we concluded that the two samples were generally
+comparable.
+Hypothesis 1 posited that learning goal orientation (LGO) and polychronicity should be positively correlated. The data indicate that this was the case (students, r (302) = 0.20; employees, r
+
+Table 1
+Descriptive statistics for polychronicity, goal orientation and error orientation scales
+Students
+LGO
+PPGO
+PAGO
+Polychronicity
+Error Competence
+Error Strain
+
+Employees
+
+N
+
+Mean
+
+SD
+
+N
+
+Mean
+
+SD
+
+302
+302
+302
+296
+294
+294
+
+23.33
+17.31
+13.46
+36.98
+14.66
+14.79
+
+3.57
+4.07
+4.44
+10.98
+2.53
+4.07
+
+105
+105
+105
+105
+96
+96
+
+26.04
+15.04
+10.48
+40.91
+15.78
+13.40
+
+3.02
+4.90
+4.24
+10.65
+2.55
+4.46
+
+t
+6.94*
+4.67*
+6.00*
+3.16*
+3.69*
+2.78
+
+LGO = learning goal orientation. PPGO = performance-prove goal orientation. PAGO = performance-avoid goal
+orientation.
+*
+Means for the two samples are signiﬁcantly diﬀerent at p < .005 (chosen to reduce family-wise error).
+
+294
+
+K.L. Schell, J.M. Conte / Personality and Individual Diﬀerences 44 (2008) 288–298
+
+Table 2
+Correlations among goal orientation, polychronicity and error orientation scales
+Variable
+
+LGO
+
+PPGO
+
+PAGO
+
+PChr
+
+EC
+
+ES
+
+1. LGO
+2. PPGO
+3. PAGO
+4. Polychronicity (PChr)
+5. Error Competence (EC)
+6. Error Strain (ES)
+
+(.84, .85)
+.11*, .07
+.24 , .28
+.20 , .25
+.23 , .30
+.23 , .05
+
+(.84, .88)
+.43 , .40
+.02, .18*
+.17 , .16
+.29 , .31
+
+(.87, 88)
+.14 , .02
+.13*, .04
+.36 , .42
+
+(.88, .84)
+.09, .04
+.10*, .23*
+
+(.61, .73)
+.03, .05
+
+(.74, .74)
+
+Note: * = p < .05. = p < .01, one-tailed. Reliabilities are on the diagonal. The following format is used for correlations
+and reliabilities: (student sample, employee sample). LGO = learning goal orientation. PPGO = performance-prove
+goal orientation. PAGO = performance-avoid goal orientation.
+
+(104) = 0.25; p < .01). Therefore, Hypothesis 1 was supported. Hypothesis 2 proposed that performance-avoid goal orientation (PAGO) and polychronicity would be negatively related. The data
+indicated that the correlation between these two factors in the student sample was signiﬁcant (r
+(302) = .14, p < .01); however, the same correlation in the employee sample was not. Thus,
+Hypothesis 2 received partial support.
+Hypotheses 3 and 4 addressed correlations between LGO, PAGO and error orientations. First,
+LGO and Error Competence were expected to be positively correlated; this was indeed the case
+(students, r (292) = 0.23; employees, r (96) = 0.30; p < .01). Second, PAGO and Error Strain were
+expected to be positively correlated. Again, this expectation was supported (students, r
+(291) = 0.36; employees, r (96) = 0.42; p < .01). Therefore, both Hypotheses 3 and 4 were
+supported.
+Finally, we expected that LGO would mediate the relationship between polychronicity and Error Competence, and that PAGO would mediate the relationship between polychronicity and Error Strain. These analyses were conducted by collapsing across samples and applying Sobel’s test
+for mediation (Baron & Kenny, 1986; Sobel, 1982). The following steps were used. First, regression analyses were conducted predicting the mediators (LGO and PAGO) with polychronicity.
+Next, two regression analyses were conducted: polychronicity and LGO predicting Error Competence and polychronicity and PAGO predicting Error Strain. Finally, the products of the appropriate beta weights were divided by a pooled variance estimate. For more detail, consult Preacher
+and Hayes (2004). Hypothesis H5 regarding the mediation of the relationship between polychronicity and Error Competence by LGO was not supported (t (387) = 1.89, p > .05). However, the
+data did show support for Hypothesis H6, the mediation of polychronicity and Error Strain by
+PAGO (t (387) = 2.91, p < .01).
+
+4. Discussion
+In this paper, we explored associations among polychronicity, goal orientation, and error orientation in two separate samples, expecting speciﬁc relationships to exist based on extant theory
+and research. In short, we expected that learning goal orientation (LGO) would be positively related to polychronicity and that performance-avoid goal orientation (PAGO) would be negatively
+
+K.L. Schell, J.M. Conte / Personality and Individual Diﬀerences 44 (2008) 288–298
+
+295
+
+related to polychronicity. We also expected that LGO would be positively related to Error Competence and that PAGO would be positively related to Error Strain. Finally, we expected goal orientations to mediate the relationships between polychronicity, Error Competence and Error
+Strain. With the exception of the mediating eﬀect of LGO on the polychronicity – Error Competence relationship, all hypotheses were either partially or fully supported.
+Weak relationships between PAGO and polychronicity were found. They could suggest that the
+polychronicity construct does not relate directly to error tendencies, error probabilities, and other
+personal ramiﬁcations of errors. It is also possible that attitudes concerning the use and value of
+time are relatively independent of attitudes with respect to errors and how to properly handle
+them (i.e., avoid them or tolerate them). A second explanation may be connected to the mean differences in overall PAGO between the samples. The employees surveyed were signiﬁcantly lower
+in PAGO than the students, and the evaluative component of work in a school setting is likely to
+be more salient than in a work setting. Students are graded frequently in school compared to the
+performance evaluations that an employee might receive. Thus, PAGO may not be a useful orientation in a work setting, and employees may disassociate it from their attitudes on multitasking.
+The relationship between error orientation and goal orientation suggests that individuals who
+are oriented toward approaching tasks for the beneﬁt of competency (LGO) are also skilled at
+noticing and correcting errors when they arise (Error Competence). This ﬁnding is consistent with
+previous work that indicated that LGO individuals tend to be more persistent, which implies that
+errors are being committed and corrected. Also, errors can provide useful information about competencies and LGO individuals should be more likely to extract that information (Dweck & Leggett, 1988; VandeWalle, 1997). On the other hand, the relationship between performance-avoid
+goal orientation (PAGO) and Error Strain suggests that one mechanism responsible for inducing
+inhibition motives is at least in part rooted in aﬀective and stress-based responses to errors. It has
+been suggested that PAGO individuals tend to be dominated neurologically by their inhibition
+systems (e.g., Gray & McNaughton, 2000), a notion that ﬁts with the observed data in this study
+well.
+Finally, mediated relationships between polychronicity and error orientation were expected because polychronicity is an attitudinal variable, whereas Error Strain and Error Competence are
+based in behavioral responses to errors. Though goal orientation has an attitudinal component,
+the nature of the construct is more active and it is easier for respondents to visualize the goals
+(and error events) about which they are responding. Polychronicity is a broader attitude that is
+not necessarily connected to speciﬁc events or goals. This logic is similar to that used by Mischel
+(1968) when he discussed ‘‘distal’’ and ‘‘proximal’’ inﬂuences on performance. However, only the
+avoidance-oriented mediation path was supported in these data. Closer examination of the data
+pattern suggests that, at low levels of PAGO, the relationship between polychronicity and Error
+Strain was slightly negative, where polychronicity was associated with lower reported stress from
+errors. At high PAGO levels, however, the directionality became positive, where polychronicity
+was associated with more self-reported error stress. Thus, polychronicity appears to be a problematic attitude in situations where an avoidant goal orientation is triggered. Perhaps an individual
+who is unlikely to be avoidant in their goal orientation is more likely to see polychronicity as useful,
+whereas another individual who tends toward an avoidant orientation views polychronicity as detrimental due to the added probability of failure (i.e., error). Further research should ﬂesh this out.
+
+296
+
+K.L. Schell, J.M. Conte / Personality and Individual Diﬀerences 44 (2008) 288–298
+
+Practically, these data are intriguing because practice strategies, task types, and other situational variables can inﬂuence goal orientation scores (Elliot & Harackiewicz, 1996). Our data,
+however, is context-independent, and so the relationships observed are more likely to exist at
+the trait level. The ﬁnding that polychronic individuals are more likely to be learning-goal oriented is important because it suggests that the time-based preferences for multi-tasking is a central
+attitude of mastery-oriented persons. Prioritizing time polychronically may be a useful strategy
+for task completion in general, and future work should examine the relationship between innovative work behaviors and polychronicity.
+Some possible limitations to these data should be noted. First, we recognize the potential for
+method bias, since all data in the study are self-reported. Nevertheless, this is the ﬁrst study to
+examine associations among polychronicity and goal orientation, and access to employee samples
+often demands the use of self-report methods. Second, the student sample was one of convenience,
+and generalization to the work world may have been compromised. The use of a sample of
+employees minimizes this limitation, but future work should continue to examine these relationships in ﬁeld studies. Finally, as mentioned previously, these data are context-independent in that
+no task was required of participants. The associations among these variables may change when
+participants are placed in a situation where they must behaviorally demonstrate trait levels on
+these factors; this is a question for future work.
+
+Acknowledgements
+The authors would like to acknowledge our undergraduate research team at Angelo State University for valuable data collection and coding service, and two anonymous reviewers for important comments and insight.
+
+References
+Arenas, A., Tabernero, C., & Briones, E. (2006). Eﬀects of goal orientation, error orientation and self-eﬃcacy on
+performance in an uncertain situation. Social Behavior and Personality, 34, 569–586.
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological
+research: conceptual, strategic, and statistical considerations. Journal of Personality and Social Psychology, 51,
+1173–1182.
+Bluedorn, A. C. (2002). The human organization of time: temporal realities and experience. Stanford, CA: Stanford
+University Press.
+Bluedorn, A. C., Kalliath, T. J., Strube, M. J., & Martin, G. D. (1999). Polychronicity and the inventory of polychronic
+values (IPV): the development of an instrument to measure a fundamental dimension of organizational culture.
+Journal of Managerial Psychology, 14, 205–230.
+Breland, B. T., & Donovan, J. J. (2005). The role of state goal orientation in the goal establishment process. Human
+Performance, 18, 23–53.
+Button, S. B., Mathieu, J. E., & Zajac, D. M. (1995). Goal orientation in organizational research: a conceptual and
+empirical foundation. Organizational Behavior and Human Decision Processes, 67, 26–48.
+Conte, J. M., & Gintoft, J. N. (2005). Polychronicity, Big Five personality dimensions, and sales performance. Human
+Performance, 18, 427–444.
+
+K.L. Schell, J.M. Conte / Personality and Individual Diﬀerences 44 (2008) 288–298
+
+297
+
+Conte, J. M., & Jacobs, R. R. (2003). Validity evidence linking polychronicity and Big Five personality dimensions to
+absence, lateness, and supervisory ratings of performance. Human Performance, 16, 107–129.
+Conte, J. M., Rizzuto, T. E., & Steiner, D. D. (1999). A construct-oriented analysis of individual- level polychronicity.
+Journal of Managerial Psychology, 14, 269–287.
+Cron, W. L., Slocum, J. W., Jr., VandeWalle, D., & Fu, O. (2005). The role of goal orientation on negative
+emotions and goal setting: When initial performance falls short of one’s performance goal. Human
+Performance, 18, 55–80.
+Day, E. A., Radosevich, D. J., & Chasteen, C. S. (2003). Construct- and criterion-related validity of four commonly
+used goal orientation instruments. Contemporary Educational Psychology, 28, 434–464.
+Dweck, C. S. (1999). Self-theories: their role in motivation, personality and development. New York: Psychology
+Press.
+Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. Psychological
+Review, 95, 256–273.
+Elliot, A. J., & Harackiewicz, J. (1996). Approach and avoidance goals and intrinsic motivation: a mediational analysis.
+Journal of Personality and Social Psychology, 76, 628–644.
+Gray, J. A., & McNaughton, N. (2000). The neuropsychology of anxiety (2nd ed.). Oxford: Oxford University Press.
+Hall, E. T. (1959). The silent language. New York, NY: Anchor Books.
+Hall, E. T. (1983). The dance of life. Garden City, NY: Anchor Press.
+Heimbeck, D., Frese, M., Sonnentag, S., & Keith, N. (2003). Integrating errors into the training process: the function of
+error management instructions and the role of goal orientation. Personnel Psychology, 56, 333–361.
+Hofmann, D. A. (1993). The inﬂuence of goal orientation on task performance: a substantively meaningful suppressor
+variable. Journal of Applied Social Psychology, 23, 1827–1846.
+Ishizaka, K., Marshall, S. P., & Conte, J. M. (2001). Individual diﬀerences in attentional strategies in multitasking
+situations. Human Performance, 14, 339–358.
+Kaufman-Scarborough, C., & Lindquist, J. D. (1999). Time management and polychronicity: comparisons, contrasts,
+and insights for the workplace. Journal of Managerial Psychology, 14, 288–312.
+Keith, N., & Frese, M. (2005). Self-regulation in error management training: emotion control and metacognition as
+mediators of performance eﬀects. Journal of Applied Psychology, 90, 677–691.
+Locke, E. A., & Latham, G. P. (1990). A theory of goal setting and task performance. Englewood Cliﬀs, NJ: PrenticeHall.
+Mischel, W. (1968). Personality and assessment. New York: Wiley.
+Payne, S. C., Youngcourt, S. S., & Beaubien, J. M. (2007). A meta-analytic examination of the goal orientation
+nomological net. Journal of Applied Psychology, 92, 128–150.
+Phillips, J. M., & Gully, S. M. (1997). Role of goal orientation, ability, need for achievement, and locus of control in the
+self-eﬃcacy and goal-setting process. Journal of Applied Psychology, 82, 792–802.
+Preacher, K. J., & Hayes, A. F. (2004). SPSS and SAS procedures for estimating indirect eﬀects in simple mediation
+models. Behavior Research Methods, Instruments, and Computers, 36, 717–731.
+Rybowiak, V., Garst, H., Frese, M., & Batinic, B. (1999). Error Orientation Questionnaire (EOQ): reliability, validity
+and diﬀerent language equivalence. Journal of Organizational Behavior, 20, 527–547.
+Seijts, G. H., Latham, G. P., Tasa, K., & Latham, B. W. (2004). Goal setting and goal orientation: an integration of two
+diﬀerent yet related literatures. Academy of Management Journal, 47, 227–239.
+Slocombe, T. E., & Bluedorn, A. C. (1999). Organizational behavior implications of the congruence between preferred
+polychronicity and experienced work-unit polychronicity. Journal of Organizational Behavior, 20, 75–99.
+Sobel, M. E. (1982). Asymptotic intervals for indirect eﬀects in structural equations models. In S. Leinhart (Ed.),
+Sociological methodology, pp.290–312.
+San Francisco: Jossey- BassTan, J. A., & Hall, R. J. (2005). The eﬀects of social desirability bias on applied measures of
+goal orientation. Personality and Individual Diﬀerences, 38, 1891–1902.
+VandeWalle, D. (1997). Development and validation of a work domain goal orientation. Educational and Psychological
+Measurement, 57, 995–1015.
+VandeWalle, D. (2003). A goal orientation model of feedback seeking behavior. Human Resource Management Review,
+13, 581–605.
+
+298
+
+K.L. Schell, J.M. Conte / Personality and Individual Diﬀerences 44 (2008) 288–298
+
+VandeWalle, D., Brown, S. P., Cron, W. L., & Slocum, J. W. Jr., (1999). The inﬂuence of goal orientation and
+self-regulation tactics on sales performance: a longitudinal ﬁeld test. Journal of Applied Psychology, 84,
+249–259.
+Wicker, F. W., Hamman, D., Reed, J. H., McCann, E. J., & Turner, J. E. (2005). Goal orientation, goal diﬃculty, and
+incentive values of academic goals. Psychological Reports, 96, 681–689.
+Zweig, D., & Webster, J. (2004). Validation of a multidimensional measure of goal orientation. Canadian Journal of
+Behavioral Science, 36, 232–248.
+
+

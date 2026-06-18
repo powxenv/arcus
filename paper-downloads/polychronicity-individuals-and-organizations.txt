@@ -1,0 +1,2964 @@
+Workplace Temporalities
+Polychronicity, Individuals, and Organizations
+Allen C. Bluedorn
+
+Article information:
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+To cite this document: Allen C. Bluedorn. "Polychronicity, Individuals, and
+Organizations" In Workplace Temporalities. Published online: 09 Mar 2015; 179-222.
+Permanent link to this document:
+http://dx.doi.org/10.1016/S0277-2833(07)17006-0
+Downloaded on: 15 December 2016, At: 05:41 (PT)
+References: this document contains references to 52 other documents.
+To copy this document: permissions@emeraldinsight.com
+The fulltext of this document has been downloaded 89 times since 2015*
+
+Users who downloaded this article also downloaded:
+(1999),"Polychronicity and the Inventory of Polychronic Values (IPV): The
+development of an instrument to measure a fundamental dimension of organizational
+culture", Journal of Managerial Psychology, Vol. 14 Iss 3/4 pp. 205-231 http://
+dx.doi.org/10.1108/02683949910263747
+(2007),"Individual Temporality in the Workplace: How Individuals Perceive and Value
+Time at Work", Research in the Sociology of Work, Vol. 17 pp. 147-177
+
+Access to this document was granted through an Emerald subscription provided by
+emerald-srm:376395 []
+
+For Authors
+If you would like to write for this, or any other Emerald publication, then please
+use our Emerald for Authors service information about how to choose which
+publication to write for and submission guidelines are available for all. Please visit
+www.emeraldinsight.com/authors for more information.
+
+About Emerald www.emeraldinsight.com
+Emerald is a global publisher linking research and practice to the benefit of society.
+The company manages a portfolio of more than 290 journals and over 2,350 books and
+book series volumes, as well as providing an extensive range of online products and
+additional customer resources and services.
+Emerald is both COUNTER 4 and TRANSFER compliant. The organization is a partner
+of the Committee on Publication Ethics (COPE) and also works with Portico and the
+LOCKSS initiative for digital archive preservation.
+*Related content and download information correct at time of download.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+POLYCHRONICITY, INDIVIDUALS,
+AND ORGANIZATIONS
+Allen C. Bluedorn
+ABSTRACT
+Polychronicity is the extent to which people prefer to be engaged in two
+or more tasks simultaneously. Relationships between polychronicity and
+four variables were examined in data from four samples totaling 1,173
+participants. Only one statistically significant relationship occurred
+between polychronicity and propensity for creativity after controlling for
+other variables. Consistent significant relationships were found, however,
+between polychronicity and orientation to change (positive), tolerance for
+ambiguity (positive), and organizational attractiveness (positive or negative depending on whether the organization demonstrated a high or low
+level of polychronicity, respectively). Concatenated replications reproduced
+each of these three relationships in at least two samples.
+
+To say that someone cannot chew gum and walk at the same time is dismissive, not just of the person’s intellect, but of the individual’s very ability
+to manage life itself. For life seldom presents itself arrayed in convenient
+sequences that allow a person to complete a single task at a pace of one’s
+liking before beginning another. Instead, life delivers tasks in bunches,
+which occur in uneven bursts, so the option to be concerned solely with one
+task or event at a time seldom presents itself. This means the real choices are
+Workplace Temporalities
+Research in the Sociology of Work, Volume 17, 179–222
+Copyright r 2007 Elsevier Ltd.
+ISSN: 0277-2833/doi:10.1016/S0277-2833(07)17006-0
+
+179
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+180
+
+ALLEN C. BLUEDORN
+
+about how many things to engage at once, and people’s preferences about
+this choice are a phenomenon known as polychronicity.
+Polychronicity is ‘‘the extent to which people (1) prefer to be engaged in
+two or more tasks or events simultaneously and are actually so engaged (the
+preference strongly implying the behavior and vice versa) and (2) believe
+their preference is the best way to do things’’ (Bluedorn, 2002, p. 51). As
+Bluedorn (2002, p. 52) notes, the concept of simultaneously in the preceding
+deﬁnition can refer to literally doing two or more things at the same time,
+such as chewing gum while walking, two tasks that seem to combine well, or
+to talking on a cellular phone while driving, two tasks that combine poorly
+(McEvoy et al., 2005; Redelmeier & Tibshirana, 1997). But simultaneously
+may also refer to switching back-and-forth between several projects, often
+several times, rather than working through a set of several projects serially.
+As a description of fundamental individual and cultural differences, Hall
+(1959) was the ﬁrst social scientist to describe this difference; he was also the
+one to apply the polychronic label to it (e.g., Hall, 1983). More recently
+researchers in psychology (e.g., Conte & Gintoft, 2005; Conte, Rizzuto, &
+Steiner, 1999), marketing (e.g., Cotte & Ratnewshwar, 1999; Kaufman,
+Lane, & Lindquist, 1991), and management (e.g., Bluedorn, 2002; Hecht &
+Allen, 2005; Palmer & Schoorman, 1999; Slocombe & Bluedorn, 1999;
+Tinsley, 1998) have conducted qualitative and quantitative studies of polychronicity. Indeed, two entire issues of the Journal of Managerial Psychology
+and part of a third were devoted to the topic of polychronicity (Bluedorn,
+1999). But this burgeoning stream of research has just begun to identify
+organization science relevant variables to which polychronicity might be
+related (e.g., organizational commitment, role overload, negotiation behavior, etc.). For example, Bluedorn’s recent research on a sample of dental
+practices revealed that although there was no relationship between polychronicity and general life stress for nondentists in the practices, a robust
+negative relationship existed for the dentists, even after controlling for
+age, gender, and years with the practice (the greater the polychronicity, the
+lower the life stress). And in a simple path analysis, general life stress was
+strongly correlated, in turn, (negatively) with job satisfaction (Bluedorn,
+2002, pp. 65–67, 281–282). The ﬁndings from these several studies all suggest
+polychronicity is an important variable that characterizes the way individuals engage life—Bluedorn describes it as a ‘‘fundamental process strategy’’
+(p. 48)—and important as well in the culture-carrying collectivities in which
+individuals participate.
+Given the success of these studies in identifying relationships between polychronicity and both individual and organizational phenomena, I conducted
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+181
+
+a series of studies to extend these early ﬁndings and did so in a way to
+promote conﬁdence in the character of the results.
+Speciﬁcally, the series of three studies I report in this article continues
+the earlier research efforts by examining polychronicity’s relationships with
+(1) orientation to change, (2) propensity for creativity, (3) tolerance for
+ambiguity, and (4) judgments of organizations as attractive or unattractive
+places to work. In conducting this series of studies, I developed new methods for studying polychronicity and also tested several methodological
+issues associated with these methods. In doing so, it is my hope that the
+results of these tests would provide a more rigorous methodological examination of the potential ﬁndings and, therefore, produce greater conﬁdence
+in the results.
+In what follows I will present the three studies in the order in which they
+were conducted. Part of the reason for doing this is that some longitudinal
+connections exist between some of the studies, so this chronological ordering
+helps simplify their presentation. Further, it also allows me to present some
+of the thinking that went into conducting each subsequent study. So as
+I introduce each study, I will explain some of the theoretical questions that
+underlie it and hence suggest its importance. After presenting all three
+studies and their results, I will discuss the implications of the entire set of
+three studies, taken as a whole, for research on organizations and the world
+of work.
+
+STUDY 1
+This study examines the relationships among three variables: polychronicity,
+propensity for creativity, and orientation to change, with particular emphasis on polychronicity’s relationship with the other two variables. The study
+employs a two-sample design to learn if the results obtained from the ﬁrst
+sample can be replicated in the second.
+
+Concepts and Questions
+Orientation to Change
+That change is ubiquitous in contemporary organizations and societies is a
+cliché. So, it is not surprising that change holds a central place in major
+theories of contemporary organizations. For example, environmental contingency theory posits that the more dynamic the environments are in which
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+182
+
+ALLEN C. BLUEDORN
+
+organizations operate, the more ﬂexible and changeable (i.e., organic) organizations need to be in order to experience high levels of effectiveness (Burns &
+Stalker, 1961; Lawrence & Lorsch, 1967). Thus we can see that change occurs
+twice in what may be the most enduring of organization theories.
+Despite the theoretical and pragmatic centrality of change for modern
+organizations, most textbooks containing extended discussions of organizational change also include discussions of resistance to change (e.g., Bateman
+& Snell, 1999). Stanislao and Stanislao (1983) observed that resistance to
+change seems to arise regardless of a change’s content. Indeed, Baldwin (1985)
+once observed: ‘‘Most of us are about as eager to be changed as we were to be
+born, and go through our changes in a similar state of shock’’ (p. 643).
+Fortunately, variance in individual attitudes toward change in the workplace
+has also been observed (e.g., Jacobson, Trumbo, Cheek, & Naugle, 1959;
+Trumbo, 1961; Hardin, 1967). These observations suggest the existence of an
+individual-level orientation to change variable, which is deﬁned here as the
+extent of the individual’s overall preference for prospective and actual change
+in the workplace. Like polychronicity, this variable is seen as a general traitlike characteristic of an individual’s personality, albeit little research has
+been conducted on it. Obviously, resistance to change will have an important
+impact on the outcome of organizational change efforts, so factors related to
+it gain increased importance by that association. And polychronicity may be
+one of the variables associated with orientation to change.
+Hall and Hall (1990, p. 15) observed that highly polychronic people tend
+to change plans more often and easily than less polychronic individuals. This
+relationship suggests a general positive relationship between polychronicity
+and orientation to change. Indeed, the polychronicity phenomenon is
+usually characterized by a speciﬁc form of change: the degree of changing
+back-and-forth among speciﬁc tasks. So, because polychronicity is regarded
+as a trait-like personality variable (Slocombe & Bluedorn, 1999) that deals
+with a form of change—switching back-and-forth between projects and
+events—I developed the following research question:
+Research Question 1: Are individuals’ polychronicity preferences and behaviors related
+to their orientation to change, and if so, are the two variables positively correlated (i.e.,
+the higher the polychronicity, the more receptive the individual is to change and the
+more favorably the individual regards change)?
+
+Propensity for Creativity
+Creativity is a subset of organizational change (Woodman, Sawyer, &
+Grifﬁn, 1993), and following work by Gough (1979) and others (Oldham &
+Cummings, 1996), an individual’s propensity to be creative will be regarded
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+183
+
+as a stable aspect of personality (i.e., as a general inclination to develop and
+admire novel approaches to issues, problems, and situations). It seems to
+follow, then, that polychronicity and propensity for creativity might be
+positively correlated for two reasons. First, if polychronicity and orientation
+to change are positively correlated, then polychronicity and propensity for
+creativity should also be—if creativity is a speciﬁc form of change. Second,
+the shifting back-and-forth between different projects by more polychronic
+individuals ought to result in more cross-fertilization among their projects,
+which would lead to more creativity as problem solutions from one project
+migrate to others as solutions. These reasons lead to the following research
+question:
+Research Question 2: Are individuals’ polychronicity preferences and behaviors related
+to their propensity for creativity, and if so, are the two variables positively correlated
+(i.e., the higher the polychronicity, the greater propensity for creativity)?
+
+And because creativity is a subset of change (Woodman et al., 1993), the
+lines of thinking just presented suggest that propensity for creativity ought
+to be related to an individual’s general orientation to change, which leads to
+the following research question:
+Research Question 3: Is a more favorable orientation to change positively correlated with
+individuals’ propensities for creativity?
+
+Method
+Participants and Design
+Data were collected with questionnaires from two samples. The data comprising Sample 1 were collected from 493 students in one graduate and four
+undergraduate management classes at the University of Missouri-Columbia.
+The data comprising Sample 2 were collected ﬁve months after the data in
+Sample 1 were gathered, and were collected from 316 students in two large
+undergraduate management courses at the University of Missouri-Columbia.1
+
+Measures
+The same measures were used in the questionnaires completed by the
+respondents in both Sample 1 and Sample 2. Polychronicity was measured
+with the individual version of the 10-item inventory of polychronic values
+(IPV) (Bluedorn, Kalliath, Strube, & Martin, 1999); propensity for
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+184
+
+ALLEN C. BLUEDORN
+
+creativity was measured with Gough’s (1979) creative personality scale
+(CPS), as modiﬁed by Oldham and Cummings (1996). These measures were
+used without modiﬁcation because their validities and reliabilities had
+been demonstrated in other research (Bluedorn et al., 1999; Gough, 1979;
+Oldham & Cummings, 1996). Their alpha coefﬁcients (Cronbach, 1951) for
+Samples 1 and 2 were .90 and .89, respectively, for the IPV; and .65 and .60,
+respectively, for the CPS. Orientation to change was measured with a modiﬁed
+version of Trumbo’s (1961) scale (alpha coefﬁcients of .76 and .77, respectively). Respondents’ ages, genders, and grade point averages were obtained
+with single-item questions about these three variables. The means, standard
+deviations, and intercorrelations for all of these variables are presented in
+Table 1. (Note: More detailed descriptions of these and other measures used in
+the studies discussed in this article are presented in the Appendix.)
+
+Results
+To maintain consistency across all analyses, two-tailed tests were used to
+evaluate statistical signiﬁcance.
+Table 1. Variable Means, Standard Deviations, and Intercorrelations of
+Variables in Study 1: Samples 1 (below the diagonal) and 2 (above the
+diagonal).
+Variablea
+
+Mb
+
+SDb
+
+Mc
+
+SDc
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1. Age
+2. Genderd
+3. GPAe
+4. Propensity for
+creativity (.65; .60)
+5. Orientation to
+change (.76; .77)
+6. Polychronicity
+(.90; .89)
+
+21.25
+1.56
+3.05
+4.70
+
+2.31
+0.50
+0.53
+3.64
+
+21.06
+1.54
+3.01
+4.96
+
+2.30
+.50
+.51
+3.49
+
+–
+05
+01
+02
+
+20
+–
+12
+15
+
+05
+13
+–
+11
+
+07
+14
+07
+–
+
+07
+07
+14
+34
+
+02
+12
+12
+22
+
+3.30
+
+0.63
+
+3.36
+
+.64
+
+11
+
+05
+
+07
+
+28
+
+–
+
+39
+
+3.85
+
+1.14
+
+3.89
+
+1.11
+
+12
+
+10
+
+05
+
+15
+
+39
+
+–
+
+Note: Listwise N for Sample 1 ¼ 450; listwise N for Sample 2 ¼ 304. Correlations with magnitudes Z.10 and Z.12 are signiﬁcant at the .05 level for Samples 1 and 2, respectively (twotailed tests). Decimals have been omitted from the correlations to improve readability.
+a
+Numbers in parentheses are coefﬁcients alpha for Samples 1 and 2, respectively.
+b
+Sample 1.
+c
+Sample 2.
+d
+Gender was coded 1 ¼ female, 2 ¼ male.
+e
+GPA ¼ cumulative grade point average.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+185
+
+Research Question 1 addressed a potential relationship between an individual’s level of polychronicity and the person’s general orientation to
+change; and if a relationship existed, would the two variables be positively
+correlated, as a number of reasons would lead one to anticipate. A signiﬁcant positive correlation occurred between the two variables (r ¼ .39,
+pr.001 in both samples). Thus the two variables were positively correlated
+in both samples.
+Research Question 2 addressed a possible relationship between an individual’s level of polychronicity and propensity for creativity. A statistically signiﬁcant positive correlation was obtained in both samples (r ¼ .15, pr.001
+and r ¼ .22, pr.001 in Samples 1 and 2, respectively). Thus polychronicity
+and propensity for creativity were positively correlated in both samples.
+The reasoning involved with Research Questions 1 and 2 suggested
+orientation to change and propensity for creativity might be positively correlated, which led to Research Question 3 that asked if these two variables
+were positively correlated. Statistically signiﬁcant positive correlations were
+obtained (r ¼ .28, pr.001 and r ¼ .34, pr.001 in Samples 1 and 2, respectively) between the two variables.
+To examine the robustness of the results just presented, all of which
+were zero-order correlations, hierarchical regressions (not hierarchical linear
+modeling)2 were conducted in both samples such that four variables—age,
+gender, cumulative grade point average, and either propensity for creativity
+or orientation to change as appropriate—were entered in the ﬁrst step, followed by polychronicity in the second. As revealed in Table 2, the relationship
+between polychronicity and orientation to change revealed in the two zeroorder correlations in the two samples was supported by the hierarchical
+regression results in both samples. The relationship between polychronicity
+and propensity for creativity found in the zero-order correlations from both
+samples, however, was only supported by the hierarchical regression analyses
+in one of the two samples (Sample 2). Thus the results obtained with the zeroorder correlations between polychronicity and orientation to change were also
+obtained with the hierarchical regression results in both samples, but the
+results obtained with the zero-order correlations between polychronicity and
+propensity for creativity were only partially supported (in Sample 2).
+
+Discussion
+With one exception, the results provide consistent answers to all of the
+research questions. The more polychronic the respondents, the more
+
+186
+
+ALLEN C. BLUEDORN
+
+Table 2.
+
+Results of Hierarchical Regression Analyses for Study 1:
+Samples 1 and 2.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Independent Variable
+
+Sample 1
+Age
+Gender
+GPA
+Propensity for creativity
+Orientation to change
+Polychronicity
+R2 at each step
+DR2
+F for overall equation
+Sample 2
+Age
+Gender
+GPA
+Propensity for creativity
+Orientation to change
+Polychronicity
+R2 at each step
+DR2
+F for overall equation
+
+Standardized Regression Coefﬁcients (Betas)
+Orientation to Change
+
+Propensity for Creativity
+
+Step 1
+
+Step 2
+
+Step 1
+
+Step 2
+
+.11
+.08
+.09
+.30
+
+.07
+.04
+.08
+.24
+
+.02
+.15
+.11
+
+.03
+.16
+.11
+
+.29
+
+.10
+12.73
+
+.34
+.21
+.11
+23.40
+
+14.39
+
+.26
+.07
+.12
+.00
+12.01
+
+.03
+.04
+.16
+.34
+
+.03
+.08
+.13
+.26
+
+.04
+.09
+.11
+
+.04
+.11
+.11
+
+.33
+.14
+12.20
+
+.24
+.10
+18.38
+
+.12
+
+.34
+.14
+11.84
+
+.29
+.14
+.15
+.017
+10.79
+
+Note: Listwise Ns for Sample 1 were 450 for both the orientation to change and propensity for
+creativity analyses. Listwise Ns for Sample 2 were 304 for the analyses of both orientation to
+change and propensity for creativity. GPA is cumulative grade point average and gender was
+coded 1 ¼ female, 2 ¼ male.
+ pr.05.
+ pr.01.
+ pr.001. All tests were two-tailed.
+
+favorably orientated they were to change. These relationships were supported
+by the zero-order correlation tests and they persisted when age, gender, GPA,
+and propensity for creativity were introduced as control variables in hierarchical regression analysis. Indeed, the standardized regression coefﬁcients
+approximated closely the magnitudes of their respective zero-order correlations. The fact that the results supporting this relationship were so similar from two samples increases our conﬁdence about the nature of this
+relationship.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+187
+
+But the results were not as consistent regarding the relationship between
+polychronicity and propensity for creativity. Although both the zero-order
+correlations indicated a signiﬁcant positive relationship, the hierarchical
+regression analyses provided stronger tests of this relationship, and they
+produced mixed results. In the case of Sample 2, the hierarchical regression
+results supported the positive relationship between polychronicity and propensity for creativity found in the zero-order correlations. The hierarchical
+regression analysis of the Sample 1 data failed, however, to reveal a statistically signiﬁcant relationship at all. Thus the relationship between polychronicity and propensity for creativity was not supported as strongly as
+was the relationship between polychronicity and orientation to change,
+which was consistently supported in both zero-order correlation tests and in
+both hierarchical regression analyses.
+As anticipated, orientation to change and propensity for creativity were
+positively correlated, but because this relationship was not the core issue
+underlying this study (relationships with polychronicity were the core issue),
+it was not explored further. But the theoretical and practical importance
+of both orientation to change and propensity for creativity supports the
+continued investigation of possible relationships between polychronicity and
+these as well as other variables.
+
+STUDY 2
+The results from Study 1 revealed a relationship between polychronicity and
+an important factor in the management of contemporary organizations:
+an individual’s orientation to organizational change. Also supported, albeit
+not as strongly, was a positive relationship between polychronicity and
+propensity for creativity, which may be especially important when novelty
+occurs in an organization’s environment. Moreover, new questions emerged
+that I decided to investigate as well. One question involves the possibility
+that individuals’ polychronicities will inﬂuence their perceptions of an organization’s attractiveness as an employer. The other question is a methodological
+issue involved in testing the polychronicity–attractiveness relationship.
+Organizational attractiveness is deﬁned, consistent with Turban and
+Keon (1993), as current and prospective employees’ perceptions of how
+attractive an organization is as a place to work. According to AttractionSelection-Attrition theory (Schneider, 1987; Schneider, Goldstein, & Smith,
+1995) at least some personality traits should result in some organizations
+appearing more attractive as potential employers than others. The idea that
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+188
+
+ALLEN C. BLUEDORN
+
+some organizations would look more attractive is also suggested by a
+number of individual–organization congruence studies (e.g., Chatman,
+1991; Meglino, Ravlin, & Adkins, 1989), including one on individual and
+work-group polychronicity (Slocombe & Bluedorn, 1999).
+Moreover, organizational attractiveness can be seen as a key link in the
+chain of events that begins with factors leading an individual to accept a
+position, and which ultimately ends in turnover. In between, a variety of
+withdrawal behaviors can be observed that are often conceptualized as
+forming a continuum ranging from relatively minor (reduced effort) to major
+(turnover) forms of withdrawal (Melbin, 1961). One interpretation is that
+when some forms of withdrawal are difﬁcult, withdrawal may be expressed
+in one or more of the other forms (Price, 1977, p. 8). So, when employee
+turnover is deﬁned in process terms as ‘‘the degree of individual movement
+across the membership boundary of a social system’’ (Price, 1977, p. 4),
+organizational attractiveness is clearly an important variable involved in the
+part of the turnover process involving a person’s movement across the membership boundary into the organization. And given the effects of realistic job
+previews on subsequent employee turnover (Wanous, 1973, 1980) as well as
+this practice’s likely impact on the perceived attractiveness of an organization
+as an employer, a potential relationship between polychronicity and organizational attractiveness could well have important theoretical and practical
+implications.
+That polychronicity is likely to be related to organizational attractiveness is
+suggested by Conte and Jacobs’ (2003) ﬁndings that polychronicity was related
+to other forms of withdrawal behaviors, speciﬁcally, tardiness and absenteeism
+(the more polychronic the person, the more likely the person was to be absent
+or tardy). Further, Slocombe and Bluedorn (1999) found that the more similar
+individuals’ polychronicity levels were to the overall polychronicity levels of
+their work units, the higher their levels were of organizational commitment,
+which is a key variable in major models of the turnover process (e.g., Bluedorn,
+1982). Given polychronicity’s relationship with other withdrawal behaviors
+(absenteeism and tardiness) and at least one other variables in the turnover
+process (organizational commitment), it is reasonable to extend research on
+polychronicity to organizational attractiveness, which will be a consideration
+to prospective employees very early in the overall turnover process, that is,
+before a job is accepted or before, perhaps, a job is even sought in a speciﬁc
+organization. This leads to the following research question:
+Research Question 4: Is the similarity of individual and organizational polychronicity
+related to the individual’s perception of an organization as an attractive place to work,
+and if so, will the relationship be a positive correlation such that the greater the
+
+Polychronicity, Individuals, and Organizations
+
+189
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+similarity, the more attractive the organization will be perceived, and the lesser
+similarity, the less attractive the organization will be perceived?
+
+Failure to answer these questions afﬁrmatively would neither disconﬁrm
+Attraction-Selection-Attrition theory (Schneider, 1987; Schneider et al., 1995)
+nor the other research and theory cited because not every personality trait or
+individual characteristic is a salient attraction or selection factor for either the
+individual or the people making hiring decisions in an organization. Hence a
+major agenda of research on individual and organization congruence includes
+determining which individual and organizational characteristics result in
+selection, attraction, attrition, and other outcomes, such as job satisfaction
+and organizational commitment. Afﬁrmative answers to Research Question 4
+would suggest that polychronicity is one of these characteristics.
+This question was examined by presenting two scenarios to each respondent, which makes the order of scenario presentation a factor that could affect
+the results. Therefore, the study design varied the order in which the two
+scenarios were presented, which allows the effects of scenario order to be
+examined, to answer the following methodological question:
+Methodological Question 1: Does the order in which the scenarios are presented to
+respondents affect the respondents’ perceptions of how attractive the organizations
+depicted in the scenarios are as a place to work, and by that affect the relationship
+between polychronicity and organizational attractiveness?
+
+In addition to examining Research Question 4 and Methodological Question
+1, I decided to include tests of the relationships between polychronicity and
+both propensity for creativity and orientation to change that were found in
+both samples in Study 1. The tests, however, will be more rigorous than those
+conducted in Study 1. The greater rigor will stem from the addition of four
+more control variables to the hierarchical regressions—locus of control,
+which is ‘‘a generalized expectancy that rewards, reinforcements, or outcomes
+in life are controlled either by one’s own actions (internality) or by other
+forces (externality)’’ (Spector, 1988, p. 335); tolerance for ambiguity, which is
+‘‘a range, from rejection to attraction, of reactions to stimuli perceived as
+unfamiliar, complex, dynamically uncertain, or subject to multiple conﬂicting
+interpretations’’ (McClain, 1994, p. 184); propensity for creativity; and orientation to change. Locus of control was added as a control variable because
+it was associated with orientation to change in other research (Dunham,
+Grube, Gardner, Cummings, & Pierce, 1989); tolerance for ambiguity was
+added because Oldham and Cummings (1996) noted it has been associated
+with creativity in previous research, and it has also been related empirically to
+orientation to change (Dunham et al., 1989); and both orientation to change
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+190
+
+ALLEN C. BLUEDORN
+
+and propensity for creativity were added, where appropriate, to remove the
+effects of their shared variance with polychronicity, thereby allowing for a
+better examination of polychronicity’s effects in its own right. Moreover,
+another measure of orientation to change will be used in addition to the
+measure used in Study 1. By including two measures of orientation to change
+in the data set, the effects of its alternative operationalizations may be examined. Finally, to address the often exaggerated (Crampton & Wagner, 1994)
+concerns about common method variance, a split-administration design will
+be used whereby the measures will be divided between two questionnaires and
+each respondent will complete one questionnaire followed by the other several
+days later. Thus two additional questions, one research focused and one
+methodologically focused, will be addressed:
+Research Question 5: Will the same relationships between polychronicity and both
+orientation to change and propensity to creativity found in Study 1 be obtained after
+controlling for the effects of locus of control and tolerance for ambiguity?
+Methodological Question 2: Will differing measures of orientation to change alter the
+results?
+
+Method
+Participants and Design
+Students in the same two undergraduate management classes from which the
+data were collected that formed the second sample in Study 1 were offered the
+opportunity to take part in an extension of that project. In return for this
+participation they would receive extra credit amounting to approximately
+1 percent of their total grade. Of the students who elected to take part,
+248 had also completed a questionnaire in the second sample of Study 1.
+These 248 students are the sample for this study, and the combined data
+from the two questionnaires—which were matched through the use of identiﬁcation numbers3—completed by these respondents comprise the data for
+this study.
+Combining the data from the two questionnaires administered nine days
+apart allows for the examination of the relationships among several variables while minimizing the effects of common source and method variance
+because several of the variables were measured at different times. Scenarios
+describing high and low levels of polychronic behavior were included in the
+questionnaire taken for extra credit. And to test for a possible scenario order
+effect, in half of the questionnaires the low polychronicity scenario preceded
+
+Polychronicity, Individuals, and Organizations
+
+191
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+the high polychronicity scenario; in the other half, the high polychronicity
+scenario preceded the low.
+Measures
+All of the variables included in Study 1 (age, gender, GPA, polychronicity,
+propensity for creativity, and orientation to change) were also included in
+this study, and they were measured in the same way. (See details in the
+Appendix). Several new variables were added in this study, and they
+were measured as described next. Tolerance for ambiguity was measured
+with McLain’s (1993) 22-item scale, MSTAT-I. Locus of control was
+measured with the 24-item achievement component of Lefcourt’s (1981)
+multidimensional-multiattribution causality scale. Finally, a second measure
+of orientation to change was included: Dunham et al.’s (1989) 18-item
+attitude toward change instrument. The IPV was included to measure polychronicity on the second questionnaire as well, following the two scenarios.
+(See the Appendix for more detailed descriptions of all of these measures.)
+To summarize, in addition to age, gender, and GPA, the questionnaire
+administered at Time 1 (which was a 248-member subset of the second
+sample in Study 1), contained measures of the following variables: polychronicity (the IPV), propensity for creativity (Gough’s CPS scale), and
+orientation to change (the modiﬁed Trumbo scale). The questionnaire
+administered at Time 2 also gathered age, gender, and GPA data and
+included scenarios and questions to measure the attractiveness as potential
+employers of the organizations described in the scenarios. Measures of tolerance for ambiguity and locus of control, the measure of polychronicity
+(the IPV), and a different measure of orientation to change (Dunham et al.,
+1989) were also included in the Time 2 questionnaire.
+To measure organizational attractiveness, respondents answered the
+same two questions about each of the two scenarios. These questions were
+designed to reveal how attractive an organization as an employer was perceived to be by the respondents, and the two questions were combined to
+form an organizational attractiveness index. The alpha coefﬁcient (Cronbach,
+1951) for the low polychronicity scenario was .94, and it was .91 for the high
+polychronicity scenario. (See the Appendix for the questions themselves
+and more details about this index.) The scenarios themselves are page-long
+descriptions of a manager at work, and they were developed and presented in
+Bluedorn et al. (1999), who thoroughly validated them through a variety of
+methods, all of which indicated that the low polychronicity scenario described
+an organization where monochronic managerial behavior (a low level of
+polychronicity) was preferred and that the high polychronicity scenario
+
+192
+
+ALLEN C. BLUEDORN
+
+described an organization where highly polychronic managerial behavior
+was preferred. The means, standard deviations, and intercorrelations for the
+variables in this study are presented in Table 3.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Results
+This study focused on examining Research Question 4 to see if polychronicity was related to organizational attractiveness, and if so, if the more
+polychronic the individual, the more attractive the person would perceive an
+organization to be in which polychronic behaviors were frequently displayed
+and were highly valued. And conversely, if the more polychronic the individual, the less attractive the person would perceive an organization to be in
+which a low amount of polychronic behaviors were displayed, and in which
+this low display was highly valued. As such, the ﬁrst answers come in an
+examination of the zero-order correlations between polychronicity and the
+attractiveness of the high and low polychronicity scenarios, and the design
+of this study allows two tests of each of these correlations. As in Study 1,
+to maintain consistency across all analyses, two-tailed tests were used to
+evaluate statistical signiﬁcance.
+The correlations between polychronicity measured at Time 1 and the
+attractiveness of the high and low polychronicity scenarios (which were
+measured at Time 2) were r ¼ .32 (pr.001) and r ¼ .25 (pr.001), respectively. The correlations between polychronicity measured at Time 2 (nine
+days later and on the same questionnaire in which the scenarios were presented) and the attractiveness of the high and low polychronicity scenarios,
+also measured at Time 2, were r ¼ .47 (pr.001) and r ¼ .41 (po.001),
+respectively. In terms of the zero-order correlations, there is a relationship
+between polychronicity and organizational attractiveness, and the greater
+the similarity between individual and organizational polychronicity, the
+more attractive the organization appeared to the individual. Although there
+appears to be some attenuation of the relationships when polychronicity and
+attractiveness are measured at different times (correlations of .32 versus
+.47 and .25 versus .41), the relationships still hold. But a more rigorous
+test of these relationships is hierarchical regression (see note 2), the results of
+which are presented next.
+As revealed in Table 4, after controlling for the effects of seven variables—
+age, gender, GPA, tolerance for ambiguity, locus of control, creative tendencies, and orientation to change, the relationship between polychronicity
+measured at Time 1 and the attractiveness of the low polychronicity scenario
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Variable
+
+Means, Standard Deviations, and Intercorrelations of Variables in Study 2.
+M
+
+SD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+1. Age
+20.81 1.15
+2. Gender
+1.52
+.50
+24
+3. GPA
+2.98
+.51 15 16
+4. Change affective
+5.37
+.82 08 08 04 (83)
+5. Change behavioral
+5.37
+.79 04 08 12
+71 (83)
+6. Change cognitive
+5.23
+.74 06 18
+03
+68
+69 (80)
+7. Change overall
+5.32
+.70 07 12 05
+90
+90
+88 (92)
+8. Change Trumbo
+3.38
+.63 08
+11
+06
+49
+43
+33
+47 (76)
+9. Propensity for creativity 5.06 3.45 08
+08 12
+24
+33
+25
+31
+31 (61)
+10. Locus of control
+43.22 10.42 01
+19 15 01
+05 16 04
+03
+11 (75)
+11. Tolerance for ambiguity 4.43
+.67 08
+05 11
+50
+53
+37
+52
+47
+47 05 (89)
+12. PolychronicityTime 1
+3.90 1.13 12 16
+08
+38
+24
+30
+34
+30
+19 19
+31 (94)
+13. PolychronicityTime 2
+4.14 1.24 10 20
+12
+36
+26
+36
+37
+33
+17 14
+38
+73 (90)
+14. Attractiveness low
+3.58 1.44
+06
+10 07 11 15 19 17 12 08
+05
+17 25 41 (94)
+15. Attractiveness high
+4.85 1.39 16 15
+07
+33
+28
+37
+36
+19
+18 08
+30
+32
+47 40 (91)
+16. Scenario order
+1.50
+.50 13 07 16
+05
+17
+03
+10
+05
+05
+02
+09 04
+01
+00 17 –
+
+Polychronicity, Individuals, and Organizations
+
+Table 3.
+
+Note: Listwise N ¼ 230. The numbers in parentheses on the diagonal are coefﬁcients alpha. Coefﬁcients with magnitudes Z.13 are signiﬁcant
+at the .05 level (two-tailed tests). Decimals have been eliminated from the correlations and alphas to improve readability. Change overall is the
+full Dunham et al. scale; change Trumbo is the modiﬁed Trumbo change scale. GPA is cumulative grade point average; gender was coded
+1 ¼ female, 2 ¼ male; and scenario order was coded 1 ¼ low polychronicity scenario ﬁrst, 2 ¼ high polychronicity scenario ﬁrst.
+
+193
+
+194
+
+ALLEN C. BLUEDORN
+
+Table 4. Hierarchical Regression Analysis for Attractiveness of the Low
+and High Polychronicity Scenarios.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Independent Variable
+
+Standardized Regression Coefﬁcients (Betas)
+Low Polychronicity Scenario
+
+High Polychronicity Scenario
+
+Step 1
+
+Step 1
+
+Step 2
+
+Step 3
+
+Polychronicity measured at Time 1
+Age
+.00
+Gender
+.09
+GPA
+.06
+Orientation to change
+.06
+Propensity for
+.01
+creativity
+Locus of control
+.04
+Tolerance for
+.15
+ambiguity
+Polychronicity
+Scenario order
+R2 at each step
+.05
+DR2
+F for overall equation
+1.62
+Polychronicity measured at Time 2
+Age
+.01
+Gender
+.10
+GPA
+.07
+Orientation to change
+.05
+Propensity for
+.01
+creativity
+Locus of control
+.02
+.15
+Tolerance for
+ambiguity
+Polychronicity
+Scenario order
+R2 at each step
+.05
+DR2
+F for overall equation
+1.58
+
+Step 2
+
+Step 3
+
+.01
+.06
+.05
+.01
+.01
+
+.01
+.06
+.05
+.01
+.01
+
+.07
+.13
+.05
+.08
+.05
+
+.06
+.10
+.04
+.03
+.04
+
+.08
+.12
+.00
+.04
+.04
+
+.00
+.11
+
+.00
+.11
+
+.07
+.24
+
+.04
+.20
+
+.04
+.22
+
+.21
+
+.23
+
+.08
+.03
+2.54
+
+.21
+.00
+.08
+.00
+2.24
+
+4.94
+
+.17
+.04
+5.92
+
+.21
+.21
+.21
+.04
+6.77
+
+.01
+.01
+.03
+.04
+.01
+
+.01
+.01
+.03
+.04
+.01
+
+.09
+.14
+.06
+.06
+.05
+
+.10
+.05
+.03
+.03
+.05
+
+.12
+.07
+.01
+.01
+.05
+
+.02
+.03
+
+.02
+.03
+
+.04
+.25
+
+.01
+.13
+
+.01
+.14
+
+.40
+
+.40
+.00
+.17
+.00
+4.929
+
+.17
+.12
+5.57
+
+.13
+
+.40
+.14
+5.05
+
+.25
+.11
+9.45
+
+.39
+.21
+.30
+.05
+10.34
+
+Note: Listwise Ns for polychronicity measured at Time 1 ¼ 235 for both the low and high
+polychronicity scenarios. For polychronicity measured at Time 2, the listwise Ns ¼ 231 for both
+scenarios. GPA is cumulative grade point average; gender was coded 1 ¼ female, 2 ¼ male; and
+scenario order was coded 1 ¼ low polychronicity scenario ﬁrst, 2 ¼ high polychronicity scenario ﬁrst.
+ pr.05.
+ pr.01.
+ pr.001. All tests were two-tailed tests.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+195
+
+(which was measured at Time 2) was a beta of .21 (pr.01), which is only
+slightly less than the zero-order correlation (r ¼ .25, po.001). Similarly,
+after controlling for the effects of the same seven variables, the relationship
+between polychronicity measured at Time 2 and the attractiveness of the low
+polychronicity scenario was a beta of .40 (pr.001), which is nearly identical
+to its zero-order counterpart (r ¼ .41).
+Comparable results were obtained with the attractiveness of the high
+polychronicity scenario. After controlling for the seven variables, the relationship between polychronicity measured at Time 1 and the attractiveness
+of the high polychronicity scenario (measured at Time 2) was a beta of .23
+(pr.001). Substituting polychronicity measured at Time 2, the relationship
+between polychronicity and the attractiveness of the high polychronicity
+scenario was a beta of .40 (pr.001). Although these betas are not quite
+as close to their zero-order counterparts (.23 versus .32 and .40 versus .47)
+as were the results from the low polychronicity scenario, they do not
+represent drastic changes in the nature or strength of the relationship. Both
+sets of hierarchical regressions support the expected relationships between
+polychronicity and the attractiveness of the two scenarios.
+Reinforcing these results about the relationships between polychronicity
+and organizational attractiveness are the results obtained by examining
+Methodological Question 1 about the possibility that the order in which the
+respondents read the scenarios would inﬂuence the results. To examine this
+possibility and create the potential to control for such an effect, half of
+the questionnaires presented the low polychronicity scenario ﬁrst and half
+presented the high polychronicity scenario ﬁrst. Multivariate analysis of
+variance (MANOVA) was conducted to see if signiﬁcant effects were present
+among scenario order and the attractiveness of the low and high polychronicity scenarios. The MANOVA revealed the presence of signiﬁcant
+effects, Wilks’ l(2, 244) ¼ .97, pr.02, so I proceeded to univariate analysis
+of variances (ANOVAs) (Rosenthal & Rosnow, 1991). An ANOVA between
+the ordering manipulation and the attractiveness of the low polychronicity
+scenario revealed no statistically signiﬁcant effect F(1, 245) ¼ .019, n.s., but
+an ANOVA between the ordering manipulation and the attractiveness of the
+high polychronicity scenario indicated a signiﬁcant effect F(1, 245) ¼ 7.34,
+pr.007, Z ¼ .17. The high polychronicity scenario was perceived as more
+attractive when it followed the monochronic scenario than when preceding it.
+Because the attractiveness scores for one of the scenarios were inﬂuenced
+by the scenario ordering and this was the ﬁrst time this scenario method had
+been used, a ﬁnal set of hierarchical regressions were performed to learn if
+the scenario order affected the relationships between polychronicity and the
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+196
+
+ALLEN C. BLUEDORN
+
+attractiveness of the two scenarios. The scenario order variable was added
+as Step 3 in the hierarchical regressions reported in Table 4. The results
+indicate that the ordering of the scenarios had no material effect on the
+polychronicity–attractiveness relationships. For the attractiveness of the low
+polychronicity scenario, the two polychronicity betas remained signiﬁcant,
+retained the same sign, and revealed no change in magnitude. The same
+pattern held for the high polychronicity scenario. Although the scenario
+ordering affected the attractiveness score, it had little substantive impact on
+the polychronicity–attractiveness relationship. As with the low polychronicity scenario, both polychronicity betas remained statistically signiﬁcant,
+retained the same sign (positive), and revealed little change in magnitude.
+Thus the polychronicity–attractiveness relationship for both scenarios was
+unaffected substantively by the order in which the scenarios were presented
+in the questionnaire. Scenario order was also added as Step 3 in the analyses
+of orientation to change and propensity for creativity. Doing so produced
+similar results as none of the polychronicity betas changed as a result of
+adding scenario ordering to the equations (see Table 5).
+Although this study focused on the question of organizational attractiveness and its relationship to the similarity of individual and perceived organizational polychronicities, the polychronicity relationships with orientation to
+change and propensity for creativity supported in Study 1 were still of interest
+(Research Question 5), especially the matter of whether a similar relationship
+would be found if a different measure of orientation to change was used
+(Methodological Question 2). The results from examining these questions will
+now be presented.
+The relationship with orientation to change still occurs when the modiﬁed
+Trumbo (1961) measure, the measure used in Study 1, was used in this
+study. The correlation was r ¼ .30 (pr.001) with polychronicity measured
+at Time 1 and r ¼ .33 (pr.001) with polychronicity measured at Time 2.
+Dunham et al. (1989) developed the second orientation to change measure
+included in the study. This measure can be used as an overall measure of
+orientation to change or be broken into three dimensions: affective, behavioral, and cognitive (see the Appendix for more details). With polychronicity
+measured at Time 1, the correlations with these three dimensions are, respectively, r ¼ .38 (pr.001), r ¼ .24 (pr.001), and r ¼ .30 (pr.001). With
+polychronicity measured at Time 2, the comparable correlations are r ¼ .36
+(pr.001), r ¼ .26 (pr.001), and r ¼ .36 (pr.001). As for the polychronicity
+correlations with the overall Dunham et al. scale, the correlation with
+polychronicity measured at Time 1 was r ¼ .34 (pr.001); with polychronicity
+measured at Time 2, r ¼ .37 (pr.001). The results with the different measure
+
+Polychronicity, Individuals, and Organizations
+
+Table 5.
+
+197
+
+Hierarchical Regression Analyses for Orientation to Change
+and Propensity for Creativity.
+
+Independent Variable
+
+Standardized Regression Coefﬁcients (Betas)
+Orientation to Change
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Step 1
+Polychronicity measured at Time 1
+Age
+.04
+Gender
+.09
+GPA
+.11
+Orientation to change
+Propensity for
+.12
+creativity
+Locus of control
+.00
+Tolerance for
+.41
+ambiguity
+Polychronicity
+Scenario order
+R2 at each step
+.24
+DR2
+F for overall equation 12.11
+Polychronicity measured at Time 2
+Age
+.04
+Gender
+.10
+GPA
+.13
+Orientation to change
+Propensity for
+.12
+creativity
+Locus of control
+.03
+Tolerance for
+.41
+ambiguity
+Polychronicity
+Scenario order
+R2 at each step
+.25
+DR2
+F for overall equation 12.37
+
+Propensity for Creativity
+
+Step 2
+
+Step 3
+
+Step 1
+
+Step 2
+
+Step 3
+
+.03
+.11
+.10
+
+.03
+.12
+.11
+
+.04
+.03
+.07
+.12
+
+.04
+.04
+.07
+.11
+
+.04
+.04
+.07
+.11
+
+.11
+
+.11
+
+.03
+.35
+
+.03
+.35
+
+.19
+.27
+.03
+12.04
+
+.19
+.04
+.27
+.00
+10.59
+
+.04
+.13
+.11
+
+.04
+.14
+.11
+
+.12
+
+.12
+
+.04
+.33
+
+.04
+.33
+
+.20
+
+.20
+.03
+.28
+.00
+10.78
+
+.28
+.03
+12.31
+
+.11
+.40
+
+.12
+.39
+
+.12
+.39
+
+.07
+
+12.57
+
+.25
+.00
+10.94
+
+.07
+.00
+.25
+.00
+9.53
+
+.06
+.03
+.08
+.12
+
+.06
+.03
+.08
+.12
+
+.06
+.03
+.08
+.13
+
+.25
+
+.10
+.40
+
+.10
+.40
+.01
+
+.25
+12.62
+
+.25
+.00
+10.77
+
+.10
+.40
+.01
+.02
+.25
+.00
+9.40
+
+Note: Listwise Ns for polychronicity measured at Time 1 ¼ 236 for both orientation to change
+and propensity for creativity; for polychronicity measured at Time 2, the listwise Ns ¼ 232
+for both dependent variables. GPA is cumulative grade point average; gender was coded
+1 ¼ female, 2 ¼ male; and scenario order was coded 1 ¼ low polychronicity scenario ﬁrst,
+2 ¼ high polychronicity scenario ﬁrst.
+ pr.05.
+ pr.01.
+ pr.001. All tests were two-tailed tests.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+198
+
+ALLEN C. BLUEDORN
+
+of orientation to change are substantively comparable to those found with the
+modiﬁed Trumbo measure used in both this study and in Study 1. Moreover,
+if the overall Dunham et al. measure is substituted for the Trumbo measure of
+orientation to change used in the hierarchical regression analyses presented
+in Table 5, polychronicity’s relationship with orientation to change remains
+almost unaltered substantively for both the Time 1 and Time 2 analyses.
+For both analyses, the betas for polychronicity remain positive, statistically
+signiﬁcant, and of almost the same magnitude: .19 versus .19 for Time 1 and
+.20 versus .18 for Time 2.
+These results extend and strengthen the support for the positive relationship between polychronicity and orientation to change, but the results lead
+to questions about the relationship between polychronicity and propensity
+for creativity. Although the zero-order correlations between propensity for
+creativity and polychronicity measured at Time 1 (r ¼ .19, pr.01) and at
+Time 2 (r ¼ .17, pr.01) are statistically signiﬁcant and in the same direction
+as in Study 1, the hierarchical regression results in Table 5 indicate this
+relationship does not persist after the effects of several other variables have
+been taken into account. The beta for polychronicity measured at Time 1 is
+a nonsignﬁcant .07 and at Time 2, an even smaller nonsignﬁcant .01.
+In both cases the signiﬁcant zero-order relationships have been reduced to
+nonsignﬁcant betas.
+
+Additional Findings
+Tolerance for ambiguity was included in this study because other research
+indicated it might be related to orientation to change (Dunham et al., 1989),
+suggesting a proper role for it as a control variable. It revealed, however,
+statistically signiﬁcant zero-order correlations with polychronicity measured
+at both Time 1, r ¼ .31 (pr.001) and Time 2, r ¼ .38 (pr.001). These
+correlations had not been anticipated, so hierarchical regression analyses
+were performed to see if a statistically signiﬁcant association would persist
+after controlling for the effects of several other variables. And the relationships persisted. After controlling for age, GPA, gender, propensity for creativity, locus of control, and orientation to change, polychronicity measured
+at Time 1 revealed a beta of .15 (pr.01), and polychronicity measured at
+Time 2 revealed a beta of .26 (pr.001). When the Trumbo measure of
+orientation to change was replaced in both analyses by the overall Dunham
+et al. measure, little change occurred in the betas for polychronicity:
+.12 (pr.04) and .23 (pr.001), respectively. In all cases the betas were
+
+Polychronicity, Individuals, and Organizations
+
+199
+
+signiﬁcant, their signs were positive, and their magnitudes similar. And
+adding scenario ordering as a ﬁnal control had little substantive effect on the
+betas, for through two decimal places two of the betas changed by only .01
+and the other two betas did not change at all. These analyses suggest
+the possibility of a consistent, potentially robust, relationship between
+polychronicity and tolerance for ambiguity.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Discussion
+The results concerning organizational attractiveness indicate polychronicity
+may be a factor on which individuals choose the organizations they select
+as their employers. By using two scenarios, one depicting a high level of
+polychronicity, the other a low level, two mutually reinforcing tests were
+conducted of this possibility. As with orientation to change, both the zeroorder correlation analysis and the hierarchical regressions revealed statistically signiﬁcant relationships in the anticipated directions, relationships
+that persisted after controlling for several important variables and a methodological factor. Should these results be replicated in another sample,
+polychronicity deserves to be studied as a possible selection factor in the
+attraction-selection-attrition process. So the answers to Research Question 4
+are that in this sample the polychronicity of individuals and the perceived
+polychronicity displayed in organizations are related to individuals’ perceptions of organizational attractiveness such that the more similar the individual
+and the individual’s perception of the level of polychronicity in an organization, the more attractive the organization appears to be as a place to work
+as a manager.
+As for Research Question 5, polychronicity had a signiﬁcant positive
+relationship (correlation) with orientation to change, a relationship that
+persisted not only after controlling for several individual characteristics as in
+Study 1, but after controlling for several important individual characteristics
+and personality traits. Moreover, the same substantive results were obtained
+using either of the two measures of orientation to change included in
+the study. These results lend considerable support to the conclusion that
+polychronicity and orientation to change are positively related consistently,
+and that the relationship is not a spurious correlation or a methodological
+artifact. This is especially so because these tests were conducted four times:
+with polychronicity measured at Time 1 and at Time 2, and with change
+measured with both the modiﬁed Trumbo and the Dunham et al. (1989)
+scales.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+200
+
+ALLEN C. BLUEDORN
+
+The same conclusion, however, cannot be drawn about the relationship
+between polychronicity and propensity for creativity. This relationship was
+supported at the zero-order level, but it was reduced to nonsignﬁcance after
+controlling for the effects of several other variables, including orientation
+to change and tolerance for ambiguity that had substantially larger zeroorder correlations with propensity for creativity than polychronicity. This
+suggests, depending on the causal ordering among the variables, that the
+correlation between polychronicity and propensity for creativity is either
+spurious or largely mediated by one or more control variables. Thus in
+answer to Research Question 5, the relationship between polychronicity and
+orientation to change was replicated, and after introducing control variables,
+the relationship between polychronicity and propensity for creativity repeated
+that found in the Sample 1 results of Study 1.
+An unanticipated ﬁnding was the emergence of tolerance for ambiguity as
+a variable with which polychronicity was consistently related, both at the
+level of zero-order correlations and in multiple regression equations after
+controlling for the effects of several important variables. Having emerged
+unexpectedly from these data, this relationship is an important candidate for
+a replication effort.
+Methodologically, although scenario order (Methodological Question 1)
+affected the perceived attractiveness of the polychronicity scenario, when
+entered as a ﬁnal control variable, all of the relationships persisted between
+polychronicity and orientation to change, organizational attractiveness, and
+tolerance for ambiguity; and they persisted without substantive changes.
+Moreover, all of the results were substantively similar regardless of whether
+polychronicity was measured at Time 1 or Time 2, which indicates the substantive results obtained in Study 1 were not the results of a common method,
+common time effect. As a ﬁnal methodological note, the presence of the IPV
+in both the Time 1 and Time 2 questionnaires allowed a test of the IPV’s test–
+retest reliability across nine days by calculating the correlation between the
+two scores. This correlation was r ¼ .73 (pr.001).
+
+STUDY 3
+With one major exception, the purpose of Study 3 was to see if the ﬁndings of
+Study 2 regarding orientation to change, propensity for creativity, tolerance
+for ambiguity, and organizational attractiveness could be replicated in a
+different sample. The exception was the addition of a second methodological
+treatment: the positioning of the IPV, the measure of polychronicity, before
+
+Polychronicity, Individuals, and Organizations
+
+201
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+or after the two scenarios that described organizations whose managers
+displayed high and low levels of polychronicity. Thus Study 3 focused on one
+research question and one methodological question:
+Research Question 6: Will the relationships between polychronicity and orientation to
+change, propensity to creativity, tolerance for ambiguity, and organizational attractiveness
+be replicated in a new sample?
+Methodological Question 3: Will the relationships between polychronicity and orientation
+to change, propensity to creativity, tolerance for ambiguity, and organizational attractiveness be changed (a) by the scenario ordering, (b) if the IPV precedes or follows the two
+scenarios, or (c) by an interaction between scenario ordering and whether the IPV precedes
+or follows the two scenarios?
+
+Method
+Participants and Design
+As were most of the samples in the ﬁrst two studies, the sample for Study 3
+was drawn from students in a large undergraduate management course at
+the University of Missouri-Columbia. The students in the course were given
+the opportunity to earn extra credit (approximately 1 percent of their course
+grade) by participating in this study. The project required attendance at an
+administration of the questionnaire during a group session held in the
+evening rather than during class time. As a result of the offer, 364 students
+participated and completed questionnaires.
+Measures
+The questionnaire contained measures of all the variables included in Study
+2: age, gender, GPA, locus of control, tolerance for ambiguity, propensity
+for creativity, both orientation to change scales, the two organizational
+scenarios and their attractiveness scales, and polychronicity. (See the
+Appendix for detailed descriptions.) Further, just as in Study 2, half of the
+questionnaires presented the low polychronicity scenario ﬁrst; the other
+half, the high polychronicity scenario ﬁrst. Added to this methodological
+manipulation, half the questionnaires presented the measure of polychronicity
+(the IPV) before the scenarios were presented and half of them presented
+the IPV after the scenarios were presented. Thus the questionnaires included
+a fully crossed 2  2 factorial experimental design to examine the effects of
+these methodological manipulations. The means, standard deviations, and
+intercorrelations of the study variables are presented in Table 6.
+
+Variable
+
+Means, Standard Deviations, and Intercorrelations of the Variables in Study 3.
+M
+
+SD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15 16
+
+1. Age
+20.81 1.92
+2. Gender
+1.53 .50
+12
+3. GPA
+3.10 .43 04
+4. Propensity for creativity 5.46 3.75 04
+5. Change affective
+5.02 .93
+02
+6. Change behavioral
+5.06 .86
+06
+7. Change cognitive
+4.99 .78
+00
+8. Change overall
+5.02 .78
+03
+9. Change Trumbo
+3.30 .59
+02
+10. Locus of control
+44.23 9.67
+02
+11. Tolerance for ambiguity 4.46 .76
+03
+12. Polychronicity
+3.73 1.19
+01
+13. Attractiveness low
+3.60 1.48
+06
+14. Attractiveness high
+4.56 1.44
+04
+15. IPV position
+1.49 .50
+06
+16. Scenario order
+1.48 .50 04
+
+02
+28
+14
+15
+15
+16
+03
+12
+04
+14
+19
+09
+03
+06
+
+04 (64)
+08
+24 (85)
+05
+33
+76 (82)
+01
+22
+68
+72 (80)
+05
+29
+91
+92
+88 (92)
+07
+27
+54
+50
+44
+55 (75)
+03
+01 11 18 17 17 02 (69)
+01
+43
+65
+69
+51
+69
+48 04 (88)
+06
+17
+31
+27
+22
+30
+40 01
+34 (89)
+20
+01 12 13 09 13 12
+04 14 28 (89)
+15 02
+21
+17
+17
+20
+15
+02
+17
+47 33 (91)
+02
+04
+05
+08
+13
+09 02 09
+03 16
+03 06
+06
+02
+00 03
+01 01
+00 02
+02
+01 06 27 00 –
+
+Note: Listwise N ¼ 349. Numbers in parentheses on the diagonal are coefﬁcients alpha. Correlations with magnitudes Z .11 are signiﬁcant at
+the .05 level (two-tailed tests). Change overall is the full Dunham et al. scale; change Trumbo is the modiﬁed Trumbo change scale. GPA is
+cumulative grade point average, gender was coded 1 ¼ female, 2 ¼ male; IPV position was coded 1 ¼ Scenarios ﬁrst, 2 ¼ IPV ﬁrst; and
+scenario order was coded 1 ¼ low polychronicity scenario ﬁrst, 2 ¼ high polychronicity scenario ﬁrst.
+
+ALLEN C. BLUEDORN
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+202
+
+Table 6.
+
+Polychronicity, Individuals, and Organizations
+
+203
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Results
+With the exception of the methodological questions, the major purpose of
+this study was to see if the results of Study 2 could be replicated in a
+new sample (Research Question 6). As in the ﬁrst two studies, to maintain
+consistency across all analyses, two-tailed tests were used to evaluate
+statistical signiﬁcance.
+The ﬁrst of the results concerned polychronicity’s relationship with
+organizational attractiveness, and the Study 2 results were replicated in
+both zero-order correlation analysis and hierarchical regression analysis
+(see note 2). The zero-order correlation between polychronicity and the
+attractiveness of the low polychronicity scenario was r ¼ .28, pr.001;
+between polychronicity and the attractiveness of the high polychronicity
+scenario, r ¼ .47, pr.001. The statistical signiﬁcance, signs, and magnitudes of these correlations are consistent with the results of both Samples 1
+and 2 in Study 2. Similarly, so were the results of the hierarchical regression
+analyses presented in Table 7. With the attractiveness of the low polychronicity scenario as the dependent variable and controlling for the other
+seven variables, the beta for polychronicity was .24 (pr.001). Repeating
+this same analysis with Dunham et al.’s (1989) overall orientation to change
+measure substituted for Trumbo’s among the control measures, the beta for
+polychronicity was .23 (pr.001), nearly identical to the beta obtained
+when Trumbo’s change measure was used. With the attractiveness of the
+high polychronicity scenario as the dependent variable and controlling for
+the other seven variables, the beta for polychronicity was .47 (pr.001).
+Repeating this same analysis with the Dunham et al. orientation to change
+measure substituted for Trumbo’s among the control variables, the beta for
+polychronicity was .45 (pr.001), very close to the beta obtained when
+Trumbo’s change scale was used. As with the zero-order correlation analysis, the statistical signiﬁcance, signs, and magnitudes of these betas are
+comparable to those obtained in Study 2; and as in Study 2, which measure
+of change was used among the control variables made little substantive
+difference in the relationship between polychronicity and organizational
+attractiveness.
+A second matter to consider is polychronicity’s relationship with orientation to organizational change. As revealed in Table 6, polychronicity is
+signiﬁcantly and positively correlated with orientation to organizational
+change regardless of whether it is measured by the three dimensions from
+Dunham et al.’s (1989) scale, their overall scale, or Trumbo’s (1961) scale.
+With correlations ranging from .22 to .40 (see Table 6), all of which were
+
+204
+
+ALLEN C. BLUEDORN
+
+Table 7.
+
+Hierarchical Regression Analysis for Attractiveness of the
+High and Low Polychronicity Scenarios.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Independent Variable
+
+Standardized Regression Coefﬁcients (Betas)
+Low Polychronicity Scenario
+
+High Polychronicity Scenario
+
+Step 1
+
+Step 1
+
+Step 2
+
+Step 3
+
+(a) Orientation to change measured with the modiﬁed Trumbo scale
+Age
+.04
+.05
+.05
+.05
+Gender
+.18
+.14
+.14
+.08
+GPA
+.19 .18
+.18
+.14
+Orientation to change .05
+.02
+.02
+.08
+Propensity for
+.03
+.05
+.05
+.09
+creativity
+Locus of control
+.00
+.01
+.01
+.04
+Tolerance for
+.14
+.10
+.10
+.17
+ambiguity
+Polychronicity
+.24
+.24
+Scenario order
+.04
+IPV placement
+.00
+R2 at each step
+.10
+.15
+.15
+.07
+DR2
+.05
+.00
+F for overall equation 5.67
+7.45
+6.00
+3.72
+(b) Orientation to change measured with the Dunham et al. scale
+Age
+.04
+.05
+.05
+.04
+Gender
+.18
+.14
+.14
+.05
+GPA
+.19 .18
+.18
+.16
+Orientation to change .01
+.02
+.01
+.18
+Propensity for
+.03
+.05
+.05
+.08
+creativity
+Locus of control
+.00
+.01
+.01
+.07
+Tolerance for
+.16
+.10
+.10
+.09
+ambiguity
+Polychronicity
+.23
+.24
+Scenario order
+.04
+IPV placement
+.00
+R2 at each step
+.10
+.15
+.15
+.08
+DR2
+.05
+.00
+F for overall equation 5.41
+7.31
+5.88
+4.50
+
+Step 2
+
+Step 3
+
+.04
+.01
+.12
+.06
+.12
+
+.03
+.02
+.13
+.07
+.11
+
+.03
+.09
+
+.03
+.09
+
+.47
+
+.24
+.17
+13.73
+
+.47
+.28
+.02
+.32
+.08
+16.09
+
+.03
+.02
+.13
+.14
+.13
+
+.02
+.00
+.14
+.12
+.12
+
+.05
+.02
+
+.05
+.01
+
+.45
+
+.26
+.18
+14.71
+
+.45
+.27
+.00
+.33
+.07
+16.65
+
+Note: Listwise N for the low polychronicity scenario was 351; for the high polychronicity
+scenario, 350. GPA is cumulative grade point average; gender was coded 1 ¼ female, 2 ¼ male;
+IPV position was coded 1 ¼ scenarios ﬁrst, 2 ¼ IPV ﬁrst; and scenario order was coded 1 ¼ low
+polychronicity scenario ﬁrst, 2 ¼ high polychronicity scenario ﬁrst.
+ pr.05.
+ pr.01.
+ pr.001. All tests were two-tailed tests.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+205
+
+statistically signiﬁcant at the .001 level, the zero-order relationships between
+polychronicity and orientation to change found in Study 2 were replicated.
+Mixed results, however, were obtained when hierarchical regression analyses
+were conducted. Polychronicity was not signiﬁcantly related to orientation
+to change as measured with Dunham et al.’s scale: a statistically nonsigniﬁcant beta of .05 after controlling for age, gender, GPA, propensity
+for creativity, locus of control, and tolerance for ambiguity. With a beta of
+.65 (pr.001), tolerance for ambiguity may have played the major role in
+reducing polychronicity’s beta to a nonsignﬁcant magnitude. But when the
+same hierarchical regression analyses were conducted using the Trumbo
+change scale to measure orientation to change, and after controlling for age,
+gender, GPA, propensity for creativity, locus of control, and tolerance for
+ambiguity (the latter’s beta being .36, pr.001) polychronicity’s beta was a
+signiﬁcant .26 (pr.001).
+The results for tests of polychronicity’s relationship with propensity
+for creativity were similar to their Study 2 counterparts. The zero-order
+correlation was r ¼ .17, pr.001. This correlation is statistically signiﬁcant
+and in the same direction as in the earlier two studies. But just as in Study 2,
+when hierarchical regressions were conducted, neither beta (.06 and .08
+when the Trumbo, 1961, and Dunham et al., 1989, orientation to change
+scales were included in the set of control variables, respectively) was large or
+statistically signiﬁcant. As in Study 2, the betas became nonsigniﬁcant after
+the control variables entered the equations.
+Study 2 revealed an unanticipated relationship between polychronicity
+and tolerance for ambiguity, a variable that had been introduced into that
+study’s analyses as a control variable due to its relationship with orientation
+to change in other research (e.g., Dunham et al., 1989). Hence the relationship between polychronicity and tolerance for ambiguity was examined in
+this study to see if the relationships detected in Study 2 would be replicated.
+The zero-order correlation between polychronicity and tolerance for ambiguity in this study was r ¼ .34, pr.001, which has the same sign as and a
+magnitude similar to the correlations obtained in Study 2 (r ¼ .31 and .38,
+pr.001 for both). Results similar to Study 2 were also obtained in the
+hierarchical regression analyses presented in Table 8. Regressing tolerance
+for ambiguity on the six control variables—there are now six because tolerance for ambiguity is the dependent variable—and polychronicity produced a beta of .14 (pr.003) for polychronicity when change was measured
+with the Trumbo scale, and .13 (pr.001) when change was measured with
+the overall Dunham et al. (1989) scale. Thus polychronicity has a positive
+and statistically signiﬁcant association with tolerance for ambiguity, an
+association independent of the six control variables.
+
+206
+
+Table 8.
+
+ALLEN C. BLUEDORN
+
+Hierarchical Regression Analysis for Tolerance for Ambiguity.
+Standardized Regression Coefﬁcients (Betas)
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Independent Variable
+
+Age
+Gender
+GPA
+Orientation to change
+Propensity for creativity
+Locus of control
+Polychronicity
+Scenario order
+IPV placement
+R2 at each step
+DR2
+F for overall equation
+
+Modiﬁed Trumbo Change Scale
+
+Dunham et al. Change Scale
+
+Step 1
+
+Step 2
+
+Step 3
+
+Step 1
+
+Step 2
+
+.04
+.06
+.00
+.39
+.35
+.03
+
+.04
+.03
+.01
+.33
+.33
+.04
+.14
+
+.01
+.07
+.05
+.65
+.23
+.06
+
+.01
+.09
+.04
+.61
+.21
+.05
+.13
+
+.34
+
+.36
+.02
+27.17
+
+.04
+.03
+.01
+.33
+.33
+.03
+.15
+.01
+.04
+.36
+.00
+21.18
+
+29.59
+
+Step 3
+
+.01
+.09
+.04
+.61
+.21
+.05
+.13
+.03
+.01
+.54
+.56
+.56
+.02
+.00
+68.58 62.12 48.22
+
+Note: Listwise Ns for both set of analyses were 352. GPA is cumulative grade point average;
+gender was coded 1 ¼ female, 2 ¼ male; IPV position was coded 1 ¼ Scenarios ﬁrst, 2 ¼ IPV
+ﬁrst; and scenario order was coded 1 ¼ low polychronicity scenario ﬁrst, 2 ¼ high polychronicity scenario ﬁrst.
+ pr.05.
+ pr.01.
+ pr.001. All tests were two-tailed tests.
+
+Overall, Research Question 6 is answered afﬁrmatively: all of the relationships found in Study 2 were replicated, except for the relationship between
+polychronicity and orientation to change when the latter was measured with
+Dunham et al.’s (1989) overall scale.
+The ﬁnal points of interest in this study are methodological (Methodological Question 3). One of the issues is the question of scenario ordering,
+which was initially investigated in Study 2. The second issue is the possible
+inﬂuence of measuring polychronicity before or after the respondent is presented with the scenarios and the measures of their attractiveness. The ﬁnal
+aspect is the possible interaction of the scenario ordering with the before or
+after presentation of the polychronicity measure. Because two independent
+variables (scenario ordering and before or after presentation of the IPV) and
+three dependent variables (attractiveness of the low and high polychronicity
+scenarios, polychronicity) would most plausibly be involved, a MANOVA
+was conducted to see if signiﬁcant effects were present among these variables.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+207
+
+The MANOVA revealed the presence of signiﬁcant effects for scenario
+ordering, Wilks’ l(3, 350) ¼ .89, pr.001, and for presenting the IPV before
+or after the scenarios, Wilks’ l(3, 350) ¼ .98, pr.01, but not for the scenario
+ordering X IPV position interaction term, Wilks’ l(3, 350) ¼ .99, n.s. So
+I proceeded to two-way ANOVAs (Rosenthal & Rosnow, 1991) for both
+scenario order and IPV position, but not for their interactions. The two-way
+ANOVAs revealed that scenario order produced nonsigniﬁcant results for the
+attractiveness of the low polychronicity scenario, F(1, 360) ¼ 1.83, n.s., and
+for polychronicity, F(1, 355) ¼ .07, n.s. But a signiﬁcant effect was obtained
+for the attractiveness of the high polychronicity scenario: F(1, 359) ¼ 24.18,
+pr.001, Z ¼ .25. Thus a signiﬁcant effect of scenario ordering was found
+in both Study 2 and this study, and as in Study 2, the high polychronicity scenario was perceived as more attractive when it followed the low
+polychronicity scenario rather than preceding it.
+The two-way ANOVAs also revealed that presenting the polychronicity
+measure before or after the scenarios produced a statistically signiﬁcant
+association with the polychronicity (IPV) score: F(1, 355) ¼ 9.13, pr.003,
+Z ¼ .16. Polychronicity scores were higher when the IPV was positioned
+after the scenarios rather than before them. Whether the IPV was positioned
+before or after the scenarios had no statistically signiﬁcant effects on the
+perception of the attractiveness of the scenarios: F(1, 360) ¼ .38, n.s., for
+the low polychronicity scenario; and F(1, 359) ¼ 1.81, n.s., for the high
+polychronicity scenario.
+Thus the two-way ANOVAs detected two main effects: of scenario
+ordering on the high polychronicity scenario’s attractiveness and on the
+polychronicity score by positioning the IPV either before or after the two
+scenarios. Given these results and to repeat and extend the results from
+Study 2, hierarchical regression analyses were conducted again. As presented in Tables 7 and 8 the results of these analyses revealed little or no
+impact of either the scenario ordering or the location of the polychronicity
+measure on polychronicity’s relationships with tolerance for ambiguity or
+scenario attractiveness. Polychronicity’s betas remained signiﬁcant, had the
+same signs, and their magnitudes changed very little, if any, after the two
+method factors were added to the equations. Similarly (but not presented in
+the tables), the substantive relationships between polychronicity and both
+orientation to change and propensity for creativity were unchanged by
+the addition of the two method variables to the hierarchical regression
+analyses. Polychronicity maintained a statistically signiﬁcant positive beta
+when orientation to change was measured with the Trumbo (1961) scale,
+and the beta remained nonsigniﬁcant when orientation to change was
+
+208
+
+ALLEN C. BLUEDORN
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+measured with the Dunham et al. (1989) scale. Likewise, the betas for
+polychronicity’s relationship with propensity for creativity remained nonsigniﬁcant after scenario ordering and the location of the polychronicity
+measure entered the regression equations. Overall, the key answer to
+Methodological Question 3 is that neither of the two method factors had a
+substantive effect on polychronicity’s relationships with orientation to change,
+propensity for creativity, tolerance for ambiguity, and the attractiveness of
+either scenario.
+
+Discussion
+This study generally replicated the results obtained in Study 2 (Research
+Question 6). Polychronicity was positively related to both orientation to
+change and to tolerance for ambiguity in tests made with zero-order correlations. With hierarchical regression tests, polychronicity’s relationship
+with orientation to change was reduced to a nonsigniﬁcant beta when the
+Dunham et al. (1989) measure of orientation to change was used, but it
+continued to produce a signiﬁcant positive beta when the modiﬁed Trumbo
+(1961) measure was used in the analyses. The polychronicity–tolerance for
+ambiguity relationship continued to produce a signiﬁcant positive beta in
+the hierarchical regression analyses. These relationships generally replicated
+those obtained in Study 2, indicating an increased generality beyond a single
+sample, by that increasing conﬁdence in their existence beyond tests of statistical signiﬁcance. Also repeated were the respective negative and positive
+relationships with the attractiveness of the low and high polychronicity
+scenarios. These relationships, too, were found in zero-order correlations
+and in hierarchical regression after the effects of several demographic and
+psychological control variables had been taken into account. As such, they
+replicate the results obtained in Study 2. The negative results for propensity
+for creativity were replicated too because the relationship between polychronicity and propensity for creativity did not persist in the face of the
+statistical controls employed. And all of these results persisted—for scenario
+attractiveness, tolerance for ambiguity, propensity for creativity, and orientation to change—after the two methodological factors were added to the
+hierarchical regressions (the core issue in Methodological Question 3). These
+replications and the persistence of the relationships after the addition of
+methodological controls strengthens conﬁdence in the ﬁndings, several of
+which have important theoretical ramiﬁcations that will be discussed in the
+next section.
+
+Polychronicity, Individuals, and Organizations
+
+209
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+GENERAL DISCUSSION
+Before 1990, very little (e.g., Bluedorn & Denhardt, 1988; Schein, 1985) had
+been written let alone studied about polychronicity beyond Hall’s (1959,
+1983) work on the subject, and outside of Hall’s work, one is hard put to
+ﬁnd anything empirical beyond Haase, Lee, and Banks’ (1979) early effort.
+Compared to this short bibliography, research cited in this article (e.g.,
+Bluedorn, 1999; Conte & Gintoft, 2005; Conte & Jacobs, 2003; Hecht &
+Allen, 2005; Kaufman et al., 1991; Slocombe & Bluedorn, 1999; Tinsley,
+1998) reveals growing interest in this variable. To the breadth provided by
+this burgeoning research stream, the set of three studies presented in this
+article adds much needed depth. The investigation of any new phenomenon
+is likely to generate interest in its possible connection to a wider range of
+phenomena, and the recent investigation of polychronicity is no exception.
+This is not bad, especially if the breadth can be complemented with some
+depth as well. Providing some of that depth as well as investigating
+some important methodological issues were the motivation behind the set of
+three studies presented here.
+Heretofore, no direct investigations had ever been conducted on polychronicity’s relationships with orientation to change, propensity for creativity,
+organizational attractiveness, or tolerance for ambiguity, the latter, admittedly, being a serendipitous discovery.4 The results produced by these three
+studies not only establish the existence of polychronicity’s association with
+orientation to change, tolerance for ambiguity, and organizational attractiveness, they demonstrate these relationships persist after controlling for
+several major individual characteristics and personality variables. The results
+from these studies reveal that although scores for individual variables may
+have been affected by methodological machinations, the relationships among
+the variables of interest in this research were not. Moreover, the relationships
+persisted in form (sign), statistical signiﬁcance, and general magnitude (with
+only the exception of the nonsigniﬁcant beta for polychronicity in Study 3
+when orientation to change was measured with the Dunham et al., 1989 scale)
+regardless of whether all variables were measured on the same questionnaire
+or were measured on two questionnaires completed nine days apart. And
+with the single exception just noted, they persisted this way too if different
+operationalizations of orientation to change were used. Despite all of the
+factors that might have reduced or eliminated the relationships, they persisted; in the case of polychronicity and orientation to change, in seven out of
+eight hierarchical regressions (including two out of three with orientation to
+change measured with the Dunham et al. scale) across four samples; in the
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+210
+
+ALLEN C. BLUEDORN
+
+case of tolerance for ambiguity and organizational attractiveness, in all six
+hierarchical regressions across two samples. This leads to conﬁdence, indeed,
+to the expectation that in future studies (1) polychronicity will be positively
+correlated with orientation to change; (2) polychronicity will be positively
+correlated with tolerance for ambiguity; and (3) polychronicity will be related
+to the attractiveness of potential employer organizations: positively to those
+organizations whose employees display high levels of polychronicity, negatively
+to those whose employees display low amounts.
+These results are important theoretically because they help us understand
+the nexus of variables, the nomological net (Cronbach & Meehl, 1955)
+of which polychronicity is a part. Knowing that polychronicity is tightly
+intertwined with individuals’ orientations to change and their tolerances for
+ambiguity is suggestive of an important complex of personality characteristics that may be more receptive to the change demands associated with
+working in contemporary organizations and their environments. This suggests that highly polychronic individuals with high tolerances for ambiguity
+and favorable orientations to change may be more receptive to, or at least
+more comfortable with, the amount of change encountered by employees in
+organic organizations and the dynamic environments in which they operate.
+The favorable orientation to change would obviously lead to a greater
+degree of comfort with constant change, the high tolerance for ambiguity
+would be helpful in addressing novelty in the changes, and higher levels of
+polychronicity would facilitate the ability to constantly add new tasks to
+one’s set of activities as new changes emerge.
+Despite the solid support as well as the theoretical importance of the
+relationships just discussed, one potential relationship received scant support, the relationship between polychronicity and propensity for creativity.
+Although polychronicity was positively correlated with propensity for creativity in several of the studies, all of these correlations were zero-order
+correlations, and once statistical controls were introduced, all but one of
+these relationship shrank in magnitude and became statistically nonsigniﬁcant. This suggests there is no relationship between the two variables. In the
+studies I report here, however, the evidence for this conclusion does not
+directly address the question of whether polychronicity is related to creativity itself. The evidence from my studies deals with the related but different
+question of whether polychronicity is related to a propensity for creativity in
+an individual’s personality.
+Recent research has more directly tested the question of whether a person’s polychronicity is related to a person’s actual creativity. This question
+was addressed in a laboratory experiment (Hecht, 2002) that varied the
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+211
+
+polychronicity demands of a work situation and also measured participants’
+general polychronicity with a modiﬁed and augmented version of the IPV
+(the same polychronicity scale I used in the studies reported here). The creative task was an individual brainstorming exercise (uses for a pipecleaner)
+that could be evaluated and measured quantitatively (the more distinct uses,
+the greater the creativity). Hecht found a modest but statistically signiﬁcant
+positive correlation between individuals’ general polychronicity and how
+much creativity they displayed on the task as measured by the number of distinct uses for a pipecleaner each participant produced. The similarity between
+the level of polychronicity demanded in the task context (manipulated by the
+experimenter) and the individual’s polychronicity, however, did not inﬂuence
+the level of creativity exhibited in the task. Because Hecht’s study involved the
+direct examination of creativity, its results can be regarded as a stronger test
+of polychronicity’s relationship with creativity than the results reported in this
+article. This is because my results would require at least one more inference
+than Hecht’s; to wit, that people with high propensities for creativity will
+actually be more creative in their work and lives. Hecht’s design did not
+require such an inference because she measured creativity directly. So there
+may be a modest relationship between polychronicity and creativity after all.
+As for organizational attractiveness, an individual’s level of polychronicity was consistently correlated with how polychronic an organization’s
+employees appeared to be based on two scenarios: one written to represent
+an organization in which people behaved with a high level of polychronicity
+and the other written to represent an organization in which people behaved
+with a low level of polychronicity. This was the sole purpose of the scenarios. The results indicate there is a relationship, but they are silent on the
+issue of how important polychronicity is as a factor in organizational
+attractiveness compared to the almost inﬁnite number of other variables
+that could characterize an organization. Addressing this issue is a logical
+next step for research on this issue.
+Indeed, a speciﬁc question such research might address is whether the
+organization as a whole, actually perceptions of it, matter at all. The results
+presented in this article certainly indicate that perceptions of the organization matter, but how much does the organization matter compared to the
+position in it the individual is considering? It is possible that both matter,
+that they might even interact statistically, leading to research questions, such
+as which situation would a highly polychronic person perceive more favorably: (1) a position in which the position holder is expected to behave very
+polychronically, but is embedded in what is seen to be a very monochromic
+organization; or (2) a position in which the person is expected to behave
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+212
+
+ALLEN C. BLUEDORN
+
+very monochronically, but which is embedded in what is seen to be as a very
+polychronic organization as a whole? In other words, how much does the
+position and the individual’s perceptions of the behavioral norms associated
+with the position affect the individual’s judgment about how attractive the
+organization would be as a place to work, and how much does the rest of the
+context involved with that position matter? Obviously, we would expect a
+position associated with polychronic norms located in what is perceived to
+be a very polychronic organization to be most favorably perceived as a place
+of employment by a very polychronic individual—and just the opposite for a
+position associated with monochronic norms in what is seen as a very monochronic organization—but it is unclear how to predict the attractiveness of the
+two mixed-case combinations.
+Making the situation even more complex, but perhaps more realistic,
+would be the individual’s expectations about moving into other positions in
+the focal organization. If the organization has a reputation for providing
+rapid advancement or having career structures involving experience in many
+positions, perhaps the position associated with monochronic norms in an
+organization viewed as polychronic might be seen as the more attractive
+situation than the opposite combination, especially for individuals with relatively long future temporal depths (horizons). But that is another topic
+(Bluedorn, 2002) as well as another potential contingency.
+Yet these examples of mixed cases suggest other situations. For example,
+a general positive correlation was found between polychronicity and an
+individual’s orientation to change in all four samples, indicating that more
+polychronic people are more favorably oriented to change. But how attractive would a position be to a relatively polychronic individual if the position
+were associated with polychronic norms in what is seen as a static, relatively
+unchanging organization? How attractive would the opposite combination
+be? The results from all three studies indicate polychronicity and orientation
+to change co-vary in the same direction, but what happens when they move in
+opposite directions? These are intriguing questions that seem very promising
+for future research.
+But another, equally fundamental question also needs to be addressed, and
+that question is, by what means and cues does a person perceive an organization as having people who behave with high or low levels of polychronicity? After a person is employed, there is direct contact and observation, but
+are perceptions made on this factor before crossing the membership boundary
+into the organization? And if they are, what are the cues the individual uses to
+reach such judgments? Other questions arise as well. In two of the studies
+I presented in this article, polychronicity information about a potential
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+213
+
+employer was explicitly written and provided to respondents. In everyday life,
+such information will usually be much more subtle, even tacit. If so, can it
+be detected by either party—the job seeker or the organization through its
+representatives—prior to an individual joining an organization? If it can be
+detected, then the polychronicity–attractiveness ﬁndings are likely to generalize to the attraction and selection phases of the attraction-selection-attrition
+process. But if detection requires more sustained contact with the organization, the polychronicity–attractiveness ﬁndings may be more relevant to the
+attrition phase of this process.
+These are intriguing and challenging questions to investigate, and answers
+to them may well provide information, not just about polychronicity, but
+also about the key characteristics that make an organization attractive as
+well as the cues individuals use to make inferences about organizations
+before joining them.
+But regarding the ﬁndings themselves in the studies I have reported here,
+despite the large number of statistical controls that generated these results,
+and despite the multiple replications of them, are these relationships general
+rules of human behavior? Though large, the samples gathered in all the
+studies were drawn from the undergraduate population that was enrolled,
+with the exception of one class, in undergraduate management courses at the
+University of Missouri-Columbia, albeit over a period of two years. And it
+may be a long way from the American Midwest to Tipperary. Stated
+differently, are the variables that distinguish the population from which
+these samples were drawn from other populations (e.g., organizational context, age, ethnic composition, educational level, vocational interests, etc.)
+also likely to affect the relationships identiﬁed, supported, and replicated in
+this series of studies? Undergraduate students are real people, after all, so
+there is no inherent reason to believe the relationships supported so well in
+this research would automatically disappear if they were studied in samples
+drawn from other populations.
+Therefore, given the relative thoroughness of their examination in the
+studies presented in this article, the next reasonable step in their investigation is to do so in samples drawn from populations that differ from this one
+in important ways. One possibility would be a cross-cultural investigation in
+which the same methods and scales were used with samples of management
+students drawn from outside the United States. Another possibility would
+be a sample drawn from a population of managers and other employees
+in American organizations, or more ambitiously, drawn from workforces in
+several countries, countries that might be selected strategically in order to
+maximize important cultural differences. Whatever possibilities are explored,
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+214
+
+ALLEN C. BLUEDORN
+
+taking this research beyond the population sampled in these studies is a next
+obvious step for future work.
+As with any research, these studies suggest many more questions than
+they answer. Yet a good test of a study’s, or in this case, studies’ value is
+whether the new questions it generates are at least as interesting and important as the ones it answers. Although this will always be a subjective judgment, and who knows where the future may lead, the answer about these
+studies seems to be yes, for the new questions they generate lead us directly to
+real organizations and real consequences for human behavior in them. At the
+very least, they are more interesting and important than the issue of whether
+someone can chew gum and walk at the same time.
+
+NOTES
+1. At the beginning of each class involved in Sample 1 and Sample 2, I brieﬂy
+explained the research procedure, including the proviso that no one in the class had
+to participate if anyone objected to doing so. The questionnaires containing
+the instruments designed to measure all of the variables in the research were then
+distributed to the students in the class, who completed them in class and returned
+them to me. After all of the questionnaires were returned, I explained the research in
+greater detail, including the basic research questions being investigated, to the classes
+involved in Sample 1. In Sample 2, I delayed explaining the research until about
+two weeks later in the courses, but in both samples participation was completely
+voluntary, and no extra credit was given for participation.
+2. Although the labels for two techniques—hierarchical regression and hierarchical linear modeling—sound similar, they refer to very different techniques, each of
+which is appropriate to a different set of analytical questions. Only one of these
+two techniques is used in any of the analyses reported in this article, hierarchical
+regression. It is the technique frequently used in social science research in which the
+investigator speciﬁes the order in which individual variables or groups of variables
+are added to the equation in a multiple regression analysis in order to determine how
+much more variance each additional variable explains in the dependent variable, or if
+the additional variable(s) explain any more variance at all (Cohen, Cohen, West, &
+Aiken, 2003, pp. 158–160).
+3. The students in the two classes took the questionnaire together in a special
+evening administration nine days after they had completed the questionnaire for
+Study 1, so they did not complete this questionnaire during a regular class period.
+Before they responded to the questionnaire, I explained the extra credit provision
+and also explained that they did not have to take part in the research, and that their
+participation was voluntary. After that evening’s administration, I explained the
+purpose of the study and even presented some preliminary results during one of the
+regular class periods. In order to link the participants’ questionnaires—the one they
+took as part of the second sample in Study 1 and the one in this study—respondents
+were asked to write the last four digits of their phone numbers on this questionnaire,
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+215
+
+having done so on the Study 1 questionnaire as well. These responses were used to
+match the respondents’ questionnaires. In the ﬁve or six cases of identical four digits,
+questionnaires were matched using questionnaire data about age, gender, and GPA.
+As a check on this matching procedure’ accuracy, the gender variables on each of the
+two questionnaires were correlated, producing a correlation of r ¼ 1.00.
+4. After all of the analyses had been completed and after revising an earlier
+version of this manuscript, I discovered that Haase et al. (1979) had reported a
+positive correlation between polychronicity and tolerance for ambiguity. Although I
+had read their article before including tolerance for ambiguity in this series of studies,
+as stated in discussions earlier in this article, my conscious motivation for including it
+was Dunham et al.’s (1989) ﬁnding of relationships between tolerance for ambiguity
+and orientation to change.
+
+ACKNOWLEDGMENTS
+Earlier versions of portions of this article were presented in the symposium,
+‘‘Polychronicity: The Pros and Cons of Human Multi-Tasking in the Workplace,’’ at the Annual Meeting of the Society for Industrial and Organizational
+Psychology, New Orleans, Louisiana, April 14-16, 2000. Additionally, preliminary results from Study 1 were presented at the ‘‘21st Century Change
+Imperative: Evolving Organizations and Emerging Networks Conference’’
+at the University of Missouri, Columbia, Missouri on June 12–14, 1998.
+This research was supported by Research Associates Fellowships from the
+Center for the Study of Organizational Change and by Summer Research
+Fellowships from the College of Business, both at the University of MissouriColumbia. I am grateful to Jeffrey Conte, Joseph Kasof, John Meyer, Beth
+Rubin, Rhetta Standifer, James Wilbanks, and Tal Zarankin for their
+thoughtful comments on earlier versions of this article.
+
+REFERENCES
+Baldwin, J. (1985). Every good-bye ain’t gone. In: J. Baldwin (Ed.), The price of the ticket:
+Collected nonfiction: 1948–1985 (pp. 641–647). New York: St. Martin’s/Marek.
+Bateman, T. S., & Snell, S. A. (1999). Management (4th ed.). Boston: McGraw-Hill.
+Bluedorn, A. C. (1982). The theories of turnover: Causes, effects, and meaning. Research in the
+Sociology of Organizations, 1, 75–128.
+Bluedorn, A. C. (Guest Ed.). (1999). Special issues on polychronicity. Journal of Managerial
+Psychology, 14(3–5).
+Bluedorn, A. C. (2002). The human organization of time: Temporal realities and experience.
+Stanford, CA: Stanford University Press.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+216
+
+ALLEN C. BLUEDORN
+
+Bluedorn, A. C., & Denhardt, R. B. (1988). Time and organizations. Journal of Management,
+14, 299–320.
+Bluedorn, A. C., & Ferris, S. P. (2004). Temporal depth, age, and organizational performance.
+In: C. F. Epstein & A. L. Kalleberg (Eds), Fighting for time: Shifting boundaries of work
+and social life (pp. 113–149). New York: Russell Sage Foundation.
+Bluedorn, A. C., Kalliath, T. J., Strube, M. J., & Martin, G. D. (1999). Polychronicity and the
+inventory of polychronic values (IPV): The development of an instrument to measure a
+fundamental dimension of organizational culture. Journal of Managerial Psychology, 14,
+205–230.
+Burns, T., & Stalker, G. M. (1961). The management of innovation. London: Tavistock.
+Chatman, J. A. (1991). Matching people and organizations: Selection and socialization in public
+accounting ﬁrms. Administrative Science Quarterly, 36, 459–484.
+Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2003). Applied multiple regression/correlation
+analysis for the behavioral sciences (3rd ed.). Mahwah, NJ: Lawrence Erlbaum.
+Conte, J. M., & Gintoft, J. N. (2005). Polychronicity, big ﬁve personality dimensions, and sales
+performance. Human Performance, 18, 427–444.
+Conte, J. M., & Jacobs, R. R. (2003). Validity evidence linking polychronicity and big ﬁve
+personality dimensions to absence, lateness, and supervisory performance ratings.
+Human Performance, 16, 107–130.
+Conte, J. M., Rizzuto, T. E., & Steiner, D. D. (1999). A construct-oriented analysis of
+individual-level polychronicity. Journal of Managerial Psychology, 14, 269–287.
+Cotte, J., & Ratnewshwar, S. (1999). Juggling and hopping: What does it mean to work
+polychronically? Journal of Managerial Psychology, 14, 184–204.
+Crampton, S. M., & Wagner, J. A., III (1994). Percept–percept inﬂation in microorganizational
+research: An investigation of prevalence and effect. Journal of Applied Psychology, 79,
+67–76.
+Cronbach, L. J. (1951). Coefﬁcient alpha and the internal structure of tests. Psychometrika, 16,
+297–334.
+Cronbach, L. J., & Meehl, P. E. (1955). Construct validity in psychological tests. Psychological
+Bulletin, 52, 281–302.
+Dunham, R. B., Grube, J. A., Gardner, D. G., Cummings, L. L., & Pierce, J. L. (1989). The
+development of an attitude toward change instrument. Paper presented at the annual
+meeting of the Academy of Management, Washington, DC.
+Gough, H. G. (1979). A creative personality scale for the adjective check list. Journal of
+Personality and Social Psychology, 37, 1398–1405.
+Haase, R. F., Lee, D. Y., & Banks, D. L. (1979). Cognitive correlations of polychronicity.
+Perceptual and Motor Skills, 49, 271–282.
+Hall, E. T. (1959). The silent language. New York: Anchor Books.
+Hall, E. T. (1983). The dance of life. Garden City, NY: Anchor Books.
+Hall, E. T., & Hall, M. R. (1990). Understanding cultural differences. Yarmouth, ME:
+Intercultural Press.
+Hardin, E. (1967). Job satisfaction and the desire for change. Journal of Applied Psychology, 51,
+20–27.
+Hecht, T. D. (2002). Person-job fit on the dimension of polychronicity: An examination of links
+with well-being and performance. Unpublished doctoral dissertation. Department of
+Psychology, University of Western Ontario, Ontario, Canada.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+217
+
+Hecht, T.D., & Allen, N.J. (2005). Exploring links between polychronicity and well-being from
+the perspective of person-job ﬁt: Does it matter if you prefer to do only one thing at a
+time? Organizational Behavior and Human Decision Processes, 98, 155–178.
+Jacobson, E., Trumbo, D., Cheek, G., & Naugle, J. (1959). Employee attitudes toward technological change in a medium sized insurance company. Journal of Applied Psychology,
+43, 349–354.
+Kaufman, C. F., Lane, P. M., & Lindquist, J. D. (1991). Exploring more than 24 hours in a day:
+A preliminary investigation of polychronic time use. Journal of Consumer Research, 18,
+392–401.
+Lawrence, P. R., & Lorsch, J. W. (1967). Organization and environment: Managing differentiation and integration. Boston, MA: Harvard University, Graduate School of Business
+Administration.
+Lefcourt, H. M. (1981). The construction and development of the multidimensionalmultiattributional causality scales. In: H. M. Lefcourt (Ed.), Research with the locus of
+control construct (Vol. 1, pp. 245–277). New York: Academic Press.
+McClain, D. L. (1993). The MSTAT-I: A new measure of an individual’s tolerance for
+ambiguity. Educational and Psychological Measurement, 53, 183–189.
+McEvoy, S. P., Stevenson, M. R., McCartt, A. T., Woodward, M., Haworth, C., Palamara, P.,
+& Cercarelli, R. (2005). Role of Mobile Phones in Motor Vehicle Crashes Resulting in
+Hospital Attendance: A Case-Crossover Study. BMJ (British Medical Journal),
+doi:10.1136/bmj.38537.397512.55 (published 12 July 2005).
+Meglino, B. M., Ravlin, E. C., & Adkins, C. L. (1989). A work values approach to corporate
+culture: A ﬁeld test of the value congruence process and its relationship to individual
+outcomes. Journal of Applied Psychology, 74, 424–432.
+Melbin, M. (1961). Organization practice and individual behavior: Absenteeism among
+psychiatric aids. American Sociological Review, 26, 14–23.
+Oldham, G. R., & Cummings, A. (1996). Employee creativity: Personal and contextual factors
+at work. Academy of Management Journal, 39, 607–634.
+Palmer, D. K., & Schoorman, F. D. (1999). Unpackaging the multiple aspects of time in
+polychronicity. Journal of Managerial Psychology, 14, 323–344.
+Price, J. L. (1977). The study of turnover. Ames, IA: Iowa State University Press.
+Redelmeier, D. A., & Tibshirana, R. J. (1997). Association between cellular-telephone calls and
+motor vehicle collisions. New England Journal of Medicine, 336, 453–458.
+Rosenthal, R., & Rosnow, R. L. (1991). Essentials of behavioral research (2nd ed.). New York:
+McGraw-Hill.
+Schein, E. H. (1985). Organizational culture and leadership. San Francisco, CA: Jossey-Bass.
+Schneider, B. (1987). The people make the place. Personnel Psychology, 40, 437–453.
+Schneider, B., Goldstein, H. W., & Smith, D. B. (1995). The ASA framework: An update.
+Personnel Psychology, 48, 747–773.
+Slocombe, T. E., & Bluedorn, A. C. (1999). Organizational behavior implications of the
+congruence between preferred polychronicity and experienced work-unit polychronicity.
+Journal of Organizational Behavior, 20, 75–99.
+Spector, P. E. (1988). Development of the work locus of control scale. Journal of Occupational
+Psychology, 61, 335–340.
+Stanislao, J., & Stanislao, B. C. (1983). Dealing with resistance to change. Business Horizons,
+26(4), 74–78.
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+218
+
+ALLEN C. BLUEDORN
+
+Tinsley, C. (1998). Models of conﬂict resolution in Japanese, German, and American cultures.
+Journal of Applied Psychology, 83, 316–323.
+Trumbo, D. A. (1961). Individual and group correlates of attitudes toward work-related
+change. Journal of Applied Psychology, 45, 338–344.
+Turban, D. B., & Keon, T. L. (1993). Organizational attractiveness: An interactionist perspective. Journal of Applied Psychology, 78, 184–193.
+Wanous, J. P. (1973). Effects of a realistic job preview on job acceptance, job attitudes, and job
+survival. Journal of Applied Psychology, 58, 327–332.
+Wanous, J. P. (1980). Organizational entry: Recruitment, selection, and socialization of
+newcomers. Reading, MA: Addison-Wesley.
+Woodman, R. W., Sawyer, J. E., & Grifﬁn, R. W. (1993). Toward a theory of organizational
+creativity. Academy of Management Review, 18, 293–321.
+
+APPENDIX
+In this appendix, I describe the measures of the variables included in the
+several studies reported in this article. To organize this presentation, I group
+the variables into two categories: individual demographic and academic
+characteristics, and psychometric measures.
+
+Individual Demographic and Academic Characteristics
+Three individual demographic and academic characteristics were measured in
+these studies: the respondent’s age, gender, and grade point average. All three
+were measured with self-report items directing the respondents to report their
+age (responded by writing the age on a blank line), gender (responded by
+circling a number for either male or female), and cumulative grade point
+average (responded by writing the grade point average on a blank line).
+
+Psychometric Measures
+Six variables were measured psychometrically: polychronicity, locus of
+control, organizational attractiveness, orientation to change, propensity for
+creativity, and tolerance for ambiguity.
+Polychronicity
+Polychronicity was measured with the individual version of the IPV, whose
+development and psychometric validation was presented thoroughly in
+Bluedorn et al. (1999). The IPV is a 10-item Likert-type scale, and individuals
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+219
+
+respond to each statement on a seven-point scale where 7 ¼ strongly agree
+and 1 ¼ strongly disagree. Each of the ten statements describes either the
+respondent’s beliefs (e.g., ‘‘I believe people should try to do many things
+at once’’) or preferences (e.g., ‘‘I would rather complete parts of several
+projects every day than complete an entire project’’). Five of the items are
+worded to indicate a preference for a high level of polychronicity, and the
+other ﬁve are worded to indicate a preference for a low level of polychronicity
+(monochronicity). To score the entire scale, the ﬁve items that indicate a
+preference for a low level of polychronicity are reverse scored and then all 10
+items are summed and divided by 10. Dividing by 10 converts the IPV scores
+to the original seven-item response scale, and the higher the score, the more
+the individual prefers to act polychronically. As reported in Bluedorn et al.
+(1999) and other studies (e.g., Bluedorn & Ferris, 2004), both the individual
+and group versions of the IPV reveal strong psychometric properties.
+Locus of Control
+Locus of control was measured with the achievement component of Lefcourt’s
+(1981) multidimensional-multiattribution causality scale. The achievement
+component is a Likert-type scale consisting of 24 items that individuals
+respond to on a ﬁve-point scale ranging from 0 ¼ disagree to 4 ¼ agree. This
+24-item scale was designed to deal with achievement attributions by undergraduate students in a college environment, so it was developed for use by
+exactly the same kinds of participants who took part in the studies reported in
+this article (almost entirely undergraduate college students). The scale includes
+items that measure the traditional internal attributions of effort and ability as
+well as the traditional external attributions of luck and context. The scale and
+its subscales can be scored and used in a variety of ways. In these studies it was
+scored so it could range from 0 to 96 so that the higher the score, the more
+external the respondent’s attributions were for academic performance and
+outcomes.
+Organizational Attractiveness
+Suggested by Turban and Keon’s work (1993, p. 188), a two-item Likert-type
+organizational attractiveness scale was developed comprised of the following
+two items: ‘‘To what extent would you enjoy being a manager in Organization
+A?’’ and ‘‘If you had job offers from ﬁve companies, one of which was
+Organization A, and all offered the same salary, how likely would you be to
+accept the offer from Organization A?’’ Participants responded to each item
+by choosing a response on a seven-point scale. For the ﬁrst question, the
+
+220
+
+ALLEN C. BLUEDORN
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+seven-point scale was anchored as follows: 1 ¼ I can’t imaging a worse place
+to be a manager and 7 ¼ I can’t imagine a better place to be a manager. The
+second question’s seven-point scale was anchored as follows: 1 ¼ extremely
+unlikely and 2 ¼ extremely likely. The two-item scale was scored by summing
+the two items and dividing by 2, so the higher the score, the more attractive
+the respondent perceived the organization to be as a place to work as a
+manager.
+Propensity for Creativity
+Propensity for creativity was measured with Gough’s (1979) CPS as modiﬁed slightly by Oldham and Cummings (1996, p. 615). The CPS consists of
+30 adjectives (Oldham and Cummings substituted ‘‘phony’’ for ‘‘affected’’
+in the list), and respondents were asked to place a check mark in front of
+each adjective they believed described themselves and to leave blank the
+adjectives that did not describe them. Some of the adjectives (18) in the list
+are considered descriptive of creative people (e.g., insightful, original)
+whereas 12 of the adjectives are considered descriptive of less creative people
+(e.g., commonplace, submissive). Basically, the number of ‘‘less creative’’
+adjectives checked is subtracted from the number of ‘‘creative’’ adjectives
+checked to obtain the respondent’s score, which could range from 12 to 18.
+To calculate the reliability (alpha) statistic for this scale, I followed
+the weighted composite technique used by Oldham and Cummings (1996,
+p. 616).
+Orientation to Change
+Two different scales were used to measure the respondents’ orientation to
+change, one developed by Trumbo (1961) and the other by Dunham et al.
+(1989).
+The Trumbo (1961) Scale. The original Trumbo scale was modiﬁed by
+deleting three items. First, because one item was not readily adaptable to a
+student sample (‘‘It would take a sizeable raise in pay to get me to voluntarily transfer to another job’’), it was not included in the scale. Second,
+analyses of data from Sample 1 revealed that the removal of two additional
+items (Items 1 and 5 as presented in Trumbo, 1961), substantially increased
+the scale’s alpha coefﬁcient to .74 in this sample. Removing these two items
+produced a principal components analysis solution revealing only a single
+factor with an eigenvalue greater than 1 (2.69, which explained 44.8 percent
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+Polychronicity, Individuals, and Organizations
+
+221
+
+of the variance). As in the Sample 1 data, the deletion of items 1 and 5 from
+the Trumbo scale produced a higher alpha coefﬁcient (.76) and a principal
+components solution revealing only one factor with an eigenvalue greater
+than 1 (2.79 that explained 46.47 percent of the variance), results that supported using it in the same modiﬁed form that was used in the Sample 1
+analysis. These results cannot be compared to Trumbo’s because he reported neither alphas nor factor analysis results for his scale. Since the
+reduced scale (Items 2, 3, 4, 6, 7, and 8 as reported in Trumbo, 1961)
+produced alphas and principal components results superior to those obtained
+with the eight-item version (I had already deleted the pay item), the six-item
+version of the scale was used to examine the research questions.
+The scale itself is a Likert-type scale, and a ﬁve-point response scale
+is provided for each item. The response scales for the items in the reduced,
+six-item version I used were anchored as follows: 1 ¼ strongly disagree and
+5 ¼ strongly agree. After performing the necessary reverse scoring, the six
+items were summed and divided by 6, making the possible range of an
+individual’s score 1–5, and the higher the score, the more favorable the
+respondent’s orientation to change.
+The Dunham et al. (1989) Scale.
+The Dunham et al. (1989) scale is an 18-item Likert-type scale containing
+three six-item subscales: one each for affective (e.g., ‘‘I ﬁnd most change to
+be pleasing’’), behavioral (e.g., ‘‘I usually resist new ideas’’), and cognitive
+(e.g., ‘‘I usually beneﬁt from change’’) aspects of an individual’s attitude or
+orientation to change. In the studies reported in this article, I used a sevenpoint response scale for each item anchored as follows: 1 ¼ Strongly disagree and 7 ¼ Strongly agree. For each of the three subscales, after the
+appropriate reverse scoring, the six items were summed and the sum was
+divided by 6. For the scale as a whole, after the appropriate reverse scoring,
+the 18 items were summed, and the sum was divided by 18. Thus in all cases,
+the range of possible scores was 1–7, with higher scores always indicating a
+more favorable orientation to change.
+Tolerance for Ambiguity
+Tolerance for ambiguity was measured with McLain’s (1993) MSTAT-I.
+The MSTAT-I is a 22-item Likert-type scale, all the items of which ask the
+respondents how well they deal with novelty and ambiguity (e.g., ‘‘I prefer
+familiar situations to new ones,’’ McClain, 1993, p. 187). For the studies
+
+222
+
+ALLEN C. BLUEDORN
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+reported in this article, I used a seven-point response scale for each item
+anchored as follows: 1 ¼ Strongly disagree and 7 ¼ Strongly agree. The
+scale contains several items that require reverse scoring, and after reverse
+scoring them, I summed the 22 items and divided the sum by 22, by that
+making the range of possible scores 1–7. Scored in this way, the higher the
+respondent’s score, the greater is the respondent’s tolerance for ambiguity.
+
+This article has been cited by:
+
+Downloaded by University of Regina At 05:41 15 December 2016 (PT)
+
+1. Neus Capdeferro, Margarida Romero, Elena Barberà. 2014. Polychronicity: review
+of the literature and a new configuration for the study of this hidden dimension of
+online learning. Distance Education 35:3, 294-310. [CrossRef]
+2. Cornelius J. König, Mary J. Waller. 2010. Time for Reflection: A Critical
+Examination of Polychronicity. Human Performance 23:2, 173-190. [CrossRef]
+3. Allen C. Bluedorn, Kimberly S. Jaussi. 2008. Leaders, followers, and time. The
+Leadership Quarterly 19:6, 654-668. [CrossRef]
+
+

@@ -1,0 +1,1829 @@
+Journal of Personality and Social Psychology
+1979, Vol. 37, No. 3, 395-412
+
+A Psychological Taxonomy of Trait-Descriptive Terms:
+The Interpersonal Domain
+Jerry S. Wiggins
+University of British Columbia, Vancouver, Canada
+The eventual aim of the research reported is the development of a comprehensive taxonomy of trait-descriptive terms in the English language. Building on
+earlier work of Allport, Norman, and Goldberg, preliminary a priori distinctions
+were made among different domains of trait categories. General procedures for
+developing structured taxonomies within domains were illustrated with reference
+to the interpersonal domain. Theoretical considerations dictated the definition
+of the universe of content, the choice of measurement model, and the procedures for classifying terms within the domain. Eight adjectival scales were developed as markers of the principal vectors of the interpersonal domain. The
+substantive, structural, and psychometric characteristics of these scales were
+found to be highly satisfactory. Hence, they may prove useful both as assessment devices in their own right and as reference points for the classification of
+variables in personality and social psychology.
+
+Personality is that branch of psychology
+which is concerned with providing a systematic account of the ways in which individuals differ from one another (Wiggins, Renner, Clore, & Rose, 1971). Individuals differ
+from one another in a variety of ways: their
+anatomical and physiognomic characteristics;
+their personal appearance, grooming, and
+manner of dress; their social backgrounds,
+roles, and other demographic characteristics;
+their effect on others or social stimulus value;
+and at any given moment in time, their
+temporary states, moods, attitudes, and activities. But the principal goal of personality
+study is to provide a systematic account of
+individual differences in human tendencies
+The early stages of this research were supported by
+Grant MH 12972 from the National Institute of
+Mental Health, U.S. Public Health Service (Lewis
+R. Goldberg, principal investigator). More recent
+work was supported by Canada Council Research
+Grant S75-0109. An earlier version of this article
+was presented at the meeting of the Society of
+Multivariate Experimental Psychology, Gleneden
+Beach, Oregon, November 1975.
+Requests for reprints should be sent to Jerry S.
+Wiggins, Department of Psychology, University of
+British Columbia, Vancouver, British Columbia,
+Canada V6T 1WS.
+
+(proclivities, propensities, dispositions, inclinations) to act or not to act in certain ways
+on certain occasions.
+Although such tendencies are commonly
+called "traits," the use of that term in contemporary psychological discourse carries with
+it implications of a particular theoretical commitment, a preferred method of scientific investigation, and a philosophical preference for
+certain kinds of explanation in theory construction. Hence, it is necessary to make it
+clear at the outset that an interest in human
+tendencies (traits) does not imply a theoretical precommitment to such issues as
+whether traits are manifestations of generative or causal mechanisms (Allport, 1937);
+whether trait attributions reflect specific cognitive processes of observers (Heider, 19S8);
+whether traits are best construed idiographically or nomothetically (Allport, 1937; Bern
+& Allen, 1974; Kelly, 1955); or whether consistencies in human tendencies are largely due
+to environmental or situational constancies
+(Mischel, 1968).
+In my view, consistent patterns of human
+conduct constitute the basic data of personality study, which require rather than provide
+explanation (Wiggins, Note 1). In approach-
+
+Copyright 1979 by the American Psychological Association, Inc. 0022-3514/79/3703-0395$00.75
+
+395
+
+396
+
+JERRY S. WIGGINS
+
+ing this task of accounting for individual
+differences in human tendencies, I share with
+others the conviction that the natural language provides a convenient starting place
+(Allport, 1937; Cattell, 1957; Goldberg, Note
+2; Norman, Note 3). The universe of content
+of human tendencies is contained within the
+covers of an unabridged dictionary of the
+English language. I also share with these
+writers the conviction that an adequate taxonomy of trait-descriptive terms must precede meaningful empirical studies of human
+tendencies. There have been a number of
+systematic efforts to develop a personality
+taxonomy over the past 40 years, and my own
+work has attempted to capitalize on these
+earlier efforts.
+Allport and Odbert (1936) examined the
+approximately half million separate entries or
+derivatives included in Webster's New International Dictionary (1924) for terms that
+appeared "to distinguish the behavior of one
+human being from that of another" (p. 24)
+and identified a pool of 17,953 terms having
+this characteristic. Norman (Note 3) scanned
+the entire contents of Webster's Third New
+International Dictionary Unabridged (1961)
+for additional terms that had not been included in the Allport-Odbert list. The universe
+of content thus denned was approximately
+27,000 terms. Subsequently, Norman and
+Goldberg were able to reduce this list by
+eliminating obscure, inappropriate, and archaic terms. The focus of all of these investigations has been on a subset of approximately
+3,600 terms that Allport initially called "stable biophysical traits." Allport considered
+these to be "real" traits as opposed to temporary states, moods, social roles, physical
+characteristics, and so forth.
+However one conceives of stable biophysical
+traits, I see them as no more nor less real
+than any other kinds of human characteristics. I agree with Guilford (1959) that "a
+trait is any distinguishable, relatively enduring way in which one individual differs
+from others" (p. 6). But I see the major
+taxonomic task as that of specifying the different kinds of ways in which individuals
+differ from each other. One kind of way in
+which individuals differ from each other is in
+terms of what they do to each other. Thus, I
+
+think that one of the most important categories of traits is that which may be designated "interpersonal." Within the realm of
+things that people do to each other, it is
+desirable to make a further theoretical distinction between interpersonal exchanges
+based on love and status and interpersonal
+exchanges based on goods, money, and services (Foa & Foa, 1974). The former are
+called interpersonal traits and the latter material traits.
+Another equally "real" way in which individuals are distinguishable from one another
+is in terms of their styles of emotional reactivity, which we refer to as "temperament."
+It is also possible to distinguish individuals
+on the basis of the particular roles and status
+they hold within the framework of our social
+institutions. Additionally, there are "character" terms that represent appraisals of an
+individual based on a code of proper behavior. And finally, there are many words that
+refer to individual differences in qualities of
+mind as manifested in thought, perception,
+and speech.
+Consider the following trait-descriptive adjectives: aggressive, miserly, lively, ceremonious, dishonest, and analytical. I would classify
+these terms as representative of the six trait
+categories just mentioned, namely, interpersonal traits, material traits, temperamental
+traits, social roles, character, and mental
+predicates. Here I differ from Allport, Norman, and Goldberg, who view all of these
+terms as "stable biophysical traits," without
+attempting to differentiate the different kinds
+of descriptive jobs such terms perform for us.
+To these earlier authors' important distinction between stable traits and temporary
+states, moods, social evaluations, and so forth,
+I would add finer distinctions within the category of stable traits.
+The present article describes our first efforts to develop a taxonomy of personality
+trait-descriptive terms in the English language. The universe of content is taken to be
+Norman's (Note 3) total lexicon of 18,125
+terms. Within this broader framework, I intend to focus on the "prime" categories of
+Norman, which involve 4,063 relatively familiar and nonobscure terms. Even restricting
+our attention to prime terms, we are still
+
+TAXONOMY OF INTERPERSONAL TRAITS
+
+397
+
+Facet I
+DIRECTION
+
+Facet II
+OBJECT
+
+Facet III
+RESOURCE
+
+INTERPERSONAL
+
+STATUS[
+
+[ LOVE
+
+|STATUS]
+
++
++
+
++
++
++
+
+JSTATUS|
+
+| LOVE
+
+| LOVE [
+
+-
+
+-
+
+-
+
+[STATUS
+
+VARIABLES
+
+NO ( Gregarious-Extroverted )
+PA ( Ambitious-Dominant)
+BC ( Arrogant-Calculating )
+
++
+
+DE ( Cold-Quarrelsome )
+FG ( Aloof-Introverted )
+HI (Lazy-Submissive )
+JK (Unassuming-Ingenuous )
+LM ( Warm - Agreeable)
+
++
+
+-t-
+
++
+
+Figure 1. Facet composition of interpersonal variables (after Foa & Foa, 1974). ( + = acceptance;
+— = rejection.)
+
+confronted with a list of staggering size. Our
+enterprise required a clear-cut game plan or
+research strategy to guide us through this sea
+of words.
+We began by defining a limited taxonomy
+on an a priori basis. We attempted to specify
+different domains of human characteristics
+based on the different descriptive jobs performed by the words within the domains.
+Next, we attempted preliminary a priori classifications within domains, mainly as a means
+of keeping track of terms and lightening our
+clerical burdens. The overall strategy for
+developing a taxonomy within a single domain
+may be honorifically described as "iterative,"
+although "trial and error" may be a more apt
+descriptor. Our main concern was the avoidance of premature "fixing" of a taxonomy.
+Hence, all preliminary classifications were
+tentative in nature and subject to continual
+revision in the light of other developing categories. This rather complex interactive strategy will be illustrated with reference to the
+development of a taxonomy within the domain of interpersonal traits.
+
+The Domain of Interpersonal Traits
+The line of reasoning to be presented originated in the interpersonal theory of Sullivan
+(1953) and was later operationalized in a set
+of personality measurement procedures by
+Leary (1957) and his colleagues. Foa (1961,
+1965) integrated this theory with Guttman's
+(1954) order analysis, and the general orientation was extended to domains other than
+the interpersonal by Rinn (1965). Notable
+interpersonal systems based on a circumplex
+model have also been described by Becker and
+Krug (1964), Benjamin (1974), Lorr and
+McNair (1963), Schaefer (1959), and Stern
+(1970). This general framework was integrated with interpersonal exchange theory
+(Homans, 1961) by Carson (1969) and by
+Foa and Foa (1974).
+In their most recent theoretical statement,
+Foa and Foa (1974) describe the development
+of cognitive categories of social perception as
+a progressive differentiation of structure involving facets of directionality, object, and
+resource. A somewhat simplified version of
+Foa and Foa's representation of this structure
+is illustrated at the top of Figure 1. The earli-
+
+398
+
+JERRY S. WIGGINS
+
+est cognitive schemata are based on the discrimination of the directionality of social
+events (give vs. take, accept vs. reject). With
+the acquisition of the concept of social object
+(self vs. other) four categories of social meaning are discriminated (e.g., give to self, take
+away from other). Out of an initially undifferentiated matrix of resource classes, services
+are differentiated from love, and the latter is
+further differentiated into love and status.
+With the distinction between love and status,
+earlier facets become reorganized, and it is
+possible to distinguish eight features of social
+meaning (e.g., granting status to oneself,
+denying love to another). These eight features
+may be thought of as part of a semantic code
+strip that provides the basic discriminations
+for encoding and decoding interpersonal events
+(Osgood, 1970).
+Within the above context, interpersonal
+events may be denned as dyadic interactions
+that have relatively clear-cut social (status)
+and emotional (love) consequences for both
+participants (self and other). This definition
+provides a theoretical basis for distinguishing
+interpersonal traits from other categories of
+trait descriptors, such as temperament, moods,
+cognitive traits, and physical characteristics.
+Under the semantic features in Figure 1
+are listed eight theoretical interpersonal variables. The organization of these variables is
+thought to be determined by an interrelated
+set of societal rules that impart meaning to
+social events (Wiggins, Note 1). Thus, actions that have the same profile of semantic
+features are categorized as belonging to the
+same response class. The semantic features of
+each of the eight variables appear as rows in
+Figure 1. Note that the first variable (NO)
+is coded on all the positive (accept) categories
+for self and other with respect to both love
+and status. The first variable is in marked
+contrast to FG for which all values are negative (reject). Variables NO and FG have no
+features in common, but since acceptance and
+rejection are logically opposed concepts, it
+would be expected that the two variables
+would be strongly negatively correlated. Similar relationships can be seen to exist between
+PA and HI, BC and JK, and DE and LM. Note
+also that each variable differs from its ad-
+
+jacent variable by only one element. This is
+also true of the first (NO) and last (LM)
+variables, and hence the structural relations
+among this set of variables can be represented
+as a circumplex (Guttman, 1954).
+The labels that have been attached to the
+interpersonal variables in Figure 1 (gregarious-extraverted, ambitious-dominant, etc.)
+are meant to capture the flavor of terms that
+share the same profile of semantic features
+and may serve more as tags than as definitions.
+Thus, for example, the rather inelegant label
+of "lazy-submissive" is attached to interpersonal transactions involving incompetence,
+passive resistance, submission, or obedience.
+These otherwise diverse attributes share in
+common the semantic features of denying
+status to self, denying love to both self and
+other, and granting status to other. A fuller
+listing of representative terms in each category may be found in Table 2, later in this
+article.
+Were we to collect personality measurements on the eight variables listed in Figure
+1, their intercorrelations would, in theory,
+show the pattern illustrated in Table 1. The
+correlation of a variable with itself is assumed to be unity, so that the principal diagonal of this matrix contains ones. The correlations along this main diagonal are large
+and positive, and they decrease across successive minor diagonals to the w/2nd variable,
+where they are a minimum. The correlations
+then increase up to a large positive value in
+the off-diagonal matrix. The circumplexity of
+this or any other set of variables can be
+evaluated directly from the intercorrelation
+matrix. A rigorous procedure for assessing the
+circumplexity of a set of variables involves
+plotting the correlations of each variable
+(ordinate) with the other variables in sequence (abscissa). This procedure should generate a series of overlapping sine curves that
+can be evaluated for goodness of fit (Stern,
+1970).
+An alternative procedure for evaluating circumplexity is to extract the first two principal
+components from the matrix of intercorrelations and to examine the plot of the variables
+on the two components. Figure 2 presents the
+plot of the eight variables on two principal
+
+TAXONOMY OF INTERPERSONAL TRAITS
+Table 1
+Hypothetical Correlations Among Eight Interpersonal
+
+399
+
+Variables
+
+Variable
+
+PA
+
+BC
+
+DE
+
+FG
+
+HI
+
+JK
+
+LM
+
+NO
+
+PA
+BC
+DE
+FG
+HI
+JK
+LM
+NO
+
+1.00
+.50
+.00
+-.50
+-1.00
+-.50
+.00
+.50
+
+1.00
+.50
+.00
+-.50
+-1.00
+-.50
+.00
+
+1.00
+.50
+.00
+-.50
+-1.00
+-.50
+
+1.00
+.50
+.00
+-.50
+-1.00
+
+1.00
+.50
+.00
+-.50
+
+1.00
+.50
+.00
+
+1.00
+.50
+
+1.00
+
+Note. PA = ambitious-dominant; BC = arrogant-calculating; DE = cold-quarrelsome; FG = aloofintroverted; HI = lazy-submissive; JK = unassuming-ingenuous; LM = warm-agreeable; NO = gregarious-extraverted.
+
+components extracted from the intercorrelations in Table 1. As can be seen from this
+figure, the intercorrelations among variables
+in Table 1 form a perfect, equally spaced circumplex. This pattern follows, both theoretically and empirically, from the pattern of
+shared semantic features among the variables
+illustrated at the bottom of Figure 1. Variables
+that share three features in common are adjacent to each other on the circle; variables
+that have no features in common are opposite
+each other.
+
+There are two distinct advantages to the
+representation of interpersonal variables by a
+two-dimensional circumplex. The first is that
+it provides an explicit conceptual definition
+of the universe of content of interpersonal behavior. Any behavior that meets the definition of a meaningful interpersonal event given
+above must be capable of being represented as
+a vector originating from the center of the
+circle. Thus, the specific system proposed
+here is potentially falsifiable. The second advantage of the circumplex model is that it
+
+AMBITIOUS
+DOMINANT
+
+(PA)
+o
+
+GREGARIOUS o EXTRAVERTED
+
+ARROGANT CALCULATING 0
+
+(NO)
+
+(BC)
+
+WARM o AGREEABLE
+
+COLD QUARRELSOME o
+
+(LM)
+
+(DE)
+
+UNASSUMING
+o INGENUOUS
+
+ALOOF INTROVERTED o
+(FG)
+
+(JK)
+
+o
+
+LAZYSUBMISSIVE
+(HI)
+
+Figure 2. Perfect circumplex of interpersonal variables.
+
+400
+
+JERRY S. WIGGINS
+
+alerts the investigator to noticeable "gaps" in
+the interpersonal space of a given set of variables. Strictly empirical procedures of variable selection are likely to deemphasize the
+importance of certain variables that are implied by the logic of the circumplex system
+but that are underrepresented in the English
+language. Although the system of interpersonal variables under discussion is limited to
+eight variables, it could in principle be equally
+well represented by 16, 32, or 64 variables.
+The thinness with which we slice the circumplex pie is limited by the reliability with
+which respondents can distinguish between
+closely synonymous words or phrases.
+It should be evident that the preceding
+theoretical considerations substantially constrain the final form that a taxonomy of interpersonal traits may assume. The definition
+of interpersonal events, the specification of
+their underlying facet structure, and the selection of a measurement model to represent relationships among variables all express a
+commitment to a particular, albeit widely
+shared, conceptualization of the domain under
+investigation. In this sense, the eventual taxonomy of trait-descriptive terms will be a
+"psychological" taxonomy rather than a
+strictly "semantic" taxonomy based on dictionary definitions. It is assumed that the
+semantic structures underlying social perception in this culture cannot be inferred in any
+obvious way from dictionary definitions. Investigators who start with different assumptions and who utilize different measurement
+models would undoubtedly devise somewhat
+different taxonomies. Structural relationships
+of the kind at issue here are not "discovered"
+(Loevinger, 1957). They are postulated and
+then evaluated for goodness of fit.
+Development of Interpersonal Clusters
+Rational Categorization
+In a preliminary attempt to make the distinction among kinds of trait terms discussed
+above, I classified all of the trait descriptors
+in Goldberg's (Note 2) pool of 1,710 adjectives into one or another of seven a priori
+categories. At that stage in the development
+
+of the taxonomy, the principal distinctions
+were between interpersonal trait terms, temperamental trait terms, and mental predicate
+terms. Tentative categories of "attitudinal
+terms" and "constancy" were employed at this
+point, as well as a "miscellaneous" category
+that involved various dimensions that could
+not be clearly classified into other categories.
+In the initial sorting of the 1,710 adjectives,
+approximately 800 terms were identified as
+"interpersonal" under our working definition
+of interpersonal traits.
+For purposes of preliminary categorization,
+we selected Leary's (1957) system of interpersonal traits, because it appeared to be the
+most explicit system described in the literature, an entire book being devoted to the topic.
+Two colleagues 1 and I thoroughly familiarized
+ourselves with the system and its theoretical
+framework. Working as a team, we considered each of the approximately 800 terms
+previously classified as interpersonal and attempted to classify each within one of the 16
+interpersonal vectors. Adjectives that could
+not be classified within the 16 dimensions and
+that did not appear to belong in one of the
+other five a priori categories were temporarily
+set aside for further analysis. There were remarkably few such adjectives. With considerable effort we were able to distribute 567
+adjectives across the 16 categories with unanimous agreement among three raters.
+Selection oj Preliminary Markers
+Social desirability scale values for all adjectives were available from a previous study
+by Norman (Note 2), and mean self-endorsement frequencies were available from a more
+recent study by Goldberg (Note 2 ) . On the
+basis of these itemmetric data, items were
+selected to serve as preliminary nuclear
+clusters within each of the 16 interpersonal
+categories. These items were selected in such
+a way as to represent the category unambiguously across the range of endorsement frequencies and desirability values. Approxi1
+1 am grateful to James M. Kilkowski and Alexander Galvin for their help and support in this
+enterprise.
+
+TAXONOMY OF INTERPERSONAL TRAITS
+
+mately 12 items were selected for each category.
+In Goldberg's sample of 70 male and 117
+female University of Oregon undergraduates,
+self-ratings were obtained on a 9-place scale
+for each of the 1,710 trait descriptors. Using
+Goldberg's data, our next step was to obtain
+the intercorrelations among terms selected to
+be preliminary markers of each of the categories of interpersonal behavior. By a clustering procedure, a smaller and more homogeneous subset of items was selected within each
+category, with approximately six items per
+cluster.
+The next step was to consider all items
+that had been rationally classified as falling
+within the 16 categories as potential candidates for addition to or deletion from each
+nuclear interpersonal cluster. For this purpose, we scored the preliminary clusters as 16
+scales and examined the correlations of individual items with these scales with an eye
+toward their circumplex patterning. Thus, we
+examined the correlation of each of the 567
+items with the 16 preliminary clusters ordered
+by their hypothetical position in the circumplex. Items were sought that had positive correlations with adjacent clusters, zero correlations with orthogonal clusters, and negative
+correlations with opposite clusters. For most
+items, this circumplex patterning across 16
+clusters was far from perfect. Item selection
+was further complicated by the fact that some
+of the initial nuclear clusters were clearly out
+of place on the circumplex, so that we constantly had to keep in mind the inadequacies
+of our original clusters. By this bootstrap
+procedure, we selected a set of eight adjectives
+for each of the 16 vectors that, we hoped,
+would increase the homogeneity of their vector
+and correct the previous shortcomings of that
+vector.
+We assembled the 128 adjectives chosen to
+mark the 16 vectors into a test format and
+administered it to a small group of students
+from the University of British Columbia. The
+students were requested to rate the self-applicability of the adjectives on a 9-place Likert
+scale. Item responses were summed for both
+octant and sixteenth variables. Intercorrelations among the variables were factored by
+
+401
+
+the method of principal components. Figure
+3 displays the pattern of octant variables
+loading on the first two factors in the University of British Columbia sample. The pattern
+of loadings for 16 interpersonal variables is
+considerably less orderly than this, due no
+doubt to the fact that the vector scores are
+based on fewer items in a relatively small
+sample of subjects. But the pattern of octant
+scores clearly displays some of the difficulties
+we encountered in our attempt to map out
+Leary's (1957) system.
+The most striking feature of Figure 3 is
+the lack of variables in the upper right-hand
+quadrant. This gap in the Leary (1957) circumplex has been previously noted by several
+authors including Stern (1970), who felt that
+the failure of Octants PA and NO to "close"
+raises the question of whether the Leary system is a circumplex. Lorr and McNair (1965)
+noted this gap also and attempted to close it
+with additional substantive variables. Another notable departure from expectations is
+the location of Octant NO, which not only
+fails to appear in the upper quadrant but
+appears below Octant LM. In a sense, then,
+we partially succeeded in replicating the
+Leary system with trait-descriptive adjectives,
+but in so doing we carried over the faults of
+the system as well.2
+Development oj Bipolar Clusters
+At this point it occurred to us that a 16variable circumplex can be rather easily constructed from eight genuine bipolar dimensions. One of the conceptual difficulties we
+experienced in working with the Leary system was a decided lack of bipolarity between
+vectors that appeared opposite each other on
+the circle. In particular, the following implicitly bipolar contrasts did not make a
+great deal of sense: success versus masochism,
+narcissism versus conformity, rebellion versus
+2
+
+Juris I. Berzins (personal communication, March
+8, 1977) plotted the loadings of the original Leary
+(1957) Interpersonal Checklist (ICL) octants on the
+first two principal components in samples of 685
+high school students and 1,109 college students. The
+plots for both samples are indistinguishable from
+Figure 3. (See also Rinn, 1965, p. 458, Figure 6.)
+
+402
+
+JERRY S. WIGGINS
+
+succ;ESSPOVVER
+(PA )
+)
+
+NARCISSISM EXPLOITATION o
+(BC)
+PUNISHMENT HOSTILITY
+( DE )
+
+COLLABORATION •
+LOVE
+0
+(LM)
+
+°
+
+TENDERNESS GENEROSITY
+( NO)
+
+REBELLION DISTRUST
+(FG)
+CONFORMITY
+o TRUST
+( JK)
+MASOCHISM WEAKNESS
+(HI)
+
+Figure 3. Rotated components of Leary (1957) interpersonal variables.
+
+tenderness, distrust versus generosity, and
+punishment versus collaboration.
+In Leary's (1957) original system the tenderness-generosity octant (NO) was conceptualized as the bipolar contrast to the rebellious-distrustful octant (FG). This likely accounts for the noticeable gap in the upper
+right quadrant of the system (Figure 3).
+Tenderness and generosity are not bipolar
+contrasts to rebellious and distrustful behavior. Tenderness and generosity are too weak
+and loving to be placed this high on the circle.
+As Lorr and McNair (1965) noted earlier,
+the NO octant, which falls between dominance
+and love, reflects a socially exhibitionistic
+style of behaving (gregarious-extraverted).
+With a little effort, our revised representation of the 16 interpersonal variables can be
+read from Figure 2. Each variable represents
+a bipolar contrast to the variable appearing
+opposite it on the circle. The contrasts are
+dominant-submissive,
+arrogant-unassuming,
+calculating-ingenuous, cold-warm, quarrelsome-agreeable, aloof-gregarious, introvertedextraverted, and ambitious-lazy.
+In developing our bipolar clusters, we attempted to select items that were highly negatively correlated with their opposite cluster
+and that had zero correlations with their
+
+theoretically orthogonal clusters. Thus, a
+good dominant item should have a high positive correlation with a dominant cluster, a
+high negative correlation with a submissive
+cluster, and essentially zero correlations with
+quarrelsome and agreeable clusters. We used
+a tentative set of 16 four-item bipolar clusters
+as markers to select items having the properties just described. This enabled us to revise and expand our tentative clusters into
+eight-item variables. Factor analysis of these
+eight-item variables in Goldberg's (Note 2)
+sample of 187 subjects revealed the clearest
+circumplex structure we had yet encountered
+in our own work or in the literature. This result was replicated in an additional sample
+of 119 subjects from the University of British
+Columbia.
+Development of Final Scales
+The items in our eight-item bipolar interpersonal clusters were developed from the
+pool of 567 adjectives classified as interpersonal in our initial rational sorting of the
+total list of 1,710 adjectives. The possibility
+clearly existed that some adjectives from
+among the 1,143 not considered would be
+appropriately placed within the 16 interper-
+
+TAXONOMY OF INTERPERSONAL TRAITS
+
+sonal categories. Consequently, a program
+was written to examine the relationships between all 1,710 adjectives and the 16 bipolar
+interpersonal clusters. The program correlates
+each adjective with the 16 bipolar clusters,
+selects the cluster with which the adjective
+is most highly correlated, and then prints out
+an ordered list of variables within each of the
+16 categories. This listing provided the correlation of each item with the cluster with
+which it was most highly correlated. It also
+provided the correlation with the bipolar opposite cluster and with the two orthogonal
+clusters. This procedure produced 16 lists
+that located all 1,710 adjectives with respect
+to the interpersonal cluster with which they
+were most highly correlated.
+Two of us then went through these lists
+and examined the correlation of each item with
+the cluster from the category to which it had
+been assigned, as well as the correlation of
+the item with its opposite and orthogonal
+clusters.3 Items that clearly belonged in the
+interpersonal category to which they had been
+assigned were retained. Items that did not
+appear to belong in the interpersonal category
+to which they were assigned were placed in
+one of eight other taxonomic categories that
+then existed (e.g., temperament, character,
+material traits, etc.).
+At this point, an attempt was made to develop more refined subcategories within the
+broader taxa. Preliminary groupings of clusters
+were formed within the domains of temperament, character, attitudes, mental predicates,
+and social roles. This classification added 38
+new clusters to the 16 interpersonal clusters,
+making a total of 54 categories within the
+preliminary taxonomy. These 54 categories
+were scored as scales by computing, for each
+subject, the sum of his or her ratings to the
+items in that category. In the case of the 16
+interpersonal categories, the 25 best items, as
+determined from item-cluster correlations,
+form the reference scale for each category.
+The next stage of analysis was designed to
+determine more exactly the classification of
+doubtful adjectives in the preceding taxonomic
+sort. This included adjectives that were interpersonal but that seemed to be in the
+wrong interpersonal category, adjectives that
+
+403
+
+were unclassifiable in any category, and adjectives that were candidates for deletion on
+the grounds of ambiguity, obscurity, or lack
+of personological relevance. In addition, all
+adjectives in the interpersonal category other
+than the 400 ( 1 6 X 2 5 ) marker adjectives
+were classified as doubtful for the purpose of
+this analysis. There were 768 such adjectives
+designated as questionable by this criterion.
+Each of the 768 adjectives was correlated with
+all of the 54 taxonomic category scales. Two
+of us then examined this pattern of correlations for all 768 words and assigned them to
+one of the 54 categories on the basis of both
+conceptual and empirical (correlational) considerations. Some items were retained in their
+original interpersonal category, others moved
+to other categories, and some deleted from
+further consideration. By these procedures, a
+revised 54-category taxonomy was developed.
+Within this revised taxonomy, 864 adjectives
+were classified as interpersonal.
+The selection of items for inclusion in the
+final interpersonal trait scales involved one
+more cycle in our iterative procedures The
+2S "best" items previously identified in each
+of the 16 interpersonal categories were scored
+as reference clusters. These reference clusters
+provided a broader representation of the content of the final interpersonal variables than
+did our earlier clusters. Within each category,
+each item was correlated with its own 2 5-item
+cluster and with its 25-item opposite and
+orthogonal clusters. The items were then
+ordered within each category by their correlations with their own clusters.
+Working independently, three of us selected
+the "best" eight items in each of the 16 interpersonal categories. One rater made selections strictly on the basis of a summary numerical index based on item correlations with
+same, opposite, and orthogonal clusters, a
+procedure referred to as empirical. Another
+rater attended to the same item correlations,
+but attempted to choose the more "meaningful" adjectives from pairs that had roughly
+similar empirical characteristics, a procedure
+3
+I would like to acknowledge the substantial help
+of Ana Holzmuller in this and many other phases of
+the project.
+
+404
+
+JERRY S. WIGGINS
+
+designated quasi-empirical. The third rater
+selected sets of eight adjectives that were
+"psychologically cohesive" in terms of his
+conception of the constructs under investigation, the rational procedure.
+The empirical and quasi-empirical itemselection procedures yielded sets of 16 scales
+with highly similar psychometric properties.
+For a specific sixteenth, it was possible to
+identify one or the other of the two scales
+as being preferable, either on grounds of a
+higher alpha coefficient or on the grounds of
+a better position in the 16-variable circumplex plot. Consequently, a combination set of
+8 variables was formed from the best of the
+empirical and quasiempirical sixteenths.
+An additional procedure for item selection
+was based on a more fine-grained analysis of
+the circumplex properties of individual items.
+Each item was correlated with the 16 25-item
+clusters that served as markers of the interpersonal variables. This pattern of correlations was then inspected for the number of
+departures from perfect circumplex ordering
+that occurred. Items with the smallest number of departures from this pattern were retained in a set of scales labeled "item ordering."
+The final selection of a 128-item set of interpersonal variables was based on an index
+of circumplexity that permits comparison
+among competing scale sets (Wiggins & Marston, Note 4). Very briefly, two factors were
+extracted from the intercorrelations among
+interpersonal variables in a given scale set. A
+hypothetical factor matrix was constructed to
+represent a perfect circumplex solution for
+variables of this level of reliability (as estimated from communalities). The sum of the
+absolute differences between elements in the
+hypothetical factor matrix and elements in
+the obtained factor matrix was taken as an
+index of circumplexity. Each of the five sets
+of interpersonal scales was then compared on
+this index. Both octants and sixteenths were
+evaluated in Goldberg's (Note 2) sample of
+187 University of Oregon undergraduates and
+in Norman's sample of 123 University of
+Western Australia undergraduates, An overall index of circumplexity, based on both 8and 16-variable solutions in American and
+
+Australian samples, suggested that the combination set of 128 adjectives had a slight
+edge over the item-ordering, empirical, and
+quasi-empirical procedures and a substantial
+advantage over the rational procedure, which
+fared rather badly. This combination set of
+adjectives, which has been employed in all
+subsequent investigations, is listed in Table 2.
+Generalizability of Circumplex Structure
+The present taxonomy of the interpersonal
+domain is based on an explicit structural
+model (Guttman, 1954) that follows from a
+facet analysis of cognitive categories of social perception (Foa & Foa, 1974). On the
+basis of both theoretical and psychometric
+considerations, a set of eight 16-item scales
+were developed as marker variables of the
+principal vectors of this system. In addition
+to being potentially useful personality assessment measures in their own right, these scales
+enable one to classify any interpersonal trait
+descriptor by establishing its location within
+the circumplex space. However, the meaningfulness of such classification depends
+heavily on the generalizability of the present
+circumplex structure to samples other than
+those involved in the derivation of the eight
+interpersonal scales. The scales were derived
+primarily from Goldberg's (Note 2) sample
+of American students and cross-validated at
+various stages in samples of Canadian students and in Norman's sample of Australian
+students. Although relatively diverse samples
+of students were employed in scale derivation, evidence for the generalizability of the
+circumplex structure must come from other
+sources. Four samples of subjects were tested
+for this purpose.
+Cross-Validation Samples
+Sample A. Subjects were recruited by advertisements to participate in a "personality study" that involved two separate testing
+sessions of approximately 2 hours each
+(Marston, Note 5). Subjects were paid $10
+each for their participation and were provided
+individual feedback if requested. The 128 interpersonal adjectives were embedded in a
+
+TAXONOMY OF INTERPERSONAL TRAITS
+
+405
+
+Table 2
+Final Set of Interpersonal Adjective Scales
+P. Ambitious
+(Success)
+Persevering
+Persistent
+Industrious
+Self-disciplined
+Organized
+Deliberative
+Stable
+Steady
+
+A. Dominant
+(Power)
+Dominant
+Assertive
+Forceful
+Domineering
+Firm
+Self-confident
+Self-assured
+Un-self-conscious
+
+B. Arrogant
+(Narcissism)
+Bigheaded
+Boisterous
+Conceited
+Boastful
+Overforward
+Swellheaded
+Cocky
+Flaunty
+
+C. Calculating
+(Exploitation)
+
+D. Cold
+(Hate)
+Warmthless
+Unsympathetic
+Ironhearted
+Uncharitable
+Coldhearted
+Hardhearted
+Cruel
+Ruthless
+
+E. Quarrelsome
+(Hostility)
+Impolite
+Uncordial
+Discourteous
+Ungracious
+Disrespectful
+Uncooperative
+Ill-mannered
+Uncivil
+
+F. Aloof
+(Disaffiliation)
+Antisocial
+Unneighborly
+Impersonal
+Unsociable
+Distant
+Dissocial
+Unsmiling
+Uncheery
+
+G. Introverted
+(Withdrawal)
+Silent
+Shy
+Introverted
+Bashful
+Inward
+Unrevealing
+Unsparkling
+Undemonstrative
+
+H. Lazy
+(Failure)
+Unproductive
+Lazy
+Unthorough
+Unindustrious
+Inconsistent
+Disorganized
+Unbusinesslike
+Impractical
+
+I. Submissive
+(Weakness)
+Self-doubting
+Self-effacing
+Timid
+Meek
+Unbold
+Unaggressive
+Forceless
+Unauthoritative
+
+J. Unassuming
+(Modesty)
+Nonegotistical
+Undemanding
+Unvain
+Unwild
+Unargumentative
+Boastless
+Pretenseless
+Conceitless
+
+K. Ingenuous
+(Trust)
+Uncunning
+Uncalculating
+Uncrafty
+Unwily
+Unsly
+Guileless
+Undevious
+Undeceptive
+
+L. Warm
+(Love)
+Tenderhearted
+Gentlehearted
+Tender
+Kind
+Emotional
+Sympathetic
+Softhearted
+Appreciative
+
+M. Agreeable
+(Collaboration)
+Courteous
+Charitable
+Well-mannered
+Respectful
+Cordial
+Cooperative
+Accommodating
+Forgiving
+
+N. Gregarious
+(Affiliation)
+Friendly
+Genial
+Neighborly
+Companionable
+Approachable
+Congenial
+Good-natured
+Pleasant
+
+O. Extraverted
+(Outgoingness)
+Outgoing
+Extraverted
+Vivacious
+Jovial
+Enthusiastic
+Cheerful
+Perky
+Unshy
+
+list of 60S adjectives whose order was randomized separately for each subject. Four
+personality inventories were administered in
+varying orders along with the total list of
+adjectives. The 152 subjects (51 men and
+101 women) included both undergraduate and
+graduate students from a variety of academic
+majors at the University of British Columbia.
+Sample B. Representative samples of volunteer and professional workers were recruited
+from three different social service agencies in
+
+Sly
+
+Tricky
+Wily
+Cunning
+Overcunning
+Crafty
+Calculating
+Exploitative
+
+the Greater Vancouver area (Merritt, Note
+6). The 128 interpersonal adjectives were administered in a single booklet along with a
+value survey and a standardized personality
+inventory. Testing was accomplished individually, in small groups, or on a take-home
+basis. One hundred subjects (29 men and 71
+women) completed the interpersonal adjective form.
+Sample C. Students in the second term of
+an introductory psychology class at the Uni-
+
+JERRY S. WIGGINS
+
+406
+SAMPLE
+PA
+o
+
+SAMPLE B
+
+A
+
+PA
+o
+
+o NO
+
+o NO
+
+BC o
+
+BC o
+o LM
+DE o
+
+DE o
+o JK
+FG o
+
+o JK
+
+FG o
+
+o
+
+o
+HI
+
+HI
+
+PA
+o
+
+PA
+o
+BC o
+
+o NO
+o LM
+
+ONO
+
+BC o
+
+o LM
+
+DE o
+
+DE o
+FG o
+O JK
+o
+HI
+
+SAMPLE
+
+o JK
+
+FG
+O
+
+HI
+
+C
+
+SAMPLE
+
+D
+
+Figure 4. Structure of final interpersonal variables in four samples. (PA = ambitious-dominant;
+BC = arrogant-calculating; DE — cold-quarrelsome; FG = aloof-introverted; HI = lazy-submissive ; JK = unassuming-ingenuous; LM — warm-agreeable.)
+
+versity of British Columbia were administered
+the 128 adjectives, embedded in a larger list
+of adjectives, during a regular class period.
+The students were given a guest lecture on
+personality testing in exchange for their participation. Data were collected for 132 subjects (57 men and 75 women).
+Sample D. Summer students enrolled in
+an introductory psychology class at the University of British Columbia were administered
+the 128 adjectives, embedded in a larger list,
+during a regular class period. The students
+later received their own standardized scores
+on the interpersonal variables and a lecture
+on interpersonal behavior. Data were collected
+for 139 subjects (58 men and 81 women).
+Circumplex Analyses
+Intercorrelations were obtained among the
+eight interpersonal adjective scales in each of
+the four samples just described. Two prin-
+
+cipal components were then extracted from
+each of the intercorrelation matrices. In the
+respective analyses, these two components accounted for 76.1% (Sample A), 67.9% (Sample B, 72.0% (Sample C), and 74.8% (Sample
+D) of the total variance. For comparability
+of inspection, the second component of each
+solution was hand rotated to pass through
+the ambitious-dominant vector (PA). Figure
+4 depicts the loadings of the eight interpersonal scales on two hand-rotated principal
+components in each of four samples.
+Perfect, evenly spaced circumplexes (Figure 2) are not expected in real data, because
+of measurement error, and hence the structures in Figure 4 are more properly described
+as quasi-circumplexes (Guttman, 1954). Although the amount of "quasiness" one is
+prepared to tolerate in empirical data is to
+some extent a matter of taste, it seems fair
+to say that the quasi-circumplex structures in
+
+TAXONOMY OF INTERPERSONAL TRAITS
+
+407
+
+Table 3
+Psychometric Characteristics of Interpersonal Adjective Scales
+Internal consistency
+(coefficient alpha)
+Social desirability
+Men
+(n = 236)
+
+Women
+(n = 374)
+
+label
+
+M
+
+SD
+
+M
+
+PA
+BC
+DE
+FG
+HI
+JK
+LM
+NO
+
+5.87
+4.30
+2. 95
+4.28
+3.95
+4.64
+6.64
+6.17
+
+.95
+1.02
+.89
+1.19
+.94
+.93
+.80
+.96
+
+5.72
+3.60
+2.48
+3.87
+4.13
+5.14
+7.08
+6.54
+
+rating
+
+Total
+(N = 610)
+
+(N = 100)
+
+SD
+
+M
+
+SD
+
+M
+
+SD
+
+1.01
+1.07
+.80
+1.17
+1.01
+1.00
+.76
+.96
+
+5.79
+3.87
+2.66
+4.03
+4.06
+4.95
+6.91
+6.40
+
+.99
+1.05
+.84
+1.17
+.99
+.97
+.77
+.96
+
+6.77
+3.66
+2.31
+3.54
+3.37
+5.73
+7.53
+7.52
+
+1.10
+.98
+.81
+.71
+.61
+.95
+.73
+.66
+
+Total
+
+Range of
+values
+from the
+
+(N = 610) samples
+
+.855
+.870
+.877
+.891
+.809
+.801
+.865
+.897
+
+.831-.880
+.84S-.885
+.862-.8S9
+.887-.S94
+.769-838
+.743-.840
+.841-.879
+.887-.917
+
+Note. Scale labels stand for ambitious-dominant (PA); arrogant-calculating (BC); cold-quarrelsome (DE); aloof-introverted
+(FG); lazy-submissive (HI); unassuming-ingenuous (JK); warm-agreeable (LM); and gregarious-extraverted (NO).
+ft
+Scale values range from 1 (extremely inaccurate description) to 9 (extremely accurate description).
+
+Figure 4 are among the clearest reported in
+the personality literature to date. The circumplex ordering obtained in scale derivation
+samples is generalizable across relatively diverse samples of subjects tested in differing
+contexts. Hence, the eight scales may prove
+useful both as measuring instruments and as
+reference points for the classification of items
+and scales in the interpersonal domain.
+Psychometric Characteristics
+Sex
+
+Differences
+
+Table 3 presents normative and psychometric data for each of the eight interpersonal
+adjective scales. The first six columns contain means and standard deviations in a combined sample of 610 North American university students. Inspection of the separate means
+for men and women reveals clear-cut, and to
+some extent predictable, sex differences in
+self-report. In comparison with women, men
+present themselves as more ambitious-dominant, arrogant-calculating, cold-quarrelsome,
+and aloof-introverted. Women present themselves as more lazy-submissive, unassumingingenuous, warm-agreeable, and gregariousextraverted. All of these mean differences are
+statistically reliable. Surprisingly, the smallest
+differences occur on ambitious-dominant (p
+< .03) and lazy-submissive ( / > < . 0 1 ) ; all
+other differences are highly reliable (p <
+.0001).
+
+Sex differences in self-report on the interpersonal circumplex provide a graphic representation of sex role stereotypes in North
+American society (Wiggins & Holzmuller,
+1978). These differences are sample dependent
+and may possibly decrease in future years.
+Samples of university students are not uniformly "stereotyped." They contain differing
+proportions of complexly "sex-reversed" subjects, such as men who score high on lazysubmissive and on aloof-introverted and
+women who score high on ambitious-dominant
+and on gregarious-extraverted (Wiggins &
+Holzmuller, Note 7).
+Social Desirability
+Social desirability ratings of the individual
+adjectives were obtained from Norman's
+monograph (Note 3). One hundred University of Michigan undergraduates (SO men and
+SO women) rated the adjectives on a 9-place
+social desirability rating scale. The means
+and standard deviations for the 16 adjectives
+in each scale appear in columns 7 and 8 of
+Table 3. Comparing the total-sample mean
+self-report scale scores with corresponding
+mean social desirability ratings, it is clear that
+the well-known relationship between endorsement and desirability is found within the interpersonal domain (Edwards, 19S7a). Moreover, the similarity between mean endorsement and mean desirability with respect to
+the patterning or ordering of interpersonal
+
+408
+
+JERRY S. WIGGINS
+
+variables is open to alternative interpretations
+of the circumplex structure in terms of stylistic
+response variables.4
+A variety of procedures have been suggested for coping with the endorsement-desirability confound in self-report personality
+data. On the assumption that in principle, responses within all interpersonal vectors should
+be equiprobable, LaForge and Suczek (1955)
+tried to write desirable phrases for undesirable dimensions ("Can be strict if necessary")
+and undesirable phrases for desirable dimensions ("Spoils people with kindness"). Jackson's (1970) differential reliability index removes desirability variance and enhances content saturation at the stage of item selection.
+Norman (Note 9) has described analysis of
+variance procedures for removing desirability
+variance from the Subject X Item response
+matrix. Finally, several individual difference
+measures of social desirability response style
+have been constructed to permit the assessment of desirability responding for each subject (e.g., Crowne & Marlowe, 1960; Edwards,
+1957b; Wiggins, 1959).
+The extent to which an investigator may
+feel the need to "correct for" the ubiquitous
+endorsement-desirability confound will vary
+with the purpose of the investigation and
+with the investigator's theoretical stance on
+the meaning of the evaluative dimension of
+affective meaning. A set of interpersonal variables that did not differ in desirability (or
+did not reveal sex differences) would be a
+feeble representation of real-life categories
+of social perception. On the other hand, basic
+investigations of the process of responding to
+personality inventory items may require variance decomposition procedures such as those
+of Norman (Note 9). In any event, interpretations of individual or group scores on the interpersonal scales should be made with reference to normative data of the kind provided
+in Table 3. Whether a person or a group
+scores high on warm-agreeable or low on
+cold-quarrelsome can be judged only with
+reference to the scores of others.
+Internal Consistency
+In the selection of item sets to mark the
+vectors of the interpersonal domain, the prin-
+
+cipal itemmetric criterion was that of structural fidelity (Loevinger, 1957). By a variety
+of procedures, we attempted to ensure that
+each item selected was properly located with
+reference to a circumplex that we had adopted
+as the most appropriate measurement model
+for representing the relationships among categories of interpersonal perception. Items were
+also selected that had relatively high correlations with appropriate preliminary scales.
+Final scales thus constructed are likely to
+be internally consistent, although this must
+be demonstrated rather than assumed.
+The next-to-last column of Table 3 presents
+coefficient alpha (Cronbach, 1951) estimates
+of internal consistency for each of the interpersonal scales in a combined sample of university students. The final column of the table
+indicates the range of alpha coefficients obtained in the four samples that constituted the
+combined student group. Although some of
+the interpersonal scales are more reliable
+than others, all of them meet a reasonably
+stringent requirement of acceptable internal
+consistency (a > .80). The range of alpha
+coefficients in the different samples tends to
+be small, and this, together with the representativeness with which the universe of content was sampled, makes it reasonable to assume that the mean alpha values reported
+are good estimates of the characteristic degree
+of interitem structure for the different interpersonal variables (Loevinger, 1957). In this
+respect, the extraversion-introversion dimension (NO-FG) is the most internally cohesive,
+and the variables of unassuming-ingenuous
+(JK) and lazy-submissive (HI) are the least.
+Discussion
+The long-range goal of the research reported in this article was the development of
+a psychological taxonomy that would encompass the approximately 4,000 relatively familiar trait-descriptive terms identified by
+4
+For example, Douglas N. Jackson (personal communication, November 27, 1975) is convinced that
+the present interpersonal circumplex structure, as
+well as others reported in the literature, can be
+accounted for in terms of his threshold theory of
+desirability responding (Rogers, 1971; Jackson, Note
+8).
+
+TAXONOMY OF INTERPERSONAL TRAITS
+
+Norman (Note 3). The research strategy
+adopted for this task relied heavily on certain a priori distinctions between different
+domains of human characteristics. In the present work, the domain of interpersonal traits
+was defined in such a way as to distinguish
+it from other domains such as temperament,
+character, moods, and cognitive traits. These,
+or similar, distinctions have been made by
+most personality theorists concerned with
+taxonomic issues (e.g., Allport, 1937; Cattell,
+1950; Murray, 1938). However within the
+interpersonal domain, the adoption of a
+two-dimensional real-space circumplex model
+(Benjamin, 1974) to capture the interrelationships among trait terms represents a personal methodological preference that is perhaps not as widely shared. On the basis of
+the work reported in this article, it seems
+fair to conclude that the domain of interpersonal trait descriptors can be classified, quite
+precisely, with reference to a circumplex model
+—a conclusion that was not obvious when we
+began. Since there are, no doubt, many other
+ways in which the interpersonal domain could
+be classified, under different definitions and
+different models, the specific advantages of the
+present framework must be discussed in more
+detail.
+Two-dimensional circular orderings of interpersonal variables have been reported in the
+literature for more than 40 years (Schaefer,
+1961), and the general conceptual model underlying this structure can be traced as far
+back as Galen (Roback, 1928). Remarkable
+"convergences" in conception and structure
+have been noted for studies varying widely
+in variables, populations, and measurement
+procedures (Foa, 1961; Schaefer, 1961; Wiggins, 1968). These convergences do not stem
+from the similarity of generative mechanisms
+postulated by different theorists (needs, interests, dynamisms, etc.) to account for surface patterns. Instead, the convergences reflect a set of semantic categories that impart
+a common meaning to social events observed
+by a variety of procedures. The categories
+distinguished by the ordinary language of personality are not sharply demarcated, and
+they are perhaps best thought of as "fuzzy
+sets" (Zadeh, Fu, Tanaka, & Shimura, 1975)
+
+409
+
+rather than as precise logical distinctions. The
+circumplex model appears to be particularly
+well suited for representing elements (in the
+present case, adjectives) whose class membership is continuous rather than discrete.
+Although often working in apparent isolation from one another, numerous investigators
+have proposed highly similar models of interpersonal behavior for the study of parents
+(Chance, 1959; Roe & Siegelman, 1963;
+Schaefer, 1959), children (Baumrind & Black,
+1967; Becker & Krug, 1964; Schaefer & Bayley, 1963), parents and children (Benjamin,
+1974; Foa, Triandis, & Katz, 1966), normal
+and abnormal adults (Leary, 1957; Lorr &
+McNair, 1963), psychotics (Lorr, Klett, &
+McNair, 1963), and college students (Stern,
+1970). Within many of these diverse programs of research, the circumplex model has
+provided a nomological network that has
+enhanced the meaning and significance of
+the separate interpersonal variables employed
+(Schaefer, 1961). Unfortunately, the potential
+of the circumplex as an integrative conceptual
+model has not been as widely recognized by
+those whose research paradigms have focused
+on the intensive study of single dimensions in
+personality and social psychology.
+In a recent book that presents summaries
+of research on the major dimensions of personality, the editors state:
+There obviously has been no overarching plan or
+theory, implicit or explicit, guiding the selection of
+topics for trait researchers. Indeed, the editors were
+forced to organize the book by means of the unsophisticated tactic of simply placing the chapters in
+alphabetical order. (London & Exner, 1978, p. xiv)
+
+But surely the major research topics in contemporary personality and social psychology
+such as achievement and power (PA), Machiavellianism (BC), aggression (DE), introversion (FG), obedience (HI), interpersonal
+trust (JK), altruism and helping behavior
+(LM), affiliation and extraversion (NO)—
+can be related to each other by schemes more
+sophisticated than the alphabet. This is not
+to claim an established isomorphism between
+the research topics just enumerated and the
+present interpersonal taxonomy; rather, it is
+to illustrate the kinds of questions whose
+answers might bring conceptual clarity to
+
+410
+
+JERRY S. WIGGINS
+
+both taxonomic and experimental research.
+For example, once it is recognized that the
+dimensions measured by Bern's (1974) masculinity and femininity scales are the orthogonal interpersonal dimensions of ambitious-dominant (PA) and warm-agreeable
+(LM), then the issue of the "independence"
+of masculinity and femininity, so conceived, is
+seen in a new light (Wiggins & Holzmuller,
+1978).
+The alphabetical list of human "needs"
+provided by Henry Murray (1938) has proved
+to be an exceptionally fertile source of personality dimensions. Within the framework of
+Murray's personology, several of these dimensions have been studied in considerable depth
+(e.g., Atkinson, 1958; McClelland, 1961;
+Winter, 1973), although little attention has
+been given to the interrelationships among
+the needs in the overall system, perhaps because an alphabetical taxonomy provides no
+guidance in this matter. Needs selected from
+Murray's list have formed the basis for two
+multiscale inventories (Edwards, 1959; Jackson, 1967) and for scoring keys on an adjective checklist (Gough & Heilbrun, 1965).
+There appears to be a consistent factor structure associated with the dozen needs these
+instruments happen to share in common, but
+attempts to interpret this structure have not
+been particularly enlightening from a substantive point of view (Huba & Hamilton, 1976).
+In contrast, the strangely neglected work of
+Stern (1958, 1970) presents convincing evidence that a circumplex model provides a
+meaningful representation of the full range of
+Murray's need variables.
+Two-dimensional circumplex models may
+have utility outside the realm of ordinary
+language-trait description associated with personality inventories and adjective checklists.
+The circular ordering of intercorrelations
+among clinical scales from the MMPI has
+been noted (Schaefer, 1961), and it has
+been argued that these scales can be interpreted within a two-dimensional circular
+model of personality (Kassebaum, Couch,
+& Slater, 1959). Given the manner in which
+the MMPI clinical scales were constructed,
+this argument appears rather farfetched on
+initial consideration. However, a recent study
+
+by Plutchik and Platman (1977) suggests a
+possible reason why this might be the case.
+Twelve trait-descriptive adjectives were selected to represent an interpersonal circumplex (Schaefer, 1961). Psychiatrists were
+then asked to rate seven diagnostic categories
+(e.g., paranoid, schizoid, hysterical) with respect to these adjectives. The mean adjective
+profiles of the seven diagnostic categories were
+intercorrelated, and two factors were extracted. The circular ordering of the diagnostic categories (Plutchik & Platman, 1977,
+p. 421) bears a striking resemblance to the
+circular ordering of corresponding MMPI
+scales reported elsewhere (Schaefer, 1961, p.
+135). The constellations of traits implied
+by diagnostic labels can be represented by
+a two-dimensional interpersonal circumplex
+(Schaefer & Plutchik, 1966). To the extent
+that the MMPI clinical scales reflect conventional diagnostic labeling, they too would be
+expected to exhibit a circular ordering.
+The present taxonomy of interpersonal
+traits may prove useful to investigators who
+employ single adjectives as stimulus materials
+in studies of interpersonal perception, impression formation, and trait attribution. The
+representativeness of the stimulus materials is
+always an issue in such studies, and the present taxonomy provides a systematic basis for
+sampling the entire domain of interpersonal
+traits as an alternative to, for example, the
+less differentiated strategy of sampling "favorable" traits. Elaborate sampling procedures
+for the study of one or more specific dimensions of interpersonal behavior are made possible by the availability of a list of 864 terms
+that have been classified within 16 categories.
+The position of an adjective within a given
+category is indexed by the correlation of that
+adjective with its own, its opposite, and its
+orthogonal clusters. In addition, the earlier
+itemmetric work of Norman (Note 3) provides information on these same adjectives
+with respect to such characteristics as social
+desirability, difficulty level, self-endorsement,
+and attributions to liked, indifferent, and disliked others. Although such itemmetric data
+are useful primarily for calibration of stimulus materials, they may themselves be profit-
+
+TAXONOMY OF INTERPERSONAL TRAITS
+
+411
+
+Bern, D. J., & Allen, A. On predicting some of the
+people some of the time: The search for cross-situational consistencies in behavior. Psychological Review, 1974, 81, 506-520.
+Bern, S. L. The measurement of psychological anReference Notes
+drogyny. Journal of Consulting and Clinical Psychology, 1974,42, 115-162.
+1. Wiggins, J. S. In defense of traits. Invited address Benjamin, L. S. Structural analysis of social beto the Ninth Annual Symposium on Recent Dehavior. Psychological Review, 1974, 81, 392-425.
+velopments in the Use of the MMPI, Los Angeles, Carson, R. C. Interaction concepts of personality.
+February 28, 1974.
+Chicago: Aldine, 1969.
+2. Goldberg, L. R. Language and personality: De- Cattell, R. B. Personality: A systematic, theoretical,
+veloping a taxonomy of trait-descriptive terms.
+and factual study. New York: McGraw-Hill, 1950.
+Invited address to the Division of Evaluation and Cattell, R. B. Personality and motivation structure
+and measurement. Yonkers-on-Hudson, N. Y.:
+Measurement at the 86th Annual Convention of
+World Book, 1957.
+the American Psychological Association, San FranChance, E. Families in treatment; from the viewcisco, August 27, 1977.
+point of the patient, the clinician and the re3. Norman, W. T. 2,800 personality trait descriptors:
+searcher. New York: Basic Books, 1959.
+Normative operating characteristics for a university population. Unpublished manuscript, Uni- Cronbach, L. J. Coefficient alpha and the internal
+structure of tests. Psychometrika, 1951, 16, 297-334.
+versity of Michigan, 1967.
+Crowne,
+D. P., & Marlowe, D. A new scale of social
+4. Wiggins, J. S. & Marston, B. J. An index for
+desirability independent of psychopathology. Jourevaluating circumplexity in two-dimensional realnal of Consulting Psychology, 1960, 24, 349-354.
+space models. Unpublished manuscript, University
+Edwards,
+A. L. Social desirability and probability
+of British Columbia, 1976.
+of endorsement of items in the Interpersonal Check
+5. Marston, B. J. Unpublished materials, University
+List. Journal of Abnormal and Social Psychology,
+of British Columbia, 1976.
+1957, 55, 394-396. (a)
+6. Merritt, N. G. Personality and value character- Edwards, A. L. The social desirability variable in
+istics of volunteers and professionals at three difpersonality assessment and research. New York:
+ferent social service agencies. Unpublished master's
+Holt, Rinehart & Winston, 1957. (b)
+thesis, University of British Columbia, 1977.
+Edwards, A. L. Edwards Personal Preference Schedule. New York: Psychological Corporation, 1959.
+7. Wiggins, J. S., & Holzmuller, A. Further evidence
+on androgyny and interpersonal flexibility. Un- Foa, U. G. Convergences in the analysis of the
+structure of interpersonal behavior. Psychological
+published manuscript, University of British CoReview, 1961, 68, 341-353.
+lumbia, 1978.
+8. Jackson, D. N. A threshold model for stylistic re- Foa, U. G. New developments in facet design and
+analysis. Psychological Review, 1965, 72, 262-274.
+sponding. Paper presented at the 76th Annual
+Convention of the American Psychological Associa- Foa, U. G., & Foa, E. B. Societal structures of the
+mind. Springfield, 111.: Charles C Thomas, 1974.
+tion, San Francisco, September 1968.
+Foa,
+U. G., Triandis, H. C., & Katz, E. W. Cross9. Norman, W. T. On decomposing personality ratcultural invariance in the differentiation and orings. Paper presented at the annual meeting of
+ganization of family roles. Journal of Personality
+the Society of Multivariate Experimental Psyand Social Psychology, 1966, 4, 316-327.
+chology, London, Canada, November 7,1974.
+Goldberg, L. R. Differential attribution of traitdescriptive terms to oneself as compared to wellliked,
+neutral, and disliked others: A psychometric
+References
+analysis. Journal of Personality and Social Psychology, 1978, 36, 1012-1028.
+Allport, G. W. Personality: A psychological interGough,
+H. G., & Heilbrun, A. B. The Adjective
+pretation. New York: Holt, 1937.
+Check List manual. Palo Alto, Calif.: Consulting
+Allport, G. W., & Odbert, H. S. Trait names: A
+Psychologists Press, 1965.
+psycho-lexical study. Psychological Monographs,
+Guilford,
+J. P. Personality. New York: McGraw-Hill,
+1936, 47(1, Whole No. 211).
+1959.
+Atkinson, J. W. (Ed.). Motives in fantasy, action
+and society. Princeton, N.J.: Van Nostrand, 1958. Guttman, L. A new approach to factor analysis: The
+radex. In P. R. Lazarsfeld (Ed.), Mathematical
+Baumrind, D., & Black, A. E. Socialization practices
+thinking in the social sciences. Glencoe, 111.: Free
+associated with dimensions of competence in prePress, 1954.
+school boys and girls. Child Development, 1967,
+Heider, F. The psychology of interpersonal relations.
+38, 291-328.
+New York: Wiley, 1958.
+Becker, W. C., & Krug, R. S. A circumplex model for
+social behavior in children. Child Development, Homans, G. C. Social behavior: Its elementary form.
+1964, 35, 371-396.
+New York: Harcourt, Brace, 1961.
+
+ably studied for the light they shed on basic
+issues of social perception (Goldberg, 1978).
+
+412
+
+JERRY S. WIGGINS
+
+Huba, G. J., & Hamilton, D. L. On the generality of
+trait relationships: Some analyses based on Fiske's
+paper. Psychological Bulletin, 1976, 83, 868-876.
+Jackson, D. N. Personality Research Form manual.
+Goshen, N.Y.: Research Psychologists Press, 1967.
+Jackson, D. N. A sequential system for personality
+scale development. In C. D. Spielberger (Ed.),
+Current topics in clinical and community psychology (Vol. 2). New York: Academic Press, 1970.
+Kassebaum, G. G., Couch, A. S., & Slater, P. E.
+The factorial dimensions of the MMPI. Journal
+of Consulting Psychology, 1959, 23, 226-236.
+Kelly, G. A. The psychology of personal constructs
+(Vols. 1 & 2). New York: Norton, 19SS.
+LaForge, R., & Suczek, R. The interpersonal dimension of personality: III. An interpersonal check
+list. Journal of Personality, 195S, 24, 94-112.
+Leary, T. Interpersonal diagnosis of personality.
+New York: Ronald Press, 1957.
+Loevinger, J. Objective tests as instruments of psychological theory. Psychological Reports, 1957, 3,
+635-694 (Monograph No. 9).
+London, H., & Exner, J. E., Jr. (Eds.). Dimensions
+of personality. New York: Wiley, 1978.
+Lorr, M., Klett, C. J., & McNair, D. M. Syndromes
+of psychosis. New York: Macmillan, 1963.
+Lorr, M., & McNair, D. M. An interpersonal behavior
+circle. Journal of Abnormal and Social Psychology,
+1963, 67, 68-75.
+Lorr, M., & McNair, D. M. Expansion of the interpersonal behavior circle. Journal of Personality
+and Social Psychology, 1965, 2, 823-830.
+McClelland, D. C. The achieving society. Princeton,
+N.J.: Van Nostrand, 1961.
+Mischel, W. Personality and assessment. New York:
+Wiley, 1968.
+Murray, H. A. Explorations in personality. New
+York: Oxford University Press, 1938.
+Osgood, C. E. Speculation on the structure of interpersonal intentions. Behavioral Science, 1970, 15,
+237-254.
+Plutchik, R., & Platman, S. R. Personality connotations of psychiatric diagnoses. Journal of Nervous
+and Mental Disease, 1977, 165, 418-422.
+Rinn, J. L. Structure of phenomenal domains. Psychological Review, 1965, 72, 445-466.
+Roback, A. A. The psychology of character. New
+York: Harcourt, Brace, 1928.
+Roe, A., & Siegelman, M. A parent-child questionnaire. Child Development, 1963, 34, 355-369.
+Rogers, T. B. The process of responding to personality items: Some issues, a theory and some re-
+
+search. Multivariate Behavioral Research Monographs, 1971, 6, No. 2.
+Schaefer, E. S. A circumplex model for maternal
+behavior. Journal of Abnormal and Social Psychology, 1959, 59, 226-235.
+Schaefer, E. S. Converging conceptual models for
+maternal behavior and child behavior. In J. C.
+Glidewell (Ed.), Parental attitudes and child behavior. Springfield, 111.: Charles C Thomas, 1961.
+Schaefer, E. S., & Bayley, N. Maternal behavior, child
+behavior, and their intercorrelations from infancy
+through adolescence. Monographs of the Society
+for Research in Child Development, 1963, 28(3,
+Whole No. 87).
+Schaefer, E. S., & Plutchik, R. Interrelationships of
+emotions, traits, and diagnostic constructs. Psychological Reports, 1966, 18, 399-410.
+Stern, G. G. Preliminary manual: Activities IndexCollege Characteristics Index. Syracuse, N.Y.:
+Syracuse University Psychological Research Center, 1958.
+Stern, G. G. People in context: Measuring personenvironment congruence in education and industry. New York: Wiley, 1970.
+Sullivan, H. S. The interpersonal theory of psychiatry. New York: Norton, 1953.
+Webster's new international dictionary (2nd ed.,
+unabridged). Springfield, Mass.: Merriam, 1924.
+Webster's third new international dictionary of the
+English language unabridged. Springfield, Mass.:
+Merriam, 1961.
+Wiggins, J. S. Interrelationships among MMPI measures of dissimulation under standard and social
+desirability instructions. Journal of Consulting
+Psychology, 1959, 23, 419-427.
+Wiggins, J. S. Personality structure. Annual Review
+of Psychology, 1968, 19, 293-350.
+Wiggins, J. S., & Holzmuller, A. Psychological androgyny and interpersonal behavior. Journal of
+Consulting and Clinical Psychology, 1978, 46, 4052.
+Wiggins, J. S., Renner, K. E., Clore, G. L., & Rose,
+R. J. The psychology of personality. Reading,
+Mass.: Addison-Wesley, 1971.
+Winter, D. G. The power motive. New York: Free
+Press, 1973.
+Zadeh, L. A., Fu, K.-S., Tanaka, K., & Shimura, M.
+(Eds.). Fuzzy sets and their applications to cognitive and decision processes. New York: Academic Press, 1975.
+Received April 14, 1978 •
+
+
