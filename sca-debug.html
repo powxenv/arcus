@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Solstice Cycle Assessment — Debug Build v0.17</title>
+<style>
+  :root {
+    --bg: #0d0d12;
+    --surface: #1a1a24;
+    --text: #e0e0e8;
+    --muted: #8888a0;
+    --accent: #f0c060;
+    --summer: #f0a040;
+    --autumn: #c07840;
+    --winter: #6080b0;
+    --spring: #60a060;
+    --threshold: #9070b0;
+    --pip: #3a3a50;
+    --pip-active: #f0c060;
+    --debug-bg: #0a0a10;
+    --debug-text: #88cc88;
+    --debug-label: #66aadd;
+    --debug-value: #ffcc66;
+    --debug-formula: #888;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+  }
+  #app {
+    max-width: 800px;
+    width: 100%;
+    padding: 2rem 1.5rem;
+  }
+  h1 { font-size: 1.6rem; margin-bottom: 0.5rem; color: var(--accent); }
+  h2 { font-size: 1.2rem; margin: 1.5rem 0 0.75rem; color: var(--text); }
+  h3 { font-size: 0.95rem; margin: 1rem 0 0.5rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  p { line-height: 1.6; margin-bottom: 0.75rem; color: var(--muted); }
+
+  /* Progress */
+  #progress-bar {
+    height: 4px; background: var(--pip); border-radius: 2px; margin: 1rem 0 1.5rem;
+  }
+  #progress-fill {
+    height: 100%; background: var(--accent); border-radius: 2px; transition: width 0.3s;
+  }
+  #progress-text { font-size: 0.8rem; color: var(--muted); text-align: right; }
+
+  /* Question */
+  .question-block {
+    background: var(--surface); border-radius: 12px; padding: 1.5rem; margin-bottom: 1rem;
+  }
+  .question-stem { font-size: 1.05rem; margin-bottom: 1.25rem; line-height: 1.5; }
+  .facet-badge {
+    display: inline-block; font-size: 0.7rem; padding: 2px 8px; border-radius: 4px;
+    background: rgba(240,192,96,0.15); color: var(--accent); margin-bottom: 0.75rem;
+  }
+
+  /* Bipolar scale */
+  .scale-container { display: flex; align-items: center; gap: 0; width: 100%; }
+  .pole-label {
+    flex: 0 0 120px; font-size: 0.82rem; color: var(--muted); line-height: 1.3;
+  }
+  .pole-label.left { text-align: right; padding-right: 8px; }
+  .pole-label.right { text-align: left; padding-left: 8px; }
+  .pips { display: flex; gap: 6px; justify-content: center; flex: 1; }
+  .pip-radio { display: none; }
+  .pip-label {
+    width: 36px; height: 36px; border-radius: 50%;
+    background: var(--pip); cursor: pointer; transition: all 0.15s;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.7rem; color: transparent; user-select: none;
+  }
+  .pip-label:hover { background: #504830; transform: scale(1.1); }
+  .pip-radio:checked + .pip-label {
+    background: var(--pip-active); color: #1a1a24; font-weight: 700;
+    transform: scale(1.15); box-shadow: 0 0 12px rgba(240,192,96,0.4);
+  }
+
+  /* Buttons */
+  .btn {
+    display: inline-block; padding: 0.6rem 1.5rem; border-radius: 8px;
+    border: none; cursor: pointer; font-size: 0.95rem; font-weight: 600;
+    transition: all 0.15s;
+  }
+  .btn-primary { background: var(--accent); color: #1a1a24; }
+  .btn-primary:hover { background: #f5d080; }
+  .btn-secondary { background: var(--pip); color: var(--text); }
+  .btn-secondary:hover { background: #4a4a60; }
+  .btn:disabled { opacity: 0.4; cursor: default; }
+  .nav-row { display: flex; justify-content: space-between; margin-top: 1rem; }
+
+  /* Results */
+  .result-card {
+    background: var(--surface); border-radius: 16px; padding: 2rem;
+    text-align: center; margin-bottom: 1.5rem;
+  }
+  .result-icon { font-size: 4rem; margin-bottom: 0.5rem; }
+  .result-season { font-size: 2.2rem; font-weight: 700; margin-bottom: 0.25rem; }
+  .result-archetype { font-size: 1.1rem; color: var(--muted); margin-bottom: 0.25rem; }
+  .result-gradation { font-size: 0.9rem; color: var(--accent); margin-bottom: 1rem; }
+  .result-scores { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin: 1rem 0; }
+  .score-box {
+    background: rgba(255,255,255,0.04); border-radius: 8px; padding: 0.75rem;
+  }
+  .score-label { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; }
+  .score-value { font-size: 1.4rem; font-weight: 700; }
+  .score-bar {
+    height: 6px; border-radius: 3px; margin-top: 4px;
+    background: var(--pip); position: relative; overflow: hidden;
+  }
+  .score-bar-fill { height: 100%; border-radius: 3px; transition: width 0.5s; }
+
+  .facet-detail { text-align: left; font-size: 0.85rem; color: var(--muted); margin-top: 0.75rem; line-height: 1.5; }
+
+  /* Result type colors */
+  .summer { color: var(--summer); }
+  .autumn { color: var(--autumn); }
+  .winter { color: var(--winter); }
+  .spring { color: var(--spring); }
+  .threshold-c { color: var(--threshold); }
+
+  /* Debug panel */
+  #debug-toggle {
+    position: fixed; bottom: 1rem; right: 1rem; z-index: 100;
+    background: var(--surface); border: 1px solid var(--pip); border-radius: 8px;
+    padding: 0.5rem 1rem; cursor: pointer; font-size: 0.8rem; color: var(--muted);
+  }
+  #debug-toggle:hover { border-color: var(--accent); color: var(--accent); }
+  #debug-panel {
+    display: none; position: fixed; top: 0; right: 0; width: 520px; height: 100vh;
+    background: var(--debug-bg); border-left: 1px solid #333;
+    overflow-y: auto; z-index: 99; padding: 1.5rem; font-family: 'SF Mono', 'Menlo', 'Monaco', monospace;
+    font-size: 0.78rem; line-height: 1.5;
+  }
+  #debug-panel.visible { display: block; }
+  .debug-section { margin-bottom: 1.25rem; }
+  .debug-h2 { color: var(--debug-label); font-size: 0.9rem; font-weight: 700; margin-bottom: 0.5rem; border-bottom: 1px solid #333; padding-bottom: 4px; }
+  .debug-h3 { color: #7799bb; font-size: 0.82rem; margin: 0.5rem 0 0.25rem; }
+  .debug-row { display: flex; justify-content: space-between; padding: 1px 0; }
+  .debug-label { color: var(--debug-label); }
+  .debug-value { color: var(--debug-value); }
+  .debug-formula { color: var(--debug-formula); font-style: italic; font-size: 0.7rem; }
+  .debug-good { color: #88cc88; }
+  .debug-warn { color: #cc8844; }
+
+  /* Responsive */
+  @media (max-width: 600px) {
+    .pole-label { flex: 0 0 90px; font-size: 0.72rem; }
+    .pip-label { width: 30px; height: 30px; }
+    .pips { gap: 4px; }
+    #debug-panel { width: 100%; }
+  }
+</style>
+</head>
+<body>
+
+<div id="app">
+  <div id="screen-intro">
+    <h1>☀️ Solstice Cycle Assessment</h1>
+    <p>32 questions. Two dimensions. One place on the cycle of light.</p>
+    <p style="font-size:0.9rem">This is a <strong>debug build</strong>. After you finish, a panel will show every calculation step — raw answers, normalization, facet scoring, axis derivation, prototypicality, angle, gradation, and result selection logic.</p>
+    <button class="btn btn-primary" onclick="start()">Begin</button>
+  </div>
+
+  <div id="screen-quiz" style="display:none">
+    <div id="progress-bar"><div id="progress-fill" style="width:0%"></div></div>
+    <div id="progress-text">0 / 32</div>
+    <div id="question-container"></div>
+    <div class="nav-row">
+      <button id="btn-prev" class="btn btn-secondary" onclick="prev()" disabled>← Back</button>
+      <button id="btn-next" class="btn btn-primary" onclick="next()" disabled>Next →</button>
+    </div>
+  </div>
+
+  <div id="screen-results" style="display:none">
+    <div id="result-content"></div>
+    <button class="btn btn-secondary" style="margin-top:1rem" onclick="resetAll()">Take again</button>
+  </div>
+</div>
+
+<button id="debug-toggle" onclick="toggleDebug()">🔍 Debug</button>
+<div id="debug-panel">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem;padding-bottom:0.5rem;border-bottom:1px solid #333">
+    <span style="color:var(--debug-label);font-weight:700;font-size:0.85rem">🔍 Debug Output</span>
+    <button id="btn-copy-debug" class="btn btn-secondary" style="font-size:0.72rem;padding:0.35rem 0.75rem" onclick="copyDebug()">📋 Copy All</button>
+  </div>
+  <div id="debug-content">Run the assessment to see debug output.</div>
+</div>
+
+<script>
+// ──────────────────────────────────────────────
+// ITEM BANK — 32 items across 4 facets
+// Each item: { id, facet, stem, poleA (Bright/Outward), poleB (Dim/Inward) }
+// For Axis A: Bright = high activation, Dim = low
+// For Axis B: Outward = approach/agentic, Inward = withdrawal/receptive
+// ──────────────────────────────────────────────
+const ITEMS = [
+  // A1 — Baseline Arousal (8 items)
+  { id:'A1.1', facet:'A1', stem:'When you wake, you\'re…', poleA:'Already at full charge.', poleB:'Still coming online, quietly.' },
+  { id:'A1.2', facet:'A1', stem:'When nothing demands your attention, your mind…', poleA:'Stays active.', poleB:'Settles into quiet.' },
+  { id:'A1.3', facet:'A1', stem:'Inside you, there\'s…', poleA:'A steady current running.', poleB:'A stillness.' },
+  { id:'A1.4', facet:'A1', stem:'Your default state is closer to…', poleA:'Readiness.', poleB:'Rest.' },
+  { id:'A1.5', facet:'A1', stem:'Moving from stillness into action, you…', poleA:'Shift quickly.', poleB:'Ease into it.' },
+  { id:'A1.6', facet:'A1', stem:'Your body at rest is…', poleA:'Primed.', poleB:'Deeply still.' },
+  { id:'A1.7', facet:'A1', stem:'At the end of a full day, you\'re…', poleA:'Still humming.', poleB:'Winding down.' },
+  { id:'A1.8', facet:'A1', stem:'Compared to most people, you run…', poleA:'Hotter.', poleB:'Cooler.' },
+
+  // A2 — Stimulation Appetite (8 items)
+  { id:'A2.1', facet:'A2', stem:'The sensory intensity you prefer is…', poleA:'Intense.', poleB:'Gentle.' },
+  { id:'A2.2', facet:'A2', stem:'You prefer your environment…', poleA:'Busy and full.', poleB:'Sparse and open.' },
+  { id:'A2.3', facet:'A2', stem:'The pace you prefer is…', poleA:'Fast.', poleB:'Slow.' },
+  { id:'A2.4', facet:'A2', stem:'How much information and input you want coming at you is…', poleA:'A lot.', poleB:'A little.' },
+  { id:'A2.5', facet:'A2', stem:'Your free time, you prefer…', poleA:'Packed with things to do.', poleB:'Open and unscheduled.' },
+  { id:'A2.6', facet:'A2', stem:'When nothing much is happening, you feel…', poleA:'Restless. You want more.', poleB:'Content. The quiet is fine.' },
+  { id:'A2.7', facet:'A2', stem:'You prefer things…', poleA:'Changing and varied.', poleB:'Steady and uniform.' },
+  { id:'A2.8', facet:'A2', stem:'Compared to most people, you run on…', poleA:'More stimulation.', poleB:'Less stimulation.' },
+
+  // B1 — Social Approach (8 items)
+  { id:'B1.1', facet:'B1', stem:'When something\'s on your mind, you want to…', poleA:'Talk it out with someone.', poleB:'Sit with it alone.' },
+  { id:'B1.2', facet:'B1', stem:'Meeting new people is something you…', poleA:'Move toward.', poleB:'Let come to you.' },
+  { id:'B1.3', facet:'B1', stem:'In a group, you move toward…', poleA:'The center.', poleB:'The edges.' },
+  { id:'B1.4', facet:'B1', stem:'In your close relationships, you tend to…', poleA:'Reach out first.', poleB:'Wait to be reached out to.' },
+  { id:'B1.5', facet:'B1', stem:'Most of your days involve…', poleA:'Lots of people time.', poleB:'Lots of solo time.' },
+  { id:'B1.6', facet:'B1', stem:'Your default orientation is toward…', poleA:'People.', poleB:'Your own world.' },
+  { id:'B1.7', facet:'B1', stem:'Your primary energy source is…', poleA:'Other people.', poleB:'Solitude.' },
+  { id:'B1.8', facet:'B1', stem:'Connection with others is something you…', poleA:'Actively pursue.', poleB:'Let find you.' },
+
+  // B2 — Agency (8 items)
+  { id:'B2.1', facet:'B2', stem:'When a decision is yours, you…', poleA:'Make it and move.', poleB:'Sit with it before acting.' },
+  { id:'B2.2', facet:'B2', stem:'In groups, you tend to…', poleA:'Step forward and lead.', poleB:'Support whoever steps forward.' },
+  { id:'B2.3', facet:'B2', stem:'You want to ___ how things turn out.', poleA:'Shape.', poleB:'Let unfold.' },
+  { id:'B2.4', facet:'B2', stem:'When views differ, you…', poleA:'Try to bring others to yours.', poleB:'Try to take in others\'.' },
+  { id:'B2.5', facet:'B2', stem:'You prefer to…', poleA:'Hold the reins.', poleB:'Adapt to what arrives.' },
+  { id:'B2.6', facet:'B2', stem:'If something needs doing, you…', poleA:'Do it.', poleB:'Let it find the right person.' },
+  { id:'B2.7', facet:'B2', stem:'You mostly…', poleA:'Set your own course.', poleB:'Respond to what\'s asked of you.' },
+  { id:'B2.8', facet:'B2', stem:'When something\'s yours to go after, you…', poleA:'Go after it.', poleB:'Let it come to you.' },
+];
+
+const FACETS = ['A1','A2','B1','B2'];
+const FACET_NAMES = { A1:'Baseline Arousal', A2:'Stimulation Appetite', B1:'Social Approach', B2:'Agency' };
+const AXIS_OF = { A1:'A', A2:'A', B1:'B', B2:'B' };
+const AXIS_NAMES = { A:'Solar Height', B:'Tidal Direction' };
+const POLE_HIGH = { A:'Bright', B:'Outward' };
+const POLE_LOW = { A:'Dim', B:'Inward' };
+const QUADRANT_NAMES = ['Summer','Autumn','Winter','Spring'];
+const QUADRANT_ARCHETYPES = ['The Zenith','The Turning','The Deep','The Greening'];
+const QUADRANT_EMOJI = ['☀️','🍂','❄️','🌱'];
+const QUADRANT_COLORS = ['summer','autumn','winter','spring'];
+const FACET_ITEMS = {}; // populated below
+
+// ──────────────────────────────────────────────
+// STATE
+// ──────────────────────────────────────────────
+let currentIdx = 0;
+let responses = new Array(32).fill(null);  // 1–7, or null
+let orientations = new Array(32); // 1 = poleA on right (Bright/Outward right), -1 = poleA on left
+let debugLog = [];
+
+// Build facet→items map
+ITEMS.forEach((item, i) => {
+  if (!FACET_ITEMS[item.facet]) FACET_ITEMS[item.facet] = [];
+  FACET_ITEMS[item.facet].push(i);
+});
+
+// ──────────────────────────────────────────────
+// RANDOMIZE ORIENTATIONS (pole direction per item)
+// ──────────────────────────────────────────────
+function randomizeOrientations() {
+  for (let i = 0; i < 32; i++) {
+    orientations[i] = Math.random() < 0.5 ? 1 : -1;
+  }
+}
+
+// ──────────────────────────────────────────────
+// RENDER
+// ──────────────────────────────────────────────
+function start() {
+  randomizeOrientations();
+  responses.fill(null);
+  debugLog = [];
+  currentIdx = 0;
+  document.getElementById('screen-intro').style.display = 'none';
+  document.getElementById('screen-results').style.display = 'none';
+  document.getElementById('screen-quiz').style.display = 'block';
+  renderQuestion();
+}
+
+function renderQuestion() {
+  const item = ITEMS[currentIdx];
+  const ori = orientations[currentIdx];
+  const resp = responses[currentIdx];
+
+  // Build HTML
+  let html = `<div class="question-block">`;
+  html += `<div class="facet-badge">${item.id} — ${FACET_NAMES[item.facet]} (${AXIS_NAMES[AXIS_OF[item.facet]]})</div>`;
+  html += `<div class="question-stem">${item.stem}</div>`;
+  html += `<div class="scale-container">`;
+
+  // Left pole: if ori=1, poleB (Dim/Inward) is left; if ori=-1, poleA (Bright/Outward) is left
+  const leftPole = ori === 1 ? item.poleB : item.poleA;
+  const rightPole = ori === 1 ? item.poleA : item.poleB;
+  const leftIsPoleA = ori === -1;
+
+  html += `<div class="pole-label left">${leftPole}</div>`;
+  html += `<div class="pips">`;
+  for (let v = 1; v <= 7; v++) {
+    const checked = resp === v ? 'checked' : '';
+    html += `<input type="radio" name="q${currentIdx}" value="${v}" id="q${currentIdx}_${v}" class="pip-radio" ${checked} onchange="selectAnswer(${v})">`;
+    html += `<label for="q${currentIdx}_${v}" class="pip-label">${v}</label>`;
+  }
+  html += `</div>`;
+  html += `<div class="pole-label right">${rightPole}</div>`;
+  html += `</div></div>`;
+
+  document.getElementById('question-container').innerHTML = html;
+
+  // Update progress
+  const answered = responses.filter(r => r !== null).length;
+  document.getElementById('progress-fill').style.width = (answered / 32 * 100) + '%';
+  document.getElementById('progress-text').textContent = `${answered} / 32`;
+
+  // Update nav buttons
+  document.getElementById('btn-prev').disabled = currentIdx === 0;
+  document.getElementById('btn-next').disabled = responses[currentIdx] === null;
+}
+
+function selectAnswer(value) {
+  responses[currentIdx] = value;
+  document.getElementById('btn-next').disabled = false;
+}
+
+function next() {
+  if (currentIdx < 31) {
+    currentIdx++;
+    renderQuestion();
+  } else {
+    // All done — score
+    showResults();
+  }
+}
+
+function prev() {
+  if (currentIdx > 0) {
+    currentIdx--;
+    renderQuestion();
+  }
+}
+
+// ──────────────────────────────────────────────
+// SCORING ENGINE
+// ──────────────────────────────────────────────
+function score() {
+  const d = {}; // diagnostic object
+
+  // ── Step 1: Collect raw answers ──
+  d.rawAnswers = [];
+  ITEMS.forEach((item, i) => {
+    d.rawAnswers.push({
+      id: item.id,
+      facet: item.facet,
+      raw: responses[i],
+      orientation: orientations[i],
+      poleADesc: item.poleA,
+      poleBDesc: item.poleB,
+    });
+  });
+
+  // ── Step 2: Normalize (higher = more Bright/Outward) ──
+  // If orientation = 1: poleA (Bright/Outward) on RIGHT → raw=7 means max Bright/Outward → keep as-is
+  // If orientation = -1: poleA on LEFT → raw=1 means max Bright/Outward → flip: 8 - raw
+  d.normalized = d.rawAnswers.map(a => {
+    const norm = a.orientation === 1 ? a.raw : (8 - a.raw);
+    return { ...a, normalized: norm };
+  });
+
+  // ── Step 3: Facet scores ──
+  // Facet raw mean = mean of 8 normalized items (1–7)
+  // Facet score = (mean - 1) / 6 * 100 → scaled 0–100
+  d.facets = {};
+  FACETS.forEach(facet => {
+    const idxs = FACET_ITEMS[facet];
+    const norms = idxs.map(i => d.normalized[i].normalized);
+    const sum = norms.reduce((a,b) => a + b, 0);
+    const mean = sum / 8;
+    const score = (mean - 1) / 6 * 100;
+    d.facets[facet] = {
+      items: idxs.map(i => ({ id: ITEMS[i].id, raw: responses[i], norm: d.normalized[i].normalized })),
+      sum, mean, score,
+      formula: `(${norms.map(n=>n.toFixed(0)).join(' + ')}) / 8 = ${mean.toFixed(3)}; (${mean.toFixed(3)} - 1) / 6 × 100 = ${score.toFixed(2)}`
+    };
+  });
+
+  // ── Step 4: Axis scores ──
+  // Axis score = mean of its 2 facet scores (already 0–100)
+  d.axis = {};
+  ['A','B'].forEach(axis => {
+    const facets = axis === 'A' ? ['A1','A2'] : ['B1','B2'];
+    const fA = d.facets[facets[0]].score;
+    const fB = d.facets[facets[1]].score;
+    const score = (fA + fB) / 2;
+    d.axis[axis] = {
+      score,
+      facetScores: { [facets[0]]: fA, [facets[1]]: fB },
+      formula: `(${fA.toFixed(2)} + ${fB.toFixed(2)}) / 2 = ${score.toFixed(2)}`
+    };
+  });
+
+  // ── Step 5: Position relative to center (50, 50) ──
+  const aOff = d.axis.A.score - 50;
+  const bOff = d.axis.B.score - 50;
+  d.position = { aOff, bOff };
+
+  // ── Step 6: Distance & prototypicality ──
+  const distance = Math.sqrt(aOff * aOff + bOff * bOff);
+  const MAX_DIST = 70.71; // sqrt(50² + 50²)
+  const prototypicality = distance / MAX_DIST;
+  d.distance = { distance, maxDist: MAX_DIST, prototypicality,
+    formula: `√((${aOff.toFixed(2)})² + (${bOff.toFixed(2)})²) = ${distance.toFixed(3)};  ${distance.toFixed(3)} / ${MAX_DIST} = ${prototypicality.toFixed(4)}`
+  };
+
+  // ── Step 7: Angle ──
+  const angleRad = Math.atan2(bOff, aOff); // atan2(y, x) → atan2(B, A)
+  let angleDeg = angleRad * 180 / Math.PI;
+  if (angleDeg < 0) angleDeg += 360; // 0–360
+  d.angle = { rad: angleRad, deg: angleDeg,
+    formula: `atan2(${bOff.toFixed(2)}, ${aOff.toFixed(2)}) = ${angleRad.toFixed(4)} rad = ${angleDeg.toFixed(2)}°`
+  };
+
+  // ── Step 8: Quadrant ──
+  // Quadrants: 0=Summer (A>50,B>50), 1=Autumn (A>50,B<50), 2=Winter (A<50,B<50), 3=Spring (A<50,B>50)
+  let quadrant;
+  if (aOff >= 0 && bOff >= 0) quadrant = 0;      // Summer
+  else if (aOff >= 0 && bOff < 0) quadrant = 1;   // Autumn
+  else if (aOff < 0 && bOff < 0) quadrant = 2;    // Winter
+  else quadrant = 3;                                // Spring
+  d.quadrant = { index: quadrant, name: QUADRANT_NAMES[quadrant], archetype: QUADRANT_ARCHETYPES[quadrant],
+    rule: `A${aOff>=0?'≥':'<'}50, B${bOff>=0?'≥':'<'}50 → ${QUADRANT_NAMES[quadrant]}`
+  };
+
+  // ── Step 9: Gradation (angle within quadrant) ──
+  // Angle 0° = right (A>50, B=50), goes CCW.
+  // Correct angle-to-quadrant order: Summer 0–90°, Spring 90–180°, Winter 180–270°, Autumn 270–360°.
+  // Quadrant numbering: 0=Summer, 1=Autumn, 2=Winter, 3=Spring — so start is NOT quadrant*90.
+  const QUAD_ANGLE_START = [0, 270, 180, 90]; // Summer, Autumn, Winter, Spring
+  const quadrantStart = QUAD_ANGLE_START[quadrant];
+  const angleInQuadrant = (angleDeg - quadrantStart + 360) % 360;
+  let gradation;
+  if (angleInQuadrant < 30) gradation = 'Early';
+  else if (angleInQuadrant < 60) gradation = 'Mid';
+  else gradation = 'Late';
+  d.gradation = { quadrantStart, angleInQuadrant, band: gradation,
+    rule: `Angle ${angleDeg.toFixed(2)}° → quadrant ${QUADRANT_NAMES[quadrant]} (starts ${quadrantStart}°, spans 90°); offset ${angleInQuadrant.toFixed(2)}° → ${gradation}`
+  };
+
+  // ── Step 10: Threshold check ──
+  const isThreshold = prototypicality < 0.28;
+  d.threshold = { isThreshold, cutoff: 0.28, prototypicality,
+    rule: `${prototypicality.toFixed(4)} < 0.28 → ${isThreshold ? 'THRESHOLD (Equinox position)' : 'Clear season'}`
+  };
+
+  // ── Step 11: Facet contribution ──
+  d.facetContrib = {};
+  ['A','B'].forEach(axis => {
+    const facets = axis === 'A' ? ['A1','A2'] : ['B1','B2'];
+    const s1 = d.facets[facets[0]].score;
+    const s2 = d.facets[facets[1]].score;
+    const diff = Math.abs(s1 - s2);
+    const dominant = s1 > s2 ? facets[0] : (s1 < s2 ? facets[1] : 'equal');
+    const dominantLabel = dominant === 'equal' ? 'equal contribution' : `driven more by ${FACET_NAMES[dominant]} (${dominant})`;
+    const d1 = Math.abs(s1 - 50);
+    const d2 = Math.abs(s2 - 50);
+    d.facetContrib[axis] = { s1, s2, diff, dominant, dominantLabel, d1, d2,
+      rule: `${FACET_NAMES[facets[0]]}: ${s1.toFixed(2)} (offset from 50: ${d1.toFixed(2)}), ${FACET_NAMES[facets[1]]}: ${s2.toFixed(2)} (offset: ${d2.toFixed(2)}) → ${dominantLabel}`
+    };
+  });
+
+  // ── Step 12: Final result ──
+  let resultType, resultLabel, resultColor;
+  if (isThreshold) {
+    resultType = 'Threshold';
+    resultLabel = '⚖️ The Equinox';
+    resultColor = 'threshold-c';
+  } else {
+    resultType = QUADRANT_NAMES[quadrant];
+    resultLabel = `${gradation} ${QUADRANT_NAMES[quadrant]}`;
+    resultColor = QUADRANT_COLORS[quadrant];
+  }
+  d.result = { type: resultType, label: resultLabel, color: resultColor };
+
+  return d;
+}
+
+// ──────────────────────────────────────────────
+// RESULTS DISPLAY
+// ──────────────────────────────────────────────
+function showResults() {
+  document.getElementById('screen-quiz').style.display = 'none';
+
+  const d = score();
+  debugLog = d; // make available globally
+
+  // Build result card
+  const r = d.result;
+  const isThresh = d.threshold.isThreshold;
+  const q = d.quadrant;
+
+  let html = `<div class="result-card">`;
+
+  if (isThresh) {
+    html += `<div class="result-icon">⚖️</div>`;
+    html += `<div class="result-season threshold-c">The Threshold</div>`;
+    html += `<div class="result-archetype">The Equinox</div>`;
+    html += `<div class="result-gradation">Prototypicality: ${d.distance.prototypicality.toFixed(3)} (below 0.28 cutoff)</div>`;
+    html += `<p style="margin-top:1rem">You sit at the equinox — the balance point where light and dark, outward and inward, are in equipoise. Neither strongly seasonal. You see what the extremes cannot: both sides clearly, at once. You are the bridge between seasons, belonging to all of them without being claimed by any.</p>`;
+  } else {
+    html += `<div class="result-icon">${QUADRANT_EMOJI[q.index]}</div>`;
+    html += `<div class="result-season ${QUADRANT_COLORS[q.index]}">${q.name}</div>`;
+    html += `<div class="result-archetype">${q.archetype}</div>`;
+    html += `<div class="result-gradation">${d.gradation.band} ${q.name} — angle ${d.angle.deg.toFixed(1)}°</div>`;
+  }
+
+  // Axis scores
+  html += `<div class="result-scores">`;
+  ['A','B'].forEach(axis => {
+    const score = d.axis[axis].score;
+    const barColor = axis === 'A' ? 'var(--accent)' : '#88aacc';
+    html += `<div class="score-box">`;
+    html += `<div class="score-label">${AXIS_NAMES[axis]} (0–100)</div>`;
+    html += `<div class="score-value">${score.toFixed(1)}</div>`;
+    html += `<div class="score-bar"><div class="score-bar-fill" style="width:${score}%;background:${barColor}"></div></div>`;
+    html += `<div style="display:flex;justify-content:space-between;font-size:0.7rem;color:var(--muted);margin-top:2px"><span>${POLE_LOW[axis]}</span><span>${POLE_HIGH[axis]}</span></div>`;
+    html += `</div>`;
+  });
+  html += `</div>`;
+
+  // Facet detail
+  html += `<div class="facet-detail">`;
+  ['A','B'].forEach(axis => {
+    const facets = axis === 'A' ? ['A1','A2'] : ['B1','B2'];
+    const fc = d.facetContrib[axis];
+    html += `<strong>${AXIS_NAMES[axis]}:</strong> ${FACET_NAMES[facets[0]]} ${d.facets[facets[0]].score.toFixed(1)}, ${FACET_NAMES[facets[1]]} ${d.facets[facets[1]].score.toFixed(1)}<br>`;
+    html += `<span style="font-size:0.8rem;color:var(--accent)">→ ${fc.dominantLabel}</span><br><br>`;
+  });
+  html += `<strong>Prototypicality:</strong> ${d.distance.prototypicality.toFixed(3)} (distance ${d.distance.distance.toFixed(1)} / ${d.distance.maxDist})<br>`;
+  html += `</div>`;
+
+  html += `</div>`;
+
+  document.getElementById('result-content').innerHTML = html;
+  document.getElementById('screen-results').style.display = 'block';
+
+  // Render debug
+  renderDebug(d);
+}
+
+// ──────────────────────────────────────────────
+// DEBUG PANEL
+// ──────────────────────────────────────────────
+function generateDebugText(d) {
+  const L = '\n';
+  let t = '';
+  const h = (s) => { t += L + '═══ ' + s + ' ═══' + L; };
+  const s = (label, val) => { t += label + ': ' + val + L; };
+  const f = (label, val) => { t += '  ' + label + ' = ' + val + L; };
+
+  t += 'SOLSTICE CYCLE ASSESSMENT — DEBUG REPORT' + L;
+  t += '=========================================' + L;
+  t += 'Generated: ' + new Date().toISOString() + L;
+
+  h('STEP 1 — Raw Answers (32 items)');
+  t += 'Orientation: +1 = Bright/Outward pole on RIGHT (raw 7 = max). -1 = flipped in normalization.' + L + L;
+  d.rawAnswers.forEach(a => {
+    t += '  ' + a.id + ' [' + a.facet + ']'.padEnd(8) + ' raw=' + a.raw + '  ori=' + (a.orientation>0?'+1':'-1').padEnd(3);
+    t += '  A="' + a.poleADesc + '"  B="' + a.poleBDesc + '"' + L;
+  });
+
+  h('STEP 2 — Normalization');
+  t += 'Rule: if ori=-1 → norm = 8 − raw. Higher norm = more Bright/Outward.' + L + L;
+  d.normalized.forEach(a => {
+    const flipped = a.raw !== a.normalized ? ' ← FLIPPED' : '';
+    t += '  ' + a.id.padEnd(6) + ' raw=' + a.raw + ' → norm=' + a.normalized + flipped + L;
+  });
+
+  h('STEP 3 — Facet Scores');
+  t += 'Formula: facet score = (mean(normalized) − 1) / 6 × 100. Range 0–100.' + L;
+  FACETS.forEach(facet => {
+    const f = d.facets[facet];
+    t += L + '  ' + facet + ' — ' + FACET_NAMES[facet] + ' (' + AXIS_NAMES[AXIS_OF[facet]] + ')' + L;
+    f.items.forEach(it => { t += '    ' + it.id + ' norm=' + it.norm + L; });
+    t += '    Sum = ' + f.sum + L;
+    t += '    Mean = ' + f.mean.toFixed(4) + L;
+    t += '    Score = ' + f.score.toFixed(4) + L;
+    t += '    Formula: (' + f.items.map(it=>it.norm).join('+') + ') / 8 = ' + f.mean.toFixed(4) + '; (' + f.mean.toFixed(4) + ' − 1) / 6 × 100 = ' + f.score.toFixed(2) + L;
+  });
+
+  h('STEP 4 — Axis Scores');
+  t += 'Formula: axis score = mean of its 2 facet scores (both already 0–100).' + L;
+  ['A','B'].forEach(axis => {
+    const a = d.axis[axis];
+    const fA = axis === 'A' ? 'A1' : 'B1';
+    const fB = axis === 'A' ? 'A2' : 'B2';
+    t += L + '  Axis ' + axis + ' — ' + AXIS_NAMES[axis] + L;
+    t += '    ' + fA + ' = ' + a.facetScores[fA].toFixed(4) + L;
+    t += '    ' + fB + ' = ' + a.facetScores[fB].toFixed(4) + L;
+    t += '    Score = ' + a.score.toFixed(4) + L;
+  });
+
+  h('STEP 5 — Position Relative to Center (50, 50)');
+  t += '  A − 50 = ' + d.position.aOff.toFixed(4) + L;
+  t += '  B − 50 = ' + d.position.bOff.toFixed(4) + L;
+
+  h('STEP 6 — Distance & Prototypicality');
+  t += 'Formula: distance = √(A_off² + B_off²). max = √(50² + 50²) = 70.71. proto = distance / 70.71.' + L;
+  t += '  Distance = ' + d.distance.distance.toFixed(4) + L;
+  t += '  Max = ' + d.distance.maxDist + L;
+  t += '  Prototypicality = ' + d.distance.prototypicality.toFixed(4) + L;
+  t += '  Calculation: √((' + d.position.aOff.toFixed(2) + ')² + (' + d.position.bOff.toFixed(2) + ')²) = ' + d.distance.distance.toFixed(3) + ' / 70.71 = ' + d.distance.prototypicality.toFixed(4) + L;
+
+  h('STEP 7 — Angle');
+  t += 'Formula: angle = atan2(B_off, A_off). 0°=right (A>50,B=50), CCW. Summer 0–90°, Spring 90–180°, Winter 180–270°, Autumn 270–360°.' + L;
+  t += '  Radians = ' + d.angle.rad.toFixed(4) + L;
+  t += '  Degrees = ' + d.angle.deg.toFixed(4) + '°' + L;
+  t += '  Calculation: atan2(' + d.position.bOff.toFixed(2) + ', ' + d.position.aOff.toFixed(2) + ') = ' + d.angle.rad.toFixed(4) + ' rad = ' + d.angle.deg.toFixed(2) + '°' + L;
+
+  h('STEP 8 — Quadrant Determination');
+  t += 'Rule: A≥50,B≥50=Summer | A≥50,B<50=Autumn | A<50,B<50=Winter | A<50,B≥50=Spring' + L;
+  t += '  ' + d.quadrant.rule + L;
+  t += '  Result: ' + d.quadrant.name + ' — ' + d.quadrant.archetype + L;
+
+  h('STEP 9 — Gradation Band');
+  t += 'Rule: angle within quadrant (0–90°). 0–30°=Early, 30–60°=Mid, 60–90°=Late.' + L;
+  t += '  Quadrant start = ' + d.gradation.quadrantStart + '°' + L;
+  t += '  Angle in quadrant = ' + d.gradation.angleInQuadrant.toFixed(4) + '°' + L;
+  t += '  Band = ' + d.gradation.band + L;
+
+  h('STEP 10 — Threshold Check');
+  t += 'Rule: if prototypicality < 0.28 → Threshold (equinox). Otherwise → clear season.' + L;
+  t += '  Prototypicality = ' + d.threshold.prototypicality.toFixed(4) + L;
+  t += '  Cutoff = ' + d.threshold.cutoff + L;
+  t += '  Decision: ' + (d.threshold.isThreshold ? 'THRESHOLD — Equinox position (near center)' : 'CLEAR SEASON — ' + d.quadrant.name) + L;
+
+  h('STEP 11 — Facet Contribution Analysis');
+  t += 'Rule: which facet\'s score is further from 50? That facet drove the axis.' + L;
+  ['A','B'].forEach(axis => {
+    const fc = d.facetContrib[axis];
+    const facets = axis === 'A' ? ['A1','A2'] : ['B1','B2'];
+    t += L + '  Axis ' + axis + ' — ' + AXIS_NAMES[axis] + L;
+    t += '    ' + FACET_NAMES[facets[0]] + ' = ' + fc.s1.toFixed(4) + ' (offset from 50: ' + fc.d1.toFixed(4) + ')' + L;
+    t += '    ' + FACET_NAMES[facets[1]] + ' = ' + fc.s2.toFixed(4) + ' (offset from 50: ' + fc.d2.toFixed(4) + ')' + L;
+    t += '    Dominant: ' + fc.dominantLabel + L;
+  });
+
+  h('STEP 12 — Final Result');
+  t += '  Result type: ' + d.result.label + L;
+  t += '  Color class: ' + d.result.color + L;
+
+  h('SUMMARY TABLE');
+  t += '  A1     A2     Axis A   B1     B2     Axis B   Proto    Angle    Quadrant   Grad   Result' + L;
+  t += '  ' + [
+    d.facets.A1.score.toFixed(1).padEnd(6),
+    d.facets.A2.score.toFixed(1).padEnd(6),
+    d.axis.A.score.toFixed(1).padEnd(8),
+    d.facets.B1.score.toFixed(1).padEnd(6),
+    d.facets.B2.score.toFixed(1).padEnd(6),
+    d.axis.B.score.toFixed(1).padEnd(8),
+    d.distance.prototypicality.toFixed(3).toString().padEnd(8),
+    d.angle.deg.toFixed(1).toString().padEnd(6),
+    d.quadrant.name.padEnd(10),
+    d.gradation.band.padEnd(6),
+    d.result.type
+  ].join(' ') + L;
+
+  t += L + 'END OF REPORT' + L;
+  return t;
+}
+
+function copyDebug() {
+  if (!debugLog) {
+    alert('No results to copy. Complete the assessment first.');
+    return;
+  }
+  const text = generateDebugText(debugLog);
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.getElementById('btn-copy-debug');
+    const orig = btn.textContent;
+    btn.textContent = '✓ Copied!';
+    btn.style.background = '#3a5a3a';
+    setTimeout(() => { btn.textContent = orig; btn.style.background = ''; }, 1500);
+  }).catch(() => {
+    fallbackCopy(text);
+  });
+}
+
+function fallbackCopy(text) {
+  const ta = document.createElement('textarea');
+  ta.value = text;
+  ta.style.position = 'fixed';
+  ta.style.left = '-9999px';
+  ta.style.top = '0';
+  document.body.appendChild(ta);
+  ta.focus();
+  ta.select();
+  try {
+    document.execCommand('copy');
+    const btn = document.getElementById('btn-copy-debug');
+    const orig = btn.textContent;
+    btn.textContent = '✓ Copied!';
+    btn.style.background = '#3a5a3a';
+    setTimeout(() => { btn.textContent = orig; btn.style.background = ''; }, 1500);
+  } catch(e) {
+    alert('Could not copy automatically. The report is printed to the browser console (F12 → Console).');
+    console.log('DEBUG REPORT:\n' + text);
+  }
+  document.body.removeChild(ta);
+}
+
+function renderDebug(d) {
+  let html = '';
+
+  // ── Section 1: Raw Answers ──
+  html += `<div class="debug-section"><div class="debug-h2">📋 STEP 1 — Raw Answers (32 items)</div>`;
+  html += `<div class="debug-formula">Orientation: +1 = Bright/Outward pole on RIGHT (raw 7 = max Bright/Outward). -1 = Bright/Outward pole on LEFT (raw 1 = max Bright/Outward, will be flipped in normalization).</div>`;
+  html += `<table style="width:100%;border-collapse:collapse;font-size:0.72rem;margin-top:0.5rem">`;
+  html += `<tr style="color:var(--debug-label)"><th style="text-align:left">ID</th><th>Facet</th><th>Raw</th><th>Ori</th><th>Pole A (Bright/Out)</th><th>Pole B (Dim/In)</th></tr>`;
+  d.rawAnswers.forEach(a => {
+    html += `<tr>`;
+    html += `<td>${a.id}</td><td>${a.facet}</td><td style="text-align:center;color:var(--debug-value)">${a.raw}</td>`;
+    html += `<td style="text-align:center">${a.orientation > 0 ? '+1' : '-1'}</td>`;
+    html += `<td style="font-size:0.68rem">${a.poleADesc}</td>`;
+    html += `<td style="font-size:0.68rem">${a.poleBDesc}</td>`;
+    html += `</tr>`;
+  });
+  html += `</table></div>`;
+
+  // ── Section 2: Normalization ──
+  html += `<div class="debug-section"><div class="debug-h2">🔄 STEP 2 — Normalization</div>`;
+  html += `<div class="debug-formula">If orientation = -1: normalized = 8 - raw (so higher normalized value always = more Bright/Outward). If orientation = +1: normalized = raw.</div>`;
+  d.normalized.forEach(a => {
+    const changed = a.raw !== a.normalized;
+    html += `<div class="debug-row">`;
+    html += `<span class="debug-label">${a.id} (${a.facet})</span>`;
+    html += `<span>raw=${a.raw} ori=${a.orientation > 0 ? '+1' : '-1'} → <span class="debug-value">norm=${a.normalized}</span>${changed ? ' <span class="debug-warn">(FLIPPED)</span>' : ''}</span>`;
+    html += `</div>`;
+  });
+  html += `</div>`;
+
+  // ── Section 3: Facet Scores ──
+  html += `<div class="debug-section"><div class="debug-h2">📐 STEP 3 — Facet Scores</div>`;
+  html += `<div class="debug-formula">Facet score = (mean(normalized) - 1) / 6 × 100. Range 0–100. Center = 50.</div>`;
+  FACETS.forEach(facet => {
+    const f = d.facets[facet];
+    html += `<div class="debug-h3">${facet} — ${FACET_NAMES[facet]} (${AXIS_NAMES[AXIS_OF[facet]]})</div>`;
+    html += `<div class="debug-row"><span class="debug-label">Normalized values</span><span>${f.items.map(it => `${it.id}=${it.norm}`).join(', ')}</span></div>`;
+    html += `<div class="debug-row"><span class="debug-label">Sum</span><span class="debug-value">${f.sum}</span></div>`;
+    html += `<div class="debug-row"><span class="debug-label">Mean</span><span class="debug-value">${f.mean.toFixed(3)}</span></div>`;
+    html += `<div class="debug-row"><span class="debug-label">Score (0–100)</span><span class="debug-value">${f.score.toFixed(2)}</span></div>`;
+    html += `<div class="debug-formula">${f.formula}</div>`;
+  });
+  html += `</div>`;
+
+  // ── Section 4: Axis Scores ──
+  html += `<div class="debug-section"><div class="debug-h2">📏 STEP 4 — Axis Scores</div>`;
+  html += `<div class="debug-formula">Axis score = mean of its 2 facet scores (both already 0–100).</div>`;
+  ['A','B'].forEach(axis => {
+    const a = d.axis[axis];
+    html += `<div class="debug-h3">Axis ${axis} — ${AXIS_NAMES[axis]}</div>`;
+    html += `<div class="debug-row"><span class="debug-label">${axis === 'A' ? 'A1' : 'B1'} score</span><span>${a.facetScores[axis === 'A' ? 'A1' : 'B1'].toFixed(2)}</span></div>`;
+    html += `<div class="debug-row"><span class="debug-label">${axis === 'A' ? 'A2' : 'B2'} score</span><span>${a.facetScores[axis === 'A' ? 'A2' : 'B2'].toFixed(2)}</span></div>`;
+    html += `<div class="debug-row"><span class="debug-label">Axis score (0–100)</span><span class="debug-value">${a.score.toFixed(2)}</span></div>`;
+    html += `<div class="debug-formula">${a.formula}</div>`;
+  });
+  html += `</div>`;
+
+  // ── Section 5: Position ──
+  html += `<div class="debug-section"><div class="debug-h2">📍 STEP 5 — Position Relative to Center (50, 50)</div>`;
+  html += `<div class="debug-row"><span class="debug-label">A − 50 (Solar Height offset)</span><span class="debug-value">${d.position.aOff.toFixed(2)}</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">B − 50 (Tidal Direction offset)</span><span class="debug-value">${d.position.bOff.toFixed(2)}</span></div>`;
+  html += `</div>`;
+
+  // ── Section 6: Distance & Prototypicality ──
+  html += `<div class="debug-section"><div class="debug-h2">📏 STEP 6 — Distance & Prototypicality</div>`;
+  html += `<div class="debug-formula">distance = √(A_off² + B_off²). max = √(50² + 50²) = 70.71. prototypicality = distance / 70.71.</div>`;
+  html += `<div class="debug-row"><span class="debug-label">Distance from center</span><span class="debug-value">${d.distance.distance.toFixed(3)}</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">Max possible distance</span><span>${d.distance.maxDist}</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">Prototypicality</span><span class="debug-value">${d.distance.prototypicality.toFixed(4)}</span></div>`;
+  html += `<div class="debug-formula">${d.distance.formula}</div>`;
+  html += `</div>`;
+
+  // ── Section 7: Angle ──
+  html += `<div class="debug-section"><div class="debug-h2">🧭 STEP 7 — Angle</div>`;
+  html += `<div class="debug-formula">angle = atan2(B_off, A_off). 0° = right (A>50, B=50), CCW. Summer 0–90°, Spring 90–180°, Winter 180–270°, Autumn 270–360°.</div>`;
+  html += `<div class="debug-row"><span class="debug-label">Angle (radians)</span><span>${d.angle.rad.toFixed(4)}</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">Angle (degrees)</span><span class="debug-value">${d.angle.deg.toFixed(2)}°</span></div>`;
+  html += `<div class="debug-formula">${d.angle.formula}</div>`;
+  html += `</div>`;
+
+  // ── Section 8: Quadrant ──
+  html += `<div class="debug-section"><div class="debug-h2">🧩 STEP 8 — Quadrant Determination</div>`;
+  html += `<div class="debug-formula">A≥50,B≥50=Summer | A≥50,B&lt;50=Autumn | A&lt;50,B&lt;50=Winter | A&lt;50,B≥50=Spring</div>`;
+  html += `<div class="debug-row"><span class="debug-label">Rule</span><span>${d.quadrant.rule}</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">Quadrant</span><span class="debug-value">${d.quadrant.name} — ${d.quadrant.archetype}</span></div>`;
+  html += `</div>`;
+
+  // ── Section 9: Gradation ──
+  html += `<div class="debug-section"><div class="debug-h2">📐 STEP 9 — Gradation Band</div>`;
+  html += `<div class="debug-formula">Angle within quadrant = (angle - quadrant_start). 0–30° = Early, 30–60° = Mid, 60–90° = Late.</div>`;
+  html += `<div class="debug-row"><span class="debug-label">Quadrant start angle</span><span>${d.gradation.quadrantStart}°</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">Angle within quadrant</span><span class="debug-value">${d.gradation.angleInQuadrant.toFixed(2)}°</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">Gradation band</span><span class="debug-value">${d.gradation.band}</span></div>`;
+  html += `<div class="debug-formula">${d.gradation.rule}</div>`;
+  html += `</div>`;
+
+  // ── Section 10: Threshold Check ──
+  html += `<div class="debug-section"><div class="debug-h2">⚖️ STEP 10 — Threshold Check</div>`;
+  html += `<div class="debug-formula">If prototypicality < 0.28 → Threshold (equinox position). Otherwise → clear season.</div>`;
+  html += `<div class="debug-row"><span class="debug-label">Prototypicality</span><span>${d.threshold.prototypicality.toFixed(4)}</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">Cutoff</span><span>${d.threshold.cutoff}</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">Result</span><span class="${d.threshold.isThreshold ? 'debug-warn' : 'debug-good'}">${d.threshold.rule}</span></div>`;
+  html += `</div>`;
+
+  // ── Section 11: Facet Contribution ──
+  html += `<div class="debug-section"><div class="debug-h2">🔍 STEP 11 — Facet Contribution Analysis</div>`;
+  html += `<div class="debug-formula">Which facet drove each axis score? Measured by absolute distance from 50.</div>`;
+  ['A','B'].forEach(axis => {
+    const fc = d.facetContrib[axis];
+    const facets = axis === 'A' ? ['A1','A2'] : ['B1','B2'];
+    html += `<div class="debug-h3">Axis ${axis} — ${AXIS_NAMES[axis]}</div>`;
+    html += `<div class="debug-row"><span class="debug-label">${FACET_NAMES[facets[0]]} score</span><span class="debug-value">${fc.s1.toFixed(2)}</span><span class="debug-formula"> (offset from 50: ${fc.d1.toFixed(2)})</span></div>`;
+    html += `<div class="debug-row"><span class="debug-label">${FACET_NAMES[facets[1]]} score</span><span class="debug-value">${fc.s2.toFixed(2)}</span><span class="debug-formula"> (offset from 50: ${fc.d2.toFixed(2)})</span></div>`;
+    html += `<div class="debug-row"><span class="debug-label">Dominant</span><span class="debug-value">${fc.dominantLabel}</span></div>`;
+    html += `<div class="debug-formula">${fc.rule}</div>`;
+  });
+  html += `</div>`;
+
+  // ── Section 12: Final Result ──
+  html += `<div class="debug-section"><div class="debug-h2">✅ STEP 12 — Final Result</div>`;
+  html += `<div class="debug-row"><span class="debug-label">Result type</span><span class="debug-value" style="font-size:1rem">${d.result.label}</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">Color class</span><span>${d.result.color}</span></div>`;
+
+  // ── Axis score summary table ──
+  html += `<div style="margin-top:0.75rem;font-size:0.72rem">`;
+  html += `<table style="width:100%;border-collapse:collapse">`;
+  html += `<tr style="color:var(--debug-label)"><th></th><th>A1</th><th>A2</th><th>Axis A</th><th>B1</th><th>B2</th><th>Axis B</th><th>Proto</th><th>Angle</th><th>Quadrant</th><th>Gradation</th><th>Result</th></tr>`;
+  html += `<tr style="color:var(--debug-value)">`;
+  html += `<td>Value</td>`;
+  html += `<td>${d.facets.A1.score.toFixed(1)}</td>`;
+  html += `<td>${d.facets.A2.score.toFixed(1)}</td>`;
+  html += `<td>${d.axis.A.score.toFixed(1)}</td>`;
+  html += `<td>${d.facets.B1.score.toFixed(1)}</td>`;
+  html += `<td>${d.facets.B2.score.toFixed(1)}</td>`;
+  html += `<td>${d.axis.B.score.toFixed(1)}</td>`;
+  html += `<td>${d.distance.prototypicality.toFixed(3)}</td>`;
+  html += `<td>${d.angle.deg.toFixed(1)}°</td>`;
+  html += `<td>${d.quadrant.name}</td>`;
+  html += `<td>${d.gradation.band}</td>`;
+  html += `<td>${d.result.type}</td>`;
+  html += `</tr></table></div>`;
+
+  html += `</div>`;
+
+  document.getElementById('debug-content').innerHTML = html;
+  document.getElementById('debug-panel').classList.add('visible');
+}
+
+// ──────────────────────────────────────────────
+// DEBUG TOGGLE
+// ──────────────────────────────────────────────
+function toggleDebug() {
+  document.getElementById('debug-panel').classList.toggle('visible');
+}
+
+function resetAll() {
+  document.getElementById('screen-results').style.display = 'none';
+  document.getElementById('screen-intro').style.display = 'block';
+  document.getElementById('debug-panel').classList.remove('visible');
+  document.getElementById('debug-content').innerHTML = 'Run the assessment to see debug output.';
+  responses.fill(null);
+  debugLog = null;
+}
+</script>
+
+</body>
+</html>
