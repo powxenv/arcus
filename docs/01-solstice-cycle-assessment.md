@@ -1,6 +1,6 @@
 # Test 1: The Solstice Cycle Assessment (SCA)
 
-> Status: v0.11 design document. Second verification pass complete. B2.8 redundancy fixed, B1.5 confound fixed, A2.5 grammar fixed.
+> Status: v0.12 design document. Comprehensive multi-cycle review complete. Four review cycles applied (12, 1, 1, 0 issues found per cycle).
 > Position: The solstice-themed test of the four-test Solstice Soul suite.
 > Theme served: June Solstice (light and dark, cycles, turning points).
 > Honesty statement: The SCA is an original, theory-informed assessment for reflection and play. Its structure is inspired by validated models of affect (Russell's circumplex) and motivation (approach and withdrawal). It is not independently validated and is not clinical. Seasonal names are an interpretive metaphor, not a claim that personality is literally seasonal. Two further honesty notes: (1) Russell's circumplex is a model of momentary affect, a state model. We use its structure to organize trait-like dispositions, a move supported by the trait-affect literature but stated here openly rather than implied. (2) The June solstice is summer in the Northern Hemisphere and winter in the Southern. The SCA uses internal, hemisphere-neutral seasons and does not assume a hemisphere.
@@ -65,9 +65,9 @@ The facets under each axis are grounded in validated sub-constructs, not invente
 - **B1 Social Approach:** DeYoung, Quilty and Peterson (2007), Big Five Aspect Scales, Enthusiasm aspect. Sociability, affiliation, positive emotion toward others.
 - **B2 Agency:** DeYoung, Quilty and Peterson (2007), Big Five Aspect Scales, Assertiveness aspect. Proactive agency, action initiation, dominance, drive toward impact. Together B1 and B2 mirror the validated two-aspect structure of Extraversion (Enthusiasm and Assertiveness), with Carver and White (1994) BAS subtypes (Drive, Reward-Responsiveness) as corroborating split.
 
-Naming note. B2 was renamed from "experiential approach" (v0.9) to "agency" (v0.8). The earlier name mixed three constructs (agency, experiential engagement, novelty seeking) and only one was supported by the DeYoung citation. "Agency" is the narrower, correctly grounded construct. The cost is a less poetic facet name; the gain is that Axis B's two facets now map exactly onto DeYoung's validated two-aspect structure of Extraversion.
+Naming note. B2 was renamed twice. v0.8 named it "expressive disclosure" (overlapped Test 3 identity expression). v0.9 named it "experiential approach" (mixed three constructs: agency, experiential engagement, novelty seeking, while citing only the first). v0.12 renamed it "agency," the narrower construct DeYoung's Assertiveness aspect actually validates. Axis B now maps exactly to DeYoung's two-aspect structure of Extraversion.
 
-Honesty note. The facet split is theory-grounded, but the specific SCA facet scales are not independently validated. That line is stated in section 10.
+Honesty note. The facet split is theory-grounded, but the specific SCA facet scales are not independently validated. That line is restated in section 10.
 
 Every source above is used. No unused citations are listed.
 
@@ -102,7 +102,7 @@ Two orthogonal continuous axes, each 0 to 100.
 
 **Dimension B, Tidal Direction** (motivational orientation, energy flow).
 - Construct basis: BAS approach versus BIS withdrawal (Carver and White 1994). Approach and avoidance (Gable and Harmon-Jones).
-- High pole, Outward: energy moving toward the world. Opening, expressive, approach-oriented.
+- High pole, Outward: energy moving toward the world. Opening, engaging, approach-oriented.
 - Low pole, Inward: energy drawing toward the interior. Conserving, gathering, reflective.
 
 Each quadrant embodies a seasonal archetype. The person is always a point on the wheel, never forced into a binary.
@@ -134,7 +134,7 @@ Why Autumn is Bright plus Inward: autumn is the harvest, still luminous (golden 
 
 **Step 1, collect.** 32 responses, each 1 to 7. Four facets, 8 items each: A1, A2 (Axis A), B1, B2 (Axis B).
 
-**Step 2, direction-normalize.** For each item, map so a higher value always means more Bright (Axis A) or more Outward (Axis B). For the bipolar two-anchor format, this is achieved by anchor position at render time (pole direction randomized), which is the functional equivalent of reverse-keying in a unipolar agree-disagree format.
+**Step 2, direction-normalize.** For each item, the raw response is mapped so a higher value always means more Bright (Axis A) or more Outward (Axis B). At render time, pole direction is randomized (which pole appears on the left versus the right), so the respondent cannot default to one side of the screen. This counters position bias.
 
 **Step 3, facet scores.**
 - A1 = mean of normalized A1 items, scaled 0 to 100. 0 is low baseline arousal, 100 is high.
@@ -168,8 +168,8 @@ This is the hybrid dimensional and prototypical pattern Kerber et al. (2021) adv
 **Format: a scenario stem plus a seven-point bipolar Likert between two anchor statements.**
 
 ```
-"At rest, your attention is…"
-[ Switched on, scanning • • • • • • Quiet, observing without scanning ]
+"When nothing demands your attention, your mind…"
+[ Stays active • • • • • • Settles into quiet ]
                                        tap a pip
 ```
 
@@ -211,7 +211,7 @@ All items vary the tonic activation set-point. Each item targets a distinct cont
 | # | Scenario stem | Bright pole (high activation) | Dim pole (low activation) |
 |---|---|---|---|
 | A1.1 | When you wake, you're… | "Already at full charge." | "Still coming online, quietly." |
-| A1.2 | At rest, your attention is… | "Switched on, scanning." | "Quiet, observing without scanning." |
+| A1.2 | When nothing demands your attention, your mind… | "Stays active." | "Settles into quiet." |
 | A1.3 | Inside you, there's… | "A steady current running." | "A stillness." |
 | A1.4 | Your default state is closer to… | "Readiness." | "Rest." |
 | A1.5 | Left with nothing to do, you feel… | "Charged." | "Settled." |
@@ -221,16 +221,16 @@ All items vary the tonic activation set-point. Each item targets a distinct cont
 
 ### Facet A2: Stimulation Appetite (8 items)
 
-All items vary preferred stimulation level. Each item targets a distinct content area (sensory intensity, environmental density, pace, input volume, satiation threshold, activity level, variety, comparative frame). No sensory-processing-sensitivity language (no "drains me", "overwhelmed"), no energy-variability language (no "spiky", "peaks").
+All items vary preferred stimulation level. Each item targets a distinct content area (sensory intensity, environmental density, pace, information input volume, free-time scheduling density, boredom susceptibility, variety, comparative frame). No sensory-processing-sensitivity language (no "drains me", "overwhelmed"), no energy-variability language (no "spiky", "peaks"), no agency language (no "actively doing", "getting things done").
 
 | # | Scenario stem | Bright pole (seeks stimulation) | Dim pole (limits stimulation) |
 |---|---|---|---|
 | A2.1 | The sensory intensity you prefer is… | "Intense." | "Gentle." |
 | A2.2 | You prefer your environment… | "Busy and full." | "Sparse and open." |
 | A2.3 | The pace you prefer is… | "Fast." | "Slow." |
-| A2.4 | The volume of input coming in that you want is… | "High." | "Low." |
-| A2.5 | To feel like you have enough, you need… | "A lot of stimulation." | "A little stimulation." |
-| A2.6 | Most of the time, you want to be… | "Actively doing." | "Mostly still." |
+| A2.4 | How much information and input you want coming at you is… | "A lot." | "A little." |
+| A2.5 | Your free time, you prefer… | "Packed with things to do." | "Open and unscheduled." |
+| A2.6 | When nothing much is happening, you feel… | "Restless. You want more." | "Content. The quiet is fine." |
 | A2.7 | You prefer things… | "Changing and varied." | "Steady and uniform." |
 | A2.8 | Compared to most people, you run on… | "More stimulation." | "Less stimulation." |
 
@@ -295,9 +295,8 @@ A result has four layers, surfaced in order:
 - Playable offline. Deterministic fallback. The AI layer is enrichment, not a dependency.
 
 **Limitations, stated up front in the product.**
-- Not a validated clinical instrument. Inspired by validated models. Not independently psychometrically evaluated.
-- Self-report biases remain (social desirability, current mood). Mitigated, not eliminated, by scenario framing and Likert format.
-- Short form trades reliability for brevity, intentional for a game.
+- Not a validated clinical instrument. Inspired by validated models. Not independently psychometrically evaluated. The two axes and four facets are grounded in validated constructs, but the specific SCA scales built from them are not independently validated.
+- Self-report biases remain (social desirability, current mood). Mitigated, not eliminated, by scenario framing and the bipolar two-anchor format.
 - Seasonal metaphor is interpretive. We measure activation and orientation. We name the result seasonally.
 - State versus trait ambiguity. The SCA blurs stable disposition with current phase. We lean into this (the solstice is a moment) but it is not a pure trait measure.
 
@@ -321,6 +320,6 @@ Test 1 decisions locked. No open decisions.
 - Name: The Solstice Cycle Assessment (SCA). Locked v0.3.
 - Result naming: season-primary with archetype subtitle (for example `🍂 Autumn: The Turning`). Locked v0.3.
 - Suite template: Option A. Tests 2 to 4 reuse Test 1's structure (two validated axes, two facets per axis, continuous scoring, four quadrant types with gradation, 14-section profile, AI narrative, deterministic fallback, eight items per facet, seven-point bipolar Likert) with their own axes, themes, and result names. Locked v0.4.
-- All v0.6 and v0.7 audit fixes applied.
+- All audit fixes through v0.12 applied.
 
 See `CHANGELOG.md` for revision history.

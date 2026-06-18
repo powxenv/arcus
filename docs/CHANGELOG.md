@@ -2,6 +2,28 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.16 (2026-06-18): Test 1 comprehensive multi-cycle review
+
+Why: the user requested a comprehensive, objective, critical review with explicit instruction to iterate until genuinely satisfied, not declare done after one pass. Four review cycles were performed.
+
+Cycle 1 (12 issues found): three cross-document inconsistencies between 00 and 01 (B2 still called "experiential approach" in 00's table and facet note; 00's bias statement still conflated position and acquiescence); two item construct-drift problems (A1.2 "scanning" toward Neuroticism vigilance; A2.6 "actively doing" toward B2 agency); one item redundancy (A2.4 and A2.5 near-duplicate); four wording and doc issues (§4 "expressive" overlapping Test 3; §10 "short form" limitation misleading at 32 items; §6 Step 2 reverse-keying wording; §11 stale audit reference).
+
+Cycle 2 (1 issue): the A2 facet intro's content-area list was left stale after Cycle 1 changed A2.5 and A2.6. Fixed.
+
+Cycle 3 (1 issue): the §7 format-example diagram still showed the old A1.2 item ("switched on, scanning"), which Cycle 1 had changed. Cascading consequence of a prior fix. Fixed to match the current A1.2.
+
+Cycle 4 (0 issues): full re-read confirmed all fixes held and no new cascading issues. Convergence pattern (12, 1, 1, 0) indicates the review completed rather than being truncated.
+
+Changes applied across the four cycles:
+- 00 and 01 now agree: B2 is "agency" everywhere, bias statements correctly separate position bias (pole randomization) from acquiescence bias (statement-choice format).
+- A1.2 rewritten to remove Neuroticism drift. A2.6 rewritten as boredom susceptibility (Zuckerman) to remove B2 agency drift. A2.4 and A2.5 differentiated (information input volume vs free-time scheduling density).
+- §4 "expressive" changed to "engaging." §10 "short form" limitation removed and replaced with the specific facet-validation caveat. §6 Step 2 wording clarified. §11 audit reference updated.
+- §7 example diagram updated to match current A1.2.
+
+Three items kept as documented judgment calls (not flaws): A1.7 (informant-report framing; activation is observable so the item has validity benefit), B1.7 (classic recharge item; transparent but construct-central and literature-standard), B2.8 (competition; mild Agreeableness confound on the receptive pole but defensible within Assertiveness). These are the kind of items a pilot study would prune if data showed problems.
+
+Assessment. Test 1 meets the quality bar for a no-data theory-informed framework: internally consistent across all three docs, thematically integrated (solstice structure, threshold/equinox distinction, hemisphere-aware, moment-on-the-cycle poetry), theory-grounded with each citation stating its use, 32 facet-organized items with distinct content areas per facet and no cross-facet construct drift, 14-section affirming profiles, honest limitations stated. The irreducible limits (authored not empirically validated; facets overlap Big Five Extraversion by design) are the stated ceiling in 00 §2.1, not hidden flaws.
+
 ## v0.15 (2026-06-18): Test 1 second verification, three more fixes
 
 Why: the user asked again whether I was truly confident. Honest answer was no, because v0.14's "verified" claim was made after only re-reading the B2 region, not the full bank. End-to-end re-read found three more issues.

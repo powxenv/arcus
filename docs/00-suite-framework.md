@@ -27,7 +27,7 @@ This partition is the suite's main strength. Affect, cognition, identity, and ti
 
 **Response format.**
 - Seven-point bipolar Likert (segmented pips between two anchor statements).
-- Pole direction randomized per item to counter position and acquiescence bias.
+- Pole direction randomized per item to counter position bias; the bipolar two-anchor format counters acquiescence bias.
 
 **Item structure. Facet-organized, not axis-level.**
 - Two axes per test.
@@ -101,14 +101,14 @@ Each axis has 2 theory-grounded facets (8 items each). Facets named below; full 
 
 | # | Theme | Name | Domain | Axis 1 (facets) | Axis 2 (facets) | Results |
 |---|---|---|---|---|---|---|
-| 1 | Solstice | SCA | Affect | Solar Height: baseline arousal, stimulation appetite | Tidal Direction: social approach, experiential approach | Summer, Autumn, Winter, Spring |
+| 1 | Solstice | SCA | Affect | Solar Height: baseline arousal, stimulation appetite | Tidal Direction: social approach, agency | Summer, Autumn, Winter, Spring |
 | 2 | Turing | MMA | Cognition | Processing Mode: deliberation preference, override tendency | Encoding Structure: entry point, working scale | Algorithm, Cipher, Gestalt, Architecture |
 | 3 | Pride | SSA | Identity | Identity Plurality: self-concept integration, contextual variation | Identity Expression: visibility preference, disclosure selectivity | Beacon, Ember, Prism, Aurora |
 | 4 | Passage of Time | TOA | Time | Temporal Orientation: past valence, future salience | Temporal Mode: scheduling preference, flow tolerance | Archivist, Navigator, Storyteller, Pioneer |
 
 Status. Tests 1 and 2 are expanded to 32 items with the facet structure below (v0.9). Tests 3 and 4 are designed at 32 items from the start.
 
-Facet note. Test 1 Axis B facets are "social approach" and "experiential approach" (the sociability versus activity distinction in Big Five extraversion), not "expressive disclosure" as in v0.8. The earlier name overlapped with Test 3 Axis 2 (identity expression); the refinement keeps the four tests non-redundant.
+Facet note. Test 1 Axis B facets are "social approach" (DeYoung Enthusiasm aspect) and "agency" (DeYoung Assertiveness aspect). Together they mirror the validated two-aspect structure of Big Five Extraversion. B2 was renamed twice during design ("expressive disclosure" in v0.8 overlapped Test 3; "experiential approach" in v0.9 mixed three constructs); "agency" is the correctly grounded current name.
 
 
 ---
