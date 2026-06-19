@@ -65,7 +65,11 @@ Affirming framing verified throughout. Complementary-mode pairings correct and s
 
 ### Deferred
 
-- Public-facing research paper (`PTA-research-paper.md`): not yet written.
+- None. Test 4 v0.1 is feature-complete: design doc, profiles (through audit and build-consistency passes), build, simulation, and research paper all delivered.
+
+### Research paper (v0.21 pass)
+
+`docs/PTA-research-paper.md` (~38KB) created, matching the SCA/MMA/SSA companion-document format. Sections: what the test measures (two axes, each grounded in full-text-verified constructs), sources rejected (mono/polychronic, CFC, narrative identity in interview form), the four modes plus The Horizon boundary, question design, scoring (including the construct-specific Axis 1 reverse-keying and per-axis tension model), the research in one place, the test in practice (five explicit limitations), and references. All 12 structural citations verified against downloaded full-text PDFs. Stop-slop pass applied (0 em dashes; "essentially" and "fundamentally" removed).
 
 ### Build & simulation (v0.21 pass)
 

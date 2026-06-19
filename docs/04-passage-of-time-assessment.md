@@ -322,6 +322,7 @@ A short, plain-language disclaimer appears with every result.
 - Short form: PTA-16 selected and documented in §8.1.
 - Citations: 7 structural sources verified against full-text PDFs (Zimbardo & Boyd 1999, Sircova et al. 2014, Stolarski & Matthews 2016, Hershfield et al. 2009, Hershfield 2011, McAdams et al. 2001, Adler et al. 2015). 4 facet-content sources (Webster 1993, Westerhof et al. 2010, Vowinckel et al. 2015, Sobol-Kwapinska & Jankowski 2015). 3 source clusters rejected (mono/polychronic: Hall 1959, Schell & Conte 2008, Bluedorn 1999; CFC: Strathman et al. 1994, Joireman et al. 2012; narrative identity in canonical interview form: McAdams, Adler).
 - Profiles: `04b-ptoa-result-profiles.md` contains profiles through the v0.21 audit pass and the build-consistency pass.
+- Research paper: `docs/PTA-research-paper.md` created (public-facing companion document following SCA/MMA/SSA format).
 - Build: `ptoa-debug.html` implemented (32-item bank, PTA-16 toggle, reverse-keyed Axis 1, construct-specific per-axis tension, debug panel). Simulation: `ptoa-simulate.ts` implemented. Cross-length agreement: 100%. Build and sim agree exactly on deterministic respondents. CSVs exported.
 
 See `CHANGELOG.md` for revision history.
