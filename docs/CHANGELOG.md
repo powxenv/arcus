@@ -48,26 +48,29 @@ Boundary: **The Reflection Point**, named for the self-reflection needed to deve
 - `docs/03-spectrum-of-self-assessment.md` — full design doc (status header, name, theoretical foundation with honesty notes, item bank, scoring, result types, lengths, limitations).
 - `docs/03b-ssa-result-profiles.md` — 14-section profiles for all four modes plus The Reflection Point boundary.
 
-### Subsequent passes: item audit, boundary rename, B2 rename, stop-slop, build, simulation
+### Subsequent passes: item audit, UX review, stop-slop, boundary rename, B2 rename, build, simulation, research paper
 
-**10 items rewritten** after a full independent construct-purity audit. Five had construct problems (social desirability, cultural dependence, cross-facet confound, authenticity/impulsivity confound); five were near-duplicates replaced with content that extends facet coverage (self-belief resilience, best/worst-self coherence, relational depth over time).
+**10 items rewritten** after a full independent construct-purity audit. Five had construct problems (social desirability, cultural dependence, cross-facet confound, authenticity/impulsivity confound); five were near-duplicates replaced with content that extends facet coverage.
+
+**UX review** — five stems shortened and de-academicized (A1.4 removed inaccessible metaphor, A1.7 removed habit presumption, A2.6 shortened from 17 to 7 words, B1.3/B1.4 replaced formal language with conversational). Six minor issues noted and kept.
+
+**Stop-slop pass** — all em dashes removed from design doc and build (replaced with periods, colons, or middle dots). SCC mapping notes simplified from multi-sentence attribution to single-line summary. Status header tightened.
 
 **Boundary renamed:** The Reflection Point → The Reflection.
 
 **B2 renamed:** Genuine Relating → Relational Authenticity. Unbiased Processing gap acknowledged.
 
-**SSA-16 swap:** B1.8 replaced with B1.2. B1.8 measures effort-cost, not commitment to authenticity. B1.2 (public-private consistency) is a cleaner signal.
+**SSA-16 swap:** B1.8 replaced with B1.2 (B1.8 measures effort-cost, B1.2 measures public-private consistency). Cross-length agreement 100%.
 
-**Stop-slop pass:** prose em dashes removed, adverb count reduced, filler phrases cut. Item-pole em dashes kept (conversational speech).
+**Build:** `ssa-debug.html` implemented. **Simulation:** `ssa-simulate.ts` implemented.
 
-**SCC item mapping** added to A1/A2 tables. Designer-split honesty notes surfaced in §4 and §8. Tracy & Robins exclusion strengthened. Self-esteem confound added as Honesty Note 3.
-
-**Build:** `ssa-debug.html` implemented. **Simulation:** `ssa-simulate.ts` implemented. Cross-length agreement: 100%.
+**Research paper:** `docs/SSA-research-paper.md` created (public-facing companion, following SCA/MMA format).
 
 ### Deferred
 - Profile audit (the 14-section profiles in 03b are drafts).
 - Tracy & Robins pride-emotion integration as profile texture.
 
+## v0.3 (2026-06-19): Test 2 full-text paper audit, citations updated, Turing theme verified
 
 Why: the v0.2 design cited 13+ cognitive psychology sources but the paper-downloads folder contained one verified cognitive paper (Stanovich & West, 2000). Seven new full-text PDFs were acquired and reviewed, and the design was rebuilt against what the papers actually say, not what the v0.2 citations claimed.
 

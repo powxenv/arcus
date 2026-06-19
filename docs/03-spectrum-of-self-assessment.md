@@ -297,6 +297,7 @@ A short, plain-language disclaimer appears with every result.
 - Short form: SSA-16 selected and documented in §8.1 (B1.8 swapped for B1.2 in final selection).
 - Citations: 4 structural sources verified against full-text PDFs (Campbell 1996, Kernis & Goldman 2006, Snyder 1974, Wood 2008). 2 sources rejected (Showers 1992, Linville 1987: card-sorting tasks incompatible with self-report).
 - Profiles: `03b-ssa-result-profiles.md` contains draft profiles. Not yet through a full audit cycle.
+- Research paper: `docs/SSA-research-paper.md` created (public-facing companion document following SCA/MMA format).
 - Build: `ssa-debug.html` implemented. Simulation: `ssa-simulate.ts` implemented. Cross-length agreement: 100%.
 
 See `CHANGELOG.md` for revision history.
