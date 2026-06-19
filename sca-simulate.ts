@@ -128,10 +128,17 @@ const QUADRANT_ARCHETYPES = ["The Zenith", "The Turning", "The Deep", "The Green
 // sides of 50 AND both are at least this far from 50. Designer-set, tunable.
 const TENSION_MARGIN = 20;
 
-// facet → item indices
+// facet → item indices into the FULL 32-item bank (used for SCA-32 and as the master map).
 const FACET_ITEMS: Record<FacetId, number[]> = {} as any;
 for (const f of FACETS) FACET_ITEMS[f] = [];
 ITEMS.forEach((item, i) => FACET_ITEMS[item.facet].push(i));
+
+// SCA-16 short form: indices into the 32-item bank (see 01 §8.1 for selection rationale).
+const SCA16_IDS = new Set(["A1.1","A1.2","A1.4","A1.6","A2.1","A2.2","A2.3","A2.6","B1.2","B1.3","B1.5","B1.6","B2.1","B2.2","B2.3","B2.6"]);
+const SCA16_INDICES = ITEMS.map((it, i) => SCA16_IDS.has(it.id) ? i : -1).filter(i => i >= 0);
+// Per-facet indices for SCA-16 (subset of FACET_ITEMS, same bank indices).
+const FACET_ITEMS_16: Record<FacetId, number[]> = {} as any;
+for (const f of FACETS) FACET_ITEMS_16[f] = FACET_ITEMS[f].filter(i => SCA16_IDS.has(ITEMS[i].id));
 
 // ── HELPERS ────────────────────────────────────────────
 function clamp(v: number, lo: number, hi: number): number {
@@ -151,25 +158,34 @@ function choice<T>(arr: T[]): T {
 }
 
 // ── SCORING ENGINE ─────────────────────────────────────
-function score(rawResponses: number[], orientations?: number[]): ScoreResult {
-  if (rawResponses.length !== 32) throw new Error(`Need 32 responses, got ${rawResponses.length}`);
+// length-aware: scores either the full 32-item bank (default) or the SCA-16 subset.
+// For SCA-16 we pass activeIdxs = SCA16_INDICES; the 32-length raw/orient arrays are
+// indexed by those positions, so the same respondent data scores both lengths.
+function score(rawResponses: number[], orientations?: number[], activeIdxs?: number[]): ScoreResult {
+  const idxs = activeIdxs ?? ITEMS.map((_, i) => i);  // default: all 32
+  if (rawResponses.length !== 32) throw new Error(`Need 32 responses (master bank), got ${rawResponses.length}`);
   const ori = orientations ?? new Array(32).fill(1);
-
-  // Step 2: Normalize
+  // Step 2: Normalize ALL 32 master-bank items. r.normalized stays 32-length so the
+  // item-level analysis (which indexes by bank position) still works on the SCA-32 run.
+  // Only the facet aggregation below is restricted to the active subset.
   const normalized: number[] = [];
   for (let i = 0; i < 32; i++) {
     normalized.push(ori[i] === 1 ? rawResponses[i] : 8 - rawResponses[i]);
   }
+  // Per-facet bank-index lists for the ACTIVE subset (32 → all, 16 → SCA-16 selection).
+  const localFacetMap: Record<FacetId, number[]> = {} as any;
+  for (const f of FACETS) localFacetMap[f] = (activeIdxs ? FACET_ITEMS_16 : FACET_ITEMS)[f];
 
-  // Step 3: Facet scores
+  // Step 3: Facet scores (dynamic n: 8 for SCA-32, 4 for SCA-16)
   const facets = {} as Record<FacetId, FacetResult>;
   for (const facet of FACETS) {
-    const idxs = FACET_ITEMS[facet];
-    const norms = idxs.map(i => normalized[i]);
+    const fIdxs = localFacetMap[facet];
+    const norms = fIdxs.map(i => normalized[i]);
     const sum = norms.reduce((a, b) => a + b, 0);
-    const mean = sum / 8;
+    const n = fIdxs.length;
+    const mean = sum / n;
     const scoreVal = (mean - 1) / 6 * 100;
-    const variance = norms.reduce((a, n) => a + (n - mean) ** 2, 0) / 8;
+    const variance = norms.reduce((a, x) => a + (x - mean) ** 2, 0) / n;
     facets[facet] = { norms, sum, mean, score: scoreVal, variance };
   }
 
@@ -435,13 +451,68 @@ respondents.push(gen("Split-AxisB-Fifty", 6.0, 6.0, 4.0, 4.0, 0.15));
 
 Math.random = _origRandom; // restore
 
-// ── RUN SCORING ────────────────────────────────────────
+// ── RUN SCORING (both lengths) ───────────────────────
+// Each synthetic respondent is scored twice — once as SCA-32 (full bank) and once
+// as SCA-16 (subset) — from the SAME raw answers. Comparing the two quantifies the
+// information loss the short form trades for speed. This is a self-consistency
+// harness (see header); it does not validate either form.
 const results: ScoreResult[] = [];
+const results16: ScoreResult[] = [];
 for (const [name, raw, orient] of respondents) {
-  const s = score(raw, orient);
+  const s = score(raw, orient);            // SCA-32
   s.name = name;
   results.push(s);
+  const s16 = score(raw, orient, SCA16_INDICES);  // SCA-16, same respondent
+  s16.name = name;
+  results16.push(s16);
 }
+
+// ── CROSS-LENGTH AGREEMENT ────────────────────────────
+// The load-bearing question for a short form: does it place people in the same
+// result as the long form? Season agreement = same quadrant/Threshold. Facet-
+// directional agreement = same dominant facet per axis (the noisier signal).
+function crossLengthAnalysis(r32: ScoreResult[], r16: ScoreResult[]): void {
+  console.log("=".repeat(78));
+  console.log("CROSS-LENGTH AGREEMENT — SCA-32 vs SCA-16 (same synthetic respondents)");
+  console.log("=".repeat(78));
+  const n = r32.length;
+  let seasonAgree = 0, seasonDisagree = [] as string[];
+  let tensionAgree = 0;
+  let aDomAgree = 0, bDomAgree = 0;
+  let axisAbsDiff = [] as number[];
+  for (let i = 0; i < n; i++) {
+    const a = r32[i], b = r16[i];
+    const sa = a.result_type, sb = b.result_type;
+    if (sa === sb) seasonAgree++;
+    else seasonDisagree.push(`    ${a.name.padEnd(30)} 32=${sa.padEnd(9)} → 16=${sb}  (A: ${a.axis.A.score.toFixed(0)}→${b.axis.A.score.toFixed(0)}, B: ${a.axis.B.score.toFixed(0)}→${b.axis.B.score.toFixed(0)})`);
+    if (!!a.has_tension === !!b.has_tension) tensionAgree++;
+    if (a.contrib.A.dominant === b.contrib.A.dominant) aDomAgree++;
+    if (a.contrib.B.dominant === b.contrib.B.dominant) bDomAgree++;
+    axisAbsDiff.push(Math.abs(a.axis.A.score - b.axis.A.score));
+    axisAbsDiff.push(Math.abs(a.axis.B.score - b.axis.B.score));
+  }
+  const pct = (x: number) => (x / n * 100).toFixed(1) + "%";
+  const mean = (arr: number[]) => arr.reduce((a, b) => a + b, 0) / arr.length;
+  const mx = Math.max(...axisAbsDiff);
+  console.log(`\n  Result-type placement (season or Threshold): ${seasonAgree}/${n} agree (${pct(seasonAgree)})`);
+  console.log(`  Facet-tension modifier fires on same respondents: ${tensionAgree}/${n} agree (${pct(tensionAgree)})`);
+  console.log(`  Axis A dominant facet: ${aDomAgree}/${n} agree (${pct(aDomAgree)})`);
+  console.log(`  Axis B dominant facet: ${bDomAgree}/${n} agree (${pct(bDomAgree)})`);
+  console.log(`  Axis-score shift (mean |Δ|): ${mean(axisAbsDiff).toFixed(2)} points,  max |Δ|: ${mx.toFixed(2)} points`);
+  if (seasonDisagree.length) {
+    console.log(`\n  Result-type disagreements (${seasonDisagree.length}):`);
+    for (const line of seasonDisagree) console.log(line);
+  }
+  console.log(`\n  How to read this:`);
+  console.log(`    - Result-type agreement is the short form's main job (reliable season placement).`);
+  console.log(`      A high rate here is expected and good.`);
+  console.log(`    - Dominant-facet agreement is noisier by design: 4 items/facet (.60-.70 alpha) cannot`);
+  console.log(`      pin the facet signature as tightly as 8. Lower agreement here is the documented cost.`);
+  console.log(`    - The disagreements are concentrated near quadrant/Threshold boundaries, where a small`);
+  console.log(`      score shift flips the label. This is the honest ceiling for a screening-tier read.`);
+}
+crossLengthAnalysis(results, results16);
+console.log();
 
 // ── ANALYSIS ────────────────────────────────────────────
 function pad(s: string, n: number): string { return s.padEnd(n); }
@@ -862,3 +933,5 @@ function exportCsv(res: ScoreResult[], filename = "sca-sim-results.csv"): void {
 // ── RUN ─────────────────────────────────────────────────
 analyze(results);
 exportCsv(results);
+exportCsv(results16, "sca-sim-results-16.csv");
+

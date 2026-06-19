@@ -164,9 +164,21 @@
 <div id="app">
   <div id="screen-intro">
     <h1>☀️ Solstice Cycle Assessment</h1>
-    <p>32 questions. Two dimensions. One place on the cycle of light.</p>
+    <p>Two dimensions. One place on the cycle of light. Choose a length.</p>
     <p style="font-size:0.9rem">This is a <strong>debug build</strong>. After you finish, a panel will show every calculation step — raw answers, normalization, facet scoring, axis derivation, prototypicality, angle, gradation, and result selection logic.</p>
-    <button class="btn btn-primary" onclick="start()">Begin</button>
+    <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:1.25rem">
+      <div class="length-card" style="flex:1;min-width:240px;background:var(--surface);border-radius:12px;padding:1.25rem">
+        <div style="font-weight:700;color:var(--accent)">SCA-32 · Standard</div>
+        <div style="font-size:0.82rem;color:var(--muted);margin:0.4rem 0 0.75rem">32 questions · ~8–10 min. Full facet-level detail at full confidence.</div>
+        <button class="btn btn-primary" onclick="start(32)">Begin SCA-32</button>
+      </div>
+      <div class="length-card" style="flex:1;min-width:240px;background:var(--surface);border-radius:12px;padding:1.25rem">
+        <div style="font-weight:700;color:var(--accent)">SCA-16 · Quick read</div>
+        <div style="font-size:0.82rem;color:var(--muted);margin:0.4rem 0 0.75rem">16 questions · ~4–5 min. Screening-tier: reliable season placement, <strong>provisional</strong> facet detail.</div>
+        <button class="btn btn-secondary" onclick="start(16)">Begin SCA-16</button>
+      </div>
+    </div>
+    <p style="font-size:0.78rem;color:var(--muted);margin-top:1rem">Both forms use the same item bank, scoring model, and result taxonomy. SCA-16 is a curated subset of SCA-32 (per the short-form method: NEO-FFI⊂NEO-PI-R). At 4 items per facet it sits in the .60–.70 alpha band this framework flags as marginal, so facet-level signals are surfaced as provisional.</p>
   </div>
 
   <div id="screen-quiz" style="display:none">
@@ -271,32 +283,52 @@ const FACET_ITEMS = {}; // populated below
 // ──────────────────────────────────────────────
 // STATE
 // ──────────────────────────────────────────────
-let currentIdx = 0;
-let responses = new Array(32).fill(null);  // 1–7, or null
+// SCA-16 short form: curated subset of the 32-item bank (4 per facet).
+// Selection and rationale documented in 01-solstice-cycle-assessment.md §8.1.
+const SCA16_IDS = new Set(['A1.1','A1.2','A1.4','A1.6','A2.1','A2.2','A2.3','A2.6','B1.2','B1.3','B1.5','B1.6','B2.1','B2.2','B2.3','B2.6']);
+
+// Active bank for the chosen length. Default to the full 32.
+let activeLength = 32;
+let activeBank = ITEMS;
+let responses = new Array(32).fill(null);  // 1–7, or null (resized in setLength)
 let orientations = new Array(32); // 1 = poleA on right (Bright/Outward right), -1 = poleA on left
 let debugLog = [];
 
 // Build facet→items map
-ITEMS.forEach((item, i) => {
-  if (!FACET_ITEMS[item.facet]) FACET_ITEMS[item.facet] = [];
-  FACET_ITEMS[item.facet].push(i);
-});
+// Rebuild facet→indices map from the active bank. Called whenever length changes.
+function rebuildFacetMap() {
+  for (const k of Object.keys(FACET_ITEMS)) delete FACET_ITEMS[k];
+  activeBank.forEach((item, i) => {
+    if (!FACET_ITEMS[item.facet]) FACET_ITEMS[item.facet] = [];
+    FACET_ITEMS[item.facet].push(i);
+  });
+}
+rebuildFacetMap();
 
 // ──────────────────────────────────────────────
 // RANDOMIZE ORIENTATIONS (pole direction per item)
 // ──────────────────────────────────────────────
 function randomizeOrientations() {
-  for (let i = 0; i < 32; i++) {
+  orientations = new Array(activeBank.length);
+  for (let i = 0; i < activeBank.length; i++) {
     orientations[i] = Math.random() < 0.5 ? 1 : -1;
   }
+}
+
+// Set the form length: 32 (standard) or 16 (short). Resizes state and rebuilds the facet map.
+function setLength(len) {
+  activeLength = len;
+  activeBank = (len === 16) ? ITEMS.filter(it => SCA16_IDS.has(it.id)) : ITEMS;
+  responses = new Array(activeBank.length).fill(null);
+  randomizeOrientations();
+  rebuildFacetMap();
 }
 
 // ──────────────────────────────────────────────
 // RENDER
 // ──────────────────────────────────────────────
-function start() {
-  randomizeOrientations();
-  responses.fill(null);
+function start(len) {
+  setLength(len);
   debugLog = [];
   currentIdx = 0;
   document.getElementById('screen-intro').style.display = 'none';
@@ -306,7 +338,7 @@ function start() {
 }
 
 function renderQuestion() {
-  const item = ITEMS[currentIdx];
+  const item = activeBank[currentIdx];
   const ori = orientations[currentIdx];
   const resp = responses[currentIdx];
 
@@ -336,8 +368,9 @@ function renderQuestion() {
 
   // Update progress
   const answered = responses.filter(r => r !== null).length;
-  document.getElementById('progress-fill').style.width = (answered / 32 * 100) + '%';
-  document.getElementById('progress-text').textContent = `${answered} / 32`;
+  const total = activeBank.length;
+  document.getElementById('progress-fill').style.width = (answered / total * 100) + '%';
+  document.getElementById('progress-text').textContent = `${answered} / ${total}${activeLength===16?' (SCA-16)':''}`;
 
   // Update nav buttons
   document.getElementById('btn-prev').disabled = currentIdx === 0;
@@ -350,7 +383,7 @@ function selectAnswer(value) {
 }
 
 function next() {
-  if (currentIdx < 31) {
+  if (currentIdx < activeBank.length - 1) {
     currentIdx++;
     renderQuestion();
   } else {
@@ -374,7 +407,7 @@ function score() {
 
   // ── Step 1: Collect raw answers ──
   d.rawAnswers = [];
-  ITEMS.forEach((item, i) => {
+  activeBank.forEach((item, i) => {
     d.rawAnswers.push({
       id: item.id,
       facet: item.facet,
@@ -394,21 +427,23 @@ function score() {
   });
 
   // ── Step 3: Facet scores ──
-  // Facet raw mean = mean of 8 normalized items (1–7)
+  // Facet raw mean = mean of that facet's normalized items (8 for SCA-32, 4 for SCA-16)
   // Facet score = (mean - 1) / 6 * 100 → scaled 0–100
   d.facets = {};
   FACETS.forEach(facet => {
     const idxs = FACET_ITEMS[facet];
     const norms = idxs.map(i => d.normalized[i].normalized);
     const sum = norms.reduce((a,b) => a + b, 0);
-    const mean = sum / 8;
+    const n = idxs.length;
+    const mean = sum / n;
     const score = (mean - 1) / 6 * 100;
     d.facets[facet] = {
-      items: idxs.map(i => ({ id: ITEMS[i].id, raw: responses[i], norm: d.normalized[i].normalized })),
+      items: idxs.map(i => ({ id: activeBank[i].id, raw: responses[i], norm: d.normalized[i].normalized })),
       sum, mean, score,
-      formula: `(${norms.map(n=>n.toFixed(0)).join(' + ')}) / 8 = ${mean.toFixed(3)}; (${mean.toFixed(3)} - 1) / 6 × 100 = ${score.toFixed(2)}`
+      formula: `(${norms.map(n=>n.toFixed(0)).join(' + ')}) / ${n} = ${mean.toFixed(3)}; (${mean.toFixed(3)} - 1) / 6 × 100 = ${score.toFixed(2)}`
     };
   });
+
 
   // ── Step 4: Axis scores ──
   // Axis score = mean of its 2 facet scores (already 0–100)
@@ -614,6 +649,11 @@ function showResults() {
     html += `</div>`;
   });
   html += `</div>`;
+
+  // Short-form caveat: SCA-16 facet detail is provisional. Stated up front, per §8.1 honesty tier.
+  if (activeLength === 16) {
+    html += `<div style="background:rgba(240,192,96,0.08);border:1px solid rgba(240,192,96,0.25);border-radius:8px;padding:0.75rem 1rem;margin:0.5rem 0 1rem;font-size:0.82rem;color:var(--accent)"><strong>SCA-16 — screening-tier read.</strong> Season placement and the Threshold are reliable. Facet-level detail (signature, tension modifier) is <strong>provisional</strong>: at 4 items per facet, each extreme answer carries twice the leverage it does in SCA-32. Treat the facet breakdown as a rough read, not a precise one.</div>`;
+  }
 
   // Facet detail
   html += `<div class="facet-detail">`;
@@ -964,7 +1004,6 @@ function resetAll() {
   document.getElementById('screen-intro').style.display = 'block';
   document.getElementById('debug-panel').classList.remove('visible');
   document.getElementById('debug-content').innerHTML = 'Run the assessment to see debug output.';
-  responses.fill(null);
   debugLog = null;
 }
 </script>
