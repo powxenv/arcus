@@ -43,10 +43,10 @@ This partition is the suite's main strength. Affect, cognition, identity, and ti
 - Theory-weighted (facets chosen for construct centrality), not empirically weighted (that needs pilot data we do not have).
 
 **Result structure.**
-- Four quadrant types with gradation (early, mid, late) and a near-center boundary result.
+- Four quadrant types with gradation (early, mid, late). Type is used in the person-centered sense (Gerlach 2018; Kerber 2021): a cluster recoverable by density or mixture methods. The seasonal quadrants are cluster-compatible; the wheel's midpoint is not (it is the sparsest region), so it is handled as a single boundary condition, the **Threshold**, not a fifth type. A **facet-tension modifier** flag (two strong opposing facets cancelling on an axis) may attach to any result and rewrites the Threshold's narrative from "balanced" to "holding opposites" — it is a modifier, not a type. This keeps the type count at four, consistent with the 3-to-5 cluster range the framework cites and with the Test 4 decision to reject a fifth type.
 - Each result reports the quadrant type plus the facet signature (which facets drove the axis scores). A high-Extraversion-style result can say "driven by social approach, not agency," not just "high."
-- 14-section deep profiles, one per quadrant type, modulated by facet signature, gradation, and leaning.
-- AI narrative layer with a deterministic 16-result fallback (4 quadrants times 4 gradation states).
+- 14-section deep profiles: one per season, plus the Threshold boundary profile (with an equinox narrative and a facet-tension modifier narrative), modulated by facet signature, gradation, and leaning.
+- AI narrative layer with a deterministic fallback of 12 seasonal states (4 seasons × 3 gradations) plus the Threshold boundary reading (two narrative variants via the facet-tension modifier).
 - Hybrid dimensional and prototypical reporting (Kerber et al. 2021), avoiding MBTI's midpoint cliff (McCrae and Costa 1989).
 
 **Bias and quality handling.**

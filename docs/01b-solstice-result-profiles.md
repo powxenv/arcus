@@ -425,6 +425,88 @@ All of them. Your wholeness lives in the permission to lean — toward Summer wh
 
 ---
 
+## ⚖️ The Threshold — facet-tension modifier narrative  (shown when the near-center result carries the tension flag)
+
+**Essence.** This is the narrative shown when a near-center result carries the facet-tension modifier — not a separate result type. The type count is unchanged: four seasons plus the Threshold boundary. The Threshold boundary has two narrative variants depending on the modifier; this is the variant for when an axis's two facets cancel. You land near the center of the wheel — not from moderation, but from tension. On one or both axes, two of your facets pull strongly in opposite directions and cancel each other at the axis level. The center is real; the balance is not. You hold two strong voices at once.
+
+### The Archetype
+Most people who read as “in the middle” are simply moderate — even energy, even-keeled, a little of everything. That is the Threshold, and it is its own gift. You are not that. Your center is a negotiation between parts of you that are each, on their own, emphatic.
+
+Picture someone who runs genuinely hot on baseline energy yet genuinely cool on appetite for stimulation — wide awake, but in a quiet room. Or someone deeply social yet deeply receptive rather than agentic — the one who draws people in and then makes space for them to lead. The wheel averages these into a point near its middle, and a shallow quiz would call you “balanced.” You are not balanced. You are composite. The two halves are each real, and the tension between them is the texture of your life.
+
+The name comes from music: counterpoint is the art of two independent melodies sounding at once, neither subordinated, the richness in their interplay. That is closer to your experience than “moderate” will ever be.
+
+### Core Motivations
+- To honor both pulls rather than collapse one into the other.
+- To be seen accurately — as holding opposites, not as “medium.”
+- To find contexts where the two facets compose rather than cancel.
+- To stop averaging yourself down to a single, flatter number.
+
+### Behavioral Patterns
+- You often feel misread. People call you “balanced” or “hard to pin down” when you are actually emphatic in two directions at once.
+- Which facet leads depends on which pole of the situation activates it — your behavior is context-sensitive in this specific way.
+- You may oscillate rather than hold steady: high on one facet’s expression, then high on the other’s.
+- Single-number self-assessments frustrate you, because they average you into the middle and lose the thing that defines you.
+- You contain genuine contrast — the lively-and-quiet, the social-and-receptive, the driven-and-reflective. Not contradictions. Counterpoints.
+
+### Strengths
+- Range. You have real access to both ends of an axis that most people live on one side of.
+- Perspective on the axis where your tension lives — you know both poles from the inside.
+- Adaptability that comes from genuine plurality, not from having no preference.
+- Nuance in self-knowledge. You already think in facets, because you have to.
+- The ability to translate between people who live at opposite ends of your tense axis.
+
+### Blind Spots
+- Internal friction. Two strong facets pulling opposite ways costs energy that single-pole people don’t spend.
+- Indecision that is actually accurate seeing — both sides are genuinely you, so neither choice is “wrong,” which makes choosing harder.
+- Being underestimated as “moderate,” then surprising people when one facet dominates.
+- Over-identifying with one facet and repressing the other — resolving the tension by pretending it isn’t there.
+- Reading your own mid-score as “I’m average at this” rather than “I’m extreme in two directions.”
+
+### Growth Edges
+- Name the tension explicitly. “I am both high-energy and low-stimulation” is truer and more useful than “I’m medium.”
+- Design contexts where the facets compose rather than cancel — high-energy and low-stimulation thrives in deep solo work, not at a loud party.
+- When you must choose, choose on purpose, knowing the other pole is not denied, only tabled.
+- Stop averaging yourself. The facet scores are the report; the axis mean is not.
+
+### In Relationships
+- You offer depth and range — a partner gets access to more than one version of you, all of them real.
+- Risk: partners read your oscillation as inconsistency or mood, rather than as two stable facets taking turns.
+- You thrive with people who can hold that you contain genuine contrast, not people who need you to pick a lane.
+- Growth: explain the counterpoint rather than perform only one facet at a time. Let both be known.
+
+### Work Style
+- You shine in roles that genuinely need both poles of your tense axis — rarer than they sound, and you are built for them.
+- Risk: roles that reward only one facet force you to suppress the other, which is exhausting and eventually breaks through.
+- Ideal: environments that let you modulate between the two rather than commit to one.
+- Your “generalist” appearance is misleading; you are a specialist in two opposite things at once.
+
+### Decision-Making
+- You see both sides not out of caution but because both sides are actually populated for you.
+- Risk: paralysis when the two facets favor different choices.
+- Strength: your decisions, when made, integrate more than a single-pole perspective can.
+- Growth: decide the meta-question first (which facet should lead here?) before deciding the question.
+
+### Under Stress
+- The tension amplifies. The two facets pull harder, and the cancelling gets noisier.
+- You may flip between facets more visibly under load.
+- Recovery: name which facet is depleted and replenish that one specifically — generic rest may miss the mark.
+- Watch: interpreting your stress-state as “I’m all over the place” rather than “two strong parts of me are both activated.”
+
+### Communication
+- You can argue both sides convincingly because both are sincerely yours.
+- Risk: being read as wishy-washy when you are actually holding a real internal plurality.
+- Growth: preface with the structure — “I have two strong pulls on this” — so the plural stance reads as depth, not evasion.
+- Your ability to inhabit two positions is a communication asset. Frame it as such.
+
+### The Complementary Season
+Whichever pole you tend to suppress. If you usually lead with the bright facet, the growth edge is the dim one; if the social leads, the receptive waits. The Counterpoint’s wholeness is not in choosing a season but in letting the suppressed facet take its turn without the dominant one cancelling it. For you, balance is not the center — it is the alternation.
+
+### Your Moment on the Cycle
+“You are not the still point at the wheel’s center. You are two strong currents meeting there, each one real, neither winning. Your clarity is not in choosing a season but in knowing you carry two.”
+
+---
+
 ## How scores modulate these profiles
 
 The base profile above is the quadrant archetype. A player's exact position on the wheel modulates it.
@@ -432,7 +514,9 @@ The base profile above is the quadrant archetype. A player's exact position on t
 | Signal | Meaning | Effect on the profile |
 |---|---|---|
 | High prototypicality (far from center) | Strongly that season | Report the archetype at full strength. The extreme Axis-A results (most Bright, most Dim) additionally carry a solstice beat, since those are the literal solstice positions on the wheel. |
-| Low prototypicality (near center) | Between types | Report the **Threshold** profile, the equinox position (see full profile above). Pull one or two lines from each adjacent season for additional texture. |
+| Low prototypicality (near center), no facet tension | Genuinely balanced | Report the **Threshold** boundary with its equinox narrative (see Threshold profile). Pull one or two lines from each adjacent season for additional texture. |
+| Low prototypicality (near center), with facet tension (opposite, strong facets cancelling) | Near center from cancellation, not balance | Same **Threshold** boundary, but with the facet-tension modifier narrative (see modifier profile above). Lead with the facet signature. This is not a new type — it is the boundary result with its narrative rewritten by the modifier. |
+| Season result, with facet tension on one axis | A season pulled in two directions internally | Report the season as normal, then surface the facet-tension modifier as a secondary note led by the facet signature. |
 | Near an axis boundary | Strong on one axis, neutral on the other | Emphasize the dominant axis. Soften the secondary. |
 | Angle maps to early, mid, or late | Position along the quadrant arc | Shift tone. "Early Summer" is building toward peak. "Late Autumn" is nearing the deep. |
 

@@ -2,6 +2,95 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.19 (2026-06-19): result taxonomy corrected to the typology literature — Counterpoint demoted from type to modifier
+
+Why: v0.18 added facet-tension detection (a correct validity fix) but framed its output as a sixth result type, the Counterpoint. That framing does not survive contact with the literature the framework cites. Re-examining the full-text Kerber et al. (2021) and the Gerlach et al. (2018) account corroborated inside it, the operational definition of a personality "type" in the person-centered tradition is explicit: a cluster recovered by density-based or mixture methods (latent profile analysis, k-means, Gaussian mixture models, DBSCAN/EM). "Determining the number of clusters" is a formal validity-indexed step, and the empirical range across large samples is three to five.
+
+Applied to our result taxonomy:
+- The four seasonal quadrants are cluster-compatible (a 2×2 on two validated axes) and remain the only **types**.
+- The wheel's midpoint is, by construction, the sparsest region of any circumplex. No density method would return it as a cluster, so it is a **boundary condition** (the Threshold), not a type. This is also why MBTI's midpoint cliff is a flaw to avoid, not a type to instantiate (McCrae and Costa 1989).
+- Facet cancellation is a within-person score pattern, not a between-person cluster, so it is a **modifier**, not a type.
+
+Letting Threshold and Counterpoint count as types would push this test to five or six types and directly contradict (a) the 3-to-5 cluster range we cite, and (b) our own Test 4 decision (00 §6) to reject ZTPI's five-factor structure as "thinning every profile and pushing past the 3-to-5 shareable-types sweet spot." The framework's credibility depends on applying that standard consistently, including when it means walking back our own earlier framing.
+
+Decision: hold the type count at four. Threshold is the single boundary condition. Facet tension is a modifier flag that can attach to any result and, when it co-occurs with the Threshold, rewrites that boundary's narrative from "balanced / equinox" to "holding opposites, led by the facet signature." The validity fix from v0.18 is fully preserved — a divergent profile is still never told it is balanced — but it is delivered as a modifier, not a new type.
+
+### What changed
+
+- **Counterpoint is no longer a result type.** result_type is now one of Summer | Autumn | Winter | Spring | Threshold (4 types + 1 boundary). has_tension is a separate modifier flag.
+- The affirming profile text written in v0.18 is retained as the **facet-tension modifier narrative** for the Threshold boundary (and as a secondary note on a season when tension fires there). It is no longer a standalone result's profile.
+- The Threshold boundary now has two narrative variants selected by the modifier: equinox (calm) and facet-tension (tense).
+- A regression guard was added to the simulation: the divergent/Mixed cases must carry has_tension=true, so the validity fix cannot silently regress. All six pass.
+
+### Why not "reframe as 4 types + 2 boundary conditions" instead
+
+Considered and rejected. If the result screen still shows Threshold and Counterpoint as peer outcomes, then in the user's experience they are types regardless of what the methodology doc calls them. For a project whose credibility rests on the docs and the experience matching, demotion (changing the number the user sees) is the honest move, not just relabeling.
+
+### Self-correction note
+
+Two honesty notes on the v0.18 pass this corrects. (1) The v0.18 CHANGELOG line "result taxonomy is now 4 seasons + Threshold + Counterpoint (6 base profiles)" overclaimed type status for a boundary artifact, in the same commit that argued against exactly that. (2) The drift began earlier, at v0.17, when Threshold itself was promoted to a full 14-section profile and the fallback count quietly moved to "5 base profiles." Threshold-as-type predates Counterpoint; this pass reframes both.
+
+### Files modified
+- docs/00-suite-framework.md (result structure: 4 types + 1 boundary + modifier; cites the cluster definition)
+- docs/01-solstice-cycle-assessment.md (v0.18 → v0.19; §6 classify, §9 taxonomy and fallback)
+- docs/01b-solstice-result-profiles.md (Counterpoint profile → Threshold facet-tension modifier narrative; modulation table)
+- docs/SCA-research-paper.md (Counterpoint paragraph reframed as modifier; types-as-clusters grounding added)
+- sca-debug.html (result branches: Threshold + modifier, no Counterpoint type; debug wording)
+- sca-simulate.ts (result_type ∈ 4 seasons + Threshold; is_counterpoint removed; has_tension retained; regression guard; CSV)
+- docs/CHANGELOG.md (this entry)
+
+### Deferred (unchanged from v0.18)
+- Full 14-section profile rendering in the build; Extreme Response Style flag; per-respondent facet-spread signal in the UI; near-axis-lean handling; A1.5 / B2.8 item-wording revisit.
+
+## v0.18 (2026-06-19): scoring audit — facet tension (Counterpoint) + gradation fix
+
+Why: the debug build and simulation (added in the prior commit) exposed a structural flaw the framework's own honesty notes had been papering over. A divergent profile — one facet near-maximum, the other near-minimum on the same axis — cancels to an axis mean near 50, drifts to the wheel's center, and was reported as "Threshold / equinox / balanced," the opposite of the truth. The facet-signature layer was supposed to recover this texture, but the headline came from the cancelled mean and overrode it. The simulation also surfaced a concrete gradation bug (the "Late Autumn = approaching Winter" convention was inverted in code) and a hidden divergence between the build and the sim (the sim silently band-aided a mapping error the build would have exposed).
+
+### Counterpoint: near-center now splits in two
+
+Facet-tension detection added. An axis is "tense" when its two facets sit on opposite sides of 50 and both are at least 20 points from 50 (designer-set, tunable) — the signature of cancellation. A near-center result now splits:
+- **Threshold** (equinox): near center AND no tense axis. Genuinely balanced. Profile unchanged.
+- **Counterpoint** (new): near center AND at least one tense axis. Not balanced — two strong opposing facets cancelling. The facet signature, not the season, is the result.
+
+A clear-season result may still carry a tension flag when one axis is tense but the other places the person firmly in a quadrant.
+
+Effect (simulation, n=39 designed cases): genuine Threshold drops from 13 (33%) to 7 (18%); 6 divergent/Mixed cases reclassify to Counterpoint. The 0.28 cutoff is retained — the tension split, not a tighter cutoff, is what resolves the "too wide" concern the simulation flagged at v0.17.
+
+New 14-section Counterpoint profile added to 01b. Result taxonomy is now 4 seasons + Threshold + Counterpoint (6 base profiles).
+
+### Gradation Early/Late convention corrected
+
+Both build and sim had the direction inverted: "Early" was computed from the quadrant's angle start rather than from entry via the previous season in the yearly cycle (Spring → Summer → Autumn → Winter → Spring). Consequence: a case the designer named "Autumn-Late" (approaching Winter) computed as "Early Autumn." Fixed: entry edge = boundary with the previous season (Summer 90°, Autumn 0°, Winter 270°, Spring 180°); progress = (entry edge − angle) mod 360. Now "Late Autumn" correctly means approaching Winter. Documented in 01 §6 and the research paper; implemented identically in sca-debug.html and sca-simulate.ts.
+
+### Build/sim consistency and sim governance
+
+- Removed the sim's silent `if (angle_in_quad > 90) angle_in_quad -= 90` guard, which hid any quadrant/angle mapping inconsistency from the build. Replaced with an explicit throw, so a mapping bug surfaces in both or neither.
+- Facet-contribution reporting fixed for the cancelling case (was "equal"; now "tense — pulled between X and Y").
+- Added a governance header to sca-simulate.ts and a limitation note in the research paper: the simulation is a self-consistency and edge-case harness, not validation. Its "expected vs actual" checks are tautological by construction. It is not pilot data and is not cited as evidence of reliability, validity, or norms.
+
+### Docs
+
+- 01 §6: gradation convention + Counterpoint/Threshold classification; §8 compositing note tightened; §9 result taxonomy and fallback count corrected (the prior "16 distinguishable output states" was fuzzy math; now stated honestly as 12 seasonal states + 2 boundary readings).
+- 01b: full Counterpoint profile; modulation table splits near-center into Threshold vs Counterpoint rows.
+- SCA-research-paper: gradation convention clarified; Counterpoint added; sim-governance limitation added.
+- 00 §2: result structure and fallback count updated to reflect two boundary results.
+- 01 and 00 status bumped to v0.18.
+
+### Files modified
+- docs/01-solstice-cycle-assessment.md (v0.17 → v0.18)
+- docs/01b-solstice-result-profiles.md (Counterpoint profile; modulation table)
+- docs/SCA-research-paper.md (gradation, Counterpoint, sim governance)
+- docs/00-suite-framework.md (result structure, fallback count)
+- sca-debug.html (tension detection, Counterpoint, gradation fix, tension-aware contribution, boundary-result rendering)
+- sca-simulate.ts (tension detection, gradation fix, guard removed, governance header, Counterpoint in analysis + CSV)
+- docs/CHANGELOG.md (this entry)
+
+### Not in this pass (deferred, lower severity)
+- Full 14-section profile rendering in the build (it still shows scores + a short result card, not the full profiles from 01b).
+- Extreme Response Style flag and per-respondent facet-spread confidence signal (named in 00 §2, still unimplemented in the build UI; the sim already computes facet consistency).
+- Near-axis-lean handling: a near-center case that is NOT cancellation (one axis clearly extreme, the other neutral) still reports as Threshold rather than leaning toward the extreme axis. Milder than the cancellation case fixed here.
+- A1.5 and B2.8 item-wording revisit (minor).
+
 ## v0.17 (2026-06-18): Test 1 structural audit + 00 citation cleanup
 
 Why: a fresh critical audit of the complete Test 1 stack (research paper, design doc, result profiles) against the current evidence standard found five issues requiring fixes. The 00 framework doc's Test 3/4 proposal citations were also audited against the full-text paper batch and culled for relevance.

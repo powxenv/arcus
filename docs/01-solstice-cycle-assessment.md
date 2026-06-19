@@ -1,6 +1,6 @@
 # Test 1: The Solstice Cycle Assessment (SCA)
 
-> Status: v0.17 design document. v0.16's three judgment-call items (A1.5/A1.3 redundancy, A1.7 meta-perception confound, B2.8 competition confound) overruled for construct purity. Axis A compositing and intra-axis orthogonality honesty notes added. Threshold profile completed.
+> Status: v0.19 design document. Result taxonomy corrected to the typology literature's definition: the four seasons are types (cluster-compatible); the near-center region is a single boundary condition (the Threshold), not a type; facet tension is a modifier flag, not a sixth result. Counterpoint is no longer a result type — its narrative survives as the modifier shown when tension fires. See CHANGELOG v0.19.
 > Position: The solstice-themed test of the four-test Solstice Soul suite.
 > Theme served: June Solstice (light and dark, cycles, turning points).
 > Honesty statement: The SCA is an original, theory-informed assessment for reflection and play. Its structure is inspired by validated models of affect (Russell's circumplex) and motivation (approach and withdrawal). It is not independently validated and is not clinical. Seasonal names are an interpretive metaphor, not a claim that personality is literally seasonal. Two further honesty notes: (1) Russell's circumplex is a model of momentary affect, a state model. We use its structure to organize trait-like dispositions, a move supported by the trait-affect literature but stated here openly rather than implied. (2) The June solstice is summer in the Northern Hemisphere and winter in the Southern. The SCA uses internal, hemisphere-neutral seasons and does not assume a hemisphere.
@@ -147,12 +147,16 @@ Why Autumn is Bright plus Inward: autumn is the harvest, still luminous (golden 
   - A<50, B>50: Spring
 - Prototypicality r = distance from center / 70.7. Higher means more clearly that season. Lower means more between.
 - Phase angle = atan2(B−50, A−50). Maps to an exact position. Used for gradation (early, mid, late) and secondary leaning.
+- Gradation convention. "Early" means just entered the season from the previous one in the yearly cycle (Spring → Summer → Autumn → Winter → Spring); "Late" means about to leave into the next. Each quadrant's entry edge is the angle of its boundary with the previous season: Summer 90°, Autumn 0°, Winter 270°, Spring 180°. Progress = (entry edge − angle) mod 360, binned Early (0–30°), Mid (30–60°), Late (60–90°). So "Late Autumn" means approaching Winter, not the reverse. (v0.18 corrected an inversion here.)
 
-**Step 6, classify.**
-- r ≥ 0.28: report primary season plus gradation plus leaning, plus the facet signature (which facets drove the axis scores). The extreme Axis-A results (most Bright, most Dim) additionally carry a solstice beat in the narrative, because those are the literal solstice positions on the wheel.
-- r < 0.28 (near center or near an axis): report the **Threshold** result, the equinox position. "You sit at a threshold, the equinox point, the pause between X and Y where energy and stillness, outward and inward, are in balance." Facet signature still reported. This resolves gracefully instead of forcing an arbitrary call.
+**Step 6, classify.** Two checks run before a result is assigned.
+- Facet-tension check. For each axis, if its two facets sit on opposite sides of 50 and both are at least 20 points from 50 (designer-set, tunable), the axis is **tense**: its mean lands near center because two strong facets cancel, not because the person is moderate. This is the failure mode the facet-signature layer was supposed to catch but, on its own, could not — the headline was coming from the cancelled mean.
+- Result assignment. Note the type/boundary/modifier distinction, which follows the operational definition of a type in the person-centered literature (Gerlach 2018; Kerber 2021): a type is a cluster recovered by density or mixture methods. The four seasonal quadrants are cluster-compatible and are the only types. The near-center region is the sparsest part of any circumplex, so no density method would return it as a cluster — it is a single boundary condition, the Threshold, not a type. Facet tension is a within-person score pattern, not a between-person cluster, so it is a modifier, not a type.
+  - r ≥ 0.28: report primary season plus gradation plus leaning, plus the facet signature. If either axis is tense, the season is still reported but carries a facet-tension modifier. The extreme Axis-A results (most Bright, most Dim) additionally carry a solstice beat, because those are the literal solstice positions on the wheel.
+  - r < 0.28: report the **Threshold**, the wheel's boundary region. The narrative then depends on the modifier. With no tense axis it is the equinox reading — genuinely balanced. With at least one tense axis it is the facet-tension reading — the same boundary, but framed honestly as "not balanced; two strong facets cancelling," led by the facet signature. The type count does not change: it is still four seasons plus one boundary, with a modifier that can rewrite the boundary's narrative.
 
-This is the hybrid dimensional and prototypical pattern Kerber et al. (2021) advocate, with facet-level reporting per the v0.9 suite standard. It avoids MBTI's central flaw, the false cliff at the midpoint. A person at 51 versus 49 gets a graduated reading, not a different identity.
+
+This is the hybrid dimensional and prototypical pattern Kerber et al. (2021) advocate, with facet-level reporting per the v0.9 suite standard. It avoids MBTI's central flaw, the false cliff at the midpoint. A person at 51 versus 49 gets a graduated reading, not a different identity. The Counterpoint extends the same honesty to the one place the midpoint metaphor breaks down: a cancelled axis mean that looks "balanced" but is not.
 
 ---
 
@@ -191,7 +195,7 @@ Explicitly avoided: binary A/B forced choice (no bimodality, discards informatio
 **Facet structure.**
 - Axis A, Solar Height: A1 Baseline Arousal (tonic activation, your default energy set-point), A2 Stimulation Appetite (preferred input and activity level).
 
-Honesty note. Unlike Axis B, whose two facets sit within a single validated domain (DeYoung's two-aspect Extraversion), Axis A composites two constructs from different research traditions — energetic arousal and sensation seeking — without a jointly validated higher-order activation factor. The compositing is a design choice. The facet signature recovers lost texture by reporting which sub-component drove the axis score.
+Honesty note. Unlike Axis B, whose two facets sit within a single validated domain (DeYoung's two-aspect Extraversion), Axis A composites two constructs from different research traditions — energetic arousal and sensation seeking — without a jointly validated higher-order activation factor. The compositing is a design choice. The facet signature recovers lost texture by reporting which sub-component drove the axis score; when the two facets cancel outright (Step 6 facet-tension modifier), that recovery becomes the result's lead, not just a footnote.
 - Axis B, Tidal Direction: B1 Social Approach (toward or away from people, DeYoung Enthusiasm aspect), B2 Agency (proactive action and initiation versus receptive response, DeYoung Assertiveness aspect). B2 was renamed from "experiential approach" (v0.9) and from "expressive disclosure" (v0.8); both earlier names were either off-construct or overlapping with Test 3. The two facets now map exactly to DeYoung's validated two-aspect structure of Extraversion.
 
 **Item-writing rules applied.** Vary exactly one facet per item. True antonym poles on a single dimension. Neutral language (behavior, not virtue). No transparent giveaways. Gender-neutral and identity-agnostic. Both poles affirming. Two bias controls: pole direction randomized at render time (counters position bias), and the bipolar two-anchor format where respondents choose between two statements rather than agreeing or disagreeing with one (counters acquiescence bias, the function reverse-keying serves in a unipolar format).
@@ -267,10 +271,10 @@ All items vary proactive agency and action-initiation versus receptive, responsi
 A result has four layers, surfaced in order:
 1. **Your season** (quadrant). The shareable label.
 2. **Your phase** (angle). Gradation and secondary leaning.
-3. **Your prototypicality** (radius). Strongly versus with nuance. Near-center yields the Threshold result, the equinox position.
+3. **Your prototypicality** (radius). Strongly versus with nuance. Near-center yields the **Threshold** boundary reading — not a type, just the honest handling of the midpoint. Its narrative is either equinox (balanced) or, when a facet-tension modifier fires, the "holding opposites" reading led by the facet signature.
 4. **Your narrative.** Two to three personalized paragraphs from the full answer pattern, ending with a "your moment on the cycle" line. Gemini layer per the GDD. Consumes the numeric profile and the per-item answers.
 
-**Deterministic fallback (no-API path).** 5 full base profiles (4 seasons + Threshold), modulated by gradation (early, mid, late) and axis-boundary handling per `01b-solstice-result-profiles.md`. This produces 16 distinguishable output states (4 seasons × {early, mid, late} plus the pure-Threshold reading and near-threshold readings), all from 5 base profile templates and the modulation rules. The game is fully playable without the API. The API only enriches the narrative.
+**Deterministic fallback (no-API path).** 5 full base profiles (4 seasons + Threshold), modulated by gradation (early, mid, late) and the facet-tension modifier per `01b-solstice-result-profiles.md`. That yields 12 seasonal states (4 seasons × {early, mid, late}) plus the Threshold boundary reading, which itself has two narrative variants (equinox, or facet-tension when the modifier fires). The type count is four. The game is fully playable without the API. The API only enriches the narrative.
 
 **Never reported as:** a diagnosis, a ranking, a compatibility score, or a fixed identity. Always framed as a snapshot of where your energy tends to live right now.
 
@@ -312,6 +316,6 @@ Test 1 decisions locked. No open decisions.
 - Name: The Solstice Cycle Assessment (SCA). Locked v0.3.
 - Result naming: season-primary with archetype subtitle (for example `🍂 Autumn: The Turning`). Locked v0.3.
 - Suite template: Option A. Tests 2 to 4 reuse Test 1's structure (two validated axes, two facets per axis, continuous scoring, four quadrant types with gradation, 14-section profile, AI narrative, deterministic fallback, eight items per facet, seven-point bipolar Likert) with their own axes, themes, and result names. Locked v0.4.
-- All audit and reference fixes through v0.13 applied. See CHANGELOG for full history.
+- All audit and reference fixes through v0.18 applied. See CHANGELOG for full history.
 
 See `CHANGELOG.md` for revision history.

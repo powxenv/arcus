@@ -253,6 +253,19 @@ const QUADRANT_NAMES = ['Summer','Autumn','Winter','Spring'];
 const QUADRANT_ARCHETYPES = ['The Zenith','The Turning','The Deep','The Greening'];
 const QUADRANT_EMOJI = ['☀️','🍂','❄️','🌱'];
 const QUADRANT_COLORS = ['summer','autumn','winter','spring'];
+const FACET_POLES = {
+  A1: ['high baseline arousal', 'low baseline arousal'],
+  A2: ['high stimulation appetite', 'low stimulation appetite'],
+  B1: ['social approach', 'social withdrawal'],
+  B2: ['agency', 'receptivity'],
+};
+// Facet tension margin: an axis is "tense" when its two facets sit on opposite
+// sides of 50 AND both are at least this far from 50. Designer-set, tunable.
+const TENSION_MARGIN = 20;
+// Gradation entry edges: angle of each quadrant's boundary with the PREVIOUS
+// season in cycle order (Spring→Summer→Autumn→Winter→Spring). "Early" = just
+// entered from the previous season; "Late" = about to exit into the next.
+const QUAD_ENTRY_EDGE = [90, 0, 270, 180]; // Summer, Autumn, Winter, Spring
 const FACET_ITEMS = {}; // populated below
 
 // ──────────────────────────────────────────────
@@ -444,54 +457,102 @@ function score() {
     rule: `A${aOff>=0?'≥':'<'}50, B${bOff>=0?'≥':'<'}50 → ${QUADRANT_NAMES[quadrant]}`
   };
 
-  // ── Step 9: Gradation (angle within quadrant) ──
-  // Angle 0° = right (A>50, B=50), goes CCW.
-  // Correct angle-to-quadrant order: Summer 0–90°, Spring 90–180°, Winter 180–270°, Autumn 270–360°.
-  // Quadrant numbering: 0=Summer, 1=Autumn, 2=Winter, 3=Spring — so start is NOT quadrant*90.
-  const QUAD_ANGLE_START = [0, 270, 180, 90]; // Summer, Autumn, Winter, Spring
-  const quadrantStart = QUAD_ANGLE_START[quadrant];
-  const angleInQuadrant = (angleDeg - quadrantStart + 360) % 360;
+  // ── Step 9: Gradation (progress through the season along the cycle) ──
+  // Cycle order: Spring → Summer → Autumn → Winter → Spring.
+  // "Early" = just entered from the previous season; "Late" = about to exit.
+  // Entry edge = angle of the boundary with the PREVIOUS season in cycle order.
+  const entryEdge = QUAD_ENTRY_EDGE[quadrant];
+  const progress = (entryEdge - angleDeg + 360) % 360; // 0 at entry → 90 at exit
   let gradation;
-  if (angleInQuadrant < 30) gradation = 'Early';
-  else if (angleInQuadrant < 60) gradation = 'Mid';
+  if (progress < 30) gradation = 'Early';
+  else if (progress < 60) gradation = 'Mid';
   else gradation = 'Late';
-  d.gradation = { quadrantStart, angleInQuadrant, band: gradation,
-    rule: `Angle ${angleDeg.toFixed(2)}° → quadrant ${QUADRANT_NAMES[quadrant]} (starts ${quadrantStart}°, spans 90°); offset ${angleInQuadrant.toFixed(2)}° → ${gradation}`
+  d.gradation = { entryEdge, progress, band: gradation,
+    rule: `Cycle entry edge for ${QUADRANT_NAMES[quadrant]} = ${entryEdge}°; progress = (${entryEdge} − ${angleDeg.toFixed(2)} + 360) mod 360 = ${progress.toFixed(2)}° → ${gradation}`
   };
 
-  // ── Step 10: Threshold check ──
-  const isThreshold = prototypicality < 0.28;
-  d.threshold = { isThreshold, cutoff: 0.28, prototypicality,
-    rule: `${prototypicality.toFixed(4)} < 0.28 → ${isThreshold ? 'THRESHOLD (Equinox position)' : 'Clear season'}`
-  };
-
-  // ── Step 11: Facet contribution ──
-  d.facetContrib = {};
+  // ── Step 10: Facet tension detection (per axis) ──
+  // An axis is "tense" when its two facets sit on OPPOSITE sides of 50 AND both
+  // are ≥ TENSION_MARGIN from 50. That is the signature of cancellation: the axis
+  // mean lands near 50 because two strong facets pull opposite ways — not because
+  // the person is moderate. Without this, a divergent profile (e.g. A1=77, A2=21)
+  // is misreported as "balanced / Threshold".
+  const isNearCenter = prototypicality < 0.28;
+  d.tension = {};
   ['A','B'].forEach(axis => {
     const facets = axis === 'A' ? ['A1','A2'] : ['B1','B2'];
     const s1 = d.facets[facets[0]].score;
     const s2 = d.facets[facets[1]].score;
-    const diff = Math.abs(s1 - s2);
-    const dominant = s1 > s2 ? facets[0] : (s1 < s2 ? facets[1] : 'equal');
-    const dominantLabel = dominant === 'equal' ? 'equal contribution' : `driven more by ${FACET_NAMES[dominant]} (${dominant})`;
-    const d1 = Math.abs(s1 - 50);
-    const d2 = Math.abs(s2 - 50);
-    d.facetContrib[axis] = { s1, s2, diff, dominant, dominantLabel, d1, d2,
-      rule: `${FACET_NAMES[facets[0]]}: ${s1.toFixed(2)} (offset from 50: ${d1.toFixed(2)}), ${FACET_NAMES[facets[1]]}: ${s2.toFixed(2)} (offset: ${d2.toFixed(2)}) → ${dominantLabel}`
+    const o1 = s1 - 50, o2 = s2 - 50;
+    const opposite = (o1 * o2) < 0;
+    const strong = Math.abs(o1) >= TENSION_MARGIN && Math.abs(o2) >= TENSION_MARGIN;
+    const tense = opposite && strong;
+    let label;
+    if (tense) {
+      const hi = o1 > 0 ? facets[0] : facets[1];
+      const lo = o1 > 0 ? facets[1] : facets[0];
+      label = `tense — pulled between ${FACET_POLES[hi][0]} and ${FACET_POLES[lo][1]}`;
+    } else {
+      label = 'coherent';
+    }
+    d.tension[axis] = { s1, s2, opposite, strong, tense, label,
+      rule: `${FACET_NAMES[facets[0]]}=${s1.toFixed(1)} (${o1>=0?'+':''}${o1.toFixed(1)}), ${FACET_NAMES[facets[1]]}=${s2.toFixed(1)} (${o2>=0?'+':''}${o2.toFixed(1)}); opposite=${opposite}, both≥${TENSION_MARGIN}=${strong} → ${tense?'TENSION':'coherent'}`
     };
   });
+  const hasTension = d.tension.A.tense || d.tension.B.tense;
 
-  // ── Step 12: Final result ──
+  // ── Step 11: Classify ──
+  // Types = the four seasonal quadrants (cluster-compatible 2×2 on two validated
+  // axes; the kind of structure Gerlach 2018 and Kerber 2021 recover as clusters).
+  // The near-center region is NOT a type — it is the sparsest part of any
+  // circumplex, so no density-based method would return it as a cluster. It is a
+  // single boundary condition, the Threshold. Facet tension is a diagnostic
+  // modifier flag that may attach to any result; when it co-occurs with the
+  // Threshold it reframes the narrative from "balanced" to "holding opposites",
+  // but it does not create a sixth type.
   let resultType, resultLabel, resultColor;
-  if (isThreshold) {
-    resultType = 'Threshold';
-    resultLabel = '⚖️ The Equinox';
-    resultColor = 'threshold-c';
-  } else {
+  if (!isNearCenter) {
     resultType = QUADRANT_NAMES[quadrant];
     resultLabel = `${gradation} ${QUADRANT_NAMES[quadrant]}`;
     resultColor = QUADRANT_COLORS[quadrant];
+  } else {
+    resultType = 'Threshold';
+    resultLabel = hasTension ? '⚖️ The Threshold · facet tension' : '⚖️ The Threshold';
+    resultColor = 'threshold-c';
   }
+  d.classify = { isNearCenter, hasTension, resultType,
+    rule: `proto ${prototypicality.toFixed(4)} ${isNearCenter?'<':'≥'} 0.28 → ${isNearCenter ? 'THRESHOLD (boundary; only type-countable result here)' : 'CLEAR SEASON — ' + QUADRANT_NAMES[quadrant]}` + (hasTension ? ' + facet-tension MODIFIER' : '')
+  };
+
+  // ── Step 12: Facet contribution (tension-aware) ──
+  d.facetContrib = {};
+  ['A','B'].forEach(axis => {
+    const facets = axis === 'A' ? ['A1','A2'] : ['B1','B2'];
+    const t = d.tension[axis];
+    const s1 = t.s1, s2 = t.s2;
+    const d1 = Math.abs(s1 - 50), d2 = Math.abs(s2 - 50);
+    let dominant, dominantLabel;
+    if (t.tense) {
+      const hi = s1 > s2 ? facets[0] : facets[1];
+      const lo = s1 > s2 ? facets[1] : facets[0];
+      dominant = 'tense';
+      dominantLabel = `pulled between ${FACET_POLES[hi][0]} and ${FACET_POLES[lo][1]}`;
+    } else if (Math.abs(s1 - s2) < 0.5) {
+      dominant = 'equal';
+      dominantLabel = (d1 < 5 && d2 < 5) ? 'no strong driver (both near neutral)' : 'balanced contribution from both facets';
+    } else {
+      dominant = d1 > d2 ? facets[0] : facets[1];
+      dominantLabel = `driven more by ${FACET_NAMES[dominant]} (${dominant})`;
+    }
+    d.facetContrib[axis] = { s1, s2, d1, d2, dominant, dominantLabel,
+      rule: `${FACET_NAMES[facets[0]]}: ${s1.toFixed(1)} (off ${d1.toFixed(1)}), ${FACET_NAMES[facets[1]]}: ${s2.toFixed(1)} (off ${d2.toFixed(1)}) → ${dominantLabel}`
+    };
+  });
+
+  // ── Step 13: Final result ──
+  // result.type is always one of: Summer | Autumn | Winter | Spring | Threshold.
+  // hasTension is a separate modifier flag, not a result type.
+  d.result = { type: resultType, label: resultLabel, color: resultColor, hasTension };
   d.result = { type: resultType, label: resultLabel, color: resultColor };
 
   return d;
@@ -508,22 +569,36 @@ function showResults() {
 
   // Build result card
   const r = d.result;
-  const isThresh = d.threshold.isThreshold;
+  const cl = d.classify;
   const q = d.quadrant;
+  const tenseAxes = ['A','B'].filter(ax => d.tension[ax].tense);
 
   let html = `<div class="result-card">`;
 
-  if (isThresh) {
+  if (cl.resultType === 'Threshold' && !cl.hasTension) {
     html += `<div class="result-icon">⚖️</div>`;
     html += `<div class="result-season threshold-c">The Threshold</div>`;
     html += `<div class="result-archetype">The Equinox</div>`;
-    html += `<div class="result-gradation">Prototypicality: ${d.distance.prototypicality.toFixed(3)} (below 0.28 cutoff)</div>`;
-    html += `<p style="margin-top:1rem">You sit at the equinox — the balance point where light and dark, outward and inward, are in equipoise. Neither strongly seasonal. You see what the extremes cannot: both sides clearly, at once. You are the bridge between seasons, belonging to all of them without being claimed by any.</p>`;
+    html += `<div class="result-gradation">Prototypicality ${d.distance.prototypicality.toFixed(3)} (below 0.28) · no facet tension</div>`;
+    html += `<p style="margin-top:1rem">You sit at the equinox — the balance point where outward and inward, bright and dim, are in equipoise. This is not a lack of definition; it is its own position. You see what the extremes cannot: both sides clearly, at once. You are the bridge between seasons, belonging to all of them without being claimed by any.</p>`;
+  } else if (cl.resultType === 'Threshold' && cl.hasTension) {
+    // Same boundary result (Threshold) — the near-center region is one boundary,
+    // not a second type. But the tension modifier rewrites the narrative: this
+    // respondent is NOT balanced, and must not be told they are. The facet
+    // signature leads.
+    html += `<div class="result-icon">⚖️</div>`;
+    html += `<div class="result-season threshold-c">The Threshold</div>`;
+    html += `<div class="result-archetype">facet tension · two strong voices</div>`;
+    html += `<div class="result-gradation">Prototypicality ${d.distance.prototypicality.toFixed(3)} · facet tension on ${tenseAxes.map(ax=>AXIS_NAMES[ax]).join(' & ')} — near center from cancellation, not balance</div>`;
+    const lines = tenseAxes.map(ax => `<li>${AXIS_NAMES[ax]}: ${d.facetContrib[ax].dominantLabel}</li>`).join('');
+    html += `<p style="margin-top:1rem">Your point lands near the center of the wheel — but <strong>not because you are balanced</strong>. ${tenseAxes.length>1?'On both axes, two':'On one axis, two'} of your facets pull hard in opposite directions and cancel at the axis level. The center is real; the balance is not. You hold strong opposing pulls at once.</p>`;
+    html += `<ul style="text-align:left;margin:0.75rem 1.5rem;font-size:0.88rem;color:var(--muted)">${lines}</ul>`;
+    html += `<p style="margin-top:0.5rem">This is still the Threshold — the wheel's boundary region, not a season of its own. But read the facet signature, not the axis mean: that is where your result actually lives.</p>`;
   } else {
     html += `<div class="result-icon">${QUADRANT_EMOJI[q.index]}</div>`;
     html += `<div class="result-season ${QUADRANT_COLORS[q.index]}">${q.name}</div>`;
     html += `<div class="result-archetype">${q.archetype}</div>`;
-    html += `<div class="result-gradation">${d.gradation.band} ${q.name} — angle ${d.angle.deg.toFixed(1)}°</div>`;
+    html += `<div class="result-gradation">${d.gradation.band} ${q.name} — angle ${d.angle.deg.toFixed(1)}°${tenseAxes.length?` · <span style="color:var(--threshold)">facet tension: ${tenseAxes.map(ax=>AXIS_NAMES[ax]).join(', ')}</span>`:''}</div>`;
   }
 
   // Axis scores
@@ -635,16 +710,21 @@ function generateDebugText(d) {
   t += '  Result: ' + d.quadrant.name + ' — ' + d.quadrant.archetype + L;
 
   h('STEP 9 — Gradation Band');
-  t += 'Rule: angle within quadrant (0–90°). 0–30°=Early, 30–60°=Mid, 60–90°=Late.' + L;
-  t += '  Quadrant start = ' + d.gradation.quadrantStart + '°' + L;
-  t += '  Angle in quadrant = ' + d.gradation.angleInQuadrant.toFixed(4) + '°' + L;
+  t += 'Rule: progress through the season along the cycle (Spring→Summer→Autumn→Winter). Early = just entered from previous season; Late = about to exit into next.' + L;
+  t += '  Entry edge = ' + d.gradation.entryEdge + '°' + L;
+  t += '  Progress = ' + d.gradation.progress.toFixed(4) + '° (0 at entry, →90 at exit)' + L;
   t += '  Band = ' + d.gradation.band + L;
 
-  h('STEP 10 — Threshold Check');
-  t += 'Rule: if prototypicality < 0.28 → Threshold (equinox). Otherwise → clear season.' + L;
-  t += '  Prototypicality = ' + d.threshold.prototypicality.toFixed(4) + L;
-  t += '  Cutoff = ' + d.threshold.cutoff + L;
-  t += '  Decision: ' + (d.threshold.isThreshold ? 'THRESHOLD — Equinox position (near center)' : 'CLEAR SEASON — ' + d.quadrant.name) + L;
+  h('STEP 10 — Facet Tension & Classification');
+  t += 'Tension rule: axis tense if its two facets are on opposite sides of 50 AND both ≥ ' + TENSION_MARGIN + ' from 50.' + L;
+  ['A','B'].forEach(axis => {
+    t += '  Axis ' + axis + ' (' + AXIS_NAMES[axis] + '): ' + d.tension[axis].label + ' — ' + d.tension[axis].rule + L;
+  });
+  t += '  Classification: ' + d.classify.rule + L;
+  t += '  → ' + (d.classify.resultType === 'Threshold'
+       ? 'THRESHOLD (boundary condition, NOT a type) — ' + (d.classify.hasTension ? 'with facet-tension modifier (NOT balanced; read facet signature)' : 'genuinely balanced / equinox')
+       : 'CLEAR SEASON — ' + d.quadrant.name + (d.classify.hasTension ? ' (with facet-tension modifier)' : '')) + L;
+  t += '  Type count is unchanged: 4 seasonal types (clusters). Threshold is a boundary; tension is a modifier.' + L;
 
   h('STEP 11 — Facet Contribution Analysis');
   t += 'Rule: which facet\'s score is further from 50? That facet drove the axis.' + L;
@@ -810,19 +890,22 @@ function renderDebug(d) {
 
   // ── Section 9: Gradation ──
   html += `<div class="debug-section"><div class="debug-h2">📐 STEP 9 — Gradation Band</div>`;
-  html += `<div class="debug-formula">Angle within quadrant = (angle - quadrant_start). 0–30° = Early, 30–60° = Mid, 60–90° = Late.</div>`;
-  html += `<div class="debug-row"><span class="debug-label">Quadrant start angle</span><span>${d.gradation.quadrantStart}°</span></div>`;
-  html += `<div class="debug-row"><span class="debug-label">Angle within quadrant</span><span class="debug-value">${d.gradation.angleInQuadrant.toFixed(2)}°</span></div>`;
+  html += `<div class="debug-formula">Progress through the season along the cycle (Spring→Summer→Autumn→Winter). Early = just entered from the previous season; Late = about to exit. progress = (entry_edge − angle) mod 360.</div>`;
+  html += `<div class="debug-row"><span class="debug-label">Entry edge (prev-season boundary)</span><span>${d.gradation.entryEdge}°</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">Progress through season</span><span class="debug-value">${d.gradation.progress.toFixed(2)}°</span></div>`;
   html += `<div class="debug-row"><span class="debug-label">Gradation band</span><span class="debug-value">${d.gradation.band}</span></div>`;
   html += `<div class="debug-formula">${d.gradation.rule}</div>`;
   html += `</div>`;
 
-  // ── Section 10: Threshold Check ──
-  html += `<div class="debug-section"><div class="debug-h2">⚖️ STEP 10 — Threshold Check</div>`;
-  html += `<div class="debug-formula">If prototypicality < 0.28 → Threshold (equinox position). Otherwise → clear season.</div>`;
-  html += `<div class="debug-row"><span class="debug-label">Prototypicality</span><span>${d.threshold.prototypicality.toFixed(4)}</span></div>`;
-  html += `<div class="debug-row"><span class="debug-label">Cutoff</span><span>${d.threshold.cutoff}</span></div>`;
-  html += `<div class="debug-row"><span class="debug-label">Result</span><span class="${d.threshold.isThreshold ? 'debug-warn' : 'debug-good'}">${d.threshold.rule}</span></div>`;
+  // ── Section 10: Facet Tension & Classification ──
+  html += `<div class="debug-section"><div class="debug-h2">⚖️ STEP 10 — Facet Tension & Classification</div>`;
+  html += `<div class="debug-formula">Axis tense if facets on opposite sides of 50 AND both ≥ ${TENSION_MARGIN} from 50. Tension is a MODIFIER flag on whatever result applies — it never creates a new type. Near-center is always the single Threshold boundary; tension rewrites its narrative from "balanced" to "holding opposites".</div>`;
+  ['A','B'].forEach(axis => {
+    const tn = d.tension[axis];
+    html += `<div class="debug-row"><span class="debug-label">Axis ${axis} (${AXIS_NAMES[axis]})</span><span class="${tn.tense?'debug-warn':'debug-good'}">${tn.label}</span></div>`;
+    html += `<div class="debug-formula">${tn.rule}</div>`;
+  });
+  html += `<div class="debug-row"><span class="debug-label">Classification</span><span class="debug-value">${d.classify.rule}</span></div>`;
   html += `</div>`;
 
   // ── Section 11: Facet Contribution ──

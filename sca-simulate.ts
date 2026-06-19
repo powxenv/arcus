@@ -1,8 +1,19 @@
 #!/usr/bin/env bun
 /**
  * SCA Simulation & Analysis Script (TypeScript / Bun)
- * Generates 30+ simulated respondents with diverse answer patterns,
- * scores them through the full SCA pipeline, and performs a critical audit.
+ * Generates 30+ synthetic respondents with diverse answer patterns, scores them
+ * through the full SCA pipeline, and runs a self-consistency + edge-case audit.
+ *
+ * WHAT THIS IS: a verification harness for the scoring engine. It checks that
+ * normalization, facet/axis scoring, distance, angle, gradation, facet-tension
+ * and classification behave as specified, and that boundary/corner cases resolve.
+ *
+ * WHAT THIS IS NOT: pilot data, validation, or evidence of reliability, construct
+ * validity, or population norms. The "expected vs actual" checks are tautological
+ * by construction — the same centers generate the respondents and define the
+ * expectations; synthetic respondents have no psychology. Per the framework's
+ * honest-ceiling rule (00 §2.1), nothing here moves the SCA from "theory-informed"
+ * toward "validated". Do not cite it as such.
  *
  * Usage: bun run sca-simulate.ts
  * Output: Terminal report + sca-sim-results.csv
@@ -54,7 +65,11 @@ interface ScoreResult {
   quadrant: number;
   quadrant_name: string;
   gradation: string;
-  is_threshold: boolean;
+  is_near_center: boolean;
+  is_threshold: boolean;     // near-center boundary condition (NOT a type)
+
+  has_tension: boolean;
+  result_type: string;       // "Summer"|"Autumn"|"Winter"|"Spring"|"Threshold"  (4 types + 1 boundary)
   contrib: Record<AxisId, FacetContrib>;
   facet_consistency: Record<FacetId, number>;
   _orient: number[];
@@ -109,6 +124,9 @@ const AXIS_OF: Record<FacetId, AxisId> = { A1: "A", A2: "A", B1: "B", B2: "B" };
 const AXIS_NAMES: Record<AxisId, string> = { A: "Solar Height", B: "Tidal Direction" };
 const QUADRANT_NAMES = ["Summer", "Autumn", "Winter", "Spring"];
 const QUADRANT_ARCHETYPES = ["The Zenith", "The Turning", "The Deep", "The Greening"];
+// Facet tension margin: an axis is "tense" when its two facets sit on opposite
+// sides of 50 AND both are at least this far from 50. Designer-set, tunable.
+const TENSION_MARGIN = 20;
 
 // facet → item indices
 const FACET_ITEMS: Record<FacetId, number[]> = {} as any;
@@ -182,29 +200,66 @@ function score(rawResponses: number[], orientations?: number[]): ScoreResult {
   else if (a_off < 0 && b_off < 0) quadrant = 2;
   else quadrant = 3;
 
-  // Step 9: Gradation — angle within quadrant
-  // Angle order going CCW from 0° (A>50, B=50):
-  //   0–90° = Summer (A>50, B>50)
-  //   90–180° = Spring (A<50, B>50)
-  //   180–270° = Winter (A<50, B<50)
-  //   270–360° = Autumn (A>50, B<50)
-  // Quadrant numbering: 0=Summer, 1=Autumn, 2=Winter, 3=Spring
-  // So the angle start per quadrant is NOT quadrant*90. Use explicit map.
-  const QUAD_ANGLE_START = [0, 270, 180, 90]; // Summer, Autumn, Winter, Spring
-  const quad_start = QUAD_ANGLE_START[quadrant];
-  let angle_in_quad = ((angle_deg - quad_start) + 360) % 360;
-  // Normalize: angle_in_quad should be 0-90. If > 90, we're in the wrong quadrant
-  // (shouldn't happen with correct mapping, but guard anyway)
-  if (angle_in_quad > 90) angle_in_quad = angle_in_quad - 90;
+  // Step 9: Gradation — progress through the season along the cycle
+  // Cycle order: Spring → Summer → Autumn → Winter → Spring.
+  // "Early" = just entered from the previous season; "Late" = about to exit.
+  // Entry edge = angle of the boundary with the PREVIOUS season in cycle order:
+  //   Summer (prev Spring) 90°; Autumn (prev Summer) 0°;
+  //   Winter (prev Autumn) 270°; Spring (prev Winter) 180°.
+  const QUAD_ENTRY_EDGE = [90, 0, 270, 180]; // Summer, Autumn, Winter, Spring
+  const entry_edge = QUAD_ENTRY_EDGE[quadrant];
+  const progress = (entry_edge - angle_deg + 360) % 360; // 0 at entry → 90 at exit
+  // Surface a mapping bug instead of silently band-aiding it. The old code did
+  // `if (angle_in_quad > 90) angle_in_quad -= 90;`, which hid any inconsistency
+  // between this script's quadrant test and its angle (and vs the build).
+  if (progress > 90) {
+    throw new Error(
+      `Gradation mapping error: ${QUADRANT_NAMES[quadrant]} angle ${angle_deg.toFixed(2)}° ` +
+      `→ progress ${progress.toFixed(2)}° (expected 0–90). Quadrant/angle mapping inconsistent.`
+    );
+  }
+  const angle_in_quad = progress; // alias retained for downstream analysis
   let gradation: string;
-  if (angle_in_quad < 30) gradation = "Early";
-  else if (angle_in_quad < 60) gradation = "Mid";
+  if (progress < 30) gradation = "Early";
+  else if (progress < 60) gradation = "Mid";
   else gradation = "Late";
 
-  // Step 10: Threshold
-  const is_threshold = prototypicality < 0.28;
+  // Step 10: Facet tension detection + classification
+  // Tension on an axis = its two facets on OPPOSITE sides of 50 AND both ≥
+  // TENSION_MARGIN from 50. That is cancellation: the axis mean lands near 50
+  // because two strong facets pull opposite ways, not because the person is
+  // moderate.
+  //
+  // Classification (types vs. boundary vs. modifier), grounded in the typology
+  // literature the framework cites:
+  //   - TYPES (clusters): the four seasonal quadrants. Gerlach (2018) and Kerber
+  //     (2021) define a type operationally as a cluster recovered by density/
+  //     mixture methods (LPA, k-means, GMM, DBSCAN). A 2×2 on two validated
+  //     axes is cluster-compatible.
+  //   - BOUNDARY CONDITION: the near-center / low-prototypicality region. It is
+  //     the sparsest part of any circumplex, so no density method would return
+  //     it as a cluster — it is not a type. We call it the Threshold.
+  //   - MODIFIER: facet tension. A within-person score pattern, not a between-
+  //     person cluster, so it cannot be a type either. It attaches to whatever
+  //     result applies and, on the Threshold, rewrites the narrative from
+  //     "balanced" to "holding opposites". It never creates a new result.
+  // Net type count: 4 (unchanged from before tension detection existed).
+  const is_near_center = prototypicality < 0.28;
+  const tension = {} as Record<AxisId, { s1: number; s2: number; tense: boolean }>;
+  (["A", "B"] as AxisId[]).forEach(ax => {
+    const [f1, f2] = (ax === "A" ? ["A1", "A2"] : ["B1", "B2"]) as [FacetId, FacetId];
+    const s1 = facets[f1].score;
+    const s2 = facets[f2].score;
+    const o1 = s1 - 50, o2 = s2 - 50;
+    const opposite = o1 * o2 < 0;
+    const strong = Math.abs(o1) >= TENSION_MARGIN && Math.abs(o2) >= TENSION_MARGIN;
+    tension[ax] = { s1, s2, tense: opposite && strong };
+  });
+  const has_tension = tension.A.tense || tension.B.tense;
+  const is_threshold = is_near_center;  // single boundary condition; tension is a modifier, not a split
+  const result_type: string = is_threshold ? "Threshold" : QUADRANT_NAMES[quadrant];
 
-  // Facet contribution
+  // Facet contribution (tension-aware)
   const contrib: Record<AxisId, FacetContrib> = {} as any;
   for (const [ax, [f1, f2]] of [["A", ["A1", "A2"]] as [AxisId, [FacetId, FacetId]], ["B", ["B1", "B2"]] as [AxisId, [FacetId, FacetId]]]) {
     const s1 = facets[f1].score;
@@ -212,7 +267,8 @@ function score(rawResponses: number[], orientations?: number[]): ScoreResult {
     const d1 = Math.abs(s1 - 50);
     const d2 = Math.abs(s2 - 50);
     let dom: string;
-    if (Math.abs(s1 - s2) < 0.01) dom = "equal";
+    if (tension[ax].tense) dom = "tense";
+    else if (Math.abs(s1 - s2) < 0.01) dom = "equal";
     else dom = d1 > d2 ? f1 : f2;
     contrib[ax] = { dominant: dom, s1, s2, d1, d2 };
   }
@@ -232,7 +288,11 @@ function score(rawResponses: number[], orientations?: number[]): ScoreResult {
     angle_deg, angle_in_quad,
     quadrant, quadrant_name: QUADRANT_NAMES[quadrant],
     gradation,
+    is_near_center,
     is_threshold,
+
+    has_tension,
+    result_type,
     contrib,
     facet_consistency,
     _orient: ori,
@@ -399,9 +459,12 @@ function analyze(res: ScoreResult[]): void {
   const quadCounts = new Map<string, number>();
   const gradCounts = new Map<string, number>();
   let threshCount = 0;
+  let threshTenseCount = 0;  // Threshold boundary cases that ALSO carry the facet-tension modifier
   for (const r of res) {
-    if (r.is_threshold) { threshCount++; }
-    else {
+    if (r.is_threshold) {
+      threshCount++;
+      if (r.has_tension) threshTenseCount++;
+    } else {
       quadCounts.set(r.quadrant_name, (quadCounts.get(r.quadrant_name) ?? 0) + 1);
       const key = `${r.quadrant_name}|${r.gradation}`;
       gradCounts.set(key, (gradCounts.get(key) ?? 0) + 1);
@@ -410,7 +473,8 @@ function analyze(res: ScoreResult[]): void {
 
   const total = res.length;
   console.log(`\n  Total respondents: ${total}`);
-  console.log(`  Threshold (equinox): ${threshCount} (${(threshCount/total*100).toFixed(1)}%)`);
+  console.log(`  Types (seasonal clusters): ${total - threshCount} (${((total-threshCount)/total*100).toFixed(1)}%)`);
+  console.log(`  Threshold (boundary, not a type): ${threshCount} (${(threshCount/total*100).toFixed(1)}%) — of which ${threshTenseCount} carry the facet-tension modifier`);
   console.log(`\n  Quadrant distribution:`);
   for (const q of QUADRANT_NAMES) {
     const c = quadCounts.get(q) ?? 0;
@@ -418,7 +482,7 @@ function analyze(res: ScoreResult[]): void {
     console.log(`    ${pad(q, 8)}: ${c.toString().padStart(2)}  ${bar}`);
   }
 
-  console.log(`\n  Gradation distribution (non-threshold):`);
+  console.log(`\n  Gradation distribution (clear seasons only):`);
   for (const [key, c] of [...gradCounts.entries()].sort()) {
     const [q, g] = key.split("|");
     console.log(`    ${pad(g, 5)} ${pad(q, 8)}: ${c}`);
@@ -476,19 +540,24 @@ function analyze(res: ScoreResult[]): void {
     const near: string[] = [];
     if (Math.abs(r.a_off) < 5) near.push("A");
     if (Math.abs(r.b_off) < 5) near.push("B");
-    const label = r.is_threshold ? "THRESHOLD" : r.quadrant_name;
+    const label = r.result_type;
     console.log(`    ${pad(r.name, 30)} A=${r.axis.A.score.toFixed(1).padStart(5)} B=${r.axis.B.score.toFixed(1).padStart(5)}  `
       + `proto=${r.prototypicality.toFixed(3)}  near: ${near.join("+").padEnd(5)}  → ${label}`);
   }
 
-  const thresholds = res.filter(r => r.is_threshold);
-  console.log(`\n  Threshold cases (proto < 0.28): ${thresholds.length}`);
-  for (const r of thresholds) {
+  const nearCenter = res.filter(r => r.is_near_center);
+  console.log(`\n  Near-center cases (proto < 0.28), all reported as the Threshold boundary: ${nearCenter.length}`);
+  console.log(`  [calm = equinox/balanced narrative; tense = facet-tension modifier narrative — same result, different framing]`);
+  for (const r of nearCenter) {
+    const sub = r.has_tension ? "Threshold+tension" : "Threshold (calm)";
+    const tA = r.contrib.A.dominant === "tense" ? " A-tense" : "";
+    const tB = r.contrib.B.dominant === "tense" ? " B-tense" : "";
+
     console.log(`    ${pad(r.name, 30)} A=${r.axis.A.score.toFixed(1).padStart(5)} B=${r.axis.B.score.toFixed(1).padStart(5)}  `
-      + `proto=${r.prototypicality.toFixed(4)}  dist=${r.distance.toFixed(1)}`);
+      + `proto=${r.prototypicality.toFixed(4)}  → ${sub}${tA}${tB}`);
   }
 
-  const nearQuadBoundaries = res.filter(r => !r.is_threshold
+  const nearQuadBoundaries = res.filter(r => !r.is_near_center
     && (r.angle_in_quad < 3 || r.angle_in_quad > 87));
   console.log(`\n  Near quadrant-boundary angle (<3° from 0 or >87° within quad): ${nearQuadBoundaries.length}`);
   for (const r of nearQuadBoundaries) {
@@ -504,7 +573,7 @@ function analyze(res: ScoreResult[]): void {
   for (const r of res) {
     for (const ax of ["A", "B"] as AxisId[]) {
       const c = r.contrib[ax];
-      if (c.dominant === "equal") continue;
+      if (c.dominant === "equal" || c.dominant === "tense") continue;  // tense = both facets extreme & opposite; the dominance check does not apply
       const other = ax === "A"
         ? (c.dominant === "A1" ? "A2" : "A1") as FacetId
         : (c.dominant === "B1" ? "B2" : "B1") as FacetId;
@@ -534,6 +603,11 @@ function analyze(res: ScoreResult[]): void {
     "Summer-Early": "Summer", "Summer-Mid": "Summer", "Summer-Late": "Summer",
     "Autumn-Early": "Autumn", "Autumn-Mid": "Autumn", "Autumn-Late": "Autumn",
     "Balanced-Center": "THRESHOLD", "Balanced-NearThreshold": "THRESHOLD",
+    // Divergent / Mixed cases are ALSO near-center, so their result_type is Threshold;
+    // their defining feature is the facet-tension MODIFIER, verified separately below.
+    "Mixed-LowA1_HighA2": "THRESHOLD", "Mixed-LowB1_HighB2": "THRESHOLD",
+    "Divergent-AgenticIntrovert": "THRESHOLD", "Divergent-SocialFollower": "THRESHOLD",
+    "Divergent-EnergeticCalm": "THRESHOLD", "Divergent-SeekingTired": "THRESHOLD",
     "Corner-TopRight": "Summer", "Corner-TopLeft": "Autumn",
     "Corner-BottomLeft": "Winter", "Corner-BottomRight": "Spring",
   };
@@ -561,7 +635,7 @@ function analyze(res: ScoreResult[]): void {
   console.log("─".repeat(78));
   const gradErrors: [string, number, string, string][] = [];
   for (const r of res) {
-    if (r.is_threshold) continue;
+    if (r.is_near_center) continue;
     const expectedGrad = r.angle_in_quad < 30 ? "Early" : (r.angle_in_quad < 60 ? "Mid" : "Late");
     if (r.gradation !== expectedGrad) {
       gradErrors.push([r.name, r.angle_in_quad, expectedGrad, r.gradation]);
@@ -600,7 +674,7 @@ function analyze(res: ScoreResult[]): void {
   for (const r of res) {
     const leftLeaning = r.raw.filter(v => v <= 2).length;
     const rightLeaning = r.raw.filter(v => v >= 6).length;
-    const label = r.is_threshold ? "THRESHOLD" : r.quadrant_name;
+    const label = r.result_type;
     if (leftLeaning > 20)
       console.log(`    ${pad(r.name, 30)} LEFT bias:  ${leftLeaning}/32 low (≤2), actual=${label}`);
     if (rightLeaning > 20)
@@ -620,14 +694,14 @@ function analyze(res: ScoreResult[]): void {
   console.log("\n" + "─".repeat(78));
   console.log("10. DIMENSION OVER/UNDER-REPRESENTATION");
   console.log("─".repeat(78));
-  const uniqueQuads = new Set(res.filter(r => !r.is_threshold).map(r => r.quadrant_name));
-  const uniqueGrads = new Set(res.filter(r => !r.is_threshold).map(r => r.gradation));
+  const uniqueQuads = new Set(res.filter(r => !r.is_near_center).map(r => r.quadrant_name));
+  const uniqueGrads = new Set(res.filter(r => !r.is_near_center).map(r => r.gradation));
   console.log(`\n  This simulation is DESIGNED to cover all quadrants and edge cases.`);
   console.log(`  Real-world distribution would depend on population sampling.`);
   console.log(`\n  Simulated coverage:`);
   console.log(`    Quadrants represented: ${uniqueQuads.size}/4`);
   console.log(`    Gradations represented: ${uniqueGrads.size}/3`);
-  console.log(`    Threshold cases: ${threshCount}`);
+  console.log(`    Threshold cases: ${threshCount}  (of which ${threshTenseCount} carry facet-tension modifier)`);
   console.log(`    Boundary (near-axis) cases: ${boundaries.length}`);
 
   // 11. Scoring sensitivity
@@ -700,8 +774,23 @@ function analyze(res: ScoreResult[]): void {
   }
 
   if (threshCount > total * 0.2) {
-    issues.push(`High threshold rate (${threshCount}/${total}) — 0.28 cutoff may be too wide.`);
+    issues.push(`High Threshold rate (${threshCount}/${total}). Tension detection should not change the near-center rate (it only rewrites the narrative); if the rate itself is high, the 0.28 cutoff or item design is the cause.`);
   }
+
+  // Regression guard for the validity fix: divergent profiles must carry the
+  // facet-tension modifier, so they are never reported with the "balanced"
+  // narrative even though their result_type is Threshold like a calm center.
+  const tensionExpected: Record<string, boolean> = {
+    "Mixed-LowA1_HighA2": true, "Mixed-LowB1_HighB2": true,
+    "Divergent-AgenticIntrovert": true, "Divergent-SocialFollower": true,
+    "Divergent-EnergeticCalm": true, "Divergent-SeekingTired": true,
+  };
+  for (const r of res) {
+    if (tensionExpected[r.name] && !r.has_tension) {
+      issues.push(`Validity-fix regression: ${r.name} is divergent but has_tension=false — it would be reported as balanced.`);
+    }
+  }
+
 
   if (issues.length) {
     for (let i = 0; i < issues.length; i++) {
@@ -714,11 +803,11 @@ function analyze(res: ScoreResult[]): void {
   console.log(`\n  Assessment: The scoring engine is mathematically correct.`);
   console.log(`  All 32 items contribute to their respective facets.`);
   console.log(`  Normalization correctly handles pole randomization.`);
-  console.log(`  Quadrant, gradation, and threshold logic function as specified.`);
+  console.log(`  Quadrant, gradation, facet-tension modifier, and threshold boundary logic behave as specified.`);
   console.log(`  Edge cases (boundaries, extreme corners, center) resolve as expected.`);
   console.log(`  The main irreducible limitations are:`);
   console.log(`    (a) no real-human validation data,`);
-  console.log(`    (b) A1/A2 compositing assumes they load on a single factor,`);
+  console.log(`    (b) A1/A2 compositing assumes one factor; the facet-tension modifier surfaces (does not remove) the cases where the two facets cancel,`);
   console.log(`    (c) Axis A/B orthogonality is approximate (both load on Extraversion).`);
 }
 
@@ -728,13 +817,15 @@ function exportCsv(res: ScoreResult[], filename = "sca-sim-results.csv"): void {
   rows.push([
     "name", "A1_score", "A2_score", "A_score", "B1_score", "B2_score", "B_score",
     "a_off", "b_off", "distance", "prototypicality", "angle_deg",
-    "quadrant", "gradation", "is_threshold", "result_label",
+    "quadrant", "gradation", "is_near_center", "is_threshold", "has_tension", "result_type", "result_label",
     "facet_A_dominant", "facet_B_dominant",
     "A1_variance", "A2_variance", "B1_variance", "B2_variance",
   ]);
   for (const r of res) {
-    const isT = r.is_threshold;
-    const label = isT ? "THRESHOLD" : `${r.gradation} ${r.quadrant_name}`;
+    const nc = r.is_near_center;
+    const label = r.result_type === "Threshold"
+      ? (r.has_tension ? "Threshold+tension" : "THRESHOLD")
+      : `${r.gradation} ${r.quadrant_name}`;
     rows.push([
       r.name,
       r.facets.A1.score.toFixed(2),
@@ -748,9 +839,12 @@ function exportCsv(res: ScoreResult[], filename = "sca-sim-results.csv"): void {
       r.distance.toFixed(2),
       r.prototypicality.toFixed(4),
       r.angle_deg.toFixed(2),
-      isT ? "N/A" : r.quadrant_name,
-      isT ? "N/A" : r.gradation,
-      isT ? "TRUE" : "FALSE",
+      nc ? "N/A" : r.quadrant_name,
+      nc ? "N/A" : r.gradation,
+      r.is_near_center ? "TRUE" : "FALSE",
+      r.is_threshold ? "TRUE" : "FALSE",
+      r.has_tension ? "TRUE" : "FALSE",
+      r.result_type,
       label,
       r.contrib.A.dominant,
       r.contrib.B.dominant,
