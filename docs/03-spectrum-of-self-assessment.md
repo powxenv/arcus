@@ -1,6 +1,6 @@
 # Test 3: The Spectrum of Self Assessment (SSA)
 
-> Status: v0.1 design document. Full-text paper audit: 6 identity/pride PDFs reviewed (Campbell 1996, Tracy & Robins 2007, Kernis & Goldman 2006, Snyder 1974, Wood 2008, Showers 1992). Two axes grounded in full-text-verified constructs: Identity Clarity (Campbell 1996 SCC) and Self-Alignment (Kernis & Goldman 2006 authenticity; Snyder 1974 self-monitoring; Wood 2008 authenticity). Showers (1992) and Linville (1987) rejected as core sources — both use card-sorting tasks incompatible with self-report. 32-item bank. See CHANGELOG v0.1.
+> Status: v0.1 design document. Full-text paper audit of 6 identity/pride PDFs. Two axes grounded in full-text-verified constructs: Identity Clarity (Campbell 1996 SCC) and Self-Alignment (Kernis & Goldman 2006, Snyder 1974, Wood 2008). Showers (1992) and Linville (1987) rejected: both use card-sorting tasks incompatible with self-report. 32-item bank. See CHANGELOG v0.1.
 > Position: The Pride-themed test of the four-test Solstice Soul suite.
 > Theme served: Pride (authentic identity, self-knowledge, the courage to show who you are).
 > Honesty statement: The SSA is an original, theory-informed assessment for reflection and play. Its two axes are grounded in full-text-verified constructs: Identity Clarity draws from the Self-Concept Clarity Scale (Campbell et al., 1996); Self-Alignment draws from the multicomponent authenticity model (Kernis & Goldman, 2006), the Authenticity Scale (Wood et al., 2008), and the Self-Monitoring Scale (Snyder, 1974). It is not independently validated and is not clinical. The four result names are an interpretive metaphor drawn from light and visibility: how brightly and genuinely your true self shines through. Self-report is the measurement format; the limitations of self-report for identity constructs are similar to those for cognitive style (stated in §10).
@@ -64,7 +64,7 @@ Decisions apply unchanged from Test 1. Full argument in `01-solstice-cycle-asses
 **Axis B, Self-Alignment.** How closely your behavior and relationships match your true self versus being shaped by external expectations.
 
 - **B1 Authentic Living:** Kernis & Goldman (2006) awareness + behavior components; Wood et al. (2008) authentic living factor. Acting in accord with your true self, values, and preferences rather than adjusting to gain approval or avoid consequences.
-- **B2 Relational Authenticity:** Kernis & Goldman (2006) relational orientation component; Wood et al. (2008) accepting external influence factor (reversed). Being open, genuine, and truthful in close relationships — letting others know the real you rather than playing a role or keeping parts hidden.
+- **B2 Relational Authenticity:** Kernis & Goldman (2006) relational orientation component; Wood et al. (2008) accepting external influence factor (reversed). Being open, genuine, and truthful in close relationships: letting others know the real you rather than playing a role or keeping parts hidden.
 
 **Honesty note 2: B1/B2 decomposition.** Kernis and Goldman (2006) propose four interrelated components; Wood et al. (2008) find three factors. Our pairing of these into B1 (Awareness + Behavior) and B2 (Relational Authenticity) covers three of Kernis & Goldman's four components. The Unbiased Processing component, the ability to objectively evaluate oneself without denying, distorting, or exaggerating self-relevant information, is not directly measured by the current B1 or B2 items. Unbiased processing is the hardest component to self-report: people who are good at self-deception cannot accurately report on their self-deception. Kernis & Goldman's own Unbiased Processing subscale has the lowest internal consistency (α = .64) of the four. We note the gap rather than pretend it is covered.
 
@@ -168,31 +168,31 @@ The format: each question presents a short scenario and two opposing anchor stat
 
 ### Facet A1: Self-Knowledge (8 items)
 
-All items vary how well you feel you know your own attributes, values, and identity. Content drawn from Campbell et al. (1996) SCC Scale items: A1.1 maps to "I could tell someone what I'm really like" (reversed), A1.4 maps to comfort with self-examination (Campbell's "I spend time wondering what kind of person I am" — reversed, adapted to a scenario frame), A1.8 maps to "I have a clear sense of who I am." A1.2 (values), A1.3 (decision-clarity), A1.5 (interests), A1.6 (strengths/weaknesses), and A1.7 (life-direction reflection) extend SCC content into domains Campbell's items touch on indirectly. No consistency-over-time language (that is A2).
+All items vary how well you feel you know your attributes, values, and identity. Content areas drawn from Campbell et al. (1996) SCC Scale. No consistency-over-time language (that is A2).
 
 | # | Scenario stem | Clear pole (knows self) | Diffuse pole (seeks self) |
 |---|---|---|---|
-| A1.1 | When someone asks you to describe what you're like, you… | "Can give a clear and confident answer." | "Struggle to find the right words — I'm still figuring it out." |
+| A1.1 | When someone asks you to describe what you're like, you… | "Can give a clear and confident answer." | "Struggle to find the right words. I'm still figuring it out." |
 | A1.2 | Your sense of what matters to you in life is… | "Something I've thought about a lot and know well." | "Something I haven't fully sorted out yet." |
 | A1.3 | When you need to make a decision that reflects your values… | "You know what those values are and what they call for." | "You're not always sure what you actually believe." |
-| A1.4 | When you sit with your own thoughts about who you are… | "It feels like familiar territory. I can navigate it." | "It feels like unfamiliar territory — I'm still mapping it." |
+| A1.4 | When you think about who you are as a person… | "I have a clear sense of who I am." | "It's still unclear to me." |
 | A1.5 | When people ask what interests or activities truly engage you… | "I can name them without hesitation." | "I'm still figuring out what I'm drawn to." |
 | A1.6 | How well do you know your own strengths and weaknesses? | "I have a pretty clear picture." | "I'm still discovering them." |
-| A1.7 | When you set aside time to reflect on your life and direction… | "I have a clear sense of where I am and where I'm headed." | "It raises more questions than answers — I'm still finding my way." |
+| A1.7 | When you think about where your life is headed… | "I have a clear sense of direction." | "It raises more questions than answers. I'm still finding my way." |
 | A1.8 | Your sense of who you are is best described as… | "Well-defined. I know myself." | "In progress. I'm still becoming." |
 
 ### Facet A2: Self-Consistency (8 items)
 
-All items vary the stability and internal coherence of self-beliefs over time and across contexts. Content drawn from Campbell et al. (1996) SCC Scale items: A2.1 maps to "one day one opinion, another day different" (reversed), A2.2 to "beliefs often conflict" (reversed), A2.3 to "not sure what I was like in the past" (reversed), A2.5 to "beliefs change frequently" (reversed), A2.8 to "describe personality: different each day" (reversed). A2.4 (self-beliefs under challenge), A2.6 (best-self/worst-self coherence), and A2.7 (self-other gap) extend SCC content.
+All items vary the stability and internal coherence of self-beliefs over time and across contexts. Content areas drawn from Campbell et al. (1996) SCC Scale. A2.4 (self-beliefs under challenge), A2.6 (best-self/worst-self coherence), and A2.7 (self-other gap) extend SCC content.
 
 | # | Scenario stem | Clear pole (consistent) | Diffuse pole (shifting) |
 |---|---|---|---|
 | A2.1 | How you see yourself… | "Is pretty stable from day to day." | "Changes depending on what's happening." |
 | A2.2 | Different parts of your personality… | "Feel like they belong together." | "Don't always feel like they fit into one person." |
 | A2.3 | Looking back at who you were a few years ago… | "I still see the same core person." | "I almost feel like a different person." |
-| A2.4 | When someone challenges how you see yourself… | "My view of myself stays solid — I know what I think." | "I start to question whether I really know myself." |
+| A2.4 | When someone challenges how you see yourself… | "My view of myself stays solid. I know what I think." | "I start to question whether I really know myself." |
 | A2.5 | Your opinions about yourself… | "Tend to stay consistent over time." | "Change more often than you'd expect." |
-| A2.6 | When you think about the person you are at your best and the person you are at your worst… | "They feel like different versions of the same person." | "They almost feel like two different people." |
+| A2.6 | Your best self and your worst self… | "Feel like different versions of the same person." | "Almost feel like two different people." |
 | A2.7 | Between how you see yourself and how others describe you… | "There's a pretty close match." | "There's often a gap." |
 | A2.8 | Your sense of who you really are… | "Is clear and doesn't waver much." | "Can shift depending on my mood or situation." |
 
@@ -204,12 +204,12 @@ All items vary how much you behave in accord with your true self, values, and pr
 |---|---|---|---|
 | B1.1 | In most social situations, you… | "Act the same way you feel inside." | "Adjust your behavior to fit what the situation seems to call for." |
 | B1.2 | The person people see in public is… | "The same as who I am in private." | "A version of me, not the whole picture." |
-| B1.3 | When how you feel inside and what the situation calls for don't match… | "You stay true to what matters to you." | "You adapt to what the situation requires." |
-| B1.4 | Making a choice that aligns with your values even when it means standing apart from others… | "Feels right — I'd rather stand by what I believe." | "Is a real tension — belonging matters too." |
+| B1.3 | When your gut and the situation don't match… | "You stay true to what matters to you." | "You adapt to what the situation requires." |
+| B1.4 | When doing what you believe means going against the crowd… | "Feels right. I'd rather stand by what I believe." | "Is a real tension. Belonging matters too." |
 | B1.5 | Across the different groups in your life (work, friends, family)… | "I'm fundamentally the same person with all of them." | "Different sides of me show up in each one." |
 | B1.6 | How you act on the outside… | "Accurately reflects what I'm feeling on the inside." | "Is often different from what I'm actually feeling." |
-| B1.7 | Doing what others expect of you… | "Is something I do rarely — I prefer to follow my own path." | "Is something I do often — it keeps things smooth." |
-| B1.8 | Being yourself, even when it's not the easy choice… | "Comes naturally to me." | "Takes effort — there's a cost to standing out." |
+| B1.7 | Doing what others expect of you… | "Is something I do rarely. I prefer to follow my own path." | "Is something I do often. It keeps things smooth." |
+| B1.8 | Being yourself, even when it's not the easy choice… | "Comes naturally to me." | "Takes effort. There's a cost to standing out." |
 
 ### Facet B2: Relational Authenticity (8 items)
 
@@ -219,11 +219,11 @@ All items vary how open and genuine you are in your closest relationships. Draws
 |---|---|---|---|
 | B2.1 | In close relationships, you tend to… | "Share your real thoughts and feelings openly." | "Hold some things back to avoid conflict or judgment." |
 | B2.2 | When friends describe you to someone new, they'd say… | "What you see is what you get." | "There's more to me than most people see." |
-| B2.3 | Being completely honest about how you feel with the people closest to you… | "Comes naturally to me." | "Feels risky — I'm selective about what I share." |
+| B2.3 | Being completely honest about how you feel with the people closest to you… | "Comes naturally to me." | "Feels risky. I'm selective about what I share." |
 | B2.4 | In arguments with people you're close to, you… | "Express what you truly think, even if it might upset them." | "Tend to say what will keep the peace." |
-| B2.5 | Over time in your closest relationships… | "People see more of who I really am — I gradually open up." | "I tend to show myself the same way from the start." |
-| B2.6 | When someone gets close to you, do you… | "Let them in and show your real self." | "Keep some distance — it's safer that way." |
-| B2.7 | When a close relationship reaches a new level of depth… | "I lean into it — deeper honesty is part of closeness." | "I move carefully — there are some things I keep to myself." |
+| B2.5 | Over time in your closest relationships… | "People see more of who I really am. I gradually open up." | "I tend to show myself the same way from the start." |
+| B2.6 | When someone gets close to you, do you… | "Let them in and show your real self." | "Keep some distance. It's safer that way." |
+| B2.7 | When a close relationship reaches a new level of depth… | "I lean into it. Deeper honesty is part of closeness." | "I move carefully. There are some things I keep to myself." |
 | B2.8 | In your closest relationships, you'd rather… | "Be fully known, even if it's messy." | "Keep certain parts of yourself private." |
 
 **Notes.** All 32 items are gender-neutral and identity-agnostic. Both poles of every item are affirming. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75.
@@ -254,7 +254,7 @@ The short-form caveat ("screening-tier; facet detail is provisional") appears on
 A result has four layers, surfaced in order:
 1. **Your mode** (quadrant). The shareable label.
 2. **Your position** (angle). Gradation and secondary leaning.
-3. **Your prototypicality** (radius). Strongly versus with nuance. Near-center yields **The Reflection** — the boundary condition.
+3. **Your prototypicality** (radius). How strongly you fit your mode. Near-center yields **The Reflection**, the boundary condition.
 4. **Your narrative.** Two to three personalized paragraphs, ending with a "your reflection point" line. Gemini layer per the GDD.
 
 **Deterministic fallback (no-API path).** 12 seasonal-mode states (4 modes × {early, mid, late}) plus the Reflection boundary reading (two narrative variants via the facet-tension modifier). The type count is four; the Reflection is a boundary condition, not a fifth type. The game is fully playable without the API.
