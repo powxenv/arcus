@@ -56,11 +56,27 @@ No result names or mappings changed. The theme is substantially genuine, not sup
 - docs/02b-modes-result-profiles.md (Halting Point rename; modulation table)
 - docs/CHANGELOG.md (this entry)
 
+### Second audit pass — item-bank construct-purity review & documentation cleanup
+
+After the initial paper audit, a full end-to-end re-read of all 32 items found three additional overlap issues within facets:
+- **C1.5** overlapped C1.4 (both about problem-approach). Replaced with a free-time-seeking-NFC item.
+- **C2.5** was the third item in a cluster with C2.1/C2.4 (all asking "quick answer → what next?"). Replaced with a social-verification item, extending C2 beyond self-generated intuitions.
+- **D2.7** overlapped D2.6 (both about complexity/systems). Replaced with a collaborative decomposition item.
+
+MMA-16 selection updated: the new C2.5 and D2.7 promoted into the short form. Total items replaced in v0.3: 7.
+
+### Methodology evaluation — kept the lock, strengthened the honesty
+
+Reconsidered whether Test 2 should use the same methodology as Test 1. Riding's (1997) CSA and Frederick's (2005) CRT are behavioral, and Riding explicitly rejects self-report for cognitive style. But the NFC and REI validate self-report for this domain, and a behavioral test is impractical in a game. Decision: keep the methodology, add a domain-specific honesty note (§10 and the honesty statement) stating that self-report is a weaker instrument for cognitive style than for affect.
+
+### Documentation cleanup
+
+Removed duplicate sections, simplified academic language, stripped implementation artifacts from the design doc.
+
 ### Deferred
-- Full item-bank audit (content-area mapping, construct purity across all 32 items — this pass addressed the four paper-explicit issues in C1.3, C2.6, D1.6, D2.3; the remaining 28 items need the same rigor pass Test 1 got across v0.12–v0.17).
-- MMA-16 item selection.
-- Profile re-audit (the 14-section profiles exist in 02b but haven't been through the rigor cycle).
+- Profile re-audit (`02b-modes-result-profiles.md`).
 - Build (`mma-debug.html`) and simulation (`mma-simulate.ts`).
+- Behavioral enrichment module (optional CRT-style puzzles — explored in methodology evaluation, deferred as separate scope).
 
 ## v0.20 (2026-06-19): two lengths — SCA-32 standard + SCA-16 short form
 

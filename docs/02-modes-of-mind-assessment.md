@@ -3,7 +3,7 @@
 > Status: v0.3 design document. Full-text paper audit (7 cognitive psych PDFs reviewed, verified against actual findings). Citations updated: kept only sources with verified full-text; dropped redundant or unverified ones. Three construct honesty notes added (Axis C compositing, C1/C2 cross-construct split, D1/D2 designer decomposition). Four items replaced for construct alignment against paper content. Scoring updated to v0.19 parity (facet-tension detection, gradation convention). Boundary renamed Undecidable → The Halting Point. See CHANGELOG v0.3.
 > Position: The Turing-themed test of the four-test Solstice Soul suite.
 > Theme served: Alan Turing (computing, code-breaking, AI, the many valid ways a mind can compute).
-> Honesty statement: The MMA is an original, theory-informed assessment for reflection and play. Its two axes are grounded in full-text-verified constructs: Processing Mode draws from Need for Cognition (Cacioppo & Petty, 1982), the Rational-Experiential Inventory (Epstein et al., 1996), and the Cognitive Reflection Test (Frederick, 2005); Encoding Structure draws from Riding's (1997) Wholist-Analytic dimension, with cross-cultural corroboration from Nisbett et al. (2001). It is not independently validated and is not clinical. The four result names are an interpretive metaphor drawn from computing and Turing's own work, not a claim that human minds are literally algorithms.
+> Honesty statement: The MMA is an original, theory-informed assessment for reflection and play. Its two axes are grounded in full-text-verified constructs: Processing Mode draws from Need for Cognition (Cacioppo & Petty, 1982), the Rational-Experiential Inventory (Epstein et al., 1996), and the Cognitive Reflection Test (Frederick, 2005); Encoding Structure draws from Riding's (1997) Wholist-Analytic dimension, with cross-cultural corroboration from Nisbett et al. (2001). It is not independently validated and is not clinical. Self-report Likert is a weaker measurement format for cognitive style than for the affective constructs in Test 1 — cognitive processes are often unconscious, and Riding (1997) and Frederick (2005) both use behavioral assessments for this reason. This is an explicit tradeoff stated in §10. The four result names are an interpretive metaphor drawn from computing and Turing's own work, not a claim that human minds are literally algorithms.
 
 ---
 
@@ -191,7 +191,7 @@ All items vary enjoyment of and preference for effortful thinking. No encoding-s
 | C1.2 | When you're learning something new, you prefer to… | "Understand the principles first, deliberately." | "Pick it up by doing, before I have the theory." |
 | C1.3 | When a problem makes you think hard for an extended time, you feel… | "Energized. This is why I'm here." | "Drained. I'd rather be done." |
 | C1.4 | A hard problem lands on you. Your impulse is to… | "Sit with it and work it through." | "Find the quickest path to an answer." |
-| C1.5 | You'd rather… | "Spend an hour understanding why." | "Spend an hour getting it done." |
+| C1.5 | When you have free time and nothing pressing, you're likely to… | "Pick up something mentally challenging." | "Do something that doesn't require much thought." |
 | C1.6 | Thinking hard feels… | "Satisfying. I seek it out." | "Costly. I'd rather avoid it." |
 | C1.7 | When something is complex… | "I want to map it fully before acting." | "I want to get the gist and act." |
 | C1.8 | Effortful reasoning is… | "My natural mode." | "Something I use only when I must." |
@@ -207,7 +207,7 @@ All items vary how much you check or verify intuitions before trusting them. Not
 | C2.2 | A gut feeling conflicts with your analysis. You tend to… | "Follow the analysis." | "Follow the gut, even if I can't justify it yet." |
 | C2.3 | When you can't explain how you know something, you… | "Don't fully trust it until I can." | "Trust it anyway. Some knowledge is pre-verbal." |
 | C2.4 | Your first instinct on a question is usually… | "A hypothesis I then check." | "Something I trust and run with." |
-| C2.5 | When you're confident fast… | "I still want to verify." | "I act on it." |
+| C2.5 | Someone tells you something surprising. Before you accept it, you… | "Try to verify it from another source." | "Accept it if the person seems credible." |
 | C2.6 | When you make a snap judgment… | "I usually circle back and check it later." | "I trust it and move on." |
 | C2.7 | Doubt, for you, is… | "A signal to dig deeper." | "A drag I'd rather skip." |
 | C2.8 | When the stakes are real… | "I override instinct with analysis." | "I trust instinct and analyze after." |
@@ -241,11 +241,12 @@ All items vary how you work with information once you have it — ongoing proces
 | D2.4 | A pile of details lands on you. You prefer to… | "Order them into a sequence and work through it." | "Stand back and find the pattern they form." |
 | D2.5 | When the details don't add up to a sensible whole, you… | "Keep working the parts until they do." | "Step back and reconsider the shape of the whole." |
 | D2.6 | Faced with complexity… | "I decompose it into manageable units." | "I look for the unifying pattern." |
-| D2.7 | Your instinct with any system… | "Take it apart to understand it." | "Find what holds it together." |
+| D2.7 | You're working on a complex project with a team. Your natural role is… | "Breaking the work into clear parts and sequences." | "Keeping the overall picture clear while others handle the details." |
 | D2.8 | Understanding, for you, comes from… | "Assembling parts into wholes." | "Grasping wholes that contain their parts." |
 
 
-**Notes.** All 32 items are gender-neutral and identity-agnostic. Both poles of every item are affirming. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75. The four items replaced in v0.3 (C1.3, C2.6, D1.6, D2.3) were fixed for construct alignment against the full-text papers; they have not been pilot-tested.
+**Notes.** All 32 items are gender-neutral and identity-agnostic. Both poles of every item are affirming. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75. Seven items were replaced in v0.3 (C1.3, C1.5, C2.5, C2.6, D1.6, D2.3, D2.7) for construct alignment and content-area spread; none have been pilot-tested.
+op
 
 **Overlap honesty.** Axis C (Processing Mode) overlaps with Big Five Openness-to-Ideas (via C1, confirmed in Stanovich & West, 1997) and Conscientiousness (via C2's deliberation/responsibility shading). Axis D (Encoding Structure) overlaps weakly with Openness. These are validated constructs we build on, not inventions. The MMA's contribution is the combination, the facet structure, and the cognitive (not personality) framing.
 
@@ -255,14 +256,14 @@ Same subset approach as SCA-16: curated selection of 4 items per facet from the 
 
 **Selection** (content-driven, no pilot data): most construct-central items per facet, maximally spread across content areas.
 
-**MMA-16 = {C1.1, C1.4, C1.6, C1.8, C2.1, C2.2, C2.7, C2.8, D1.1, D1.4, D1.5, D1.6, D2.2, D2.5, D2.6, D2.8}** (16 items, 4 per facet).
+**MMA-16 = {C1.1, C1.4, C1.6, C1.8, C2.1, C2.2, C2.5, C2.7, D1.1, D1.4, D1.5, D1.6, D2.2, D2.5, D2.7, D2.8}** (16 items, 4 per facet).
 
 | Facet | Retained (4) | Dropped (4) | Why |
 |---|---|---|---|
 | C1 Deliberation Pref. | C1.1, C1.4, C1.6, C1.8 | C1.2, C1.3, C1.5, C1.7 | Four most direct NFC items: enjoyment, default impulse, satisfaction, self-label. Dropped C1.2 (learning — narrow), C1.3/C1.5/C1.7 (overlap retained). |
-| C2 Override Tendency | C2.1, C2.2, C2.7, C2.8 | C2.3, C2.4, C2.5, C2.6 | Four strongest verification contexts: initial answer, internal conflict, epistemic stance, high stakes. Dropped C2.3–C2.5 (narrower) and C2.6 (replaced in v0.3). |
+| C2 Override Tendency | C2.1, C2.2, C2.5, C2.7 | C2.3, C2.4, C2.6, C2.8 | Four distinct verification contexts: self-generated intuition, internal conflict, claims from others, and doubt as epistemic signal. Dropped C2.3/C2.4 (narrower overlaps), C2.6 (replaced), C2.8 (partially context-dependent). |
 | D1 Entry Point | D1.1, D1.4, D1.5, D1.6 | D1.2, D1.3, D1.7, D1.8 | Four broad entry contexts: problem, learning, situation, skill. Dropped D1.2 (overlaps D1.1), D1.3 (reading — narrow), D1.7/D1.8 (overlap retained / too generic). |
-| D2 Decomposition | D2.2, D2.5, D2.6, D2.8 | D2.1, D2.3, D2.4, D2.7 | Span approach, conflict, complexity, and foundational understanding. Dropped D2.1 (output — narrow), D2.3 (replaced in v0.3), D2.4/D2.7 (overlap retained). |
+| D2 Decomposition | D2.2, D2.5, D2.7, D2.8 | D2.1, D2.3, D2.4, D2.6 | Span approach, conflict, collaboration, and foundational understanding. Dropped D2.1 (output — narrow), D2.3 (replaced), D2.4/D2.6 (overlap retained). |
 
 The short-form caveat ("screening-tier; facet detail is provisional") appears on MMA-16 results.
 ---
@@ -293,8 +294,11 @@ A result has four layers, surfaced in order:
 
 **Limitations, stated up front in the product.**
 - Not a validated clinical instrument. Inspired by validated models (NFC, REI, CRT, Wholist-Analytic). Not independently psychometrically evaluated.
-- Self-report biases remain. Mitigated, not eliminated, by scenario framing and Likert format. Riding (1997) specifically notes self-report weaknesses for cognitive style.
+
+- **Domain-specific honesty note — self-report is a weaker instrument for cognitive style than for affect.** Test 1 measures felt states (how energized you feel, how socially oriented you are). Those are accessible to introspection. Test 2 measures cognitive processes (how you process and structure information), which are often unconscious. System 1 is automatic by definition — people may have limited introspective access to their own cognitive style. Riding (1997) built the CSA as a behavioral reaction-time test specifically because he rejected self-report for cognitive style: "introspective self-report measures have inherent weaknesses… inability to report accurately… unwillingness to make the necessary effort… social desirability bias" (p. 31). Frederick's (2005) CRT is likewise behavioral — you cannot ask someone if they override their intuitions and trust the answer; you have to give them a problem and observe. We use self-report Likert because validated instruments exist for this domain (the NFC and REI use it successfully), and a behavioral test is impractical in a self-administered game context. But the measurement error is genuinely higher here than for Test 1, and the ceiling on what self-report can capture for cognitive processing is lower. This is an explicit tradeoff, not an equivalence.
+
 - The REI dimensions (NFC and FI) are orthogonal (Epstein et al., 1996). Collapsing them into one bipolar axis loses information — the facet signature recovers some, not all, of the lost texture. See §2.5 honesty note 1.
+
 - The mode names are interpretive. We measure processing preference and encoding structure. We name the result computationally.
 - The Halting Problem reference is a metaphor. Formal undecidability is a proof about Turing machines, not about cognitive profiles. The metaphor is made explicit so it is not mistaken for a formal claim.
 - State versus trait ambiguity. The MMA blurs stable disposition with current thinking habits. We lean into this, but it is not a pure trait measure.
