@@ -1,0 +1,1265 @@
+Ageing and Society
+http://journals.cambridge.org/ASO
+
+Additional services for Ageing and Society:
+
+
+Email alerts: Click here
+Subscriptions: Click here
+Commercial reprints: Click here
+Terms of use : Click here
+
+
+
+
+Reminiscence and mental health: a review of
+recent progress in theory, research and
+interventions
+
+GERBEN J. WESTERHOF, ERNST BOHLMEIJER and JEFFREY DEAN
+WEBSTER
+
+Ageing and Society / Volume 30 / Issue 04 / May 2010, pp 697 - 721
+DOI: 10.1017/S0144686X09990328, Published online: 01 March 2010
+
+Link to this article: http://journals.cambridge.org/abstract_S0144686X09990328
+
+How to cite this article:
+GERBEN J. WESTERHOF, ERNST BOHLMEIJER and JEFFREY DEAN
+WEBSTER (2010). Reminiscence and mental health: a review of recent progress
+in theory, research and interventions. Ageing and Society, 30, pp 697-721
+doi:10.1017/S0144686X09990328
+
+Request Permissions : Click here
+
+
+
+
+Downloaded from http://journals.cambridge.org/ASO, IP address: 138.251.14.35 on 19 Mar 2015
+Ageing & Society 30, 2010, 697–721. f Cambridge University Press 2010                697
+doi:10.1017/S0144686X09990328 Printed in the United Kingdom
+
+
+
+Reminiscence and mental health : a review
+of recent progress in theory, research and
+interventions
+GERBEN J. WESTERHOF*, ERNST BOHLMEIJER* and
+JEFFREY DEAN WEBSTER#
+
+
+ABSTRACT
+This article explores recent progress in theory, research and practical applications
+of reminiscence. It ﬁrst describes the evidence for reminiscence as a naturally
+occurring process, and discusses the diﬀerent functions of reminiscence and their
+relationships with mental health and lifespan processes. Three basic types of
+reminiscence that relate to mental health are speciﬁed : conversations about
+autobiographical memories and the use of personal recollections to teach and
+inform others have social functions; positive functions for the self include the
+integration of memories into identity, recollections of past problem-solving
+behaviours, and the use of memories to prepare for one’s own death ; negative
+functions for the self are the use of past memories to reduce boredom, to revive
+bitterness, or to maintain intimacy with deceased persons. It is proposed that
+in interventions the three types are addressed diﬀerently : simple reminiscence
+stimulates social reminiscence and bonding and promotes positive feelings ; life
+review uses the positive functions to enhance personal wellbeing ; and life-review
+therapy seeks to reduce the negative uses and thereby alleviate symptoms of
+mental illness. Studies of the eﬀectiveness of interventions have provided some
+evidence that interventions are eﬀective in relation to their goals. The review
+closes with recommended directions for future reminiscence research.
+
+
+KEY WORDS – reminiscence, life review, mental health, lifespan processes,
+psychological interventions.
+
+
+Introduction
+
+Reminiscence has attracted much attention from gerontology researchers.
+Many acclaimed scholars, including Bühler, Jung, Havighurst and
+Neugarten, have argued that reminiscence is a ‘ natural process ’ through
+
+* Department of Psychology and Communication of Health and Risk, University of
+  Twente, Enschede, The Netherlands.
+# Department of Psychology, Langara College, Vancouver, Canada.
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                 IP address: 138.251.14.35
+   698     Gerben J. Westerhof et al.
+
+   which positive and negative memories are balanced in the light of life’s
+   ﬁnitude. In his stage theory of lifespan development, Erikson (1959) most
+   clearly formulated the last stage of life as a period of life review. A suc-
+   cessful life review achieves an integrated view of one’s past life, including
+   positive memories and achievements alongside the reconciliation and ac-
+   ceptance of failures and disappointments, and results ideally in wisdom,
+   the experience of meaning in life, and the acceptance of one’s own death.
+   It was Butler’s (1963) seminal article, ‘ The life-review : an interpretation of
+   reminiscence in the aged ’, which initiated the ﬁrst empirical studies and
+   practical applications of reminiscence among older people. Previously
+   reminiscence had often been seen as a corollary of cognitive decline, but
+   Butler argued that life review has a positive function in helping a person
+   come to terms with unresolved conﬂicts from the past and with his or her
+   approaching vulnerability and death. The process of life review would
+   thus be functional for older adults from a mental health perspective. In the
+   late 1980s and early 1990s, several reviews of the early work were pub-
+   lished (Haight 1991; Kovach 1990; Molinari and Reichlin 1984; Thornton
+   and Brotchie 1987 ; Webster 1994 ; Webster and Haight 1995). They gen-
+   erally concluded that there was a need for more precise deﬁnitions and
+   measurements and better studies of the eﬀects of interventions.
+      For the last two decades, researchers have responded to these criticisms
+   and instigated a new phase of reminiscence research, which is the subject
+   of this review. We ﬁrst discuss accounts of reminiscence as a ‘naturally
+   occurring process ’, deﬁne the phenomenon and describe its diﬀerent types
+   and functions. In the second section, we discuss the evidence for the
+   relationship between reminiscence and mental health. The third section
+   relates reminiscence to lifespan processes, and in the ﬁnal section we
+   consider the implications of recent research on reminiscence as a social or
+   therapeutic intervention, including the diﬀerent functions it achieves and
+   its role in restoring and optimising mental health.
+
+   Reminiscence as a naturally occurring process
+   Deﬁnitions of reminiscence
+   Although in everyone’s vocabulary reminiscence refers to the recall of
+   memories about one’s own life, it has proven diﬃcult to provide a robust
+   scientiﬁc deﬁnition (Fitzgerald 1996). The most inclusive deﬁnition is that
+   provided by Bluck and Levine (1998: 188). It incorporates all aspects of the
+   phenomenon of remembering our lives and is adopted in this review:
+   Reminiscence is the volitional or non-volitional act or process of recollecting
+   memories of one’s self in the past. It may involve the recall of particular or generic
+   episodes that may or may not have been previously forgotten, and that are
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                 IP address: 138.251.14.35
+                                              Reminiscence and mental health : a review    699
+
+accompanied by the sense that the remembered episodes are veridical accounts of
+the original experiences. This recollection from autobiographical memory may
+be private or shared with others.
+
+We stress three important elements of this deﬁnition. First, it makes clear
+that reminiscence is something which happens to us all in our everyday
+lives, whether we share our memories or not. This is the basis for de-
+scribing reminiscence as a ‘ naturally occurring phenomenon’ throughout
+the lifespan. Second, the deﬁnition draws attention to the fact that
+memories of our lives can be wilfully recollected, and even that memories
+thought to be forgotten can be recalled. This volitional recall is the
+cornerstone for reminiscence as a useful intervention. Third, it describes
+memories as veridical (‘ speaking, telling, or relating the truth; truthful,
+veracious’, Oxford English Dictionary online). It is nowadays generally
+understood that remembering not only involves the simple recall of in-
+stances from long-term memory, but also that memories are reconstructed
+in relation to existing schemas about the self, and vice versa (Bluck and
+Levine 1998; Conway, Singer and Tagini 2004; Wilson and Ross 2003).
+When memories are shared with other persons, the retelling is tuned to the
+social situation at hand (Marsh 2007; Pasupathi 2001). This reconstructive
+nature of reminiscence makes it diﬃcult to grasp, yet it also provides a
+second cornerstone for believing that reminiscence interventions can be
+beneﬁcial.
+
+Types of reminiscence and their measurement
+Bluck and Levine’s deﬁnition makes clear that reminiscence has diﬀerent
+forms, but which have been distinguished? While the earliest reminiscence
+researchers recognised there are diﬀerent types (e.g. Coleman 1974, 1986;
+Lo Gerfo 1980; McMahon and Rhudick 1964), more recent scholars have
+attempted to measure their relative frequencies in informants’ self-reports
+(Habegger and Blieszner 1990; Havighurst and Glasser 1972; Merriam
+1993; Santor and Zuroﬀ 1994) and by content analysis (Kovach 1995).
+These early taxonomies and measures were limited, however, and not
+widely adopted (Webster 2003).
+   Wong and Watt (1991) made the ﬁrst substantial attempt to develop an
+empirically grounded taxonomy of reminiscence on the basis of previous
+research and using content analysis of a large corpus of reminiscence data.
+They asked 200 community-dwelling subjects and 200 people living in
+institutions aged 65 or more years to ‘tell something about your past that is
+most important to you – that is something that has had the most inﬂuence
+on your life ’ (1991: 275). An exhaustive and reliable coding scheme was
+developed to score the responses into the diﬀerent reminiscence types, and
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                        IP address: 138.251.14.35
+   700     Gerben J. Westerhof et al.
+
+   six forms were identiﬁed (see Table 1, column 2). Integrative reminiscence
+   refers to the type of life review recognised in the early literature, although
+   not all instances are necessarily related to death preparation. Instrumental
+   reminiscence includes recollections of one’s planning and coping beha-
+   viours in the past. Transmissive reminiscence involves telling memories to
+   inform younger generations about one’s cultural heritage or personal
+   legacy. Narrative reminiscence concerns recounting autobiographical in-
+   formation and past anecdotes. Escapist reminiscence refers to positive
+   recollections, expressing nostalgia for the past. Obsessive reminiscence, by
+   contrast, reiterates negative memories, and is evinced by guilt, bitterness
+   and despair.
+      Webster (1993, 1997) used factor analysis to distinguish diﬀerent uses of
+   reminiscence. The resulting Reminiscence Functions Scale (RFS) has 43
+   items that begin with the stem, ‘When I reminisce it is’ and continue with
+   a selected speciﬁc purpose, for example ‘ to reduce boredom’. The items
+   generate eight components or sub-scales that have good reliability, most
+   above 0.8. Webster (1997 : 140) labelled these as:
+   Identity : The existential use of the past to discover, clarify or crystallise our
+   sense of who we are.
+   Death preparation : The way we use our past in order to arrive at a calm and
+   accepting attitude towards our own mortality.
+   Problem solving : The use of reminiscence as a constructive coping
+   mechanism by remembering past problem-solving strategies.
+   Teach/inform : An instructional type of reminiscence to relay personal
+   experiences and life lessons to others.
+   Conversation: The informal use of memories in order to connect or re-
+   connect to others.
+   Boredom reduction : Thinking back about the past to escape an under-
+   stimulating environment or a lack of engagement in goal-directed ac-
+   tivities.
+   Bitterness revival : The recall of memories about unjust treatments, providing
+   the justiﬁcation to maintain negative thoughts and emotions to others.
+   Intimacy maintenance : A process whereby cognitive and emotional re-
+   presentations of important people in our lives are resurrected in lieu of the
+   remembered person’s physical appearance.
+     Although Webster used a very diﬀerent methodology, six factors of the
+   RFS correspond by and large to the six types distinguished by Wong and
+   Watt (1991) (see Table 1, columns 2 and 3). They saw death preparation as
+   part of integrative reminiscence (1991 : 273), so intimacy maintenance is
+   the only type of reminiscence that Webster added to Wong and Watt’s
+   typology.
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015             IP address: 138.251.14.35
+    T A B L E 1. The types and functions of reminiscence
+                                                                                  Author(s) and source publication
+                               Wong and                                  Cappeliez            Bluck and                               Cappeliez and           Bluck et al.
+                               Watt (1991)        Webster (1994)        et al. (2007)         Alea (2002)           Webster (2003)   O’Rourke (2006)             (2005)
+
+    1                      2                  3                       4                   5                     6                     7                   8
+    Approach or            Content analysis   Factor analysis         Theoretical         Theoretical re:       Secondary             Structural          Correlation
+      type of analysis                                                  approach            autobiographical      factor and            equation           analysis
+                                                                                            memories              discriminant          models
+                                                                                                                  analyses
+    Functions              Instrumental       Problem solving        Guidance             Directive             Self, pro-active      Self, positive      Directive, self
+
+
+
+
+                                                                                                                                                                             Reminiscence and mental health : a review
+                           Integrative        Identity               Self, positive       Self                  Self, pro-active      Self, positive      Directive, self
+                           –                  Death preparation      Self, positive       Self                  Social, reactive      Self, positive      –
+                           –                  Intimacy               Social, negative     Social                Social, reactive      Self, negative      –
+                                               maintenance
+                           Escapist           Boredom reduction       Self, negative      –                     Self, reactive        Self, negative      –
+                           Obsessive          Bitterness revival      Self, negative      –                     Self, reactive        Self, negative      –
+                           Transmissive       Teach, inform           Guidance            Social                Social,               Pro-social          –
+                                                                                                                 pro-active
+                           Narrative          Conversation            Social,             Social                Social, pro-active    Pro-social          Nurturing rels
+                                                                       positive
+                           –                  –                       –                   –                     –                     –                   Developing rels
+
+    Note : rels: relationships.
+
+
+
+
+                                                                                                                                                                             701
+
+
+
+
+http://journals.cambridge.org                             Downloaded: 19 Mar 2015                                                          IP address: 138.251.14.35
+   702     Gerben J. Westerhof et al.
+
+      It is tempting to try to reduce the eight diﬀerent functions to a smaller
+   number. Cappeliez, Rivard and Guindon (2007) argued that there are
+   three main clusters of reminiscence functions (see Table 1, column 4). The
+   ﬁrst are mainly directed towards the self and concern the striving for
+   meaning and coherence in life. The associated positive functions for the
+   self are identity construction and death preparation, whereas negative
+   self-functions are boredom reduction and bitterness revival. The second
+   cluster relates to social bonding and emotion regulation and includes in-
+   timacy maintenance as a negative function and conversation as a positive
+   function. The last cluster, called guidance, relates to private or shared
+   knowledge and experience, and has the reminiscence functions of problem
+   solving and teaching or informing others.
+      Bluck and Alea (2002) also tried to reduce the number of functions using
+   theory. They compared the functions of reminiscence to three functions
+   of autobiographical memory: self, directive, and social (see Table 1,
+   column 5), and argued that identity construction and death preparation
+   are functional for the self, most importantly to maintain continuity.
+   Problem-solving reminiscence matches the directive function of auto-
+   biographical memory, whereas teaching/informing, conversation and
+   intimacy maintenance correspond to the social function. Bitterness revival
+   and boredom reduction did not match any of the functions of auto-
+   biographical memory. These theoretical clusters of reminiscence functions
+   arrange well the reminiscence self-functions, but there is some dis-
+   agreement about whether teaching/informing belongs to the guidance or
+   the social cluster. One way to resolve this theoretical inconsistency is to
+   study the empirical relations between the occurrences of diﬀerent types of
+   reminiscence.
+
+   Recent empirical evidence
+   Webster (2003) conducted a secondary factor analysis and a discriminant
+   analysis on the eight reminiscence functions, using data from four inde-
+   pendent studies with participants aged from 17 to 96 years. The functions
+   could be arranged in a circumplex model with two axes : self versus social
+   and reactive/loss-oriented versus pro-active/growth-oriented (see Table 1,
+   column 6). The identity construction and problem-solving functions fall
+   in the pro-active self quadrant, conversation and teaching/informing
+   in the pro-active social quadrant, intimacy maintenance and death prep-
+   aration in the reactive social quadrant, and bitterness revival and boredom
+   reduction in the reactive self quadrant. Webster (2003) acknowledged
+   that this ordering of reminiscence functions was tentative, particularly the
+   position of death preparation.
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015         IP address: 138.251.14.35
+                                              Reminiscence and mental health : a review     703
+
+   Using data from a study with participants aged between 50 and 84
+years, Cappeliez and O’Rourke (2006) partly replicated these ﬁndings
+using structural equation modelling (see Table 1, column 7). They found
+three rather than four factors, splitting the factor that combined death
+preparation and intimacy maintenance. Death preparation loaded on the
+same factor as identity construction and problem solving, which they
+labelled self-positive. Intimacy maintenance loaded together with bitter-
+ness revival, and boredom reduction on a factor called self-negative. To
+teach and to converse made up the third pro-social factor, similar to that
+found by Webster (2003).
+   Bluck et al. (2005) carried out an empirical study among undergraduate
+students on the relation between functions of autobiographical memory
+and uses of reminiscence. They constructed a scale called Thinking About
+Life Experiences (TALE) to measure the self, directive and social functions
+of autobiographical memory. The scale showed four factors with the social
+function being bi-dimensional: self-continuity, directive, nurturing re-
+lationships, and developing relationships. Bluck and colleagues correlated
+the four sub-scales of TALE with the eight sub-scales of Webster’s RFS,
+and applied the criterion of a minimum correlation coeﬃcient of 0.50 to
+identify associations (see Table 1, column 8). The factors self-continuity,
+directive, and nurturing relations showed high correlations with respect-
+ively Identity, Problem Solving, and Conversation of the RFS. These
+ﬁndings evince the concurrent validity of both scales. Self-continuity also
+related to Problem Solving, however, and the directive function also cor-
+related with Identity, suggesting that the discriminant validity of the sub-
+scales may not be high. The TALE sub-scale Developing Relationships
+was not strongly related to RFS sub-scales, and the other RFS sub-scales
+were not highly correlated with the other TALE sub-scales.
+   It has become clear that reminiscence has many diﬀerent forms. At least
+eight uses of reminiscence have been reliably distinguished by diﬀerent
+types of research. The RFS is the best available way to assess these dif-
+ferent uses (Webster 1993, 1997), but it remains an open question whether
+the eight uses are really distinct or correlate strongly enough to justify
+a more parsimonious taxonomy. The two most contested issues, both
+theoretically and empirically, relate to (a) the position of intimacy main-
+tenance and death preparation, and (b) whether identity construction and
+problem solving are distinct or similar functions. These contested issues
+derive partly from the diversity of reminiscence’s functions. Our view is
+that more clarity will come when the diﬀerent uses of reminiscence are
+studied in relation to individual functions. As it has often been argued that
+reminiscence impacts on mental health, the following section focuses on
+the evidence for this relationship. The reasoning is that if diﬀerent uses of
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                        IP address: 138.251.14.35
+   704     Gerben J. Westerhof et al.
+
+   reminiscence have similar relations to mental health, they can be con-
+   sidered as similar types.
+
+
+   Reminiscence and mental health
+
+   Although it has long been assumed that reminiscence is adaptive in old
+   age, studies in the early years of reminiscence research produced con-
+   ﬂicting results (Wong and Watt 1991), which might be because they ad-
+   dressed diﬀerent types of reminiscence, or because initially it was not
+   recognised that life review can be obsessive or stagnant (Coleman 1986).
+   Along with the increased awareness of the diﬀerent types and uses
+   of reminiscence in recent years, the focus has shifted from whether
+   reminiscence is adaptive to determining which types are adaptive.
+   Unfortunately, almost all studies to date of the relationship between
+   reminiscence and mental health have been cross-sectional (see Coleman
+   1986 for an exception based on qualitative case studies). It is therefore
+   impossible to draw conclusions about causality: particular uses of remi-
+   niscence might result in better mental health, but better mental health
+   might also lead to particular uses of reminiscence.
+      Six studies have used the RFS in relation to mental health, as
+   summarised in Table 2. Webster (1998) and Webster and McCall (1999)
+   found that reminiscence functions are related to happiness. Bitterness
+   revival, boredom reduction, identity construction and problem solving
+   were negatively related to happiness, whereas conversation and teaching/
+   informing were positively related to feelings of happiness. Cully, LaVoie
+   and Gfeller (2001) found that state and trait anxiety correlated with bit-
+   terness revival, boredom reduction and death preparation, whereas de-
+   pression associated only with bitterness revival. Using a canonical analysis
+   of reminiscence functions, indicators of mental health and personality
+   traits, they identiﬁed two canonical variates. The ﬁrst suggested that
+   individuals with lower levels of anxiety and depression and who are less
+   neurotic and more agreeable tend to use reminiscence comparatively
+   infrequently for bitterness revival, boredom reduction and death prep-
+   aration. The second variate suggested that individuals high on extra-
+   version and openness and with lower levels of depression tend to reminisce
+   frequently for teaching and conversing.
+      Cappeliez and O’Rourke (2002) studied the relation between remi-
+   niscence functions and meaning in life after controlling for personality
+   traits. They found that a lower score on goal-seeking as a component of
+   meaning in life related to a greater use of boredom reduction, bitterness
+   revival and death preparation, and a higher score on existential vacuum,
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015        IP address: 138.251.14.35
+    T A B L E 2. Relationships between reminiscence functions and wellbeing
+                                                                                                                                       Uses of reminisence3
+
+
+
+
+                                                                                                                                          Conversation
+                                                                                                                                                                                  Death         Intimacy
+                                                                                                                 Problem   Teaching,                     Boredom     Bitterness
+                           Mental health                                                              Identity   solving   informing                     reduction   revival      preparation   maintenance
+    Study                   construct           Instruments1        Sample2         Analysis
+
+    Webster (1998)        Happiness           MUNSH                 99 OA,     Correlation            x           x          +            +                x           x             0             0
+                                                                     96 YA
+    Webster and           Happiness           MUNSH                 268 A      Correlation             0          x          +            +                x           x             0             0
+     McCall (1999)
+    Cully et al. (2001)   State anxiety       STAI                  83 OA      Correlation            0            0          0             0              +           +            +             0
+                          Trait anxiety       STAI                                                    0            0          0             0              +           +            +             0
+                          Death anxiety       TDAS                                                    +            0          0             0              +           +            +             +
+
+
+
+
+                                                                                                                                                                                                              Reminiscence and mental health : a review
+                          Depression          BDI-II                                                  0            0          0             0              0           +            0             0
+    Cappeliez and         Existential         LAP-R                 89 OA      Regression with
+     O’Rourke (2002)       vacuum                                               personality trait
+                                                                                controls               0           0          0             0              0           0            +              0
+                          Goal seeking        LAP-R                                                    0           0          0             0              x           x            x              0
+    Cappeliez             Life satisfaction   SWLS                  420 OA     Regression              0           0          0             0              x           x            +              0
+     et al. (2005)        Psychiatric         GHQ
+                           distress                                                                    0           0          0             0              +           +             0            +
+    Cappeliez and         Wellbeing           SWLS GHQ              412 OA     Structural equation
+     O’Rourke (2006)                           self-rated health,
+                                               health conditions                                      +           +           0             0              x           x            +             x
+
+    Notes : 1. MUNSH : Memorial University of Newfoundland Scale of Happiness (Kozma, Stones and McNeil 1990). STAI: State–Trait Anxiety Inventory
+    (Spielberger, Gorsuch and Lushene 1970). TDAS: Templer-McMordie Death Anxiety Scale (McMordie 1979). BDI-II: Beck Depression Inventory, revised (Beck,
+    Steer and Brown 1996). LAP-R: Life Attitude Proﬁle, revised (Reker 1992). SWLS: Satisfaction With Life Scale (Diener et al. 1985). GHQ : General Health
+    Questionnaire (Goldberg 1978). 2. A: adults. OA: older adults. YA: younger adults. 3. 0 indicates no relation;+indicates a positive relation (e.g. more teaching/
+    informing is related to higher levels of happiness); xindicates a negative relation (e.g. more boredom reduction is related to lower levels of happiness).
+                                                                                                                                                                                                              705
+
+
+
+
+http://journals.cambridge.org                            Downloaded: 19 Mar 2015                                                                             IP address: 138.251.14.35
+   706     Gerben J. Westerhof et al.
+
+   indicating a lack of meaning in life, related to a higher score on death
+   preparation. A recent study of 420 adults with a mean age of 61 years
+   investigated the association of reminiscence functions with life satisfaction
+   and psychological distress (Cappeliez, O’Rourke and Chaudhury 2005).
+   When controlling for personality traits, boredom reduction and bitterness
+   revival related to lower life satisfaction, whereas death preparation related
+   to higher life satisfaction. Boredom reduction, bitterness revival and
+   maintenance of intimacy with deceased persons related to psychological
+   distress, but these associations could be explained by personality traits.
+   Cappeliez and O’Rourke (2006) calibrated a structural equations model
+   using the same data that related reminiscence functions to wellbeing
+   (including life satisfaction, psychological distress, perceived health, and
+   health conditions). The reminiscence functions of identity, death prep-
+   aration and problem solving positively related to wellbeing, and the
+   functions of boredom reduction, bitterness revival, and intimacy main-
+   tenance were negatively related, but the pro-social functions conversation
+   and teaching/informing were unrelated.
+      To sum up, studies have produced inconsistent ﬁndings, in part because
+   they have used diﬀerent measures of mental health. The ﬁndings for bit-
+   terness revival and boredom reduction are the most consistent: these uses
+   of reminiscence are negatively related to almost all the aspects of mental
+   health that have been studied. Intimacy maintenance also shows a nega-
+   tive relation to mental health, but not for all aspects. Conversation and
+   teaching or informing tend to be unrelated to mental health, with the
+   exception of a positive association with happiness. Some studies have
+   found that identity, problem solving and death preparation are negatively
+   related to mental health, and some have found positive associations.
+      Earlier in the paper we reviewed the various attempts to classify the uses
+   of reminiscence, as summarised in Table 1. The evidence from studies of
+   the relationships between diﬀerent forms of reminiscence and mental
+   health supports the view that some ways of reminiscing are not only
+   similar from a theoretical perspective and in terms of their factor structure,
+   but also in their relation with mental health : bitterness revival and bore-
+   dom reduction are similarly dysfunctional, whereas conversation and
+   teaching/informing tend to be unrelated to mental health, with the ex-
+   ception of their positive relation to happiness. Studies on the relations of
+   reminiscence with mental health shed a new light on the two remaining
+   inconsistencies in the classiﬁcation of reminiscence functions. First, the
+   position of death preparation and intimacy maintenance remained un-
+   clear. At least from a mental health perspective, the function of death
+   preparation is similar to those of identity construction and problem sol-
+   ving, whereas intimacy maintenance has similar dysfunctional outcomes
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015          IP address: 138.251.14.35
+                                              Reminiscence and mental health : a review     707
+
+to those of bitterness revival and boredom reduction. Second, although
+identity construction and problem solving are theoretically distinct, it
+proved diﬃcult to distinguish them empirically. The evidence that they
+associate similarly with mental health supports the conclusion that both
+functions are similar, which has added plausibility when reminiscence is
+related to theories about lifespan processes.
+
+
+Lifespan processes
+
+It was long assumed that reminiscence is speciﬁc to late life and universal
+among older people, but evidence is accumulating that neither is the case.
+Coleman (1986) was one of the ﬁrst to show that reminiscence is not
+universal, and that it is not always useful for adaptation to later life. He
+distinguished reminiscers and non-reminiscers in a sample of 50 older
+people and found cases of low and high morale in both groups. Some
+(42 % of the 50) reminiscers valued their memories of the past, and some
+(16 %) were troubled by their memories. Some (30 %) non-reminiscers saw
+no point in looking back, and some (12 %) more or less actively avoided
+looking back because of contrasts between their past and present lives.
+Using a single dichotomous question on life review put to older re-
+spondents, Merriam (1993) found that about 54 per cent reported that
+they had or were currently engaged in a life review. Wink and Schiﬀ
+(2002) rated the responses to interviews that covered all main aspects
+of current and past psychological and social functioning on a ﬁve-point
+scale to indicate the level of life review in the transcript: 22 per cent
+had used reminiscence to reach a new level of self-understanding (score
+4 or 5), 20 per cent showed emotional involvement in the process of
+reminiscing without evidence for new self-understanding, and the re-
+mainder had not used reminiscence or only gave descriptions of past
+personal events. Reminiscence is therefore not a universal phenomenon in
+old age.
+   Other studies have shown that reminiscence is also not distinctive to old
+age. Using simple questions on the frequency of reminiscing, Merriam and
+Cross (1982) and Hyland and Ackerman (1988) found that adolescents
+reminisced as often as older adults, and that middle-aged people re-
+minisced less frequently. Recent studies using the RFS have consistently
+shown that there are no age diﬀerences in the total amount of reminiscing
+(Rybash and Hrubi 1997; Webster 1995, 1998, 2002; Webster and Gould
+2007; Webster and McCall 1999). Pasupathi and Carstensen (2003) studied
+age diﬀerences in emotional experiences during mutual reminiscence in
+adulthood, and found that age was unrelated to the amount of such
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                        IP address: 138.251.14.35
+   708     Gerben J. Westerhof et al.
+
+   reminiscence. As their study used experience sampling, the ﬁndings would
+   not be aﬀected by the bias in self-report methods used in other studies.
+       Although the total amount of reminiscence does not vary by age,
+   younger and older adults use it for diﬀerent purposes. Younger adults
+   consistently report reminiscing more often for bitterness revival, boredom
+   reduction, identity construction and problem solving, whereas older adults
+   report reminiscing more frequently for death preparation and to teach/
+   inform others (Rybash and Hrubi 1997; Webster 1995, 1998, 2002 ;
+   Webster and Gould 2007; Webster and McCall 1999). All studies agree
+   that there are no age diﬀerences in reminiscing to make conversation.
+   Some studies have shown that older persons score higher on intimacy
+   maintenance (Webster 1995, 1998; Webster and Gould 2007), whereas
+   others have not (Rybash and Hrubi 1997; Webster 2002 ; Webster and
+   McCall 1999). Interestingly, the ﬁnding that older people use reminiscence
+   more often for death preparation is in line with the earlier assumption that
+   life review is a distinctive characteristic of old age. It is by broadening the
+   deﬁnition of reminiscence that it becomes clear that it is not reminiscence
+   as such that is characteristic of old age, but its distinctive uses.
+       The recent empirical studies have shown unequivocally that remi-
+   niscence is a lifespan phenomenon, which interestingly goes hand-in-hand
+   with a theoretical shift. Psychological theories on ageing have increasingly
+   taken a lifespan perspective, rather than conceiving old age as a distinct
+   phase of life. Reminiscence is therefore no longer seen as an adaptation to
+   the increasing awareness of one’s ﬁnitude, but as an important process in
+   regulating individual development throughout the lifespan. Scholars such
+   as Whitbourne (1985), Thorne (2000) and Pasupathi, Weeks and Rice
+   (2006) describe remembering as a key process in development from early
+   to late adulthood. This basic idea has been developed in at least three
+   theories on lifespan development.
+
+   Reminiscence and theories of lifespan development
+   One psychological theory that has been applied to reminiscence is the
+   socio-emotional selectivity theory (Carstensen 1995, 2006). This proposes that
+   individuals have two important motives in life : emotion regulation and
+   information gain. In later life, motivational priorities shift so that the
+   regulation of emotional states becomes more important than information
+   gain. This theory emphasises that it is not age as such but the awareness of
+   endings which originates this shift. One important ﬁnding of socio-
+   emotional selectivity is known as the ‘ positivity’ eﬀect: ‘a developmental
+   pattern that has emerged in which a selective focus on negative stimuli in
+   youth shifts to a relatively stronger focus on positive information in old
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015           IP address: 138.251.14.35
+                                              Reminiscence and mental health : a review     709
+
+age ’ (Carstensen 2006: 1915). Socio-emotional selectivity theory has been
+applied to reminiscence in the work of Pasupathi and Carstensen (2003).
+They studied the age diﬀerences in emotional experiences during mutual
+reminiscence in adulthood, using an experience-sampling methodology.
+As we have seen, they found that age was unrelated to the amount of
+mutual reminiscing, but older people experienced more positive emotions
+during mutual reminiscing than younger people. As no age diﬀerences
+were found in the emotions of people who were engaged in other social
+situations, this positivity eﬀect appears to result from reminiscence. A se-
+cond study by Pasupathi and Carstensen showed that the positivity eﬀect
+arises because older adults relived the positive quality of the initial event
+more than younger people.
+   The second theory is that of continuity theory (Atchley 1989, 1993), which
+holds that experiencing continuity is essential to an individual’s mental
+health and functioning. Atchley distinguished two ways of maintaining a
+sense of continuity. External continuity refers to the preservation of one’s life
+circumstances, whereas internal continuity concerns the preservation of one’s
+own sense of identity. Both kinds are challenged when important life
+events disrupt an individual’s life, as with the age-related life events of
+retirement and the onset of frailty (Atchley 1993). To maintain a sense of
+continuity, individuals ‘ attempt to preserve and maintain existing internal
+and external structures and they prefer to accomplish this objective by
+using strategies tied to their past experiences of themselves’ (Atchley 1989:
+183). The resulting sense of continuity, with the aid of reminiscence, is
+expected to promote adaptation. Continuity theory has been applied to
+reminiscence most explicitly by Parker (1995, 1999). The theory assumes
+that people reminisce more frequently during periods of personal tran-
+sition than during stable periods. From her empirical research using self-
+reports on the amount of reminiscing during transitional periods, Parker
+found that young people were more likely to reminisce than older adults,
+although older adults reported more positive emotions when reminiscing.
+Studies of temporal comparisons have also found evidence of the import-
+ance of continuity across the lifespan. Individuals who see stability in their
+lives were found to have higher levels of wellbeing than those who see
+change, even when this change is appraised as improvement (Keyes 2000;
+Westerhof and Keyes 2006).
+   Besides these theories which focus on emotional regulation and con-
+tinuity, the lifespan theory of control has been applied to reminiscence (Schulz
+and Heckhausen 1996). This theory holds that individuals strive through-
+out the lifespan to maintain a sense of control over their lives. This can be
+achieved through either primary or secondary control: ‘ primary control
+targets the external world and attempts to achieve eﬀects in the immediate
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                        IP address: 138.251.14.35
+   710     Gerben J. Westerhof et al.
+
+   environment external to the individual, whereas secondary control targets the
+   self and attempts to achieve changes directly within the individual ’ (1996 :
+   708). In later life, individuals are expected to shift from primary to sec-
+   ondary control strategies. Secondary control strategies may also involve a
+   process of reminiscence.
+      In its application to reminiscence, the theory has focused on a particular
+   class of memories: regrets (Wrosch, Bauer and Scheier 2005 ; Wrosch and
+   Heckhausen 2002). An important assumption in these studies is that, with
+   advancing age the length of a person’s anticipated remaining life shortens,
+   so it becomes more diﬃcult to modify regretted life paths. Wrosch and
+   Heckhausen (2002) found that attributions of internal control were related
+   to high-intensity regret among older adults, but associated with low-
+   intensity regret among younger people. From a second study, Wrosch and
+   colleagues (2005) showed that among older people who were disengaging
+   from the goals associated with the regrets, having other future goals
+   moderated the relation between the intensity of regret and quality of life.
+   Both studies conﬁrmed that secondary control strategies dealing with life
+   regrets are more important in old age than at younger ages. The ﬁndings
+   of Timmer, Westerhof and Dittmann-Kohli’s (2005) study of German and
+   Dutch people aged between 40 and 85 years also supported this idea that
+   older people are more proﬁcient in using secondary control strategies
+   when dealing with regrets. They found that they had fewer regrets and
+   more often gave them external attributions than those of middle age.
+      Although these three theories have diﬀerent perspectives, they all sub-
+   scribe to the idea that reminiscence is important for the regulation of
+   development across the lifespan. As theories of psychological processes,
+   they also share the assumption that mental health is an important outcome
+   of developmental regulation. Although there is no simple one-to-one
+   match between lifespan processes and the various functions of remi-
+   niscence, the mentioned correspondences shed light on the mental health
+   outcomes of diﬀerent forms of reminiscence. We concluded in the pre-
+   vious section that the social functions of conversation and teaching/
+   informing are not strongly related to mental health, with the exception
+   of an association with happiness. These functions of reminiscence corre-
+   spond most closely to the processes described in socio-emotional selectivity
+   theory, at least when they result in the recall of positive memories.
+   Continuity and control theory both show more correspondence with the
+   other uses of reminiscence: bitterness revival, boredom reduction, prob-
+   lem solving, identity, death preparation, and intimacy maintenance. The
+   three dysfunctional ways of reminiscing (bitterness revival, boredom re-
+   duction, and intimacy maintenance) appear to be related to a feeling of
+   continuity with the past that results in a negative evaluation of the present.
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015          IP address: 138.251.14.35
+                                              Reminiscence and mental health : a review     711
+
+This demonstrates that in some cases, continuity, which people generally
+prefer, may have negative corollaries.
+   Control theory makes clear that in these cases, individuals have to be
+willing to accept changes in the self using secondary control strategies. The
+functions of identity, problem solving and death preparation have in
+common that they deal not only with positive memories, but may activate
+a secondary control strategy to ﬁnd meaning in past adversities. Through
+a process of integration of the negative memories, or a process of recalling
+how one coped with past problems, these are forms of reminiscence during
+which memories are evaluated and elaborated. Reminiscence thus in-
+volves balancing the maintenance of the structure of the self-system (con-
+tinuity and primary control) with openness to change (secondary control;
+see also Westerhof 2009). Compared to other descriptions of the life-review
+process, this balancing is close to the process of working towards integration.
+Coleman (1986) made clear that not all people engage in this process of life
+review, but that it can be stimulated in interventions, a topic to which we
+turn now.
+
+
+Reminiscence interventions
+
+Studies of reminiscence as a naturally occurring process have paved the
+way for reminiscence as an intervention. We have seen that reminiscence
+is voluntary and partly reconstructive, and that particular styles of remi-
+niscence associate with mental health outcomes. Stimulating the positive
+functions of reminiscence and discouraging the negative functions might
+help improve mental health in later life. Butler (1974) was among the ﬁrst
+to promote life review as an intervention for this purpose. In the ﬁrst wave
+of reminiscence research that followed Butler’s work until around 1990,
+interventions were developed in many settings and for many target groups,
+including community residents (Fallot 1980; Fry 1983), nursing home resi-
+dents (Haight 1988), and patients with dementia (Goldwasser, Auerbach
+and Harkins 1987). Reviews of that research found limited evidence for the
+eﬀectiveness of these reminiscence interventions (Kovach 1990; Molinari
+and Reichlin 1984; Thornton and Brotchie 1987). Some researchers
+realised that reminiscence is a more complex intervention than originally
+thought (Kovach 1990; Webster 1994). The diversity and complexity of
+reminiscence is still a major challenge, but also one of its main attractions
+for both professionals and researchers (Gibson 2004).
+   The use of reminiscence and life review in interventions and therapies
+for older adults is very widespread nowadays, and there have been many
+diﬀerent target groups, including: community residents, family members,
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                        IP address: 138.251.14.35
+   712     Gerben J. Westerhof et al.
+
+   voluntary aids, persons with chronic illness, persons with mental illness,
+   rural-dwelling older adults, lesbian and gay older persons, war veterans,
+   migrants, and ethnic minorities. The included activities have also been
+   diverse, from autobiographical writing, storytelling, instructing younger
+   generations about past events, oral history interviews, scrapbooks, artistic
+   expressions, family genealogy, to blogging and other internet applications.
+   Reminiscence programmes are used in neighbourhoods, higher edu-
+   cation, primary schools, museums, theatres, churches, voluntary or-
+   ganisations, assisted-living communities, nursing homes, dementia care,
+   and mental health institutions. It is hard to compile ﬁgures on the use of
+   reminiscence, because interventions have been given diﬀerent names, are
+   used in disparate settings and are often part of other approaches. It is
+   known, however, that about two-thirds of Dutch mental health institutions
+   oﬀer life-review interventions.
+       It has been argued that reminiscence interventions should make use of
+   the research ﬁndings and scientiﬁc theories that link psychological pro-
+   cesses in reminiscence to outcomes (Bluck and Levine 1998; Goldfried
+   and Wolfe 1996), and that they should take account of the characteristics
+   of the target group (e.g. the level of psychological distress and context), the
+   goals of the intervention, the skills of the counsellors, and developmental
+   theories (Lin, Dai and Hwang 2005). We propose that the recently devel-
+   oped understanding of the various functions of reminiscence and their
+   associations with mental health and lifespan processes provides a stronger
+   evidence base and more appropriate theories with which to inform the
+   design and delivery of interventions. Many scholars have distinguished
+   simple reminiscence and life review (e.g. Fry 1983; Haight and Dias 1992 ;
+   Webster and Young 1988), but recently a further distinction has been
+   proposed between ‘ life review’ and ‘ life-review therapy ’ (Cappeliez 2002 ;
+   Garland and Garland 2001). The principal diﬀerence between these two
+   interventions is the amount of structure that is provided, which becomes
+   clear when their purposes are considered. In interventions, simple remi-
+   niscence corresponds most closely to the instigation of social reminiscence,
+   life review to the promotion of positive functions, and life-review therapy
+   to the discouragement of negative types of reminiscence. The next para-
+   graphs are short descriptions of the three types of interventions, with a
+   focus on the various target groups, goals and activities, and on the skills
+   required of the counsellors.
+
+   Three types of reminiscence interventions
+   Simple reminiscence is appropriate for older adults in relatively good mental
+   health and who ﬁnd sharing autobiographical memories a meaningful
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015           IP address: 138.251.14.35
+                                              Reminiscence and mental health : a review     713
+
+activity. The main mental health goal of simple reminiscence is to enhance
+positive feelings. A common application is reminiscence groups in nursing
+homes, during which prompts for positive memories are given (see
+Cook 1991) and a more recent application is found in groups fostering
+intergenerational bonding (see Van Kordelaar et al. 2008). The central
+activity is positive autobiographic storytelling that activates the social
+functions of reminiscence. The staﬀ or counsellors need basic skills in
+facilitating the process of spontaneous reminiscence and promoting social
+interaction.
+    Life review is most suited to people who are struggling to ﬁnd meaning in
+life or have diﬃculties coping with transitions or adversity in their lives.
+The goal of life review is to enhance aspects of mental health, such as self-
+acceptance, mastery and meaning in life (Birren and Cochran 2001; Bluck
+and Levine 1998; Wong 1995), by stimulating the reminiscence functions
+of identity construction and problem solving (and possibly death prep-
+aration). Individual life-review interviews (Haight 1988) and guided auto-
+biography groups (Birren and Cochran 2001) are examples. The activities
+are structured in the sense that they focus systematically on the entire
+lifespan and promote the evaluation and integration of positive and
+negative memories (Haight and Dias 1992; Webster and Young 1988). Life
+review helps people gain insights into how they have developed through-
+out their lives and have become the person they are now, which helps
+them recognise and express what they have learnt from their positive and
+negative experiences, and to recall the coping repertoire and values that
+have guided them in their lives. The counsellors need advanced skills, as in
+structuring the sessions and in framing the questions that link memories to
+current life situations, and to help the participants reconceptualise the
+meaning of past events.
+    Life-review therapy is mostly used in therapeutic settings for older people
+with serious mental health problems such as depression or anxiety. The
+goals are to induce self-change and alleviate the symptoms of mental
+illness. The focus is to reduce bitterness revival and boredom and to
+stimulate the positive functions of reminiscence. This requires a more
+dynamic intervention, because reminiscence by a mentally ill person
+normally prompts life-stories that evoke bitterness or dissatisfaction with
+his or her current self and life. Intervention protocols must be explicit
+about the way in which these life-stories are directed towards a more
+positive self-identity. One approach has been to link life review to theories
+of autobiographic memory in depressed people, in particular to focus on
+the speciﬁc positive memories which depressed individuals ﬁnd it diﬃcult
+to enlist in everyday life (Serrano et al. 2004). Another approach has been
+to link life review with other therapeutic frameworks, e.g. psycho-analytic
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                        IP address: 138.251.14.35
+   714     Gerben J. Westerhof et al.
+
+   therapy (Fry 1983), cognitive behavioural therapy (Cappeliez 2002 ; Watt
+   and Cappeliez 2000), and narrative therapy (Bohlmeijer et al. 2008). When
+   life review is linked with other therapeutic approaches, counsellors need
+   specialist skills and the knowledge of the other therapies.
+
+   The eﬀectiveness of reminiscence interventions
+   An important question is how eﬀective are these diﬀerent types of inter-
+   ventions in relation to their goals. Although reviews of the ﬁrst wave of
+   reminiscence interventions found that the evidence base was still thin
+   (Kovach 1990 ; Molinari and Reichlin 1984; Thornton and Brotchie 1987),
+   the situation has improved in recent years. Recent reviews (Lin, Dai and
+   Hwang 2005) and meta-analyses (Bohlmeijer et al. 2007; Bohlmeijer, Smit
+   and Cuijpers 2003; Hsieh and Wang 2003) have shown that reminiscence
+   interventions can be eﬀective in improving wellbeing and alleviating de-
+   pression. The particular application in dementia care has also been found
+   eﬀective in promoting wellbeing and mental health (Moos and Björn
+   2006 ; Woods et al. 2005). All meta-analytic studies have concluded,
+   however, that the eﬀects of interventions are heterogeneous : only some
+   are eﬀective, which is not surprising given the diverse goals and target
+   groups.
+       The evidence base for the eﬀects of simple reminiscence is the thinnest :
+   only a few studies have shown an eﬀect on mental health (Bohlmeijer,
+   Smit and Cuijpers 2003; Bohlmeijer et al. 2007). Life review, however, does
+   appear to have eﬀects for wellbeing (Arkoﬀ, Meredith and Dubanoski
+   2004) and meaning in life (Westerhof, Bohlmeijer and Valenkamp 2005),
+   but less on depression (e.g. Hanaoka and Okamura 2004; Haight, Michel
+   and Hendrix 1998). Only life-review therapy is eﬀective in alleviating de-
+   pression. On the basis of ﬁve recent studies (Arean et al. 1993 ; Goldwasser,
+   Auerbach and Harkins 1987; Klausner et al. 1998; Serrano et al. 2004 ;
+   Watt and Cappeliez 2000), Scogin et al. (2005) came to the conclusion that
+   life-review therapy is an evidence-based intervention for depression in
+   older adults, but diﬀerent formats were used in the reviewed studies and
+   the samples were relatively small. The evidence base requires strength-
+   ening through further independent trials.
+       When the ﬁndings of eﬀect studies are related to the goals and methods
+   of the diﬀerent reminiscence interventions, it becomes clear that not all
+   interventions have the same eﬀects. Simple reminiscence is directed to-
+   wards happiness, life review towards aspects of psychological wellbeing
+   such as meaning in life and mastery, and only life-review therapy seeks to
+   alleviate depression. The classiﬁcation into three types of reminiscence
+   interventions with diﬀerent goals and methods emphasises that they do not
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015         IP address: 138.251.14.35
+                                              Reminiscence and mental health : a review     715
+
+have identical eﬀects, and that their eﬀectiveness should be studied in
+relation to their goals.
+
+
+Discussion
+
+Reviews of the early reminiscence research (Kovach 1990; Molinari and
+Reichlin 1984 ; Thornton and Brotchie 1987; Webster 1994) concluded
+that there is a need for more precise deﬁnitions and measurements, and
+for better eﬀect studies of interventions. This paper has reviewed devel-
+opments in theory, research and practical applications over the last two
+decades, and found that the ﬁeld has come a long way in dealing with its
+challenges. A better deﬁnition has been articulated and diﬀerent functions
+of reminiscence have been empirically validated. There is increasing
+understanding of how the functions of reminiscence relate to mental health
+outcomes and to lifespan processes. The reminiscence interventions that
+have been used in recent eﬀectiveness studies have had stronger theor-
+etical and empirical foundations than seen before.
+   We have proposed that in relation to their functions for promoting
+mental health, there are three diﬀerent types of reminiscence: positive
+reminiscence (identity construction, problem solving, and death preparation),
+dysfunctional reminiscence (bitterness revival, boredom reduction, and in-
+timacy maintenance), and social reminiscence (conversation and teaching
+or informing). The diﬀerentiation is underpinned by theories of remi-
+niscence, autobiographical memory, and lifespan development processes.
+It could be validated in factor analytic studies as well as by the diﬀerential
+relations of these three functions with mental health. Last, the threefold
+classiﬁcation provides a way of classifying reminiscence interventions by
+their diﬀerent uses of reminiscence functions.
+   We also believe that the proposed classiﬁcation of reminiscence func-
+tions in relation to mental health points to several constructive directions
+for future research and practice development. First of all, studies of
+reminiscence functions will proﬁt from a more person-centred approach.
+Studies on the relationship between reminiscence functions and personal
+characteristics such as gender, ethnicity, socio-economic status or per-
+sonality are still few, and there are none on the best combinations of
+reminiscence types for an individual person. For example, intimacy
+maintenance might have a diﬀerent form when combined with boredom
+reduction than when combined with identity construction.
+   Second, we need longitudinal studies of reminiscence and mental
+health. As we have seen, almost all published studies have been cross-
+sectional, so we know little about change over time in an individual’s
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                        IP address: 138.251.14.35
+   716     Gerben J. Westerhof et al.
+
+   reminiscence functions. While the age diﬀerences found in cross-sectional
+   studies suggest that the uses of reminiscence change over time, from more
+   self-focused to more other-focused applications, this might be a cohort
+   eﬀect related to spreading individualisation (Timmer, Westerhof and
+   Dittmann-Kohli 2005). Longitudinal studies should also make clear under
+   which conditions the uses of reminiscence might change. The lifespan
+   theories discussed in this review have all made the assumption that remi-
+   niscence intensiﬁes when individuals experience life transitions or a
+   growing awareness of life’s ﬁnitude, but the literature on contextual in-
+   ﬂuences on diﬀerent types of reminiscence is still sparse. Longitudinal
+   studies will also provide more understanding of how diﬀerent types of
+   reminiscence and mental health mutually inﬂuence each other. Address-
+   ing these questions will improve our understanding of reminiscence and its
+   uses across the lifespan, and more empirical evidence will further inform
+   psychological practice. Clearly, more studies (particularly replications of
+   earlier studies and controlled trials with large samples) are needed to test
+   the eﬀectiveness and eﬃcacy of interventions. The threefold classiﬁcation
+   of diﬀerent types of reminiscence intervention can be used to guide the
+   development of reminiscence interventions as well as evaluations of their
+   eﬀectiveness.
+      Interventions would proﬁt further if studies of reminiscence interven-
+   tions included measures of their use and outcomes. First, evidence about
+   whether or not an intervention changed the reminiscence functions would
+   be of interest. Second, it should be more widely understood that people
+   disposed to a particular use of reminiscence proﬁt to a greater or lesser
+   extent from diﬀerent interventions, and all practitioners should know
+   that interventions can have negative side-eﬀects, such as increased worry
+   or rumination for persons with a negative type of reminiscence. Third,
+   studies of the actual use of reminiscence by the participants during inter-
+   ventions would provide further information on the processes which lead to
+   changes in mental health. To conclude, although there has been much
+   progress in the last two decades, much challenging and important research
+   is still required in this intriguing ﬁeld of study.
+
+
+   References
+   Arean, P. A., Perri, M. G., Nezu, A. M. and Schein, R. L. 1993. Comparative eﬀectiveness
+     of social problem-solving therapy and reminiscence therapy as treatment for depression
+     in older adults. Journal of Consulting and Clinical Psychology, 61, 6, 1003–10.
+   Arkoﬀ, A., Meredith, G. M. and Dubanoski, J. P. 2004. Gains in well-being achieved
+     through retrospective proactive life review by independent older women. Journal of
+     Humanistic Psychology, 44, 2, 204–14.
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                  IP address: 138.251.14.35
+                                              Reminiscence and mental health : a review        717
+Atchley, R. C. 1989. A continuity theory of normal aging. The Gerontologist, 29, 2, 183–90.
+Atchley, R. C. 1993. Continuity theory and the evolution of activity in later adulthood.
+  In Kelly, J. R. (ed.), Activity and Aging : Staying Involved in Later Life. Sage, Newbury Park,
+  California, 5–16.
+Beck, A. T., Steer, R. A. and Brown, G. K. 1996. Beck Depression Inventory : Second Edition
+  Manual. Psychological Corporation, San Antonio, Texas.
+Birren, J. E. and Cochran, K. N. 2001. Telling the Stories of Life Through Guided Autobiography
+  Groups. Johns Hopkins University Press, Baltimore, Maryland.
+Bluck, S. and Alea, N. 2002. Exploring the functions of autobiographical memory : why do
+  I remember the autumn? In Webster, J. D. and Haight, B. K. (eds), Critical Advances in
+  Reminiscence Work : From Theory to Application. Springer, New York, 61–75.
+Bluck, S., Alea, N., Habermas, T. and Rubin, D. C. 2005. A tale of three functions : the
+  self-reported uses of autobiographical memory. Social Cognition, 23, 1, 91–117.
+Bluck, S. and Levine, L. J. 1998. Reminiscence as autobiographical memory: a catalyst for
+  reminiscence theory development. Ageing & Society, 18, 2, 185–208.
+Bohlmeijer, E. T., Roemer, M., Cuijpers, P. and Smit, F. 2007. The eﬀects of life-review on
+  psychological well-being in older adults : a meta-analysis. Aging and Mental Health, 11, 3,
+  291–300.
+Bohlmeijer, E., Smit, F. and Cuijpers, P. 2003. Eﬀects of reminiscence and life review on
+  late-life depression : a meta-analysis. International Journal of Geriatric Psychiatry, 18, 12,
+  1088–94.
+Bohlmeijer, E., Westerhof, G. J. and Emmerik-de Jong, M. 2008. The eﬀects of a new
+  narrative life-review intervention for improving meaning in life in older adults : results of
+  a pilot project. Aging and Mental Health, 12, 5, 639–46.
+Butler, R. N. 1963. The life-review : an interpretation of reminiscence in the aged.
+  Psychiatry, 26, 1, 65–76.
+Butler, R. N. 1974. Successful aging and the role of the life review. Journal of the American
+  Geriatrics Society, 22, 12, 529–35.
+Cappeliez, P. 2002. Cognitive-reminiscence therapy for depressed older adults in day
+  hospital and long-term care. In Webster, J. D. and Haight, B. K. (eds), Critical Advances in
+  Reminiscence Work : From Theory to Application. Springer, New York, 300–13.
+Cappeliez, P. and O’Rourke, N. 2002. Personality traits and existential concerns as pre-
+  dictors of the functions of reminiscence in older adults. Journal of Gerontology : Psychological
+  Sciences, 57, 2, 116–23.
+Cappeliez, P. and O’Rourke, N. 2006. Empirical validation of a model of reminiscence
+  and health in later life. Journal of Gerontology : Psychological Sciences, 61, 4, 237–44.
+Cappeliez, P., O’Rourke, N. and Chaudhury, H. 2005. Functions of reminiscence and
+  mental health in later life. Aging and Mental Health, 9, 4, 295–301.
+Cappeliez, P., Rivard, V. and Guindon, S. 2007. Functions of reminiscence in later
+  life : proposition of a model and applications. European Review of Applied Psychology, 57, 3,
+  151–6.
+Carstensen, L. L. 1995. Evidence for a life-span theory of socioemotional selectivity. Current
+  Directions in Psychological Science, 4, 5, 151–6.
+Carstensen, L. L. 2006. The inﬂuence of a sense of time on human development. Science,
+  312, 5782, 1913–5.
+Coleman, P. G. 1974. Measuring reminiscence characteristics from conversation as
+  adaptive features of old age. International Journal of Aging and Human Development, 5, 3,
+  281–94.
+Coleman, P. G. 1986. Ageing and Reminiscence Processes : Social and Clinical Implications. Wiley,
+  Chichester, UK.
+Conway, M. A., Singer, J. A. and Tagini, A. 2004. The self and autobiographical memory :
+  correspondence and coherence. Social Cognition, 22, 5, 491–529.
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                           IP address: 138.251.14.35
+   718     Gerben J. Westerhof et al.
+   Cook, E. A. 1991. The eﬀects of reminiscence on psychological measures of ego integrity in
+      elderly nursing home residents. Archives of Psychiatric Nursing, 5, 5, 292–8.
+   Cully, J. A., LaVoie, D. and Gfeller, J. D. 2001. Reminiscence, personality, and psycho-
+      logical functioning in older adults. The Gerontologist, 41, 1, 89–95.
+   Diener, E., Emmons, R. A., Larsen, R. J. and Griﬃn, S. 1985. The satisfaction with life
+      scale. Journal of Personality Assessment, 49, 1, 71–5.
+   Erikson, E. 1959. Identity and the Life Cycle. International University Press, New York.
+   Fallot, R. D. 1980. The impact on mood of verbal reminiscing in later adulthood.
+      International Journal of Aging and Human Development, 10, 4, 385–400.
+   Fitzgerald, J. M. 1996. Intersecting meanings of reminiscence in adult development
+      and aging. In Rubin, D. C. (ed.), Remembering Our Past: Studies in Autobiographical Memory.
+      Cambridge University Press, New York, 360–83.
+   Fry, P. S. 1983. Structured and unstructured reminiscence training and depression among
+      the elderly. Clinical Gerontologist, 1, 3, 15–37.
+   Garland, J. and Garland, C. 2001. Life Review in Health and Social Care : A Practitioner’s Guide.
+      Brunner-Routledge, Philadelphia, Pennsylvania.
+   Garland, J. and Garland, C. 2004. Life Review in Health and Social Care : A Practitioner’s Guide.
+      Brunner-Routledge, Hove, UK.
+   Gibson, F. M. A. 2004. The Past in the Present : Using Reminiscence in Health and Social Care.
+      Health Professions Press, London.
+   Goldberg, D. 1978. Manual for the General Health Questionnaire. Oxford University Press,
+      Oxford.
+   Goldfried, M. R. and Wolfe, B. E. 1996. Psychotherapy practice and research : repairing a
+      strained relationship. American Psychologist, 51, 10, 1007–16.
+   Goldwasser, A. N., Auerbach, S. M. and Harkins, S. W. 1987. Cognitive, aﬀective, and
+      behavioral eﬀects of reminiscence group therapy on demented elderly. International
+      Journal of Aging and Human Development, 25, 3, 209–22.
+   Habegger, C. E. and Blieszner, R. 1990. Personal and social aspects of reminiscence:
+      an exploratory study of neglected dimensions. Activities, Adaptation and Aging, 14, 4, 21–38.
+   Haight, B. K. 1988. The therapeutic role of a structured life review process in homebound
+      elderly subjects. Journal of Gerontology : Psychological Sciences, 43, 2, 40–4.
+   Haight, B. K. 1991. Reminiscing : the state of the art as a basis for practice. International
+      Journal of Aging and Human Development, 33, 1, 1–32.
+   Haight, B. K. and Dias, J. K. 1992. Examining key variables in selected reminiscing
+      modalities. International Psychogeriatrics, 4, supplement 2, 279–90.
+   Haight, B. K., Michel, Y. and Hendrix, S. 1998. Life review : preventing despair in newly
+      relocated nursing home residents : short- and long-term eﬀects. International Journal of
+      Aging and Human Development, 47, 2, 119–42.
+   Hanaoka, H. and Okamura, H. 2004. Study on eﬀects of life review activities on the quality
+      of life of the elderly : a randomized controlled trial. Psychotherapy and Psychosomatics, 73, 5,
+      302–11.
+   Havighurst, R. J. and Glasser, R. 1972. An exploratory study of reminiscence. Journal of
+      Gerontology, 27, 2, 245–53.
+   Hsieh, H. F. and Wang, J. J. 2003. Eﬀect of reminiscence therapy on depression in older
+      adults : a systematic review. International Journal of Nursing Studies, 40, 4, 335–45.
+   Hyland, D. T. and Ackerman, A. M. 1988. Reminiscence and autobiographical memory
+      in the study of the personal past. Journal of Gerontology : Psychological Sciences, 43, 2, 35–9.
+   Keyes, C. L. M. 2000. Subjective change and its consequences for emotional well-being.
+      Motivation and Emotion, 24, 2, 67–84.
+   Klausner, E. J., Clarkin, J. F., Spielman, L., Pupo, C., Abrams, R. and Alexopoulos, G. S.
+      1998. Late-life depression and functional disability : the role of goal-focused group
+      psychotherapy. International Journal of Geriatric Psychiatry, 13, 10, 707–16.
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                           IP address: 138.251.14.35
+                                               Reminiscence and mental health : a review        719
+Kovach, C. R. 1990. Promise and problems in reminiscence research. Journal of
+  Gerontological Nursing, 16, 4, 10–4.
+Kovach, C. R. 1995. A qualitative look at reminiscing : using the autobiographical memory
+  coding tool. In Haight, B. K. and Webster, J. D. (eds), The Art and Science of Reminiscing :
+  Theory, Research, Methods and Applications. Taylor and Francis, Philadelphia, Pennsylvania,
+  103–22.
+Kozma, A., Stones M. J. and McNeil, J. K. 1990. Psychological Well-Being in Later Life.
+  Butterworths, Toronto.
+Lin, Y. C., Dai, Y. T. and Hwang, S. L. 2005. The eﬀect of reminiscence on the elderly
+  population : a systematic review. Public Health Nursing, 20, 4, 297–306.
+Lo Gerfo, M. 1980. Three ways of reminiscence in theory and practice. International Journal
+  of Aging and Human Development, 12, 1, 39–48.
+Marsh, E. J. 2007. Retelling is not the same as recalling : implications for memory. Current
+  Directions in Psychological Science, 16, 1, 16–20.
+McMahon, A. W. and Rhudick, P. J. 1964. Reminiscing, adaptational signiﬁcance in the
+  aged. Archives of General Psychiatry, 10, 3, 292–98.
+McMordie, W. R. 1979. Improving measurement of death anxiety. Psychological Reports, 44,
+  3, 975–80.
+Merriam, S. B. 1993. Butler’s life review : how universal is it ? International Journal of Aging and
+  Human Development, 37, 3, 163–75.
+Merriam, S. B. and Cross, L. H. 1982. Adulthood and reminiscence : a descriptive study.
+  Educational Gerontology, 8, 3, 275–90.
+Molinari, V. and Reichlin, R. E. 1984. Life review reminiscence in the elderly : a review of
+  the literature. International Journal of Aging and Human Development, 20, 2, 81–92.
+Moos, I. and Björn, A. 2006. Use of the life story in the institutional care of people with
+  dementia : a review of intervention studies. Ageing & Society, 26, 3, 431–54.
+Parker, R. G. 1995. Reminiscence: a community theory framework. The Gerontologist, 35, 4,
+  515–25.
+Parker, R. G. 1999. Reminiscence as continuity : comparison of young and older adults.
+  Journal of Clinical Geropsychology, 5, 2, 147–57.
+Pasupathi, M. 2001. The social construction of the personal past and its implications for
+  adult development. Psychological Bulletin, 127, 5, 651–72.
+Pasupathi, M. and Carstensen, L. L. 2003. Age and emotional experience during mutual
+  reminiscing. Psychology and Aging, 18, 3, 430–42.
+Pasupathi, M., Weeks, T. and Rice, C. 2006. Reﬂecting on life : remembering as a major
+  process in adult development. Journal of Language and Social Psychology, 25, 3, 244–63.
+Reker, G. T. 1992. Life Attitude Proﬁle—Revised. Student Psychologists Press, Peterborough,
+  Ontario, Canada.
+Rybash, J. M. and Hrubi, K. L. 1997. Psychometric and psychodynamic correlates of ﬁrst
+  memories in younger and older adults. The Gerontologist, 37, 5, 581–7.
+Santor, D. and Zuroﬀ, D. C. 1994. Depressive symptoms : eﬀects of negative aﬀectivity and
+  failing to accept the past. Journal of Personality Assessment, 63, 2, 294–312.
+Schulz, R. and Heckhausen, J. 1996. A life span model of successful aging. American
+  Psychologist, 51, 7, 702–14.
+Scogin, F., Welsh, D., Hanson, A., Stump, J. and Coates, A. 2005. Evidence-based
+  psychotherapies for depression in older adults. Clinical Psychology : Science and Practice, 12,
+  3, 222–37.
+Serrano, J. P., Latorre, J. M., Gatz, M. and Montanes, J. 2004. Life-review therapy using
+  autobiographical retrieval practice for older adults with depressive symptomatology.
+  Psychology and Aging, 19, 2, 272–7.
+Spielberger, C. D., Gorsuch, R. L. and Lushene, R. E. 1970. Manual for the State-Trait Anxiety
+  Inventory. Consulting Psychologists Press, Palo Alto, California.
+
+
+
+
+http://journals.cambridge.org    Downloaded: 19 Mar 2015                           IP address: 138.251.14.35
+   720     Gerben J. Westerhof et al.
+   Thorne, A. 2000. Personal memory telling and personality development. Personality and
+     Social Psychology Review, 4, 1, 46–56.
+   Thornton, S. and Brotchie, J. 1987. Reminiscence: a critical review of the empirical
+     literature. British Journal of Clinical Psychology, 26, 2, 93–111.
+   Timmer, E., Westerhof, G. J. and Dittmann-Kohli, F. 2005. ‘ When looking back on my
+     past life I regret... ’: retrospective regret in the second half of life. Death Studies, 29, 7,
+     625–44.
+   Van Kordelaar, K., Vlak, A., Kuin, Y. and Westerhof, G. J. 2008. Groen en Grijs : Jong en Oud
+     met Elkaar in Gesprek [Green and Grey : Conversations Between Younger and Older Adults]. Bohn
+     Staﬂeu Van Loghum, Houten, The Netherlands.
+   Watt, L. M. and Cappeliez, P. 2000. Integrative and instrumental reminiscence therapies
+     for depression in older adults : intervention strategies and treatment eﬀectiveness. Aging
+     and Mental Health, 4, 2, 166–77.
+   Webster, J. D. 1993. Construction and validation of the Reminiscence Functions Scale.
+     Journal of Gerontology, 48, 5, 256–62.
+   Webster, J. D. 1994. Predictors of reminiscence: a lifespan perspective. Canadian Journal on
+     Aging, 13, 1, 66–78.
+   Webster, J. D. 1995. Adult age diﬀerences in reminiscence functions. In Haight, B. K.
+     and Webster, J. D. (eds), The Art and Science of Reminiscing : Theory, Research, Methods, and
+     Applications. Taylor and Francis, Philadelphia, Pennsylvania, 89–102.
+   Webster, J. D. 1997. The reminiscence function scale : a replication. International Journal of
+     Aging and Human Development, 44, 2, 137–48.
+   Webster, J. D. 1998. Attachment styles, reminiscence function, and happiness in young and
+     elderly adults. Journal of Aging Studies, 12, 3, 315–30.
+   Webster, J. D. 2002. Reminiscence functions in adulthood : age, race and family dynamics
+     correlates. In Webster, J. D. and Haight, B. K. (eds), Critical Advances in Reminiscence Work :
+     From Theory to Application. Springer, New York, 140–52.
+   Webster, J. D. 2003. The reminiscence circumplex and autobiographical functions.
+     Memory, 11, 2, 203–15.
+   Webster, J. D. and Gould, O. 2007. Reminiscence and vivid personal memories across
+     adulthood. International Journal of Aging and Human Development, 64, 2, 149–70.
+   Webster, J. D. and Haight, B. K. 1995. Memory lane milestones : progress in reminiscence
+     deﬁnition and classiﬁcation. In Haight, B. K. and Webster, J. D. (eds), The Art and Science
+     of Reminiscing : Theory, Research, Methods, and Applications. Taylor and Francis, Philadelphia,
+     Pennsylvania, 273–86.
+   Webster, J. D. and McCall, M. E. 1999. Reminiscence functions across adulthood :
+     a replication and extension. Journal of Adult Development, 6, 1, 73–85.
+   Webster, J. D. and Young, R. A. 1988. Process variables of the life review : counseling
+     implications. International Journal of Aging and Human Development, 26, 4, 315–23.
+   Westerhof, G. J. 2009. Identity construction in the third age : the role of self-narratives.
+     In Hartung, H. and Maierhofer, R. (eds), Narratives of Lives : Mediating Age. LIT Verlag,
+     Münster, Germany.
+   Westerhof, G. J., Bohlmeijer, E. and Valenkamp, M. W. 2005. In search of meaning: a
+     reminiscence program for older persons. Educational Gerontology, 30, 9, 751–66.
+   Westerhof, G. J. and Keyes, C. L. M. 2006. After the fall of the Berlin Wall : perceptions
+     and consequences of stability and change among middle aged and older East- and
+     West-Germans. Journal of Gerontology : Social Sciences, 61B, 5, 240–7.
+   Whitbourne, S. K. 1985. The psychological construction of the life-span. In Birren, J. E.
+     and Schaie, K. W. (eds), Handbook of the Psychology of Aging. Van Nostrand Reinhold,
+     New York, 594–618.
+   Wilson, A. E. and Ross, M. 2003. The identity function of autobiographical memory : time
+     is on our side. Memory, 11, 2, 137–49.
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                         IP address: 138.251.14.35
+                                              Reminiscence and mental health : a review      721
+Wink, P. and Schiﬀ, B. 2002. To review or not to review ? The role of personality and life
+ events in life review and adaptation to older age. In Webster, J. D. and Haight, B. K.
+ (eds), Critical Advances in Reminiscence Work : From Theory to Application. Springer, New York,
+ 44–60.
+Wong, P. T. 1995. The processes of adaptive reminiscence. In Haight, B. K. and Webster,
+ J. D. (eds), The Art and Science of Reminiscing : Theory, Research, Methods, and Applications.
+ Taylor and Francis, Philadelphia, Pennsylvania, 23–35.
+Wong, P. T. and Watt, L. M. 1991. What types of reminiscence are associated with
+ successful aging ? Psychology and Aging, 6, 2, 272–9.
+Woods, B., Spector, A., Jones, C., Orrell, M. and Davies, S. 2005. Reminiscence therapy
+ for dementia. Cochrane Database of Systematic Reviews, 18, 2, CD001120.
+Wrosch, C., Bauer, I. and Scheier, M. F. 2005. Regret and quality of life across the adult
+ life span : the inﬂuence of disengagement and available future goals. Psychology and Aging,
+ 20, 4, 657–70.
+Wrosch, C. and Heckhausen, J. 2002. Perceived control of life regrets : good for young and
+ bad for old adults. Psychology and Aging, 17, 2, 340–50.
+
+                          Accepted 2 July 2009; ﬁrst published online 1 March 2010
+Address for correspondence:
+Gerben J. Westerhof, Psychology and Communication of Health
+and Risk, University of Twente, POBox 217, 7500AE Enschede,
+The Netherlands.
+
+E-mail: g.j.westerhof@utwente.nl
+
+
+
+
+http://journals.cambridge.org   Downloaded: 19 Mar 2015                         IP address: 138.251.14.35
+

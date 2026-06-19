@@ -1,0 +1,438 @@
+                     Judgment and Decision Making, Vol. 4, No. 4, June 2009, pp. 280–286
+
+
+
+
+                            Don’t stop thinking about tomorrow: Individual differences in
+                                       future self-continuity account for saving
+
+                                                       Hal Ersner-Hershfield∗, M. Tess Garton, Kacey Ballard,
+                                                          Gregory R. Samanez-Larkin, and Brian Knutson
+                                                                    Department of Psychology
+                                                                       Stanford University
+
+
+                                                                                           Abstract
+
+                               Some people find it more difficult to delay rewards than others. In three experiments, we tested a “future self-
+                            continuity” hypothesis that individual differences in the perception of one’s present self as continuous with a future self
+                            would be associated with measures of saving in the laboratory and everyday life. Higher future self-continuity (assessed
+                            by a novel index) predicted reduced discounting of future rewards in a laboratory task, more matches in adjectival
+                            descriptions of present and future selves, and greater lifetime accumulation of financial assets (even after controlling for
+                            age and education). In addition to demonstrating the reliability and validity of the future self-continuity index, these
+                            findings are consistent with the notion that increased future self-continuity might promote saving for the future.
+                            Keywords: Intertemporal choice, temporal discounting, future self-continuity, saving behavior.
+
+
+                     1      Introduction                                                        & Knutson, 2009). Accordingly, neural indices of fu-
+                                                                                                ture self-continuity predict valuation of future rewards as-
+                     Self-continuity represents one of the most enduring puz-                   sessed one week later (Ersner-Hershfield et al., 2009). In
+                     zles of personal identity, pondered by ancient Greek and                   three experiments, we further explored this future self-
+                     Buddhist thinkers alike (Conze, 1959; Plutarch, 1932). If                  continuity hypothesis by devising an index of individ-
+                     the body changes over time — eventually being replaced                     ual differences in future self-continuity and examining
+                     by entirely new material — at what point does the old                      whether it would correlate with valuation of delayed re-
+                     self become an entirely new and distinct being? Self-                      wards, both in laboratory tasks and with respect to real-
+                     continuity might vary by individual, with some individ-                    world savings.
+                     uals endorsing greater connection to their future selves
+                     than others.
+                        Beyond philosophical appeal, individual differences                     2 Study 1: Future self-continuity
+                     in the experience of self-continuity could have prag-
+                     matic consequences for financial well-being. Accord-                         and temporal discounting
+                     ing to one philosophical account (Parfit, 1971), if indi-
+                     viduals consider their future selves as different people,                  We devised a novel psychometric measure of future self-
+                     they may have no more reason to reward the future self                     continuity, based on an extension of an existing measure
+                     than to give resources to strangers (Ainslie, 1975; Elster,                of self- vs. other-connectedness (Aron, Aron, & Smollan,
+                     1977; Parfit, 1971, 1987; Pronin, Olivola, & Kennedy,                      1992)1 , and we sought to establish its test-retest reliabil-
+                     2008; Schelling, 1984; Strotz, 1956; Thaler & Shefrin,                     ity and validity in predicting valuation of future rewards.
+                     1981). A continuous variant of this account called the                     The measure assessed an individual’s endorsement of
+                     “future self-continuity” hypothesis predicts that people                   similarity between present and future selves, as well as
+                     who experience no continuity with a future self should                     other potential dimensions of future self-continuity re-
+                     not save for that future self (Ersner-Hershfield, Wimmer,                  lated to connectedness, liking, and caring for the future
+                        ∗ The authors thank Jeffrey C. Cooper, Jonathan Baron, members of           1 The Aron et al. (1992) scale ranges from circles with no overlap to
+
+                     the SPAN lab, and two anonymous reviewers for helpful comments on          circles with nearly complete overlap. The original scale does not, how-
+                     the manuscript. This research was funded in part by Center on Advanc-      ever, include an “identity” option with completely overlapping circles.
+                     ing Decision Making in Aging Grant AG024597, National Institute on         Though we suspect that a complete identity option would not greatly al-
+                     Aging Grant AG030778, and a FINRA Investor Education Foundation            ter participant responses based on their roughly symmetric distribution,
+                     Award.                                                                     future research might include such an option.
+
+
+                                                                                             280
+
+
+
+
+https://doi.org/10.1017/S1930297500003855 Published online by Cambridge University Press
+                     Judgment and Decision Making, Vol. 4, No. 4, June 2009                                            Future self-continuity and saving     281
+
+
+
+                              Current          Future                  Current             Future       Current      Future        Current          Future
+                               Self             Self                    Self                Self         Self         Self          Self             Self
+
+
+
+                                                  Current               Future       Current            Future      Current             Future
+                                                   Self                  Self         Self               Self        Self                Self
+
+
+                                                                          Figure 1: Future self-continuity scale.
+
+
+                     self. To assess valuation of future versus present rewards,                       Temporal Discounting Task. The temporal discounting
+                     we used a temporal discounting task (Frederick, Loewen-                        task consisted of 21 choice trials (Kirby & Marakovic,
+                     stein, & O’Donoghue, 2003; Laibson, Repetto, & Tobac-                          1996). Each trial included one smaller immediate re-
+                     man, 1998; Mitchell, 1999; Schelling, 1982). We pre-                           ward paired with one larger delayed reward. Immediate
+                     dicted that individuals who endorsed greater future self-                      values ranged from $15–$83, while the delayed values
+                     continuity would place a higher value on future rewards.2                      ranged from $30–$85 over delays of 10–75 days. Choices
+                                                                                                    were hypothetical. The number of delayed choices was
+                                                                                                    counted to index discount rate (Magen, Dweck, & Gross,
+                     2.1      Method                                                                2008). While the Kirby and Marakovic (1996) procedure
+                     2.1.1     Participants                                                         excludes data from individuals who either chose all of the
+                                                                                                    immediate or all of the delayed options, the Magen et al.
+                     Undergraduates from the Stanford University Introduc-                          (2008) procedure has the advantage of retaining these in-
+                     tory Psychology pool participated for course credit. One                       dividuals for subsequent analysis.
+                     hundred sixty-four individuals (66% female; M = 19.34
+                     years) participated in Wave 1, and ninety-three individu-
+                     als (63% female; M = 19.32 years) participated in Wave                         2.1.3 Procedure
+                     2. Part of the Wave 2 sample (n = 65) also participated in
+                     Wave 1; and so test-retest reliability was assessed in these                   In a first wave of questionnaires, participants completed
+                     overlapping individuals.                                                       the future self-continuity measure. In the second wave,
+                                                                                                    participants completed the future self-continuity measure
+                                                                                                    as well as the hypothetical discounting task (Kirby &
+                     2.1.2     Measures                                                             Maracovic, 1996). Sixty-five individuals participated in
+                     Future Self-Continuity Measure. The index of future                            both Waves 1 and 2 and thus, completed the future self-
+                     self-continuity featured two questions on a 7-point scale                      continuity measure twice (separated by a minimum of
+                     marked at each point by two circles that ranged from de-                       one week).
+                     picting no overlap to depicting almost complete overlap
+                     (Figure 1). Participants selected the circle pair that best
+                                                                                                    2.2 Results and Discussion
+                     described how similar and how connected they felt to a
+                     future self ten years from now. They also rated how much                       2.2.1 Reliability
+                     they cared about and liked their future self ten years from
+                     now on 7-point Likert scales. To facilitate comprehen-                         To assess test-retest reliability, we correlated future self-
+                     sion, both the “caring” and “liking” items included ver-                       continuity indices from Waves 1 and 2. Test-retest reli-
+                     bal anchors at each of the seven points (e.g., the “car-                       ability for similarity was high (r63 = .66, p < .001; α =
+                     ing” scale ranged from “don’t care at all” to “completely                      .79). Test-retest reliability was also high for connected-
+                     care”).                                                                        ness (r63 = .66, p < .001; α = .80), caring (r63 = .45, p <
+                                                                                                    .01; α = .62), and liking items (r63 = .64, p < .001; α =
+                         2 The only previous study of the relationship between future self-
+                                                                                                    .78; see Table 1).
+                     continuity and temporal discounting (Frederick, 1999) used a single
+                     item measure (i.e., “How similar/connected are you to your past and
+                     future selves?” for 5-, 10-, 15-, and 20-year intervals on a 1–100
+                     scale). Correlation of this measure with hypothetical temporal discount-       2.2.2 Validity
+                     ing rates did not reveal a significant association. However, the reliability
+                     and validity of this single-item measure of future self-continuity were        Consistent with the prediction that future self-continuity
+                     not reported.                                                                  would promote valuation of future rewards, individual
+
+
+
+
+https://doi.org/10.1017/S1930297500003855 Published online by Cambridge University Press
+                     Judgment and Decision Making, Vol. 4, No. 4, June 2009                                             Future self-continuity and saving    282
+
+
+
+                     Table 1: Zero-order correlation matrix of all self-continuity scale items, and number of later choices on the tempo-
+                     ral discounting task. Numbers in parentheses refer to the data wave. “Aggregate” refers to the mean of similarity,
+                     connectedness, caring, and liking from Wave 1.
+                        Variable                   1            2           3               4        5         6         7         8          9        10
+                        1. Similar (1)             –          0.47**       0.14            0.16*    0.66**   0.41**    0.22       0.32**    0.75**     0.42**
+                        2. Connect (1)                         –           0.20**          0.25**   0.56**   0.66**    0.31*      0.52**    0.82**     0.30*
+                        3. Care (1)                                         –              0.35**   0.20     0.26*     0.45**     0.33**    0.47**     0.23
+                        4. Like (1)                                                         –       0.36**   0.47**    0.31*      0.64**    0.57**     0.17
+                        5. Similar (2)                                                               –       0.46**    0.13       0.23*     0.67**     0.37**
+                        6. Connect (2)                                                                        –        0.37**     0.38**    0.66**     0.07
+                        7. Care (2)                                                                                     –         0.50**    0.41*      0.21*
+                        8. Like (2)                                                                                                –        0.61**     0.29**
+                        9. Aggregate                                                                                                         –         0.39**
+                        10. Later choices                                                                                                               –
+                        * p < .05; ** p < .01, 2-tailed
+
+
+                     differences in future self similarity (at Wave 1) signifi-                      3 Study 2: Future self-continuity
+                     cantly predicted the number of delayed choices at Wave
+                     2 (r63 = .42, p < .001; see Figure 2a). Future self connect-
+                                                                                                       and self-descriptive consistency
+                     edness (at Wave 1) also predicted the number of delayed                         In Study 2, we sought to associate future self-continuity
+                     choices at Wave 2 (r63 = .30, p < .05). Future self caring                      with performance on a trait-rating task (called the
+                     and future self liking (at Wave 1), however, did not pre-                       “Me/Not Me” task) in which participants endorsed pos-
+                     dict the number of delayed choices at Wave 2 (caring: r63                       itive, neutral, and negative trait words for both their cur-
+                     = .21, p = .11; liking: r63 = .14, p = .27).                                    rent and future selves (Aron, Aron, Tudor, & Nelson,
+                        Although these findings supported the prediction that                        1991; Wakslak, Nussbaum, Liberman, & Trope, 2008).
+                     individuals who endorse greater future self-continuity                          We predicted that individuals with higher future self-
+                     choose more delayed rewards in a temporal discounting                           continuity would show more matches in their endorse-
+                     task, future self-similarity most robustly predicted num-                       ment or rejection of current and future self-descriptors
+                     ber of delayed choices and showed high test-retest relia-                       in the context of the Me/Not Me task. We also sought
+                     bility. Thus, in two additional studies, we operationalized                     to replicate the correlation between future self-continuity
+                     future self-continuity with a measure of perceived simi-                        and valuation of future rewards by using an incentive-
+                     larity to the future self.3 In Study 2, we sought to further                    compatible temporal discounting task (i.e., in which par-
+                     establish the validity of the future self-continuity index                      ticipants received actual money for a subset of their
+                     by examining its association with a distinct and more im-                       choices).
+                     plicit measure of future self-continuity, as well as with an
+                     incentive compatible measure of temporal discounting.
+                                                                                                     3.1 Method
+                         3 We also explored the option of creating an aggregate measure of
+
+                     future self-continuity by averaging similarity, connectedness, caring,          3.1.1 Participants
+                     and liking scores. The aggregate had a high test-retest reliability (r63
+                     = .79, p < .001, α = .88), but the within-test reliability was not im-          Forty individuals (47.5% female, M = 21.30 years) from
+                     pressive (α = .57). Therefore, we adopted the conservative strategy of          the Stanford University community received a flat fee of
+                     testing the relationship between each of the four indices of future self-       $15 plus the monetary outcome of one randomly selected
+                     continuity and temporal discounting at a Bonferroni-corrected thresh-
+                     old (p = .0125). Of the indices, only future self-similarity survived the
+                                                                                                     choice in the temporal discounting task (see below) for
+                     threshold. Moreover, the correlation between the aggregate measure of           their participation.
+                     future self-continuity and number of later choices on the temporal dis-
+                     counting task was not as high as for the one-item similarity measure (r63
+                     = .39, p < .001). Finally, the aggregate did not perform as consistently        3.1.2 Procedure
+                     in predicting saving behavior across the three studies as did the one-
+                     item similarity measure. Thus, we used self-similarity to index future          After signing the consent form, participants read the fol-
+                     self-continuity.                                                                lowing instructions:
+
+
+
+
+https://doi.org/10.1017/S1930297500003855 Published online by Cambridge University Press
+                     Judgment and Decision Making, Vol. 4, No. 4, June 2009                                                              Future self-continuity and saving             283
+
+
+                        a                                                       b                                                           c
+                                                         Study 1                                                     Study 2                                       Study 3
+
+
+
+
+                                                                                % adjective matches
+                                          25                                                          100                                            18
+
+
+
+
+                      # delayed choices
+                                          20                                                           90                                            15
+                                                                                                                                                     12
+                                                                                                                                            Assets
+                                          15                                                           80
+                                                                                                                                                      9
+                                          10                                                           70
+                                                                                                                                                      6
+                                          5                                                            60                                             3
+                                          0                                                            50                                             0
+                                               1     2   3   4   5   6      7                               1     2 3 4 5 6 7                             1     2 3 4 5 6 7
+                                                   Future self-similarity                                       Future self-similarity                        Future self-similarity
+
+
+                     Figure 2: (a) Endorsement of future self-similarity positively correlates with number of choices of future (versus
+                     present) rewards (Study 1). (b) Endorsement of future self-similarity positively correlates with number of trait matches
+                     on the Me/Not Me task (Study 2). (c) Endorsement of future self-similarity positively correlates with assets (Study 3).
+                     In all three panels, circle size is weighted by number of respondents at each data point.
+
+
+                        “In this study you will see a series of trait words. Some                                      choice (18%) for that trial in cash. If participants had
+                     of the words will apply to you now, and some will apply                                           chosen the delayed gain for the randomly selected trial,
+                     to you ten years from now. In this part of the study, we are                                      they received a dated receipt for that amount, which they
+                     interested in how you view yourself now. We will show                                             were mailed on the appropriate date. Otherwise, if partic-
+                     you a series of words, and we will ask you to indicate                                            ipants had chosen the immediate gain, they received cash
+                     whether or not each word describes you now.”                                                      corresponding to that gain.
+                        The participant was then instructed to choose “yes” if
+                     the word described the specified person, and “no” if it
+                     did not by pressing correspondingly marked keys. After                                            3.2 Results and Discussion
+                     completing six practice trials, participants rated whether
+                     96 randomly presented trait words applied to their cur-                                           We first examined whether future self similarity was as-
+                     rent self, and the words remained on the screen until the                                         sociated with the number of matches in current and fu-
+                     participant made a choice. The trait words were selected                                          ture self description (or number of trials in which trait
+                     from the Anderson (1968) word list, which was normal-                                             adjective ratings were the same for current and future
+                     ized for valence and word length, with one third of the                                           selves). Consistent with prediction, similarity ratings on
+                     words rated as positive, one third rated as negative, and                                         the future self-continuity scale correlated with percentage
+                     one third rated as neutral, on average. After rating the ap-                                      of matches between current and future self-descriptions
+                     plicability of these 96 trait words to the current self, par-                                     (r38 = .34, p < .05; see Figure 2b). Further, replicat-
+                     ticipants rated the applicability of the same 96 trait words                                      ing the findings of Experiment 1, higher levels of future
+                     (again in a randomized order) to a future self (10 years                                          self-similarity correlated positively with the number of
+                     hence), and were given the following instructions:                                                delayed rewards chosen (r38 = .30, p < .05).
+                        “In this part of the study, we are interested in how you
+                     view yourself in the future (ten years from now). We will
+                     show you a series of words, and we will ask you to indi-                                          4 Study 3: Future self-continuity
+                     cate whether or not each word describes you in the future                                           and actual savings
+                     (ten years from now).”
+                        Counterbalanced presentation ensured that half of the                                          The findings of Studies 1 and 2 suggested that future self-
+                     participants rated their current self first, while the other                                      continuity is associated with valuing future rewards, as
+                     half rated their future self first. After completing the                                          indicated by low rates of temporal discounting. Extended
+                     Me/Not Me task, participants completed a question-                                                over time, low rates of temporal discounting may mani-
+                     naire with demographic information as well as the self-                                           fest as higher rates of saving, and have been theoretically
+                     continuity scale from Study 1. Finally, participants com-                                         linked to peoples’ tendency to save for the future (Dia-
+                     pleted an incentive compatible version of the temporal                                            mond & Koszegi, 2003). The findings of Studies 1 and 2,
+                     discounting task, in which they were informed that one                                            however, did not establish whether future self-continuity
+                     trial would be randomly selected at the end of the task,                                          might be associated with actual savings behavior. Thus,
+                     and that they would receive a set percentage of their                                             in Study 3, we examined the association between future
+
+
+
+
+https://doi.org/10.1017/S1930297500003855 Published online by Cambridge University Press
+                     Judgment and Decision Making, Vol. 4, No. 4, June 2009                                                Future self-continuity and saving   284
+
+
+                     self-continuity and the amount of assets that individuals                      5 General discussion
+                     had accrued.4
+                                                                                                    In three studies, we found that individual differences in
+                                                                                                    future self-continuity predicted valuation of future re-
+                     4.1      Method                                                                wards in laboratory tasks, correlated with the match be-
+                     4.1.1     Participants                                                         tween present and future self-descriptions, and were as-
+                                                                                                    sociated with real world assets. Together, these findings
+                     155 adult community members from the San Francisco                             indicate not only that individuals reliably differ in future
+                     Bay Area participated (45% Female; Age range: 20 —                             self-continuity, but also that these individual differences
+                     86 yrs; M = 53.49 yrs).5 These individuals were recruited                      may influence valuation of future rewards.
+                     as part of a larger study on psychological factors that in-                       By establishing the reliability and validity of a mea-
+                     fluence financial decision-making.                                             sure of self-continuity, the present research could estab-
+                                                                                                    lish initial evidence for a connection between individual
+                     4.1.2     Procedure                                                            differences in future self-continuity and valuation of fu-
+                     All participants completed a packet of questionnaires                          ture rewards. While a previous study did not report a sig-
+                     that assessed self-reported assets (i.e., portion of home                      nificant association between these variables (Frederick,
+                     owned, total amount of money in bank accounts, total                           1999), the pictorial index used in the present study (based
+                     amount of money in investments, and worth of other ma-                         on Aron et al., 1992) may have provided individuals with
+                     terial belongings), debts (i.e., outstanding home, car, and                    a more tangible and concrete method of reporting their
+                     student loans, credit card debts, and medical debts), in-                      perceived future self-continuity. The relation of future
+                     come, and other financial information. To facilitate the                       self-continuity to temporal discounting is consistent with
+                     anonymity of responses, assets, debt, and income were                          research indicating that neural discrimination of material
+                     rated categorically (16 categories: “$0-$500”,. . . ,“More                     related to the present versus future self predicts temporal
+                     than $1,500,000”). The future self-continuity question-                        discounting in a subsequent laboratory task (Ersner- Her-
+                     naire from Studies 1 and 2 was also administered. Based                        shfield et al., 2009). The present study, however, utilized
+                     on previous theoretical work linking discounting to sav-                       a simple, quick, and easy psychometric measure of future
+                     ing, we predicted that future self-similarity would corre-                     self-continuity rather than neural activity. Unexpectedly,
+                     late with the amount of accrued assets.                                        future self similarity showed a more robust relation than
+                                                                                                    future self connectedness to temporal discounting, so an
+                                                                                                    improved measure might include multiple indices of fu-
+                     4.2      Results                                                               ture self similarity. Nonetheless, the single index of fu-
+                     As predicted, endorsement of future self similarity was                        ture self similarity showed high test-retest reliability. Be-
+                     positively associated with assets (r147 = .34, p < .001),                      yond students in the laboratory, the association between
+                     suggesting that the more similar an individual felt to his                     individual differences in future self-continuity and choice
+                     or her future self, the more assets he or she had ac-                          of delayed rewards further generalized to real-world as-
+                     crued (Figure 2c).6 Although previous research suggests                        sets in a community sample.
+                     that age is also positively correlated with saving behavior                       Overall, we predicted that increased future self-
+                     (Lea, Tarpy, & Webley, 1987), the association remained                         continuity would promote saving for the future self,
+                     significant even after statistically controlling for age (par-                 which requires people to trade present gains for future
+                     tial r146 = .23, p < .01).7                                                    gains. However, the extent to which increased future self-
+                                                                                                    continuity might also promote loss avoidance has not yet
+                         4 Here, we used financial assets as a proxy for saving behavior. Pre-
+                                                                                                    been systematically explored. Future self-continuity may
+                     vious research has indicated that inclusion of non-financial assets (e.g.,
+                     home ownership) with financial assets (e.g., bank accounts and invest-
+                                                                                                    promote valuation of future gains because people might
+                     ments) may provide a more complete picture of an individual’s saving           find it both easier and more pleasant to imagine how their
+                     behavior (e.g., Rha, Montalto, & Hanna, 2006).                                 actions might lead to positive (rather than negative) future
+                         5 Six participants failed to report their income or assets and were thus
+                                                                                                    outcomes for a future self. Indeed, in a post-hoc analy-
+                     excluded from subsequent analyses.
+                         6 To rule out the possibility of a spurious relationship resulting from    sis of the savings data from Study 3, we found that per-
+                     a correlation between response scale bias (e.g., responding on the right,      ceived similarity to the future self did not correlate sig-
+                     left, or middle of the scale) and assets, we standardized (within-person)      nificantly with debts accrued (r147 = .08, p = .36). Still,
+                     the self-continuity scale scores (i.e., by subtracting the mean across         further research is needed to better establish the relation-
+                     items from each item, and dividing this difference by the standard de-
+                     viation) and reran the regression. Even after this transformation, the         ships between future self-continuity, promotion of posi-
+                     relationship between similarity and assets remained significant (r147 =        tive outcomes (e.g., savings), and avoidance of negative
+                     .29, p < .001).                                                                outcomes (e.g., debt).
+                         7 This relationship holds even after controlling for education as well,
+
+                     which represents another demographic variable with potential relevance         to the study of saving behavior (r145 = .22, p < .01).
+
+
+
+
+https://doi.org/10.1017/S1930297500003855 Published online by Cambridge University Press
+                     Judgment and Decision Making, Vol. 4, No. 4, June 2009                                   Future self-continuity and saving    285
+
+
+                        Although the present findings establish a new measure,             individuals who see their future selves as similar may be
+                     they cannot specify the causal direction of the associa-              more likely to sacrifice present pleasure for the benefit of
+                     tion between future self-continuity and saving. Consis-               that potential person.
+                     tent with the analysis by Parfit (1987), individuals who
+                     felt more similar to their future selves may have made
+                     more prudent decisions because of their perceived con-                References
+                     nectedness to a future self. Alternatively, anticipated fi-
+                     nancial security and stability might promote future self-             Ainslie, G. (1975). Specious reward: Behavioral theory
+                     continuity such that individuals who imagine being well                 of impulsiveness and impulse control. Psychological
+                     off in ten years prefer to identify with that financially se-           Bulletin, 82(4), 463–496.
+                     cure future self. Only experimental manipulations of fu-              Ainslie, G. & Haslam, N. (1992). “Hyperbolic discount-
+                     ture self-continuity can address the causality of the ob-               ing,” in Choice Over Time, ed. G. Loewenstein and J.
+                     served associations, and the measure introduced here of-                Elster, New York, NY: Russell Sage Foundation, 57–
+                     fers one tool for assessing the impact of such manipula-                92.
+                     tions. If future self-continuity influences saving (as hy-            Anderson, N. H. (1968). Likableness ratings of 555
+                     pothesized), then interventions that enhance future self-               personality-trait words. Journal of Personality and So-
+                     continuity may promote saving. Future research, perhaps                 cial Psychology, 9, 272–279.
+                     in the context of a longitudinal study, might tease apart             Aron, A., Aron, E. N., & Smollan, D. (1992). Inclusion
+                     the causal relationship between future self-continuity and              of other in the self scale and the structure of interper-
+                     saving (see, for example Bartels & Rips, submitted).                    sonal closeness. Journal of Personality and Social Psy-
+                        Based on methodological considerations, the timescale                chology, 63, 596–612.
+                     adopted for the self-continuity measure (i.e., 10 years)              Aron, A., Aron, E. N., Tudor, M., & Nelson, G. (1991).
+                     differed from that used in the temporal discounting tasks               Close relationships as including other in the self. Jour-
+                     (i.e., 10–75 days). These timescales were primarily se-                 nal of Personality and Social Psychology, 60, 243–253.
+                     lected to match methods used in prior research on future              Bartels, D. M., & Rips, L. J. (submitted). Psychological
+                     self-continuity (Ersner-Hershfield et al., 2009) and on                 connectedness and temporal discounting.
+                     temporal discounting (Kirby and Maracovic, 1996). Be-                 Conze, E. (1959). Buddhist scriptures. Baltimore, MD:
+                     yond precedent, matching timescales might pose method-                  Penguin Books.
+                     ological problems, since a self-continuity scale with a               Diamond, P., & Koszegi, B. (2003). Quasi-hyperbolic
+                     shorter timescale might yield ceiling effects (i.e., with               discounting and retirement. Journal of Public Eco-
+                     most subjects endorsing high degrees of similarity with                 nomics, 87, 1839–1872.
+                     future selves) and a temporal discounting task with a long            Elster, J. (1977). Ulysses and Sirens: A theory of imper-
+                     timescale might conversely yield floor effects (i.e., with              fect rationality. Social Science Information, 16, 469–
+                     subjects discounting most future rewards). Longitudinal                 526.
+                     research, however, suggests some invariance in measures               Ersner-Hershfield, H., Wimmer, G. E., & Knutson, B.
+                     of temporal discounting (Ainslie & Haslam, 1992), sug-                  (2009). Saving for the future self: Neural measures
+                     gesting for instance that pre-schoolers’ ability to delay               of future self-continuity predict temporal discounting.
+                     gratification on the order of seconds predicted major de-               Social Cognitive and Affective Neuroscience, 4, 85–92.
+                     velopmental outcomes assessed several years later (e.g.,              Frederick, S. (1999). Discounting, time preference, and
+                     SAT scores, parental ratings of attention, competency,                  identity: A dissertation submitted to the Department of
+                     and intelligence; Mischel, Shoda, and Rodriguez (1989)).                Social and Decision Sciences. Carnegie Mellon Uni-
+                     Nonetheless, use of similar timescales might strengthen                 versity.
+                     the findings, and future studies will need to investigate             Frederick, S., Loewenstein, G., & O’Donoghue, T.
+                     parametric variations of the timescale used in both self-               (2003). Time discounting and time preference: A
+                     continuity and temporal discounting domains.                            critical review. In G. Loewenstein, D. Read & R. F.
+                        Together, these findings provide initial evidence that               Baumeister (Eds.), Time and decision: Economic and
+                     individual differences in perceived future self-continuity              psychological perspectives on intertemporal choice
+                     can promote valuation of future rewards. Specifically, the              (pp. 13–86). New York: Russell Sage Foundation.
+                     extent to which individuals perceive the present self as              Kirby, K. N., & Marakovic, N. (1996). Modeling myopic
+                     similar to a future self is associated with less discounting            decisions: Evidence for hyperbolic delay-discounting
+                     of future rewards in the laboratory and greater financial               within subjects and amounts. Organizational Behavior
+                     assets in the real world. From a pragmatic standpoint,                  and Human Decision Processes, 64, 22–30.
+                     enhancing future self-continuity might encourage people               Laibson, D., Repetto, A., & Tobacman, J. (1998). Self-
+                     to save for the future. From a philosophical standpoint,                control and saving for retirement. Brookings Papers on
+
+
+
+
+https://doi.org/10.1017/S1930297500003855 Published online by Cambridge University Press
+                     Judgment and Decision Making, Vol. 4, No. 4, June 2009                                  Future self-continuity and saving   286
+
+
+                       Economic Activity, 91–196.                                          Rha, J.-Y., Montalto, C. P., & Hanna, S. (2006). The ef-
+                     Lea, S. E. G., Tarpy, R. M., & Webley, P. (1987). The in-               fect of self-control mechanisms on household saving
+                       dividual in the economy: A textbook of economic psy-                  behavior. Financial Counseling and Planning, 17, 3–
+                       chology. New York, NY: Cambridge University Press.                    16.
+                     Magen, E., Dweck, C. S., & Gross, J. J. (2008). The                   Schelling, T. C. (1982). Ethics, law, and the exercise of
+                       hidden zero effect: Representing a single choice as an                self- command. Boston, MA: Harvard Institute of Eco-
+                       extended sequence reduces impulsive choice. Psycho-                   nomic Research.
+                       logical Science, 19, 648–649.                                       Schelling, T. C. (1984). Self-command in practice, in
+                     Mitchell, S. H. (1999). Measures of impulsivity in                      policy, and in a theory of rational choice. American
+                       cigarette smokers and non-smokers. Psychopharma-                      Economic Review, 74, 1–11.
+                       cology (Berl), 146, 455–464.                                        Strotz, R. H. (1956). Myopia and inconsistency in dy-
+                     Mischel, W., Shoda, Y., & Rodriguez, M. L. (1989). De-                  namic utility maximization. Review of Economic Stud-
+                       lay of gratification in children. Science, 244, 933–938.              ies, 23, 165–180.
+                     Parfit, D. (1971). Personal Identity. Philosophical Re-               Thaler, R. H., & Shefrin, H. M. (1981). An economic
+                       view, 80, 3–27.                                                       theory of self-control. Journal of Political Economy,
+                     Parfit, D. (1987). Reasons and persons (Repr. with cor-                 89, 392–406.
+                       rections. ed.). Oxford: Clarendon Press.                            Wakslak, C. J., Nussbaum, S., Liberman, N., & Trope,
+                     Plutarch. (1932). The lives of the noble Grecians and                   Y. (2008). Representations of the self in the near and
+                       Romans (J. Dryden, Trans.). New York: The Modern                      distant future. Journal of Personality and Social Psy-
+                       Library.                                                              chology, 95, 757–773.
+                     Pronin, E., Olivola, C. Y., & Kennedy, K. A. (2008). Do-
+                       ing unto future selves as you would do unto others:
+                       Psychological distance and decision making. Person-
+                       ality and Social Psychology Bulletin, 34, 224–236.
+
+
+
+
+https://doi.org/10.1017/S1930297500003855 Published online by Cambridge University Press
+

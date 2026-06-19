@@ -1,0 +1,966 @@
+J Happiness Stud
+DOI 10.1007/s10902-015-9656-2
+
+RESEARCH PAPER
+
+
+
+Positive Time: Balanced Time Perspective and Positive
+Orientation
+
+Małgorzata Sobol-Kwapinska1 •
+Tomasz Jankowski1
+
+
+
+
+ The Author(s) 2015. This article is published with open access at Springerlink.com
+
+
+Abstract The aim of the research presented in this article is to investigate the relationship
+between positive orientation and time perspective as outlined by Zimbardo and Boyd (J Pers
+Soc Psychol 77:1271–1288, 1999) and extended by an additional form of concentration on the
+present. The Polish version of the Zimbardo Time Perspective Inventory was used. A third
+type of present time perspective, namely active concentration on the present, was measured
+by the Carpe Diem Scale. One hundred and eighty five Polish people (non-students) partic-
+ipated in a survey to which a canonical-correlation analysis and a cluster analysis were
+applied. Positive orientation was correlated with a balanced temporal profile comprising a
+strong positive past orientation, moderate concentration on the future, poor fatalistic time
+perspective, poor concentration on the negative past and moderate active concentration on the
+present. Whereas a positive orientation is based on a general positive attitude towards life and
+self, a balanced time perspective reflects a general positive attitude towards time, in which an
+active concentration on the present plays an important role.
+
+Keywords Time perspective  Positive orientation  Balanced time perspective 
+Carpe Diem
+
+
+1 Introduction
+
+The question of optimal attitude towards time preoccupies both researchers and also
+ordinary people trying to pursue happiness in everyday life. Some people believe that
+happiness means positive memories, while others assume that happiness comes down to
+achieving goals and planning for the future. There are also people who live according to
+the principle that only the ‘here and now’ gives pleasure. One might say that people seek
+
+
+
+& Małgorzata Sobol-Kwapinska
+  sobol@kul.pl
+1
+    Department of Personality Psychology, Catholic University of Lublin, al. Raclawickie 14,
+    20-950 Lublin, Poland
+
+
+                                                                                           123
+                                                               M. Sobol-Kwapinska, T. Jankowski
+
+
+happiness in different time perspectives (TP). Is it right, however, to attach significance to
+only one of the time dimensions (the past, the present or the future) and belittle the
+importance of the other dimensions? In other words, is it sufficient to study the relation-
+ships among the various dimensions of TP and a sense of happiness separately from other
+temporal dimensions? It seems that it is more reliable to analyse a given time dimension in
+the context of other attitudes towards time. For example, when a deep positive concen-
+tration on the past is combined with a deep concentration on the future, its relationship with
+well-being will be different than if it were combined with a poor concentration on the
+future. One might assume that an analysis of a person’s temporal profile, that is, an analysis
+of intensity of particular elements of the TP structure, is an important source of knowledge
+about that person.
+
+1.1 Time Perspective
+
+The concept of TP as presented by Zimbardo (Boniwell and Zimbardo 2004; Zimbardo and
+Boyd 1999, 2008) constitutes the theoretical basis for this study. According to this concept,
+cognitive processes divide human experience into past, present and future temporal frames
+(D’Alessio et al. 2003; Nuttin and Lens 1985; Zimbardo and Boyd 1999). When one of
+these frames affects human behaviour, we refer to TP or temporal orientation (TO) (Ryack
+2012; Zimbardo and Boyd 1999). TP is defined as the subjective, often unconscious,
+manner in which a person refers to time, the process by which the continual flow of
+personal and social experience is assigned to each temporal category (Boyd and Zimbardo
+2005). Zimbardo and Boyd (1999) distinguished five types of TP: concentration on neg-
+ative past; concentration on positive past; hedonistic concentration on present; fatalistic
+concentration on present, and concentration on future. People who concentrate on a neg-
+atively perceived past often think back to sad moments from the past. They remember
+mostly unpleasant events, traumas and disappointments from the past. Concentration on
+positively evaluated events from the past links with thinking with pleasure about the past,
+paying attention primarily to the good things that have happened and collecting memo-
+rabilia from the past. Hedonistic concentration on the pleasure of the ‘here and now’ is
+associated with disregard for experiences from the past. Persons with this hedonistic TP
+often focus on pleasure, regardless of the consequences of their own actions. For them,
+pleasure is the most important thing in life, even given the risks involved. A fatalistic TP is
+a passive persistence in the present stemming from a conviction that people are unable to
+influence the future. People with a fatalistic concentration on the present believe that
+everything in life depends on destiny, so the only thing left to do is to passively stand in the
+present. People who are concentrated on future are interested in what will happen and
+attach significance primarily to planning, formulating and achieving goals. They often
+think with pleasure about their own future, make plans for it, dream about it and formulate
+goals for this future (Zimbardo and Boyd 1999, 2008). The fatalistic and hedonistic
+temporal attitudes do not cover all possible types within the present TP. In our studies we
+also dealt with a third kind of present TP, the active concentration on the present (Carpe
+Diem; Sobol-Kwapinska 2009, 2013).
+
+
+1.2 Active Concentration on the Present
+
+This type of TP is defined as full concentration of attention on the ‘here and now’,
+combined with perceiving the value of each moment, a unique, one-of-a-kind moment.
+
+
+123
+Positive Time: Balanced Time Perspective and Positive…
+
+
+There are two aspects of active concentration on the present: focusing attention on what is
+happening ‘here and now’ and the awareness of the value of each moment of life. Such an
+attitude does not imply negligence of the past and disregard for consequences of the
+present situation, which is typical of hedonistic orientation. The point is to free oneself
+from an incriminatory past or from absorbing thoughts about what is to happen in a
+moment. Focusing attention on the moment allows full presence in the now, which is
+combined with the feeling of freshness and spontaneity in the perception of reality.
+Recognising the value and uniqueness of each moment of life often comes from reflection
+on the transience of life. People with active concentration on the present are able to fully
+concentrate on the ‘here and now’. They like concentrating on the present, and they
+recognise the value of such attitude towards time (Sobol-Kwapinska 2009, 2013).
+
+1.3 The Relationship Between the Time Perspective Dimensions
+    and the Quality of Functioning
+
+The literature abounds with many results that describe the relationship between a specific
+attitude towards a given dimension of time and the quality of psychological functioning.
+Most studies focus on the relationship between concentration on the future and various
+measures of well-being. Wills et al. (2001), using measures relating to a theory of coping
+with stress, discovered a positive relationship between concentration on the future and a
+sense of control and positive affect. Similarly, Zaleski et al. (2001) found that having long-
+term goals correlated positively with various measures of well-being, especially with a
+sense of meaning in life, a sense of self-efficacy in social relations, and with realism.
+Concentration on the future correlated with health-oriented behaviours, such as having
+preventive screenings (Boyd and Zimbardo 2005), optimism (Zimbardo and Boyd 1999)
+and academic achievements (Barber et al. 2009; Boyd and Zimbardo 2005; Nosal and
+Bajcar 2004). At the same time, a very deep concentration on the future may entail reduced
+spontaneity and a relative inability to enjoy the ‘here and now’ (Boniwell and Zimbardo
+2004; Sobol-Kwapinska 2009, 2013; Zimbardo and Boyd 2008).
+    Recent studies show that the positive past correlates positively with high self-esteem, a
+sense of security and happiness, having social support, agreeableness and energy (Bryant
+et al. 2005; Lyubomirsky and Nolen-Hoeksema 1995; Zimbardo and Boyd 1999). Negative
+past is correlated with depression, anxiety and low self-esteem, in addition to problems
+with establishing social relations, and various addictions (Klingemann 2001; Lyubomirsky
+and Nolen-Hoeksema 1995; Nolen-Hoeksema and Morrow 1993; Zimbardo and Boyd
+1999).
+    Concentration on the present, both fatalistic and hedonistic, correlates positively with
+risky behaviours, such as excessively fast driving (Zimbardo et al. 1997), alcohol con-
+sumption and drug abuse (Daugherty and Brase 2010; Keough et al. 1999; Rothspan and
+Read 1996; Strathman et al. 1994). The results of studies carried out by Sobol-Kwapinska
+(2009, 2013) revealed a significantly positive relationship between active concentration on
+the present and having a sense of satisfaction with life, a sense of meaning in life, expe-
+riencing positive emotions, and perceiving time as creative and friendly.
+    Summing up this brief review, it seems that a concentration on the positive past and the
+future as well as an active concentration on the present are dimensions that correlate with
+the positive aspects of people’s functioning, whereas a fatalistic TP and a concentration on
+a negatively perceived past have particularly negative consequences.
+
+
+
+
+                                                                                   123
+                                                              M. Sobol-Kwapinska, T. Jankowski
+
+
+1.4 Balanced Time Perspective
+
+Recent studies on the relationship between TP and well-being focus on issues related to the
+so-called balanced time perspective (BTP). The importance of temporal balance has been
+brought up before; for example, Shostrom (1974) used the term ‘time competence’ as an
+essential element of a self-updating personality. According to Shostrom, a self-updating
+person is primarily characterised by time competence and therefore is able to fully live
+‘here and now’. Such an individual is able to link the past with the future in the present and
+seems to be less constrained by a sense of guilt, grief and anger from the past, while
+aspirations are linked with the goals being worked on. Shostrom (1974) emphasised the
+inadequacy of concentrating on only one of the three dimensions of time. Lennings et al.
+(1998), applying a canonical analysis, obtained two canonical functions showing inde-
+pendent sets of relationships between the different characteristics of temporal perspective
+and the selected personality variables. One of them contains an update temporal profile
+(characterised by a broad future-oriented perspective, positive attitude towards time and a
+strong sense of the passage of time), while the other contains a set of variables that might
+be interpreted as an atomistic temporal profile (concentration on the present and the nearest
+future without integration of the past into the future). People characterised by individual
+profiles differ from one another, for example in terms of the ability to postpone gratifi-
+cation and self-control (which is higher in the updating profile).
+    According to Zimbardo and Boyd (1999, 2008), BTP is a combination of deep con-
+centration on a positively perceived past, moderate concentration on the future, moderate
+hedonistic concentration on the present, poor fatalistic concentration on the present, and
+poor concentration on a negatively perceived past. Drake et al. (2008) studied the con-
+nection between BTP and a subjective sense of happiness and mindfulness. They applied
+quartile deviations in order to distinguish a group of individuals (from all respondents)
+whose intensity of various temporal scales was consistent with the exemplary profile
+proposed by Zimbardo. As expected, the respondents characterised by a BTP were happier
+and demonstrated higher mindfulness compared to those with other profiles. Boniwell et al.
+(2010) adopted a different approach while investigating relationships between BTP and
+well-being; they applied a hierarchical cluster analysis to the five scales of the Zimbardo
+Time Perspective Inventory (ZTPI). Four clusters were selected, of which one best
+reflected the profile typical for people with a well-balanced TP (moderate concentration on
+a positive past and future, slightly lower hedonistic concentration, and poor fatalistic
+concentration, in addition to poor concentration on negative past). The respondents from
+the BTP group were characterised by greater life satisfaction, less negative affection,
+frequent positive affection and stronger self-update. In studies conducted with the use of
+the Russian version of the ZTPI, the group of respondents with a profile similar to BTP,
+when compared to people from groups of other temporal profiles, was characterised by a
+stronger sense of meaning in life, greater life satisfaction, stronger subjectively perceived
+well-being, greater optimism and a stronger sense of self-efficacy (Boniwell et al. 2010).
+    Stolarski et al. (2011) used yet another method to determine BTP in the respondents;
+they calculated a deviation coefficient of a given respondent’s individual profile from an
+exemplary BTP (according to Zimbardo and Boyd 2008). The results they obtained showed
+that higher emotional intelligence is a predictor of smaller deviations from BTP, which is
+due to the fact that coping strategies and self-control of emotions determine BTP devel-
+opment. In their studies, the strongest predictor of the tendency to postpone gratification
+was the BTP coefficient calculated according to the proposed formula. It was interesting
+
+
+
+123
+Positive Time: Balanced Time Perspective and Positive…
+
+
+that none of the separated TP dimensions explained the tendency to postpone gratification.
+These results emphasise how important it is to include temporal profiles in studies instead
+of only analysing individual dimensions.
+   Zhang et al. (2013) compared three methods of measuring BTP, including a cluster
+analysis used by Boniwell et al. (2010), quartile deviations applied by Drake et al. (2008),
+and deviation of a BTP coefficient (DBTP) calculated on the basis of the formula for the
+deviation of an individual profile from exemplary one. The BTP most strongly correlated
+with well-being is when it was operationalised as DBTP (Stolarski et al. 2011). According
+to these authors, further studies in this area should focus on the relationship between BTP
+and other aspects of well-being and also check the influence of changes introduced to a TP
+structure on the measurement of BTP. Following these suggestions, in our investigation,
+we chose a positive orientation (PO) as an important indicator of well-being, as well as
+introducing a new component of BTP: active concentration on the present.
+
+1.5 Positive Orientation
+
+The development of positive psychology has allowed researchers to distinguish a whole
+range of phenomena that make up what we understand as well-being. Many of these
+phenomena show positive, moderate or high correlations with each other, which may
+indicate the presence of a higher-order factor explaining their common variability. While
+specific variables, such as self-esteem and optimism, help to further clarify the specific
+nature and significance of different areas of performance, a more general factor allows the
+explanation of the overriding dimension of well-being, thereby serving as a direct measure
+of general well-being. Caprara (2009) suggested that PO is such a factor. Caprara defines
+PO as a general tendency to respond to life experiences with a positive attitude (Alessandri
+et al. 2012; Caprara 2009; Caprara et al. 2010). From an empirical point of view, PO is a
+latent variable that explains the common variability of three variables used most frequently
+in studies on optimal functioning: self-esteem (measured with Self-Esteem Scale, SES,
+Rosenberg 1965), life satisfaction (Life Satisfaction Scale, SWLS, Diener et al. 1985) and
+optimism (Life Orientation Test, LOT-R; Scheier et al. 1994). Based on the overall score, a
+factor score is calculated, and that score is a measure of PO.
+   The use of PO as a measure of well-being allows the prediction of a significantly greater
+percentage of variability of other variables, when compared to models in which variables
+are predicted by means of self-esteem, optimism and life satisfaction treated as indepen-
+dent variables (Alessandri et al. 2012). Therefore, if well-being as such is the subject of the
+analysis, it is preferable to use PO rather than specific variables. In studies verifying the
+accuracy of this construct, PO is significantly positively correlated with hedonistic balance,
+the quality of interpersonal relationships and perceived health status (Caprara et al. 2010).
+Caprara et al. (2010) and Oles et al. (2013) also discovered a connection between PO and a
+sense of self-efficacy.
+
+
+2 Present Study
+
+The primary aim of the research presented in this article is to investigate the relationship
+between PO and TP in terms of Zimbardo and Boyd’s work (1999), which is extended to a
+third form of the present TP: the active concentration on the present. Based on the studies
+presented above, we formulated the following hypotheses.
+
+
+                                                                                    123
+                                                             M. Sobol-Kwapinska, T. Jankowski
+
+
+Hypothesis 1 PO significantly correlates positively with a temporal profile characterised
+by deep concentration on positive past, moderate concentration on the future, moderate
+hedonistic concentration, poor fatalistic concentration, poor concentration on negative past,
+and deep active concentration on present.
+Hypothesis 2 Canonical correlation between sets of variables that represent PO and TP
+would be stronger when Carpe Diem is included as additional present TP.
+Hypothesis 3 Cluster analysis allows the identification of a cluster corresponding to
+BTP, in which active concentration on the present intensity is high.
+   The relative importance of active concentration on the present to explain PO through the
+use of the BTP operationalisation method proposed by Stolarski et al. (2011, described in
+detail below) will also be examined. This method allows intensity specification of various
+temporal scales on the basis of theoretical assumptions regarding BTP. It also enables a
+calculation for each individual for just one variable that represents the deviation of this
+respondent’s profile from the reference profile of BTP. Manipulating the intensity of
+particular temporal dimensions allows the development of several alternative coefficients
+of BTP, emphasising the different significance of various temporal perspectives: com-
+paring models in which alternative temporal profiles are the PO predictor leads to choosing
+a profile that best explains PO. This part of the analysis is exploratory in nature.
+
+
+3 Method
+
+3.1 Participants
+
+The study group consisted of 185 people (121 female; 64 male). The study was conducted
+in Poland on a group of 219 people, of whom 185 returned a set of completed question-
+naires. The respondents were selected at random. Their ages were between 15 and 82
+(M = 37.02, SD = 15.9) and over 50 % of the respondents were more than 35 years old at
+the time of the study. Nearly 50 % of the respondents had a degree in economics, 16 % in
+medicine and related sciences and 16 % in pedagogy. Almost 70 % of the respondents
+lived in a small town or in the country. Most of them received questionnaires directly from
+a psychologist or a psychologist’s assistant. The others received questionnaires by mail.
+
+3.2 Measures
+
+3.2.1 Time Perspective
+
+The ZTPI (Zimbardo and Boyd 1999) was used to measure five dimensions of TP. It is a
+self-descriptive test which consists of 56 items. It examines attitudes towards time: the
+past, the present and the future, and behaviours related to them. The respondent is asked to
+indicate how accurately or inaccurately each term describes the object by selecting an
+appropriate numerical response category (from 1 = ‘very untrue’ to 5 = ‘very true’). The
+questionnaire consists of five scales. The Past-Positive scale (in Polish translation
+alpha = .61) examines concentration on a positively evaluated past (for example: ‘It gives
+me pleasure to think about my past’). The Negative-Past scale (alpha = .83) refers to
+concentration on a negatively perceived past (for example: ‘It’s hard for me to forget
+unpleasant images from my youth’). The Present-Hedonistic scale (alpha = .81) measures
+
+
+123
+Positive Time: Balanced Time Perspective and Positive…
+
+
+hedonistic concentration on the present (for example: ‘I take risks to put excitement in my
+life’). The Present-Fatalistic scale (alpha = .72) pertains to fatalistic orientation on the
+present (for example: ‘Fate determines much in my life’). The Future scale (alpha = .76)
+examines concentration on a positively perceived future (for example: ‘I believe that a
+person’s day should be planned ahead each morning’). In our study, we used the Polish
+translation of the test (Sobol-Kwapinska et al. 2015) performed by Przepiorka and
+authorised by Zimbardo.
+
+3.2.2 Self-Esteem
+
+To measure self-esteem, an SES (Rosenberg 1965) was used and adapted to Polish cir-
+cumstances (Dzwonkowska et al. 2008). It consists of 10 items (the Polish version of the
+scale alpha = .83). It measures the general level of a sense of one’s self-worth as disclosed
+in the self-description and treated as a relatively constant personality trait. The respondent
+takes a stance on each of the statements on a four-point scale (from 1 = ‘strongly agree’ to
+4 = ‘strongly disagree’). This is a sample item: ‘I feel that I have a number of good
+qualities’.
+
+3.2.3 Satisfaction with Life
+
+The SWLS by Diener et al. (1985) was used to measure a sense of satisfaction with life.
+The scale consists of five items (the Polish version of the scale alpha = .85; Juczynski
+2012). This is a sample item: ‘In most ways, my life is close to my ideal’. The respondent
+takes a stance on each of the statements on a seven-point scale (from 7 = ‘strongly agree’
+to 1 = ‘strongly disagree’).
+
+3.2.4 Optimism
+
+Optimism was measured using the LOT-R by Scheier et al. (1994). The scale is composed
+of 10 items, while 4 of these are fillers and only 6 are relevant for the optimism score (the
+Polish version of the scale alpha = .80; Juczynski 2012). It measures expectations
+regarding the future and a general sense of optimism. This is a sample item: ‘In uncertain
+times, I usually expect the best’. The respondent takes a stance on each of the statements
+on a five-point scale (from 4 = ‘strongly agree’ to 0 = ‘strongly disagree’).
+
+3.2.5 Active Present Perspective
+
+The Carpe Diem Scale by Sobol-Kwapinska (2009, 2013) was used to measure active
+concentration on the present (alpha = .82). It consists of 10 items, for example: ‘I
+appreciate the value of every moment of life’. The respondents are asked to indicate on a
+five-point scale the extent to which they agree with the given statements (from
+1 = ‘completely disagree’ to 5 = ‘completely agree’). The scale accuracy was determined
+by correlations with other measures of temporal attitudes (see Sobol-Kwapinska 2009,
+2013). For example, the scale correlated significantly positively with the Telicity scale
+from Temporal Orientation Questionnaire AION-2000 by Nosal and Bajcar (2004), which
+measures concentration on goal achievement, significantly positively with the Purpose in
+Life scale (Crumbaugh and Maholick 1981), and with the Positive Affect scale from the
+Positive and Negative Affect Scale (PANAS; Watson et al. 1988). Moreover, the Carpe
+
+
+
+                                                                                   123
+                                                               M. Sobol-Kwapinska, T. Jankowski
+
+
+Diem Scale correlated moderately positively with the Present scale, also from the AION-
+2000 questionnaire, measuring hedonistic and fatalistic concentration on the present
+(Sobol-Kwapinska 2013). High scores on the Carpe Diem Scale also linked with a positive
+evaluation of time in general (Sobol-Kwapinska and Nosal 2009).
+
+
+4 Results
+
+To check relations between PO and TP we performed pairwise correlations as well as
+canonical correlation analysis. Next we used cluster analysis to verify the third hypothesis
+that active concentration on the present is a significant component of the BTW profile, as it
+was defined by Zimbardo and Boyd (1999). Lastly, using Stolarski‘s et al. (2011) formula,
+we computed several alternative BTP indexes which differed in intensity of active and
+hedonic time perspectives. It allowed us to check which of the theoretically derived BTP
+versions predics PO best.
+   Table 1 shows descriptive statistics and correlations for variables in the study. The
+analysis of sex differences indicated only one variable, namely concentration on the future,
+for which men scored significantly lower than women (t = -2.68, p = .008). As far as
+other scales are concerned, the results were comparable for both men and women. Age was
+positively correlated only with future perspective, but this relation was very weak (r = .15)
+what suggests that both neither the level of PO nor TP are age dependent. The correlations
+between individual PO components and TP dimensions are, in most cases, significant,
+although they range from weak to moderate. Self-esteem and optimism are weakly but
+significantly correlated with active concentration on the present (r = .24 and r = .25
+respectively; significance for both is p \ .001), while satisfaction with life is not related to
+active concentration on the present (r = .11, p ns). The strongest negative relationship with
+PO components appeared in the case of negative past (Pearsons‘r equals from -.42 to
+-.47, p \ .001), whereas for fatalistic present orientation (Pearsons‘r equals from -.12 to
+.06, p ni), there were no relationships at all, consistent for all three components of PO.
+Only one.
+
+4.1 Canonical Correlations
+
+The pairwise correlations described above allow researchers only to capture the relation-
+ships between individual variables. Our study was designed to determine the extent to
+which PO allows the prediction of BTP. One way to answer this question is to use
+canonical correlations, which allows a researcher to check whether two groups of variables
+forming PO and TP correlate with each other as expected. For this purpose, we designed an
+analysis involving two sets of variables: one which included self-esteem, satisfaction with
+life and optimism, and another which consisted of the ZTPI individual scales. We also
+carried out an additional canonical analysis, which differed from the first only in one more
+variable, which we added to the set referring to TP, that is active concentration on the
+present.
+    For the analysis that did not include the Carpe Diem Scale, we obtained three functions
+with canonical correlations amounting to .66, .29 and .07. The first and the second function
+were statistically significant, while the third function turned out to be irrelevant. Due to the
+small percentage of explained variance by the second function (it amounted to only 8 % of
+variance unexplained by the first function), we decided to interpret only the first canonical
+
+
+123
+      Table 1 Descriptive statistics and correlations between variables
+      Variable                      (1)             (2)            (3)       (4)       (5)       (6)       (7)     (8)       (9)     (10)
+
+      1. Self-esteem
+      2. Satisfaction with life        .47**
+      3. Optimism                      .59**          .42**
+      4. Past-Positive                 .33**          .32**          .25**
+      5. Past-Negative               -.47**         -.42**         -.44**    -.20**
+      6. Present-Hedonistic            .01          -.12             .06       .21**     .37**
+      7. Present-Fatalistic          -.36**         -.26**         -.53**    -.04        .65**     .43**
+                                                                                                                                             Positive Time: Balanced Time Perspective and Positive…
+
+
+
+
+      8. Future                        .25**          .22**          .15*      .23**   -.02        .14     -.02
+      9. Carpe Diem                    .24**          .11            .25**     .13     -.07        .26**     .01     .24**
+      10. Age                          .10            .10            .06       .04     -.01      -.14      -.04      .15*      .10
+      Mean                          19.9            20.7           14.8      32.6      30.8      50.7      27.3    45.1      39.0    37.02
+      SD                             4.46            5.86           4.20      4.89      7.86      8.46      6.09    6.45      5.81   15.90
+
+      ** p \ .01; * p \ .05
+
+
+
+
+123
+                                                                       M. Sobol-Kwapinska, T. Jankowski
+
+
+function in a further discussion. For the analysis that takes the Carpe Diem Scale into
+account we obtained three functions with canonical correlations amounting to .67, .30 and
+.07. This time, only the first function was significant, whereas the others did not reach the
+threshold of significance (i.e., p \ .05). Like in the previous analysis, we further interpret
+only the first canonical function.
+   Table 2 presents the factor loadings and redundancy for the first canonical function. R2c
+indicates that both canonical variables share 43 % of their variance (45 % after taking the
+Carpe Diem Scale into account). The canonical factor loadings for self-esteem, satisfaction
+with life and optimism are similar to those obtained in other studies (e.g., Oles et al. 2013).
+This allows the interpretation of this canonical variable as representing PO. The PO latent
+variable explains 66 % of the variance shared by self-esteem, satisfaction with life and
+optimism. These three variables are also moderately correlated with the second canonical
+variable (see cross-loadings for the Set 1 in the Table 1) which explains 29 % of their
+common variance.
+   The factor loadings for the second set of variables (temporal) indicate that this canonical
+variable, which explains 27 % of variance shared by ZTPI scales, mainly reflects low
+scores in Past-Negative and Present-Fatalistic, high in Past-Positive and moderate in
+Future. What is interesting, Past-Negative and Present-Fatalistic scales are also signifi-
+cantly correlated with PO latent variable, as cross-loadings for the Set 2 show. The
+structure of the factor loadings reminds us of the structure of BTP as postulated by
+Zimbardo et al. (Boniwell and Zimbardo 2004; Zimbardo and Boyd 2008), with the
+exception of the score in Present-Hedonistic scale. Present-Hedonistic seems to have no
+relevance to the interpretation of the temporal latent variable correlated with PO. The
+canonical variable, which is the result of the empirical adjustment of a model to data,
+indicates that PO predicts a set of temporal variables that is dominated primarily by low
+Past-Negative and Present-Fatalistic. In other words, while BTP stresses the importance of
+positive aspects of TP, empirical analysis emphasizes a low intensity of negative dimen-
+sions. An important difference between the theory and the results of canonical analysis is
+the Present-Hedonistic insignificance for the interpretation of the latter.
+   What is important, active concentration on the present proves to be a meaningful
+component of the BTP—it is moderately (.38) correlated with BTP latent variable. Model
+that includes Carpe Diem Scale as a BTP component explains more variance (R2c = .45)
+compared to the model that represents only ZTPI scales (R2c = .43).
+
+
+Table 2 Factor loadings and
+                                                                    Loadings             Cross-loadings
+redundancy for the first canonical
+function
+                                     Set 1: positive orientation variables
+                                     Self-esteem                      .90 (.89)            .60 (.59)
+                                     Life Satisfaction                .72 (.73)            .48 (.48)
+                                     Optimism                         .81 (.80)            .54 (.53)
+                                     Set 2: temporal variables
+                                     Past-positive                    .55 (.56)            .37 (.37)
+                                     Past-negative                  -.82 (.-83)          -.55 (-.55)
+                                     Present-hedonistic             -.01 (-.02)          -.01 (-.01)
+                                     Present-fatalistic             -.60 (-.61)          -.40 (-.40)
+Values displayed in brackets         Future                           .39 (.40)            .26 (.26)
+refer to the model not including     Carpe Diem                        .38                  .26
+active perspective on the present
+
+
+123
+Positive Time: Balanced Time Perspective and Positive…
+
+
+4.2 Cluster Analysis
+
+Canonical correlations help trace the extent to which variables related to PO correlate with
+TP dimensions. They do not allow, however, for the comparison of people with different
+TP profiles in terms of specific variables. To separate respondents with different TP pro-
+files, we applied a hierarchical cluster analysis, carried out with the use of Ward’s method
+and Euclidean squared distances. Following Zhang et al. (2013), we conducted a cluster
+analysis, assuming a division into groups of two, three, four and five possible clusters so as
+to avoid a situation in which the criterion for separating the number of clusters will reduce
+the chance of finding a group of people with a typical BTP profile. We conducted the
+cluster analysis for the set of variables that consisted of the standardised results of the ZTPI
+scales increased by the Carpe Diem Scale.
+    This cluster analysis allowed the identification of people with BTP, assuming that the
+Carpe Diem Scale is considered to be an alternative to Present-Hedonistic concentration on
+the present. When three clusters were separated, one of the groups was characterised by
+high scores in Past-Positive and Future, low scores in the Past-Negative and Present-
+Fatalistic and moderately high intensity on the Carpe Diem Scale. The scores on the
+Present-Hedonistic scale in this cluster were around the average. Other clusters were
+typical for people with low intensity of most of the TP dimensions (except for Past-
+Negative and Present-Fatalistic, which were at average level) and those with very high
+scores in the Past-Negative and Present-Fatalistic, high Present-Hedonistic, moderately
+high Future and Carpe Diem and low Past-Positive scores. The groups were different in
+terms of PO intensity, F (2, 180) = 32.87, p \ .001, ETA2 = .27, and post hoc tests (with
+the Bonfferoni correction) demonstrated a significant difference between the BTP group
+and the other two clusters (p \ .001), which, in turn, did not differ significantly from each
+other (p = .34).
+
+4.3 BTP Theoretical Operationalisation
+
+Both canonical and cluster analysis are exploratory statistical methods and we applied
+them here to determine which set of variables representing different TP profiles would be
+fully predicted by PO. The analyses we carried out indicated Present-Hedonistic to be the
+scale which is not significantly correlated with optimal functioning as measured by PO.
+They pointed, however, to Carpe Diem as a variable significantly correlated with well-
+being. In addition to these methods of data analysis, it is possible to operationalise BTP
+based on theoretical assumptions. There are two attempts of this kind in the literature: (1)
+separating people with a temporal profile corresponding to the reference profile and
+comparing their level of functioning, and (2) formulating a numerical coefficient to
+measure the deviation of a given person’s profile from the reference profile and correlating
+it with measures of well-being. The first of these approaches, proposed by Drake et al.
+(2008), raises many problems, both from statistical and interpretative points of view. The
+separated groups are usually not large enough and constitute about 5 % of the study
+sample. In addition, the criteria for separating individuals are also more dependent on the
+description of a given sample (the cut-off point = the 33rd percentile in a given scale)
+rather than reflecting theoretical assumptions.
+   The second method of theoretical operationalisation of BTP, proposed by Stolarski et al.
+(2011), allows researchers to obtain the direct BTP coefficient calculated on the basis of
+theoretical assumptions. Studies conducted by Zhang et al. (2013) showed that BTP
+
+
+
+                                                                                    123
+                                                                                                                M. Sobol-Kwapinska, T. Jankowski
+
+
+correlates most with the well-being measures when it is operationalised as DBTP. For the
+calculation of the DBTP coefficient, the following formula is used:
+    DBTP1
+       qﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+     ¼ ðoPN  ePNÞ2 þ ðoPP  ePPÞ2 þ ðoPF  ePFÞ2 þ ðoPH  ePHÞ2 þ ðoFU  eFUÞ2
+
+where oPN—ePN is the difference between optimal intensity of the Past-Negative scale for
+BTP (according to Zimbardo’s concept) and the empirical score on this scale obtained from
+a given participant. Further segments of the equation correspond to successive ZTPI scales.
+In the present study, we created five alternative coefficients that include both ZTPI scales
+and the score on the Carpe Diem Scale or omit the Present-Hedonistic scale in the
+equation, replacing it with the Carpe Diem Scale. Following Stolarski et al. (2011) who, in
+turn, referred to Zimbardo and Boyd’s proposals (cf. www.thetimeparadox.com/surveys),
+the following intensity of individual scales (optimal of BTP) were adopted: high Past-
+Positive (4.60); moderately high Present-Hedonistic (3.90); moderately high Future (4.00);
+low Past-Negative (1.95), and low Present-Fatalistic (1.50). In addition, we decided that
+the Carpe Diem Scale intensity should be, as in the case of Present-Hedonistic, 3.90 or
+higher, that is 4.60, as in the case of Past-Positive. The formula expresses the deviation of
+the optimal profile from the profile obtained by the respondent: the higher the DBTP
+coefficient, the further from the optimal TP it is for a single person. A zero score in DBTP
+indicates perfectly balanced temporal perspective, according to the criteria.
+   In order to verify the hypothesis, according to which active concentration on the present
+is a better BTP indicator than Present-Hedonistic, three regression analyses were con-
+ducted, in which PO was the variable criterion, while consecutive DBTP coefficients with
+indices from one to three were the predictors. Such a solution was chosen not because of
+theoretical assumptions that suggest rather a reverse path direction, but for practical rea-
+sons, to compare the models with the same dependent variable to each other. It was
+assumed that DBTP1 reflects the BTP coefficient calculated only for five ZTPI scales;
+DBTP2 includes all ZTPI scales together with the Carpe Diem Scale (high intensity in the
+profile—4.60), and DBTP3 includes all ZTPI scales together with the Carpe Diem Scale
+(moderately high intensity in the profile—3.90).
+   The PO index was created by means of a factor analysis conducted for the summary
+scores of the SES, SWLS and LOT-R. Both the Kaiser criterion and the scree plot pointed
+to one important factor explaining 66 % of the common variability of the above-mentioned
+variables. The factor loading for self-esteem was the highest (.85), was slightly lower for
+optimism (.83), and was the lowest for satisfaction with life (.76), although still very high.
+   Table 3 shows the results of the three regression models1 in which the DBTP alternative
+coefficients were the PO predictors. In order to select the model that best explains the
+variables set, the Akaike information criterion (AIC) was used. According to the AIC, the
+model which includes the DBTP2 coefficient, that is, the model including both moderate
+hedonistic concentration intensity and high active concentration on the present intensity
+turns out to be the least deviated from the real model compared to the other models. The
+rest of the AIC coefficients differ from the AIC coefficient for DBTP2 model by more than
+ten. Such a difference (although all models are adjusted to data) allows the rejection
+thereof, as models were significantly worse at explaining data: based on AIC weights, it is
+
+1
+  The age was not included in the models as a covariant because it was not correlated either with positive
+orientation factor (r = .10, p ns) or any version of DBTP index (r equals from -.08 to -.03, p ns).
+
+
+123
+Positive Time: Balanced Time Perspective and Positive…
+
+
+Table 3 Comparison of five regression models with optimal-empirical temporal profiles discrepancy as a
+predictor of positive orientation
+Predictor   F(1,181)     B         SE     Beta     t           R2     AIC       DAIC      AIC weight
+
+DBTP1       106.38        -.80     .08    -.61     -10.31      .37    439.72    12.09       .002
+DBTP2       126.01        -.87     .08    -.64     -11.22      .41    427.63       .00      .997
+DBTP3         89.44      -1.02     .11    -.58         -9.46   .33    450.84    23.21     \.001
+
+
+
+
+possible to determine a probability of 99.7 % that the second model is the best, despite the
+sample (Burnham and Anderson 2002). The model in which BTP takes into account high
+intensity of active concentration on the present explains 41 % of the PO variation, which
+proves large effect size.
+   In conclusion, the data analysis confirms significant correlations between PO and the set
+of temporal variables postulated by Zimbardo (Boniwell and Zimbardo 2004; Zimbardo
+and Boyd 1999, 2008). An important difference is the minor significance of hedonistic
+concentration on the present (Present-Hedonistic) in explaining PO and major significance
+of active concentration on the present.
+
+
+5 Discussion
+
+This study was aimed at verifying hypotheses about the relationships between TP
+according to Zimbardo and Boyd (1999, 2008) and PO according to Caprara (2009). We
+postulated that PO correlates with BTP, i.e., with deep concentration on a positively
+evaluated past, moderately deep concentration on the future, moderately deep hedonistic
+concentration on the present, poor fatalistic concentration on the present, and poor con-
+centration on a negatively assessed past. We also introduced an additional kind of con-
+centration on the present, namely an active Carpe Diem concentration (Sobol-Kwapinska
+2009, 2013), which, according to the hypothesis, was to fit the frames of the BTP profile
+and positively correlate with PO. In order to verify the above postulates, we used the Polish
+version of the ZTPI, increased by the Carpe Diem Scale.
+   The results we obtained partially confirm the postulated relationship between PO and
+BTP. Frequent concentration on a positively perceived past combined with moderately
+deep concentration on the future, poor fatalistic concentration and poor concentration on a
+negatively assessed past, is strongly and positively correlated with PO. Only the hedonistic
+concentration on the present (Present-Hedonistic) was neither included in the set of tem-
+poral variables related to PO, nor was significantly intensified in the cluster characterised
+by a set of scales resembling BTP. Our results, aside from the Present-Hedonistic scale,
+largely support the BTP theory proposed by Zimbardo and Boyd (2008). Drake et al.
+(2008) discovered that hedonistic concentration on the present correlated negatively with
+subjective well-being. The results of a study published recently by Sircova et al. (2015),
+have shown that the BTP profiled and identified in a multicultural sample by cluster
+analysis includes a moderately low level of hedonistic perspective. In studies conducted by
+Wiberg et al. (2012), it was an average, not moderately high, Present-Hedonistic score that
+made up the balanced TP profile. On the other side, in studies undertaken by Boniwell et al.
+(2010) and by Zhang et al. (2013) Present-Hedonistic positively correlated with the well-
+being measures. The ambiguity of the results regarding the Present-Hedonistic scale
+
+
+                                                                                          123
+                                                               M. Sobol-Kwapinska, T. Jankowski
+
+
+significance for the BTP profile can be explained by the considerable instability of cor-
+relation between this scale and various indicators of well-being. In other words, the
+strength and direction of a possibly weak relationship may be seriously affected by the
+selection of respondents to join the research sample. In our case, the unique nature of
+Polish culture may have additional meaning. Perhaps the way the Polish people understand
+and express hedonistic perspective is different to that of Western cultures, for instance,
+Americans. The results of studies conducted by Sobol-Kwapinska (2014) confirm this
+assumption, as they suggest that hedonistic concentration on the present verified with the
+use of the Polish version of the ZTPI is a many-sided variable. For example, a tendency to
+carry out risky behaviours, which in the original version of the ZTPI belongs to Present-
+Hedonistic, in Polish version correlated more with the fatalistic perspective rather than
+with Present-Hedonistic. This suggests an interesting interpretation that Americans take
+risks mainly for pleasure, while Polish people do so because of a conviction that they
+cannot affect reality. Similarly, the energy and activity which, in the original version,
+belonged to the Present-Hedonistic scale, correlated more with concentration on the future
+in the Polish version. On this basis, we may speculate that perhaps the hedonism of Polish
+people might have fewer positive connotations when compared to Americans. Perhaps the
+Polish people give themselves permission to enjoy life less often than Americans. This
+would be a very interesting issue to explore in future studies. Cultural factors appear to be
+vitally important in explaining the variance of results obtained in different countries,
+especially if we pay attention to the fact that Drake et al. (2008) conducted their studies
+among the Scots, Boniwell et al. (2010) described the findings regarding Britons and
+Russians, Wiberg et al. (2012) studied the Swedes, while Zhang et al. (2013) focused their
+academic interests on Americans. Moreover, in the studies conducted by Boniwell et al.
+(2010) positive correlation between hedonism (Present-Hedonistic) and SWB measures
+was much weaker in the group of Russians than in the group of Britons.
+   Active concentration on the present significantly explained BTP, which confirms our
+hypothesis. In the canonical analysis, the Carpe Diem Scale was of moderate importance
+for the interpretation of the set of variables that affects PO the most. Similarly, the cluster
+analysis allowed for the separation of a group of individuals having a profile corresponding
+to the BTP, where active concentration on the present intensity was, in contrast to hedo-
+nistic concentration, moderately high. Calculating the DBTP coefficients reflecting the
+average deviation of a given person’s profile from the reference profiles allowed us to
+clarify the role that these two types of concentration on the present play in explaining PO.
+Comparing different models suggests that the profile best explaining PO contains both the
+Present-Hedonistic scale of moderately high intensity and the Carpe Diem Scale of high
+intensity, equal to the Past-Positive intensity.
+   An important novelty in this study is the highlighting of active concentration on the
+present as a temporal perspective important to well-being. Our results suggest the cor-
+rectness of expanding BTP by an additional dimension, namely active concentration on the
+present. This is in line with postulates of many theories, in which the importance of balance
+between the quest for pleasure and comfort, the development of one’s own abilities and
+achievement of important goals is stressed (e.g., Ryan and Deci 2001).
+   Our results support the main idea behind the formulation of the BTP concept. According to
+this idea, high intensity of Past-Positive and Future and low intensity of Past-Negative and
+Present-Fatalistic favours a flexible adaptation to different conditions of life and effective
+performance of tasks (Boniwell and Zimbardo 2004). Thanks to flexibility, people are able to
+change their attitudes towards time depending on the requirements of a given situation. In
+other words, when, for example, people spend time with friends, they concentrate on common
+
+123
+Positive Time: Balanced Time Perspective and Positive…
+
+
+history; when they rest, they focus on the present, free from a feeling of guilt that they are not
+working; when they work, they work with a view to future consequences of their present
+behaviours and draw from past experiences (Boniwell and Zimbardo 2004; Zimbardo and
+Boyd 1999, 2008). Therefore, BTP allows people to freely go on mental travels in time, one of
+the basic human adaptabilities. Balanced temporal perspective, expanded by active con-
+centration on the present, allows people to both ‘travel in time’ and also to anchor to present
+reality. For example, in order for work to give satisfaction and pleasure, active concentration
+on the present is necessary; such concentration allows people to experience mental state of the
+flow, in which a person performing some activity is fully immersed in this activity (cf. Sobol-
+Kwapinska 2009, 2013). Active concentration on the present is also important in crisis
+situations. The results of studies conducted by Epel et al. (1999) among homeless people
+show that concentration on the present is an optimal attitude towards time in a situation of
+dealing with a problem (acute crisis). While concentration on the future correlates with a
+greater sense of self-efficacy and optimism, concentration on the present may facilitate
+openness to seeking quick solutions to current problems.
+    With regard to the limitations of our studies, it is important to stress that, due to the fact that
+the studies are correlative in nature, it is difficult to interpret the relationships we discovered
+in terms of cause and effect. In addition, we did not consider the past of individual respondents
+(for example, the possible presence of significant negative experiences). Arguably, events
+from the past may affect the scores obtained in the ZTPI, as suggested by Drake et al. (2008).
+In subsequent studies, taking into consideration such events as possible co-variants and
+checking BTP adaptive significance not in everyday life, but also in specific life situations,
+such as illness, suffering pain, grief, etc., would be worthwhile. The impact of cultural factors
+on the TP structure would be a highly important issue to explore in further studies as well. It
+would be also interesting to conduct an investigation into subgroups separated by age of the
+subjects. Differences in the relationship can be expected between PO and TP, depending on
+the age of the respondents (see Carstensen et al. 1999).
+    Regarding another limitation of this study it is also worth noting that a focus on the
+negatively evaluated future has not been studied. Carelli et al. (2011) emphasised the need
+to consider this kind of TP in research.The use of the scale proposed by them might be
+fruitful in the future research.
+    The results of our studies may have practical applications. An insight into what thoughts
+and feelings a patient has about the past, the present and the future may be a good starting
+point in therapy. A TP that is too narrow and rigid (i.e., unbalanced) may turn out to be the
+source of a patient’s problems. Using the knowledge resulting from the studies on BTP in
+therapeutic work with depressive patients may be particularly useful because PO is consid-
+ered to be the opposite of depressive cognitive triad. People suffering from depression are
+usually concentrating on negative past and fatalistic present and transfer this approach to the
+future. A therapy programme should therefore be based on teaching such persons how to deal
+with negative experiences by discovering positive aspects hidden in them, concentrating on
+the ‘here and now’ and planning a positive future (cf. Zimbardo et al. 2012).
+
+
+6 Summary
+
+In our study, we investigated the relationship between PO and TP as outlined by Zimbardo
+and Boyd (1999) and extended by the Carpe Diem Scale. We took on such studies to check
+whether the theoretical concept of BTP according to Zimbardo and Boyd (2008), referred
+
+
+                                                                                           123
+                                                                        M. Sobol-Kwapinska, T. Jankowski
+
+
+to as a generally positive, optimal attitude towards time, would indeed strongly correlate
+with an overall positive attitude towards life. The results we obtained allow us to formulate
+an affirmative and convincing answer to this question and may provide a starting point to
+design strategies to help people improve their level of functioning. When working on a
+more balanced TP, it is possible to improve the functioning of an individual, regardless of
+the intensity of this person’s general innate tendency to make positive evaluations
+regarding themselves, life and the future.
+   Moreover, we justified in our studies the value of expanding the five dimension TP
+proposed by Zimbardo to include active concentration on the present in order to capture the
+present perspective in a more holistic way. Furthermore, we conducted our studies among
+adults who are not students. This is important in as much as the vast majority of temporal
+studies have been conducted with the participation of students. Meanwhile Ryack (2012),
+like many other researchers, draws attention to the fact that TP dimensions depend on the
+group on which such studies are conducted.
+
+Conflict of interest The authors declare there are no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article. The authors disclosed receipt of the following
+financial support for the research, authorship, and/or publication of this article: preparation of this manu-
+script was supported by the grant ‘Positive orientation—structure and functions’ 1/6-3-8-27 and the grant
+‘Time perspective, postoperative pain perception and coping strategies in pain’ 2013/09/B/HS6/02785 from
+the National Science Centre.
+
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 Inter-
+national License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution,
+and reproduction in any medium, provided you give appropriate credit to the original author(s) and the
+source, provide a link to the Creative Commons license, and indicate if changes were made.
+
+
+
+
+References
+Alessandri, G., Caprara, G. V., & Tisak, J. (2012). The unique contribution of positive orientation to optimal
+     functioning: Farther explorations. European Psychologists, 17, 44–54.
+Barber, L. K., Munz, D. C., Bagsby, P. G., & Grawitch, M. J. (2009). When does time perspective matter?
+     Self-control as a moderator between time perspective and academic achievement. Personality and
+     Individual Differences, 46, 250–253.
+Boniwell, I., Osin, E., Linley, P., & Ivanchenko, G. (2010). A question of balance: Examining relationships
+     between time perspective and measures of well-being in the British and Russian samples. Journal of
+     Positive Psychology, 5, 24–40.
+Boniwell, I., & Zimbardo, P. (2004). Balancing time perspective in pursuit of optimal functioning. In P.
+     A. Linley & S. Joseph (Eds.), Positive psychology in practice (pp. 165–178). Hoboken, NJ: Wiley.
+Boyd, J. N., & Zimbardo, P. G. (2005). Time perspective, health and risk taking. In A. Strathman & J.
+     Joireman (Eds.), Understanding behavior in the context of time (pp. 85–107). London: Lawrence E.
+Bryant, F. B., Smart, C. M., & King, S. (2005). Using the past to enhance the present: Boosting happiness
+     through positive reminiscence. Journal of Happiness Studies, 6, 227–260.
+Burnham, K. P., & Anderson, D. R. (2002). Model selection and multimodel inference. New York, NY:
+     Springer.
+Caprara, G. V. (2009). Positive orientation: Turning potentials into optimal functioning. The Bulletin of the
+     European Health Psychologist, 11, 46–48.
+Caprara, G. V., Alessandri, G., & Barbaranelli, C. (2010a). Optimal functioning: The contribution of self-
+     efficacy beliefs to positive orientation. Psychotherapy and Psychosomatics, 79, 328–333.
+Caprara, G. V., Steca, P., Alessandri, G., Abela, J. R., & McWhinnie, C. D. (2010b). Positive orientation:
+     Exploration on what is common to life satisfaction, self-esteem, and optimism. Epidemiology and
+     Psychiatric Sciences, 19, 63–71.
+Carelli, M., Wiberg, B., & Wiberg, M. (2011). Development and construct validation of the Swedish
+     Zimbardo Time Perspective Inventory. European Journal of Psychological Assessment, 27, 220–227.
+
+
+123
+Positive Time: Balanced Time Perspective and Positive…
+
+
+Carstensen, L. L., Isaacowith, D. M., & Charles, S. T. (1999). Taking time seriously: A theory of socioe-
+     motional selectivity. American Psychologist, 54(3), 165–181.
+Crumbaugh, J. C., & Maholick, L. T. (1981). Manual of instructions for purpose-in-life test. Murfreesboro,
+     TN: Psychometric Affiliates.
+D’Alessio, M., Guarino, A., de Pascalis, V., & Zimbardo, P. G. (2003). Testing Zimbardo’s Stanford Time
+     Perspective Inventory-Short Form: An Italian study. Time & Society, 12, 333–347.
+Daugherty, J. R., & Brase, G. L. (2010). Taking time to be healthy: Predicting health behaviors with delay
+     discounting and time perspective. Personality and Individual Differences, 48, 202–207.
+Diener, E., Emmons, R., Larsen, J., & Griffin, S. (1985). The satisfaction with life scale. Journal of
+     Personality Assessment, 49, 71–75.
+Drake, L., Duncan, E., Sutherland, F., Abernethy, C., & Henry, C. (2008). Time perspective and correlates
+     of well-being. Time and Society, 17, 47–61.
+Dzwonkowska, I., Lachowicz-Tabaczek, K., & Laguna, M. (2008). Samoocena i jej pomiar Skala samoo-
+     ceny SES M. Rosenberga [Self-esteem and its measure]. Warszawa: Pracownia Testow Psycholog-
+     icznych PTP.
+Epel, E. S., Bandura, A., & Zimbardo, P. G. (1999). Escaping homelessness: The influences of self-efficacy
+     and time perspective on coping with homelessness. Journal of Applied Social Psychology, 29,
+     575–596.
+Juczynski, Z. (2012). Narze˛dzia pomiaru w promocji i psychologii zdrowia [Measuring tool in the pro-
+     motion and health psychology]. Warszawa: Pracownia Testów Psychologicznych PTP.
+Keough, K. A., Zimbardo, P. G., & Boyd, J. N. (1999). Who’s smoking, drinking, and using drugs? Time
+     perspective as a predictor of substance use. Journal of Basic and Applied Social Psychology, 21,
+     149–164.
+Klingemann, H. (2001). The time game: Temporal perspectives of patients and staff in alcohol and drug
+     treatment. Time & Society, 10, 303–328.
+Lennings, C. J., Burns, A. M., & Cooney, G. (1998). Profiles of time perspective and personality: Devel-
+     opmental considerations. The Journal of Psychology, 182, 629–641.
+Lyubomirsky, S., & Nolens-Hoeksema, S. (1995). Effects of self-focused rumination on negative thinking
+     and interpersonal problem solving. Journal of Personality and Social Psychology, 69, 176.
+Nolen-Hoeksema, S., & Morrow, J. (1993). Effects of rumination and distraction on naturally occurring
+     depressed mood. Cognition and Emotion, 7, 561–570.
+Nosal, C. S., & Bajcar, B. (2004). Czas psychologiczny: wymiary, struktura, konsekwencje [Psycho-
+     logical time: dimensions, structure, consequences]. Warszawa: Wydawnictwo Instytutu Psychologii
+     PAN.
+Nuttin, J., & Lens, W. (1985). Future time perspective and motivation: Theory and research method.
+     Leuven: Leuven University Press.
+Oles, P. K., Alessandri, G., Oles, M., Bak, W., Jankowski, T., Laguna, M., & Caprara, G. V. (2013). Positive
+     orientation and generalized self-efficacy. Studia Psychologica, 55(1), 47–59.
+Rosenberg, M. (1965). Society and the adolescent self-image. Princeton, NJ: Princeton University Press.
+Rothspan, S., & Read, S. J. (1996). Present versus future time perspective and HIV risk among heterosexual
+     college students. Health Psychology, 15, 131–134.
+Ryack, K. (2012). Evidence that time perspective factors depend on the group: Factor analyses of the CFC
+     and ZTPI scales with professional financial advisors. Personality and Individual Differences, 52,
+     723–727.
+Ryan, R. M., & Deci, E. D. (2001). On happiness and human potentials: A review of research on hedonic
+     and eudaimonic well-being. Annual Review of Psychology, 52, 141–166.
+Scheier, M. F., Carver, C. S., & Bridges, M. W. (1994). Distinguishing optimism from neuroticism (and trait
+     anxiety, self-mastery, and self-esteem): A reevaluation of the Life Orientation Test. Journal of Per-
+     sonality and Social Psychology, 67, 1063–1078.
+Shostrom, E. L. (1974). Manual for the personal orientation inventory. San Diego, CA: Educational and
+     Industrial Testing Service.
+Sircova, A., Van de Vijver, F. J. R., Osin, E., Milfont, T. L., Fieulaine, N., Kislali-Erginbilgic, A., et al.
+     (2015). Time perspective profiles and cultures. In M. Stolarski, N. Fieulaine, & W. van Beek (Eds.),
+     Time perspective theory; review, research and application; essays in honor of Philip G. Zimbardo (pp.
+     169–187). Switzerland: Springer.
+Sobol-Kwapinska, M. (2009). Forms of present time orientation and satisfaction with life in the context of
+     attitudes toward past and future. Social Behavior and Personality, 37, 433–444.
+Sobol-Kwapinska, M. (2013). Hedonism, fatalism and ‘‘Carpe Diem’’: Profiles of attitudes towards the
+     present time. Time & Society, 22(3), 371–390.
+
+
+
+
+                                                                                                 123
+                                                                        M. Sobol-Kwapinska, T. Jankowski
+
+
+Sobol-Kwapinska, M. (2014). Carpe Diem, Zimbardo time perspective and positive orientation. Paper
+     presented at the 2nd international conference on time perspective, Warszawa.
+Sobol-Kwapinska, M., & Nosal, C. S. (2009). How does one conceive time? Measurement by means of
+     Time Metaphors Questionnaire. Polish Psychological Bulletin, 40, 1–7.
+Sobol-Kwapinska, M., Przepiorka, A., & Zimbardo, P. G. (2015). Structure of time perspective in Poland:
+     Validation and extension of the Zimbardo Time Perspective Inventory across the ages. European
+     Journal of Psychological Assessment (in review).
+Stolarski, M., Bitner, J., & Zimbardo, P. G. (2011). Time perspective, emotional intelligence and dis-
+     counting of delayed awards. Time & Society, 20(3), 346–363.
+Strathman, A., Gleicher, F., Boninger, D. S., & Edwards, C. S. (1994). The consideration of future con-
+     sequences: Weighing immediate and distant outcomes of behavior. Journal of Personality and Social
+     Psychology, 66, 742–752.
+Watson, D., Clark, A., & Tellegen, A. (1988). Development and validation of brief measures of positive and
+     negative affect: The PANAS Scales. Journal of Personality and Social Psychology, 54(6), 1063–1070.
+Wiberg, M., Sircova, A., Wiberg, B., & Carelli, M. G. (2012). Operationalizing balanced time perspective in
+     a Swedish sample. The International Journal of Educational and Psychological Assessment, 12(1),
+     95–107.
+Wills, T. A., Sandy, J. M., Yaeger, A. M., Cleary, S. D., & Shinar, O. (2001). Coping dimensions, life stress,
+     and adolescent substance use: A latent growth analysis. Journal of Abnormal Psychology, 110,
+     309–323.
+Zaleski, Z., Cycon, A., & Kurc, A. (2001). Future time perspective and subjective well-being in adolescent
+     samples. In P. Schmuck & K. M. Sheldon (Eds.), Life goals and well-being: Towards a positive
+     psychology of human striving (pp. 68–95). Ashland: Hogrefe & Huber.
+Zhang, J. W., Howell, R. T., & Stolarski, M. (2013). Comparing three methods to measure a balanced time
+     perspective: The relationship between a balanced time perspective and a subjective well-being. Journal
+     of Happiness Studies, 14, 169–184.
+Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: A valid reliable individual differences
+     metric. Journal of Personality and Social Psychology, 77, 1271–1288.
+Zimbardo, P. G., & Boyd, J. N. (2008). The time paradox: The new psychology of time that will change your
+     life. New York, NY: The Free Press.
+Zimbardo, P. G., Keough, K. A., & Boyd, J. N. (1997). Present time perspective as a predictor of risky
+     driving. Personality and Individual Differences, 23(6), 1007–1023.
+Zimbardo, P. G., Sword, R. M., & Sword, R. K. (2012). The time cure: Overcoming PTSD with the new
+     psychology of time perspective therapy. San Francisco, CA: Jossey-Bass.
+
+
+
+
+123
+

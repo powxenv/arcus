@@ -1,0 +1,867 @@
+    Personality and Social Psychology
+                 Bulletin                           http://psp.sagepub.com/
+
+
+
+
+When Bad Things Turn Good and Good Things Turn Bad: Sequences of Redemption and Contamination in
+     Life Narrative and their Relation to Psychosocial Adaptation in Midlife Adults and in Students
+             Dan P. McAdams, Jeffrey Reynolds, Martha Lewis, Allison H. Patten and Phillip J. Bowman
+                                      Pers Soc Psychol Bull 2001 27: 474
+                                       DOI: 10.1177/0146167201274008
+
+                                    The online version of this article can be found at:
+                                       http://psp.sagepub.com/content/27/4/474
+
+
+                                                                 Published by:
+
+                                                http://www.sagepublications.com
+
+                                                                  On behalf of:
+
+
+
+
+                                        Society for Personality and Social Psychology
+
+
+
+              Additional services and information for Personality and Social Psychology Bulletin can be found at:
+
+                                         Email Alerts: http://psp.sagepub.com/cgi/alerts
+
+                                       Subscriptions: http://psp.sagepub.com/subscriptions
+
+                                     Reprints: http://www.sagepub.com/journalsReprints.nav
+
+                                 Permissions: http://www.sagepub.com/journalsPermissions.nav
+
+                                   Citations: http://psp.sagepub.com/content/27/4/474.refs.html
+
+
+
+                                            >> Version of Record - Apr 1, 2001
+
+                                                                What is This?
+
+
+
+
+                                          Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+McAdams et al. / REDEMPTION AND CONTAMINATION
+
+
+
+
+                                         When Bad Things Turn Good and Good Things Turn
+                                         Bad: Sequences of Redemption and Contamination
+                                         in Life Narrative and Their Relation to Psychosocial
+                                         Adaptation in Midlife Adults and in Students
+
+                                         Dan P. McAdams
+                                         Jeffrey Reynolds
+                                         Martha Lewis
+                                         Northwestern University
+                                         Allison H. Patten
+                                         Vanderbilt University
+                                         Phillip J. Bowman
+                                         University of Illinois at Chicago
+
+
+                                         Midlife adults (age 35 to 65) and college undergraduates pro-                      quence, the storyteller depicts a transformation from a
+                                         vided lengthy, open-ended narrative accounts of personally                         bad, affectively negative life scene to a subsequent good,
+                                         meaningful episodes from the past, such as life-story high points,                 affectively positive life scene. The bad is redeemed, sal-
+                                         low points, turning points, and earliest memories. The oral                        vaged, mitigated, or made better in light of the ensuing
+                                         (adult) and written (student) narratives were coded for redemp-                    good. By contrast, a contamination sequence involves
+                                         tion and contamination imagery. In the midlife sample, adults                      the move from a good, affectively positive life scene to a
+                                         scoring high on self-report measures of generativity showed sig-                   bad, affectively negative life scene. The good is spoiled,
+                                         nificantly higher levels of redemption and lower levels of contam-                 ruined, contaminated, or undermined by what follows it.
+                                         ination sequences. In both samples, redemption sequences in life                      Redemption and contamination sequences were ini-
+                                         narrative accounts were positively associated with self-report                     tially described by McAdams, Diamond, de St. Aubin,
+                                         measures of psychological well-being, whereas contamination                        and Mansfield (1997) in their examination of the life sto-
+                                         sequences predicted low levels of well-being among midlife                         ries of highly generative adults; that is, adults with a
+                                         adults. In addition, redemption sequence scores were a stronger                    strong concern for and commitment to promoting the
+                                         predictor of well-being than were ratings of the overall affective                 well-being of youth and the next generation. In that
+                                         quality of life-narrative accounts. The results are discussed with                 interview study, McAdams et al. (1997) showed that
+                                         respect to the empirical literature of benefit-finding in the face of              highly generative adults (those scoring high on a set of
+                                         adversity and in the context of the recent upsurge of interest in                  objective indices assessing individual differences in
+                                         the collection and interpretation of life narratives.
+                                                                                                                            Authors’ Note: This research was supported by grants to the first au-
+                                                                                                                            thor from The Spencer Foundation and from the Foley Family Founda-
+
+                                         T   he purpose of this investigation is to identify two dis-
+                                                                                                                            tion to establish the Foley Center for the Study of Lives. The authors
+                                                                                                                            would like to thank Jay Azarow, Manini Bhakti, Irene Carvalho,
+                                         tinctive narrative forms or strategies that people employ                          Jennifer Goldberg, Holly Hart, Kenya Key, Amy Kegley, Erin Kennedy,
+                                         in constructing their life stories and to document empir-                          David McConville, Derek McNeil, and Nathania Montes for their assis-
+                                                                                                                            tance in data collection, coding, and analysis. Correspondence con-
+                                         ical associations between these two narrative strategies
+                                                                                                                            cerning this article should be addressed to Dan P. McAdams, Foley
+                                         on one hand and indices of psychosocial adaptation on                              Center for the Study of Lives, Northwestern University, 2115 North
+                                         the other. The two strategies concern how people make                              Campus Drive, Evanston, IL 60208; e-mail: dmca@nwu.edu.
+                                         narrative sense of personal experiences that entail signif-                        PSPB, Vol. 27 No. 4, April 2001 474-485
+                                         icant transformation in affect. In a redemption se-                                © 2001 by the Society for Personality and Social Psychology, Inc.
+
+                                                                                                                      474
+
+                                                                                      Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+                                                          McAdams et al. / REDEMPTION AND CONTAMINATION                                475
+
+
+generativity) were significantly more likely than less-                       ing the reconstructed past, perceived present, and antic-
+generative adults to narrate their lives in ways that more                    ipated future. More than traits, motives, values, and so
+closely resembled the overall form of a commitment                            on, life stories function to establish identity (McAdams,
+story. In the prototypical commitment story, the protago-                     1985), in that a story is the best available structure that
+nist (a) enjoys an early family blessing or advantage, (b) is                 persons have for integrating and making sense of a life in
+sensitized to others’ suffering at an early age, (c) is                       time (Bruner, 1990; Sarbin, 1986). Thus, Domain 3 in
+guided by a clear and compelling personal ideology that                       personality is the domain of identity.
+remains relatively stable over time, (d) sets goals for the                      Individuals’ life stories, or identities, are based on the
+future to benefit society, and (e) transforms or redeems                      facts of their lives, but life stories are not synonymous
+bad scenes into good outcomes (redemption sequence).                          with those facts, because making one’s life into a story is
+The redemption sequence, therefore, was identified as                         as much an act of imagination as is the production of fic-
+one of five central features of the commitment story.                         tion, poetry, and art (Cohler, 1982). Beginning in late
+McAdams et al. (1997) also coded the opposite                                 adolescence and young adulthood, most people in mod-
+sequence, that is, when good things turn bad, terming it                      ern societies formulate initial narrative understandings
+a “contamination sequence” (after Tomkins, 1987).                             of themselves and their roles in society to provide their
+Highly generative adults were significantly less likely                       lives with a semblance of unity and purpose and establish
+than less-generative adults to narrate their lives via con-                   a meaningful psychosocial niche (McAdams, 1985,
+tamination sequences.                                                         1993). The process of identity-making through life
+    Generativity is one index of psychosocial adaptation                      story–construction continues throughout most of the
+in the midlife years (Erikson, 1963). The findings from                       adult life course as people refashion their internalized
+McAdams et al. (1997), therefore, suggest that redemp-                        narratives of self to accommodate various on-time and
+tion and contamination sequences in life narrative may                        off-time changes in life. The process is profoundly
+be implicated in psychosocial adaptation in adulthood.                        shaped by the cultural rules and traditions concerning
+Might these styles of narrating one’s life story be likewise                  good lives and good stories to which the person is
+associated with measures of life satisfaction, self-esteem,                   exposed (Denzin, 1989). Thus, a life story exists as a
+and depression? The current investigation seeks to repli-                     psychosocial construction (McAdams, 1996), reflecting
+cate the association between generativity and narrative                       an individual’s narrative understanding of self in cul-
+styles in a new sample of midlife adults and to extend the                    ture, an understanding that itself is jointly authored by
+inquiry to examine assessments of subjective well-being                       the individual himself or herself and by the wide variety
+among both midlife adults and college undergraduates.                         of cultural influences providing the historical, religious,
+This investigation, then, focuses on the relation between                     ethical, economic, and political contexts within which
+the psychosocially constructed autobiographical self                          the individual’s life is situated.
+(Singer & Salovey, 1993) and the psychosocial quality of                         According to Tomkins (1987), an important individ-
+life among young and middle-age adults.                                       ual difference in life stories (what Tomkins termed
+Personality and the Life Story                                                “scripts”) is the ratio in the density of positive to negative
+                                                                              affect expressed in reconstructed life scenes over time.
+    The current study follows McAdams’s (1994, 1996)                          Limitation-remediation scripts link together scenes in
+framework for understanding the relation between life                         which negative affect promises to give way to positive,
+stories and personality. McAdams argued that personal-                        whereas contamination scripts link together scenes in
+ity is best conceived as a loose assemblage of constructs                     which positive affect gives way to negative. A limitation-
+situated in three different domains—the domains of (a)                        remediation script begins with an “imperfect” state of
+dis- positional traits, such as those subsumed within the                     affairs—a negative-affect situation, wherein the protago-
+Big Five framework (McCrae & Costa, 1990); (b) con-                           nist of the story must suffer in some way (Tomkins, 1987,
+textualized concerns and adaptations, such as life goals,                     p. 166). Over time, the protagonist seeks to undo the suf-
+developmental tasks, defenses, motives, strategies, skills,                   fering, improve or redeem the situation, and move for-
+and values; and (c) integrative and internalized life sto-                    ward to a positive-affect state. Along the way to redemp-
+ries. In simple terms, the traits of Domain 1 provide a                       tion, the protagonist may absorb a great deal of negative
+dispositional signature of a person; the contextualized                       affect, but the hope for and anticipation of an ultimate
+constructs of Domain 2 provide the texture and richness                       reward keep the protagonist going. In sharp contrast, a
+needed to understand human individuality in specific                          contamination script entails movement from positive to
+terms; and the life stories of Domain 3 specify how an                        negative affect. Tomkins (1987) described a wide variety
+individual provides his or her life with overall meaning,                     of such moves in narrative, but all have in common a
+unity, and purpose. A life story is an individual’s internal-                 sense that something clearly positive has been irrevoca-
+ized narrative rendering of his or her life in time, entail-                  bly spoiled or ruined. The protagonist may seek to undo
+
+
+
+                                        Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+476    PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+
+the damage and reexperience the initial state of good-                          emphasize benevolence over malevolence, meaningfulness
+ness, but such efforts are doomed to failure, or at best                        over randomness, and self-worth over self-abasement”
+half-successes. Tomkins wrote that in a contamination                           (p. 133). Therefore, similar to the limitation-
+sequence, although the protagonist                                              remediation scripts identified by Tomkins (1987),
+                                                                                construals of benefits amid the adversity of illness or
+                                                                                trauma provide hope and sustain anticipations of a
+  may win battles she loses the war, though she may see the
+                                                                                positive-affect future. These kinds of adaptive construals
+  promised land she may never live in it. Her great benefits
+                                                                                would appear to suggest the enactment of life narratives
+  are paid for with great suffering and at great risk, which
+  she has no choice but to accept for the benefits she can                      of personal redemption, narratives that themselves may
+  neither permanently possess nor renounce. (p. 168)                            be associated with better overall adaptation.
+
+Coping With Adversity                                                           The Current Investigation
+                                                                                   Whereas research on benefit-finding focuses on the
+    The relation between suffering and benefits is high-
+                                                                                aftermath of especially adverse events in people’s lives,
+lighted in a growing empirical literature on how people
+                                                                                the current investigation gives individuals wide latitude
+cope with naturally occurring negative events in their
+                                                                                to narrate many different kinds of significant scenes
+lives, including a number of studies examining the extent
+                                                                                from their past. The researchers then code the
+to which people interpret negative events in ways that
+                                                                                open-ended narrative accounts for redemption and con-
+suggest that benefits may come out of adversity (Affleck &
+                                                                                tamination sequences as they occur naturally and spon-
+Tennen, 1996; Taylor, 1983). Whereas a negative life
+                                                                                taneously in life stories. The investigation examines the
+event—involving, say, illness, trauma, or bereavement—
+                                                                                adaptational implications for individuals of narrating
+may bring considerable pain and misfortune, many peo-
+                                                                                one’s life in terms of redemption and contamination
+ple will conclude that something good came or will come
+                                                                                sequences.
+from the adversity. The take-home message from the
+                                                                                    The first study focuses on life-story interviews col-
+empirical literature on benefit-finding is that people
+                                                                                lected from 74 midlife adults, approximately half of
+who perceive benefits in adversity tend to show better
+                                                                                whom scored very high on measures of generativity and
+recovery from and adjustment to the negative events that
+                                                                                half of whom scored low. Self-report measures of life sat-
+brought them the adversity in the first place. For exam-
+                                                                                isfaction, self-esteem, depression, and sense of coher-
+ple, empirical evidence suggests that benefit-finding
+                                                                                ence also are administered. The researchers code eight
+relates to less negative affect in cancer patients
+                                                                                key scenes in the interviews for redemption and contam-
+(Wollman & Felton, 1983), less depression and greater
+                                                                                ination sequences and relate those scores to the assess-
+meaningfulness in life in stroke victims (Thompson,
+                                                                                ment of generativity and the measures of well-being. In
+1991), less psychological distress in infertile women
+                                                                                the second study, 125 college students provide extended
+(Abbey & Hallman, 1995; Tennen, Affleck, & Mendola,
+                                                                                written accounts of 10 key scenes in their lives, which are
+1991), superior psychological adjustment in women with
+                                                                                coded for redemption sequences and for overall affec-
+breast cancer (Taylor, Lichtman, & Wood, 1984), and
+                                                                                tive quality. These life-narrative indices are then corre-
+less mood disturbance and intrusive thoughts in moth-
+                                                                                lated with a battery of self-report measures assessing
+ers of acutely ill newborns (Affleck, Tennen, & Gersh-
+                                                                                well-being in life.
+man, 1985).
+    Survivors of illness and trauma often report increased
+                                                                                STUDY 1
+self-reliance and broader self-understanding, enhanced
+self-disclosure and emotional expressiveness in relation-                          In an intensive examination of lengthy life-story
+ships, and a changed philosophy of life (Tedeschi &                             accounts provided by 40 highly generative and 30
+Calhoun, 1995). Major setbacks in life can challenge a                          less-generative adults, McAdams et al. (1997) found that
+person’s assumptive world, but benefit-finding can help                         among the thematic differences revealed in the two
+to reconstitute that world by specifying an anticipated                         groups of life stories was a greater preponderance of
+redemption sequence wherein bad events are expected                             redemption sequences in the stories produced by the 40
+to give way to good outcomes. According to Tedeschi                             adults high in generativity. Study 1 serves as a replication
+and Calhoun, those good outcomes often manifest                                 and extension of McAdams et al. (1997). The study
+themselves as growth in one or more of three different                          assesses the extent to which two contrasting groups of
+areas: (a) changes in self, (b) changes in relationships                        midlife participants—one chosen by virtue of high
+with others, and (c) changes in philosophy of life and                          scores on measures of generativity and one chosen by vir-
+spiritual/existential beliefs. According to Janoff-Bulman                       tue of especially low scores—show different patterns of
+(1992), “By engaging in interpretations and evaluations                         redemption and contamination in their life narrative
+that focus on the benefits and lessons learned, survivors                       accounts. Approximately half of the participants, fur-
+
+
+
+                                         Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+                                                         McAdams et al. / REDEMPTION AND CONTAMINATION                              477
+
+
+thermore, are African American and half are White, as                        logical well-being (Cole & Stewart, 1996; Keyes & Ryff,
+part of a larger investigation of generativity among Black                   1998; McAdams, Hart, & Maruna, 1998).
+and White Americans (Hart, McAdams, Hirsch, & Bauer,                            The GBC contains 50 items phrased as behavioral
+in press). In addition, the study tests the hypothesis that                  acts, of which 40 are deemed to be acts suggestive of
+redemption sequences should be positively associated                         generativity (e.g., “taught somebody a skill,” “read a story
+and contamination sequences negatively associated with                       to a child,” “donated blood,” “produced a piece of art or
+indices of subjective well-being among adults. The                           craft”) and 10 are neutral filler acts (e.g., “went to a
+hypothesis is consistent with the research on benefit-                       party”). On the behavior checklist, the participant
+finding amid trauma and illness (Affleck & Tennen,                           responds to each act by specifying how often during the
+1996) and flows logically from the depiction of the                          previous 2 months he or she had performed the given
+redemption sequence as a narrative form that sustains                        act. The participant marks “0” if the act has not been per-
+hope and commitment (McAdams et al., 1997; Tomkins,                          formed during the previous 2 months, “1” if the act has
+1987).                                                                       been performed once during that period, and “2” if the
+                                                                             act has been performed more than once during the pre-
+Method                                                                       vious 2 months. Individual act scores are summed across
+   Participants. Study 1 employs interview data from a                       the 40 generativity items to arrive at a total score for
+sample of 74 adults who participated in a large research                     generativity acts. Previous research has indicated that
+project examining generativity among African Ameri-                          generativity act scores correlate significantly with scores
+can and Anglo-American adults (Hart et al., in press). All                   on the LGS and other measures of generativity
+269 participants in the original project were between the                    (McAdams & de St. Aubin, 1992; McAdams et al., 1993).
+ages of 35 and 65 and reported an annual family income                          To assess generativity strivings or goals, the study
+of less than $100,000 at the time of the study (1995 or                      employed the personal strivings procedure devised by
+1996). They completed a large packet of measures exam-                       Emmons (1986) and used in previous research on
+ining demographics, parenting, friendships and social                        generativity (McAdams et al., 1998). Participants were
+support, political and religious involvements, and com-                      asked to write a sentence describing each of 10 personal
+munity volunteerism, as well as measures of generativity                     strivings. The responses were coded by two independent
+and well-being. Out of the original participant pool, 74                     scorers, blind to identifying information on the partici-
+adults were individually interviewed in a second part of                     pants, for generativity goals, according to a procedure
+the original investigation. The 74 adults were chosen to                     used in McAdams et al. (1993). Interscorer reliability was
+be interviewed by virtue of their scores on three different                  r = .83.
+measures of generativity: the Loyola Generativity Scale                         To arrive at two contrasting subsamples of adults, one
+(LGS) (McAdams & de St. Aubin, 1992), the Generative                         scoring especially high and one especially low on
+Behavior Checklist (GBC) (McAdams & de St. Aubin,                            generativity, the researchers called back participants
+1992), and Generative Strivings (McAdams, de St.                             who scored at least 1 standard deviation above or 1 stan-
+Aubin, & Logan, 1993).                                                       dard deviation below the mean on at least two of the
+                                                                             three generativity measures. These individuals were
+   The LGS is a 20-item self-report scale designed to
+                                                                             asked to participate in a life-story interview. The proce-
+measure individual differences in generative concern,
+                                                                             dure netted 40 adults high in generativity (21 Black and
+or the adults’ conscious concern for having a positive
+                                                                             19 White) and 34 low in generativity (14 Black and 20
+effect on the next generation. The scale includes such
+                                                                             White). Of the 74 participants, 40 were women (54%)
+items as “I try to pass along knowledge I have gained
+                                                                             and 34 were men (46%). Table 1 provides a demo-
+through my experience” and “I feel as though my contri-
+                                                                             graphic breakdown for the two groups. As can be seen,
+butions will exist after I die.” The scale shows high inter-
+                                                                             the two generativity groups did not differ significantly on
+nal consistency (Cronbach’s alphas of .82 and .83) and
+                                                                             age, income, or education levels. However, the highly
+adequate test-retest reliability (.73 over a 3-week span)
+                                                                             generative adults were more likely to be in intact mar-
+(McAdams & de St. Aubin, 1992). LGS scores have been
+                                                                             riages (70%) compared with the adults in the low-
+shown to be positively correlated with measures of gener-
+                                                                             generativity sample (47%), although the difference only
+ative acts, strivings for generativity in daily life, and
+                                                                             approached statistical significance, 2(1) = 3.08, p < .10.
+themes of generativity in autobiographical recollections
+(McAdams & de St. Aubin, 1992; McAdams et al., 1993),                           Redemption and contamination sequences. The 74 partici-
+as well as with Q-sort ratings depicting a highly genera-                    pants were each interviewed according to McAdams’s
+tive person as determined in interviews (Himsel, Hart,                       (1985) life-story technique. The interview begins by ask-
+Diamond, & McAdams, 1997), with behaviors indicative                         ing the participant to think about his or her life as if it
+of constructive parenting and prosocial community                            were a book and to divide the book into chapters. Next,
+involvement, and with self-report measures of psycho-                        the participant is asked to describe eight specific scenes
+
+
+
+                                       Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+478      PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+
+TABLE 1:      Characteristics of Two Groups in Study 1                                    changes into a positive situation of sobriety and happi-
+                                       High Generativity Low Generativity                 ness. An example of the second form would be a story of
+                                                                                          a person’s suffering through the death of a spouse and
+N                                      40                    34                           then finding later that the process of coping with the
+Female/male                            21/19                 19/15
+                                                                                          grief has made him or her a stronger or more compas-
+Black/White                            21/19                 14/20
+Mean age                               51.3 (8.58)           48.0 (8.60)                  sionate person. In this instance, the negative event
+Median family income                   $50-60K               $40-50K                      (death) is not changed in any way but a positive outcome
+                a
+Education level                        4.08                  3.70                         nevertheless comes from the negative. Note that the pos-
+Percentage currently married           70                    47                           itive outcome need not be stronger in magnitude than
+Loyola Generativity Scale              49.6 (3.99)           30.9 (4.44)***
+                                                                                          the negative event. Redemption sequences occur even in
+Generative Behavior Checklist          36.3 (10.0)           26.0 (9.1)***
+Generative Strivings                   3.6 (2.0)             1.8 (1.3)***                 situations in which a relatively catastrophic event (e.g.,
+                                                                                          death, destruction) results in what may be seen as a rela-
+NOTE: Standard deviations are in parentheses.                                             tively minor positive outcome (e.g., improvement in atti-
+a. Education level was coded on a 5-point scale where 1 = below high
+school, 2 = high school graduate, 3 = some college, 4 = college degree (bache-
+                                                                                          tude, financial security). The scorers assigned one point
+lor’s), and 5 = master’s degree or higher graduate degree.                                to an account containing a redemption sequence as
+***p < .001 for difference between group means.                                           defined above.
+                                                                                              If the account received one point for redemption
+                                                                                          imagery, then the scorers moved on to consider three
+in the story: high point (peak experience), low point                                     supplementary subcategories, each of which received
+(nadir experience), turning point, earliest memory,                                       one point for its presence or no points for absence. The
+important childhood scene, important adolescent                                           three supplementary themes are viewed as bonus points
+scene, important adult scene, and other important                                         to be added for especially compelling or powerful
+scene. Following the eight scenes, the participant moves                                  redemption accounts. The three were derived from
+through a series of sections and questions concerning                                     Tedeschi and Calhoun’s (1995) conceptualization of
+important characters in the story, future chapters, fun-                                  posttraumatic growth. According to these researchers,
+damental beliefs and values, and life-story motifs and                                    people often report positive growth in three different
+messages. The interview requires approximately 2 hours                                    areas following personal catastrophes: (a) self, (b) rela-
+to complete. Each taped interview was transcribed                                         tionships, and (c) spiritual/religious beliefs. For the cur-
+verbatim.                                                                                 rent study, three corresponding subcategories for
+   Coding for redemption and contamination                                                redemption were developed: (a) enhanced agency, (b)
+sequences focused on the eight key life-story scenes. For                                 enhanced communion, and (c) ultimate concerns.
+each scene, the participant was asked to provide a full                                       Corresponding to Tedeschi and Calhoun’s category
+narrative account of exactly what happened in the scene,                                  of growth in self, enhanced agency was defined as the
+who was involved, what he or she was thinking and feel-                                   participant’s explicit report of enhanced self-efficacy,
+ing at that time, and what, if anything, the scene says                                   strength, confidence, or self-understanding that directly
+about his or her life (in other words, what the scene may                                 resulted from the change from negative to positive affect
+mean in the context of the overall life story). Each of the                               state. The coder added one point to the redemption
+eight accounts was coded for redemption sequences by                                      score if the respondent explicitly reported that as an
+two independent coders.                                                                   additional result of the move from negative to positive in
+   A redemption sequence was defined as an explicit                                       the account, he or she experienced enhanced personal
+transformation in the story from a decidedly negative-                                    agency. For example, an account in which the protago-
+affect state to a decidedly positive-affect state. Evidence                               nist moves from an addicted to a recovered state with
+for the negative state had to be clear and explicit. The                                  respect to alcohol would code for redemption imagery.
+participant needed to describe some situation, period,                                    If in addition to the recovery the respondent reported
+or event in life in which he or she suffered in some way                                  that he or she experienced enhanced personal agency as
+and experienced pain, fear, sadness, anguish, and so on.                                  a result (e.g., I became a stronger person; I became more
+To score for a redemption sequence, furthermore, the                                      effective in the workplace), the account would receive a
+decidedly negative situation needed either (a) to change                                  second point, for enhanced agency. Corresponding to
+into a decidedly positive situation or (b) to produce a                                   their category of relationships, communion enhance-
+positive outcome of some kind. An example of the first                                    ment was defined as the participant’s explicit report of
+type of redemption sequence would be a story of a per-                                    enhanced interpersonal intimacy, love, friendship, car-
+son’s sinking into alcoholism and then making a deci-                                     ing, or feeling a sense of community with others that
+sion to give up drinking, which subsequently improved                                     directly resulted from the change from negative to posi-
+his or her life. The negative situation of alcoholism                                     tive affect state. As in the case of enhanced agency, this
+
+
+
+                                                   Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+                                                           McAdams et al. / REDEMPTION AND CONTAMINATION                              479
+
+
+subcategory was scored as +1 only when enhanced com-                           (1987) 29-item scale, which measures the extent to
+munion was reported as an additional benefit resulting                         which a person feels that the challenges faced in life are
+from the redemptive move in the story. Corresponding                           comprehensible, manageable, and meaningful. Persons
+to spiritual/religious beliefs, the category of ultimate                       who score high on SOC are able to comprehend and
+concern referred to the participant’s description of tran-                     make sense of life challenges, are able to cope with the
+scendent or spiritual meaning associated with the                              challenges and manage effectively the attendant stress,
+change from negative to positive affect state or of any                        and find these challenges to be meaningful and reward-
+confrontation with fundamental existential issues,                             ing. Evidence for reliability and construct validity of this
+including death.                                                               scale is reported in Frenz, Carey, and Jorgensen (1993).
+   Two independent coders, blind to identifying infor-
+mation on each subject, scored each of the eight nar-                          Results and Discussion
+rated episodes described by each of the 74 participants
+                                                                                   Total scores on redemption sequences summed across
+for redemption imagery. Correlating their independent
+                                                                               the eight scenes ranged from 0 to 11 (M = 2.92, SD =
+total scores (summed across the eight key scenes) for
+                                                                               2.88). Contamination sequence scores summed across
+each subject resulted in a reliability coefficient for
+                                                                               the eight scenes ranged from 0 to 6 (M = 1.20, SD = 1.12).
+redemption coding of +.84.
+                                                                               As might be expected, narrative accounts of turning
+   Contamination sequences were scored in a manner
+                                                                               point events showed the highest levels of redemption
+similar to that used for the primary category of redemp-
+                                                                               sequences, followed by high points and low points. Earli-
+tion sequences. Each of the eight scenes was coded for
+                                                                               est memories showed the lowest scores. Interestingly,
+the presence (score +1) or absence (score 0) of a move in
+                                                                               turning point accounts showed relatively low scores for
+the narrative account from a clearly positive scene to a
+                                                                               contamination sequences. Instead, the move from posi-
+very negative outcome. To receive a score of +1 for con-
+                                                                               tive to negative affect states showed up most commonly
+tamination, the account had to explicitly state that the
+                                                                               in narrative accounts of low-point events and adolescent
+beginning of the episode in question was affectively posi-
+                                                                               events, followed by high points, childhood memories,
+tive and that this positive state was followed by a clearly
+                                                                               and earliest memories. Even in low-point events, how-
+negative outcome. Contamination sequence scores were
+                                                                               ever, contamination sequences were relatively rare.
+summed across the eight episodes to arrive at a total con-
+                                                                               Redemption imagery was much more common in these
+tamination score for the eight scenes, ranging hypotheti-
+                                                                               life-narrative interviews than was contamination imag-
+cally from 0 (no contamination sequences in any of the eight
+                                                                               ery. Total scores on redemption and contamination
+scenes) to 8 (each of the eight showed a contamination
+                                                                               sequences were significantly, although modestly, nega-
+sequence). Scoring reliability for two independent coders,
+                                                                               tively associated, r(72) = –.25, p < .05.
+blind to identifying information on the subjects, was
+                                                                                   As a replication of McAdams et al. (1997), the first
++.79. Disagreements between the coders were resolved
+                                                                               hypothesis of Study 1 was that highly generative adults
+by a third trained coder who was blind to identifying
+                                                                               should construct life-narrative scenes with higher levels
+information on the participants.
+                                                                               of redemption imagery and lower levels of contamina-
+   Well-being. Four measures of overall well-being were                        tion imagery compared with adults who are low in
+employed, assessing satisfaction with life, self-esteem,                       generativity. The hypothesis was strongly confirmed.
+depression, and sense of coherence in life. The Satisfac-                      Adults in the high-generativity group constructed
+tion With Life Scale (SWLS) is a 5-item scale designed to                      life-narrative scenes whose redemption scores were
+assess overall satisfaction with life (Diener, Emmons,                         more than 4 times as high as the redemption scores
+Larson, & Griffin, 1985). Self-esteem was assessed                             obtained for life-narrative scenes constructed by
+through six items drawn from the Rosenberg (1965)                              low-generativity adults. Conversely, low-generativity
+Self-Esteem Questionnaire. Depression was assessed                             adults constructed life-narrative scenes with contamina-
+with the Center for Epidemiologic Studies Depression                           tion scores more than 2 times as high as those obtained
+Scale (CES-D). The CES-D contains 20 items assessing                           from the life-narrative scenes produced by high-
+depressive symptoms. For each item, the participant                            generativity adults. A series of three-way ANOVAs was
+responds on a 4-point scale concerning the extent to                           conducted, using generativity group (high vs. low), gen-
+which he or she has felt the particular affective expres-                      der, and race/ethnicity (Black vs. White) as independ-
+sion described (e.g., “I felt fearful,” “I had crying spells”)                 ent grouping variables and the narrative theme scores as
+during the past week. The CES-D is a widely used and                           dependent variables. Main effects for generativity group
+well-regarded instrument in survey studies of stress and                       were highly significant in all of the analyses, F(1, 66) =
+coping and psychological well-being among adults                               37.69, p < .001, for total redemption scores; F(1, 66) =
+(Lewinsohn, Seeley, Roberts, & Allen, 1997). Sense of                          31.04, p < .001, for redemption imagery; F(1, 66) = 12.68,
+Coherence (SOC) was assessed according to Antonovsky’s                         p < .01, for the subcategory of enhanced agency; F(1,
+
+
+
+                                         Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+480    PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+
+66) = 14.48, p < .001, for the subcategory of enhanced                        TABLE 2:          Correlations Between Life Narrative Themes and Psy-
+                                                                                                chological Well-Being in Study 1
+communion; F(1, 66) = 15.02, p < .001, for the subcate-
+gory of ultimate concerns; and F(1, 66) = 9.88, p < .01, for                                                    Life
+total contamination sequences. No other significant                           Narrative Themes              Satisfaction   Self-Esteem   Coherence Depression
+main effects or interaction effects were obtained.
+                                                                              Redemption                          .37**       .28*         .33**     –.32**
+    Table 2 shows correlations between redemption and                           Imagery                           .36**       .29*         .33**     –.31**
+contamination scores on one hand and self-report mea-                           Agency                            .31**       .20          .23       –.21
+sures of psychological well-being on the other. As pre-                         Communion                         .31**       .17          .27*      –.23
+dicted, redemption scores in life-narrative episodes were                       Ultimate                          .15         .11          .13       –.19
+                                                                              Contamination                      –.40***     –.56***      –.46***     .49***
+significantly associated with all four measures of psycho-
+logical well-being, from a high of r = +.37 (p = .001) for                    *p <.05. **p < .01. ***p < .001.
+satisfaction with life to a low of r = .28 (p < .05) for
+self-esteem. Contamination sequence scores strongly
+predicted depression (r = .49, p < .001) and were strongly                    overall psychosocial adaptation in the mid-adult years
+negatively associated with self-esteem (r = –.56, p < .001)                   (Erikson, 1963; Keyes & Ryff, 1998).
+and sense of coherence (r = –.46, p < .001). The same pat-                        The current data show that midlife adults reporting
+terns of results were obtained when analyzing the data                        high levels of adaptation construct life narratives that
+separately for men and women and separately for Black                         emphasize the transformation of negative events into
+and White respondents. In the overall, then, redemp-                          positive outcomes, whereas adults low in adaptation are
+tion sequences in life narratives were positively associ-                     relatively more likely to construct life narrative scenes in
+ated, and contamination sequences in life narratives                          which highly positive states give way to negative outcomes.
+were negatively associated, with self-report psychological                    Although strongly related to self-report assessments of
+well-being.                                                                   generativity and psychological well-being, redemption
+    The results on self-esteem bear some further atten-                       and contamination sequences in life-narrative scenes
+tion. Research suggests that people high in self-esteem                       prove to be unrelated to gender and race/ethnicity. In
+are not immune to experiencing negative events in their                       simplest terms, the results might be interpreted as show-
+lives (Blaine & Crocker, 1993), but individuals high in                       ing that happy and well-functioning people tell happy
+self-esteem may manage to interpret these negative                            stories about their lives. However, although it is true that
+events in relatively positive terms. These kinds of                           redemption sequences affirm hope and positive affect,
+redemptive interpretations, in turn, may help to                              they also contain within them a good deal of negative
+enhance high levels of self-esteem. It is also worth noting                   affect. For an episode to score for redemption, the move
+that contamination sequences were most strongly nega-                         to positive affect must be preceded by what is, at mini-
+tively related to self-esteem, suggesting that individuals                    mum, a highly disagreeable state. There would appear,
+with high levels of self-esteem are especially reluctant to                   therefore, to be an important conceptual difference
+recall and report negative ramifications or outcomes                          between a life-narrative scene that contains nothing but
+that may follow from generally positive events.                               positive emotion (e.g., a young woman’s wedding day,
+    As has been shown in other studies, the four                              winning a prestigious award, enjoying an afternoon at
+self-report measures of well-being employed in the cur-                       the beach) and one that codes for redemption (e.g.,
+rent study were themselves highly intercorrelated, pro-                       recovery from alcoholism, gaining autonomy after the
+viding overlapping assessments of a general tendency to                       death of one’s father, experiencing forgiveness after
+feel good about one’s life. The absolute values of the cor-                   hurting one’s spouse). The latter are much rarer in
+relations ranged from .53 to .75. In addition, the                            life-story interviews, but they might be expected to hold
+self-report measures were associated with generativity, as                    considerable power and value within the narrative
+is consistent with previous studies showing modest posi-                      (McAdams, 1993; Tedeschi & Calhoun, 1995). With this
+tive correlations between self-report psychological                           distinction in mind, the second study teases apart posi-
+well-being and self-report generativity (McAdams et al.,                      tive stories and redemptive stories to examine their dif-
+1998). In the current study, the two generativity groups                      ferential relation to psychological well-being.
+also differed significantly from each other on all four of
+the self-report measures of well-being. As a group, highly
+                                                                              STUDY 2
+generative adults were less depressed, more satisfied with
+life, showed higher levels of self-esteem, and reported                          The second study extends the examination of the
+higher levels of life coherence compared with adults in                       relation between life-narrative forms and psychosocial
+the low-generativity group. Psychological well-being and                      adaptation by examining lengthy written accounts of
+generativity are surely two key ingredients making up                         important autobiographical scenes provided by college
+
+
+
+                                       Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+                                                          McAdams et al. / REDEMPTION AND CONTAMINATION                                481
+
+
+students. Because a preliminary analysis of these written                     what, if anything, the scene may mean for the partici-
+data indicated that the college students provided very                        pant’s life story. The participants appeared to be highly
+few accounts that code for contamination sequences, the                       motivated in this exercise, typically providing lengthy
+study will focus exclusively on redemption sequences                          written accounts that extended onto the backs of the
+and the positive-affect qualities of life-narrative episodes.                 pages and sometimes even included typed inserts.
+The 10 episodes provided by each participant are each                            Each written account was coded for redemption
+coded for redemption sequences, as in Study 1, and are                        sequences in the manner described in Study 1. Two inde-
+each rated for overall affect positivity to determine the                     pendent coders, blind to information on the partici-
+emotional tone of the episode. The study pits two differ-                     pants, coded the episodes for redemption sequences;
+ent features of life narratives—redemption sequences                          interscorer reliability was r = +.80. In addition, two coders
+and emotional tone—against each other to determine                            rated each episode for overall emotional tone, paying
+which is more closely connected to psychosocial adapta-                       special attention to the extent to which the episode
+tion. To determine adaptation among college students,                         showed a happy ending. A 5-point scale was used: a rating
+the study employs the life satisfaction measure used in                       of 1 indicated extremely negative ending, very unhappy story;
+Study 1 as well as Ryff’s (1989) more differentiated                          2 indicated slightly negative ending, generally unhappy story;
+scheme for determining psychological well-being.                              3 indicated mixed or neutral or indeterminate ending, neither
+                                                                              happy nor unhappy story, or both; 4 indicated positive ending,
+Method                                                                        generally happy story; and 5 indicated very positive ending,
+    The participants were 125 undergraduate students                          extremely happy story. Interscorer reliability was r = +.89.
+enrolled in two personality psychology courses taught at                         As in Study 1, the SWLS (Diener et al., 1985) was used.
+Northwestern University in the fall of 1997. Students par-                    In addition, the participants completed an 84-item ver-
+ticipated in the study for extra course credit. Participants                  sion of Ryff’s (1989) measure of psychological
+ranged in age from 18 to 24 years (M = 19.8 years). The                       well-being, which provides well-being scores on six
+study included 89 women, 35 men, and 1 respondent                             dimensions: autonomy, environmental mastery, per-
+who did not indicate gender.                                                  sonal growth, positive interpersonal relationships, pur-
+    The participants each completed a booklet of measures                     pose in life, and self-acceptance.
+and questionnaires, requiring between 3 and 6 hours of                        Results and Discussion
+time. Each student took the booklet home and com-
+pleted the questionnaires in his or her free time, return-                       A series of t tests showed no significant gender differ-
+ing the booklets to the course instructor at the end of a                     ences for any of the variables measured. The measures of
+2-week period. Included within the booklet were instruc-                      psychological well-being were all significantly
+tions for describing 10 key scenes in one’s life story, the                   intercorrelated. The SWLS correlated +.71 with the total
+SWLS (Diener et al., 1985), and Ryff’s (1989) six-scale,                      mean score of Ryff’s psychological well-being. Within
+self-report measure of psychological well-being.                              Ryff’s six-scale system, intercorrelations tended to fall
+    A large section of the booklet was modeled on aspects                     between +.35 and +.50, ranging from a low of +.20 (p <
+of the Life Story Interview employed in Study 1. In this                      .05) between autonomy and positive relationships to a
+section, the participant was asked to describe in detail a                    high of +.67 (p < .001) between environmental mastery
+particular scene in his or her life. Ten scenes were                          and self-acceptance. With respect to narrative measures,
+included: life story high point, low point, turning point,                    redemption sequences and emotional tone were modestly
+episode of continuity, earliest memory, important child-                      but significantly positively associated, r = +.27, p < .01.
+hood scene, important adolescent scene, morality scene,                          Table 3 shows correlations between narrative mea-
+decision-making scene, and goal scene. Six of the scenes                      sures on one hand and self-report measures of well-being
+were drawn from the eight used in Study 1, whereas four                       on the other. In general, the redemption sequence total
+new scenes were introduced: (a) an episode of continu-                        scores and the emotional tone scores were positively
+ity (a scene that displays something about the self that is                   associated with self-report well-being. Redemption
+continuous and stable), (b) a morality scene (an event in                     sequences were significantly associated with satisfaction
+which the participant faced a moral dilemma), (c) a                           with life (r = +.42, p < .001), with the total score on Ryff’s
+decision-making scene (an event in which the partici-                         differentiated measure of well-being (r = +.35, p < .001),
+pant made an important decision), and (d) a goal scene                        and with five of the six individual scales making up Ryff’s
+(an event connected to an important goal that the partic-                     total. Two of the four individual scoring categories for
+ipant has set out for the future). For each scene, the par-                   redemption sequences tended to show positive and sig-
+ticipant was provided with a full page on which to write                      nificant associations with well-being on their own
+the description of the scene, describing what happened,                       (redemption imagery and enhanced agency), whereas
+what he or she was thinking and feeling in the scene, and                     the two other categories showed weak relationships over-
+
+
+
+                                        Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+482     PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+
+TABLE 3:    Correlations Between Life Narrative Measures and Well-Being in Study 2
+
+                                                          Ryff’s Psychological Well-Being
+                      Autonomy        Mastery             Relations             Growth               Purpose           Self-Acceptance   Total     SWLS
+
+Redemption (total)       .13            .27**                 .25**                .18*                 .32**               .37***        .35***    .42***
+  Imagery                .10            .29**                 .20*                 .18*                 .28**               .34***        .32***    .38***
+  Agency                 .22*           .25**                 .17                  .21*                 .23*                .32***        .32***    .35***
+  Communion              .01            .12                   .19*                 .00                  .18*                .18*          .16       .21*
+  Ultimate concerns      .00            .01                   .17                  .07                  .19*                .15           .14       .24**
+Emotional tone           .15            .26**                 .17                  .17                  .20*                .24*          .27**     .26**
+
+NOTE: SWLS = Satisfaction With Life Scale.
+*p <.05. **p < .01. ***p < .001.
+
+
+all (enhanced communion and ultimate concern). Emo-                                 narrative scenes turn out to be more robust correlates
+tional tone scores were positively associated with both                             than are the simple codings of the overall emotional
+satisfaction with life (r = .26, p < .01) and Ryff’s total score                    tone of the scenes. Focusing on the individual coding
+(r = .27, p < .01), although these correlations appear                              categories for redemption sequences, the results from
+lower in magnitude than those shown for redemption                                  Study 2 suggest that the simple determination of a turn
+sequence total scores. Emotional tone also was signifi-                             from negative to positive affect in the scene is the stron-
+cantly associated with three of Ryff’s six subscales.                               gest element of the coding scheme. Scores on redemp-
+    To determine the relative contributions of redemp-                              tive imagery itself—the primary and first of the four the-
+tion sequences and emotional tone in the prediction of                              matic categories—appear to account for the lion’s share
+psychological well-being, multiple regression analysis                              of the association with self-report psychological
+was employed. In the first equation, redemption                                     well-being. As Table 3 indicates, enhanced agency also
+sequence total scores and emotional tone total scores                               shows a pattern of positive associations, although it must
+were entered into a simultaneous regression to predict                              be remembered that this subcategory is tied to the pri-
+satisfaction with life, as assessed on the SWLS. The                                mary category in that it cannot be scored +1 unless the
+results revealed a multiple R of .47, with a highly signifi-                        primary category of redemption imagery is first deter-
+cant contribution made by redemption sequences (b =                                 mined to be +1. The other two subcategories—
+0.410, t = 4.56, p < .001). By contrast, emotional tone did                         enhanced communion and ultimate concern—are only
+not make a significant contribution to accounting for                               weakly related to well-being, despite their conceptual
+the variance in satisfaction with life (b = 0.147, t = 1.63,                        backing in the work of Tedeschi and Calhoun (1995)
+p = .11). Similarly, redemption sequences and emotional                             and their appearance in common and classical concep-
+tone were entered into a simultaneous multiple regres-                              tions of redemption worldwide (McAdams, 1993).
+sion equation to predict the overall mean score for Ryff’s
+assessment of well-being. The results in this case revealed                         GENERAL DISCUSSION
+a multiple R of .40, with a significant contribution made                               Redemption and contamination sequences are iden-
+again by redemption sequences (b = 0.310, t = 3.32, p <                             tifiable narrative forms that appear in life-story accounts.
+.01). In this case, however, emotional tone of life narra-                          When telling their life stories, people will sometimes jux-
+tive scenes also made a significant, although lower in                              tapose clearly negative events with positive outcomes
+magnitude, contribution (b = 0.186, t = 1.99, p = .05).                             (redemption sequences) and highly positive events with
+    Overall, the results suggest that themes of redemp-                             negative outcomes (contamination sequences). In two
+tion in life-narrative scenes are related to but not identi-                        samples, evidence was obtained to suggest that redemp-
+cal with the overall emotional tone of the scenes. Scores                           tion and contamination sequences in life stories are
+on the two measures, determined from coding of 10                                   meaningfully associated with independent self-reports
+life-narrative scenes provided by college students, tend                            of psychosocial adaptation. In a sample of African Amer-
+to be positively associated with each other, although at                            ican and Anglo-American adults between the ages of 35
+modest statistical levels. Both coding schemes, further-                            and 65 years, redemption sequences were significantly
+more, provide scores that are positively associated with                            more common in the interview accounts of significant
+self-report psychological well-being. But the data in                               autobiographical scenes provided by highly generative
+Study 2 suggest that those associations are somewhat                                adults compared with their less-generative counterparts.
+stronger for redemption sequences, especially in pre-                               By contrast, adults low in generativity expressed signifi-
+dicting life satisfaction as assessed on a simple 5-item                            cantly higher levels of contamination imagery in their
+scale (the SWLS), where redemption sequences in life                                accounts compared with highly generative adults. In
+
+
+
+                                             Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+                                                           McAdams et al. / REDEMPTION AND CONTAMINATION                                483
+
+
+addition, redemption sequences were positively associ-                         culties and challenges in such a way as to conclude that
+ated with self-report measures of life satisfaction,                           good things can come from very bad events in one’s life.
+self-esteem, and sense of coherence and negatively asso-                       Such a story suggests hope and progress in life and may
+ciated with depression. Contamination sequences were                           thus confer on the storyteller a general coping advan-
+positively associated with depression and negatively asso-                     tage in life (Aldwin, Sutton, & Lachman, 1996). That
+ciated with life satisfaction, self-esteem, and sense of                       such a strategy for telling one’s life story should be associ-
+coherence. The significant associations between                                ated with generativity in adulthood and well-being
+well-being and redemption were replicated in Study 2 in                        among both students and adults is a testament to the
+a sample of college students whose written accounts of                         psychosocial efficacy of this kind of life construal.
+10 significant life-story scenes were coded for redemp-                            Redemption sequences capture much of the central
+tion sequences and for emotional tone. The analysis sug-                       meaning in what Tomkins (1987) called the limitation-
+gested that redemption sequences were somewhat more                            remediation script. The limitation-remediation script,
+strongly associated with life satisfaction and Ryff’s                          with its promise of eventual redemption, is indeed an
+(1989) differentiated measure of psychological                                 ancient story type (cf. Miller & C’deBaca, 1994) that can
+well-being than was the overall emotional tone of the                          be identified in the myths of ancient Greece and in
+scenes. Encoding a marked shift from negative to posi-                         sacred stories in all the world’s major religions (James,
+tive affect, life-story scenes scoring high in redemption                      1902/1958). In contemporary American society, the
+sequences are not simply happy stories, and many happy                         story takes a wide range of forms, from tales of personal
+stories are not structured as redemption sequences.                            recovery and conversion to accounts of healing, growth,
+    The positive association between redemptive narra-                         and self-fulfillment. By contrast, the negative message of
+tives and well-being was found for both interview-based                        the contamination sequence suggests a fatalistic
+narratives of autobiographical scenes told by midlife                          approach to life in which good events are doomed to end
+adults and written narratives of autobiographical scenes
+                                                                               in failure, and actors can never summon forth the confi-
+produced by college students. Beyond the differences
+                                                                               dence that best intentions will generate fruitful out-
+between the two samples with respect to age and life
+                                                                               comes. This kind of confidence undergirds what Erikson
+experience, the two formats for data collection likely
+                                                                               (1963) called a “belief in the species” (p. 267), a faith in
+provide different kinds of data as well. In general, the
+                                                                               the worthwhileness of the human enterprise. Adults can-
+written accounts (from Study 2) were shorter and more
+                                                                               not be generative without a belief in the species, Erikson
+tightly crafted than the verbal accounts provided in
+                                                                               maintained. They cannot effectively channel their ener-
+interviews for Study 1. But the verbal accounts were
+                                                                               gies into productive work aimed at securing a better
+richer and more variegated, likely due both to the fact
+                                                                               future if they believe that bad outcomes will invariably
+that Study 1 participants, being older, had a richer auto-
+biographical store from which to sample and to the                             occur. People who see the past as good turning into bad
+greater ease with which one can provide more detail and                        are less optimistic about the present and the future for
+digression in an interview format compared to writing.                         their own lives and are less able to commit themselves to
+In addition, interviewers were free to ask questions such                      improving the lives of others in the present and the
+as “What do you think this event says about you?” These                        future.
+kinds of prompts elicited even more detail and reflec-                             The current study views redemption and contamina-
+tion for many participants in Study 1, increasing the dis-                     tion sequences as narrative strategies for the making of
+parity between the two samples with respect to the over-                       identity (McAdams, 1985, 1993). Identity is a life story,
+all richness and complexity of the responses.                                  and as such, it exists as a product of the imagination. But
+    With respect to redemption sequences, the findings                         life stories are not imagined out of thin air. Instead, they
+in the current study are consistent with studies on benefit-                   are based on reality as both personally known and
+finding and coping with adversity (e.g., Affleck &                             consensually validated. There exists, therefore, a com-
+Tennen, 1996; Tedeschi & Calhoun, 1995). The message                           plex relationship between what really happens in a per-
+in these studies is that when people find some positive                        son’s life and how the person chooses to remember and
+meaning amid adversity, they tend to show better adjust-                       understand it. In depicting redemption and contamina-
+ment and health down the road. Reconstructing the                              tion sequences as narrative strategies, the emphasis is on
+autobiographical past in terms of redemption sequences                         how the person chooses to construct his or her reality.
+is a narrative strategy that is similar to benefit-finding in                  But it also should be emphasized that each person’s real-
+the face of adversity. In the case of life-narrative redemp-                   ity is different in both subjective and objective senses. In
+tion sequences, however, the person narrating his or her                       this regard, one also may argue that a person chooses,
+life story is not necessarily facing a difficult life challenge                for example, to narrate particular events in his or her
+in the present. Rather, he or she is interpreting past diffi-                  past in a redemptive manner because that is indeed how
+
+
+
+                                         Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+484    PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+
+the events transpired: Bad things led to good things at                       the objective past and differences in the styles and man-
+the time.                                                                     ners in which people choose to make narrative sense of
+   The current study cannot rule out either of the above                      life. The individual styles employed, furthermore, are
+interpretations. Indeed, it is likely that both hold some                     likely to be both the causes and the consequences of dif-
+truth. In other words, psychosocial adjustment may be                         ferent levels of psychosocial adaptation. Thus, depressed
+associated with both the use of particular narrative strat-                   people may be especially prone to narrating life in con-
+egies for making sense of the past and the fact of having                     tamination terms, and the tendency to narrate life via
+experienced certain kinds of events in the past. The first                    contamination sequences may exacerbate depression
+explanation emphasizes the sense in which life narration                      itself and undermine satisfaction with life. Future
+is a psychologically meaningful reconstruction of the                         research is needed to uncover the many different narra-
+past, whereas the second underscores the fact that real                       tive strategies and forms that people bring to the con-
+events in the past may have long-term influences on such                      struction of the personal past and the consequences that
+things as adult generativity and psychological well-being.                    these different strategies and forms have for psychologi-
+McAdams (1996; McAdams et al., 1997) views life stories                       cal health, maturity, and happiness.
+as psychosocial constructions that are jointly authored
+by the individual whose life is being told and the culture                    REFERENCES
+within which the individual lives, from which he or she
+                                                                              Abbey, A., & Hallman, L. (1995). The role of perceived control, attribu-
+gathers the narrative resources and frameworks that                               tions, and meaning in members of infertile couples’ well-being.
+shape storytelling itself. Different cultures provide dif-                        Journal of Social and Clinical Psychology, 14, 271-296.
+ferent rules for how to tell a story about a life (Rosenwald                  Affleck, G., & Tennen, H. (1996). Construing benefits from adversity:
+                                                                                  Adaptational significance and dispositional underpinnings. Journal
+& Ochberg, 1992). Western societies hold certain expec-                           of Personality, 64, 899-922.
+tations about the veridicality of the past—about what                         Affleck, G., Tennen, H., & Gershman, K. (1985). Cognitive adaptations
+counts as having really happened and what else may be                             to high risk infants: The search for meaning, mastery, and protec-
+                                                                                  tion from future harm. American Journal of Mental Deficiency, 89,
+pure fabrication or myth. The current controversy over                            653-656.
+the veridicality of repressed memories demonstrates just                      Aldwin, C. M., Sutton, K. J., & Lachman, M. (1996). The development
+how much can be at stake when such cultural assump-                               of coping resources in adulthood. Journal of Personality, 64, 837-871.
+                                                                              Antonovsky, A. (1987). Unraveling the mystery of health: How people manage
+tions are challenged.                                                             stress and stay well. San Francisco: Jossey-Bass.
+   The current study is based on the assumption that the                      Blaine, B., & Crocker, J. (1993). Self-esteem and self-serving biases in
+                                                                                  reactions to positive and negative events: An integrative review. In
+participants told stories about the past that they believed                       R. Baumeister (Ed.), Self-esteem: The puzzle of low self-regard (pp. 55-86).
+to be more or less veridical. But it also assumes that a                          New York: Plenum.
+great deal of personal choice is usually involved in the                      Bruner, J. (1990). Acts of meaning. Cambridge, MA: Harvard University
+                                                                                  Press.
+telling of any autobiographical episode, especially when                      Cohler, B. J. (1982). Personal narrative and the life course. In P. Baltes &
+people are confronted with the task of choosing only a                            O. G. Brim (Eds.), Life span development and behavior (Vol. 4, pp. 205-241).
+few events from the past that signify especially important                        New York: Academic Press.
+                                                                              Cole, E., & Stewart, A. J. (1996). Meanings of political participation
+happenings and developments in their lives. Choice is                             among Black and White women: Political identity and social
+implicated not only in the selection of what particular                           responsibility. Journal of Personality and Social Psychology, 71, 130-140.
+scene to narrate but also in how to narrate the scene,                        Denzin, N. K. (1989). Interpretive biography. Newbury Park, CA: Sage.
+                                                                              Diener, E., Emmons, R. A., Larson, R. J., & Griffin, S. (1985). The Satis-
+how to frame its antecedents and consequences, and                                faction With Life Scale. Journal of Personality Assessment, 49, 71-76.
+what conclusions to draw from it. In a redemption                             Emmons, R. A. (1986). Personal strivings: An approach to personality
+sequence, the individual narrates a sequence in which a                           and subjective well-being. Journal of Personality and Social Psychology,
+                                                                                  51, 1058-1068.
+very bad scene eventually results in some kind of positive                    Erikson, E. H. (1963). Childhood and society (2nd ed.). New York:
+outcome. In many instances, there are likely to be multi-                         Norton.
+ple outcomes of any particular event in a person’s life.                      Frenz, A. W., Carey, M. P., & Jorgensen, R. S. (1993). Psychometric eval-
+                                                                                  uation of Antonovsky’s Sense of Coherence Scale. Psychological
+Yet the person telling the story in a redemptive manner                           Assessment, 5, 145-153.
+manages to elaborate on a particularly positive outcome.                      Hart, H., McAdams, D. P., Hirsch, B. J., & Bauer J. (in press).
+                                                                                  Generativity and social involvements among African-American and
+By contrast, the person who tells a contamination                                 among Euro- American adults. Journal of Research in Personality.
+sequence manages to find the negative consequence of a                        Himsel, A. J., Hart, H., Diamond, A., & McAdams, D. P. (1997). Person-
+particularly positive scene. In both cases, the conse-                            ality characteristics of highly generative adults as assessed in Q-sort
+                                                                                  ratings of life stories. Journal of Adult Development, 4, 149-161.
+quences may have really occurred, but there are likely to                     James, W. (1958). The varieties of religious experience. New York: New
+have been other consequences as well, some of which the                           American Library, Inc. (Original work published 1902)
+individual has chosen not to narrate. Therefore, it is                        Janoff-Bulman, R. (1992). Shattered assumptions: Toward a new psychology
+                                                                                  of trauma. New York: Free Press.
+likely that individual differences in the ways in which                       Keyes, C.L.M., & Ryff, C. D. (1998). Generativity in adult lives:
+people tell their life stories reflect both differences in                        Social structural contours and the quality of life consequences.
+
+
+
+
+                                       Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+                                                                    McAdams et al. / REDEMPTION AND CONTAMINATION                                             485
+
+   In D. P. McAdams & E. de St. Aubin (Eds.), Generativity and adult                       (Eds.), Can personality change? (pp. 253-280). Washington, DC:
+   development: How and why we care for the next generation (pp. 227-264).                 American Psychological Association Press.
+   Washington, DC: American Psychological Association Press.                            Rosenberg, M. (1965). Society and the adolescent self-image. Princeton, NJ:
+Lewinsohn, P. M., Seeley, J. R., Roberts, R. E., & Allen, N. B. (1997).                    Princeton University Press.
+   Center for Epidemiologic Studies Depression Scale (CES-D) as a                       Rosenwald, G., & Ochberg, R. L. (1992). (Eds.). Storied lives: The cultural
+   screening instrument for depression among community-residing                            politics of self understanding. New Haven, CT: Yale University Press.
+   older adults. Psychology and Aging, 12, 277-287.                                     Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the
+McAdams, D. P. (1985). Power, intimacy, and the life story: Personological                 meaning of psychological well-being. Journal of Personality and Social
+   inquiries into identity. New York: Guilford.                                            Psychology, 57, 1069-1081.
+McAdams, D. P. (1993). The stories we live by: Personal myths and the making            Sarbin, T. R. (1986). The narrative as root metaphor for psychology. In
+   of the self. New York: William Morrow.                                                  T. R. Sarbin (Ed.), Narrative psychology (pp. 3-21). New York:
+McAdams, D. P. (1994). Can personality change? Levels of stability and                     Praeger.
+   growth across the life span. In T. Heatherton & J. Weinberger                        Singer, J. A., & Salovey, P. (1993). The remembered self: Emotion and memory
+   (Eds.), Can personality change? (pp. 299-313). Washington, DC:                          in personality. New York: Free Press.
+   American Psychological Association Press.                                            Taylor, S. E. (1983). Adjustment to threatening events: A theory of cog-
+McAdams, D. P. (1996). Personality, modernity, and the storied self: A                     nitive adaptation. American Psychologist, 38, 624-630.
+   contemporary framework for studying persons. Psychological                           Taylor, S. E., Lichtman, R. R., & Wood, J. V. (1984). Attributions, beliefs
+   Inquiry, 7, 295-321.                                                                    about control, and adjustment to breast cancer. Journal of Personality
+McAdams, D. P., & de St. Aubin, E. (1992). A theory of generativity and                    and Social Psychology, 46, 489-502.
+   its assessment through self-report, behavioral acts, and narrative                   Tedeschi, R. G., & Calhoun, L. G. (1995). Trauma and transformation:
+   themes in autobiography. Journal of Personality and Social Psychology,                  Growing in the aftermath of suffering. Thousand Oaks, CA: Sage.
+   62, 1003-1015.                                                                       Tennen, H., Affleck, G., & Mendola, R. (1991). Causal explanations for
+McAdams, D. P., de St. Aubin, E., & Logan, R. L. (1993). Generativity                      infertility: Their relation to control appraisals and psychological
+   among young, midlife, and older adults. Psychology and Aging, 8,                        adjustment. In A. Stanton & C. Dunkel-Schetter (Eds.), Infertility:
+   221-230.                                                                                Perspectives from stress and coping research (pp. 109-132). New York:
+McAdams, D. P., Diamond, A., de St. Aubin, E., & Mansfield, E. (1997).                     Plenum.
+   Stories of commitment: The psychosocial construction of genera-                      Tomkins, S. S. (1987). Script theory. In J. Aronoff, A. I. Rabin, & R. A.
+   tive lives. Journal of Personality and Social Psychology, 72, 678-694.                  Zucker (Eds.), The emergence of personality (pp. 147-216). New York:
+McAdams, D. P., Hart, H., & Maruna, S. (1998). The anatomy of                              Springer.
+   generativity. In D. P. McAdams & E. de St. Aubin (Eds.), Generativity                Wollman, C., & Felton, B. (1983). Social supports as stress buffers for
+   and adult development: How and why we care for the next generation                      adult cancer patients. Psychosomatic Medicine, 45, 322-331.
+   (pp. 7-43). Washington, DC: American Psychological Association
+   Press.                                                                               Received July 26, 1999
+McCrae, R. R., & Costa, P. T., Jr. (1990). Personality in adulthood. New                Revision accepted June 7, 2000
+   York: Guilford.
+Miller, W. R., & C’deBaca, J. (1994). Quantum change: Toward a psy-
+   chology of transformation. In T. Heatherton & J. Weinberger
+
+
+
+
+                                                  Downloaded from psp.sagepub.com at UNIV OF MICHIGAN on October 22, 2014
+

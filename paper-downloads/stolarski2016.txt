@@ -1,0 +1,627 @@
+Curr Psychol (2016) 35:516–526
+DOI 10.1007/s12144-016-9515-2
+
+
+
+
+Time Perspectives Predict Mood States and Satisfaction with Life
+over and above Personality
+Maciej Stolarski 1 & Gerald Matthews 2
+
+
+
+
+Published online: 19 October 2016
+# The Author(s) 2016. This article is published with open access at Springerlink.com
+
+Abstract The present study aimed to test the incremental valid-            emotional stability (low neuroticism). The Big Five model
+ity of Time Perspective (TP) scales in predicting satisfaction with        (McCrae 2009) lists these two factors along with consci-
+life and mood, over and above the Big Five personality traits. It          entiousness, agreeableness and openness as the five fun-
+also investigated whether the new TP construct of Future                   damental dimensions necessary to attain a comprehensive
+Negative perspective contributed to prediction of these out-               account of personality. However, other personality traits
+comes. Participants (N = 265) completed four measures:                     beyond the Big Five may also play important roles in
+Satisfaction With Life Scale (SWLS), UWIST Mood Adjective                  SWB. Recent work has emphasized the role of temporal
+Checklist (UMACL), a modified Zimbardo Time Perspective                    perspectives in well-being. The temporal orientations that
+Inventory (ZTPI), and NEO-Five Factor Inventory (NEO-FFI).                 a person uses to structure their experience influence well-
+Results confirmed the incremental validity of TP, although Big             being (Boniwell et al. 2010; Rush and Grouzet 2012;
+Five dimensions were independently predictive of life satisfac-            Zimbardo and Boyd 1999). For example, Rush and
+tion and certain mood scales. Past Negative TP was the strongest           Grouzet (2012) suggest that a focus on the present sup-
+single predictor of life satisfaction. However, Future Negative TP         ports active, mindful engagement with life, and hence
+was be the strongest mood predictor from the TP universe, after            promotes wellbeing. The shaping of experience by past
+controlling for the Big Five and remaining TP dimensions.                  memories and by future plans may also play important
+Findings suggest that TP is an important aspect of personality             roles (Zimbardo and Boyd 1999).
+for understanding individual differences in well-being.                        There are various theoretical accounts of temporal per-
+                                                                           spective, along with several different measures of the con-
+Keywords Time perspective . Mood . Satisfaction with life .                struct (Rush and Grouzet 2012; Shipp et al. 2009). The
+Personality . Incremental validity                                         present study concerns the construct of Time Perspective
+                                                                           (TP) developed by Zimbardo and Boyd (1999, 2008). TP
+                                                                           describes the individual’s preferences for using past,
+Introduction                                                               present and future time frames to interpret important
+                                                                           personal life events. Zhang and Howell (2011) found that
+Higher subjective well-being (SWB: Diener et al. 2003) is                  TP predicted well-being over and above the Big Five,
+quite strongly associated with extraversion and with                       e.g., past negative perspective was associated with lower
+                                                                           life satisfaction. We aimed to replicate and extend Zhang
+                                                                           and Howell’s (2011) findings by examining mood as an
+* Maciej Stolarski                                                         outcome variable. Mood refers to immediate affective ex-
+  mstolarski@psych.uw.edu.pl                                               perience, and so contrasts with life satisfaction which is
+                                                                           defined by longer-lasting beliefs. In the remainder of the
+1
+    Faculty of Psychology, University of Warsaw, Stawki Str. 5/7,          introduction, we review the role of TP and personality in
+    00-183 Warsaw, Poland                                                  SWB, the use of mood scales as a criterion in well-being
+2
+    Institute for Simulation & Training, University of Central Florida,    research, and the unresolved issues that the current re-
+    Orlando, USA                                                           search addresses.
+Curr Psychol (2016) 35:516–526                                                                                                    517
+
+
+Time Perspectives, Personality and Subjective well-Being             Conscientiousness (.60), Past Negative and Neuroticism
+                                                                     (.48), and Present Hedonism and Extraversion (.30). The
+Defined as Bthe often nonconscious process whereby the               Big Five also correlate consistently with various aspects
+continual flows of personal and social experiences are               of SWB. A meta-analysis showed that high Extraversion
+assigned to temporal categories, or time frames, that help           and low Neuroticism are substantially correlated (up to
+to give order, coherence, and meaning to those events^               0.5) with various well-being criteria (e.g., respectively,
+(Zimbardo and Boyd 1999, p. 1271), TP could be consid-               .49 and −.46 for happiness, .28 and −.38 for life satisfac-
+ered both as process, when conceptualized as an online               tion, or .44 and −.30 for positive affect), with other Big Five
+cognitive framing of present experiences, and as a trait,            dimensions making smaller contributions (Steel et al.
+when understood as a stable, habitual focus on particular            2008). Similar roles of Extraversion and Neuroticism have
+time horizon(s), i.e., the past, the present, or the future. TP      been shown in studies of mood, findings that are attributed
+is seen as primarily social-cultural rather than temperamen-         to greater sensitivity of brain reward systems in extraverts,
+tal in nature (Zimbardo and Boyd 1999).                              and of punishment systems in high neuroticism individuals
+    Zimbardo and Boyd (1999) distinguished five TPs, mea-            (Lucas and Diener 2000).
+sured with the Zimbardo Time Perspective Inventory (ZTPI):              TP reflects time-oriented elements of self-concept that are
+Past Positive, Past Negative, Present Fatalism, Present              not captured by the Big Five (Matthews and Stolarski 2015),
+Hedonism, and Future. This model defines past TPs in terms           and so should show incremental validity over these general
+of valence of memories, but Future has no specific valence,          personality traits in the prediction of well-being. In Zhang and
+referring to a general orientation towards advance planning.         Howell’s (2011) study, he TP dimensions explained an addi-
+However, thoughts of the future often concern hopes and              tional 13.7 % of the variance in life satisfaction beyond the
+fears, suggesting that positive and negative future dimensions       Big Five traits. Past Positive, Past Negative and Present
+might be distinguished. Carelli et al. (2011) broadened the TP       Hedonism all made significant, independent contributions to
+universe by developing a Future Negative dimension, and              predicting life satisfaction. The Big Five Neuroticism and
+slightly modifying traditional Future TP, labeling it Future         Extraversion dimensions also remained significant in the final
+Positive. They showed that a six-factor model optimized fit          equation. The incremental validity of the ZTPI over and above
+in a confirmatory factor analysis of their extended ZTPI.            the Big Five traits has also been shown for health (Daugherty
+    The role of TP in well-being has increasingly drawn the          and Brase 2010), and for autobiographical memory for health
+attention of researchers. There is increasing evidence that in-      (Ely and Mercurio 2011).
+dividual differences in TP are linked to well-being, even with
+standard dimensions of personality controlled (Cunningham
+et al. 2015). TP predicts a variety of relevant criteria including   Mood as a Criterion for Well-Being
+life satisfaction (Boniwell et al. 2010; Zhang and Howell
+2011), and health behaviors (Daugherty and Brase 2010).              Mood states are transient affective states that are influenced by
+Zhang et al. (2013) showed that TP – SWB correlations were           cognitive processing of situational events (Lazarus 1999;
+stable across multiple samples, with a total N of 1739. TP was       Matthews et al. 2000). Measures of immediate mood can be
+predictive of multiple criteria including life satisfaction, psy-    distinguished from assessments of typical mood, which tend
+chological need satisfaction, self-determination, vitality, grat-    to converge with personality factors (Matthews et al. 2009).
+itude and emotion scales. High Past Positive and low Past            Mood response shows some stability in part because of tem-
+Negative TPs were the dimensions most strongly associated            peramental factors (Watson 2000), but also because individ-
+with higher SWB, with high Present Hedonic, high Future and          uals apply cognitive schemas consistently in interpreting
+low Present Fatalistic scales showing weaker but fairly con-         events. Such schemas may include the temporal frames de-
+sistent associations. The association between TP and SWB is          scribed by TP theory (Zimbardo and Boyd 1999).
+attributed to the powerful role of temporal schemas in shaping           Immediate moods capture the quality of the person’s daily
+the person’s sense of self and their appraisal of significant        life experiences. By contrast, measures of typical mood may
+events (Matthews and Stolarski 2015).                                be biased by memory retrieval processes (Matthews 1992).
+    Given that almost all individual difference-level vari-          Stolarski et al. (2014) collected longitudinal data on mood,
+ables are more or less strongly loaded by major personality          and found that some aspects of TP were associated with biased
+traits (Matthews et al. 2009), correlations between TP di-           recall; for example, individuals high in Present Hedonistic
+mensions and SWB might be no more than a by-product of               over-estimated their feelings of energy on a previous occasion.
+their covariance with traditional personality. Indeed, a re-         Such biases suggest a limitation of Zhang and Howell’s (2011)
+cent meta-analysis (Kairys and Liniauskaite 2015) shows              finding that TP predicts life satisfaction over and above per-
+that TPs correlate with the Big Five dimensions, with par-           sonality. For example, a person high in Past Negative viewing
+ticularly pronounced relationships between Future and                their life circumstances through the lens of their unhappy
+518                                                                                                   Curr Psychol (2016) 35:516–526
+
+
+memories might evaluate their life negatively, even though          arousal was suppressed by the relationships of these variables
+their day-to-day encounters were not particularly unpleasant.       with Present Hedonism, and Future moderated the relation-
+   Existing research on well-being and mood has commonly            ship between Present Hedonism and Hedonic Tone). TPs also
+used Watson’s (2000) two-dimensional model, which distin-           predicted biases in mood recollection and affective forecast-
+guishes positive affect and negative affect. Life satisfaction is   ing. These bias effects confirm that TP influences more than
+associated with higher typical positive affect and lower nega-      just the magnitude of affective response. TP systematically
+tive affect (Kuppens et al. 2008). Indeed, Jovanović (2015)         influences representation of emotional experience in memory,
+suggested that typical positive and negative affect scales index    and the use of those representations to anticipate future
+affective elements of well-being directly, with life satisfaction   experience.
+measuring cognitive aspects. In his data, both affect scales           Current research findings on TP, wellbeing and mood leave
+correlated at ±.4 with life satisfaction. Using a measure of        open several questions. First, it is unclear what role the over-
+immediate mood, Ring et al. (2007) found that life satisfaction     lap between the Big Five and TP might play in individual
+was correlated at .37 with positive affect and −.37 with nega-      differences in mood. TP shows incremental validity in the
+tive satisfaction.                                                  prediction of life satisfaction with the Big Five controlled,
+   An alternate psychometric model for mood, which guided           but does TP also show incremental validity as a predictor of
+the present research, differentiates three dimensions               transient mood? Incremental validity is expected because TP
+(Matthews et al. 1990; Schimmack and Grob 2000): overall            is associated with a unique set of social-cognitive processes
+hedonic tone (pleasantness of mood) from energetic and tense        that influence well-being (Matthews and Stolarski 2015).
+arousal within a correlated-factor model. The 3-D model is          Second, previous studies of TP and well-being have shown
+useful for well-being research because it captures the experi-      that the Future dimension is a significant but rather weak
+ence of happiness through feeling contented, pleasant mood as       predictor of SWB criteria such as higher life satisfaction
+well as through experiencing excited arousal and energy.            (Zhang and Howell 2011) with correlations commonly around
+Goryńska et al. (2011) conducted a meta-analysis of 23 studies      .20. The small magnitude of the correlation is surprising be-
+(total N = 3733) reporting the relationships between two per-       cause Zimbardo and Boyd (1999, 2008) have identified
+sonality traits - Extraversion/activity and Neuroticism/anxiety     Future-oriented tendencies such as long-term planning and
+– with the three mood. Both traits predicted mood: the average      delay of gratification as critical for well-being over the life
+weighted correlations varied around the .20–.30 interval.           span. Carelli et al.’s (2011) model of TP, including two
+Naturally, the magnitude of these relationships decreases           future-oriented scales representing positive and negative per-
+when we analyze mood states in a particular mood-inducing           spectives, may do a better job of assessing those elements of
+situation (e.g., an exam; Zajenkowski et al. 2012).                 future TP which contribute to well-being, including higher life
+                                                                    satisfaction and positive mood. Third, Stolarski et al.’s (2014)
+Time Perspective and Mood                                           findings suggested another possible explanation for the limit-
+                                                                    ed impact of Future on mood, i.e., that there is an interplay
+Matthews and Stolarski (2015) suggest that TP could be treat-       between Future and Present Hedonic TPs associated with the
+ed as a mechanism for affective regulation. Specifically, TPs       moderator and interaction effects described in the previous
+may be associated with biases in cognitive appraisal, in the use    paragraph. These somewhat complex findings require replica-
+of autobiographical memory to shape current self-concept,           tion to determine whether they are significant for understand-
+and in the content of mental models used for anticipating           ing the role of TP in well-being.
+future outcomes. The majority of studies of TP and well-
+being (e.g., Boniwell et al. 2010; Drake et al. 2008; Sailer        Hypotheses
+et al. 2014; Zhang et al. 2013) have used outcome measures
+that refer to general, fairly stable beliefs about wellbeing and    Based on prior research and theoretical considerations men-
+life satisfaction.                                                  tioned above, we hypothesized that (H1) TP dimensions
+    So far, only one study has analyzed relationships between       would predict both life satisfaction and each of the three mood
+TP and transient mood dimensions, using the three-                  dimensions as in previous studies (e.g., Stolarski et al. 2014;
+dimensional model (Matthews et al. 1990). Stolarski et al.          Zhang and Howell 2011). We expected that Past Negative
+(2014) showed that TP dimensions explained between 19               would be the most predictive single TP of these criteria, cor-
+and 23 % of mood variance depending on which mood di-               relating with poorer mood and lower satisfaction. We expect-
+mension was considered. Past Negative TP was the strongest          ed smaller-magnitude associations between Past Positive TP,
+predictor for all three dimensions of mood, followed by             better mood and higher satisfaction, with more limited corre-
+Present-Hedonistic TP and (only for Energetic Arousal)              lations between other TPs and the well-being criteria. We hy-
+Future TP. Moreover, there was some subtle interplay between        pothesized (H2) that inclusion of Carelli et al.’s (2011) Future
+specific TPs. The predicted effect of Future on energetic           Positive and Negative dimensions would increase the power
+Curr Psychol (2016) 35:516–526                                                                                                                 519
+
+
+of TP to predict life satisfaction and mood. Furthermore, we        Time Perspective Zimbardo and Boyd’s ZTPI (Zimbardo
+aimed to determine whether (H3) the effect of TP on life            and Boyd 1999), in the Polish adaptation by Kozak and
+satisfaction and mood remains significant after controlling         Mażewski (2007), assessed traits for TP. It has 5 scales:
+for the Big Five personality dimensions. Finally we attempted       Past Negative (PN), Present Hedonistic (PH), Future (F),
+to replicate the additional effects obtained by Stolarski et al.    P a s t P o s i t i v e ( P P ) , an d P r e s e n t F a t al i s t i c (P F ) .
+(2014), i.e., (H4) the suppression effect of Present Hedonism       Respondents rate their degree of endorsement of each
+on Future for Energetic Arousal and (H5) the interaction be-        statement on a five-point Likert scale. Additionally, we
+tween Present Hedonism and Future for Hedonic Tone.                 used Future Negative (FN) items provided by Carelli
+                                                                    et al. (2011), and, consequently, we reduced the F scale
+                                                                    by two items, which are included in FN, leaving what
+                                                                    Carelli labels Future Positive (FP) scale. All items were
+Method
+                                                                    translated and back-translated by certified translators.
+                                                                    Convergent validity studies revealed a pattern of associa-
+Participants
+                                                                    tions with other self-report scales similar to the one obtain-
+                                                                    ed for the original version. The six-factor solution, applied
+The sample comprised 265 Caucasian adults of Polish nation-
+                                                                    in the present study, provided better fit-to-data than the
+ality, mainly students and their families. 143 of them were
+                                                                    classic five-factor solution (see Jochemczyk et al. 2016).
+females, aged between 18 and 47 (M = 22.55, SD = 3.38)
+and 122 were males, aged between 18 and 51 (M = 22.75,
+                                                                    Personality The Big Five personality traits (Neuroticism,
+SD = 3.95). Participants were recruited by a team of four
+                                                                    Extraversion, Openness to experience, Agreeableness and
+specially trained pollsters, students of a M.A. program in
+                                                                    Conscientiousness) were measured with the NEO-FFI
+Psychology at University of Warsaw, hired to support a re-
+                                                                    questionnaire (Costa and McCrae 1992) in the Polish ad-
+search grant conducted by the corresponding author of the
+                                                                    aptation by Zawadzki et al. (1998). The Polish version’s
+present article. They were asking potential participants indi-
+                                                                    validity was demonstrated through convergence with
+vidually, actively inviting them to take part in the study. After
+                                                                    well-established personality measures as well as high
+test completion participants were asked to recommend one or
+                                                                    agreement between self-reports and observer ratings.
+two potential subjects to take part in this research. The sample
+                                                                    Internal consistencies of the scales ranged between .68
+size and composition was very similar to that reported by
+                                                                    and .86 and were comparable with those reported for the
+Stolarski et al. (2014). Participation was voluntary; subjects
+                                                                    original version.
+were not rewarded.
+                                                                    Procedure
+Measures
+                                                                    Participants were informed that they were to take part in a
+Mood was measured using the UWIST Mood Adjective                    study of emotions and time orientation. Questionnaires
+Check List (UMACL, Matthews et al. 1990), in the Polish             were administered either on a group basis, in a university
+adaptation by Goryńska (2005). The scale has three subscales        class setting, or individually, in home settings. UMACL
+measuring: Energetic Arousal (EA), Tense Arousal (TA), and          was administrated first, followed by ZTPI and NEO-FFI;
+Hedonic Tone (HT). Respondents rated the degree to which            the order of the latter two measures was counterbalanced,
+each of the adjectives described their current mood on a four-      in order to control for any order effects. Mood was mea-
+point Likert-type scale. The Polish version showed adequate         sured first in order to avoid any effect of completing the
+internal consistency (alphas ranging from .79 to .92) and suf-      remaining questionnaires on the state mood measure.
+ficient convergent validity (e.g., associations with Positive/
+Negative Affect, state anxiety and the Big Five). Convergent
+validity is similar to the original, English-language scale         Results
+(Goryńska 2005).
+   Satisfaction With Life was assessed using Satisfaction With      Descriptive statistics and Cronbach alphas for the measures
+Life Scale (SWLS; Diener et al. 1985) in the Polish adaptation      and zero-order correlations are provided in Table 1.
+by Juczyński (1999). It consists of five items scored with a 7-       Major correlations between the Big Five and TP included
+point Likert-type response format measuring global cognitive        those between Neuroticism and Past Negative (.62),
+judgments of satisfaction with one’s life. Evidence on its va-      Extraversion and Present Hedonistic (.47) and Future
+lidity is presented by Juczyński (2001), and includes correla-      Positive and Conscientiousness (.65). The original ZTPI
+tions with other well-established indicators of well-being and      Future dimension, correlated .98, p < .001, with Future
+psychological health.                                               Positive, suggesting the two scales index the same latent
+520                                                                                                                               Curr Psychol (2016) 35:516–526
+
+Table 1    Descriptive statistics and intercorrelations
+          M       SD     α     N        E        O        A        C        PP       PN       PH       PF       FP       FN       SWL      EA       TA      HT
+  N       21.89   9.07   .86   -
+  E       29.08   6.33   .75   -.38**   -
+  O       29.24   6.47   .66   .00      .17**    -
+  A       28.34   7.14   .80   -.09     .28**    .09      -
+  C       30.42   7.77   .85   -.29**   .15*     -.04     .04      -
+  PP      3.43    .59    .75   .00      .14*     -.05     .26**    .04      -
+  PN      2.89    .81    .86   .62**    -.22**   .02      -.20**   -.25**   -.14*    -
+  PH      3.41    .57    .82   .00      .47**    .19**    .01      -.17**   .06      .15*     -
+  PF      2.56    .64    .71   .39**    -.10     -.16**   -.16**   -.22**   .07      .38**    .26**    -
+  FP      3.43    .61    .78   -.06     -.02     .02      .04      .65**    .14*     -.13*    -.32**   -.28**   -
+  FN      3.04    .61    .72   .47**    -.27**   -.03     -.34**   -.31**   -.51**   .70**    .07      .60**    -.36**   -
+  SWL     20.77   5.78   .81   -.46**   .37**    -.03     .22**    .17**    .20**    -.53**   .11      -.14*    .07      -.40**
+  EA      29.83   5.43   .84   -.39**   .42**    -.03     .21**    .35**    .08      -.38**   .07      -.28**   .20**    -.39**   .34**    -
+  TA      16.56   4.75   .85   .39**    -.29**   -.02     -.19**   -.12     -.15*    .32**    -.11     .18**    .00      .30**    -.31**   -.39**   -
+  HT      31.04   6.29   .94   -.49**   .44**    -.04     .24**    .19**    .22**    -.44**   .15*     -.14*    .05      -.46**   .50**    .55**    -.67*   -
+N – Neuroticism, E – Extraversion, O – Openness, A – Agreeableness, C – conscientiousness, PP – Past-Positive, PN – Past-Negative, PH – Present-
+Hedonistic, PF – Present-Fatalistic, FP – Future-Positive, FN – Future-Negative, EA – Energetic Arousal, TA – Tense Arousal, HT – Hedonic Tone,
+SWL – Satisfaction With Life. Big Five – TP relationships are shadowed in light grey, TP – mood/SWL relationships are shadowed in dark grey
+* p < .05, ** p < .01
+
+
+
+variable. A novel finding was that Future Negative correlat-                            Further, we conducted a stepwise regression analyses
+ed with four Big Five dimensions, with a particularly                                to reveal the criterion validity of TP dimensions for each
+strong relationship with Neuroticism. When we regressed                              mood dimension and SWLS score, as well as TP’s incre-
+Future Negative onto the Big Five, only Neuroticism                                  mental validity over and above the Big Five (see
+proved a significant predictor, β = .64, p < .001. The high                          Table 2). As some of the introduced predictors were sub-
+N-loading of Future Negative reflects the fact that anxiety,                         stantially intercorrelated, we checked for multicollinearity
+which remains one of the main facets of Neuroticism, is a                            issues. However, no evidence for multicollinearity was
+Bfuture-oriented^ emotion (Zaleski 1996). Table 1 also                               found (all the VIF values were <2.0, and therefore were
+shows that Past Negative was the TP dimension most                                   well below the critical value of 10.0, suggested by Field
+strongly a ssociated with (lower) SW LS s cores.                                     (2009)). In each analysis we present two alternative sets
+Associations of smaller magnitude were also found for                                of variables introduced in step 1, showing standardized β
+the new Future Negative dimension, Past Positive and                                 coefficients for the Big Five and TP, respectively. In the
+Present Fatalistic.                                                                  second step we report the models including the remaining
+   Table 1 shows that the SWLS, the Big Five and TP                                  variable set: TP, if the Big Five was entered in the first
+were all predictive of mood. Higher SWLS scores were                                 step, and Big Five, if TP was entered first. The rightmost
+associated with general elevation of mood, with the stron-                           column of the table shows the full model statistics, as
+gest correlation found with the UMACL Hedonic Tone                                   well as step 2 change statistics, for both orders of entry.
+scale. Big Five data were also consistent with expectation.                             At step 1, the TP scales explained 34 % of the variance
+Extraversion and low neuroticism were associated with                                in SWLS, with several dimensions making significant
+better mood on all three UMACL scales, as in the                                     contributions to the equation. Inclusion of the Big Five
+Goryńska et al. (2011) meta-analysis. Conscientiousness                              at Step 2 added an extra 4 % to the variance explained.
+was more selectively associated with higher Energy and                               In the final equation, Past Negative was the only TP di-
+Hedonic Tone, but not with Tense Arousal. As in                                      mension with a significant β value; Neuroticism and
+Stolarski et al.’s (2014) study, at the zero-order correla-                          Extraversion made smaller but significant independent
+tions level, Past Negative was the most distinct correlate                           contributions. With the ordering of the steps reversed,
+of mood, followed by Present Fatalistic and Past Positive.                           the Big Five explained 27 % of the variance, and TP an
+The relationships for Present Hedonism were weaker,                                  additional 11 %, confirming that TP has incremental va-
+and the effect of Future on Energy, which was sup-                                   lidity in predicting life satisfaction, over the Big Five,
+pressed in the earlier study, this time turned out signif-                           supporting H1. The TP scales predicted each of the three
+icant already in zero-order correlations. Future Negative                            mood dimensions, explaining 23 % of variance in Tense
+was also substantially correlated with poorer moods.                                 Arousal, 26 % in Energetic Arousal, and 34 % in Hedonic
+Curr Psychol (2016) 35:516–526                                                                                                        521
+
+
+Tone. H1 was thus confirmed. Out of the TP variables,          Table 2 Regression models predicting SWL and mood dimensions
+                                                               with Big Five traits and TPs
+Future Negative had the highest β value for each mood
+criterion, with or without controlling for Big Five. Thus,           β      p                          β      p
+H2 was fully confirmed. Mood correlates of the remaining
+TP scales were similar to those reported by Stolarski et al.                Model 1. Dependent variable: Satisfaction With Life
+                                                               Step 1                                  Step 2
+(2014), with the exception of Past Positive, which was a       N     -.36    .001 F(5259) = 19.358 -.16         .036 F(11,253) = 14.139
+significant predictor of both Tension and Hedonic Tone         E      .19   <.001 p < .001              .14     .038 p < .001
+here.                                                          O     -.07    .186 R2 = .27             -.06     .286 R2 = .38
+   H3 was also confirmed, with TP predicting 5–6 % of          A      .15    .006                       .09     .091 TP over B5:
+                                                               C      .02    .692                      -.03     .660 Fchange(6253) = 7.398
+variance in each mood dimension over and above the             PP     .11    .033 F(6258) = 21.934 .08          .147 p < .001
+Big Five. With the Big Five controlled, Future                 PN -.46      <.001 p < .001             -.38 <.001 ΔR2 = .11
+Negative was the only significant predictor of all three       PH .16        .004 R2 = .34              .10     .131 B5 over TP:
+mood scales. Past Positive was uniquely associated with        PF     .05    .360                       .09     .144 Fchange(5253) = 3.506
+                                                               FP     .06    .261                       .07     .314 p = .004
+lower Tense Arousal and higher Hedonic Tone, and Past          FN -.14       .039                      -.04     .592 ΔR2 = .04
+Negative with the latter only. The Big Five predicted
+Energetic Arousal and Hedonic Tone above TP (9 %                             Model 2. Dependent variable: Energetic Arousal
+and 8 % of incremental variance, respectively), but not        Step 1                                 Step 2
+                                                               N     -.20    .001 F(5259) = 22.931 .01        .887 F(11,253) = 12.613
+Tense Arousal, suggesting that TP is probably more im-         E      .29   <.001 p < .001             .28    .000 p < .001
+portant for this negative mood indicator than personality.     O     -.08    .157 R2 = .30            -.10    .057 R2 = .35
+   To test H4 we checked for the suppression effect of         A      .11    .050                      .08    .163 TP over B5:
+Present Hedonism on Future (Positive) in predicting            C      .24   <.001                      .17    .017 Fchange(6253) = 3.090
+                                                               PP     .03    .558 F(6258) = 15.031 -.01       .874 p = .006
+Energy (see Fig. 1), reported by Stolarski et al. (2014).      PN -.18       .016 p < .001            -.12    .100 ΔR2 = .05
+The .20, p < .01 effect of Future Positive on Energetic        PH .17        .004 R2 = .26             .04    .522 B5 over TP:
+Arousal (c path) changed to .25, p < .001 after controlling    PF -.11       .077                     -.11    .082 Fchange(5253) = 7.455
+for Present Hedonistic TP (c’ path). We tested the signif-     FP     .20    .001                      .07    .380 p < .001
+                                                               FN -.26      <.001                     -.17    .029 ΔR2 = .09
+icance of this suppression using bootstrapping procedures.
+Unstandardized indirect effects were computed for each of                      Model 3. Dependent variable: Tense Arousal
+10,000 bootstrapped samples, and the 95 % confidence           Step 1                                 Step 2
+interval was computed by determining the indirect effects      N      .33   <.001 F(5259) = 12.164 .14        .090 F(11,253) = 7.812
+                                                               E     -.13    .038 p < .001            -.06    .401 p < .001
+at the 2.5th and 97.5th percentiles. The bootstrapped un-      O      .02    .758 R2 = .19             .02    .751 R2 = .25
+standardized indirect effect was −.049, and the 95 % con-      A     -.12    .036                     -.10    .086 TP over B5:
+fidence interval ranged from −.124 to −.004. Thus, the         C      .00    .954                      .00    .994 Fchange(6253) = 3.580
+suppression effect was statistically significant. Given that   PP -.15       .009 F(6258) = 12.691 -.12       .040 p = .002
+                                                               PN .07        .371 p < .001             .00    .967 ΔR2 = .06
+this time the total effect of Present Hedonism on Energetic    PH -.09       .132 R2 = .23            -.05    .469 B5 over TP:
+Arousal was not significant (see Table 1), we also con-        PF     .05    .398                      .02    .790 Fchange(5253) = 1.740
+ducted a complementary analysis, treating Future Positive      FP     .01    .872                      .01    .886 p = .126
+as a potential suppressor of the relationship between          FN .38       <.001                      .31    .000 ΔR2 = .03
+Present Hedonism and Energy. Again, we found an evi-                           Model 4. Dependent variable: Hedonic Tone
+dence for suppression effect; the non-significant .07 effect   Step 1                                 Step 2
+of Present Hedonism on energy (c path) increased to .15,       N     -.36   <.001 F(5259) = 26.400 -.21       .006 F(11,253) = 15.230
+p = .01 (c’ path). The bootstrapped unstandardized indi-       E      .28   <.001 p < .001             .21    .001 p < .001
+                                                               O     -.10    .065 R2 = .34            -.08    .129 R2 = .40
+rect effect was −.079, and the 95 % confidence interval        A      .13    .012                      .10    .074 TP over B5:
+ranged from −.144 to −.036. Thus, the suppression effect       C      .04    .473                      .01    .883 Fchange(6253) = 4.260
+was again statistically significant. There is seemingly a      PP     .17    .002 F(6258) = 19.988 .13        .016 p < .001
+reciprocal suppression effect here, where Future Positive      PN -.26      <.001 p < .001            -.16    .026 ΔR2 = .06
+                                                               PH .17        .003 R2 = .32             .07    .306 B5 over TP:
+and Present Hedonistic suppress each other in predicting       PF     .03    .573                      .08    .207 Fchange(5253) = 6.817
+Energetic Arousal. The H4 hypothesis was confirmed.            FP     .06    .270                      .04    .553 p < .001
+However, this suppression was not present after control-       FN -.31      <.001                     -.17    .025 ΔR2 = .08
+ling for personality. Also, we found no evidence for any
+interaction of Future Positive and Present Hedonistic TPs      N – Neuroticism, E – Extraversion, O – Openness, A – Agreeableness, C
+                                                               – conscientiousness, PP – Past Positive, PN – Past Negative, PH – Present
+in predicting Hedonic Tone (or any other mood dimen-           Hedonistic, PF – Present Fatalistic, FP – Future Positive, FN – Future
+sion), using the same regression method as Stolarski           Negative, EA – Energetic Arousal, TA – Tense Arousal, HT – Hedonic
+et al. (2014). Therefore, H5 was not supported.                Tone, B5 – Big Five
+522                                                                                                      Curr Psychol (2016) 35:516–526
+
+
+Discussion                                                            Liniauskaite’s (2015) meta-analysis, demonstrating the
+                                                                      need to test for incremental validity of TP.
+The present study of dispositional predictors of well-being               The pattern of correlations between TPs and the SWLS was
+replicated and extended existing results. Multiple TP dimen-          similar to the one reported by Zhang and Howell (2011).
+sions were associated with the well-being criteria, with Past         Consistent with H1, greater life satisfaction was associated
+Negative TP showing the highest though negative bivariate             with lower Past Negative, and higher Past Positive.
+correlations, supporting H1. The new Future Negative TP               However, the coefficients differed in magnitude to the earlier
+dimension (Carelli et al. 2011) contributed to prediction of          study. In Zhang and Howell’s data correlations between
+well-being, especially for mood criteria, supporting H2. We           SWLS scores and Past Negative (−.44) and Past Positive
+replicated Zhang and Howell’s (2011) finding that TP predicts         (−.41) were of similar magnitude; here, Past Negative was
+life satisfaction over and above the Big Five. The ZTPI also          the more predictive TP dimension. We also found a substantial
+had incremental validity in predicting mood states, as hypoth-        negative correlation between SWLS and the new dimension
+esized (H3). However, we also identified differing sets of pre-       of Future Negative: Zhang and Howell (2011) found a weaker
+dictors for life satisfaction and for the mood scales, suggesting     but significant correlation of .15 between the original Future
+that the criterion measures are to some extent picking up dif-        dimension and SWLS. We replicated Zhang and Howell’s
+ferent aspects of wellbeing.                                          (2011) finding of incremental validity; in their study, TP
+    We confirmed (H4) a reciprocal suppression effect on the          added 14 % to the variance explained to the Big Five, similar
+influence of TP on Energetic Arousal. Future Positive and             to the present data, Past Negative was the only TP to remain
+Present Hedonistic both predict Energetic Arousal, but these          significant in the final equation. We could not replicate inde-
+two TPs are negatively correlated, producing suppression of           pendent contributions of Past Positive and Present Hedonism
+their bivariate associations with energy. However, we did not         to well-being, although their study (N = 754) had greater sta-
+replicate Stolarski et al.’s (2014) finding of an interactive ef-     tistical power.
+fect of these two TPs, contrary to H5.                                    These findings support the view that life satisfaction is
+                                                                      more than just a reflection of basic temperaments.
+                                                                      Satisfaction is also influenced by the temporal framing of
+Dispositional Factors in Well-Being                                   experience, and the self-regulative strategies that follow from
+                                                                      the individual’s orientation in time (Matthews and Stolarski
+Findings with life satisfaction as a criterion broadly repli-         2015). The role of Past Negative is especially salient, and may
+cated previous findings, including the well-established               reflect the memory retrieval processes through which the cur-
+roles of extraversion and neuroticism (Steel et al. 2008).            rent self-concept (or ‘working self’) draws on autobiographi-
+Consistent with the Steel et al. meta-analysis, we also found         cal memory (Conway and Pleydell-Pearce 2000). For exam-
+smaller significant positive correlations between life satis-         ple, a child habitually criticized by his or her parents might
+faction and Conscientiousness and Agreeableness; howev-               construe their present status as an adult as failing to live up to
+er, only the Agreeableness association remained significant           parental expectations, despite objective accomplishments.
+in the regression analysis (with Big Five entered at Step 1).             The study also supported Carelli et al.’s (2011) division of
+Relationships between the Big Five and TP were very sim-              future TP into separate positive and negative scales, consistent
+ilar in direction and magnitude to those found in Kairys and          with each temporal orientation having positive and negative
+                                                                      aspects (Rush and Grouzet 2012). Positive and negative future
+                                                                      TPs were only modestly correlated (.36), suggesting that fu-
+                                                                      ture orientations are differentiated by affect just as past TPs
+                                                                      are. Interestingly, the intercorrelation of past and future TPs
+                                                                      was much stronger for the two negative TPs (.70), than for the
+                                                                      two positive orientations (.14). Dwelling on the troubles of the
+                                                                      past appears to project forward into the future more strongly
+                                                                      than a focus on positive memories. The bivariate SWLS data
+                                                                      suggested that Future Negative TP may depress satisfaction,
+                                                                      but this TP did not make a significant contribution to predic-
+                                                                      tion with the Big Five controlled.
+
+                                                                      TPs as Predictors of Mood State
+
+Fig. 1 Reciprocal suppression effect of Present Hedonism and Future   The mood data show some similarities and some differences
+TPs in predicting Energetic Arousal.                                  to the life satisfaction findings. The bivariate correlations
+Curr Psychol (2016) 35:516–526                                                                                                     523
+
+
+suggest that TPs that predict life satisfaction also predict tran-        There were two significant TP predictors of Tense Arousal:
+sient mood states; correlation magnitudes tended to be largest        Past Positive and Future Negative, both remaining significant
+for Past Negative and Future Negative. Again, TP had incre-           after controlling for the Big Five. Stolarski et al. (2011) pro-
+mental validity over the Big Five in predicting all three mood        posed that Past Positive is an effective and ‘emotionally intel-
+dimensions, but some differences in detail were apparent. For         ligent’ mood regulation strategy: retrieving happy memories
+SWLS, TP appeared to have a larger incremental effect than            is one of the most effective ways to regulate bad moods
+the Big Five (11 % vs. 4 %). For mood, the incremental effects        (Josephson 1996). The second significant predictor – Future
+of these two types of construct were more similar in size. One        Negative – seems to represent a fundamental condition for
+explanation is that life satisfaction is intended to be a primarily   increased feelings of tension, as expected from the nature of
+cognitive-judgmental rather than an affective construct               the mood dimension. Feelings of being stressed or anxious are
+(Diener et al. 1985), whereas moods are affective in nature.          usually induced by events or stimuli that are expected to hap-
+The Big Five may be relatively more reflective of tempera-            pen in one’s future; Thayer (1997) identified tension with
+mental affect, whereas TP may be more infused by cognitive            preparedness for threat. Indeed, Aristotle (350 B.C. /
+self-regulatory processes (Matthews and Stolarski 2015).              Aristotle 1954) claimed that BFear may be defined as a pain
+Thus, predictive power of these constructs may reflect the            or disturbance due to a mental picture of some destructive or
+balance of affective and cognitive elements of criterion              painful evil in the future^.
+variables.                                                                Finally, four TPs predicted the intensity of Hedonic
+   In Stolarski et al.’s (2014) study Past Negative was the           Tone. Past Negative and Future Negative were detrimental
+strongest predictor of moods. Here, both Past Negative and            to momentary hedonic experience, whereas Past Positive
+Future Negative were the TP scales most strongly correlated           and Present Hedonism were positively correlated with this
+with mood. However, the regression analyses showed that the           mood dimension. After controlling for the Big Five, only
+Future scale was more consistently predictive than the Past           the latter effect was not significant. This pattern of results is
+scale, although the two scales were substantially correlated.         similar to the one obtained by Zhang and Howell (2011) for
+A possible explanation is that moods are future-oriented to the       life satisfaction. The positive effect of Past Positive is prob-
+extent that they represent adaptation to immediate challenges.        ably based on the same mechanism as in the case of energy,
+For example, energy prepares the person for vigorous, goal-           i.e., this TP may act as a strategy for emotional regulation
+directed action, and tension represents preparedness for threat       (Matthews and Stolarski 2015). The detrimental effects of
+(Thayer 1997). The Future Negative scale items (Carelli et al.        both future dimensions show that pessimistic subjective
+2011) focus on anticipated failures to plan effectively: per-         views of one’s past and future result in decreased mood in
+ceived lack of preparedness may powerfully influence mood.            the present.
+   The mood data also differed from the SWLS data in that
+TPs additional to Past Negative were independently predictive         Limitations and Future Directions
+of criteria in the regression analyses. Predictors varied across
+the three mood dimensions. First, for Energetic Arousal, the          Naturally, our study has all the limitations particular to
+regression model (TP only) suggested that Present Hedonism            self-report measurement and cross-sectional design.
+and Future Positive are energizing whereas Past Negative and          Associations between personality and SWB may be inflat-
+Future Negative orientations drain energy. The temporal bases         ed by shared evaluative biases (Schimmack et al. 2008).
+of energy appear complex. After controlling for the Big               The design allows only for a snapshot of mood on a sin-
+Five, only Future Negative made a significant contribution.           gle occasion. Future research might distinguish trait and
+The Future Negative scale items (Carelli et al. 2011) focus           state elements of TP in everyday contexts, e.g., through
+on anticipated failures to plan effectively. Perceived lack of        using a longitudinal experience sampling method (Rush
+preparedness for impending threats will lead to decreased             and Grouzet 2012). Future studies should seek for poten-
+levels of motivation and energy. On the other hand, al-               tial mediators of the obtained relationships, i.e., specific
+though Future Positive and Present Hedonism were signif-              mechanisms and processes that may be sensitive to the
+icantly related to increased energy, and we even replicated           individual’s TP, focusing especially on retrieval of auto-
+the suppression effect reported by Stolarski et al. (2014),           biographical memories and on mood-regulation strategies
+their associations with this mood dimension may be                    congruent with the TP (Matthews and Stolarski 2015).
+ascribed to their covariance with personality traits                  Research illustrating how the obtained relationships
+(Extraversion and Conscientiousness in particular). The               change depending on situation (e.g., whether Present
+negative association between Future Positive and Present              Hedonistic would be more predictive for mood during a
+Hedonism confirms the view that living for the moment                 party, and Future Positive during an exam) could be also
+and planning for the future tend to be conflicting orienta-           very interesting. Finally, the sample comprised mainly
+tions (Zimbardo and Boyd 2008).                                       students and their families which naturally limits
+524                                                                                                      Curr Psychol (2016) 35:516–526
+
+
+generalizability of the present results. Although such sit-     discriminability and differential correlates of its cognitive
+uation is common in research on TP (e.g., Zimbardo and          and affective components (Jovanović 2015; Luhmann
+Boyd 1999; Stolarski 2016), it limits generalizability of       et al. 2012). Third, Boyce et al. (2013) point out that
+the present findings, thus it would be desirable to replicate   typically stable traits may be more malleable than com-
+the present study on a big, representative sample or on a       monly supposed, suggesting individual-level interven-
+few differentiated samples.                                     tions to enhance quality of life. Temporal dynamics are
+   Authors aiming to replicate the present results should       key factors in both anxiety and depressive disorders
+take into account the fact that mood states are sensitive to    (Wells and Matthews 2015) and treatments might be de-
+various contextual factors as established in other UMACL        signed to support more constructive retrieval, attentional
+research with Polish student samples (e.g., Goryńska et al.     and self-regulative processes as the person reflects on
+2015). While collecting data, they should be careful to         past and future emotion. Indeed, Sword et al. (2015)
+create a neutral testing session without salient reinforcers    have developed Time Perspective Therapy on the basis
+and to control for contextual influences. The problem re-       of Zimbardo and Boyd’s (2008) theoretical principles to
+fers particularly to studies conducted online. The main         promote an adaptive, balanced time perspective.
+disadvantage for the online methodology is that there is
+no way to establish the control of situational factors nec-     Compliance with Ethical Standards All procedures performed in
+essary for mood assessment, as opposed to say, stable           studies involving human participants were in accordance with the ethical
+personality traits. We do not know what participants are        standards of the institutional research committee and with the 1964
+                                                                Helsinki declaration and its later amendments or comparable ethical stan-
+doing prior to (or even during) the mood assessment, and        dards. Informed consent was obtained from all individual participants
+there is no way to check compliance with any instructions       included in the study. This article does not contain any studies with ani-
+regarding the assessment context.                               mals performed by any of the authors.
+
+                                                                Open Access This article is distributed under the terms of the Creative
+                                                                Commons Attribution 4.0 International License (http://
+Conclusions                                                     creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+                                                                distribution, and reproduction in any medium, provided you give appro-
+The present study illustrates the incremental effect of TP      priate credit to the original author(s) and the source, provide a link to the
+                                                                Creative Commons license, and indicate if changes were made.
+dimensions in predicting well-being and over and above
+personality. The way in which people perceive their past,
+present and future remains significant for both cognitive
+and affective aspects of well-being, consistent with the
+                                                                References
+proposal that TP is a mechanism for self-regulation
+                                                                Aristotle, A. (1954). Rhetoric. Retrieved from http://classics.mit.
+(Matthews and Stolarski 2015). Past Negative has the                 edu/Aristotle/rhetoric.html (Original work published 350 B.C.).
+major influence on life satisfaction, whereas additional        Boniwell, I., Osin, E., Linley, P. A., & Ivanchenko, G. V. (2010). A
+TPs, including Future Negative, contribute to predicting             question of balance: time perspective and well-being in British and
+temporary mood states. These findings confirm that the               Russian samples. The Journal of Positive Psychology, 5, 24–40.
+life satisfaction is expressed in everyday affective expe-      Boyce, C. J., Wood, A. M., & Powdthavee, N. (2013). Is personality
+                                                                     fixed? Personality changes as much as Bvariable^ economic factors
+rience, but they also show some dissociations between                and more strongly predicts changes to life satisfaction. Social
+predictors of life satisfaction and of mood, supporting              Indicators Research, 111, 287–305.
+the use of multiple criteria for well-being. We observed        Carelli, M. G., Wiberg, B., & Wiberg, M. (2011). Development and
+different sets of TP predictors for each of mood dimen-              construct validation of the Swedish Zimbardo time perspective in-
+                                                                     ventory. European Journal of Psychological Assessment, 27, 220–
+sions, which confirms their uniqueness and provides a
+                                                                     227.
+further rationale for the three-dimensional model of            Conway, M. A., & Pleydell-Pearce, C. W. (2000). The construction of
+mood (Matthews et al. 1990).                                         autobiographical memories in the selfmemory system.
+    This findings have several potential applications to             Psychological Review, 107(2), 261–288.
+studies of well-being, in addition to demonstrating the         Costa, P. T., & McCrae, R. R. (1992). Revised NEO personality inventory
+                                                                     (NEO PI-R) and NEO five-factor inventory (NEO-FFI). Odessa, FL:
+importance of TP. First, while TP is assessed as an indi-
+                                                                     Psychological Assessment Resources.
+vidual trait, scores on the ZTPI show meaningful varia-         Cunningham, K. F., Zhang, J. W., & Howell, R. T. (2015). Time perspec-
+tion across nations (Zimbardo and Boyd 2008), and cul-               tives and subjective well-being: a dual-pathway framework. In M.
+tural variation in TP may contribute to cross-cultural dif-          Stolarski, N. Fieulaine, & W. van Beek (Eds.), Time perspective
+ferences in wellbeing and economic growth. (Sircova                  theory; review, research and application (pp. 403–415). Cham,
+                                                                     Switzerland: Springer International Publishing.
+et al. 2015).                                                   Daugherty, J. R., & Brase, G. L. (2010). Taking time to be healthy:
+    Second, the research reiterates the value of using mul-          predicting health behaviors with delay discounting and time per-
+tiple criteria for SWB, consistent with the psychometric             spective. Personality and Individual Differences, 48, 202–207.
+Curr Psychol (2016) 35:516–526                                                                                                                       525
+
+Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The satis-    Matthews, G., Jones, D. M., & Chamberlain, A. G. (1990). Refining the
+     faction with life scale. Journal of Personality Assessment, 49, 71–75.        measurement of mood: the UWIST mood adjective checklist.
+Diener, E., Oishi, S., & Lucas, R. E. (2003). Personality, culture, and            British Journal of Psychology, 81, 17–42.
+     subjective well-being: emotional and cognitive evaluations of life.      Matthews, G., Schwean, V. L., Campbell, S. E., Saklofske, D. H., &
+     Annual Review of Psychology, 54, 403–425.                                     Mohamed, A. A. R. (2000). Personality, self-regulation and adapta-
+Drake, L., Duncan, E., Sutherland, F., Abernethy, C., & Henry, C. (2008).          tion: a cognitive-social framework. In M. Boekarts, P. R. Pintrich, &
+     Time perspective and correlates of well-being. Time & Society, 17,            M. Zeidner (Eds.), Handbook of self-regulation (pp. 171–207). New
+     47–61.                                                                        York: Academic.
+Ely, R., & Mercurio, A. (2011). Time perspective and autobiographical         Matthews, G., Deary, I. J., & Whiteman, M. (2009). Personality traits
+     memory: individual and gender differences in experiencing time and            (3rd ed.). Cambridge: Cambridge University Press.
+     remembering the past. Time & Society, 20, 375–400.                       McCrae, R. R. (2009). The five-factor model of personality traits: con-
+Field, A. (2009). Discovering statistics using IBM SPSS statistics.                sensus and controversy. In P. J. Corr & G. Matthews (Eds.),
+     Thousand Oakes: SAGE Publications.                                            Cambridge handbook of personality psychology (pp. 148–4161).
+                                                                                   Cambridge: Cambridge University Press.
+Goryńska, E. (2005). The mood adjective checklist (UMACL) by
+                                                                              Ring, L., Höfer, S., McGee, H., Hickey, A., & O’Boyle, C. A. (2007).
+     Matthews, chamberlain and Jones. Warsaw: PTP.
+                                                                                   Individual quality of life: can it be accounted for by psychological or
+Goryńska, E., Winiewski, M., & Zajenkowski, M. (2011). Związki                     subjective well-being? Social Indicators Research, 82, 443–461.
+     między osobowością i nastrojem [Relationships between personality        Rush, J., & Grouzet, F. M. (2012). It is about time: daily relationships
+     and mood]. In E. Goryńska, M. Ledzińska, & M. Zajenkowski                     between temporal perspective and well-being. The Journal of
+     (Eds.), Nastrój. Modele, geneza, funkcje [Mood. Models, origins,              Positive Psychology, 7, 427–442.
+     functions] (pp. 73–93). WUW: Warsaw.                                     Sailer, U., Rosenberg, P., Al Nima, A., Gamble, A., Gärling, T., Archer,
+Goryńska, E., Winiewski, M., & Zajenkowski, M. (2015). Situational                 T., & Garcia, D. (2014). A happier and less sinister past, a more
+     factors and personality traits as determinants of college students’           hedonistic and less fatalistic present and a more structured future:
+     mood. Personality and Individual Differences, 77, 1–6.                        time perspective and well-being. PeerJ, 2, e303.
+Jochemczyk, Ł., Pietrzak, J., Buczkowski, R., Stolarski, M., &                Schimmack, U., & Grob, A. (2000). Dimensional models of core affect: a
+     Markiewicz, Ł. (2016). You only live once: present-hedonistic time            quantitative comparison by means of structural equation modeling.
+     perspective predicts risk propensity. Personality and Individual              European Journal of Personality, 14, 325–345.
+     Differences. doi:10.1016/j.paid.2016.03.010.                             Schimmack, U., Schupp, J., & Wagner, G. G. (2008). The influence of
+Josephson, B. R. (1996). Mood regulation and memory: repairing sad                 environment and personality on the affective and cognitive compo-
+     moods with happy memories. Cognition & Emotion, 10, 437–444.                  nent of subjective well-being. Social Indicators Research, 89, 41–60.
+Jovanović, V. (2015). Beyond the PANAS: incremental validity of the           Shipp, A. J., Edwards, J. R., & Lambert, L. S. (2009). Conceptualization
+     scale of positive and negative experience (SPANE) in relation to              and measurement of temporal focus: the subjective experience of the
+     well-being. Personality and Individual Differences, 86, 487–491.              past, present, and future. Organizational Behavior and Human
+Juczyński, Z. (1999). Narzędzia pomiaru w psychologii zdrowia                      Decision Processes, 110, 1–22.
+     [Measurement tools in health psychology]. Przegląd                       Sircova, A., van de Vijver, F. J., Osin, E., Milfont, T. L., Fieulaine, N.,
+     Psychologiczny [Psychological Review], 42, 43–56.                             Kislali-Erginbilgic, A., & Zimbardo, P. G. (2015). Time perspective
+Juczyński, Z. (2001). Narzędzia pomiaru w promocji i psychologii                   profiles of cultures. In M. Stolarski, N. Fieulaine, & W. van Beek
+     zdrowia [measures for health psychology and health promotion].                (Eds.), Time perspective theory; review, research and application
+     Warsaw: PTP.                                                                  (pp. 169–187). Cham, Switzerland: Springer International
+Kairys, A., & Liniauskaite, A. (2015). Emotional processes in develop-             Publishing.
+     ment and dynamics of individual time perspective. In M. Stolarski,       Steel, P., Schmidt, J., & Shultz, J. (2008). Refining the relationship be-
+     N. Fieulaine, & W. van Beek (Eds.), Time perspective theory; re-              tween personality and subjective well-being. Psychological Bulletin,
+     view, research and application (pp. 99–113). Switzerland: Springer.           134, 138–161.
+Kozak, B., & Mażewski, M. (2007). Past or future? Functional meaning          Stolarski, M. (2016). Not restricted by their personality: balanced time
+     of time perspective. Psychological Colloquia, 16, 225–233.                    perspective moderates well-established relationships between per-
+                                                                                   sonality traits and well-being. Personality and Individual
+Kuppens, P., Realo, A., & Diener, E. (2008). The role of positive and
+                                                                                   Differences. doi:10.1016/j.paid.2015.11.037.
+     negative emotions in life satisfaction judgment across nations.
+                                                                              Stolarski, M., Bitner, J., & Zimbardo, P. G. (2011). Time perspective,
+     Journal of Personality and Social Psychology, 95, 66–75.
+                                                                                   emotional intelligence and discounting of delayed awards. Time &
+Lazarus, R. S. (1999). Stress and emotion: a new synthesis. New York:
+                                                                                   Society, 20, 346–363.
+     Springer.
+                                                                              Stolarski, M., Matthews, G., Postek, S., Zimbardo, P. G., & Bitner, J.
+Lucas, R., & Diener, E. (2000). Personality and subjective well-being              (2014). How we feel is a matter of time: relationships between time
+     across the life span. In V. J. Molfese & D. L. Molfese (Eds.),                perspectives and mood. Journal of Happiness Studies, 15, 809–827.
+     Temperament and personality development across the life span             Sword, R. M., Sword, R. K., & Brunskill, S. R. (2015). Time perspective
+     (pp. 211–234). Mahwah, NJ: Erlbaum.                                           therapy: transforming Zimbardo’s temporal theory into clinical prac-
+Luhmann, M., Hawkley, L. C., Eid, M., & Cacioppo, J. T. (2012). Time               tice. In M. Stolarski, N. Fieulaine, & W. van Beek (Eds.), Time
+     frames and the distinction between affective and cognitive well-be-           perspective theory; review, research and application (pp. 481–
+     ing. Journal of Research in Personality, 46, 431–441.                         498). Cham, Switzerland: Springer International Publishing.
+Matthews, G. (1992). Mood. In A. P. Smith & D. M. Jones (Eds.),               Thayer, R. E. (1997). The origin of everyday moods: managing energy,
+     Handbook of human performance. Vol. 3: state and trait (pp. 161–              tension, and stress. Oxford: Oxford University Press.
+     194). London: Academic Press.                                            Watson, D. (2000). Mood and temperament. New York: Guilford Press.
+Matthews, G., & Stolarski, M. (2015). Emotional processes in develop-         Wells, A., & Matthews, G. (2015). Attention and emotion: a clinical
+     ment and dynamics of individual time perspective. In M. Stolarski,            perspective (Classic ed.). Hove, UK: Psychology Press.
+     N. Fieulaine, & W. van Beek (Eds.), Time perspective theory; re-         Zajenkowski, M., Goryńska, E., & Winiewski, M. (2012). Variability of
+     view, research and application (pp. 269–286). Cham, Switzerland:              the relationship between personality and mood. Personality and
+     Springer International Publishing.                                            Individual Differences, 52, 858–861.
+526                                                                                                               Curr Psychol (2016) 35:516–526
+
+Zaleski, Z. (1996). Future anxiety: concept, measurement, and prelimi-     Zhang, J. W., Howell, R. T., & Stolarski, M. (2013). Comparing three
+     nary research. Personality and Individual Differences, 21, 165–174.       methods to measure a balanced time perspective: the relationship
+Zawadzki, B., Strelau, J., Szczepanik, P., & Śliwińska, M. (1998).             between a balanced time perspective and subjective well-being.
+     Inwentarz osobowości NEO-FFI Costy i McCrae [costa and                    Journal of Happiness Studies, 14, 169–184.
+     McCrae’s NEO-FFI personality inventory]. Warsaw: PTP.                 Zimbardo, P. G., & Boyd, J. N. (1999). Putting time in perspective: a
+Zhang, J. W., & Howell, R. T. (2011). Do time perspectives predict             valid, reliable individual-differences metric. Journal of Personality
+     unique variance in life satisfaction beyond personality traits?           and Social Psychology, 77, 1271–1288.
+     Personality and Individual Differences, 50, 1261–1266.                Zimbardo, P. G., & Boyd, J. (2008). The time paradox: the new psychol-
+                                                                               ogy of time that can change your life. New York: Free Press.
+

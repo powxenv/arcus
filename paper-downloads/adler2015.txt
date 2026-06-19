@@ -1,0 +1,1439 @@
+             PERSONALITY PROCESSES AND INDIVIDUAL DIFFERENCES
+
+             Variation in Narrative Identity Is Associated With Trajectories
+                          of Mental Health Over Several Years
+                       Jonathan M. Adler                                                                                 Ariana F. Turner
+             Franklin W. Olin College of Engineering                                                                         Scripps College
+
+
+     Kathryn M. Brookshier, Casey Monahan, and                                                                         Luke H. Harmeling
+                liana Walder-Biesanz                                                                                          Bates College
+             Franklin W. Olin College of Engineering
+
+
+        Michelle Albaugh and Dan P. McAdams                                                                           Thomas F. Oltmanns
+                      Northwestern University                                                                  Washington University in St. Louis
+
+
+                        This article presents 2 longitudinal studies designed to assess the relationship between variability in narrative
+                        identity and trajectories of mental health over several years. In Study 1, core scenes from 89 late-mid-life
+                        adults’ life stories were assessed for several narrative themes. Participants’ mental health and physical health
+                        were assessed concurrently with the narratives and annually for the subsequent 4 years. Concurrent analyses
+                        indicated that the themes of agency, redemption, and contamination were significantly associated with mental
+                        health. Longitudinal analyses indicated that these same 3 themes were significantly associated with partici­
+                        pants’ trajectories of mental health over the course of 4 years. Exploratory analyses indicated that narratives
+                        of challenging experiences may be central to this pattern of results. In Study 2, similar longitudinal analyses
+                        were conducted on a sample of 27 late-mid-life adults who received a major physical illness diagnosis between
+                        the baseline assessment and 6 months later and a matched sample of 27 control participants who remained
+                        healthy throughout the study. Participants’ mental health and physical health were assessed every 6 months
+                        for 2 years. In this study, the themes of agency, communion, redemption, and contamination in participants’
+                        life narratives collected at baseline (before any participant became sick) were significantly associated with
+                        mental health in the group of participants who went on to receive a medical diagnosis, but not in the control
+                        group. Taken together, the results of these 2 studies indicate that the way an individual constructs personal
+                        narratives may impact his or her trajectory of mental health over time.
+
+                        Keywords: narrative identity, health, agency, communion, redemption, contamination
+
+
+
+
+   Theories of narrative identity suggest that adults make sense of                       2001; McAdams & McLean, 2013; McAdams & Pals, 2006;
+their lives by constructing and telling stories about their experiences                   McLean, Pasupathi, & Pals, 2007; Pasupathi, 2001; Sarbin, 1986;
+(e.g., Habermas & Bluck, 2000; Hammack, 2008; McAdams, 1995,                              Singer, 2004). These narratives, which connect the reconstructed
+                                                                                          past to the perceived present and the anticipated future, serve to
+                                                                                          provide the self with a sense of purpose and unity (e.g., McAdams,
+   Jonathan M. Adler, Franklin W. Olin College of Engineering; Ariana F.                  1995, 2001). Stories that thematically and structurally distill an
+Turner, Department of Psychology, Scripps College; Kathryn M. Brook­
+                                                                                          especially strong sense of purpose and unity ought to be psycho­
+shier, Casey Monahan, and Dana Walder-Biesanz, Franklin W. Olin Col­
+lege of Engineering; Luke H. Harmeling, Department of Psychology, Bates
+                                                                                          logically beneficial for their narrator, promoting health and well­
+College; Michelle Albaugh, Department of Human Development and So­                        being (e.g., Adler, 2012; Bauer & McAdams, 2010; Lodi-Smith,
+cial Policy, Northwestern University; Dan P. McAdams, Department of                       Geise, Roberts, & Robins, 2009; McAdams, 1995, 2001; McAd­
+Psychology and Department of Human Development and Social Policy,                         ams & McLean, 2013). Without a doubt, purpose and unity are
+Northwestern University; Thomas F. Oltmanns, Department of Psychology                     important ends in their own right and narrative identity is con­
+and Department of Psychiatry, Washington University in St. Louis.                         cerned with much more than just mental health (MH). For exam­
+   We wish to thank Yana Weinstein, Joshua Oltmanns, Merlyn M. Ro­                        ple, McAdams (2006) asserts that narrative identity should also
+drigues, Maureen Bayer, Jonathan Lewis, a grant to Dan P. McAdams from
+                                                                                          provide convincing causal explanations for the self, reflect the
+the Foley Family Foundation which supported data collection in Study 1,
+                                                                                          richness of lived experience, and advance socially valued actions.
+and a grant to Thomas F. Oltmanns from the National Institute of Mental
+Health (R01-MH077840), which supported data collection in Study 2.                        Nonetheless, there is a strong expectation running through much of
+   Correspondence concerning this article should be addressed to Jonathan                 the research on narrative identity that “good stories” are those that
+M. Adler, Franklin W. Olin College of Engineering, Olin Way, MH 368,                      support the narrator’s MH (e.g., Adler, Lodi-Smith, Philippe, &
+Needham, MA 02492. E-mail: jadler@olin.edu                                                Houle, in press).
+
+                                               Journal of Personality and Social Psychology, 2015, Vol. 108, No. 3, 4 7 6 -4 9 6
+                                   © 2015 American Psychological Association 0022-3514/15/$ 12.00       http://dx.doi.org/10.1037/a0038601
+
+
+                                                                                    476
+                                                    NARRATIVE IDENTITY AND HEALTH                                                        All
+
+    Researchers have empirically tested the relationship between         and the shape and rate of change in MH over time, one needs more
+ narrative identity and MH in a number of different studies. Often,      than two assessment points and different analytical tools.
+ they have assessed narrative identity and MH in the wake of                There are two studies that have examined the relationship be­
+ difficult life experiences, for hardships not only threaten MH but      tween narrative identity and MH over time using more than two
+ also pose a challenge to narrative identity. In these instances, the    assessment points, drawing on the same data set (Adler, 2012;
+ individual must work to either incorporate a new (typically nega­       Adler & Hershfield, 2012). In each study, a significant prospec­
+tive) experience into his or her existing self-story, or revise his or   tive association between particular themes in participants’ nar­
+her narrative identity to accommodate the event. For example,            ratives and their MH was observed. These two studies used
+researchers have examined associations between narrative identity        psychotherapy as a vehicle for change in a wide range of life
+ and MH in the aftermath of divorce (King & Raspin, 2004), during        circumstances and, as such, were primarily focused on short­
+ a period of bereavement (Baddeley & Singer, 2010), and in the           term change, with the average length of time between the first
+ context of psychotherapy (Adler, Skalina, & McAdams, 2008).             and final assessment point (usually the 12th assessment) being
+The findings from this literature have demonstrated that all narra­      just under 15 weeks. There are a small number of longitudinal
+tives are not created equal and do not exert equal effects. Instead,     studies that have examined change over longer periods of time,
+ different thematic and structural characteristics of narrative iden­    but none permits an examination of the relationship between
+tity are differentially associated with MH (e.g., Adler, 2012; Adler,    interindividual differences in narrative identity as they are
+Chin, Kolisetty, & Oltmanns, 2012; Adler et al., in press; Adler &       associated with intraindividual trajectories of MH (or other
+Poulin, 2009; Baddeley & Singer, 2010; Bauer & McAdams, 2010;            outcomes). For example, McAdams and colleagues (2006) dem­
+Bauer, McAdams, & Sakaeda, 2005; Dunlop & Tracy, 2013; King              onstrated the relative stability and variability in different nar­
+& Raspin, 2004; King, Scollon, Ramsey, & Williams 2000; King             rative themes in a sample of emerging adults over 3 years, but
+& Smith, 2004; Lodi-Smith et al., 2009; Lysaker et al., 2012; Pals,      they did not examine these differences in relation to MH or
+2006; Tavernier & Willoughby, 2012).                                     other outcomes, as that was not the aim of the study.
+    Although demonstrating the concurrent correlations between              Thus, the two studies we report in this article provide the first
+narrative characteristics and MH is a vital first step in supporting     evidence of the longitudinal association between variability in
+the assertions of narrative theory, it is also important to demon­       narrative identity and individual trajectories of MH over a sub­
+strate that successful narrative identity supports MH over time, not     stantial period of time. Each study includes a community sample of
+just in the same moment. There are now a few longitudinal studies        adults and draws on data collected at multiple time points over the
+documenting this association over time. For example, Bauer and           course of several years. The unifying hypothesis underlying this
+McAdams (2010) showed that different types of narratives about           pair of studies is that the associations that have been documented
+college students’ life goals were differentially associated with MH      between different narrative themes and MH in cross-sectional and
+outcomes 3 years after the narratives were written. In addition,         two-time-point longitudinal studies will also be affirmed when
+Lodi-Smith and colleagues (2009) found that particular themes in         examining trajectories over several years. This association is cen­
+college students’ retrospective stories about their personality          tral to the theory of narrative identity and remains untested using
+change during college were associated with increases in their            methodological designs and analytical tools best suited to address­
+emotional health over the period. Finally, Dunlop and Tracy              ing it.
+(2013) found that adults enrolled in Alcoholics Anonymous whose
+story of their last drink featured the theme of redemption were
+more likely to report staying sober 4 months after writing the story,
+                                                                                   Developmental and Cultural Contexts
+compared with participants whose narratives did not contain this            Both of the studies presented here include samples from late
+theme. Studies like these serve to demonstrate the longitudinal          midlife. Study 1 includes participants in their mid- to late 50s, and
+associations between narratives collected at one time point and          Study 2 includes participants in their late 50s to early 60s. During
+MH assessed at a separate time point.                                    this developmental period, one of the chief challenges is managing
+    Yet, like these three studies, virtually every study that has        one’s physical health (PH). Except in the case of unusually early
+examined the longitudinal association between narrative identity         mortality, PH issues are a universal and inescapable challenge—
+and MH has relied on two-time-point designs. Although this lays          one that becomes increasingly common over the adult life course.
+an essential foundation, such designs are quite limited in their         Just as the biological changes of puberty help jumpstart identity
+explanatory power for a number of reasons. Most importantly,             development in adolescence (e.g., Erikson, 1959), biological de­
+two-time-point designs do not actually allow for a direct investi­       cline throughout adulthood also prompts reflection on the past,
+gation of the key issue that most of these studies aspire to address:    present, and future (e.g., Kenyon, Bohlmeijer, & Randall, 2011).
+the nature of individual differences in intraindividual change. The      Of course, this developmental period is marked by a range of other
+central question in longitudinal research of this type is whether        common experiences that also have the potential to prompt a
+variation in narrative identity predicts change over time in MH.         reexamination of one’s sense of self, such as the transition to
+Demonstrating that such variation at Time 1 (Tl) is associated           retirement and the transition to grandparenthood, among others.
+with shifts between Tl and Time 2 (T2) does begin to address the         The present studies focus on the relationships between variation in
+matter, but, analytically, it often necessarily treats interindividual   narrative identity and trajectories of MH broadly, but highlight PH
+variability in change as error variance (see Collins & Sawyer,           as one of the principal domains in which both narrative identity
+2000, and Laurenceau, Hayes, & Feldman, 2007, for a further              and MH are challenged during this developmental period.
+discussion of issues with two-time-point longitudinal designs). To          There are many ways of approaching this reevaluation of one’s
+evaluate the associations between variation in narrative identity        identity in the face of such challenges. Theories of narrative
+478                                                             ADLER ET AL.
+
+
+identity suggest that people draw from a menu of scripts available          The narrative theme of communion is often paired with agency
+in their culture for how lives ought to unfold (e.g., Berntsen &         as one of the superordinate themes in life narratives (e.g., McAd­
+Rubin, 2004; Bohn, 2011; Habermas & Bluck, 2000; Hammack,                ams et al., 1996). Moreover, communion often appears in stories
+2008; McAdams, 2001; McAdams & Pals, 2006). Stories of people            about PH. Whereas some people respond to illness by adopting the
+wrestling with PH challenges are abundant in contemporary Amer­          guise of “the fighter,” others focus on their social connections as
+ican culture. For example, before his history of doping was un­          the key to regaining vitality. Like agency, the drive for connection
+covered, the story of cyclist Lance Armstrong’s experience with          with others is a fundamental human need, described by Deci and
+cancer launched a high-profile public awareness campaign, selling        Ryan (2000), for instance, as a need for relatedness. There is also
+over 47 million yellow “Live Strong” bracelets in its first year to      a growing body of evidence linking the theme of communion, or
+support cancer research (Webster, 2005). The mass media also             social connectedness, to positive MH across a variety of contexts
+commonly takes the health struggles of everyday people and turns         (e.g., Adler et al., 2012; Helgeson, 1994; Helgeson & Palladino,
+them into parables for popular consumption (e.g., Johnson, 1998).        2012; E. D. Mansfield & McAdams, 1996; Philippe, Koestner,
+One of the reasons these stories may be so captivating is their          Beaulieu-Pelletier, & Lecours, 2011; Woike & Polo, 2001). Illness
+ability to present a range of narrative options for individuals to use   not only operates within the individual but also sends ripples
+when it comes time to crafting one’s own story of a PH challenge.        throughout his or her social network (e.g., Christakis, 2004; Klein-
+These master narratives (Hammack, 2008) provide socially af­             man & Seeman, 1999), and stories of connection are a common
+firmed choices for how stories ought to unfold. As such, they are        narrative option for responding to this challenge. Of course, high­
+likely to be characterized by a set of themes that are widely            lighting one’s relationships is also a beneficial way of narrating
+available in contemporary American culture and that convey dif­          one’s life experiences more broadly as well.
+ferent options for how stories of PH challenges might sound. They            In addition to agency and communion, stories of adversity in
+also serve this purpose beyond the narrow specificity of physical        contemporary American culture often display one of two trajecto­
+decline, providing examples of general narrative strategies for          ries: redemption or contamination. Redemption stories start out
+making sense of hardship.                                                bad, but end good (e.g., McAdams, Reynolds, Lewis, Patten, &
+                                                                         Bowman, 2001). McAdams (2013) suggested that redemption may
+                                                                         be considered a signature theme in American history, heritage, and
+                       Four Core Themes                                  popular literature. Like canonical American stories of upward
+                                                                         social mobility, rags to riches, and liberation from oppression, the
+   The present pair of studies examines four narrative themes:           narrative of recovery is an especially common redemptive story
+agency, communion, redemption, and contamination. These                  wherein the protagonist regains an early goodness, innocence, or
+themes were selected based on their ubiquity in American master          health. Personal stories of recovery from illness may lead to
+narratives of navigating adversity, especially their relevance to        personal growth, a reconceptualization of one’s priorities, richer
+narrating PH challenges and the strong traditions of empirical           connections with others, or a deepening of one’s spirituality. In
+research demonstrating their associations with MH.                       each instance, the negative health experience is narrated as having
+   One of the central themes in contemporary American stories            led to a valued outcome. The positive end need not completely
+about PH is agency. “The fighter” is a common protagonist in             overwhelm the negativity of the health challenge to be understood
+illness narratives—a main character who goes to battle with his or       as a redemption theme; the ability to glean some positivity amid
+her disease in a struggle for health and vitality. The essence of this   the struggle can be considered redemptive enough to produce
+character is his or her sense of personal agency—the ability to          positive ends. Empirical research on redemption narratives has
+exert some influence over the course of his or her life, as opposed      demonstrated their positive association with MH in a variety of
+to being batted around by the whims of external forces. Agency is        domains (e.g., Adler & Poulin, 2009; Baddeley & Singer, 2008;
+a central human concern (e.g., Bandura, 2006), taps the fundamen­        Dunlop & Tracy, 2013; Lodi-Smith et ah, 2009; McAdams et ah,
+tal human need for autonomy (e.g., Deci & Ryan, 2000), and has           2001).
+been referred to as one of the overarching themes in life narratives         In contrast to redemption sequences, contamination sequences
+(McAdams, Hoffman, Mansfield, & Day, 1996). There is a strong            follow the trajectory from good to bad. In these stories, scenes that
+tradition of research linking the theme of agency in personal            start out positive are narrated as ending negatively. Whereas re­
+narratives to positive MH (e.g., Adler et al., 2008; Helgeson, 1994;     demption sequences find a positive seed in the midst of negative
+Woike & Polo, 2001), including recent empirical data demonstrat­         experiences, the negativity in contamination sequences is de­
+ing that agency may increase prior to associated increases in MH         scribed as overwhelming or polluting the preexisting positivity
+(Adler, 2012). Indeed, agency has been examined in stories of a           (e.g., McAdams et ah, 2001). It is easy to see how stories of PH
+wide variety of challenging life experiences, including major life       challenges might take a contaminative arc, with the onset of
+transitions (Bauer & McAdams, 2004), important and problematic            symptoms spoiling the health and vitality that preceded them.
+moments in close relationships (Thorne & Michaelieu, 1996), and          Contamination sequences have been shown to be associated with a
+psychotherapy (Adler, 2012). In the context of PH challenges,            range of poor MH outcomes (e.g., Adler, Kissel, & McAdams,
+there is mixed evidence that believing in one’s ability to overcome       2006; Adler & Poulin, 2009; Baddeley & Singer, 2008; Lodi-
+one’s illness is actually predictive of better PH outcomes (e.g.,         Smith et ah, 2009; McAdams et al., 2001).
+Coyne & Tennen, 2010), but there is convincing evidence that the             These four themes—agency, communion, redemption, and con­
+personal story itself is associated with better MH and quality of life   tamination—represent four common master narratives of life’s
+(e.g., Aspinwall & Teseschi, 2010; Chipperfield et ah, 2012;              challenges, and each has a tradition of empirical research support­
+Helgeson & Palladino, 2012; Petrie & Weinman, 2012).                      ing its association with MH. Agency and communion are motiva-
+                                                   NARRATIVE IDENTITY AND HEALTH                                                        479
+
+tional themes, whereas redemption and contamination are affective       cross-sectional contexts and a few two-time-point longitudinal
+themes, in narrative identity. Without a doubt, there are many other    designs, no study has allowed for a direct investigation of the
+narrative themes—motivational, affective, and other types—that          central longitudinal question. One of the key assertions of the
+are associated with MH (e.g., Adler et al., in press), but these four   theory of narrative identity is that personal narratives do not just
+warrant especially close attention in the current research because      serve a psychological function in the moment that they are con­
+of their grounding in cultural master narratives and relevance to       structed or told, but that the way a personal narrative thematically
+PH challenges.                                                          and structurally instantiates the narrator’s sense of purpose and
+   Emerging research links all four themes to changes in MH over        unity should serve as a foundation for supporting his or her MH
+time. In a study by Adler (2012), the theme of agency in psycho­        over time (e.g., Dunlop & Tracy, 2013; Giddens, 1991; McAdams,
+therapy clients’ stories increased over 15 weeks of treatment, and      2001). The existing evidence supports the conclusion that interin­
+these increases temporally preceded associated increases in MH. In      dividual variability in narrative identity is associated with MH, but
+a study by Bauer and McAdams (2010), themes of communion in             there are no data that can speak to whether the association between
+emerging adults’ stories of their personal goals were associated        these interindividual differences is associated with intraindividual
+with increases in MH 3 years later. In a study by Dunlop and Tracy      trajectories of MH over substantial periods of time. The present
+(2013), Alcoholics Anonymous participants whose stories of their        studies provide two approaches to this question, relying on meth­
+last drink included themes of redemption were more likely to            odological designs and analytical strategies employed to directly
+report remaining sober 4 months later than those whose narratives       investigate this question. We have selected samples with common
+did not contain this theme (Dunlop & Tracy, 2013). Finally, in a        developmental concerns, one of which is challenges to PH, in
+study by Lodi-Smith and colleagues (2009), low levels of themes         examining the matter. Both studies share the core hypotheses that
+of contamination (as part of a composite variable representing          higher levels of the themes of agency, communion, and redemp­
+“affective processing”) in college students’ stories of their person­   tion, and lower levels of contamination will be associated with
+ality change during college were associated with increases in MH        positive trajectories of MH, over time.
+over the 4 years (Lodi-Smith et al., 2009). Thus, empirical evi­
+dence from longitudinal studies extends findings from cross-
+                                                                                                     Study 1
+sectional research to demonstrate the association between the
+themes of agency, communion, redemption, and contamination                 Study 1 investigated the relationship between individual differ­
+and MH over time.                                                       ences in narrative identity and intraindividual differences in tra­
+   There is also an impressive array of findings from a distinct, but   jectories of MH over the course of 4 years in a community sample
+related, literature, focused on the expressive writing paradigm         of late-mid-life adults. As such, this study can be understood as an
+(e.g., Pennebaker, 1997). This body of research has demonstrated        initial test of the key questions outlined earlier under naturalistic
+that writing about difficult experiences has significant associations   circumstances, wherein the sample participants were followed over
+with both PH and MH (e.g., Pennebaker & Chung, 2011). Al­               time and their MH was periodically reassessed.
+though longitudinal research has been conducted beyond the im­             The participants in Study 1 were drawn from a larger investi­
+mediate aftermath of the intervention, data suggest that the bene­      gation of narrative identity in late-mid-life. Of relevance to the
+ficial results of this approach for both MH and PH are maintained       present study, they participated in an extensive life story interview
+up to 6 months later (Pennebaker & Chung, 2011). Despite some           designed to collect not only core components of the typical life
+conceptual overlap, research on the expressive writing paradigm         story interview but also several specific topics relevant to partic­
+bears important differences from research on narrative identity that    ipants in this developmental period (McAdams, 2008). The inter­
+prevents its conclusions from directly translating to the present       view included an unusual section, wherein participants were asked
+pair of studies. Most centrally, research on expressive writing has     to tell the story of a significant health challenge. Thus, the data
+primarily employed linguistic, as opposed to narrative, approaches      from this study allow not only for an investigation of overall trends
+to examining text. Linguistic approaches emphasize the role of          in the association between narrative identity and trajectories of
+specific categories of word use, whereas narrative approaches           MH but also a focused examination of the thematic content of
+focus on the emergent meaning in personal stories, which is             health challenge stories and MH in a sample for whom this should
+composed of, but irreducible to, the specific words used (e.g.,         be a salient present concern.
+Weston, 2014). The scant empirical research that has directly              Based on the conclusions from the accumulated body of re­
+examined the differences between linguistic and narrative compo­        search on narrative identity and MH that has employed cross-
+nents of text has demonstrated little overlap in their prediction of    sectional and two-time-point longitudinal designs, the hypotheses
+health outcomes (e.g., Graybeal, Sexton, & Pennebaker, 2002).           of Study 1 are that higher levels of agency, communion, and
+                                                                        redemption, and lower levels of contamination, in the narratives of
+                                                                        late-mid-life adults will be associated with positive trajectories of
+                 The Present Pair of Studies
+                                                                        MH over the subsequent 4 years. These themes ought to be
+   The present pair of studies employs different longitudinal de­       associated with increases— as opposed to declines or stability— in
+signs that include multiple assessment points to examine a core         MH over time. The sample also permits a focused investigation of
+assertion of the theory of narrative identity that remains untested:    these hypotheses using data from a chapter in the life story spe­
+that different ways of constructing a personal narrative ought to       cifically describing the participant’s greatest health challenge—a
+predict different trajectories of MH over time. Although existing       concern that should be relevant in the current lives of participants
+research has documented the association between the themes of           in the sample. There is no theoretical or empirical basis on which
+agency, communion, redemption, and contamination in a variety of        to develop a separate set of hypotheses concerning health narra-
+480                                                                ADLER ET AL.
+
+
+tives, but additional analyses will examine whether the general             sample did not significantly differ from the unselected participants
+hypotheses are supported when these specific stories are used. The          in terms of age, /(161) = —.01, p = .99, race, f(161) = .98, p =
+data therefore permit an investigation of whether the association           .33, education, r( 161) = .72, p = .47, income, r( 161) = .03, p =
+between narrative themes and trajectories of MH are specific to             .98, or scores on the MH and PH composites described in the
+certain types of stories or are identified when examining personal          following sections (MH: /(161) = 1.46, p = .15; PH:
+narratives more generally.                                                  r(161) = —.088, p = .37). The sample did include proportionally
+                                                                            more men than the broader data set, r( 161) = 2.82, p < .001.
+Method                                                                      Forty-nine (55%) of the participants were male and 43 (42%) were
+                                                                            African-American/Black. The average level of education in the
+   Participants. Participants were drawn from a larger, ongoing,
+                                                                            sample was a college degree. Demographic characteristics of
+10-year longitudinal study of aging in the baby boomer birth
+                                                                            the sample are presented in Table 1. As a result of efforts by the
+cohort (see Jones & McAdams, 2013, for a more thorough de­
+                                                                            broader study team to retain participants, attrition was limited. In
+scription of the broader study methods). All measures in the
+                                                                            the present sample, of the 89 participants at Baseline, 88 provided
+present study were drawn from the first five assessment points in
+                                                                            data at T2 (1 year after Baseline), 87 provided data at Time 3 (2
+this study: at the time of enrollment (Baseline) and once a year for
+                                                                            years after Baseline), 85 provided data at Time 4 (3 years after
+the next 4 years. Participants were recruited by an independent
+                                                                            Baseline), and 83 provided data at Time 5 (4 years after Baseline).
+private research firm through print advertisements and mailings.
+                                                                            Because of this small degree of attrition, no analyses were under­
+Interested individuals contacted the research firm by telephone and
+were asked a series of screening questions. To qualify for the              taken to determine whether the dropouts meaningfully differed
+broader study, individuals must have been born during the years of          from the rest of the sample.
+1951 to 1954, identify as either African-American/Black or Euro-               Measures.
+American/White, and have earned at least a high school diploma.                MH. MH was assessed via four widely used questionnaires:
+The broader study was designed to investigate questions pertaining          the Psychological Well-Being scales (Ryff & Keyes, 1995; Cron-
+to race and therefore aimed to include roughly equal numbers of             bach’s alpha = .87), the Social Well-Being scales (Keyes, 1998;
+African-American/Black and Euro-American/White participants.                Cronbach’s alpha = .72), the Satisfaction with Life Scale (Diener,
+As a result, some targeted recruitment of African-American/Black            Emmons, Larsen, & Griffin, 1985; Cronbach’s alpha = .83), and
+participants through advertisements in media focused on African-            the Beck Depression Inventory-H (BDI-n; Beck, Steer, & Brown,
+Americans was conducted by the research firm.                                1996; Cronbach’s alpha = .82). These four measures were selected
+   The sample for the present study was 89 adults between the ages          to tap a broad-based assessment of MH. Scores on the Baseline
+of 55 and 59 at Baseline. In order to permit investigation of the           assessment of the four measures were highly intercorrelated (ab­
+unique association between narrating one’s greatest health chal­            solute value of Pearson rs = 0.37 to 0.63), so a composite
+lenge and one’s trajectory of MH, participants were selected for            variable representing MH was created, with higher scores indi­
+inclusion in the present study if they discussed a personal health          cating better MH.
+challenge, as opposed to a health challenge faced by a family                  PH. PH was assessed using the SF-12 (Ware, Kosinski, &
+member or close other during the life story interview (representing         Keller, 1994; Cronbach’s alpha = .88), one of the most widely
+54% of the broader data set). Analyses comparing the sample with            used measures of self-reported PH, and a self-report checklist
+the larger data set from which it was drawn indicated that the              indicating whether the individual had ever been diagnosed with
+
+
+Table 1
+Demographic Characteristics o f Samples
+
+                                                                                                          Study 2
+                                       Study 1 (n = 89)                      Illness group (n = 27)                  Control group (n = 27)
+                             Number (% of sample)         M (SD)      Number (% of sample)       M (SD)       Number (% of sample)        M (SD)
+Sex
+  Female                             49 (55)                —                13 (48)                  —               13 (48)                 —
+
+  Male                               40 (45)                —                14 (52)                  —               14 (52)                 —
+
+Race
+  African-American/Black             43 (48)                —                 6(22)                   —                6(22)                  —
+
+  Euro-American/White                46 (52)                —                21 (78)                  —               21 (78)                 —
+
+Age                                    —               56.38(1.48)             —               60.22 (2.61)             —               60.26 (2.65)
+  Income                               —                5.56 (4.26)            —                2.74(1.68)              —                2.76 (1.98)
+  Education                            —                3.01 (1.02)            —                5.96 (2.12)             —                5.96 (2.12)
+Note. Study 1 - Income: 1 = <$25,000/year, 2 = $25,000-$49,999/year, 3 = $50,000-$74,999/year, 4 = $75,000-$99,999, 5 = $100,000-5124,999,
+6 = $125,000-$149,999/year, 7 = $ 150,000-$174,999/year, 8 = $175,000-5199,999/year, 9 = $200,000-$224,999/year, 10 = $225,000-$249,999/year,
+11 = $250,000-$274,999/year, 12 = $275,000-$300,000/year, 13 = >$300,000/year; Study 1 - Education: 1 = high school, 2 = some college, 3 =
+college degree (BA or BS), 4 = graduate work (postcollege), 5 = advanced degree; Study 2 - Income: 1 = <$20,000/year, 2 = $20,000-$39,999/year,
+3 = $40,000-$59,999/year, 4 = $60,000-$79,999/year, 5 = $80,000-599,999/year, 6 = $100,000-5119,999/year, 7 = $120,000-5139,999/year,
+8 = >$140,000/year; Study 2 - Education: 0 = none, 1 = elementary or junior high, 2 = GED, 3 = high school diploma, 4 = vocational/technical degree,
+5 = associate’s degree, 6 = RN diploma, 7 = bachelor’s degree, 8 = master’s degree, 9 = doctoral degree.
+                                                        NARRATIVE IDENTITY AND HEALTH                                                                 481
+
+each of 34 medical conditions, drawn from the Midlife in the                       yeah, who are you?” And, you know, I’m thinking, “Do you have an
+United States study (Ryff & Almeida, 2009). The score on the                       identity?” And that was the first thing for me: I am going to keep my
+Baseline SF-12 was highly correlated with the Baseline sum of                      identity. I’m going to learn who I am, and I am going to be a strong
+the medical diagnoses (r = .48, p < .001), so a composite of these                 woman. And I think that was a big point in my life where I saw how
+measures representing PH was created, with higher scores indicat­                  important it was to be my own person and create my own identity
+ing better PH.                                                                     even to the point when I got married, I didn’t want to give up my
+                                                                                   maiden name because I felt like, no, I don’t want to lose this. This is
+   Narratives. Participants engaged in a Life Story Interview
+                                                                                   who I am, and I will add on my married experience to it. And
+ (McAdams, 2008), a 2- to 3-hr semistructured interview developed
+                                                                                   thankfully enough, it was a short enough name that it didn’t—wasn’t
+and widely used for collecting full accounts of individuals’ lives.                too much of a hardship on, on anything after that. But, that meant a lot
+Interviews were audio recorded and professionally transcribed,                     to me.
+verbatim. The interviews produced a very large amount of text
+ (M = 17,216 words per participant, SD = 5,521). For the purpose                  This participant described how seeing the examples of her
+of the current study, four core scenes were selected for investiga­            classmates led to her own determination “to be a strong woman”
+tion: scenes describing participants’ high points, low points, turn­           and how that manifested in her life over time. She recalls this
+ing points, and greatest health challenge. For each scene, partici­            experience as a key turning point in her life story, one that
+pants were asked to describe the event in detail, including when               establishes her as a highly agentic person. In the present study, two
+and where it took place, who was there, and what they were                     coders who were blind to the hypotheses and participant charac­
+thinking and feeling, and to discuss what the scene may say about              teristics rated the narratives with excellent interrater reliability
+who they are as a person. Each scene was quite substantial in                  (Intra-class correlation (ICC) Case 2, Type I = 0.82; Shrout &
+length (high points: M = 879 words, SD = 494 words; low points:                Fleiss, 1979). For analyses, scores across the scenes were averaged
+M = 1,010 words, SD = 576 words; turning points: M = 958                       or, in the case of targeted analyses by scene, used independently.
+words, SD = 476 words; health challenge: M = 760 words, SD =                      The theme of communion was rated using a 4-point scale drawn
+551 words). The health challenge chapters were extremely varied                from previous studies that assessed life stories (e.g., Adler et al.,
+in content, covering topics including near-fatal brushes with can­             2012). In this system, a “0” indicates that the narrative is lacking
+cer, recovery from major car accidents, acute infections, and                  in any talk of motivation for connection or explicitly discusses
+struggles with chronic problems such as back pain, obesity, dia­               motivation for disconnection. For example, in describing her de­
+betes, and asthma.                                                             cision to have a fibroid tumor removed, one participant said,
+   Once each year for 4 years, following the life story interview
+                                                                                   It was a big decision. It was only my decision. That is one of those
+and initial battery of self-report questionnaires, participants again
+                                                                                   things that—it is not like you could share that decision with anybody
+completed the measures included in the MH and PH composite
+                                                                                   else, and I did not share it. I knew my husband’s view on doctors
+variables, allowing for assessment of their trajectories over time.                which is, it would have been, never do it, never do it. It was just my
+   Coding o f the narratives. Participants’ narratives were rated                  decision and I made it.
+by reliable coders using widely used, reliable, and valid coding
+systems for the themes of agency, communion, redemption, and                      In this excerpt, the participant explains how she was motivated
+contamination. Following typical practice in narrative research, the           to make the decision without any other input, even from her
+complete set of narratives was coded for a given theme before                  husband, thus demonstrating low levels of communion. In contrast,
+moving on to the next theme. Coders were trained to stringent                  a “3” was given when there is a high degree of discussion of
+standards of interrater reliability with each coding system before             interpersonal relationships and the individual described his or her
+undertaking the coding process in earnest, working iteratively with            motivation for close connection with others. For example, here is
+subsets of the data in collaboration with the first author.                    an excerpt from one participant’s discussion of her experiences in
+   The theme of agency was rated using a 4-point scale drawn from              the wake of a stroke:
+previous studies that examined narrative identity and MH (e.g.,
+Adler, 2012; Adler et ah, 2012). In this system, a “0” indicates that              I had the stroke and . . . it gives you so much fear and I was terrified
+                                                                                   at that. But even with the fear it was like spirits [visited me]. My
+the individual portrayed himself or herself as completely power­
+                                                                                   great-grandson came over and cooked me breakfast. I had some
+less, at the mercy of the whims of fate or other external forces. For
+                                                                                   rubber eggs and some burnt bacon, and some grits that I don’t know
+example, in discussing her ongoing struggles with obesity, one                     what he did to them [laughs]. He cooked me breakfast and it took him
+participant said, “I feel claustrophobic, like I’m in somebody else,               three hours to do it ‘cause I think he maybe messed up the first few
+like the fat is smothering me. It’s awful.” She portrayed her excess               times, you know. He was instructed he’s not to let me out of bed
+body fat as powerfully acting upon her, nearly robbing her of her                  so that was a good experience during that time . . . But having gone
+own identity. In contrast, a “3” was given when the individual                     through all of that, even with the rubber eggs . . . that’s one of them
+portrayed himself or herself as having been the major driver of the                times you, you learn that I don’t care how little family you got,
+events described. For example, one participant described an insight                friends, coworkers, or whatever, when you get in a position like that
+she had while taking a course in college that introduced her to                    they can help you.
+feminist theory:
+                                                                                 In this example, the participant makes clear how her family, like
+    A lot of people that were in that course were women that were coming       “spirits,” swooped in to take care of her while she recovered and
+    back into the college world. I was just starting out. And it was kind of   how meaningful that was to her. Two coders, blind to the hypoth­
+    a neat class because I got to see from their experience how they were      eses, coded the narratives with excellent interrater reliability (ICC
+    dependent on the, the men in their life . . . And it was like, “Well,      Case 2, Type I = 0.82). For analyses, scores across the scenes
+482                                                                       ADLER ET AL.
+
+
+were averaged or, in the case of targeted analyses by scene, used                          It was, it was sort of like, “Oh my gosh, this has happened and I can’t
+independently.                                                                             see how this will ever end and I can’t get out of it.” I mean it, it’s you
+   Redemption and contamination were rated using a system de­                              know, like if your knee always hurts, you can at least go about your
+veloped by McAdams and colleagues (2001) that has been used in                             business. But this was debilitating.
+a wide range of previous studies (e.g., Adler & Poulin, 2009;
+                                                                                       The experience made this participant feel vulnerable and dis­
+Lodi-Smith et al., 2009; McAdams et al., 2001). In this coding                      connected for the first time in his life, destroying his historically
+system, each narrative scene is assigned a score of 0 (absent) or 1
+                                                                                    solid sense of himself.
+(present) for each theme. Redemption is rated as present when a
+                                                                                       Narratives may receive scores noting the presence of both
+narrative shows a clear shift from an undesired or negative begin­
+                                                                                    redemption and contamination. Coefficient kappa was used as the
+ning to a subsequent positive ending. The beginning and ending
+                                                                                    index of interrater reliability for redemption and contamination
+must be narrated as connected to each other and the emergent
+                                                                                    coding. Two coders, blind to the hypotheses, achieved excellent
+positivity must somehow undo the core (if not the entirety) of the
+                                                                                    interrater reliability (kapparedemption = 0.80; kappacontamination
+initial negativity. For example, one participant told the story of
+                                                                                    0.83). For analyses, scores across the scenes were summed or, in
+becoming pregnant as a teenager, the low point of her life. She
+                                                                                    the case of targeted analyses by scene, used independently. Thus,
+starts the story on the day she came home from high school,
+                                                                                    the metric for all four themes was 0 to 4 when all four scenes were
+knowing that her school counselor was going to call and inform
+                                                                                    examined as a set.
+her mother:
+
+      I couldn’t tell my mother, and I knew the phone was going to ring. I             Results
+      went and got in the bathtub. I could not tell my mother. And I heard                Baseline cross-sectional analyses. Zero-order correlations
+      my mother say “What?!” . . . I was scared. I didn’t know what to do.
+                                                                                       presenting the cross-sectional relationships between Baseline de­
+      I didn’t know, I didn’t know nothing about birth control or nothing. I
+                                                                                       mographic, narrative, and MH and PH variables are presented in
+      didn’t know anything . . . and I always say, although it was the lowest
+      point, it was a blessing because I feel that God knew before I knew.             Table 2. There were few significant relationships between demo­
+      As I always said, if I wouldn’t have had that child then I would not             graphic variables and the narrative variables and MH or PH (see
+      have a child today ‘cause I haven’t met anybody that’s worth any­                Table 2). There were almost no significant associations among the
+      thing. So God blessed me. That was a blessing for me, and I know my              narrative themes, with the exception of agency and redemption,
+      son loves me . . . that was the lowest point, and it came out to be a            which were significantly positively correlated, r = .26, p < .05. It
+      blessing.                                                                        is important to note that the length of the narratives was not
+                                                                                       associated with any of the narrative variables or demographic
+   She describes how this nadir experience resulted in a relation­
+                                                                                       variables, or with MH or PH.
+ship she is deeply grateful for, thus redeeming the terror and shame
+                                                                                          These correlational analyses provided support for most of the
+of the day her mother found out.
+                                                                                       first set of hypotheses in the present study, as they indicate that at
+   Contamination is rated as present when a narrative shows a clear
+                                                                                       the concurrent time point, MH, but not PH, was significantly
+shift from a pleasant or positive beginning to a subsequent nega­
+                                                                                       correlated with the narrative themes (assessed across all four
+tive ending. The beginning and ending must be narrated as con­
+                                                                                       scenes) of agency (MH: r = .34, p < .01; PH: r = —0.05, p =
+nected to each other and the negative state at the end must spoil or
+                                                                                       .74), redemption (MH: r = .33, p < .01; PH: r = .05, p = .65), and
+overcome the previous positive state. For example, one participant
+                                                                                       contamination (MH: r = —0.36, p < .01; PH: r = -0.18, p =
+described the onset of his illness in his early 50s:
+                                                                                       .08). However the theme of communion was not significantly
+      I usually feel very unified. I think I’ve always sort of felt unified and        associated with MH or PH (MH: r = .14, p — .20; PH: r = .14,
+      for the first time I didn’t feel unified. It’s scary, you know, and I            p = .19). Simultaneous regression equations including all four
+      thought, it truly, it was the kind of thing where for the first time I           narrative themes produced analogous results (MH: RI2 = 0.26,
+      couldn’t say, “For 50 years I’ve been fine. I’m going to be fine again.”         Pagency = 0.22, p < .05; Pcommunion = 0.08, p = .46; Predemption =
+
+Table 2
+Study 1: Intercorrelations Between Time 1 Variables
+
+                              1             2    ,       3            4            5             6            7            8             9           10
+
+ 1. Sex
+ 2. Race                    -.0 6
+ 3. Age                       .03        -.16*
+ 4. Income                  -.0 2          .12         -.16*
+ 5. Education               -.0 9        -.11          -.1 0         .21**
+ 6. Agency                    .19          .08           .12       -.1 3            .18
+ 7. Communion                 .03        -.24*           .08         .06          -.11        -.01
+ 8. Redemption                .18          .14         -.1 7       -.0 4          -.01          .26*        -.0 9
+ 9. Contamination           -.0 6          .11         -.1 6       -.1 8          -.01        -.1 6         -.2 0       -.0 4
+10. Word count                .11          .01         -.1 5         .01            .19         .08           .11         .05           .15
+11. Physical health         -.0 6        -.0 2         -.1 2       -.16*          -.1 3         .04           .14       -.0 5         -.1 8         -.11
+12. Mental health             .19*       -.1 2           .18*        .12            .03         .34**         .14         .33**       -.36**          .03
+* p < .05.    ** p < .01.
+                                                            NARRATIVE IDENTITY AND HEALTH                                                            483
+
+ 0.24 p < .05; pcontamination = -0 .2 9 , p < .01; PH: R2 = 0.06,                   years compared with those with lower levels of these themes,
+ P agency         _ 0.05, p — .69; P com m unjon = 0.11, p = .32;                   whereas participants whose narratives featured higher levels of
+ P r e d e m p tio n _ 0.05, p — .68, P c o n ta m in a tio n _ ~ 0.14, p = .23).   contamination had more negative trajectories of MH over 4 years
+These findings largely replicate those from previous research that                  than those with lower levels. There were no reliable differences in
+has documented the associations between three of these narrative                    MH trajectory based on participants’ theme of communion. The
+themes and MH.                                                                      addition of demographic variables into the model did not signifi­
+      Longitudinal analyses. The primary analytical approach used                   cantly impact the findings. Furthermore, a model that included
+for examining longitudinal trends was growth curve modeling, also                   participants’ trajectory of PH over time did not significantly im­
+called hierarchical linear modeling (HLM; e.g., Bryk & Rauden-                      pact the findings (Model 5), indicating that the relationship be­
+bush, 1987; Garson, 2012; Nezlek, 2011). HLM is well suited to                      tween intraindividual variation in narrative identity and trajectories
+the analysis of real-world longitudinal data because it can accom­                  of MH over time was not impacted by participants’ PH over time.
+modate missing or unevenly spaced data points in modeling the                          Exploratory analyses, by scene. Given the unusual inclusion
+growth curves of variables (e.g., Singer & Willett, 2003). The first                of a prompt in the life story interview conducted with this sample
+set of longitudinal models from this study is presented in Table 3.                 that asked participants to describe their greatest health challenge,
+In the present study, there were no general trends over time in                     as well as the developmental relevance of this experience for the
+participants’ PH or MH when examined across the entire sample                       sample, a set of exploratory analyses was conducted to determine
+(see Models 1 and 2). Given the diversity of the sample’s life                      whether individual differences in the narration of this scene was
+experiences, this lack of clear overarching patterns was not sur­                   associated with different trajectories of MH or PH. In narrative
+prising.                                                                            research, it is somewhat unusual to conduct analyses using a single
+      Participants’ narrative themes across all four scenes were unre­              scene when more are available, barring theoretical predictions
+lated to their PH trajectory over the course of 4 years (Model 3).                  about the uniqueness of specific stories. For example, C. Mans­
+In contrast, participants’ trajectories of MH showed significant                    field, McLean, and Lilgendahl (2010) developed specific hypoth­
+variation based on individual differences in their narrative themes                 eses about differences between narratives of traumas and narra­
+across all four scenes, even after statistically accounting for the                 tives of transgressions. In their analyses, they examined these
+passage of time (Model 4). Specifically, participants whose narra­                  single-scene narratives separately and found distinct associations
+tives featured higher levels of the themes of agency and redemp­                    between their thematic content and well-being. In the present
+tion had more positive trajectories of MH over the subsequent 4                     study, PH challenges are developmentally relevant, given the
+
+
+
+                       Table 3
+                       Study 1 Growth Curve Models (Final Estimation o f Fixed Effects With Robust Standard Errors)
+
+                                                        Parameter                                    Coefficient     SE          t
+                      Model 1: Physical health over time
+                       Intercept                                                                         0.68       0.02        0.95
+                       Slope                                                                           -0.02        0.04      -0.54
+                      Model 2: Mental health over dme
+                       Intercept                                                                       -0.10        0.05      -0.15
+                       Slope                                                                           -0.01        0.01      -0.37
+                      Model 3: Physical health over time with narrative themes at Level 2
+                       Intercept                                                                         0.65       0.07        0.94
+                       Slope                                                                           -0.02        0.04        0.60
+                       Agency                                                                            0.02       0.33        0.06
+                       Communion                                                                         0.27       0.31        0.88
+                       Redemption                                                                        0.49       0.71        0.69
+                       Contamination                                                                   -1.15        0.88      -1.31
+                      Model 4: Mental health over time with narrative themes at Level 2
+                       Intercept                                                                         0.01       0.01      -0.39
+                       Slope                                                                             0.44       0.19        2.37*
+                       Agency                                                                            0.17       0.09        1.92*
+                       Communion                                                                         0.11       0.09        1.29
+                       Redemption                                                                        0.25       0.17        2.29*
+                       Contamination                                                                   -0.51        0.27      -1.97*
+                      Model 5: Relationship between mental health and physical health over
+                          time with narrative themes at Level 2
+                       Intercept                                                                       -0.10        0.14      -0.67
+                       Mental health slope                                                               0.37       0.18        1.91*
+                       Physical health slope                                                           -0.01        0.10      -0.66
+                       Agency                                                                            0.08       0.04        2.03*
+                       Communion                                                                         0.01       0.05        0.83
+                       Redemption                                                                        0.17       0.08        1.87*
+                       Contamination                                                                   -0.17        0.09      -1.86*
+                      *p < .05.
+484                                                                 ADLER ET AL.
+
+
+late-mid-life sample. Exploratory analyses compared individual              ciations between narrative themes and MH, both concurrently and
+differences in the narration of health challenges with narratives of        prospectively, depending on the scene that is narrated.
+high points, low points, and turning points in their association with
+trajectories of MH and PH over 4 years.                                     Discussion
+    Baseline cross-sectional analyses indicated that the general as­           The results of Study 1 provide two general conclusions about
+sociations between the narrative themes and MH and PH were                  the relationship between narrative identity and MH. First, when
+observed at the level of specific scenes only for narratives of health      assessed concurrently, the findings from this study add to the
+challenges and of low points (see Table 4). In other words, indi­           growing body of research that has identified significant associa­
+vidual differences in the themes of agency, redemption, and con­            tions between the themes of agency, redemption, and contamina­
+tamination were significantly associated with MH in health chal­            tion and MH. Second, the findings from this study provide the first
+lenge and low-point scenes, but not in high-point and turning-point         data to suggest that individual differences in narrative identity are
+scenes. As in the analyses of general trends, no significant asso­          associated with different trajectories of MH over a substantial
+ciations were observed for any narrative theme in any scene and             period of time. In this sample of late-mid-life adults, participants
+PH (though there was a marginally significant negative association          whose narratives included higher levels of the themes of agency
+between contamination in low-point scenes and PH), or between               and redemption and lower levels of the theme of contamination
+the theme of communion in any scene and MH.                                 experienced more positive trajectories of MH over 4 years com­
+    Longitudinal analyses also indicated that the patterns observed         pared with participants whose narratives had different thematic
+when examining the associations between individual differences in           content. These findings were largely consistent across participants’
+narrative themes across all scenes and trajectories of MH were              age, race, education level, and income level. There were no sig­
+generally replicated when themes were examined within health                nificant relationships between individual differences in partici­
+challenge and low-point scenes, but not within high-point or                pants’ narratives and their trajectories of PH over 4 years. This
+turning-point scenes (see Models 1 through 4 in Table 5). In other          finding aligns with theoretical work on narrative identity that
+ words, individual differences in the themes of agency, redemption,         distinguishes between the objective reality of one’s lived experi­
+ and contamination in health challenge and low-point scenes— but            ences and the storied meaning that is constructed from those
+ not in high-point and turning-point scenes—were significantly              experiences (e.g., McAdams, 2001).
+ associated with trajectories of MH (but not PH). (The one excep­              The pattern of results from Study 1 suggests that narrating one’s
+ tion was an additional significant result for contamination in             experiences with a greater sense of agency and with the theme of
+ turning-point scenes and trajectories of MH.) No significant asso­         redemption—and without the theme of contamination—may sup­
+ ciations were observed between individual differences in commu­            port MH over time. One excerpt from a participant’s narrative
+ nion and trajectories of MH (though a marginally significant               makes this especially clear. In concluding the story of her signif­
+ association was observed between individual differences in com­            icant health challenge, this participant said,
+ munion in turning-point scenes and trajectories of MH). Taken
+ together, the results of the baseline cross-sectional analyses and the            I value that experience in that it (along with the experiences of my
+ longitudinal analyses suggest that there may be differential asso-                aunt) has given me a positive and healthy outlook . . . I’ve often said
+                                                                                   to myself through my life that if I’m ever told that I have cancer that
+                                                                                   I’m going to say to the doctor, “Okay, so what’s next? What do we do
+Table 4                                                                            now? Because I’m not trying to die. What are we going to do to
+                                                                                   eradicate this cancer? What are my options?” That’s the position I’m
+Study 1: Correlations Between Time 1 Themes and Outcomes
+                                                                                   going to take. It doesn’t matter what type of disease, cancer, whatever
+by Scene                                                                           . . . I have personal experiences that I can look at that say it’s possible
+                                                        Mental health r            that I can get through that if that should ever happen in my life.
+                             Physical health r
+
+Agency                                                                         In this passage, the participant demonstrates how her highly
+  Health challenge                   .12                     .27**          agentic and redemptive narrative of her past health challenge has
+  Low point                        -.07                      .28***         given her a foundation for approaching hypothetical future chal­
+  High point                         .05                     .17
+                                                                            lenges that may arise. She says that she will feel empowered the
+  Turning point                    -.1 9                     .02
+Communion                                                                   next time she gets sick and values the health challenge for its
+  Health challenge                   .08                    -.1 0           ability to demonstrate how positive outcomes may result from
+  Low point                          .07                      .18           negative experiences. Even among participants whose narratives
+  High point                       -.01                       .02           do not draw such explicit connections between their stories of the
+  Turning point                      .18                      .17
+Redemption
+                                                                            past and their anticipated future selves, the results from this study
+  Health challenge                   .16                      .22**         suggest that thematic elements of narrative identity differentially
+  Low point                        -.0 5                                    relate to prospective trajectories of MH.
+  High point                         .05                    -.1 0              The lack of significant findings in Study 1 regarding the theme
+  Turning point                    -.1 0                    -.1 5
+                                                                            of communion was unexpected. Previous theoretical and empirical
+Contamination
+  Health challenge                 -.15                     -.25**          work has pointed to the positive association between a drive for
+  Low point                        -.21*                    -.28***         connection with others and positive MH. However, as Helgeson
+  High point                         .17                       .02          and Palladino (2012) point out, questionnaire-based measures of
+  Turning point                    -.0 6                    -.1 7           communion have shown inconsistent associations with MH and
+*p = .07.    **p < .05.   ***p < .01.                                       PH. Communion scores were somewhat low in the present sample,
+                                                       NARRATIVE IDENTITY AND HEALTH                                                       485
+
+                    Table 5
+                    Study 1 Growth Curve Models (Final Estimation o f Fixed Effects With Robust Standard Errors)
+                    by Scene
+
+                                                      Parameter                              Coefficient    SE        t
+                   Model 1: Mental health over time with agency by scene at Level 2
+                    Intercept                                                                  -0.01       0.01   -0.40
+                    Slope                                                                        0.33      0.15     2.24**
+                    Agency health challenge                                                      0.08      0.05     1.75**
+                    Agency low point                                                             0.10      0.05     2.09**
+                    Agency high point                                                            0.07      0.06     1.17
+                    Agency turning point                                                       -0.02       0.08   -0.24
+                   Model 2: Mental health over time with communion by scene at Level 2
+                    Intercept                                                                  -0.14       0.15   -0.91
+                    Slope                                                                        0.34      0.11     2.06**
+                    Communion health challenge                                                 -0.01       0.05   -0.22
+                    Communion low point                                                          0.07      0.04     1.64
+                    Communion high point                                                       -0.03       0.05   -0.67
+                    Communion turning point                                                      0.10      0.04     1.69*
+                   Model 3: Mental health over time with redemption by scene at Level 2
+                    Intercept                                                                  -0.13       0.08   -1.60
+                    Slope                                                                        0.31      0.11     1.41**
+                    Redemption health challenge                                                  0.17      0.08     2.00**
+                    Redemption low point                                                         0.31      0.03     3.42***
+                    Redemption high point                                                      -0.02       0.08   -0.26
+                    Redemption turning point                                                   -0.08       0.09   -1.01
+                   Model 4: Mental health over time with contamination by scene at Level 2
+                    Intercept                                                                  -0.12       0.07   -1.63
+                    Slope                                                                        0.28      0.09     1.93**
+                    Contamination health challenge                                             -0.26       0.09   -1.98**
+                    Contamination low point                                                    -0.18       0.10   -1.77**
+                    Contamination high point                                                     0.01      0.40     0.02
+                    Contamination turning point                                                -0.29       0.15   -2.00**
+                   > = .09.    * > < .0 5 .   * * > < .0 1 .
+
+
+
+ though population means are unknown. On a scale of 0 to 3, the          positive state to another (such as the transition to parenthood or the
+ means and standard deviations for each scene were as follows:           shift from student to professional). This variability may explain the
+ health challenge, M = 1.30, SD = 1.02; high point, M = 2.21,            lack of results for turning-point scenes (also see Tavernier &
+SD = 0.96; low point, M = 1.01, SD = 0.98; turning point, M =            Willoughby, 2012). As noted earlier, there is little research that has
+ 1.44, SD = 0.97. It is possible that there was less variation in        directly examined the matter of scene content in the association
+communion in the present sample than in other samples, and that          with MH over time. Without a doubt, the results from scene-level
+this drove the nonsignificant results. It is also possible that more     analyses ought to be interpreted as preliminary. Single codes
+specific coding of communion, looking at contextualized commu­           (especially for themes of redemption and contamination, which
+nion with particular people or particular types of social connec­        were coded dichotomously) are less robust predictors of trajecto­
+tions, might have yielded significant results.                           ries of change than codes aggregated across several scenes. Nev­
+   The results of exploratory analyses indicate that both the cross-     ertheless, these results open a promising avenue for future inves­
+sectional and prospective associations between narrative themes          tigation.
+and MH may vary depending on the type of scene narrated.
+Specifically, the overall trends were largely replicated when ex­
+amining scenes in which participants narrated a significant health
+                                                                                                        Study 2
+challenge or their life’s low point, but not in scenes describing           The central question in Study 2 was whether the associations
+their life’s high point or turning point. Given that narratives of a     between individual differences in narrative identity and intraindi­
+significant health challenge demonstrate a similar pattern of asso­      vidual trajectories of MH would also be identified in the wake of
+ciations with MH as low points, this suggests that the shared focus      a specific negative life experience: the onset of a major physical
+on negative events common to narratives of both health challenges        illness. Whereas Study 1 sought to identify patterns in a natural­
+and low points may be the key ingredient in their association with       istic longitudinal sample, Study 2 investigated these same relation­
+MH. Although the valence of the events described was not sys­            ships in the context of a narrowly defined natural experiment. The
+tematically coded, anecdotal reports of the coders indicated that        sample for Study 2 was drawn from a much larger data set, that
+the vast majority of health-challenge and low-point scenes con­          allowed for the creation of two groups, matched on demographic
+tained negative events, whereas extremely few high-point scenes          characteristics— one that contained participants who experienced
+did. Turning-point scenes were quite varied, with some including         the onset of a major physical illness at a precise time point in the
+negative events, but many simply describing a shift from one             series of longitudinal assessments, and the other that contained
+486                                                             ADLER ET AL.
+
+
+participants who remained healthy. This approach, although sac­          group. Matched control participants were selected using the fol­
+rificing some ecological validity, provides a more stringent test of     lowing criteria: (a) he or she was free of significant PH diagnoses
+the general hypotheses examined in Study 1. It is also unique in the     through the T5 assessment point, meaning they had not received a
+narrative literature, though a study by Tavernier and Willoughby         significant PH diagnosis in their lives through T5 (or they shared
+(2012) used a matched sample design in a two-time-point study of         a similar history of mild other illnesses as the participant they were
+adolescents’ turning-point stories.                                      matched with); and (b) he or she exactly matched a participant in
+   The hypotheses of Study 2 are the same as in Study 1. First, we       the illness group on all of the following demographic categories:
+hypothesize that the concurrent relationships between the narrative      sex, age, race, educational attainment. Of these, 17 cases matched
+themes of agency, communion, redemption, and contamination               identically on all of the matching variables (meaning that 63% of
+and MH will be replicated in this new and unusual sample. Second,        the sample was perfectly matched). For the remainder, the closest
+the longitudinal associations between variability in the narrative       possible match was identified (i.e., in some cases the match was 1
+themes and trajectories of MH will be tested to determine whether        year older or younger; in others, the demographic variables were
+they replicate across the entire new sample, or only among partici­      perfectly matched, but the endorsement of “other” previous diag­
+pants who experience the onset of a physical illness. The design of      noses was discordant). In instances for which more than one case
+Study 2 allows for the testing of these hypotheses in two separate       provided an equivalent match, the included case was selected at
+groups of participants— one with a shared negative life experience       random.
+and a control group of sorts, without a specifically shared life             Thus, the complete sample for Study 2 was 54 participants: 27
+challenge. Thus, this study is centrally concerned with whether          who received a major illness diagnosis between Baseline and T2
+variation in narrative identity is associated with different trajecto­   and 27 matched participants who remained healthy throughout the
+ries of MH in the wake of a specific negative experience.                duration of the study. The longitudinal design of Study 2 is
+                                                                         presented in Figure 1 for clarity. The results of t tests confirmed
+                                                                         that there were no differences between the groups on any demo­
+M ethod
+                                                                         graphic characteristic (sex: r(52) = 0.00, p = 1.00; age:
+   Participants. Participants in the present study were drawn            t(52) = —0.05, p = .96; race: t(52) = 0.00, p = 1.00; educational
+from a broader study of personality and aging (see Oltmanns,             attainment: f(52) = 0.00, p = 1.00), nor were there differences
+Rodrigues, Weinstein, & Gleason, 2014, for a detailed description        between the groups on MH, r(52) = —0.01, p = .99, or PH,
+of study methods, including participant recruitment and retention).      t(52) = 0.49, p = .51, at Baseline. The sample was 48% female
+From the large (over 1,500 participants), epidemiologically repre­        and 22% African-American/Black. A description of the two sam­
+sentative, community-based sample, a select group of participants        ples is included in Table 1. In presenting the results of this study,
+were identified whose PH time course allowed for a close exam­            the two groups will be referred to as the “illness” group and the
+ination of the association between narrative identity and trajecto­       “control” group. Although some participants had some missing
+ries of MH in the wake of a major illness diagnosis. Every                data at some time points, all 54 participants remained in the sample
+participant from the broader sample who satisfied three criteria          through every assessment. Because the primary longitudinal ana­
+was selected: (a) he or she was free of significant PH diagnoses          lytical approach, HLM, can accommodate missing data (e.g.,
+through the Baseline assessment point; (b) he or she reported being       Singer & Willett, 2003), no special procedures were undertaken to
+diagnosed with a serious illness between Baseline and T2, 6               account for missing data.
+months later; and (c) he or she did not report receiving any                 Measures.
+additional significant medical diagnoses between T2 and T5, 2                MH. Participants’ MH was assessed at each time point using
+years following Baseline. In other words, participants were se­           two measures. First, the BDI-II (Beck et al., 1996; Cronbach’s
+lected who had been mostly healthy up until receiving a serious           alpha = .81), was used, as in Study 1. In addition, participants’
+illness diagnosis between Baseline and T2, and then did not               MH was assessed with the Social Adjustment Scale Self-Report
+receive any additional illness diagnoses for the duration of the          (Weissman & Bothwell, 1976; Cronbach’s alpha = .82), a 48-item
+study. These criteria were adopted in order to allow the results to       instrument that has been widely used for assessing social function­
+most directly speak to the role of narrative identity in adapting to      ing in both clinical and community samples, particularly in the
+a specific subsequent illness diagnosis.                                  context of longitudinal studies of social adjustment. This scale
+   Twenty-seven participants from the broader sample met these            produces both a global score as well as five specific domain
+three criteria and were selected for inclusion in the present study       scores; in the present study, only the global score was used. Scores
+(illnesses diagnosed between Baseline and T2, 6 months later,             on both measures were standardized, and then scores on the BDI-II
+were as follows: arthritis, n = 4; cancer, n = 6; cardiac illnesses,      were reversed such that higher scores on these two measures were
+n = 5; diabetes, n = 6; gastrointestinal illnesses, n — 4; and            both indicative of positive MH. These scores were highly corre­
+pulmonary diseases, n = 2). It is important to note that this             lated with each other, r = .54, p < .01; thus, they were standard­
+particular sample was not selected to be representative of the            ized and averaged to create a composite score representing partic­
+population as a whole, or the population of people who receive            ipants’ MH. Although depression might be seen as a specific
+serious illness diagnoses; they were selected in order to address         outcome domain, given the small sample size, the preliminary
+ the specific longitudinal hypotheses in Study 2, and so reducing         nature of this investigation, and the high intercorrelation, a single
+the number of confounding variables was prioritized over external         outcome measure of MH was adopted.
+validity.                                                                    PH. Participants’ PH was assessed at each time point with the
+    Using the remainder of the broader sample, a matched control          RAND-36, the most widely used questionnaire measure of health-
+participant was identified for each of the participants in the illness    related quality of life (Hays & Morales, 2001). This instrument is
+                                                   NARRATIVE IDENTITY AND HEALTH                                                             487
+
+
+
+
+                                                    Figure 1.   Study 2 longitudinal design.
+
+
+ composed of 36 items and produces eight scale scores and two             systems described in Study 1. Unlike in Study 1, there was no
+ summary scores representing PH and MH. For the purposes of the           question in the interview that specifically asked participants to
+present study, only the PH composite score from the RAND-36               narrate a significant PH challenge. Indeed, at Baseline in Study 2,
+was used to avoid contamination with the separate assessment of           all participants reported being free of the major health conditions
+MH. The PH composite includes assessment of physical function­            that were covered in the diagnostic interview. It seems certain that
+ing, pain, and role limitation resulting from PH problems. There          participants would have been able to generate a health narrative, if
+are numerous precedents for using the PH composite indepen­               directly asked for one, but doing so was beyond the scope of the
+dently from the rest of the scale as a primary measure of PH, and         broader study from which the present data were drawn. In Study 2,
+evidence suggests it is truly distinct from the MH composite (e.g.,       two coders (different from those in Study 1), blind to the hypoth­
+Simon, Revicki, Grothaus, & Vonkorff, 1998).                              eses and trained to a high standard of interrater reliability, assessed
+   Narratives. All participants from the broader data set engaged         each life story narrative in its entirety, using the same coding
+in an abbreviated Life Story Interview (e.g., McAdams, 2008) at           systems used in Study 1, for the themes of agency (ICC Case 2,
+Baseline. Because participants underwent extensive interview-             Type I = 0.80), communion (ICC Case 2, Type I = 0.83),
+based assessment as part of the broader study from which the              redemption (kappa = 0.86), and contamination (kappa = 0.81).
+present sample was drawn, the Life Story Interview was substan­
+tially streamlined to include only the following core scenes: Life
+                                                                          R esults
+Chapters, High Point, Low Point, Turning Point, Positive Charac­
+ters, and Negative Characters. The narratives were still adequately          Baseline cross-sectional analyses. Zero-order correlations
+substantial in length for viable coding (M = 2,883 words, SD =            presenting the cross-sectional relationships between Baseline de­
+ 1,926 words), but much shorter than typical life stories (only 17%       mographic, narrative, and MH and PH variables for each group of
+the length of the full life stories obtained in Study 1, and 80% the      participants are presented in Table 6. Within both groups, Euro-
+length of the four scenes coded in Study 1). Life Story Interviews        American/White participants had significantly higher levels of
+were videotaped and professionally transcribed, verbatim.                 education than Aftican-American/Black participants, and in the
+   Coding o f the narratives. Participants’ entire life story narra­      control group, higher levels of education were significantly asso­
+tives were coded for the same four themes using the same coding           ciated with higher income. In addition, for both illness and control
+488                                                              ADLER ET AL.
+
+
+Table 6
+Study 2: Intercorrelations Between Time 1 Variables
+
+                           1         2        3          4             5            6         7          8          9         10       11     12
+
+ 1. Sex
+  Illness group
+  Control group
+ 2. Race
+  Illness group          -0.20
+  Control group          -0.19
+ 3. Age
+  Illness group          -0.08      0.01
+  Control group          -0.07    -0.02
+ 4. Income
+  Illness group          -0.16     0.29     -0.13
+  Control group          -0.20     0.20       0.22
+ 5. Education
+  Illness group          -0.16     0.67**   -0.12        0.32
+  Control group          -0.16     0.68**   -0.14        0.42*
+ 6. Agency
+   Illness group          0.34    -0.08      0.15        0.04       -0.14
+   Control group          0.04      0.11     0.03        0.20         0.30
+ 7. Communion
+   Illness group          0.28      0.06    -0.30      -0.07           0.01        0.12
+   Control group          0.23    -0.03     -0.31      -0.04           0.08        0.23
+ 8. Redemption
+   Illness group          0.35    -0.30     -0.22      -0.18        -0.03          0.11     0.52**
+   Control group          0.36      0.22    -0.28      -0.12          0.07         0.30     0.52**
+ 9. Contamination
+   Illness group         -0.23      0.14    -0.26      -0.24        -0.26         -0.31     0.27      -0.12
+   Control group           0.09   -0.12     -0.37*     -0.06        -0.12         -0.26     0.09        0.09
+10. Word count
+   Illness group          0.27    -0.17     -0.12      -0.26        -0.18          0.14     0.57**      0.57**      0.09
+   Control group          0.22    -0.21     -0.27      -0.12        -0.09          0.04     0.41*       0.32        0.09
+11. Physical health
+   Illness group           0.24     0.35    -0.22        0.20         0.11         0.11     0.29        0.04      -0.01       0.15
+   Control group         -0.11      0.02    -0.05      -0.31        -0.03          0.14     0.08        0.16        0.16      0.10
+12. Mental health
+   Illness group         -0.08      0.49*   -0.02        0.09          0.31        0.29     0.18        0.30      -0.10     -0.22
+   Control group           0.28   -0.05       0.03     -0.10           0.29        0.22     0.28        0.09      -0.09     -0.23
+
+ p < .05.   **p < .01.
+
+
+groups, the themes of redemption and communion were signifi­                  redemption: f(52) = 1.15, p = .25; contamination: t(52) = 0.20,
+cantly positively correlated with each other. Furthermore, the                p = .85). There was also no significant difference in the mean
+length of narratives was significantly associated with the themes of          length of narratives written by the two groups of participants,
+redemption and contamination. Previous research has not reported              t(52) = —0.66, p = .52. When this result is considered along with
+an association between word count and these themes.                           the matched demographic variables and nonsignificant differences
+   Across groups, there were no significant associations between              in MH or PH, it is clear that there are no significant differences
+the narrative themes and either MH or PH in concurrent analyses               measured between the participants in the illness and control groups
+at Tl, though all trends were in the expected directions. This null           prior to one group being diagnosed with an illness.
+funding, specifically with respect to MH, was unexpected and                     Longitudinal analyses.
+counter to our hypotheses. It may be an artifact of the relatively               Analyses across the entire sample. The first set of growth
+small sample size of this study and/or the comparatively small                curve models was constructed to test whether there were signifi­
+amount of narrative data available for coding. Indeed, moderate               cant differences in the trajectories of MH and PH between the
+correlations were observed between MH and the themes of agency,               illness and control groups. Longitudinal models for Study 2 are
+communion, and redemption, even though they did not reach                     presented in Table 7. Not surprisingly, when group (illness vs.
+standard significance levels.                                                 control) was entered as a Level 2 variable, significant differences
+   In preparation for longitudinal analyses comparing participants            in PH were observed over time between the illness participants and
+in the illness and control groups, it was necessary to determine              the control participants (Model 1). This affirms that the diagnosis
+whether there were any significant differences between the narra­             of an illness between Baseline and T2 in the illness group did
+tives in each group. When the narrative themes were assessed                  result in poorer trajectories of PH in this group compared with the
+across the two groups, there were no significant differences at               control group. No significant differences were observed in MH
+Baseline between the illness group and the control group (agency:             over time between the two groups (Model 2). Following these
+t(52) = 0.90, p = .37; communion: f(52) = —0.23, p = .82;                     analyses, the data were split into two groups based on participants’
+                                                      NARRATIVE IDENTITY AND HEALTH                                                    489
+
+                   Table 7
+                   Study 2 Growth Curve Models (Final Estimation o f Fixed Effects With Robust Standard Errors)
+
+                                                     Parameter                                   Coefficient    SE         t
+                  Model 1: Physical health over time with group at Level 2
+                    Intercept                                                                       55.15       1.82    30.27*'*
+                    Slope                                                                            0.81       0.40     2.07*
+                    Group                                                                            6.04       1.96     3.08**
+                  Model 2: Mental health over time with group at Level 2
+                    Intercept                                                                         0.03      0.18     0.17
+                    Slope                                                                           -0.02       0.04   -0.64
+                    Group                                                                             0.08      0.21     0.35
+                  Model 3: Physical health over time within illness group
+                    Intercept                                                                       55.47       1.70    34.37**
+                    Slope                                                                          -0.76        0.35   -2.16*
+                  Model 4: Physical health over time within illness group with illness type at
+                        Level 2
+                    Intercept                                                                       52.72       3.64    14.49**
+                    Slope                                                                          -0.58        0.68   -0.85
+                    Illness type                                                                     0.17       0.96     0.19
+                  Model 5: Mental health over time within illness group
+                    Intercept                                                                        0.07       0.10     0.46
+                    Slope                                                                          -0.03        0.04   -0.65
+                  Model 6: Mental health over time within illness group with narrative
+                        themes at Level 2
+                    Intercept                                                                       50.69       3.49    14.54***
+                    Slope                                                                            0.79       0.34     2.36*
+                   Agency                                                                            4.30       1.17     2.13*
+                   Communion                                                                         6.16       2.25     2.74*
+                   Redemption                                                                       14.56       6.45     2.26*
+                   Contamination                                                                   -9.72        6.72   -1.95*
+                  Model 7: Relationship between mental health and physical health over time
+                       within illness group with narrative themes at Level 2
+                   Intercept                                                                        49.59       5.09     9.75***
+                   Mental health slope                                                               0.99       0.48     2.04*
+                   Physical health slope                                                             0.01       0.07     0.19
+                   Agency                                                                            3.46       1.95     1.98*
+                   Communion                                                                         6.38       2.70     2.36*
+                   Redemption                                                                       16.47       7.91     2.22*
+                   Contamination                                                                  -10.49        7.94   -1.72*
+                  Model 8: Mental health over time within control group
+                   Intercept                                                                        62.68       1.84    34.00**
+                   Slope                                                                           -0.41        0.46   -0.88
+                  Model 9: Physical health over time within control group
+                   Intercept                                                                        58.02       1.21   47.95**
+                   Slope                                                                             0.17       0.28    0.61
+                  Model 10: Mental health over time within control group with narrative
+                       themes at Level 2
+                   Intercept                                                                        69.86       3.49    20.00***
+                   Slope                                                                             0.41       0.46     0.89
+                   Agency                                                                            3.30       2.64     1.25
+                   Communion                                                                         1.46       2.41     0.60
+                   Redemption                                                                       13.12      12.00     1.09
+                   Contamination                                                                  -20.68        7.29   -2.84*
+                  Model 11: Physical health over time within control group with narrative
+                       themes at Level 2
+                   Intercept                                                                        49.27       7.62     6.47***
+                   Slope                                                                             0.22       0.43     0.52
+                   Agency                                                                            2.22       3.43     0.65
+                   Communion                                                                       -1.20        4.34   -0.28
+                   Redemption                                                                       14.10      16.98     0.83
+                   Contamination                                                                    16.82      12.85     1.31
+                  ”p < .05. *’> < . 0 1 .   * " > < .0 0 1 .
+
+
+diagnostic status, and subsequent models were run separately for           Within this group, there were no significant differences in PH
+each group.                                                                decline over time across the six diagnostic categories that were
+  Analyses within the illness group. Within the illness group,             assessed (diagnostic type was entered as a Level 2 variable;
+significant decline in PH was observed over time (Model 3).                Model 4). In other words, participants in this group reported
+490                                                             ADLER ET AL.
+
+
+comparable levels of PH decline on the RAND-36, regardless of             to share their unique approach to meaning-making in a way that is
+the specific diagnosis they received. Within this group, there            ultimately instructive (e.g., Josselson & Lieblich, 1993). Espe­
+was no significant decline in MH over time (Model 5) and no               cially in the context of a small-sample study, such as Study 2, it is
+significant variability in MH changes across diagnostic groups.           important to return to participants’ voices as the site where quan­
+In addition, there were no differences in either MH or PH over            titative trends are instantiated in individual lives.
+time across participants’ sex, age, race, education level, or                 Ava1 grew up in rural southern Illinois and moved to Alton,
+personal income.                                                          Missouri, when she got married at the age of 19. She remembers the
+    Although illness participants experienced declines in their PH,       date in November of 1967 when she got engaged and the day she
+but not MH, over time, a different pattern of results emerged when        moved to Alton in May of 1968, the first time she lived away from her
+variability in participants’ baseline narratives was taken into ac­       parents. Unfortunately, the joy of that heady time did not last. Within
+count. A model that examined the relationship between individual          5 years, she had two children and her marriage had started to go
+differences in the four narrative themes and intraindividual trajec­      downhill. In recounting her life story, she described enduring years of
+tories of MH over time in this group indicated that participants          mental abuse and occasional physical abuse at the hands of her
+whose narratives included higher levels of the themes of agency,          husband. But in spite of this, she stayed married to him for 26 years.
+communion, and redemption, and lower levels of the theme of               In the early years, she was happy to be a stay-at-home mother to her
+contamination, experienced positive trajectories in their MH com­         children, but later, when she contemplated divorce, she realized that
+pared with participants with contrasting themes (Model 6). In other       this arrangement had left her without any job history, and she worried
+words, among participants who were diagnosed with a significant
+                                                                           about the prospects of earning enough money to raise two children on
+illness, individual differences in the thematic content of their life
+                                                                           her own. She worried more about being ostracized from her commu­
+stories prior to their diagnosis were associated with intraindividual
+                                                                           nity, the only community she had known since her childhood, because
+trajectories of MH following diagnosis.
+                                                                           her husband was an elder in their church and well-respected in town.
+    In addition, the variability in participants’ trajectories of MH
+                                                                           Ava’s marriage did not end with a climactic moment in which she fled
+ over time based on the themes in their narratives was not signif­
+                                                                           the house, fearing for her life. The ending began gradually, during a
+ icantly impacted by including their trajectory of PH over time in
+                                                                           typical conversation.
+ the model (Model 7). This suggests that the themes of agency,
+                                                                              One winter in the early 1990s, Ava and her husband took a
+ communion, redemption, and contamination were associated with
+                                                                           vacation in Florida. They drove from Alton to the Gulf Coast to
+ participants’ MH over time, regardless of their PH over time.
+    Following the results of exploratory analyses from Study 1, a          visit her brother-in-law and spend some time in the sun. She
+ parallel set of exploratory analyses was conducted, examining the         described it this way:
+ associations between individual differences in the narratives and             We were walking on the beach and, I forget exactly where it was, but
+ trajectories of MH over time, using narrative codes from each                 anyhow, he said, “I love you,” and I didn’t respond. And, he said, “So,
+ scene independently. There were no significant results of these               you don’t love me anymore?” And, I said, “I, I respect you, but I don’t
+ exploratory analyses, suggesting that there was no specificity to             love you.” And then, um, we had a long drive home, back to Alton.
+ scene-level analyses in this sample. This is likely related to the            And then probably, I’d say within a year, I left.
+ very small sample size and the short length of each narrative scene.
+    Analyses within the control group. Within the control group,             Ava singles out the day she left her husband as the turning point
+ no significant changes in MH or PH were observed over time               of her life:
+  (Models 8 and 9). In addition, there were no differences in either
+                                                                               As I pulled out of the driveway, I have to admit, I felt like a bird out
+  MH or PH over time across participants’ sex, race, education level,
+                                                                               of the gilded cage. I felt like I had just been released from all sorts of,
+  or personal income. There was, however, a marginally significant
+                                                                               um, abuse that I had been suffering and that type of thing. And, it was
+  impact of participant age on the change in MH over time, such that           the beginning of a new life . . . So, I went ahead and moved without
+  older participants had marginally better MH over time (age: (301 =           any furniture. I kid you not. No furniture at all. I slept on the floor; I
+  1.39, t(24) = 2.53, p = .06).                                                made a pallet on the floor in the bedroom. I had no TV, no kitchen
+     For the most part, the narratives of participants in the control          table, um, no couch, no chair. And that was it. But, I knew that I was
+  group were not significantly associated with their MH or PH over             going to start from scratch on the ground, going on my way up.
+  time (Models 10 and 11). However, the theme of contamination
+  was significantly associated with negative trajectories of MH over        She got an apartment in St. Louis, got a divorce attorney with the
+  time. Exploratory analyses yielded no significant associations be­      help of her parents, and took out a protective order against her
+  tween narrative themes and MH over time when analyzed by                husband. This new chapter of her life was quite complicated. Her
+  scene.                                                                  daughter was not happy with Ava’s decision to involve the police, and
+                                                                          Ava was adjusting to being a working woman in a big city. She
+                                                                          continued,
+Illustrative Case Example
+                                                                               So, then, um, for a period of time my life just was going to work and
+   Given the small sample size included in the primary within-
+                                                                               coming back home, going to work and coming back home. And, then
+group analyses, a brief case example both illustrates the central
+                                                                               I went ahead and, um, met a gentleman at work and helped him out
+findings and grounds them in the rich experiences described by
+each participant in this study. In narrative research, participants are
+regarded as the experts on their own lives; their experience of             1 Certain potentially identifying details, including names, have been
+participating in a study ought to provide them with an opportunity        modified in this case example to protect confidentiality.
+                                                        NARRATIVE IDENTITY AND HEALTH                                                                                                 491
+
+     with a couple things (find an apartment and stuff like this) and, uh,          Illu s tra tiv e P a rtic ip a n t (A v a ) T ra je c to rie s O v e r T im e
+     that gentleman is now my husband.
+
+   Ava did not rush in to marrying the man she had met at work;
+they dated for 10 years before tying the knot.
+   Her second husband, Robert, was a bus driver for the city, a job
+he loved. Ava said,
+                                                                                                                                                                    " W —Mental Health
+
+
+     I call him, lovingly, “Mr. Billy Joe Friendly Ray Bob,” because he
+     meets and greets his passengers, just loves them all. Hands out little                                                                                         -* « • Physical Health
+                                                                                                                                                                           (Cancer Diagnosis
+     stuffed animals to the kids that get on the bus and everything. And,                                                                                                  Between Tl and T2)
+
+     um, goes out of his way to get people to their destination safely.
+
+   He had also been previously married, but never had children,
+and over time Ava’s children and grandchildren came to see
+Robert as part of the family, despite some of their initial resistance
+to her marrying an African American man (a tension that was
+diffused by a humorous incident when Ava’s 5-year-old grandson                Figure 2. Illustrative case study. Mental health composite and physical
+tried to wipe the “dirt” off of Robert’s face).                               health composite (cancer diagnosis between Time 1 and Time 2).
+   In the few years prior to Ava’s participation in the study, Robert
+contracted a virulent bacterial infection that nearly killed him and
+left him unable to work, but even after an extremely rare reinfec­
+tion in the months just prior to the interview that required one of           score (a drop from a z score of 0.15 to -1 .77). Figure 2 displays
+Robert’s legs to be amputated, Ava described their marriage as a              the trajectories of Ava’s mental and PH scores over time. But by
+sanctuary: “He’s at home and he’s mending w e ll. . . It’s just the           6 months later, 1 year after the life story interview, the trajectory
+two of us and everything’s really good.”                                      of her MH turned upward and continued rising, even though her
+   At the very end of the life story interview, Ava looked back over          PH scores rose and then flattened out.
+her life and compared the immensely positive role Robert had                     Without an additional life story interview, it is impossible to
+played in her life with that of her first husband. She returned to the        know how Ava made sense of her cancer diagnosis. But the
+years of abuse she endured and singled out her ex as the most                 general trends observed in the group of participants in this study
+negative character in her life story. She ended the interview by              who fell ill between Baseline and T2, suggest that the way Ava
+saying,                                                                       narrated her life may have served her well following this new
+                                                                              challenge. Indeed, being diagnosed with cancer was not the first
+     But, I can turn it around also and make it a positive, because through   hardship in Ava’s life, and she developed a narrative approach to
+     his actions and his behaviors, I learned how to literally save myself,   making meaning of her difficult experiences that featured her own
+     get out of a bad situation and, go on with my life. Because I don’t      agency and her ability to draw redemptive lessons (and, to a certain
+     know what my life would be like today if I stayed over there.            extent, her connections with others). As such, her narrative identity
+                                                                              may be supporting her MH in the wake of this misfortune. This
+    This final paragraph echoes the themes that ran throughout
+                                                                              case illustrates the ways in which particular approaches to
+ Ava’s life story—the themes of agency and redemption. Here, she
+                                                                              meaning-making in the life story may serve a protective function
+ saw how the years of suffering taught her how to take charge of her
+                                                                              for people when they encounter new adversity.
+ own life—a theme that is also found in the story of the day she left
+ her husband, when she “[started] from scratch on the ground,
+ going on [her] way up.” Her reference to feeling “like a bird out of
+                                                                              Discussion
+ the gilded cage” is beautifully evocative of redemption through                 The results of Study 2 drew on a specially selected sample to
+ liberation— one of the four major variations on redemption in                examine the associations between individual differences in narra­
+ American cultural narratives, as described by McAdams (2013). In             tive identity and intraindividual trajectories of MH over the course
+ both the story of leaving her first husband and her life reflection,         of 2 years in order to examine the impact of a specific negative life
+ Ava narrated an extremely negative experience as being trans­                event: receiving a major physical illness diagnosis.
+ formed into a positive outcome. And, in both instances, she also                At Baseline, when all participants in the sample reported no
+ described how it was her own efforts that were ultimately respon­            major physical illnesses, there were no meaningful differences
+ sible for the positive change. Ava’s story is also rich in communal          measured between groups: They were selected for matched demo­
+themes, especially in the stories of connection with Robert, and              graphics, participants in both groups reported similar PH and MH,
+nearly free from contamination sequences. Indeed, Ava’s life story            and there were no significant differences in the narrative themes
+ scored high in agency, communion, and redemption, and low in                 across the groups. Somewhat surprisingly, there were no signifi­
+contamination.                                                                cant associations between the narrative themes and MH in either
+    At the second assessment point, 6 months after completing the             group when assessed concurrently, though all associations were in
+life story interview, Ava reported that she had been diagnosed with           the predicted directions, and correlations were modest in size,
+breast cancer in the intervening period. Her MH, which had been               despite not reaching conventional significance levels. This result is
+just about at the mean of the overall sample at Baseline (a z score           likely an artifact of the relatively small sample size and the
+of 0.12), took a dip (to 0.04), though not a major one, like her PH           comparatively short narratives in Study 2. Nevertheless, when
+492                                                            ADLER ET AL.
+
+
+individual differences in participants’ narratives were compared         decline in PH common during this period. The relationship be­
+with their trajectories of MH over the following 2 years, significant    tween the body and identity is salient throughout the life course.
+relationships emerged among those participants who experienced           Erikson (1959) suggested that the biological changes of puberty
+the onset of a major physical illness.                                   are one of the key factors in spurring the emergence of identity in
+    Within this group, high levels of the themes of agency, com­         adolescence. Illness in adulthood often serves as an autobiograph­
+munion, and redemption, and low levels of the theme of contam­           ical disruption (e.g., Bury, 1982). In addition to the physical pain
+ination, were associated with positive trajectories of MH following      and the financial burden that come with being sick, the shift from
+the diagnosis. Furthermore, the association between variability in       person to patient may bring with it feelings of disempowerment
+narrative themes and MH over time was not impacted by the                and isolation. Making sense of these changes is a challenge to both
+trajectory of their PH over time. In other words, the themes in          MH and narrative identity (e.g., Bury, 1982; Kenyon et al., 2011).
+participants’ life stories, obtained prior to becoming ill, were         In both studies, variation in narrative identity was associated with
+associated with the trajectory of their MH following diagnosis,          participants’ MH, regardless of the status of their PH. This finding
+regardless of their PH. No such pattern of associations was ob­          is especially notable in Study 2, in which the significant associa­
+served in participants who remained healthy throughout the 2 years       tions between variability in narrative themes and trajectories of
+of the study.                                                            MH were not significantly impacted by the inclusion of PH, even
+    This central result suggests that particular ways of narrating       among the group of participants who were diagnosed with a major
+one’s life may play a protective role for MH in the wake of new,         physical illness during the course of the study. This suggests that
+difficult experiences. It aligns with the conclusions from a recent      the associations between the subjective meaning made using the
+ study that found that among participants who had experienced            themes of agency, communion (in Study 2), redemption, and
+recent “biographical disruptions” (events which instilled a sense of     contamination and participants’ MH over time was not related to
+ self-discontinuity), autobiographical reasoning coded in their nar­     their actual PH.
+ratives of key life events was associated with repaired self­                The results from exploratory analyses in Study 1 also extend
+ continuity (Habermas & Kober, 2014). An analogous effect was            previous research on the connection between narrative identity and
+ not observed in participants who did not experience recent bio­         MH. In this study, the themes of agency, redemption, and contam­
+ graphical disruptions. Together, these findings may suggest that        ination in stories of low points and health challenges were asso­
+ narrative identity exerts its effects on MH most strongly when new      ciated with MH, whereas these themes in stories of high points and
+ life events challenge one’s existing self-story. The case of Ava        turning points were not. Although scene-level analyses in Study 2
+ grounds these general trends in the specific life experiences of a       did not replicate these results, another set of findings does com­
+ representative participant.                                             pliment them. In Study 2, the themes of agency, communion,
+                                                                          redemption, and contamination were associated with trajectories of
+                                                                          MH among those participants diagnosed with a major illness, but
+                       General Discussion
+                                                                          not among those who remained healthy. When considered along­
+    The pair of studies presented here represents the first evidence      side the findings from exploratory analyses in Study 1, the broader
+that individual differences in narrative identity are associated with     collection of results suggests that narrative identity may be espe­
+trajectories of MH over substantial periods of time. In two studies       cially relevant to MH in the context of adults’ life challenges. In
+drawing on samples of late-mid-life adults, variation in the themes       Study 1, narratives of hardship (health challenges and low points)
+of agency, redemption, and contamination (and, in the second of           seemed to drive the overall pattern of results connecting variability
+the two studies, communion) were associated with different tra­           in narrative themes to MH. In Study 2, the connections between
+jectories of intraindividual change in MH over several years. In          variability in narrative themes and MH were observed among
+Study 1, higher levels of agency and redemption, and lower levels         those participants who experienced a substantially difficult life
+of contamination, in core sections of participants’ life stories were     experience. Although these two sets of findings are not perfectly
+associated with increases in MH over 4 years. In Study 2, higher          parallel, taken together, they do open up a potentially fruitful
+levels of agency, communion, and redemption, and lower levels of          avenue for further exploration— examining whether negative life
+contamination, in participants’ life stories were associated with         events are the key locus for the association between narrative
+increases in MH over 2 years among participants who were diag­            identity and MH in adulthood, both when evaluated as the content
+nosed with a major physical illness in the 6 months after their life      of life stories and as the context in which life stories exert the
+ stories were collected. Taken together, these results suggest that       strongest influence on MH (see also Habermas & Kober, 2014).
+particular approaches to narrating one’s life experiences may sup­           The naturalistic, nonexperimental design of these two studies
+port MH over time and may play an especially potent protective            does not allow for a direct answer to the question of why the
+role in the wake of new challenges. These results substantially           themes of agency, communion, redemption, and contamination
+ extend prior work that has documented cross-sectional associa­           might be especially strongly associated with MH. These results do
+ tions between these narrative themes and MH and studies exam­            suggest that these four themes in personal narratives may hold
+ ining change in MH using two-time-point designs. Specifically,           special potency for contemporary American adults in the face of
+ the present studies are the first to undertake a direct investigation    personal challenges; nevertheless, the specific mechanism of this
+ of the association between individual differences in narrative iden­     association remains elusive. It is possible that constructing a per­
+ tity and intraindividual trajectories of change in MH over time.         sonal narrative that adopts these ubiquitous master themes from
+    The two studies focused on the developmental period of late           American culture (e.g., Hammack, 2008; McAdams, 2006) pro­
+ midlife as an opportunity for examining its core hypotheses during       vides a psychological sense of connection with the broader society,
+ a time when one particular challenge is especially salient, the          or a sense that a given person is not isolated in his or her individual
+                                                     NARRATIVE IDENTITY AND HEALTH                                                          493
+
+  struggles—that his or her stories sound the way life stories ought        rales, 2001; Ware, Kosinski, & Keller, 1994). It is important to
+  to sound. It is possible that using these themes enhances an             note that we did not focus on fine-grained differentiation of dif­
+  individual’s sense that his or her fundamental needs for autonomy        ferent medical diagnoses in the present study, and when broad
+  and relatedness (e.g., Deci & Ryan, 2000; Philippe et al., 2011) are     distinctions were included in analyses (in Study 2), the results were
+  being fulfilled, despite life’s challenges. Future research designed      similar across a wide range of illness categories.
+  specifically to examine the mechanism of connection between                  A second limitation to the present pair of studies is that narra­
+  these themes and MH is certainly warranted.                              tives themselves were not collected at each time point in the
+     Although this pair of studies suggests that there may be an           investigations. This meant that it was not possible to examine
+  especially strong association between narrative identity and MH in       the longitudinal trajectories of the narrative themes alongside
+  the context of major life challenges, such as physical illness, it is    the trajectories of MH and PH, as has been done in the past (e.g.,
+  vital to note that no one hopes for a PH challenge as an opportunity     Adler, 2012; Adler & Hershfield, 2012). As such, it is also not
+  for psychological growth. The positive results of these two studies      possible to determine whether the mechanism of these associations
+  concerning the themes of agency, communion, redemption, and              is a result of the active construction of the life story that occurred
+  contamination should not be interpreted to suggest that the poten­       as part of participation or was derived from preexisting personality
+  tial benefits of these experiences outweigh the suffering they           variables that were expressed in these life stories. Although the
+  inevitably bring. PH challenges are among the most frightening,          particular prospective models reported in the present pair of stud­
+  most existentially traumatizing experiences people undergo. It is        ies break new analytic ground in the study of narratives, analyses
+  hopeful that different narrative choices may powerfully impact           of this sort would have provided a more dynamic evaluation of the
+  one’s MH surrounding these experiences, but narrative identity is        relationship between personal narratives and mental and PH over
+  certainly not a panacea, even in the purely subjective realm of          time.
+ meaning-making. It is also vital that the results of these studies not       Third, Study 2, in particular, should be interpreted as quite
+  be interpreted to suggest that people who are ill and who have not       preliminary, given the small and unusual sample and the possibil­
+ crafted agentic or redemptive narratives are to be regarded as            ity that other, nonassessed negative experiences may have been
+ weaker or deficient in any way. In the face of illness, agency and        shared across the two groups. The opportunity to examine the
+ redemption (and communion) are not a given. They may be pow­              association between narrative identity and trajectories of MH in a
+ erful tools, evidence of courage, and a psychological accomplish­         highly controlled set of circumstances is unprecedented, so the
+ ment in their own right, but their absence in a story of sickness is      results of this study break new empirical ground. Nevertheless, the
+ not itself a failure.                                                    winnowing down of a much larger, epidemiologically representa­
+     It is also important to remember that, regardless of the specific    tive sample to this small, select group who met very specific
+ themes being assessed, narratives are not optimal tools for evalu­       criteria certainly introduces the likelihood that unmeasured third
+ ating the objective reality of an individual’s situation. Instead,       variables may impact the conclusions. Indeed, the failure of this
+ narratives provide an ideal vehicle for assessing the subjective         study to replicate certain commonly identified cross-sectional find­
+ meaning-making that individuals bring to their experiences. The          ings should serve as evidence of its unusualness in the narrative
+ correspondence between the subjective meaning and the objective          literature. Despite these limitations, the methodological and ana­
+ reality may be more or less aligned, but as research on narratives       lytical approaches in this study do permit the investigation of
+ of life’s challenges from a wide variety of contexts makes clear,        certain questions that cannot be addressed using approaches ad­
+ the thematic components of one’s narrative may impact one’s MH           opted in prior research, and, as such, the results should prelimi­
+ in the face of adversity. Thus, whether the narrative of the agentic     narily add to and extend our understanding of the connections
+fighter is more myth than reality, for example, is not actually the       between narrative identity and MH.
+ central point when it comes to impacting MH. Instead, the story              Finally, although the samples in each study represent a diverse
+itself may support and foster positive MH, regardless of the actual       group of adults, the age range of participants in both studies was
+circumstances. In addition, a study that examined questionnaire-          restricted to people in their 50s and 60s. The relationship between
+based assessment of agency and communion in a sample of ado­              personal narratives and MH in the context of declining PH is
+lescents with Type 1 diabetes and a matched sample of healthy             especially relevant for late-mid-life adults, but it is unclear whether
+adolescents found no differential associations were observed with         the findings from this pair of studies would generalize to individ­
+regard to these constructs and participants’ MH across groups             uals at different periods in the life course.
+(Helgeson & Palladino, 2012). Nevertheless, exploring the con­
+nections between narrative identity and PH would be an interesting
+avenue for future investigation.                                                                      Conclusion
+     Given the naturalistic setting of both studies, there are certain       The present pair of studies suggests that variability in narrative
+limitations to the conclusions that can be drawn from these results.      identity is not only associated with MH concurrently but is also
+Most significantly, in neither study was PH assessed by a physi­          associated with trajectories of intraindividual variation in MH over
+cian, which may limit the validity of the diagnoses reported by           time. Drawing on samples of late-mid-life adults followed over the
+participants. Although there were no clear incentives for partici­        course of several years, it extends previous research that has
+pants to lie about their PH, it is possible that participants were        documented the associations between the themes of agency, com­
+misinformed, incorrect, or forgetful about their health status. Nev­      munion, redemption, and contamination and MH, demonstrating
+ertheless, PH was assessed via widely used instruments developed          that these themes may also exert prospective influences. These
+for assessing self-reported PH, each of which has a very strong           associations may be especially strong when concerned with neg­
+tradition of research in the medical literature (e.g., Hays & Mo­         ative events: the themes in stories of challenging circumstances
+494                                                                     ADLER ET AL.
+
+
+appeared to drive the overall findings in Study 1, and the themes                  Beck, A. T., Steer, R. A., & Brown, G. K. (1996). Manual for Beck
+were most strongly associated with MH among participants who                         Depression Inventory. San Antonio, TX: Psychological Corporation.
+experienced a new life challenge in Study 2. Taken together, this                  Berntsen, D., & Rubin, D. C. (2004). Cultural life scripts structure recall
+pair of studies should both bolster theoretical assertions and ex­                   from autobiographical memory. Memory & Cognition, 32, 427-442.
+                                                                                     http://dx.doi.org/10.3758/BF03195836
+isting empirical evidence about the relationship between narrative
+                                                                                   Bohn, A. (2011). Normative ideas of life and autobiographical reasoning in
+identity and MH, and should encourage future work examining
+                                                                                     life narratives. New Directions for Child and Adolescent Development,
+these associations over time. It also suggests that narrative identity
+                                                                                     2011( 131), 19-30. http://dx.doi.org/10.1002/cd.286
+may play a central role in healthy aging.
+                                                                                   Bryk, A. S., & Raudenbush, S. W. (1987). Application of hierarchical
+                                                                                     linear models to assessing change. Psychological Bulletin, 101, 147—
+                                                                                      158. http://dx.doi.org/10.1037/0033-2909.10Ll.147
+                               References
+                                                                                   Bury, M. (1982). Chronic illness as biographical disruption. Sociology of
+Adler, J. M. (2012). Living into the story: Agency and coherence in a                Health & Illness, 4, 167-182. http://dx.doi.org/10.llll/1467-9566
+  longitudinal study of narrative identity development and mental health             .ep 11339939
+  over the course of psychotherapy. Journal o f Personality and Social             Chipperfield, J. G., Newall, N. E., Perry, R. P., Stewart, T. L., Bailis, D. S.,
+  Psychology, 102, 367-389. http://dx.doi.org/10.1037/a0025289                       & Ruthig, J. C. (2012). Sense of control in late life: Health and survival
+Adler, J. M„ Chin, E. D„ Kolisetty, A. P., & Oltmanns, T. F. (2012). The             implications. Personality and Social Psychology Bulletin, 38, 1081—
+  distinguishing characteristics of narrative identity in adults with features        1092. http://dx.doi.org/10.1177/0146167212444758
+  of borderline personality disorder: An empirical investigation. Journal of       Christakis, N. A. (2004). Social networks and collateral health effects.
+  Personality Disorders, 26, 498-512. http://dx.doi.org/10.1521/pedi                 BMJ: British Medical Journal, 329, 184-185. http://dx.doi.Org/10.l 136/
+  .2012.26.4.498                                                                     bmj.329.7459.184
+Adler, J. M., & Hershfield, H. E. (2012). Mixed emotional experience is            Collins, L. M., & Sawyer, A. G. (2000). Modeling growth and change
+  associated with and precedes improvements in psychological well-being.              processes: Design, measurement, and analysis for research in social
+  PLoS ONE, 7(4), e35633. http://dx.doi.org/10.1371/journal.pone
+                                                                                      psychology. In H. T. Reis & C. M. Judd (Eds.), Handbook o f research
+  .0035633                                                                            methods in social and personality psychology (pp. 478-495). New
+Adler, J. M., Kissel, E. C., & McAdams, D. P. (2006). Emerging from the
+                                                                                      York, NY: Cambridge University Press.
+  CAVE: Attributional style and the narrative study of identity in midlife
+                                                                                   Coyne, J. C., & Tennen, H. (2010). Positive psychology in cancer care: Bad
+  adults. Cognitive Therapy and Research, 30, 39-51. http://dx.doi.org/
+                                                                                      science, exaggerated claims, and unproven medicine. Annals o f Behav­
+   10.1007/s 10608-006-9005-1
+                                                                                      ioral Medicine, 39, 16-26. http://dx.doi.org/10.1007/sl2160-009-
+Adler, J. M., Lodi-Smith, J., Philippe, F. L., & Houle, I. (in press). The
+   incremental validity of narrative identity in predicting well-being: A             9154-z
+   review of the field and recommendations for the future. Personality and         Deci, E. L„ & Ryan, R. M. (2000). The “what” and “why” of goal pursuits:
+   Social Psychology Review.                                                          Human needs and the self-determination of behavior. Psychological
+Adler, J. M„ & Poulin, M. J. (2009). The political is personal: Narrating             Inquiry, 11, 227-268. http://dx.doi.org/10.1207/S15327965PLI1104_01
+   9/11 and psychological well-being. Journal o f Personality, 77, 903-932.        Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The
+   http://dx.doi.Org/10.l 11 l/j.l467-6494.2009.00569.x                               Satisfaction With Life Scale. Journal of Personality Assessment, 49,
+Adler, J. M., Skalina, L. M., & McAdams, D. P. (2008). The narrative                  71-75. http://dx.doi.org/10.1207/s 15327752jpa4901_13
+   reconstruction of psychotherapy and psychological health. Psycho­               Dunlop, W. L., & Tracy, J. L. (2013). Sobering stories: Narratives of
+   therapy Research, 18, 71 9 -7 3 4 . http://dx.doi.org/10.1080/                     self-redemption predict behavioral change and improved health among
+    10503300802326020                                                                 recovering alcoholics. Journal of Personality and Social Psychology,
+Aspinwall, L. G., & Tedeschi, R. G. (2010). Of babies and bathwater: A                104, 576-590. http://dx.doi.org/10.1037/a0031185
+   reply to Coyne and Tennen’s views on positive psychology and health.            Erikson, E. H. (1959). Identity and the life cycle. New York, NY: Norton.
+   Annals of Behavioral Medicine, 39, 27—34. http://dx.doi.org/10.1007/            Garson, G. D. (2012). Hierarchical linear modeling: Guide and applica­
+    sl2160-010-9155-y                                                                 tions. New York, NY: Sage.
+Baddeley, J.. & Singer, J. A. (2008). Telling losses: Personality Correlates       Giddens, A. (1991). Modernity and self-identity: Self and society in the
+    and Functions of bereavement narratives. Journal o f Research in Per­             late-modern age. Stanford, CA: Stanford University Press.
+    sonality, 42, 421-438.                                                          Graybeal, A., Sexton, J. D., & Pennebaker, J. W. (2002). The role of
+Baddeley, J., & Singer, J. A. (2010). A loss in the family: Silence, memory,           story-making in disclosure writing: The psychometrics of narrative.
+    and narrative identity after bereavement. Memory (Hove, England), 18,             Psychology & Health, 17, 571-581. http://dx.doi.org/10.1080/
+    198-207. http://dx.doi.org/10.1080/09658210903143858
+                                                                                      08870440290025786
+Bandura, A. (2006). Toward a psychology of human agency. Perspectives
+                                                                                    Habermas, T., & Bluck, S. (2000). Getting a life: The emergence of the life
+    on Psychological Science, 1, 164-180. http://dx.doi.Org/10.l 111/j. 1745-
+                                                                                       story in adolescence. Psychological Bulletin, 126, 748-769. http://dx
+    6916.2006.00011.x
+                                                                                       .doi.org/10.1037/0033-2909.126.5.748
+ Bauer, J. J., & McAdams, D. P. (2004). Personal growth in adults’ stories
+                                                                                    Habermas, T., & Kober, C. (2014). Autobiographical reasoning in life
+    of life transitions. Journal of Personality, 72, 573-602. http://dx.doi.org/
+                                                                                       narratives buffers the effect of biographical disruptions on the sense of
+    10.111 l/j.0022-3506.2004.00273.x
+ Bauer, J. J., & McAdams, D. P. (2010). Eudaimonic growth: Narrative                   self-continuity. Memory (Hove, England), 1-11. http://dx.doi.org/
+    growth goals predict increases in ego development and subjective well­             10.1080/09658211.2014.920885
+    being 3 years later. Developmental Psychology, 46, 761-772. http://dx           Hammack, P. L. (2008). Narrative and the cultural psychology of identity.
+    .doi.org/10.1037/a0019654                                                          Personality and Social Psychology Review, 12, 222-247. http://dx.doi
+ Bauer, J. J., McAdams, D. P., & Sakaeda, A. R. (2005). Interpreting the               .org/10.1177/1088868308316892
+    good life: Growth memories in the lives of mature, happy people.                Hays, R. D„ & Morales, L. S. (2001). The RAND-36 measure of health-
+    Journal of Personality and Social Psychology, 88, 203-217. http://dx               related quality of life. Annals o f Medicine, 33, 350-357. http://dx.doi
+    .doi.org/10.1037/0022-3514.88.1.203                                                .org/10.3109/07853890109002089
+                                                         NARRATIVE IDENTITY AND HEALTH                                                                  495
+Helgeson, V. S. (1994). Relation of agency and communion to well-being:         McAdams, D. P. (2006). The problem of narrative coherence. Journal o f
+  Evidence and potential explanations. Psychological Bulletin, 116, 412—           Constructivist Psychology, 19, 109-125. http://dx.doi.org/10.1080/
+  428. http://dx.doi.Org/10.1037/0033-2909.l 16.3.412                               10720530500508720
+Helgeson, V. S., & Palladino, D. K. (2012). Agentic and communal traits         McAdams, D. P. (2008). The Life Story Interview. Retrieved from http://
+   and health: Adolescents with and without diabetes. Personality and              www.sesp.northwestem.edu/foley/instruments/interview/
+  Social Psychology Bulletin, 38, 415-428. http://dx.doi.org/10.1177/           McAdams, D. P. (2013). The redemptive self: Stories Americans live by
+  0146167211427149                                                                 (rev. ed.). New York, NY: Oxford University Press.
+Johnson, T. (1998). Medicine and the media. The New England Journal o f         McAdams, D. P., Bauer, J. J., Sakaeda, A. R., Anyidoho, N. A„ Machado,
+  Medicine, 339, 87-92. http://dx.doi.org/10.1056/NEJM199807093390206              M. A., Magrino-Failla, K .,. . . Pals, J. L. (2006). Continuity and change
+Jones, B. K., & McAdams, D. P. (2013). Becoming generative: Socializing            in the life story: A longitudinal study of autobiographical memories in
+  influences recalled in life stories in late midlife. Journal o f Adult           emerging adulthood. Journal o f Personality, 74, 1371-1400. http://dx
+  Development, 20, 158-172. http://dx.doi.org/10.1007/sl0804-013-                  .doi.org/10.111 l/j,1467-6494.2006.00412.x
+  9168-4                                                                        McAdams, D. P., Hoffman, B. J., Day, R., & Mansfield, E. D. (1996).
+Josselson, R., & Lieblich, A. (1993). The narrative study o f lives. Thousand      Themes of agency and communion in significant autobiographical
+   Oaks, CA: Sage.                                                                 scenes. Journal o f Personality, 64, 339-377. http://dx.doi.org/10.llll/
+Kenyon, G., Bohlmeijer, E., & Randall, W. E. (2011). Storying later life:         j. 1467-6494.1996.tb00514.x
+  Issues, investigations, and interventions in narrative gerontology. New       McAdams, D. P., & McLean, K. C. (2013). Narrative identity. Current
+   York, NY: Oxford University Press.                                              Directions in Psychological Science, 22, 233-238. http://dx.doi.org/
+Keyes, C. L. M. (1998). Social well-being. Social Psychology Quarterly,            10.1177/0963721413475622
+   61, 121-140. http://dx.doi.org/10.2307/2787065                               McAdams, D. P., & Pals, J. L. (2006). A new Big Five: Fundamental
+King, L. A., & Raspin, C. (2004). Lost and found possible selves, subjec­         principles for an integrative science of personality. American Psychol­
+   tive well-being, and ego development in divorced women. Journal o f            ogist, 61, 204-217. http://dx.doi.org/10.1037/0003-066X.6L3.204
+  Personality, 72, 603-632. http://dx.doi.Org/10.llll/j.0022-3506.2004          McAdams, D. P., Reynolds, J., Lewis, M., Patten, A. H., & Bowman, P. J.
+   ,00274.x                                                                        (2001). When bad things mm good and good things turn bad: Sequences
+King, L. A., Scollon, C. K., Ramsey, C., & Williams, T. (2000). Stories of        of redemption and contamination in life narrative and their relation to
+  life transition: Subjective well-being and ego development in parents of        psychosocial adaptation in midlife adults and in students. Personality
+  children with Down syndrome. Journal o f Research in Personality, 34,           and Social Psychology Bulletin, 27, 474-485. http://dx.doi.Org/10.l 177/
+  509-536. http://dx.doi.org/10.1006/jrpe.2000.2285                               0146167201274008
+King, L. A., & Smith, N. G. (2004). Gay and straight possible selves:           McLean, K. C., Pasupathi, M., & Pals, J. L. (2007). Selves creating stories
+  Goals, identity, subjective well-being, and personality development.            creating selves: A process model of self-development. Personality and
+  Journal o f Personality, 72, 967-994. http://dx.doi.org/10.lll l/j.0022-        Social Psychology Review, 11, 262-278. http://dx.doi.org/10.1177/
+                                                                                   1088868307301034
+  3506.2004.00287.x
+                                                                                Nezlek, J. B. (2011). Multilevel modeling fo r social and personality psy­
+Kleinman, A., & Seeman, D. (1999). Personal experience of illness. In
+                                                                                  chology: The Sage library in social and personality psychology methods.
+  G. L. Albrecht, R. Fitzpatrick, & S. C. Scrimshaw (Eds.), The handbook
+                                                                                  London: Sage Publications.
+  o f social studies in health and medicine (pp. 230-242). New York, NY:
+                                                                                Oltmanns, T. F., Rodrigues, M. M., Weinstein, Y., & Gleason, M. E. J.
+  Sage.
+                                                                                  (2014). Prevalence of personality disorders at midlife in a community
+Laurenceau, J.-P., Hayes, A. M., & Feldman, G. C. (2007). Some meth­
+                                                                                  sample: Disorders and symptoms reflected in interview, self, and infor­
+  odological and statistical issues in the study of change processes in
+                                                                                  mant reports. Journal o f Psychopathology and Behavioral Assessment,
+  psychotherapy. Clinical Psychology Review, 27, 682-695. http://dx.doi
+                                                                                  36, 177-188. http://dx.doi.org/10.1007/sl0862-013-9389-7
+  .org/10.1016/j.cpr.2007.01.007
+                                                                                Pals, J. L. (2006). Narrative identity processing of difficult life experi­
+Lodi-Smith, J„ Geise, A. C., Roberts, B. W„ & Robins, R. W. (2009).
+                                                                                  ences: Pathways of personality development and positive self­
+  Narrating personality change. Journal o f Personality and Social Psy­
+                                                                                  transformation in adulthood. Journal o f Personality, 74, 1079-1110.
+  chology, 96, 679 - 689. http://dx.doi.org/10.1037/a0014611
+                                                                                  http://dx.doi.org/10.1111/j. 1467-6494.2006.00403.X
+Lysaker, P. H., Erikson, M., Macapagal, K. R., Tunze, C., Gilmore, E„ &
+                                                                                Pasupathi, M. (2001). The social construction of the personal past and its
+  Ringer, J. M. (2012). Development of personal narratives as a medi­
+                                                                                  implications for adult development. Psychological Bulletin, 127, 651-
+  ator of the impact of deficits in social cognition and social with­
+                                                                                  672. http://dx.doi.Org/10.1037/0033-2909.127.5.651
+  drawal on negative symptoms in schizophrenia. Journal o f Nervous
+                                                                                Pennebaker, J. W. (1997). Writing about emotional experiences as a
+  and Mental Disease, 200, 290-295. http://dx.doi.org/10.1097/NMD                 therapeutic process. Psychological Science, 8, 162-166. http://dx.doi
+  .ObO13e31824cb0f4
+                                                                                  .org/10.1111/j. 1467-9280.1997.tb00403 .x
+Mansfield, C., McLean, K. C., & Lilgendahl, J. P. (2010). Narrating             Pennebaker, J. W., & Chung, C. K. (2011). Expressive writing and its links
+  traumas and transgressions: Links between narrative processing, wis­            to mental and physical health. In H. S. Friedman (Ed.), Oxford handbook
+  dom, and well-being. Narrative Inquiry, 20, 246-273. http://dx.doi.org/         o f health psychology (pp. 417-437). New York, NY: Oxford University
+  10.1075/ni.20.2.02man                                                           Press.
+Mansfield, E. D., & McAdams, D. P. (1996). Generativity and themes of           Petrie, K. J., & Weinman, J. (2012). Patients’ perceptions of their ill­
+  agency and communion in adult autobiography. Personality and Social             nesses: The dynamo of volition in health care. Current Directions in
+  P sychology Bulletin, 22, 721-731. http://dx.doi.org/10.1177/                   P sychological Science, 21, 6 0 - 6 5 . h ttp ://dx.doi.org/10.1177/
+  0146167296227006                                                                0963721411429456
+McAdams, D. P. (1995). What do we know when we know a person?                   Philippe, F. L., Koestner, R., Beaulieu-Pelletier, G., & Lecours, S. (2011).
+  Journal o f Personality, 63, 365-396. http://dx.doi.Org/10.l 111/j.1467-        The role of need satisfaction as a distinct and basic psychological
+  6494.1995.tb00500.x                                                             component of autobiographical memories: A look at well-being. Journal
+McAdams, D. P. (2001). The psychology of life stories. Review o f General         o f Personality, 79, 905-938. http://dx.doi.Org/10.llll/j.1467-6494.2010
+  Psychology, 5, 100-122. http://dx.doi.Org/10.1037/1089-2680.5.2.100             .00710.x
+496                                                                      ADLER ET AL.
+
+
+Ryff, C. D., & Almeida, D. M. (2009). National Survey o f Midlife in the           velopmental Psychology, 48, 1058-1068. http://dx.doi.org/10.1037/
+  United States (MIDUS II): Daily Stress Project, 2004-2009: Scales.               a0026326
+  Ann Arbor, MI: Inter-University Consortium for Political and Social            Thome, A., & Michaelieu, Q. (1996). Situating adolescent gender and
+  Research.                                                                        self-esteem with personal memories. Child Development, 67, 1374—
+Ryff, C. D., & Keyes, C. L. M. (1995). The structure of psychological              1390. http://dx.doi.Org/10.2307/l 131706
+  well-being revisited. Journal o f Personality and Social Psychology, 69,       Ware, J. E., Kosinski, M., & Keller, S. D. (1994). SF-36 Physical and
+  719-727. http://dx.doi.Org/10.1037/0022-3514.69.4.719                            mental health summary scales: A user’s manual. Boston, MA: The
+Sarbin, T. (1986). Narrative psychology: The storied nature of human               Health Institute, New England Medical Center.
+  conduct. New York, NY: Praeger.                                                Webster, N. C. (2005, June 13). Color-coded causes. Advertising Age.
+Shrout, P. E., & Fleiss, J. L. (1979). Intraclass correlations: Uses in            Retrieved from http://adage.com/article/feature-cause-marketing/color-
+  assessing rater reliability. Psychological Bulletin, 86, 420-428. http://
+                                                                                   coded/103463/
+  dx.doi.org/10.1037/0033-2909.86.2.420
+                                                                                 Weissman, M. M., & Bothwell, S. (1976). Assessment of social adjustment
+Simon, G. E., Revicki, D. A., Grothaus, L., & Vonkorff, M. (1998). SF-36
+                                                                                   by patient self-report. Archives o f General Psychiatry, 33, 1111-1115.
+  summary scores: Are physical and mental health truly distinct? Medical
+                                                                                   http://dx.doi.org/10.1001/archpsyc.1976.01770090101010
+  Care, 36, 567-572. http://dx.doi.org/10.1097/00005650-199804000-
+                                                                                 Weston, S. J. (2014). Redemption and linguistic analysis: A comparison of
+  00012
+Singer, J. A. (2004). Narrative identity and meaning making across the             methods to understand life stories. Manuscript submitted for publication.
+  adult lifespan: An introduction. Journal of Personality, 72, 437-460.          Woike, B., & Polo, M. (2001). Motive-related memories: Content, struc­
+  http://dx.doi.Org/10.llll/j.0022-3506.2004.00268.x                               ture, and affect. Journal of Personality, 69, 391-415. http://dx.doi.org/
+Singer, J. D., & Willett, J. B. (2003). Applied longitudinal data analysis:        10.1111/1467-6494.00150
+  Modeling change and event occurrence. New York, NY: Oxford Uni­
+  versity Press. http://dx.doi.Org/10.1093/acprof:oso/9780195152968.001
+  .0001
+                                                                                                                       Received January 14, 2013
+Tavernier, R„ & Willoughby, T. (2012). Adolescent turning points: The                                           Revision received October 8, 2014
+  association between meaning-making and psychological well-being. De­                                                Accepted December 2, 2014 ■
+
+
+
+
+                                                              Correction to Masuda et al. (2008)
+                      In the article, “Placing the Face in Context: Cultural Differences in the Perception of Facial
+                      Emotion,” by Takahiko Masuda, Phoebe C. Ellsworth, Batja Mesquita, Janxin Leu, Shigehito
+                      Tanida, and Ellen Van de Veerdonk (Journal o f Personality and Social Psychology, 2008, Vol. 94,
+                      No. 3, pp. 365-381. http://dx.doi.Org/10.1037/0022-3514.94.3.365), various corrections are needed
+                      for several subsections in Study 2 and Figure 3.
+
+                      On page 374 in the original article, the subsection title Effects o f Others’ Emotions on Judgments
+                      o f the Central Person’s Emotion should appear instead as Perception o f the Central Person’s
+                      Emotions. On page 375, a word in the first sentence in the Anger subsection in Study 2 was omitted
+                      and should appear instead as “The hypothesis that Japanese emotion judgments of anger would
+                      reflect the emotions of the background figures, whereas American emotion judgments would not
+                      was marginally borne out.” In Line 9 in the Anger subsection, the parenthetical content should read
+                      “(e.g., an angry target and angry backgrounds).” In Line 10 in the Anger subsection, the paren­
+                      thetical content should read “(e.g., an angry target and happy backgrounds).” Line 11 in the Anger
+                      subsection should read instead as . . was marginally larger than that of Americans, . . .” In Line
+                      4 in the Sadness subsection, the 4 (background) should appear instead as 3 (background). The
+                      parenthetical content in Line 9 in the Sadness subsection should read instead as “(a sad target and
+                      sad backgrounds).” The parenthetical content in Line 10 in the Sadness subsection should read
+                      instead as “(e.g., a sad target and happy backgrounds).” In Line 5 in the Happiness subsection, 4
+                      (background) should appear instead as 3 (background). The degree of freedom for the F test in Line
+                      7 in the Happiness subsection should appear instead as “F(2, 47).”
+                      On page 376, the colors of the bar graph in Figure 3 are incorrect. All dark gray bars should be
+                      white, and all white bars should be gray.
+                      The online version of this article has been corrected.
+
+                      http://dx.doi.org/10.1037/pspa0000022
+Copyright of Journal of Personality & Social Psychology is the property of American
+Psychological Association and its content may not be copied or emailed to multiple sites or
+posted to a listserv without the copyright holder's express written permission. However, users
+may print, download, or email articles for individual use.
+

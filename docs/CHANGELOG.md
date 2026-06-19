@@ -2,6 +2,84 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.21 (2026-06-19): Test 4 — Passage of Time Assessment (PTA) design based on full-text time/temporality literature
+
+Why: build the Passage-of-Time-themed test from first principles, grounded in full-text reviewed papers rather than the prior proposal's assumptions. Sixteen time/temporality PDFs were reviewed, the proposal's Axis 2 (mono/polychronic) was rejected on construct grounds, and the framework was rebuilt around the two constructs the evidence actually supports.
+
+### What the evidence established (read from the PDFs)
+
+- **Sircova et al. (2014) Table 4 (n=10,765, 23 countries):** Past-Positive ↔ Past-Negative r = −.20; Future ↔ Past-Positive r = +.26; Future ↔ Past-Negative r = −.06. The proposal's "Past composite vs Future" axis conflates two pasts that relate to the future in opposite directions. Not just an information-loss caveat; a verified psychometric ambiguity.
+- **Vowinckel et al. (2015):** the ZTPI has no positive-present factor. Its two present factors (Hedonistic, Fatalistic) are not unequivocally positive. Present-oriented respondents must not be exiled to the boundary as a deficiency; handled as an affirming boundary condition with the present-gap stated.
+- **Stolarski & Matthews (2016):** time perspective predicts well-being over and above the Big Five (+13.7% variance) but Future ↔ Conscientiousness r = .60. Axis 1 shares substantial variance with Test 2; stated as a cross-suite overlap honesty note.
+- **Hershfield et al. (2009):** temporal self-continuity is a validated four-item seven-point self-report construct predicting saving and discounting. The cleanest available anchor for Axis 2.
+- **McAdams et al. (2001), Adler et al. (2015):** redemption/contamination and narrative themes are consequential but interview-coded. Same measurement-format wall as Showers/Linville in Test 3; used as the construct basis for a self-report designer facet (B2), not a structural axis.
+
+### Axis decisions
+
+- **Axis 1, Temporal Direction (Past ↔ Future). Kept, fixed, honestly limited.** Grounded in the validated *positive* factors (Past-Positive, Future) rather than a composite, so the past pole stays affirming. The negative-valence past (Past-Negative) is excluded by design; stated as a measurement ceiling, not hidden. A1 (Past Engagement) reverse-keyed, A2 (Future Engagement) normal-keyed. Present-oriented respondents read as the boundary.
+- **Axis 2, Temporal Mode (Continuous ↔ Fluid). Regrounded.** Replaces the proposal's mono/polychronic, which fails on every validity dimension: operational task-organization construct, Axis-1 confound, Conscientiousness confound, weak theme resonance. New Axis 2 has two facets: B1 Temporal Self-Continuity (Hershfield) and B2 Narrative Coherence (self-report adaptation of McAdams/Adler). Preserves the original archetype names; continuous maps to the single thread, fluid to the weave.
+
+### Four results (journey and time imagery, names retained from proposal)
+
+- 📜 The Archivist (Past + Continuous): preserves, orders, keeps.
+- 🧭 The Navigator (Future + Continuous): charts one course forward.
+- 🗣️ The Storyteller (Past + Fluid): weaves the past into a living present.
+- 🌱 The Pioneer (Future + Fluid): moves into the new on many threads.
+- Boundary: 🌅 The Horizon (present edge where past and future meet).
+
+### Deliverables
+
+- `docs/04-passage-of-time-assessment.md` (v0.1 design document, ~42KB). 32-item bank, 4 facets × 8 items, PTA-16 short form, 6 honesty notes, full theoretical foundation with each source stating its verified use, rejection section, references.
+- `docs/04b-ptoa-result-profiles.md` (~26KB). 14-section profiles for all four modes plus The Horizon boundary (with present-focused and facet-tension variants). Same schema as Tests 1–3.
+
+### Structural sources verified against full-text PDFs (7)
+
+Zimbardo & Boyd (1999) ZTPI; Sircova et al. (2014) 24-country validation; Stolarski & Matthews (2016) incremental validity; Hershfield et al. (2009) future self-continuity; Hershfield (2011) continuity review; McAdams et al. (2001) redemption/contamination; Adler et al. (2015) narrative longitudinal.
+
+### Facet-content sources verified (4)
+
+Webster (1993) Reminiscence Functions Scale; Westerhof, Bohlmeijer & Webster (2010) reminiscence review; Vowinckel et al. (2015) present-eudaimonic; Sobol-Kwapinska & Jankowski (2015) balanced time perspective and Carpe Diem.
+
+### Rejected with documented honesty notes
+
+- Mono/polychronic (Hall 1959; Schell & Conte 2008; Bluedorn 1999): operational, confounds with Axis 1 and Conscientiousness.
+- Consideration of Future Consequences (Strathman et al. 1994; Joireman et al. 2012): decision-theoretic, not experiential.
+- Narrative identity in canonical interview form (McAdams, Adler): incompatible with self-report format; used only as the construct basis for designer facet B2.
+
+### Profile audit (v0.21 pass)
+
+The 04b drafts were audited against the facet definitions and item poles in 04. Three issues found and fixed; several others noted as acceptable.
+
+**Fixed.**
+- Construct-purity violation in the Storyteller Under Stress section: it was built on rumination, which is the Past-Negative construct the instrument deliberately excludes (honesty note 2 in 04). Rewritten so the measured fluid pathology (over-revision, thinning throughline) leads, and rumination is named only as the explicitly unmeasured shadow on the pole.
+- Pioneer texture-balance gap: the low-A1 (past engagement) signal was thin. Added a line framing the past as closed context rather than living material, mirroring the Storyteller's rich past-texture on the opposite pole.
+- Stop-slop: three profiles opened a sentence with the same "There is X in this" throat-clearing construction (Archivist, Navigator, Storyteller). Rewritten to three distinct openers.
+
+**Noted, not fixed (acceptable for drafts).**
+- "Storyteller" name sits in mild tension with the low-B2 (fluid, low coherence) construct, since storytelling connotes coherence. Rescued by framing the mode as revision and remaking and by the explicit contrast with the Archivist's "one continuous thread." Name retained from the proposal by prior decision.
+- Archivist and Navigator share the continuous pole and differentiate only by direction. Structurally correct; the two flavors of continuity (backward-fed stewardship vs forward-fed trajectory) are present.
+- Horizon "Presence" strength is interpretive texture for a construct the instrument does not measure; already disclaimed in the Horizon Archetype paragraph.
+- Two continuous modes share a "distrust of fluid people" blind spot. Symmetric and correct; phrasing differs (shallowness vs flakiness).
+
+Affirming framing verified throughout. Complementary-mode pairings correct and symmetric (Archivist↔Pioneer, Navigator↔Storyteller). All facet claims match their quadrant.
+
+### Deferred
+
+- Public-facing research paper (`PTA-research-paper.md`): not yet written.
+
+### Build & simulation (v0.21 pass)
+
+`ptoa-debug.html` (34KB) and `ptoa-simulate.ts` (23KB) implemented. Two construct-correct departures from the SSA template (not the easy path):
+
+- **Axis 1 reverse-keyed.** `Axis1 = mean(100 − A1, A2)`, 0 = Past, 100 = Future. The SSA uniform `(fA+fB)/2` does not work because A1 (past) is the low end.
+- **Per-axis facet tension (asymmetric by construct).** Axis 1 uses a "temporal fullness" rule (both A1 and A2 strongly engaged); Axis 2 uses the SSA opposite-signs rule. The fullness rule is what distinguishes the genuinely-tense "holding all of time" case from the affirming present-focused Horizon: both land at exact center, but only fullness flags tension. This was verified in the sim.
+
+**Verification.** Build parses cleanly (32 items, 8/facet, PTA-16 set intact, 0 em dashes, 0 comma typos). Sim runs green: 100% cross-length result-type and tension agreement, all expected matches correct, tension guards pass (fullness and torn cases fire; present/balanced do not). Build and sim agree exactly on four deterministic respondents (Archivist, Pioneer, Fullness, Present) including the construct-critical Fullness-vs-Present tension distinction. CSVs exported (`ptoa-sim-results.csv`, `ptoa-sim-results-16.csv`).
+
+The sim is now a proper module (core functions exported, execution guarded by `import.meta.main`) so it can be imported for cross-checks.
+
+Doc fixes from the build pass: §6 of 04 now describes the construct-specific per-axis tension model precisely (previously said "follows Test 1 exactly," which was imprecise for Axis 1); the Horizon facet-tension paragraph in 04b and the facet-reporting example (which overclaimed a within-A1 memory/tradition distinction) corrected.
+
 ## v0.1 (2026-06-19): Test 3 — Spectrum of Self Assessment (SSA) design based on full-text identity/pride literature
 
 Why: build the Pride-themed test from first principles, grounded in full-text reviewed papers rather than the prior proposal's assumptions. Six identity/pride PDFs were reviewed, two were rejected as incompatible with the measurement format, and two axes were selected based on the best-evidenced constructs.

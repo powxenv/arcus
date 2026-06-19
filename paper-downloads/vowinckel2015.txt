@@ -1,0 +1,1275 @@
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                Article
+                                                                                                                                        Time & Society
+                                                                                                                                              0(0) 1–24
+                Flourishing in the now:                                                                                        ! The Author(s) 2015
+                                                                                                                             Reprints and permissions:
+                Initial validation of a                                                                          sagepub.co.uk/journalsPermissions.nav
+                                                                                                                    DOI: 10.1177/0961463X15577277
+                present-eudaimonic                                                                                                     tas.sagepub.com
+
+
+                time perspective scale
+                Jonte C Vowinckel,
+                Gerben J Westerhof and
+                Ernst T Bohlmeijer
+                Psychology, Health & Technology, University of Twente,
+                the Netherlands
+
+                Jeffrey D Webster
+                Department of Psychology, Langara College, Canada
+
+
+
+
+                Abstract
+                Introduction: A positive focus on the present, the only time zone which we
+                experience directly and permanently, is at least as relevant as perspectives on
+                the past and future in a balanced time perspective and its relation to wellbeing.
+                Yet, few instruments examining a positive present time perspective exist. Two
+                present-directed concepts, mindfulness and flow, that are intrinsically linked to
+                mental wellbeing were analyzed and used to formulate a present-eudaimonic
+                scale that complements the past and future scales of the balanced time perspec-
+                tive scale. The present study addresses the psychometric properties of the
+                present-eudaimonic scale and the modified balanced time perspective scale.
+                Method: 131 participants filled out the present-eudaimonic scale, the balanced
+                time perspective scale, the Zimbardo time perspective inventory, the five facet
+                mindfulness questionnaire – short form, the Swedish flow proneness question-
+                naire and the mental health continuum – short form. Balanced time perspective
+                was operationalized using the deviation from a balanced time perspective
+                coefficient.
+
+
+
+                Corresponding author:
+                Jonte C Vowinckel, Department of Psychology, Health, and Technology, University of Twente, P.O.
+                Box 217, 7500AE Enschede, The Netherlands.
+                Email: jontevowinckel@web.de
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     2                                                                                                            Time & Society 0(0)
+
+                     Results: The present-eudaimonic scale showed good psychometric properties
+                     including internal consistency, factor structure, and convergent validity. The
+                     present-eudaimonic scale explained an additional eleven percent of variance in
+                     mental health beyond the other time perspective scales. Balanced time perspec-
+                     tive as measured with the modified balanced time perspective scale correlated
+                     significantly stronger with mental health than balanced time perspective mea-
+                     sured with the Zimbardo time perspective inventory.
+                     Conclusions: The present-eudaimonic scale fills a gap in the assessment of
+                     time perspective and the modified balanced time perspective scale is a promising
+                     way to study balanced time perspective.
+
+                     Keywords
+                     Time perspective, present time perspective, balanced time perspective, scale
+                     development, mindfulness, flow
+
+
+
+
+                           Between the abstract, psychological constructions of prior past and antici-
+                           pated future events lies the concrete, empirically centered representation of
+                           the present. (Zimbardo and Boyd, 1999: 1272)
+
+                     Classical and modern philosophers and scientists have ﬁercely debated the
+                     question whether time exists ontologically or not. Whereas Newton (1687/
+                     2013) has argued that time is a fundamental, observer-independent, uni-
+                     verse-inherent structure of existence, Kant (1781/1986) believed that it is
+                     ‘‘merely’’ a fundamental structure of our perceiving of the universe and
+                     Einstein claimed that our distinction between past, present and future is
+                     an illusion (Einstein and Besso, 1972: 537–538). From a psychological point
+                     of view, our subjective perception of time, divided into past, present, and
+                     future is an important aspect of almost all human functioning, independent
+                     of the question whether they possess an ontological reality. The psychology
+                     of time perspective is a burgeoning ﬁeld of modern psychology that inves-
+                     tigates human coping with temporality and individual diﬀerences in the
+                     propensity to focus on past, present, and/or future and their psychosocial
+                     implications and consequences. Zimbardo and Boyd (2008) point out that
+                     the present plays a unique role: whether you remember happy moments
+                     from the past or expect them in the future, you only experience happiness
+                     in the present. Nonetheless, few attempts to operationalize a healthy rela-
+                     tion to the present have been conducted. In this paper, we present a new
+                     scale that assesses a positive perspective on the present and complements an
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                Vowinckel et al.                                                                                                           3
+
+                existing scale on balanced time perspective (BTP) (balanced time perspec-
+                tive scale (BTPS); Webster, 2011).
+
+                Balanced time perspective
+                Zimbardo and Boyd (1999: 1271) deﬁned time perspective as the ‘‘often
+                nonconscious process whereby the continual ﬂows of personal and social
+                experiences are assigned –to temporal categories, or time frames, that help
+                to give order, coherence, and meaning to those events’’. The most widely
+                used instrument for the assessment of time perspectives is the Zimbardo
+                time perspective inventory (ZTPI; Zimbardo and Boyd, 1999), which con-
+                sists of ﬁve subscales measuring aﬀective relations with one’s past
+                (past positive and past negative), coping style regarding future-related
+                responsibilities and goals (future) and propensity to apply a hedonistic
+                (present hedonistic) or a fatalistic attitude (present fatalistic) towards the
+                present.
+                    Time perspectives are said to be among the most powerful inﬂuences on
+                virtually all aspects of human behavior (Boniwell and Zimbardo, 2003).
+                They are indeed empirically related to various aspects of human function-
+                ing, such as emotional intelligence (Stolarski et al., 2011), identity forma-
+                tion in adolescents (Laghi et al., 2013; Luyckx et al., 2010),
+                psychopathology (Van Beek et al., 2011), life satisfaction (Zhang and
+                Howell, 2011), and environmental behaviours (Milfont et al., 2012).
+                    Scholars have argued that it is not a single time perspective, but rather
+                the balance between diﬀerent time perspectives that is important in under-
+                standing and achieving psychological wellbeing (e.g. Boniwell and
+                Zimbardo, 2003, 2004). Zimbardo and Boyd (1999) characterize a BTP as
+                a speciﬁc composition of past, present, and future time perspectives, which
+                is optimal for psychological and physical health as well as societal function-
+                ing. Zimbardo and Boyd (2008) suggested operationalizing BTP as a parti-
+                cular pattern of scores on the ZTPI, namely high past positive scores, low
+                scores on the past negative and the present-fatalistic scale, and moderately
+                high scores on the future and the present-hedonistic scale. Stolarski et al.
+                (2011) speciﬁed the most desirable scores to a certain value per subscale.
+                BTP, measured with the ZTPI, was found to be related to various aspects of
+                wellbeing, including positive mood (Stolarski et al., 2014), self-determina-
+                tion and gratitude (Zhang et al., 2013a), happiness (Drake et al., 2008),
+                mindfulness (Drake et al., 2008, Seema and Sircova, 2013), temporal life-
+                satisfaction (Boniwell et al., 2010), and emotional intelligence (Stolarski
+                et al., 2011).
+                    Webster (2011) points out that some items of the ZTPI future scale
+                measure time management rather than aﬀective concerns (e.g. ‘‘I believe
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     4                                                                                                            Time & Society 0(0)
+
+                     that a person’s day should be planned ahead each morning’’). Webster
+                     (2011) construed an alternative instrument, the BTPS, in which every
+                     item features an aﬀective component (e.g. ‘‘Achieving future dreams
+                     is something that motivates me now’’). Studies using this scale found
+                     relations of a BTP to self-esteem, life satisfaction, happiness, wellbeing,
+                     and wisdom (Webster, 2011; Webster and Ma, 2013; Webster et al.,
+                     2014).
+
+                     Present time perspective
+                     Present time perspective is probably the core factor of BTP (cf. Seema and
+                     Sircova, 2013), since reconstructing the past and anticipating the future
+                     takes place in the present (Zimbardo and Boyd, 1999; 2008). However,
+                     individual relations to the present are probably the most diﬃcult to
+                     assess, since the present is directly and permanently experienced and there-
+                     fore hard to externalize, objectify, and relate to. Yet, there is a need for a
+                     scale measuring a positive present time perspective. The BTPS does not
+                     have a present subscale and the present-hedonistic subscale of the ZTPI
+                     does not have unequivocally positive implications for mental wellbeing. In
+                     some studies the present-hedonistic scale of the ZTPI is related to measures
+                     of subjective wellbeing (Boniwell et al., 2010; Zhang and Howell, 2011;
+                     Zhang et al., 2013a), whereas in other studies it is related to a tendency
+                     to engage in risky behavior such as substance abuse (Fieulaine and
+                     Martinez, 2011; Keough et al., 1999).
+                        Sobol-Kwapinska (2009) distinguishes an active concentration on the
+                     present as a third relation to the present besides a hedonistic and a fatalistic
+                     relation. She developed the Carpe Diem Scale to measure active concentra-
+                     tion on the present. It showed positive correlations with life satisfaction
+                     (Sobol-Kwapinska, 2009) as well as with sense of meaning and purpose
+                     in life, and positive aﬀect (Sobol-Kwapinska, 2013). The items of the
+                     Carpe Diem scale are mostly evaluative statements about the value of a
+                     present orientation like ‘‘The present is very important for me’’, or ‘‘What
+                     happens in the present is very vital for my life’’. The items show the value of
+                     a present orientation, but not its aﬀect-laden quality.
+                        The goal of the current article is to construe a scale that measures a
+                     positive present orientation that can serve to complement the aﬀect-laden
+                     past and future scales of the BTPS. We used mindfulness and ﬂow to con-
+                     ceptualize a positive relation with the present, since both are present-
+                     oriented concepts that are intrinsically linked to positive functioning and
+                     wellbeing. Mindfulness is a mode of consciousness characterized by an
+                     open, nonjudgmental awareness of sensual, cognitive, emotional, and
+                     other phenomena that are present in the moment (e.g. Bishop et al.,
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                Vowinckel et al.                                                                                                           5
+
+                2004). Flow is a state of being absorbed in the now, which is referred to as
+                optimal functioning (Csikszentmihalyi, 1990).
+                   Zimbardo and Boyd (2008) stated that in a holistic (i.e. mindful) present
+                perspective the past, the present, the future, the physical, the mental, and the
+                spiritual elements in life are not separate but closely interconnected.
+                Mindfulness is an attribute or mode of consciousness, which is central to
+                Buddhist psychology (Hanh, 1976, 1998), and has been imported to western
+                psychology (Kabat-Zinn, 1982). Mindfulness is linked to wellbeing, self-reg-
+                ulation, (de-automatization of) cognitive processes, and psychological ﬂex-
+                ibility (Baer, 2009; Brown and Ryan, 2003; Chiesa et al., 2011; Fledderus et al.,
+                2010; Keng et al., 2011, Kang et al., 2013). Recently, Seema and Sircova (2013)
+                found that mindfulness is the most important component of BTP, the aware-
+                ness of one’s time perspectives, as well as a time perspective itself, which
+                additionally explained most variance in time perspectives, supporting the
+                assumption that present perspective is the core factor of time perspective.
+                   The concept of ﬂow refers to an experience during which people are fully
+                involved in or absorbed by a completely intrinsically motivated (autotelic)
+                activity in the present moment. Flow experiences occur when the challenge
+                level of an activity and the personal skill level match each other
+                (Csikszentmihalyi, 1975, 1990). It is necessary that the task has clear
+                goals and provides immediate satisfaction. Subjective experiences that
+                frequently accompany the state of ﬂow are disappearance of self-consci-
+                ousness, altered sense of time, and acting with deep but eﬀortless, voluntary
+                involvement without worries about everyday life. Another indicator for a
+                ﬂow experience is the occurrence of ‘‘action-awareness merging’’, which
+                means that the degree of involvement with the current activity is so deep
+                that it feels as (almost) automatically happening. Self-awareness is wea-
+                kened and therefore the impact of past and future on emotional and cog-
+                nitive functioning are minimized. Flow is associated with life satisfaction
+                (Asakawa, 2010; Bassi et al., 2014) and psychological wellbeing (Bassi et al.,
+                2014; Steele and Fullagar, 2009).
+                   Evidence suggests that mindfulness might be a fruitful context for foster-
+                ing ﬂow-experiences. Research in the ﬁeld of sport psychology shows that
+                mindfulness practice increases levels of state ﬂow (Kaufman et al., 2009)
+                and that high mindfulness is correlated to aspects of ﬂow such as challenge-
+                skill balance, clear goals and concentration as well as to action-awareness
+                merging and loss of self-consciousness (Kee and Wang, 2008). Assuming
+                that mindfulness and ﬂow support and supplement each other, we decided
+                to use these concepts as starting-points for the conceptualization of a
+                healthy or eudaimonic relation to the present.
+                   Eudaimonia means living life in a full and deeply satisfying way (Deci
+                and Ryan, 2008). Eudaimonia, implying personal growth, meaning in life,
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     6                                                                                                            Time & Society 0(0)
+
+                     interrelatedness, and self-actualization, is contrasted with hedonia
+                     or hedonism (Huta and Waterman, 2013; Ryan and Deci, 2001;
+                     Waterman, 1993;), which in modern psychological terms is characterized
+                     by the presence of life satisfaction and positive aﬀect as well as the absence
+                     of negative aﬀect (Deci and Ryan, 2008). Ryan et al. (2008) characterized
+                     eudaimonia as associated to several motivational concepts, among others,
+                     being mindful. Waterman (1990) pointed out that ﬂow relates to or is even
+                     synonymous with eudaimonia. Since our present-positive scale is derived
+                     from mindfulness and ﬂow as two processes related to eudaimonic well-
+                     being, we decided that ‘‘present-eudaimonic’’ would be a proper name for
+                     the scale, which also contrasts it with the present-hedonistic scale of the
+                     Zimbardo scale.
+
+                     Study aims and hypotheses
+                     The goal of this article is to provide an initial validation of a eudaimonic
+                     present perspective scale that can complement Webster’s (2011) BTPS. The
+                     ﬁnal three-dimensional BTPS is intended to match Zimbardo’s quote (2002:
+                     62) on BTP:
+
+                           [A positive past orientation is] where positive self-esteem is nourished.
+                           A future orientation gives us wings to soar to new destinations, to seek new
+                           challenges and opportunities by envisioning scenarios of possible future
+                           selves. A present time perspective allows spontaneity, sensation seeking, open-
+                           ness to novelty, being in the moment and fully experiencing and expressing
+                           emotions.
+
+                     It also does accord with Seligman’s and Csikszentmihalyi’s quote (2000: 5)
+                     on what positive psychology is about: ‘‘well-being, contentment, and satis-
+                     faction (in the past); hope and optimism (for the future); and ﬂow and
+                     happiness (in the present)’’.
+                        We hypothesize that a short scale on a present-eudaimonic perspective
+                     can be developed that has a clear one-dimensional factor structure, good
+                     internal consistency, and no social desirability bias. The scale will show
+                     convergent validity with instruments measuring mindfulness, ﬂow, and
+                     positive mental health (i.e. emotional, psychological, and social wellbeing;
+                     Keyes, 2005; Lamers et al., 2010). The scale will show divergent validity
+                     from other time perspective scales in that it has a unique relationship with
+                     mindfulness, ﬂow, and positive mental health, when controlling for other
+                     time perspectives. Furthermore, we expect these unique relationships to be
+                     the strongest among time perspectives. We expect this for mindfulness and
+                     ﬂow as we conceptualized the present-eudaimonic scale in terms of
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                Vowinckel et al.                                                                                                           7
+
+                mindfulness and ﬂow and we expect it for positive mental health as the
+                present is the only time zone which individuals experience directly and
+                permanently.
+                   Including the present scale in the BTPS will result in a clear factor
+                structure with three components: past, future, and present. Balanced time
+                perspective as measured with this three-dimensional scale will show con-
+                vergent validity in that it is related to positive mental health. It will show
+                divergent validity in that it is more strongly related to positive mental health
+                than BTP as measured with the ZTPI, because the latter lacks a clearly
+                positive present scale.
+
+
+                Method
+                Item generation and pilot test
+                An initial item pool of 26 items was created by the authors of this paper,
+                based on the literature on mindfulness and ﬂow. Using the three-step test
+                interview (Hak et al. 2008), eleven participants ﬁlled out these items
+                while thinking aloud. These participants varied in gender, age, experience
+                in mindfulness, and history of mental illness. All interviews were
+                recorded and analyzed. Three items were deleted due to diﬃculties and
+                diversity in interpretation. Furthermore, given the interpretation pro-
+                blems, the response format was changed from agree–disagree to
+                frequency.
+
+                Participants
+                An ad hoc sampling procedure was used to recruit participants both from
+                the University of Twente and the social networks of the researchers.
+                Psychology students received credits for participation. Eighty-four women
+                and 67 men (n ¼ 151) completed all 23 items of the initial version of the
+                present-eudaimonic scale. Of these participants, 131 (73 women) also com-
+                pleted all other scales. Participants ranged in age from 18 to 58 years
+                (M ¼ 25.7; SD ¼ 7.0). Thirty-seven participants were native Dutch speakers
+                and 85 were native German speakers. Twelve participants had other native
+                languages. All participants understood English very well and ﬁlled out the
+                questionnaires in this language.
+
+
+                Measures
+                Present-eudaimonic scale. All 23 items of the initial present-eudaimonic
+                scale were derived from conceptions of mindfulness and ﬂow, with some
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     8                                                                                                            Time & Society 0(0)
+
+                     items focusing on mindfulness (‘‘Concentrating on what is happening to me
+                     as it happens sharpens my senses’’), some on ﬂow (‘‘To be absorbed in the
+                     present makes me feel vital’’), and some on both (‘‘I feel connected to my
+                     environment when I just stay in the moment’’). Respondents rated on a 6-
+                     point Likert-type scale how often each item is true to them with answer
+                     options ranging from 1 ¼ ‘‘(almost) never’’ to 6 ¼ ‘‘always’’.
+
+                     Balanced time perspective scale. The BTPS (Webster, 2011) consists of
+                     28 items, 14 addressing the past and 14 addressing the future. Respondents
+                     rate on a 6-point scale how often they experience the content of the items
+                     (1 ¼ ‘‘(almost) never’’; 6 ¼ ‘‘always’’). Every item connects the addressed
+                     time zone (past or future) to the present. Examples of items are
+                     ‘‘Remembering happier times from my past helps energize me in the pre-
+                     sent’’, concerning the past and ‘‘Achieving future dreams is something that
+                     motivates me now’’ concerning the future. The BTPS showed excellent
+                     psychometric qualities (Webster, 2011; Webster and Ma, 2013; Webster
+                     et al., 2014). Cronbach’s alpha in this study was 0.92 for the past scale
+                     and 0.93 for the future scale. Balanced time perspective was operationalized
+                     as the deviation from balanced time perspective (DBTP; Stolarski et al.,
+                     2011): we deﬁned a score of six, the highest possible mean score as the
+                     optimal score (Webster et al., 2014). The DBTP is the sum of the deviations
+                     between the empirical and the ideal score per subscale (ideal score minus
+                     empirical score). The DBTP indicates the unbalancedness of a respondent’s
+                     time perspectives composition. Therefore, a negative correlation between
+                     the DBTP and another construct represents a positive correlation between
+                     BTP and that construct. The aim of the current study is to construe a
+                     present factor for the BTPS.
+
+                     Zimbardo time perspective inventory. The ZTPI (Zimbardo and Boyd,
+                     1999) is a 56-item scale which is constituted by the ﬁve subscales of past
+                     positive (PP), past negative (PN), present hedonistic (PH), present fatal-
+                     istic (PF), and future (F). Individuals rate on a 5-point Likert scale how
+                     strongly each statement applies to them (1 ¼ very untrue of me, 5 ¼ very
+                     true of me). Examples of items are ‘‘It gives me pleasure to think about
+                     my past’’ (PP), ‘‘Painful past experiences keep being replayed in my
+                     mind’’ (PN), ‘‘It is more important for me to enjoy life’s journey than
+                     to focus only on the destination’’ (PH), ‘‘My life path is controlled by
+                     forces I cannot inﬂuence’’ (PF) and ‘‘I believe that a person’s day should
+                     be planned ahead each morning’’ (F). The ZTPI was the product of a
+                     continued development over years and it has proven reliability and valid-
+                     ity (Boniwell and Zimbardo, 2004; Sircova et al., 2014; Stolarski et al.,
+                     2015; Zimbardo and Boyd, 1999, 2008). Cronbach’s alpha in the present
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                Vowinckel et al.                                                                                                           9
+
+                study was 0.82 for PP, 0.78 for PN, 0.80 for PH, 0.64 for PF, and
+                0.80 for F. The DBTP for the ZTPI was calculated using the most
+                desirable values for each subscale as suggested by Stolarski et al.
+                (2011) and Zhang et al. (2013a), with PN ¼ 1.95, PP ¼ 4.60, PF ¼ 1.50,
+                PH ¼ 3.90, and F ¼ 4.00. A higher score indicates an unbalanced time
+                perspective.
+
+                Swedish flow proneness questionnaire. The SFPQ (Ullén et al., 2011)
+                measures the frequency of ﬂow experiences among three domains of every-
+                day-life (work, maintenance, and leisure time). It consists of 22 items. The
+                items are rated on a Likert scale with answers ranging from 1 ¼ ‘‘never’’ to
+                5 ¼ ‘‘everyday, or almost every day’’. Examples of items are: ‘‘When you
+                do something at work, how often does it happen that you feel bored?’’,
+                ‘‘When you are doing household work or other routine chores (e.g. cook-
+                ing, cleaning, shopping) how often does it happen that it feels as if your
+                ability to perform what you do completely matches how diﬃcult it is?’’,
+                ‘‘When you do something in your leisure time, how often does it happen
+                that what you do feels extremely enjoyable to do?’’. The SFPQ showed
+                construct validity and reliability (Ullén et al., 2011). To calculate the
+                overall ﬂow-proneness score for participants who are employed, the
+                work-, maintenance-, and the leisure time score were added and divided
+                by three; for participants without employment, the maintenance and the
+                leisure time score were added and divided by two. In the present study
+                Cronbach’s alpha was 0.85 for the overall scale, 0.81 for the work sub-
+                scale, 0.66 for the maintenance subscale, and 0.79 for the leisure time
+                subscale.
+
+                Five facet mindfulness questionnaire – short form. The FFMQ-SF
+                (Bohlmeijer et al., 2011) is a short form of the FFMQ (Baer et al., 2006).
+                It measures ﬁve facets of mindfulness. Examples of items are ‘‘I notice
+                visual elements in art or nature, such as colors, shapes, textures, or patterns
+                of light and shadow’’ (observe), ‘‘I’m good at ﬁnding words to describe my
+                feelings’’ (describe), ‘‘I ﬁnd myself doing things without paying attention’’
+                (reverse-coded) (acting with awareness), ‘‘I disapprove of myself when I
+                have illogical ideas’’ (reverse-coded) (nonjudging of inner experience),
+                ‘‘When I have distressing thoughts or images, I just notice them and let
+                them go’’ (nonreactivity to inner experience). The FFMQ is rated on a 5-
+                point scale ranging from 1 ¼ ‘‘never or very rarely true’’ to 5 ¼ ‘‘very often
+                or always true’’. Cronbach’s alpha in the present study was 0.88 for the
+                overall FFMQ-SF, 0.85 for the describe scale and the nonjudging scale, 0.81
+                for the acting with awareness scale, and 0.75 for the nonreacting and the
+                observe scale.
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     10                                                                                                           Time & Society 0(0)
+
+                     Mental health continuum – short form
+                     The MHC-SF (Lamers et al., 2010) assesses three domains of mental health,
+                     which are emotional wellbeing, psychological wellbeing, and social well-
+                     being. The rating instruction for the whole scale is: ‘‘During the last
+                     month, how often did you feel. . .’’. Three items measure emotional well-
+                     being (e.g. ‘‘happy’’), ﬁve items measure social wellbeing (e.g. ‘‘that you had
+                     something important to contribute to society’’) and six items measure psy-
+                     chological wellbeing (e.g. ‘‘that you had experiences that challenged you to
+                     grow and become a better person’’). Answer options range from
+                     1 ¼ ‘‘never’’ to 6 ¼ ‘‘every Day’’. The MHC-SF showed good reliability
+                     and validity (Keyes et al., 2008; Lamers et al., 2010). Cronbach’s alpha in
+                     this study was 0.88 for the whole scale, 0.81 for EW and PW, and 0.73
+                     for SW.
+
+                     Marlowe–Crowne social desirability scale – short form A
+                     We used the 11-item short form A (Reynolds, 1982) derived from the MC-
+                     SDS (Crowne and Marlowe, 1960) to assess social desirability bias.
+                     Examples of items are ‘‘It is sometimes hard for me to go on with my
+                     work if I am not encouraged’’ and ‘‘I sometimes feel resentful when
+                     I don’t get my way’’. Answer options are 1 ¼ ‘‘true’’ and 2 ¼ ‘‘false’’.
+                     A socially desirable answer counted for one point per item. The scores
+                     were added, resulting in an overall score between 0 and 11. Cronbach’s
+                     alpha was 0.64.
+
+                     Analyses
+                     First, 45 missing values on single items were imputed with the mean sample
+                     score per item. Principal components analyses with varimax rotation were
+                     conducted to select items and explore the factor structure of the present-
+                     eudaimonic scale as well as to determine the factor structure of the complete
+                     BTPS (past-, future-, and present-scale). Cronbach’s alpha was calculated
+                     for the present-eudaimonic scale to investigate its internal consistency.
+                     A Pearson correlation with the social desirability scale was calculated.
+                     Pearson correlations were used to investigate the relations of time perspec-
+                     tives with mindfulness, ﬂow-proneness and positive mental health.
+                     Hierarchical regression analyses will be used to assess whether the eudai-
+                     monic present scale has a unique contribution to mindfulness, ﬂow, and
+                     positive mental health that is stronger than that of the other time perspec-
+                     tives. Zero-order and partial correlations of BTPS-BTP and ZTPI-BTP
+                     with positive mental health were calculated. Steiger’s Z was used to test
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                Vowinckel et al.                                                                                                           11
+
+                whether the correlation of the BTPS-BTP with positive mental health
+                was signiﬁcantly higher than that of the ZTPI-BTP with positive mental
+                health.
+
+
+                Results
+                The present-eudaimonic scale
+                One hundred and ﬁfty-one participants completed all 23 items of the initial
+                present-eudaimonic scale. The Kaiser–Meyer–Olkin measure of sampling
+                adequacy was 0.87, indicating that the data allows component analysis.
+                Bartlett’s test of sphericity was signiﬁcant, 2 ¼ 1295.08 (253), p < 0.001,
+                indicating that the data is suﬃciently normally distributed. A principal
+                components analysis (PCA) with varimax rotation showed that six compo-
+                nents had an eigenvalue over 1.0. Ten items had their highest loadings on
+                the ﬁrst component (the present-eudaimonic component) and all were
+                above 0.50. A second PCA was conducted with the 10 items with the highest
+                loadings on the ﬁrst component, resulting in one extracted component with
+                loadings between 0.59 and 0.80. The Kaiser–Meyer–Olkin measure was
+                0.89, Bartlett’s test of sphericity was signiﬁcant, 2 ¼ 570.68 (45),
+                p < 0.001. Table 1 presents the loadings, means, and standard deviations
+                of the 10 items, which constitute the present-eudaimonic scale. Cronbachs’
+                alpha for the 10-item scale was 0.88. The present-eudaimonic scale did not
+                correlate with the social desirability scale (r ¼ 0.07, p ¼ 0.41]. We thus found
+                the hypothesized one-dimensional, reliable scale that is not related to social
+                desirability bias.
+                   Table 2 shows the intercorrelations among time perspectives as well as
+                the correlations of time perspectives with mindfulness facets, ﬂow domains
+                and positive mental health subscales. Concerning validity the present-eudai-
+                monic scale was positively correlated with mindfulness (r ¼ 0.52, p < 0.001)
+                and overall ﬂow-proneness (r ¼ 0.47, p < 0.001), as hypothesized. Although
+                the scale had the highest correlation with overall mindfulness among time
+                perspectives, it had a weaker correlation with the mindfulness facets non-
+                judging and nonreacting than the ZTPI past negative scale. Regarding ﬂow,
+                the positive eudaimonic scale had the strongest correlation with overall
+                ﬂow-proneness. It did not correlate with the maintenance subscale, unlike
+                the ZTPI past positive and future scale and the BTPS past scale. It also had
+                a weaker correlation with the work ﬂow scale than the ZTPI past negative
+                and the BTPS past scale. Last, the present-eudaimonic scale was positively
+                correlated with positive mental health (r ¼ 0.56, p < 0.001). It also had the
+                highest correlations with positive mental health as well as with the subscales
+                among all time perspective scales.
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     12                                                                                                           Time & Society 0(0)
+
+                     Table 1. Present-eudaimonic scale. Loadings, means, and standard deviations
+                     (n ¼ 151).
+
+                                   Item                                                                                   Loading          M      SD
+
+                       1.          I feel a certain peace and harmony when I stay                                         0.80             4.38   1.16
+                                       focused on the flow of the present
+                       2.          I feel connected to myself when I stay in the                                          0.80             4.47   1.07
+                                       moment
+                       3.          To be absorbed in the present makes me feel vital                                      0.75             4.32   1.01
+                       4.          I get a sense of meaning or purpose when I just                                        0.72             4.25   1.02
+                                       stay in the moment
+                       5.          Concentrating on what is happening to me as it                                         0.71             4.33   1.12
+                                       happens, inspires me
+                       6.          Being in the present helps me appreciate what I                                        0.67             4.54   1.11
+                                       have
+                       7.          Concentrating on what is happening to me, as it                                        0.63             4.67   1.02
+                                       happens, sharpens my senses
+                       8.          I feel connected to my environment when I just                                         0.63             4.51   0.99
+                                       stay in the moment
+                       9.          I feel revitalized after staying focused on the                                        0.62             4.14   0.95
+                                       present
+                     10.           Things come into focus for me when I stay in the                                       0.59             4.40   0.92
+                                       now
+
+
+
+
+                        As diﬀerent time perspectives showed some signiﬁcant relations among
+                     each other (Table 2), we conducted three hierarchical regression analyses to
+                     assess the unique relations of these diﬀerent time perspectives with mind-
+                     fulness, ﬂow-proneness, and positive mental health. Table 3 shows the
+                     results of these analyses. We ﬁrst entered the seven existing ZTPI and
+                     BTPS scales and then added the new present-eudaimonic scale. The seven
+                     ZTPI and BTPS scales explained 29% of variance in mindfulness. Adding
+                     the present-eudaimonic scale resulted in a signiﬁcant increase of explained
+                     variance of 9%. The present-eudaimonic scale had the strongest regression
+                     coeﬃcient (0.34). The seven ZTPI and BTPS scales explained 25% of var-
+                     iance in ﬂow-proneness. Including the present-eudaimonic scale in the
+                     second model added another 8% in explained variance. The positive eudai-
+                     monic perspective again has the strongest regression coeﬃcient and is the
+                     only scale that remains signiﬁcantly related to ﬂow proneness. The existing
+                     time perspective scales explained 36% of the variance in positive mental
+                     health. Adding the present-eudaimonic scale accounted for a signiﬁcant
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+                                                                                          Table 2. Intercorrelations of time perspectives and time perspectives’ correlations with facets of mindfulness, domains of flow-prone-
+                                                                                          ness, and aspects of positive mental health (n ¼ 131).
+
+                                                                                                                       Present          Present        Present       Past           Past                                                                     XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+
+                                                                                                                       eudaimonic       hedonistic     fatalistic    negative       positive      BTPS Past   BTPS Future   ZTPI Future
+
+                                                                                          Present eudaimonic            1
+                                                                                          Present hedonistic            0.37***          1
+                                                                                                                                                                                                                                          Vowinckel et al.
+
+                                                                                          Present fatalistic           0.03             0.23*          1
+                                                                                          Past negative                0.32***         0.11           0.14          1                                                                                      //blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+
+                                                                                          Past positive                 0.25**           0.27**        0.06         0.30***        1
+                                                                                          BTPS Past                     0.25**           0.15          0.15         0.21*          0.61***      1
+                                                                                          BTPS Future                   0.11             0.01          0.30***      0.01           0.15         0.45***      1
+                                                                                          ZTPI Future                  0.13            0.37***       0.32***       0.15          0.11         0.07         0.37***       1
+                                                                                          Mindfulness total             0.52***          0.34***       0.17         0.45***        0.19*        0.19*        0.12         0.14                            TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+                                                                                          Mindfulness describe          0.37***          0.25**        0.19*        0.27**         0.19*        0.20*        0.18*         0.04
+                                                                                          Mindfulness actaware          0.35***          0.24**        0.17         0.28**         0.14         0.15         0.06          0.02
+                                                                                          Mindfulness nonjudging        0.43***          0.22*         0.12         0.51***        0.12         0.06        0.06         0.29**
+                                                                                          Mindfulness observe           0.34***          0.30***       0.04          0.00           0.11         0.08         0.16         0.11
+                                                                                          Mindfulness nonreact          0.21*            0.11          0.03         0.41***        0.08         0.15         0.09         0.06
+                                                                                          Flow total                    0.47***          0.25**        0.20*        0.31***        0.30***      0.35***      0.31**        0.11
+                                                                                          Flow work                     0.40**           0.19          0.33**       0.51***        0.34**       0.51***      0.39**        0.07
+                                                                                          Flow maintenance              0.16            0.03          0.14         0.08           0.20*        0.18*        0.17          0.27**
+                                                                                          Flow leisure                  0.54***          0.42***       0.12         0.30***        0.24**       0.24**       0.19*        0.06
+Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+
+
+
+
+                                                                                          PMH Total                     0.56***          0.35***       0.07         0.41***        0.38***      0.42***      0.30**        0.03
+                                                                                          PMH EW                        0.52***          0.40***        0.00         0.32***        0.32***      0.31***      0.15         0.06
+                                                                                          PMH SW                        0.42***          0.20*         0.03         0.29**         0.35***      0.35***      0.19*         0.00
+                                                                                          PMH PW                        0.54***          0.36***       0.13         0.42***        0.31***      0.40***      0.39***       0.10         13
+                                                                                          *p < 0.05; **p < 0.01; ***p < 0.001.
+                                                                                          PMH: positive mental health; EW: emotional well-being; SW: social well-being; PW: psychological well-being.
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     14                                                                                                           Time & Society 0(0)
+
+                     Table 3. Hierarchical regression analyses with time perspectives predicting
+                     mindfulness, flow-proneness and mental health (n ¼ 131).
+
+                                                                                                  Step 1                                   Step 2
+                                                                                                  b                                        b
+
+                     Model 1. Dependent variable: Mindfulness
+                     Past negative                               –0.39***                                                                  –0.31***
+                     Past positive                               –0.06                                                                     –0.06
+                     BTPS Past                                    0.03                                                                     –0.01
+                     BTPS Future                                  0.07                                                                      0.06
+                     ZTPI Future                                 –0.05                                                                     –0.05
+                     Present hedonistic                           0.33***                                                                   0.22*
+                     Present fatalistic                          –0.18*                                                                    –0.16*
+                     Present eudaimonic                                                                                                     0.34***
+                     Adjusted R2                                  0.29                                                                      0.38
+                     Model 2. Dependent variable: Flow proneness
+                     Past negative                                –0.23**                                                                  –0.15
+                     Past positive                                 0.08                                                                     0.08
+                     BTPS Past                                     0.11                                                                     0.07
+                     BTPS Future                                   0.16                                                                     0.15
+                     ZTPI Future                                   0.14                                                                     0.15
+                     Present hedonistic                            0.26**                                                                   0.15
+                     Present fatalistic                           –0.11                                                                    –0.10
+                     Present eudaimonic                                                                                                     0.33***
+                     Adjusted R2                                   0.25                                                                     0.33
+                     Model 3. Dependent variable: Positive mental health
+                     Past negative                                                                –0.33***                                 –0.24**
+                     Past positive                                                                 0.08                                     0.08
+                     BTPS Past                                                                     0.18                                     0.14
+                     BTPS Future                                                                   0.16                                     0.14
+                     ZTPI Future                                                                   0.14                                     0.14
+                     Present hedonistic                                                            0.31***                                  0.19*
+                     Present fatalistic                                                            0.03                                     0.04
+                     Present eudaimonic                                                                                                     0.37***
+                     Adjusted R2                                                                   0.36                                     0.47
+                     *p < 0.05; **p < 0.01; ***p < 0.001.
+
+
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                Vowinckel et al.                                                                                                           15
+
+                increase of 11% explained variance in positive mental health and showed
+                the highest regression coeﬃcient. Our hypothesis about the convergent
+                validity of the present-eudaimonic scale with mindfulness, ﬂow, and posi-
+                tive mental health and the divergent validity from the other time perspective
+                scales is thus supported.
+
+
+                The modified BTPS
+                A principal components analysis with varimax rotation was conducted in
+                order to explore the factor structure of the whole BTPS. The number of
+                components was set to three. The Kaiser–Meyer–Olkin measure of sam-
+                pling adequacy was 0.86. Bartlett’s test of sphericity was signiﬁcant,
+                2 ¼ 3118.439 (703), p < 0.001. Table 4 presents the loadings of the items
+                of the modiﬁed BTPS (including past and future subscales and present-
+                eudaimonic scale). The items had their highest loading on the expected
+                factor and low cross-loadings on other factors. The present-eudaimonic
+                scale was weakly correlated with the past scale (r ¼ 0.25, p < 0.01) and
+                was not signiﬁcantly correlated with the future scale of the BTPS
+                (r ¼ 0.11, ns). The past and the future scale were signiﬁcantly correlated
+                (r ¼ 0.45, p < 0.001).
+                   The DBTP coeﬃcient of the modiﬁed BTPS and the ZTPI were com-
+                pared in their relation to positive mental health. As hypothesized, the zero-
+                order correlation of BTPS-DBTP with positive mental health (r ¼ 0.59,
+                p < 0.001) was higher than that of the ZTPI-DBTP (r ¼ 0.45, p < 0.001).
+                The diﬀerence proved to be signiﬁcant (ZH ¼ 2.08, p ¼ 0.037). Partial
+                correlations were calculated to assess the relations of DBTP with positive
+                mental health, controlling for the other operationalization of DBTP. After
+                partialing out ZTPI-DBTP, the correlation of the BTPS-DBTP with posi-
+                tive mental health remained moderate (r ¼ 0.48, p < 0.001). Controlling
+                for BTPS-DBTP, the partial correlation of ZTPI-DBTP with positive
+                mental health was clearly weaker (r ¼ 0.21, p ¼ 0.018). Our hypothesis
+                about the stronger relation of the modiﬁed BTPS with positive mental
+                health than that of the ZTPI is supported.
+
+                Discussion
+                The purpose of this article was to create a measure for a positive eudaimo-
+                nic relation to the present, thereby emphasizing the central relevance of a
+                positive present orientation for wellbeing in general and for a BTP in par-
+                ticular. Based on the literature on mindfulness and ﬂow, a 10-item present-
+                eudaimonic scale was developed. The scale showed good psychometric
+                properties: one-dimensional factor structure, good internal consistency,
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     16                                                                                                           Time & Society 0(0)
+
+                     Table 4. BTPS. Loadings (n ¼ 131).
+
+                                                                                                           Future                Past         Present
+
+                     Looking ahead really gets me energized                                                   0.81                  0.13      0.06
+                     I enjoy thinking about where I’ll be a few years                                         0.78                  0.19      0.12
+                         from now
+                     I have many future aspirations                                                           0.77                  0.12       0.13
+                     I enjoy thinking about goals that are yet to                                             0.76                  0.08       0.07
+                         come
+                     I look forward to my future                                                              0.73                  0.16       0.03
+                     Imagining my future makes me feel optimistic                                             0.73                  0.21       0.06
+                     I have some very specific future goals                                                   0.72                  0.04       0.05
+                     I think about my future development                                                      0.71                  0.04       0.05
+                     Achieving future dreams is something that                                                0.68                  0.29       0.08
+                         motivates me now
+                     Anticipating my later life fills me with hope                                            0.68                0.34        0.10
+                     Creating a positive future is something I think                                          0.66               0.01         0.23
+                         about
+                     Planning for the future gives me a sense of                                              0.66                  0.28      0.10
+                         purpose in the present
+                     I get excited when I think about the future                                              0.63                  0.10       0.03
+                     The kind of person I want to be is brought                                               0.57                  0.20       0.09
+                         into focus when I think about the future
+                     I feel my past is a resource upon which I can                                            0.04                  0.77       0.10
+                         draw
+                     Seeing how the pieces of my past come                                                    0.07                  0.77       0.07
+                         together gives me a sense of identity
+                     The joy of life is strengthened for me when I                                            0.09                  0.77       0.11
+                         recall the past
+                     Evaluating earlier times in my life gives me a                                           0.19                  0.75       0.15
+                         sense of hope in the present
+                     Tapping into my past is a source of comfort to                                           0.11                  0.75       0.12
+                         me
+                     I get a renewed sense of optimism when I                                                 0.12                  0.74       0.12
+                         remember earlier life experiences
+                     Remembering happier times from my past                                                   0.07                  0.69       0.12
+                         helps energize me in the present
+                     Reliving earlier times in my life helps give me a                                        0.26                  0.67      –0.02
+                         sense of direction
+                     The pattern of my life makes more sense to                                               0.02                  0.66       0.05
+                         me when I reflect on my past
+                                                                                                                                           (continued)
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                Vowinckel et al.                                                                                                               17
+                Table 4. Continued.
+
+                                                                                                       Future                Past          Present
+
+                Reminiscing about my past gives me a sense of                                             0.37                  0.64        0.05
+                    purpose in life
+                Reviewing events from my past helps give my                                               0.40                  0.63        0.01
+                    life meaning
+                Recalling previous successes helps motivate                                               0.33                  0.63        0.01
+                    me now
+                Reflecting on earlier triumphs helps me iden-                                             0.30                  0.62        0.12
+                    tify personal strengths
+                I feel that important memories fill my past                                             0.11                    0.57        0.20
+                I feel connected to myself when I stay in the                                          0.01                    0.08        0.80
+                    moment
+                To be absorbed in the present makes me feel                                            –0.17                    0.04        0.77
+                    vital
+                I feel a certain peace and harmony when I stay                                         –0.06                    0.20        0.77
+                    focused on the flow of the present
+                I get a sense of meaning or purpose when I                                                0.11                  0.05        0.73
+                    just stay in the moment
+                Concentrating on what is happening to me as                                               0.13                  0.09        0.71
+                    it happens, inspires me
+                Concentrating on what is happening to me, as                                              0.17               0.04          0.67
+                    it happens, sharpens my senses
+                Being in the present helps me appreciate what                                             0.05                  0.14        0.67
+                    I have
+                I feel connected to my environment when I                                                 0.10                  0.07        0.62
+                    just stay in the moment
+                Things come into focus for me when I stay in                                              0.03                  0.11        0.62
+                    the now
+                I feel revitalized after staying focused on the                                        –0.04                    0.16        0.61
+                    present
+                Explained total variance                                                                20.45%                19.23%       13.60%
+                Note: Items which load on their respective factors are bolded.
+
+
+
+                no social desirability bias, good convergent validity (signiﬁcant correlations
+                with mindfulness, ﬂow, and positive mental health) and good divergent
+                validity (unique and strongest relationships to mindfulness, ﬂow, and posi-
+                tive mental health among all time perspectives). The modiﬁed BTPS, includ-
+                ing the new present-eudaimonic scale, had a three-dimensional factor
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     18                                                                                                           Time & Society 0(0)
+
+                     structure with acceptable cross-loadings. BTP as measured with the mod-
+                     iﬁed scale had a stronger relation to positive mental health than BTP
+                     derived from the ZTPI.
+                        The present-eudaimonic scale was derived from mindfulness and ﬂow. It
+                     showed indeed the strongest relationships with the overall mindfulness and
+                     ﬂow scales among all time perspectives. At the same time, the relations with
+                     mindfulness and ﬂow were low enough to conclude that the new scale does
+                     not measure the same construct. In this respect, the formulation in an aﬀect-
+                     laden time perspective seems successful.
+                        Our hypothesis that a healthy present perspective, representing the only
+                     time zone that we experience directly and permanently, is related to positive
+                     mental health was supported. Consistent with prior research on wellbeing,
+                     diﬀerent time perspectives were related to aspects of mental health
+                     (Zimbardo and Boyd, 1999; Boniwell et al., 2010; Drake et al., 2008;
+                     Webster and Ma, 2013; Webster et al., 2014; Zhang and Howell, 2011;
+                     Zhang et al., 2013a, 2013b). However, the present-eudaimonic time perspec-
+                     tive explained additional variance in positive mental health over and above
+                     these other time perspectives. Moreover, it had the strongest relation with
+                     positive mental health among all time perspectives. These ﬁndings provide
+                     evidence for the validity of the present-eudaimonic scale and support the
+                     notion that a healthy present perspective, which goes beyond interpreting
+                     the present as being associated to hedonism and fatalism, could even be
+                     more important for human ﬂourishing than positive relations to the future
+                     and to the past.
+                        These assumptions are further supported by our analyses regarding BTP.
+                     We used both the modiﬁed BTPS and the ZTPI to operationalize a BTP.
+                     Earlier studies had shown that balanced time perspectives derived from
+                     either scale were related to wellbeing (e.g. Boniwell et al., 2010; Webster
+                     et al., 2014). This was the ﬁrst study to directly compare these two measures
+                     of BTP. The operationalization that added the present-eudaimonic perspec-
+                     tive to the BTPS showed a stronger relationship with positive mental health
+                     than the one based on the ZTPI. The signiﬁcant partial correlations showed
+                     that both operationalizations explain some unique variance in positive
+                     mental health. However, the unique variance explained by the modiﬁed
+                     BTPS was larger than that of the ZTPI. These ﬁndings support the
+                     notion that mindfulness (Seema and Sircova, 2013) and ﬂow are essential
+                     components of a BTP. Further research on the divergent validity of both
+                     scales seems warranted concerning their relations to other intra- and
+                     interpsychological aspects important for the promotion or maintenance
+                     of ﬂourishing, such as wisdom, emotional intelligence, empathy, and self-
+                     compassion. It should be mentioned that it is not our intention to replace
+                     the ZTPI. Since the scales measure diﬀerent aspects of time perspective, our
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                Vowinckel et al.                                                                                                           19
+
+                results indicate that both scales have their unique raison d’être and can
+                complement each other by contributing to a growing pool of time perspec-
+                tive scales, from which researchers can choose the most proper combination
+                of scales regarding their research objectives.
+                   As the sample was not large and included many students, our study pro-
+                vides an initial validation of the new present-eudaimonic scale and
+                the modiﬁed BTPS. Further validation is even more necessary, because the
+                participants did not ﬁll out the questionnaires in their own language, even
+                though they had a good command of the English language. Therefore,
+                further research on the validity of the scales in other samples is needed. To
+                increase external validity, our sample included participants from diverse life
+                backgrounds instead of being limited to young student populations. Future
+                studies should use larger, more representative samples in order to allow
+                conﬁrmatory factor analysis and to investigate measurement invariance
+                across categories such as gender and age. Furthermore, other psychometric
+                qualities of the scales still need to be established, such as test–retest reliability
+                and sensitivity to intercultural diﬀerences. A last limitation is that the present
+                study completely relied on self-report data. Future research could employ
+                more objective measures of functioning (e.g. mental health diagnoses) or peer
+                ratings as an additional source of information (Zhang et al., 2013b).
+                   The present study provides an initial validation of the present-eudaimo-
+                nic scale as well as of the modiﬁed BTPS that contains scales for measuring
+                aﬀectively positive relations to the past, present, and future. These new and
+                promising instruments can enrich the psychology of time perspective as well
+                as positive psychology by adding a healthy, eudaimonic perspective on the
+                present.
+                   Finally, the study may have strong consequences on the future versus
+                present debate. In the literature, future and present orientations are com-
+                monly described as being mutually exclusive: people are either present or
+                future oriented (Mischel et al., 1989; Strathman et al., 1994). Future orien-
+                tation is seen as being associated with the ability to delay gratiﬁcation
+                (Mischel et al., 1989), pro-environmental (Joireman et al., 2001) and
+                health behaviors (Joireman et al., 2012), academic achievement (Peters
+                et al., 2005), etc., while present orientation represents the opposite respec-
+                tively. We think that this view of the relation between present and future
+                perspective is not generally valid and we suggest that the often evident,
+                adverse relation between present and future perspective cannot be ascribed
+                to characteristics of a present orientation as such, but rather to the speciﬁc
+                (hedonic and fatalistic) kinds of present orientation that were assessed in
+                previous studies (cf. Sheldon and Vansteenkiste, 2005; Sobol-Kwapinska,
+                2009; 2013; Seema and Sircova, 2013), and we expect that the present-
+                eudaimonic scale is positively related to concepts/constructs theoretically
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     20                                                                                                           Time & Society 0(0)
+
+                     associated with consideration of (long-term) future consequences such as
+                     appreciation of nature’s beauty (Diessner et al., 2008) and nature connect-
+                     edness (Mayer and Frantz, 2004), meaning in life/interconnectedness (Delle
+                     Fave and Soosai-Nathan, 2014), a resonance-based relation with the social,
+                     cultural, and natural environment (Rosa, 2012: 9–10) and individual sense
+                     of interbeing (Hanh, 1987).
+                        If future studies support these assumptions, the present-eudaimonic scale
+                     embodies a possibility to reconcile present and future time perspective,
+                     implying far-reaching theoretical and practical consequences for personal-
+                     ity, developmental, social, clinical, and environmental psychology.
+
+                     Funding
+                     This research received no speciﬁc grant from any funding agency in the public,
+                     commercial, or not-for-proﬁt sectors.
+
+
+                     Conflict of interest
+                     None declared.
+
+                     References
+                     Asakawa K (2010) Flow experience, culture, and well-being: How do autotelic
+                        Japanese college students feel, behave, and think in their daily lives? Journal of
+                        Happiness Studies 11: 205–223.
+                     Baer RA (2009) Self-focused attention and mechanisms of change in mindfulness-
+                        based treatment. Cognitive Behaviour Therapy 38: 15–20.
+                     Baer RA, Smith GT, Hopkins J, et al. (2006) Using self-report assessment methods
+                        to explore facets of mindfulness. Assessment 13(1): 27–45.
+                     Bassi M, Steca P, Monzani D, et al. (2014) Personality and optimal experience in
+                        adolescence: Implications for well-being and development. Journal of Happiness
+                        Studies 15: 829–843.
+                     Bishop SR, Lau M, Shapiro SL, et al. (2004) Mindfulness: A proposed operational
+                        definition. Clinical Psychology: Science and Practice 11(3): 230–241.
+                     Bohlmeijer ET, Ten Klooster PM, Fledderus M, et al. (2011) Psychometric proper-
+                        ties of the Five Facet Mindfulness Questionnaire in depressed adults and devel-
+                        opment of a short form. Assessment 8(3): 308–320.
+                     Boniwell I, Osin E, Linley PA, et al. (2010) A question of balance: Time perspective
+                        and well-being in British and Russian samples. The Journal of Positive
+                        Psychology 5(1): 24–40.
+                     Boniwell I and Zimbardo PG (2003) Time to find the right balance. The Psychologist
+                        16: 129–131.
+                     Boniwell I and Zimbardo PG (2004) Balancing one’s time perspective in pursuit of
+                        optimal functioning. In: Linley PA and Joseph S (eds) Positive Psychology in
+                        Practice. New Jersey: Wiley, pp. 165–178.
+
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                Vowinckel et al.                                                                                                           21
+                Brown KW and Ryan RM (2003) The benefits of being present: Mindfulness and its
+                   role in psychological well-being. Journal of Personality and Social Psychology
+                   84(4): 822–848.
+                Chiesa A, Calati R and Serretti A (2011) Does mindfulness training improve cog-
+                   nitive abilities? A systematic review of neuropsychological findings. Clinical
+                   Psychology Review 31: 449–464.
+                Crowne DP and Marlowe D (1960) A new scale of social desirability independent of
+                   psychopathology. Journal of Consulting Psychology 24(4): 349–354.
+                Csikszentmihalyi M (1975) Beyond Boredom and Anxiety. San Francisco: Jossey-Bass.
+                Csikszentmihalyi M (1990) Flow: The Psychology of Optimal Experience. New York:
+                   Harper & Row.
+                Deci EL and Ryan RM (2008) Hedonia, eudaimonia, and well-being: An introduc-
+                   tion. Journal of Happiness Studies 9: 1–11.
+                Delle Fave A and Soosai-Nathan L (2014) Meaning as inter-connectedness:
+                   Theoretical perspectives and empirical evidence. Journal of Psychology in
+                   Africa 24(1): 33–43.
+                Diessner R, Solom RD, Frost NK, et al. (2008) Engagement with beauty:
+                   Appreciating natural, artistic, and moral beauty. The Journal of Psychology
+                   142: 303–332.
+                Drake L, Duncan E, Sutherland F, et al. (2008) Time perspective and correlates of
+                   wellbeing. Time & Society 17(1): 47–61.
+                Einstein A and Besso MA (1972) Albert Einstein – Michelle Besso Correspondence
+                   1903–1955. Paris: Hermann.
+                Fieulaine N and Martinez F (2011) About the fuels of self-regulation: Time per-
+                   spective and desire for control in adolescents substance use. In: Barkoukis V (ed.)
+                   Psychology of Self-Regulation. New York: Nova Science Publishers.
+                Fledderus M, Bohlmeijer ET, Smit F, et al. (2010) Mental health promotion as a
+                   new goal in public mental health care: A randomized controlled trial of an inter-
+                   vention enhancing psychological flexibility. American Journal of Public Health
+                   100(12): 2372.
+                Hak T, Van Der Veer K and Jansen H (2008) The Three-Step Test-Interview
+                   (TSTI): An observation-based method for pretesting self-completion question-
+                   naires. Survey Research Methods 2(3): 143–150.
+                Hanh TN (1976) The Miracle of Mindfulness: A Manual for Meditation. Boston:
+                   Beacon.
+                Hanh TN (1987) Interbeing. Berkeley: Parallax Press.
+                Hanh TN (1998) Schritte der Achtsamkeit. Eine Reise an den Ursprung des
+                   Buddhismus. Freiburg: Herder.
+                Huta V and Waterman AS (2013) Eudaimonia and its distinction from Hedonia:
+                   Developing a classification and terminology for understanding conceptual and
+                   operational definitions. Journal of Happiness Studies 15: 1425–1456.
+                Joireman JA, Lasane TP, Bennet J, et al. (2001) Integrating social value orientation
+                   and the consideration of future consequences within the extended norm activa-
+                   tion model of proenvironmental behavior. British Journal of Social Psychology
+                   40: 133–155.
+
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     22                                                                                                           Time & Society 0(0)
+                     Joireman JA, Shaffer MJ, Balliet D, et al. (2012) Promotion orientation explains
+                        why future-oriented people exercise and eat healthy: Evidence from two-factor
+                        consideration of future consequences-14 scale. Personality and Social Psychology
+                        Bulletin 38(10): 1272–1287.
+                     Kabat-Zinn J (1982) An outpatient program in behavioral medicine for
+                        chronic pain patients based on the practice of mindfulness meditation:
+                        Theoretical considerations and preliminary results. General Hospital Psychiatry
+                        4(1): 33–47.
+                     Kang Y, Gruber J and Gray JR (2013) Mindfulness and de-automatization.
+                        Emotion Review 5(2): 192–201.
+                     Kant I (1781/1986) Kritik der Reinen Vernunft. Ditzingen: Reclam-Verlag.
+                     Kaufman KA, Glass CR and Arnkoff DB (2009) Evaluation of mindful sport per-
+                        formance enhancement (MSPE): A new approach to promote flow in athletes.
+                        Journal of Clinical Sport Psychology 3(4): 334–356.
+                     Kee YH and Wang CKJ (2008) Relationships between mindfulness, flow-
+                        dispositions and mental skills adoption: A cluster analytic approach.
+                        Psychology of Sport and Exercise 9(4): 393–411.
+                     Keng SL, Smoski MJ and Robins CJ (2011) Effects of mindfulness on psycho-
+                        logical health: A review of empirical studies. Clinical Psychology Review 31(6):
+                        1041–1056.
+                     Keyes CLM, Wissing M, Potgieter JP, et al. (2008) Evaluation of the Mental Health
+                        Continuum Short Form (MHC-SF) in Setswana speaking South Africans.
+                        Clinical Psychology and Psychotherapy 15: 181–192.
+                     Keough KA, Zimbardo PG and Boyd JN (1999) Who’s smoking, drinking, and
+                        using drugs? Time perspective as a predictor of substance use. Basic and Applied
+                        Social Psychology 21(2): 149–164.
+                     Laghi F, Baiocco R, Liga F, et al. (2013) Identity status differences among Italian
+                        adolescents: Associations with Time perspective. Children and Youth Service
+                        Review 35: 482–487.
+                     Lamers SMA, Westerhof GJ, Bohlmeijer ET, et al. (2010) Evaluating the psycho-
+                        metric properties of the Mental Health Continuum-Short Form (MHC-SF).
+                        Journal of Clinical Psychology 67(1): 99–110.
+                     Luyckx K, Lens W, Smits I, et al. (2010) Time perspective and identity formation:
+                        Short-term longitudinal dynamics in college students. International Journal of
+                        Behavioral Development 34: 238–247.
+                     Mayer FS and Frantz CM (2004) The connectedness to nature scale: A measure of
+                        individuals’ feeling in community with nature. Journal of Environmental
+                        Psychology 24: 503–515.
+                     Milfont TL, Wilson J and Diniz PKC (2012) Time perspective and
+                        environmental engagement: A meta-analysis. International Journal of
+                        Psychology 47(5): 325–334.
+                     Mischel W, Shoda Y and Rodriguez ML (1989) Delay of gratification in children.
+                        Science 24(4): 933–938.
+                     Newton I (1687/2013) Philosophiæ Naturalis Principia Mathematica. Charleston:
+                        Nabu Press.
+
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                Vowinckel et al.                                                                                                           23
+                Peters BR, Joireman JA and Ridgway RL (2005) Individual differences in the con-
+                   sideration of future consequences scale correlate with sleep habits, sleep quality,
+                   and GPA in university students. Psychological Reports 96(3): 817–824.
+                Reynolds WM (1982) Development of reliable and valid short forms of the
+                   Marlowe-Crowne social desirability scale. Journal of Clinical Psychology 38(1):
+                   119–125.
+                Rosa H (2012) Weltbeziehungen im Zeitalter der Beschleunigung - Umrisse einer
+                   neuen Gesellschaftskritik. Berlin: Suhrkamp.
+                Ryan RM and Deci EL (2001) On happiness and human potentials: A review of
+                   research on hedonic and eudaimonic well-being. Annual Review of Psychology 52:
+                   141–166.
+                Ryan RM, Huta V and Deci EL (2008) Living well: A self-determination theory on
+                   eudaimonia. Journal of Happiness Studies 9: 139–170.
+                Seligman MEP and Csikszentmihalyi M (2000) Positive psychology: An introduc-
+                   tion. American Psychologist 55: 5–14.
+                Seema R and Sircova A (2013) Mindfulness a time perspective? Estonian study.
+                   Baltic Journal of Psychology 14(1,2): 4–21.
+                Sheldon KM and Vansteenkiste M (2005) Personal goals and time travel: How are
+                   future places visited, and is it worth it? In: Strathman A and Joireman J (eds)
+                   Understanding Behaviour in the Context of Time: Theory, Research and
+                   Application. New Jersey: Lawrence Erlbaum Associates, pp.143–163.
+                Sircova A, van de Vijver FJR, Osin E, et al. (2014) A global look at time: A
+                   24-country study of the equivalence of the Zimbardo Time perspective
+                   Inventory. Sage Open 4(1). DOI: 10.1177/2158244013515686.
+                Sobol-Kwapinska M (2009) Forms of present time orientation and satisfaction with
+                   life in the context of attitudes toward past and future. Social Behavior and
+                   Personality 37(4): 433–440.
+                Sobol-Kwapinska M (2013) Hedonism, fatalism and ‘carpe diem’: Profiles of atti-
+                   tudes towards the present time. Time & Society 22(3): 371–390.
+                Steele JP and Fullagar CJ (2009) Facilitators and outcomes of student engagement
+                   in a college setting. The Journal of Psychology 143(1): 5–27.
+                Stolarski M, Bitner J and Zimbardo PG (2011) Time perspective, emotional intel-
+                   ligence and discounting of delayed awards. Time & Society 20(3): 346–363.
+                Stolarski M, Fieulaine N and van Beek W (eds) (2015) Time Perspective Theory;
+                   Review, Research and Application. Essays in Honor of Philip G. Zimbardo. Berlin:
+                   Springer Science+Business Media.
+                Stolarski M, Matthews G, Postek S, et al. (2014) How we feel is a matter of time:
+                   Relationships between time perspectives and mood. Journal of Happiness Studies
+                   15: 809–827.
+                Strathman A, Gleicher F, Boninger DS, et al. (1994) The consideration of future
+                   consequences: Weighing immediate and distant outcomes of behavior. Journal of
+                   Personality and Social Psychology 66: 742–752.
+                Ullén F, De Manzano Ö, Almeida R, et al. (2011) Proneness for psychological flow
+                   in everyday life: Associations with personality and intelligence. Personality and
+                   Individual Differences 52: 167–172.
+
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+XML Template (2015)                            [30.3.2015–4:05pm]                       [1–24]
+//blrnas3.glyph.com/cenpro/ApplicationFiles/Journals/SAGE/3B2/TASJ/Vol00000/150029/APPFile/SG-
+TASJ150029.3d                                (TAS)                           [PREPRINTER stage]
+
+
+
+
+                     24                                                                                                           Time & Society 0(0)
+                     Van Beek W, Berghuis H, Kerkhof A, et al. (2011) Time perspective, personality,
+                       and psychopathology: Zimbardo’s time perspective inventory in psychiatry.
+                       Time & Society 20(3): 364–374.
+                     Waterman AS (1990) The relevance of Aristotle’s conception of eudaimonia for the
+                       psychological study of happiness. Theoretical & Philosophical Psychology 10(1):
+                       39–44.
+                     Waterman AS (1993) Two conceptions of happiness: Contrasts of personal expres-
+                       siveness (eudaemonia) and hedonic enjoyment. Journal of Personality and Social
+                       Psychology 64: 678–691.
+                     Webster JD (2011) A new measure of time perspective: Initial psychometric findings
+                       for the Balanced Time Perspective Scale (BTPS). Canadian Journal of Behavioural
+                       Science/Revue canadienne des sciences du comportement 43(2): 111–118.
+                     Webster JD, Bohlmeijer ET and Westerhof GJ (2014) Time to flourish: The rela-
+                       tionship of temporal perspective to well-being and wisdom across adulthood.
+                       Aging & Mental Health 18(8): 1046–1056.
+                     Webster JD and Ma X (2013) A balanced time perspective in adulthood: Well-being
+                       and developmental effects. Canadian Journal on Aging 32(4): 433–442.
+                     Zhang JW and Howell RT (2011) Do time perspectives predict unique variance in
+                       life satisfaction beyond personality traits? Personality and Individual Differences
+                       50: 1261–1266.
+                     Zhang JW, Howell RT and Bowerman T (2013b) Validating a brief measure of the
+                       Zimbardo Time Perspective Inventory. Time & Society 22(3): 391–409.
+                     Zhang JW, Howell RT and Stolarski M (2013a) Comparing three methods to meas-
+                       ure a balanced time perspective: The relationship between a balanced time per-
+                       spective and subjective well-being. Journal of Happiness Studies 14: 169–184.
+                     Zimbardo PG (2002) Just think about it: Time to take our time. Psychology Today
+                       35: 62.
+                     Zimbardo PG and Boyd JN (1999) Putting time in perspective: A valid, reliable
+                       individual difference metric. Journal of Personality and Social Psychology 77(6):
+                       1271–1288.
+                     Zimbardo PG and Boyd JN (2008) The Time Paradox: The New Psychology of Time
+                       That Will Change Your Life. New York: Free Press.
+
+
+
+
+                                                 Downloaded from tas.sagepub.com at Bobst Library, New York University on April 19, 2015
+
