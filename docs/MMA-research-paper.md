@@ -26,7 +26,7 @@ Because these two dimensions come from different research traditions, their comb
 
 Each mode is a specific combination of processing preference and encoding structure. The profiles are archetypes — patterns that emerge from the axis geometry — not empirical clusters discovered by fitting a model to data. But the literature independently supports that a small number of cognitive style types is replicable. The test reports continuous scores and a type label; the type is the interpretation, not the measurement.
 
-### ⚙️ The Algorithm (Deliberate + Sequential)
+### ⚙️ The Algorithm (Sequential + Deliberate)
 
 Formal, exact, stepwise. You think in proofs and procedures.
 
@@ -44,7 +44,7 @@ This is the mode Turing himself formalized in his 1936 paper "On Computable Numb
 
 ---
 
-### 🕸️ The Cipher (Intuitive + Sequential)
+### 🕸️ The Cipher (Sequential + Intuitive)
 
 Pattern-fluent. You read sequences and signatures by feel, fast.
 
@@ -62,7 +62,7 @@ This is the mode Turing called on at Bletchley Park. The Bombe was a machine, bu
 
 ---
 
-### 🔮 The Gestalt (Intuitive + Holistic)
+### 🔮 The Gestalt (Holistic + Intuitive)
 
 You see wholes and emergent forms before anyone has named the parts.
 
@@ -80,7 +80,7 @@ This is the mode Turing reached for in his last great work, on morphogenesis (19
 
 ---
 
-### 🏗️ The Architecture (Deliberate + Holistic)
+### 🏗️ The Architecture (Holistic + Deliberate)
 
 Systems-level, structured. You design and reason about whole systems on purpose.
 
