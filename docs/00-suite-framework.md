@@ -103,7 +103,7 @@ Each axis has 2 theory-grounded facets (8 items each). Facets named below; full 
 |---|---|---|---|---|---|---|
 | 1 | Solstice | SCA | Affect | Solar Height: baseline arousal, stimulation appetite | Tidal Direction: social approach, agency | Summer, Autumn, Winter, Spring |
 | 2 | Turing | MMA | Cognition | Processing Mode: deliberation preference, override tendency | Encoding Structure: entry point, working scale | Algorithm, Cipher, Gestalt, Architecture |
-| 3 | Pride | SSA | Identity | Identity Clarity: self-knowledge, self-consistency | Self-Alignment: authentic living, genuine relating | Beacon, Prism, Ember, Aurora |
+| 3 | Pride | SSA | Identity | Identity Clarity: self-knowledge, self-consistency | Self-Alignment: authentic living, relational authenticity | Beacon, Prism, Ember, Aurora |
 | 4 | Passage of Time | TOA | Time | Temporal Orientation: past valence, future salience | Temporal Mode: scheduling preference, flow tolerance | Archivist, Navigator, Storyteller, Pioneer |
 
 Status. Tests 1 and 2 are expanded to 32 items with the facet structure below (v0.9). Tests 3 and 4 are designed at 32 items from the start.
@@ -127,7 +127,7 @@ Facet note. Test 1 Axis B facets are "social approach" (DeYoung Enthusiasm aspec
 
 **Axis B, Self-Alignment.** Self-aligned (behavior matches values and true self) versus other-oriented (behavior adjusts to social expectations).
 - Construct basis: Kernis & Goldman (2006) multicomponent authenticity. Corroborated by Snyder (1974) self-monitoring and Wood et al. (2008) Authenticity Scale.
-- Facets: B1 Authentic Living, B2 Genuine Relating. Pairing derived from Kernis & Goldman's four components.
+- Facets: B1 Authentic Living, B2 Relational Authenticity. Covers three of Kernis & Goldman's four components (Awareness + Behavior → B1, Relational → B2; Unbiased Processing not directly captured).
 
 **Four results (light/visibility imagery).**
 - Clear + Self-Aligned: **The Beacon.** You know yourself and you show yourself.
@@ -135,7 +135,7 @@ Facet note. Test 1 Axis B facets are "social approach" (DeYoung Enthusiasm aspec
 - Diffuse + Self-Aligned: **The Ember.** You don't fully know yourself, but what you show is genuine.
 - Diffuse + Other-Oriented: **The Aurora.** Your self shifts with context, and your presentation shifts with it.
 
-**Boundary condition:** The Reflection Point. Named for the self-reflection needed to develop a clear identity.
+**Boundary condition:** The Reflection. Named for the surface where light meets itself — the act of seeing yourself clearly.
 
 **Sources rejected after full-text review.** Showers (1992) compartmentalization and Linville (1987) self-complexity — both use card-sorting tasks incompatible with self-report Likert format. Tracy & Robins (2007) authentic vs. hubristic pride — valuable for profile texture but measures pride emotion, not identity structure.
 
@@ -180,7 +180,7 @@ Big Five is the backbone nearly everything in personality correlates with. Each 
 
 - Test 1 (SCA). Loads on Extraversion (energy) and Neuroticism (arousal).
 - Test 2 (MMA). Loads on Conscientiousness (deliberate pole) and Openness.
-- Test 3 (SSA, proposed). Loads on Openness (plurality) and Extraversion (expression). Some Extraversion overlap with Test 1, mitigated by framing Axis 2 as identity disclosure specifically, not social energy.
+- Test 3 (SSA). Loads on Neuroticism (negatively, via Identity Clarity) and Conscientiousness (positively, via both axes). Some overlap with Test 1's affect/motivation mitigated by the identity-specific framing of both axes.
 - Test 4 (TOA, proposed). Loads on Conscientiousness (future) and Openness (polychronic). Some Conscientiousness overlap with Test 2, mitigated by framing as temporal structure, not general diligence.
 
 Conceptually the four domains are distinct. At the trait level some correlation is unavoidable, because personality is not orthogonal. The contribution of each test is the facet combination and the framing, not novel dimensions. This will be stated plainly in every test doc.
@@ -196,7 +196,7 @@ Suite-level decisions locked:
 - Facet structure: Two facets per axis. Locked across the suite.
 - Cross-test synthesis: Structural 8-dimensional profile with facet sub-scores. Locked.
 
-Test 3 and 4 proposals remain at draft stage (axes, facet names, result types are proposals, not locked). The 8 retained construct-anchor citations below have been reviewed for construct relevance. Full-text verification and item-level grounding will complete when each test is built.
+Test 3 has a v0.1 design document. Test 4 remains at proposal stage. The 8 retained construct-anchor citations below have been reviewed for construct relevance.
 
 ---
 

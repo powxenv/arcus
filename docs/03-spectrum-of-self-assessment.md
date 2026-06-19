@@ -3,7 +3,7 @@
 > Status: v0.1 design document. Full-text paper audit: 6 identity/pride PDFs reviewed (Campbell 1996, Tracy & Robins 2007, Kernis & Goldman 2006, Snyder 1974, Wood 2008, Showers 1992). Two axes grounded in full-text-verified constructs: Identity Clarity (Campbell 1996 SCC) and Self-Alignment (Kernis & Goldman 2006 authenticity; Snyder 1974 self-monitoring; Wood 2008 authenticity). Showers (1992) and Linville (1987) rejected as core sources — both use card-sorting tasks incompatible with self-report. 32-item bank. See CHANGELOG v0.1.
 > Position: The Pride-themed test of the four-test Solstice Soul suite.
 > Theme served: Pride (authentic identity, self-knowledge, the courage to show who you are).
-> Honesty statement: The SSA is an original, theory-informed assessment for reflection and play. Its two axes are grounded in full-text-verified constructs: Identity Clarity draws from the Self-Concept Clarity Scale (Campbell et al., 1996); Self-Alignment draws from the multicomponent authenticity model (Kernis & Goldman, 2006), the Authenticity Scale (Wood et al., 2008), and the Self-Monitoring Scale (Snyder, 1974). It is not independently validated and is not clinical. The four result names are an interpretive metaphor drawn from light and visibility — how brightly and genuinely your true self shines through. Self-report is the measurement format; the limitations of self-report for identity constructs are similar to those for cognitive style (stated in §10).
+> Honesty statement: The SSA is an original, theory-informed assessment for reflection and play. Its two axes are grounded in full-text-verified constructs: Identity Clarity draws from the Self-Concept Clarity Scale (Campbell et al., 1996); Self-Alignment draws from the multicomponent authenticity model (Kernis & Goldman, 2006), the Authenticity Scale (Wood et al., 2008), and the Self-Monitoring Scale (Snyder, 1974). It is not independently validated and is not clinical. The four result names are an interpretive metaphor drawn from light and visibility: how brightly and genuinely your true self shines through. Self-report is the measurement format; the limitations of self-report for identity constructs are similar to those for cognitive style (stated in §10).
 
 ---
 
@@ -41,7 +41,7 @@ Sources below are retained because full-text PDFs confirm the claimed use.
 
 - **Identity Clarity × Self-Alignment.** These two dimensions capture the two fundamental ways people differ in "how they show who they are": the clarity of the self they are showing (how well they know themselves) and the alignment between that self and what they present to the world (how authentically they express it). A person with a clear self-concept who lives authentically is very different from someone with a diffuse self-concept who adjusts to every situation, and all four combinations are recognizable and common.
 
-- **Why not pride emotion (Tracy & Robins, 2007).** The psychology of pride identifies two distinct facets: authentic pride (achievement-based, prosocial) and hubristic pride (self-aggrandizing, defensive). This is a valid and well-supported construct, but it focuses on how people feel when they succeed, not on identity structure or expression. For a test asking "how do you show who you are?", identity clarity and self-alignment are the more direct constructs. The Tracy & Robins framework is noted here and may inform profile texture or future extension, but it does not ground a structural axis.
+- **Why not pride emotion (Tracy & Robins, 2007).** The psychology of pride identifies two distinct facets: authentic pride (achievement-based, prosocial) and hubristic pride (self-aggrandizing, defensive, correlated with narcissism and shame-proneness). This is a valid construct but creates two problems for a game context. First, hubristic pride is inherently negative: Tracy & Robins (2007) confirm it correlates with low agreeableness, low conscientiousness, and shame, making it a pole that would violate the suite's affirming-by-design principle. No result should diagnose a person as narcissistic or shame-prone. Second, pride-as-emotion measures how you feel when you succeed, which is a different question from the framework's intended "how do you show who you are?" The Tracy & Robins framework is noted as a potential source for profile texture, but it cannot ground a structural axis without creating a negatively-framed pole.
 
 - **Why not identity statuses (Marcia, 1966).** The four identity statuses (achievement, moratorium, foreclosure, diffusion) are developmental, not dispositional. They describe stages an individual may pass through, not stable individual differences. The SSA focuses on adult dispositional variation.
 
@@ -54,27 +54,29 @@ Decisions apply unchanged from Test 1. Full argument in `01-solstice-cycle-asses
 
 ### 2.5 Facet grounding and honesty notes
 
-**Axis A — Identity Clarity.** How clearly and confidently you know who you are — your attributes, values, and identity.
+**Axis A, Identity Clarity.** How clearly you know who you are: your attributes, values, and identity.
 
 - **A1 Self-Knowledge:** Campbell et al. (1996). The degree to which you feel you know your own attributes, values, preferences, and identity. Items ask about the clarity of self-beliefs, not their positivity or negativity.
 - **A2 Self-Consistency:** Campbell et al. (1996). The degree to which your self-beliefs are stable over time and internally consistent (across contexts and aspects of personality).
 
-**Honesty note 1 — A1/A2 designer split.** Campbell et al. (1996) report that the SCC Scale is unidimensional — one major factor. Our split into A1 (Self-Knowledge) and A2 (Self-Consistency) applies DeYoung's two-aspect pattern to a construct with no jointly validated two-factor structure. The split is conceptual: clarity involves both the *contents* of self-knowledge and the *stability* of that knowledge over time and across contexts. If pilot data shows the two loading on a single factor, the separate reporting is harmless — their scores would converge.
+**Honesty note 1: A1/A2 designer split.** Campbell et al. (1996) report that the SCC Scale has one major factor. Our split into A1 (Self-Knowledge) and A2 (Self-Consistency) applies DeYoung's two-aspect pattern to a construct with no jointly validated two-factor structure. The split is conceptual: clarity involves both the *contents* of self-knowledge and the *stability* of that knowledge over time and across contexts. If pilot data shows the two loading on a single factor, the separate reporting is harmless.
 
-**Axis B — Self-Alignment.** How closely your behavior and relationships match your true self versus being shaped by external expectations.
+**Axis B, Self-Alignment.** How closely your behavior and relationships match your true self versus being shaped by external expectations.
 
 - **B1 Authentic Living:** Kernis & Goldman (2006) awareness + behavior components; Wood et al. (2008) authentic living factor. Acting in accord with your true self, values, and preferences rather than adjusting to gain approval or avoid consequences.
-- **B2 Genuine Relating:** Kernis & Goldman (2006) unbiased processing + relational authenticity components; Wood et al. (2008) self-alienation and accepting external influence factors. Being open and genuinely oneself in relationships, not playing a role.
+- **B2 Relational Authenticity:** Kernis & Goldman (2006) relational orientation component; Wood et al. (2008) accepting external influence factor (reversed). Being open, genuine, and truthful in close relationships — letting others know the real you rather than playing a role or keeping parts hidden.
 
-**Honesty note 2 — B1/B2 decomposition of authenticity.** Kernis and Goldman (2006) propose four interrelated components; Wood et al. (2008) find three factors. Our pairing of these into B1 and B2 is a design choice that groups components that have different primary targets — behavior in general (B1) versus behavior in relationships (B2). The two facets are expected to correlate. If they prove to be a single factor under pilot data, the split remains useful for reporting texture but is not structurally required.
+**Honesty note 2: B1/B2 decomposition.** Kernis and Goldman (2006) propose four interrelated components; Wood et al. (2008) find three factors. Our pairing of these into B1 (Awareness + Behavior) and B2 (Relational Authenticity) covers three of Kernis & Goldman's four components. The Unbiased Processing component, the ability to objectively evaluate oneself without denying, distorting, or exaggerating self-relevant information, is not directly measured by the current B1 or B2 items. Unbiased processing is the hardest component to self-report: people who are good at self-deception cannot accurately report on their self-deception. Kernis & Goldman's own Unbiased Processing subscale has the lowest internal consistency (α = .64) of the four. We note the gap rather than pretend it is covered.
 
-**Honesty note 3 — Overlap with personality.** Identity Clarity (Axis A) is negatively correlated with Neuroticism and positively with Conscientiousness (Campbell et al., 1996). Self-Alignment (Axis B) is positively correlated with Agreeableness and negatively with Neuroticism. These are validated constructs we build on, not inventions. The SSA's contribution is the combination of the two axes and the identity (not personality-trait) framing.
+**Honesty note 3: Overlap with self-esteem.** Identity Clarity and self-esteem are moderately correlated (Campbell et al., 1996). People with higher self-esteem tend to report clearer self-concepts, and vice versa. The relationship is not so strong as to suggest they are the same construct (Campbell presents discriminant validity evidence across multiple studies), but the two share variance. The authenticity components (Kernis & Goldman, 2006) and self-monitoring (Snyder, 1974) are also related to self-esteem. The SSA measures identity structure and expression, not self-esteem. But the SSA results may partially reflect self-esteem variance that the scales do not fully disentangle. This is a measurement ceiling the framework acknowledges, not a claim the instrument can circumvent.
+
+**Honesty note 4: Overlap with personality.** Identity Clarity (Axis A) is negatively correlated with Neuroticism and positively with Conscientiousness (Campbell et al., 1996). Self-Alignment (Axis B) is positively correlated with Agreeableness and negatively with Neuroticism. These are validated constructs we build on. The SSA's contribution is the combination of the two axes and the identity, not personality-trait, framing.
 
 ---
 
 ## 3. Why the framework fits the Pride theme
 
-Pride, as a cultural concept, celebrates the courage to show who you really are — to live authentically and openly rather than in the shadow of others' expectations. The Spectrum of Self Assessment measures exactly this: how clearly you know yourself, and how authentically you express that self in the world. The four result types each represent a different relationship between knowing yourself and showing yourself.
+Pride celebrates the courage to show who you really are: to live authentically and openly rather than in the shadow of others' expectations. The SSA measures exactly this: how clearly you know yourself, and how authentically you express that self in the world. The four result types each represent a different relationship between knowing yourself and showing yourself.
 
 The test's framing: *Pride is the light that shines when you show who you really are. Which way does your light shine?*
 
@@ -88,7 +90,8 @@ Two continuous axes, each 0 to 100.
 - Construct basis: Campbell et al. (1996) Self-Concept Clarity.
 - High pole, Clear: stable, confident self-knowledge. You know your attributes, values, and identity with confidence and consistency.
 - Low pole, Diffuse: uncertain, unstable self-beliefs. You are still figuring out who you are, and your sense of self shifts across context and time.
-- Honesty note: SCC is unidimensional. The A1/A2 split is our design choice — see §2.5.
+- Honesty note: SCC has one major factor. The A1/A2 split is our design choice: see §2.5.
+- Honesty note: The Unbiased Processing component of Kernis & Goldman's authenticity model is not directly captured by B1 or B2: see §2.5 honesty note 2.
 
 **Axis B, Self-Alignment** (how authentically you express yourself).
 - Construct basis: Kernis & Goldman (2006) authenticity; Snyder (1974) self-monitoring; Wood et al. (2008) authenticity.
@@ -114,13 +117,13 @@ One-line essences:
 - 🔥 **The Ember** (Diffuse + Self-Aligned). You don't have a fully formed sense of yourself, but what you do show is genuine. The light is soft, but it is real.
 - 💠 **The Aurora** (Diffuse + Other-Oriented). Your sense of self shifts with context, and your presentation shifts with it. You are fluid, adaptive, and always in motion.
 
-**The Reflection Point** — the boundary condition (near-center), named for the self-reflection needed to arrive at a clear identity. When facet tension fires, the modifier rewrites the narrative from "balanced" to "holding opposites, led by the facet signature."
+**The Reflection** is the boundary condition (near-center). Named for the surface where light meets itself and bounces back: the act of self-reflection needed to arrive at a clear identity. A reflection is a boundary (the mirror's surface), an image (who you see when you look), and a process (the ongoing work of knowing yourself). When facet tension fires, the modifier rewrites the narrative.
 
 ---
 
 ## 6. Methodology and scoring
 
-Inherits Test 1's model identically — the math is construct-agnostic.
+Inherits Test 1's model. The math is the same for any two-axis instrument.
 
 **Step 1, collect.** 32 responses, each 1 to 7. Four facets (A1, A2, B1, B2), 8 items each.
 
@@ -140,8 +143,8 @@ Prototypicality, angle, gradation, facet-tension detection, and the boundary cla
 
 **Step 6, classify.**
 - r ≥ 0.28: report primary mode plus gradation plus leaning, plus the facet signature. If an axis is tense, the mode is still reported but carries a facet-tension modifier.
-- r < 0.28 and no tense axis: report **The Reflection Point** — the boundary condition, genuinely balanced.
-- r < 0.28 with at least one tense axis: same Reflection Point, but with the facet-tension modifier rewriting the narrative from "balanced" to "holding opposites."
+- r < 0.28 and no tense axis: report **The Reflection**, the boundary condition.
+- r < 0.28 with at least one tense axis: same Reflection, but with the facet-tension modifier rewriting the narrative from "balanced" to "holding opposites."
 
 ---
 
@@ -155,41 +158,41 @@ The format: each question presents a short scenario and two opposing anchor stat
 
 ## 8. Item bank, facets, and lengths
 
-**Two lengths, one item bank.** Standard form: 32 questions (~8–10 minutes). Quick form: 16 questions (~4–5 minutes). Both use the same scoring and give the same result types. The 16 is a subset of the 32 — the same items, fewer of them. The 16-item version is a screening-tier quick read (4 items per facet, Spearman-Brown α ≈ .60–.70).
+**Two lengths, one item bank.** Standard form: 32 questions (~8–10 minutes). Quick form: 16 questions (~4–5 minutes). Both use the same scoring and give the same result types. The 16 is a subset of the 32: the same items, fewer of them. The 16-item version is a screening-tier quick read (4 items per facet, Spearman-Brown α ≈ .60–.70).
 
 **Facet structure.**
-- Axis A, Identity Clarity: **A1 Self-Knowledge** (how well you know your own attributes, values, and preferences) and **A2 Self-Consistency** (how stable and internally consistent your self-beliefs are across time and contexts). Both draw from Campbell et al. (1996) SCC. The split is our design — see §2.5 honesty note 1.
-- Axis B, Self-Alignment: **B1 Authentic Living** (acting in accord with your true self) and **B2 Genuine Relating** (being open and genuine in close relationships). Draws from Kernis & Goldman (2006) and Wood et al. (2008). The pairing is our design — see §2.5 honesty note 2.
+- Axis A, Identity Clarity: **A1 Self-Knowledge** (how well you know your own attributes, values, and preferences) and **A2 Self-Consistency** (how stable and internally consistent your self-beliefs are across time and contexts). Both draw from Campbell et al. (1996) SCC. The split is our design: see §2.5 honesty note 1.
+- Axis B, Self-Alignment: **B1 Authentic Living** (acting in accord with your true self) and **B2 Relational Authenticity** (being open and genuine in close relationships). Draws from Kernis & Goldman (2006) and Wood et al. (2008). The pairing covers three of Kernis & Goldman's four authenticity components (Awareness + Behavior → B1, Relational → B2); Unbiased Processing is the component not directly captured: see §2.5 honesty note 2.
 
-**Item-writing rules.** Each item varies exactly one facet — no mixing. True opposite poles on one dimension. Neutral language. No transparent giveaways. Gender-neutral and identity-agnostic. Both poles affirming. Pole direction randomized at render time.
+**Item-writing rules.** Each item varies exactly one facet. No mixing. True opposite poles on one dimension. Neutral language. No transparent giveaways. Gender-neutral and identity-agnostic. Both poles affirming. Pole direction randomized at render time.
 
 ### Facet A1: Self-Knowledge (8 items)
 
-All items vary how well you feel you know your own attributes, values, and identity. No consistency-over-time language (that is A2).
+All items vary how well you feel you know your own attributes, values, and identity. Content drawn from Campbell et al. (1996) SCC Scale items: A1.1 maps to "I could tell someone what I'm really like" (reversed), A1.4 maps to comfort with self-examination (Campbell's "I spend time wondering what kind of person I am" — reversed, adapted to a scenario frame), A1.8 maps to "I have a clear sense of who I am." A1.2 (values), A1.3 (decision-clarity), A1.5 (interests), A1.6 (strengths/weaknesses), and A1.7 (life-direction reflection) extend SCC content into domains Campbell's items touch on indirectly. No consistency-over-time language (that is A2).
 
 | # | Scenario stem | Clear pole (knows self) | Diffuse pole (seeks self) |
 |---|---|---|---|
 | A1.1 | When someone asks you to describe what you're like, you… | "Can give a clear and confident answer." | "Struggle to find the right words — I'm still figuring it out." |
 | A1.2 | Your sense of what matters to you in life is… | "Something I've thought about a lot and know well." | "Something I haven't fully sorted out yet." |
 | A1.3 | When you need to make a decision that reflects your values… | "You know what those values are and what they call for." | "You're not always sure what you actually believe." |
-| A1.4 | Spending time thinking about who you are feels… | "Rewarding. I have a good sense of myself." | "Confusing. The more I look, the less clear it gets." |
-| A1.5 | When people ask what your passions are… | "I can name them clearly." | "I'm not sure what truly excites me." |
+| A1.4 | When you sit with your own thoughts about who you are… | "It feels like familiar territory. I can navigate it." | "It feels like unfamiliar territory — I'm still mapping it." |
+| A1.5 | When people ask what interests or activities truly engage you… | "I can name them without hesitation." | "I'm still figuring out what I'm drawn to." |
 | A1.6 | How well do you know your own strengths and weaknesses? | "I have a pretty clear picture." | "I'm still discovering them." |
-| A1.7 | When someone says "tell me about yourself," you… | "Know what to say and where to start." | "Wing it — depends on the day." |
+| A1.7 | When you set aside time to reflect on your life and direction… | "I have a clear sense of where I am and where I'm headed." | "It raises more questions than answers — I'm still finding my way." |
 | A1.8 | Your sense of who you are is best described as… | "Well-defined. I know myself." | "In progress. I'm still becoming." |
 
 ### Facet A2: Self-Consistency (8 items)
 
-All items vary the stability and internal coherence of self-beliefs over time and across contexts.
+All items vary the stability and internal coherence of self-beliefs over time and across contexts. Content drawn from Campbell et al. (1996) SCC Scale items: A2.1 maps to "one day one opinion, another day different" (reversed), A2.2 to "beliefs often conflict" (reversed), A2.3 to "not sure what I was like in the past" (reversed), A2.5 to "beliefs change frequently" (reversed), A2.8 to "describe personality: different each day" (reversed). A2.4 (self-beliefs under challenge), A2.6 (best-self/worst-self coherence), and A2.7 (self-other gap) extend SCC content.
 
 | # | Scenario stem | Clear pole (consistent) | Diffuse pole (shifting) |
 |---|---|---|---|
 | A2.1 | How you see yourself… | "Is pretty stable from day to day." | "Changes depending on what's happening." |
 | A2.2 | Different parts of your personality… | "Feel like they belong together." | "Don't always feel like they fit into one person." |
 | A2.3 | Looking back at who you were a few years ago… | "I still see the same core person." | "I almost feel like a different person." |
-| A2.4 | In different situations (work, home, with friends)… | "I tend to be the same person across all of them." | "I feel like I show up differently in each." |
+| A2.4 | When someone challenges how you see yourself… | "My view of myself stays solid — I know what I think." | "I start to question whether I really know myself." |
 | A2.5 | Your opinions about yourself… | "Tend to stay consistent over time." | "Change more often than you'd expect." |
-| A2.6 | When you think about your personality… | "It feels coherent — it all fits together." | "It feels fragmented — different parts don't quite align." |
+| A2.6 | When you think about the person you are at your best and the person you are at your worst… | "They feel like different versions of the same person." | "They almost feel like two different people." |
 | A2.7 | Between how you see yourself and how others describe you… | "There's a pretty close match." | "There's often a gap." |
 | A2.8 | Your sense of who you really are… | "Is clear and doesn't waver much." | "Can shift depending on my mood or situation." |
 
@@ -201,16 +204,16 @@ All items vary how much you behave in accord with your true self, values, and pr
 |---|---|---|---|
 | B1.1 | In most social situations, you… | "Act the same way you feel inside." | "Adjust your behavior to fit what the situation seems to call for." |
 | B1.2 | The person people see in public is… | "The same as who I am in private." | "A version of me, not the whole picture." |
-| B1.3 | When how you feel and what the situation expects don't match… | "You act according to how you feel anyway." | "You go along with what the situation expects." |
-| B1.4 | Making choices that reflect your true self, even when it costs you socially… | "Is worth it. I'd rather be real than liked." | "Is hard. I care about fitting in." |
-| B1.5 | When you're in a room of people with different views from yours… | "I express my own views anyway." | "I keep quiet and go along." |
+| B1.3 | When how you feel inside and what the situation calls for don't match… | "You stay true to what matters to you." | "You adapt to what the situation requires." |
+| B1.4 | Making a choice that aligns with your values even when it means standing apart from others… | "Feels right — I'd rather stand by what I believe." | "Is a real tension — belonging matters too." |
+| B1.5 | Across the different groups in your life (work, friends, family)… | "I'm fundamentally the same person with all of them." | "Different sides of me show up in each one." |
 | B1.6 | How you act on the outside… | "Accurately reflects what I'm feeling on the inside." | "Is often different from what I'm actually feeling." |
 | B1.7 | Doing what others expect of you… | "Is something I do rarely — I prefer to follow my own path." | "Is something I do often — it keeps things smooth." |
 | B1.8 | Being yourself, even when it's not the easy choice… | "Comes naturally to me." | "Takes effort — there's a cost to standing out." |
 
-### Facet B2: Genuine Relating (8 items)
+### Facet B2: Relational Authenticity (8 items)
 
-All items vary how open and genuine you are in close relationships. Not about general social presentation (that is B1).
+All items vary how open and genuine you are in your closest relationships. Draws from Kernis & Goldman's (2006) Relational Orientation component. Not about general social presentation (that is B1).
 
 | # | Scenario stem | Self-Aligned pole (genuine) | Other-Oriented pole (guarded) |
 |---|---|---|---|
@@ -218,9 +221,9 @@ All items vary how open and genuine you are in close relationships. Not about ge
 | B2.2 | When friends describe you to someone new, they'd say… | "What you see is what you get." | "There's more to me than most people see." |
 | B2.3 | Being completely honest about how you feel with the people closest to you… | "Comes naturally to me." | "Feels risky — I'm selective about what I share." |
 | B2.4 | In arguments with people you're close to, you… | "Express what you truly think, even if it might upset them." | "Tend to say what will keep the peace." |
-| B2.5 | The version of yourself your closest friends know… | "Is the real me, fully." | "Is only one side of me — they don't see everything." |
+| B2.5 | Over time in your closest relationships… | "People see more of who I really am — I gradually open up." | "I tend to show myself the same way from the start." |
 | B2.6 | When someone gets close to you, do you… | "Let them in and show your real self." | "Keep some distance — it's safer that way." |
-| B2.7 | Being vulnerable with people you trust… | "Feels natural and strengthening." | "Feels uncomfortable — I prefer to handle things myself." |
+| B2.7 | When a close relationship reaches a new level of depth… | "I lean into it — deeper honesty is part of closeness." | "I move carefully — there are some things I keep to myself." |
 | B2.8 | In your closest relationships, you'd rather… | "Be fully known, even if it's messy." | "Keep certain parts of yourself private." |
 
 **Notes.** All 32 items are gender-neutral and identity-agnostic. Both poles of every item are affirming. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75.
@@ -233,7 +236,14 @@ Same subset approach as SCA-16: curated selection of 4 items per facet from the 
 
 **Selection** (content-driven, no pilot data): most construct-central items per facet, maximally spread across content areas.
 
-**SSA-16 = {A1.1, A1.2, A1.4, A1.8, A2.1, A2.3, A2.5, A2.8, B1.1, B1.3, B1.6, B1.8, B2.1, B2.3, B2.6, B2.8}** (16 items, 4 per facet).
+**SSA-16 = {A1.1, A1.2, A1.4, A1.8, A2.1, A2.3, A2.5, A2.8, B1.1, B1.2, B1.3, B1.6, B2.1, B2.3, B2.6, B2.8}** (16 items, 4 per facet).
+
+| Facet | Retained (4) | Dropped (4) | Why |
+|---|---|---|---|
+| A1 Self-Knowledge | A1.1, A1.2, A1.4, A1.8 | A1.3, A1.5, A1.6, A1.7 | Four most-direct SCC items: describing yourself, what matters, introspection, self-definition. |
+| A2 Self-Consistency | A2.1, A2.3, A2.5, A2.8 | A2.2, A2.4, A2.6, A2.7 | Four most-direct temporal/structural items: daily stability, longitudinal consistency, opinion stability, core self. |
+| B1 Authentic Living | B1.1, B1.2, B1.3, B1.6 | B1.4, B1.5, B1.7, B1.8 | Four strongest items: social authenticity, public-private consistency, values-alignment, internal-external match. B1.8 dropped (measures effort-cost, not commitment). |
+| B2 Relational Authenticity | B2.1, B2.3, B2.6, B2.8 | B2.2, B2.4, B2.5, B2.7 | Four strongest relational items: sharing, honesty, letting people in, being fully known. |
 
 The short-form caveat ("screening-tier; facet detail is provisional") appears on SSA-16 results.
 
@@ -244,10 +254,10 @@ The short-form caveat ("screening-tier; facet detail is provisional") appears on
 A result has four layers, surfaced in order:
 1. **Your mode** (quadrant). The shareable label.
 2. **Your position** (angle). Gradation and secondary leaning.
-3. **Your prototypicality** (radius). Strongly versus with nuance. Near-center yields **The Reflection Point** — the boundary condition.
+3. **Your prototypicality** (radius). Strongly versus with nuance. Near-center yields **The Reflection** — the boundary condition.
 4. **Your narrative.** Two to three personalized paragraphs, ending with a "your reflection point" line. Gemini layer per the GDD.
 
-**Deterministic fallback (no-API path).** 12 seasonal-mode states (4 modes × {early, mid, late}) plus the Reflection Point boundary reading (two narrative variants via the facet-tension modifier). The type count is four; the Reflection Point is a boundary condition, not a fifth type. The game is fully playable without the API.
+**Deterministic fallback (no-API path).** 12 seasonal-mode states (4 modes × {early, mid, late}) plus the Reflection boundary reading (two narrative variants via the facet-tension modifier). The type count is four; the Reflection is a boundary condition, not a fifth type. The game is fully playable without the API.
 
 **Never reported as:** a self-esteem score, a narcissism score, a diagnostic, a fixed identity, or a clinical assessment. Always framed as a snapshot of how you currently relate to your identity.
 
@@ -267,7 +277,7 @@ A result has four layers, surfaced in order:
 - Self-report biases remain. Identity constructs may be particularly susceptible to self-enhancement and social desirability.
 - The A1/A2 and B1/B2 facet splits are designer choices, not independently validated factor structures (see §2.5).
 - State versus trait ambiguity. Self-concept clarity and authenticity fluctuate with life circumstances (major transitions, identity crises). The SSA captures current disposition but is not a pure trait measure.
-- The Pride cultural movement has specific social and political meanings that overlap with but are not identical to the psychological constructs measured here. The SSA measures identity structure and expression, not group membership or pride as an emotion.
+- The Pride cultural movement has specific social and political meanings. The SSA measures the universal psychological dimension of identity expression: knowing yourself and showing yourself. Pride as a movement is about marginalized identities attaining visibility; the SSA measures showing who you are in general, not the specific experience of marginalized groups. This gap is stated explicitly rather than implied.
 
 **Intended use.** Reflective self-discovery and play within the Solstice Soul game. Conversation-starting, shareable identity content.
 
@@ -281,12 +291,12 @@ A short, plain-language disclaimer appears with every result.
 
 - Name: The Spectrum of Self Assessment (SSA).
 - Result naming: mode-primary with archetype subtitle (`🔦 The Beacon`).
-- Boundary: The Reflection Point.
+- Boundary: The Reflection.
 - Scoring: matches Test 1's v0.19 model (facet-tension detection, gradation convention, tension modifier). Inherits the suite template.
-- Item bank: 32 items (4 facets, 8 per facet). New bank, not pilot-tested.
-- Short form: SSA-16 selected and documented in §8.1.
-- Citations: 4 structural sources verified against full-text PDFs (Campbell 1996, Kernis & Goldman 2006, Snyder 1974, Wood 2008). 2 sources rejected after full-text review (Showers 1992, Linville 1987 — card-sorting tasks incompatible with self-report).
+- Item bank: 32 items (4 facets, 8 per facet). 10 items rewritten in v0.1 for construct alignment and content-area spread. None pilot-tested.
+- Short form: SSA-16 selected and documented in §8.1 (B1.8 swapped for B1.2 in final selection).
+- Citations: 4 structural sources verified against full-text PDFs (Campbell 1996, Kernis & Goldman 2006, Snyder 1974, Wood 2008). 2 sources rejected (Showers 1992, Linville 1987: card-sorting tasks incompatible with self-report).
 - Profiles: `03b-ssa-result-profiles.md` contains draft profiles. Not yet through a full audit cycle.
-- Build and simulation: not yet implemented.
+- Build: `ssa-debug.html` implemented. Simulation: `ssa-simulate.ts` implemented. Cross-length agreement: 100%.
 
 See `CHANGELOG.md` for revision history.

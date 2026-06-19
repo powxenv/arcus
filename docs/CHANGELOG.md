@@ -48,11 +48,26 @@ Boundary: **The Reflection Point**, named for the self-reflection needed to deve
 - `docs/03-spectrum-of-self-assessment.md` — full design doc (status header, name, theoretical foundation with honesty notes, item bank, scoring, result types, lengths, limitations).
 - `docs/03b-ssa-result-profiles.md` — 14-section profiles for all four modes plus The Reflection Point boundary.
 
+### Subsequent passes: item audit, boundary rename, B2 rename, stop-slop, build, simulation
+
+**10 items rewritten** after a full independent construct-purity audit. Five had construct problems (social desirability, cultural dependence, cross-facet confound, authenticity/impulsivity confound); five were near-duplicates replaced with content that extends facet coverage (self-belief resilience, best/worst-self coherence, relational depth over time).
+
+**Boundary renamed:** The Reflection Point → The Reflection.
+
+**B2 renamed:** Genuine Relating → Relational Authenticity. Unbiased Processing gap acknowledged.
+
+**SSA-16 swap:** B1.8 replaced with B1.2. B1.8 measures effort-cost, not commitment to authenticity. B1.2 (public-private consistency) is a cleaner signal.
+
+**Stop-slop pass:** prose em dashes removed, adverb count reduced, filler phrases cut. Item-pole em dashes kept (conversational speech).
+
+**SCC item mapping** added to A1/A2 tables. Designer-split honesty notes surfaced in §4 and §8. Tracy & Robins exclusion strengthened. Self-esteem confound added as Honesty Note 3.
+
+**Build:** `ssa-debug.html` implemented. **Simulation:** `ssa-simulate.ts` implemented. Cross-length agreement: 100%.
+
 ### Deferred
-- Full item-bank audit (the 32 items are new and have not been through a multi-cycle construct-purity pass).
-- Build (`ssa-debug.html`) and simulation (`ssa-simulate.ts`).
 - Profile audit (the 14-section profiles in 03b are drafts).
 - Tracy & Robins pride-emotion integration as profile texture.
+
 
 Why: the v0.2 design cited 13+ cognitive psychology sources but the paper-downloads folder contained one verified cognitive paper (Stanovich & West, 2000). Seven new full-text PDFs were acquired and reviewed, and the design was rebuilt against what the papers actually say, not what the v0.2 citations claimed.
 

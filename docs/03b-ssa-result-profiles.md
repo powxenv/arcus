@@ -2,7 +2,7 @@
 
 > Companion to `03-spectrum-of-self-assessment.md`.
 > Full-depth profiles for each SSA result, using the same 14-section schema as Tests 1 and 2 so all four tests are directly comparable.
-> These are the deterministic fallback narratives. The Gemini layer enriches the Archetype and Reflection Point sections from the player's answer pattern. It never overrides the structured sections.
+> These are the deterministic fallback narratives. The Gemini layer enriches the Archetype and Reflection sections from the player's answer pattern. It never overrides the structured sections.
 > Honesty note: profiles describe tendencies associated with a combination of two measured dimension, identity clarity and self-alignment. They are affirming, non-clinical, and avoid deficit framing. Every diffuse result is described as openness and flexibility, never as emptiness or lack of identity.
 
 ---
@@ -22,7 +22,7 @@
 11. **Under Stress.** Stress signature and recovery.
 12. **Communication.** Style and growth.
 13. **The Complementary Mode.** The opposite quadrant they can learn from.
-14. **Your Reflection Point.** The poetic closing line about self-knowledge. AI-personalized in-game.
+14. **Your Reflection.** The poetic closing line about self-knowledge. AI-personalized in-game.
 
 ---
 
@@ -100,7 +100,7 @@ This is the mode of self-assurance without self-aggrandizement. You do not need 
 ### The Complementary Mode: 💠 The Aurora
 Your wholeness lives in what you do not yet know. The Aurora's flexibility and openness — the willingness to be shaped by context rather than always shaping it — is the adaptability your clarity needs. Certainty without fluidity calcifies. Fluidity is what lets your identity grow beyond the shape it currently holds.
 
-### Your Reflection Point
+### Your Reflection
 "You are the steady light that knows itself and shines without distortion. Your gift is clarity, and your growth is learning what lies beyond the edges of what you already know."
 
 ---
@@ -179,7 +179,7 @@ This is not inauthenticity. It is social intelligence. You understand that diffe
 ### The Complementary Mode: 🔥 The Ember
 Your wholeness lives in the part of you that shows without adaptation. The Ember's raw genuineness — the willingness to be seen without polish — is the depth your flexibility needs. Adaptation without authenticity becomes performance. Warmth without refraction is the part of you that makes connection real.
 
-### Your Reflection Point
+### Your Reflection
 "You are the steady light that knows its own colors and chooses how to shine in each room. Your gift is adaptability, and your growth is knowing when to let the full beam through."
 
 ---
@@ -258,7 +258,7 @@ There is an honesty in not knowing. The Ember burns softly and authentically. Yo
 ### The Complementary Mode: 🔮 The Prism
 Your wholeness lives in the stability your clarity can provide. The Prism's ability to know itself and adapt without losing its core — that is the anchor your openness needs. Fluidity without a center drifts. Knowing yourself, even provisionally, gives the growth a home to grow from.
 
-### Your Reflection Point
+### Your Reflection
 "You are the light that is still becoming, still finding its shape — but already real wherever it touches. Your gift is honesty, and your growth is learning to trust the form that is emerging."
 
 ---
@@ -337,7 +337,7 @@ This is not emptiness. The Aurora is not a lack of self — it is a self that fo
 ### The Complementary Mode: 🔦 The Beacon
 Your wholeness lives in the still point within the motion. The Beacon's steady self-knowledge and consistent expression — that is the center your aurora needs. Fluidity without a center scatters. Knowing yourself, even just a little, in a way that stays true across contexts gives your motion direction.
 
-### Your Reflection Point
+### Your Reflection
 "You are the light that moves and changes, beautiful in every color, never quite the same. Your gift is fluidity, and your growth is finding the still point around which all your shifting selves can dance."
 
 ---
@@ -349,8 +349,8 @@ The base profile above is the quadrant archetype. A player's exact position on t
 | Signal | Meaning | Effect on the profile |
 |---|---|---|
 | High prototypicality (far from center) | Strongly that mode | Report the archetype at full strength. |
-| Low prototypicality (near center), no facet tension | Genuinely balanced | Report **The Reflection Point** boundary. Pull one or two lines from each adjacent mode. |
-| Low prototypicality (near center), with facet tension | Near center from cancellation, not balance | Same Reflection Point boundary, but with the facet-tension modifier narrative. Lead with the facet signature. |
+| Low prototypicality (near center), no facet tension | Genuinely balanced | Report **The Reflection** boundary. Pull one or two lines from each adjacent mode. |
+| Low prototypicality (near center), with facet tension | Near center from cancellation, not balance | Same Reflection boundary, but with the facet-tension modifier narrative. Lead with the facet signature. |
 | Season result, with facet tension on one axis | A mode pulled in two directions internally | Report the mode as normal, then surface the facet-tension modifier as a secondary note led by the facet signature. |
 | Near an axis boundary | Strong on one axis, neutral on the other | Emphasize the dominant axis. Soften the secondary. |
 | Angle maps to early, mid, or late | Position along the quadrant arc | Shift tone. "Early Beacon" is building toward full self-knowledge. "Late Aurora" is nearing the Ember's honesty. |
@@ -364,6 +364,6 @@ This is the hybrid dimensional and prototypical structure (Kerber et al. 2021). 
 The SSA is facet-organized. Every result reports the two axis scores and their four facet sub-scores. The facet signature lets a profile distinguish *which facet drove the axis score*.
 
 - Axis A, Identity Clarity: A1 Self-Knowledge, A2 Self-Consistency.
-- Axis B, Self-Alignment: B1 Authentic Living, B2 Genuine Relating.
+- Axis B, Self-Alignment: B1 Authentic Living, B2 Relational Authenticity.
 
 A high-Clarity result can now read "clear mostly through self-knowledge, less through consistency." A high-Self-Aligned result can read "aligned mostly through authentic relating, less through living openly." This is the depth that separates the SSA from a flat axis quiz. Facets are theory-grounded sub-dimensions of validated constructs, not independently validated facets; that line is stated on the results screen.
