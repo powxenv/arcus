@@ -1,0 +1,2092 @@
+Journal of Personality and Social Psychology
+1982, Vol. 42, No. 1, 116-131
+
+Copyright 1982 by the American Psychological Association, Inc.
+0022-3514/82/4201-0116$00.75
+
+The Need for Cognition
+John T. Cacioppo
+
+Richard E. Petty
+
+University of Iowa
+
+University of Missouri—Columbia
+
+Four studies are reported in which a scale to assess the need for cognition (i.e.,
+the tendency for an individual to engage in and enjoy thinking) was developed
+and validated. In Study 1 a pool of items was administered to groups known to
+differ in need for cognition. Members of a university faculty served as subjects
+in the high-need-for-cognition group, whereas assembly line workers served as
+subjects in the low-need-for-cognition group. The criteria of ambiguity, irrelevance, and internal consistency were used to select the items for subsequent
+studies. A factor analysis was performed on the selected items and yielded one
+major factor. In 'Study 2 the scale was administered to a more homogeneous
+population (400 undergraduates) to validate the factor structure obtained in
+Study 1 and to determine whether the scale tapped a construct distinct from test
+anxiety and cognitive style. The factor structure was replicated in Study 2,
+responses to the need for cognition scale were predictably and weakly related
+to cognitive style, and responses were unrelated,to test anxiety. In Study 3, 104
+subjects completed need for cognition, social desirability, and dogmatism scales
+and indicated what their American College Test scores were. Results indicated
+that need for cognition was related weakly and negatively to being close minded,
+unrelated to social desirability, and positively correlated with general intelligence.
+Study 4 replicated the major findings of Study 3 and furnished evidence of thj
+predictive validity of the Need for Cognition Scale: Attitudes toward simple an
+complex versions of a cognitive task appeared indistinguishable until the subjects'
+need for cognition was considered. The theoretical utility of the construct and
+measure of need for cognition are discussed.
+
+Studies of cognition have tended to focus
+on two issues: the nature of knowledge and
+the character of the underlying processes
+that enable the acquisition and use of this
+knowledge (e.g., Blumenthal, 1977; Wyer
+& Carlston, 1979). In this study we proposed
+to investigate a related phenomenon. We
+sought to identify differences among individuals in their tendency to engage in and
+
+enjoy thinking. The notion of such a disposition emerged fairly early in the history of
+personality and social psychology (e.g., Asch,
+1952;Maslow, 1943; Murphy, 1947;Sarnoff
+& Katz, 1954) and was developed most eloquently in the experiments on the "need for
+cognition" by Cohen, Stotland, and Wolfe
+(1955) and by Cohen (1957).'
+The "Need" for Cognition
+
+The research was supported by University Faculty
+
+.
+
+,
+
+Scholar Award A240.
+We are indebted to Charlotte Lowell for her assistance in the first study, John Mueller and Martin Heesacker for their assistance in the second study, and Claudia French for her aid in the third and fourth studies.
+
+Cohen et al. (1955) described the need for
+cognition as "a need to structure relevant
+situations in meaningful, integrated ways. It
+
+We also wish to thank William Robinson, Richard
+McCard, Robert Jones, and Bill Davis for providing
+access to their employees for the first study. Finally, we
+thank Gertrude Math for her comments on an earlier
+draft of this article.
+Requests for reprints should be addressed to John T.
+Cacioppo, Department of Psychology, University of
+Iowa, Iowa City, Iowa 52242, or to Richard E. Petty,
+Department of Psychology, University of Missouri, Columbia, Missouri 65211.
+
+' The Cohen, Stotland, and Wolfe (1955) and Cohen
+(1957) studies are, to our knowledge, the only published
+reports in which objective measures were taken of individuals' need for cognition. The Zeitgeist of the cognitive consistency theories that emerged at about that
+point in social psychology (e.g., Brehm & Cohen, 1962;
+Festinger, 1957; Heider, 1958; Osgood & Tannenbaum,
+1955) and the absence of any published version of the
+Need for Cognition Scale would seem to have contributed to the paucity of research on need for cognition.
+
+116
+
+NEED FOR COGNITION
+
+is a need to understand and make reasonable
+the experiential world" (p. 291). Gardner
+Murphy (1947) described a similar tendency
+as characterizing "thinkers," for whom he
+suggested it had become "fun to think" (p.
+405) and to "quest for reality" (p. 407). Katz
+(1960) viewed individuals as possessing a
+"need to understand" (p. 170); in Katz's
+view, some attitudes develop because their
+referents either satisfy or frustrate this need
+for particular individuals.
+The concept of need for cognition was
+distinguished conceptually by Cohen et al.
+(1955) from gestalt models of tendencies to
+structure the environment (cf. Witkin, Dyk,
+Faterson, Goodenough, & Karp, 1962) by
+postulating that "feelings of tension and deprivation arise from its frustration" (p. 291).
+Cohen et al. (1955) proposed that the resultant tension would lead to "active efforts
+to structure the situation and increase understanding" (p. 291).2
+The sparse literature on this individual
+difference suggests the utility of identifying
+this dimension for any study in which active
+cognitive processing is postulated.
+Past Research
+In the first empirical study of the need for
+cognition (Cohen et al., 1955), 57 undergraduates from the University of Michigan
+completed two measures of need for cognition (described below), read either an ambiguous or structured story about a student's
+interview with a potential employer, and
+rated the story along several dimensions
+(e.g., liking for the story, difficulty in understanding the story, effort expended to
+understand the story). The results disclosed
+that individuals possessing high need for cognition rated the ambiguous story as being
+less interesting and likable than the structured story, whereas individuals characterized as possessing low or moderate need for
+cognition did not rate these stories differently. No differences emerged between the
+groups of subjects in terms of the reported
+effort they expended to understand the stories. Cohen et al. (1955) attributed this null
+effect to the paucity of measurement and to
+the failure of the individuals possessing a
+high need for cognition to complete their
+
+117
+
+retrospective restructuring of the ambiguous
+story. Presumably, due to the experimental
+procedures, these individuals were unable to
+expand the effort they would normally tend
+to evince to attain a more organized and
+veridical view of the ambiguous story,
+whereas there was no need to expend much
+effort to understand the structured story.
+Evidence for the hypothesis that individuals of high rather than low need for cognition are more likely to organize, elaborate
+on, and evaluate the information to which
+they are exposed was reported in a study by
+Cohen (1957). Thirty-five undergraduates
+at Yale University served as subjects, and
+a highly controversial and relevant advocacy
+that a stricter scoring procedure of, grading
+on the curve should be adopted at Yale University served as the attitude issue. A pretest
+was administered as part of a larger opinion
+questionnaire to determine the extent to
+which subjects agreed that grading on the
+curve would be a "decided advantage," and
+need for cognition was assessed. Approximately 1 month later, the subjects were introduced to a communicator who was to
+speak on the current grading problems. The
+communicator was described as a faculty
+member from the psychology department,
+who chaired the departmental committee
+charged with evaluating grading problems.
+Supposedly, his purpose in speaking to the
+students was to inform them of the current
+grading problems and to obtain their views
+on the issue and its probable outcome. About
+half of the subjects heard the communicator
+detail the grading problem ("need arousal"
+communication) and subsequently provide
+information about how grading on the curve
+was a judicious solution to the grading prob2
+Cohen's use of the term need was not meant to imply
+that a rudimentary biological state of deprivation was
+necessarily involved. He argued instead that the "need
+for cognition may be said to qualify as a need since it
+directs behavior toward a goal and causes tension when
+this goal is not attained" (Cohen et al., 1955, p. 291).
+This tension may simply reflect the frustration of an
+activity that, as Gardner Murphy (1947) suggested,
+certain individuals considered great fun in and of itself.
+Accordingly, goal-directed behavior that arises because
+of an individual's need for cognition can be internal.
+"The person does not necessarily have to do something
+in and to the environment, as in the case of the satisfaction of other needs" (Cohen et al., 1955, p. 293).
+
+118
+
+JOHN T. CACIOPPO AND RICHARD E. PETTY
+
+lem; the remaining subjects heard the same
+information but in reverse order (i.e., the
+information about a possible solution was
+presented prior to the description of the
+problem).
+Cohen (1957) hypothesized that outlining
+the problem and its possible solution would
+elicit more attitude change than the reverse
+order of presentation and that this order effect would be attenuated for individuals possessing a high need for cognition: This is
+because the subjects who possessed high
+need for cognition, theoretically, were already motivated to think about the communication, whereas the subjects with low
+need for cognition needed to be motivated
+to think about the communication by explicitly detailing the problem first. The results conferred support for both hypotheses.
+Moreover, no differences were obtained between the groups in their learning and retention of the content of the communication,
+which suggests that the attitudinal differences were not the result of simple differ. ences in attention or message learning.3
+
+measure of individuals' need for cognition,
+where the term need is used in a statistical
+(i.e., likelihood or tendency) rather than biological (i.e., tissue deprivation) sense (see
+Footnote 2). We entertained a number of
+assessment formats, including those used by
+Cohen (Cohen et al., 1955; Cohen, 1957),
+but selected a format similar to that used
+in measuring the need for achievement
+(McClelland, Atkinson, Clark, & Lowell,
+1953; Mehrabian & Banks, 1978). First, a
+pool of opinion statements that appeared
+relevant to the need for cognition was generated. Second, statements that we judged
+in preliminary testing to be ambiguous (i.e.,
+criterion of ambiguity) were revised or eliminated. Third, the remaining pool of 45 items
+was administered to groups who were known
+to differ along the dimension of need for
+cognition, as conceptualized here. Members
+of a large midwestern university faculty
+served as subjects in the high-need-for-cognition group, whereas members of assembly
+lines in factories in the surrounding community served as subjects in the low-needfor-cognition group. The criterion of irrelevance was applied to eliminate any item that
+Study 1
+failed to discriminate between these two
+Surprisingly, there is no instrument avail- groups. The criterion of internal consistency
+able for measuring individuals' need for cog- was applied to delete any item that failed to
+nition. Cohen et al. (1955) used two mea- correlate significantly (p < .01) with the tosures: the Situations Checklist and the Hi- tal score that was calculated from the items
+erarchy of Needs Measure.4 The Situations that met all other criteria.
+Checklist, which was also used by Cohen
+(1957), was described as
+Method
+
+a group of forced choice reactions to a wide variety of
+hypothetical situations. One of the three possible responses to each situation was assumed a priori to indicate a desire for more information and/or understanding. (Cohen et al., 1955, p. 292)
+
+The Hierarchy of Needs Measure was
+described in a little more detail but was not
+employed by Cohen (1957). Subjects were
+asked to order by relative importance all
+possible sets of three statements that represented the following five needs: achievement, affiliation, autonomy, recognition, and
+cognition. No detail was provided about the
+nature of these statements except that they
+were "assumed to center around (the) essential meaning (of the needs listed above)"
+(Cohen et al., 1955, p. 292).
+In our first study, we sought to develop a
+
+Subjects and design. Participants were drawn randomly from the University of Iowa faculty in the col3
+It might be argued that students possessing a high
+rather than low need for cognition were more positively
+disposed toward grading qn the curve because they were
+more successful in school or were more intelligent.
+Cohen (1957), however, found the correlation between
+college grades and need for cognition to be nonsignificant. Furthermore, an analysis of covariance of the posttest attitude measures was performed in which the pretest attitude measure served as the covariate. Hence,
+the effects of the need for cognition on students' susceptibility or resistance to persuasion are unlikely to
+have been spurious.
+4
+Individuals' need for cognition, when assessed using
+the Situations Checklist and the Hierarchy of Needs
+Measure, was correlated +.50 (Cohen et al., 1955).
+Neither measure is available any longer (Stotland,
+Note 1).
+
+NEED FOR COGNITION
+
+119
+
+leges of law, liberal arts, and education and from as- among the 34 Need for Cognition Scale items that were
+sembly line workers in the Iowa City-Cedar Rapids .selected for use in subsequent studies and factor anaarea, who were employed in heavy equipment and au- lyzed by the principal-components method.5 The numtomotive parts industries. Of the 96 participants, males ber of factors was determined by the latent roots greater
+outnumbered females as follows: n for male faculty was than one and the scree test. Ten factors yielded latent
+27, n for male workers was 33, n for female faculty was roots greater than one, but only one factor was retained
+16, n for female workers was 20. A maximum cell size following the scree test (see Figure 1). For example,
+was arbitrarily set at 24, and the data from three male the first factor, which had an eigenvalue of 10.22, acfaculty and nine male workers were selected randomly counted for 30.1% of the variance; the second and third
+and deleted from the analysis. Thus, a 2 (sex of sub- factors had eigenvalues of 2.31 and 1.82 and accounted
+ject) X 2 (need for cognition) between-subjects factorial for 6.8% and 5.4% of the variance, respectively. The
+first factor, therefore, was clearly dominant.
+design was employed.
+Materials and procedure. An initial item pool was
+The salient factor loadings of the items on the first
+constructed on the basis of a few examples cited by factor are presented in Table 3. It is suggested by inCohen et al. (1955) in their description of the Need for specting the pattern weights in Table 3 that the retained
+Cognition Scale and on the basis of adaptations of factor represents people's reported tendency to engage
+Mehrabian and Bank's (1978) questionnaire for mea- in and enjoy thinking. All of the items were positively
+suring achieving tendency. Following informal pilot test- weighted, with the highest loadings appearing on items
+ing and deletion of ambiguous items, we selected the 45 such as "Thinking is not my idea of fun" (following
+items displayed in Table 1 for the initial item pool. To reverse scoring) and "I prefer complex to simple probattenuate response bias, some items were worded posi- lems."
+'
+tively and others were worded negatively.
+These results strongly support the effectiveness of the
+Participants were asked to assist us in an attempt to present scale in assessing people's need for cognition.
+scale an individual difference among people. The instructions emphasized that there were no correct anStudy 2
+swers and that responses were to be made anonymously.
+Responses were recorded on —4 to +4 Likert-type rating
+In the first study, a scale was developed
+scales (see Table 1).
+
+Results and Discussion
+hem selection. A 2 X 2 analysis of variance was
+performed on each item to determine those that discriminated between the university faculty (high-needcoe)
+and assembly line workers (low-needC08). We had decided beforehand to retain items that discriminated between these groups at the p < .10 level. The results of
+the analyses are displayed in Table 1. As is evident from
+perusing Table 1, 34 of the 45 items were exceptional
+discriminators between the faculty and workers, and sex
+differences and interactions were uncommon. Not surprisingly, when the sum of all items listed in Table 1
+was subjected to an analysis of variance, a strong effect
+for need for cognition was evidenced, F(\, 80) = 36.98,
+p < .0001, whereas neither the main effect for sex nor
+the interaction was significant, (ps> .14). The same
+pattern of results emerged when an analysis was performed for the sum of the 34 items that were selected
+for use in succeeding experiments: University faculty
+scored much higher on the scale (M = 2.18) than
+assembly line workers (M = .70), F(\, 80) =
+47.28, p < .0001, whereas there were no differences as
+a function of sex or Sex X Need for Cognition
+(ps > .20).
+Internal consistency. The results of the analyses of
+internal consistency are presented in Table 2. The tests
+indicated that the items selected for use in succeeding
+experiments exhibited a high degree of interrelatedness.
+First, each of these items correlated significantly with
+the total score of these items (N = 84, ps < .01), whereas
+this was not the case for some of the unselected items.
+Second, the Spearman-Brown split-half coefficient was
+large and highly significant (p < .0001, see Table 2).
+Factor analysis. Phi coefficients were computed
+
+that met the criteria of ambiguity, irrelevance, and internal consistency. The items
+were understood by both faculty and assembly line workers, the scale discriminated between these groups of workers, and a high
+and statistically significant level of interitem
+reliability was evidenced. There were no sex
+differences in response to the Need for Cognition Scale, nor was there an interaction
+between sex of subject and his or her need
+for cognition (as determined by group membership - faculty vs. worker). Finally, a factor analysis identified one major factor that
+seemed to consist of items that assessed the
+tendency for the individuals to gain intrinsic
+rewards from thinking per se in a variety of
+situations.
+A second study was conducted to replicate
+this factor analysis, using a larger population
+of subjects from a different area of the country, who were more similar to each other on
+a variety of dimensions than were the university faculty and assembly line workers.
+It was expected that the internal structure
+of the Need for Cognition Scale developed
+in Study 1 would be obtained in Study 2 as
+well.
+5
+A factor analysis of all 45 items yielded data and
+interpretations very similar to those reported in the text
+for the analysis of the 34 retained items.
+
+120
+
+JOHN T. CACIOPPO AND RICHARD E. PETTY
+
+Table 1
+The Need for Cognition Scale
+F ratio'
+Item
+number
+
+Group
+
+Sex
+
+Group X Sex
+
+Item wording
+
+c
+
+7.22
+
+<1
+
+<1
+
+2
+
+<1
+
+1.95
+
+1.65
+
+3
+
+1.13
+
+<1
+
+<1
+
+4C
+
+10.16
+
+<1
+
+<1
+
+5C
+
+8.72
+
+<1
+
+<1
+
+6
+
+1.71
+
+2.16
+
+1.52
+
+7
+8
+
+<1
+2.64
+
+<1
+2.50
+
+<1
+1.93
+
+9C
+
+3.93
+
+1.37
+
+<1
+
+10"
+
+8.41
+
+<1
+
+<1
+
+ir
+
+6.73
+
+<1
+
+<1
+
+\T
+
+5.86
+
+<1
+
+<1
+
+\y
+
+12.06
+
+<1
+
+<1
+
+14C
+
+2.73
+
+<1
+
+3.31
+
+I really enjoy a task that involves coming up
+with new solutions to problems.
+I believe that if I think hard enough, I will
+be able to achieve my goals in life.
+I am very optimistic about my mental
+abilities.
+I would prefer a task that is intellectual,
+difficult, and important to one that is
+somewhat important but does not require
+much thought.
+I tend to set goals that can be accomplished
+only by expending considerable mental
+effort.
+When something I read confuses me, I just
+put it down and forget it.b
+I take pride in the products of my reasoning.
+I don't usually think about problems that
+others have found to be difficult.1"
+I am usually tempted to put more thought
+into a task than the job minimally requires.
+Learning new ways to think doesn't excite
+me very much.b
+I am hesitant about making important
+decisions after thinking about them.b
+I usually end up deliberating about issues
+even when they do not affect me
+personally.
+I prefer just to let things happen rather than
+try to understand why they turned out that
+way.b
+I have difficulty thinking
+in new and unfa15
+
+C
+
+15
+
+14.88
+
+<1
+
+<1
+
+16C
+
+23.10
+
+<1
+
+6.19
+
+17°
+18
+
+9.26
+2.65
+
+<1
+<1
+
+6.16
+1.37
+
+19C
+20'
+21°
+
+6.15
+3.32
+17.30
+
+<1
+6.40
+<1
+
+<1
+9.73
+<1
+
+22C
+
+16.24
+
+<1
+
+2.09
+
+23C
+
+10.68
+
+<1
+
+<1
+
+24°
+
+21.10
+
+<1
+
+<1
+
+25
+26C
+
+1.75
+4.21
+
+<1
+<1
+
+<1
+<1
+
+l
+
+miliar situations.
+
+The idea of relying on thought to make my
+way to the top does not appeal to me.b
+The notion of thinking abstractly is not
+appealing to me.b
+I am an intellectual.
+I find it especially satisfying to complete an
+important task that required a lot of
+thinking and mental effort.
+I only think as hard as I have to.b
+I don't reason well under pressure.6
+I like tasks that require little thought once
+I've learned them.b
+I prefer to think about small, daily projects
+to long-term ones.b
+I would rather do something that requires
+little thought than something that is sure
+to challenge my thinking abilities.11
+I find little satisfaction in deliberating hard
+and for long hours. b
+I think primarily because I have to.b
+I more often talk with other people about the
+reasons for and possible solutions to
+international problems than about gossip
+or tidbits of what famous people are doing.
+
+NEED FOR COGNITION
+
+121
+
+Table 1 (Continued)
+F ratio"
+Item
+number
+
+Group
+
+Sex
+
+27C
+
+4.59
+
+<1
+
+28C
+
+4.37
+
+29C
+
+26.25
+
+9.48
+
+. 5.06
+
+30°
+
+2.75
+
+<1
+
+<1
+
+31C
+
+7.25
+
+6.96
+
+5.75
+
+32C
+33c
+
+15.78
+27.47
+
+<1
+<1
+
+<1
+<1
+
+34
+
+<1
+
+<1
+
+2.67
+
+35C
+
+16.25
+
+2.69
+
+1.09
+
+36
+
+<1
+
+1.08
+
+6.13
+
+37C
+
+25.93
+
+3.80
+
+1.08
+
+38
+39'
+
+1.28
+3.78
+
+<1
+<1
+
+<1
+<1
+
+40CC
+41
+
+14.71
+10.17
+
+5.87
+<1
+
+< 1
+<1
+
+42
+
+1.62
+
+3.04
+
+<1
+
+43'
+
+4.20
+
+<1
+
+2.76
+
+44°
+45'
+
+6.11
+6.88
+
+<1
+2.91
+
+1.41
+6.00
+
+Group X Sex
+
+<1
+
+Item wording
+These days, I see little chance for performing
+well, even in "intellectual" jobs, unless one
+knows the right people.6
+More often than not, more thinking just
+leads to more errors.'
+I don't like to have the responsibility of
+handling a situation that requires a lot of
+thinking.'
+I appreciate opportunities to discover the
+strengths and weaknesses of my own
+reasoning.
+I feel relief rather than satisfaction after
+completing a task that required a lot of
+mental effort.*1
+Thinking is not my idea of fun. b
+I try to anticipate and avoid situations where
+there is a likely chance I will have to think
+in depth about something.'
+I don't like to be responsible for thinking of
+what I should be doing with my life.'
+I prefer watching educational to entertainment programs.
+I often succeed in solving difficult problems
+that I set out to solve.
+I think best when those around me are very
+intelligent.
+I am not satisfied unless I am thinking.
+I prefer my life to be filled with puzzles that
+I must solve.
+I would prefer complex to simple problems.
+Simply knowing the answer rather than
+understanding the reasons for the answer
+to a problem is fine with me.b
+When I am figuring out a problem, what I
+see as the solution to a problem is more
+important than what others believe or say
+is the solution.
+It's enough for me that something gets the
+job done, I don't care how or why it
+works.'
+Ignorance is bliss.'
+I enjoy thinking about an issue even when
+the results of my thought will have no
+effect on the outcome of the issue.
+
+Note. Subjects were instructed to indicate the degree of agreement or disagreement with each of the statements
+listed above. Ratings were made using a —4 to +4 Likert-type scale, in which +4 = "very strong agreement,"
++3 = "strong agreement," +2 = "moderate agreement," +1 = "slight agreement," 0 = "neither agreement nor
+disagreement," — 1 = "slight disagreement," —2 = "moderate disagreement," —3 = "strong disagreement," and
+-4 = "very strong disagreement."
+0
+d / = ( l , 80)
+' Reverse scoring was used on this item.
+" This item was retained for use in the succeeding experiments.
+
+A second purpose of this study was to determine whether the Need for Cognition
+Scale was tapping a construct that was, al-
+
+though related to, nevertheless distinguishable from cognitive style or field dependence
+(cf. Goodenough, 1978). Witkin et al. (1962)
+
+122
+
+JOHN T. CACIOPPO AND RICHARD E. PETTY
+
+Table 2
+Reliability Estimates: Means, Standard
+Deviations, and Correlation of Items
+to Total Score
+Item
+number*
+c
+
+l
+2
+3
+4C
+5C
+6
+7
+8
+9C
+10C
+IT
+12C
+13C
+
+M
+
+SD
+
+2.63
+1.55
+2.15
+1.73
+1.74
+1.96
+2.98
+1.82
+1.77
+1.76
+.57
+1.10
+2.17
+
+1.57
+2.27
+1.80
+2.22
+1.88
+1.94
+1.25
+2.22
+2.14
+2.38
+2.78
+2.14
+2.09
+
+Me
+
+11Z
+0
+1,1
+
+0i.*fO
+Af\
+
+15C
+16°
+17C
+18
+19C
+20C
+21 C
+22°
+23C
+24g
+
+1.86
+1.83
+1.07
+2.74
+.85
+.71
+.75
+.87
+1.39
+.86
+
+2.35
+2.29
+2.25
+1.69
+2.72
+2.55
+2.51
+2.61
+2.47
+2.72
+
+'jc
+LJ
+
+1
+1 ,\Jl
+
+26C
+27°
+28C
+29C
+30°
+31=
+32C
+33s
+34
+35C
+36
+37C
+38
+39°
+40C
+4P
+42
+43C
+44C
+45C
+Split-half
+reliability
+
+1.42
+1.18
+2.58
+1.56
+2.15
+1 10
+1.42
+2.05
+2.63
+.21
+2.12
+1.11
+.33
+-.11
+.42
+2.18
+1.25
+1.86
+1.98
+1.81
+
+a
+
+fit
+
+12
+LJ '°:
+
+Item
+correlation
+with total
+scoreb
+
+.59
+.22
+.32
+.55
+.42
+.47
+.29
+.43
+.35
+
+.60
+.36
+.54
+.53
+.65
+.57
+.44
+.56
+.66
+.50
+
+.65
+.65
+.68
+.67
+
+9£.,11
+71
+
+2.18
+2.47
+1.98
+2.60
+1.82
+2.33
+2.46
+2.05
+2.02
+2.41
+1.81
+2.46
+2.04
+2.41
+2.41
+2.08
+2.43
+2.26
+2.72
+2.20
+
+.27
+.29
+.39
+.76
+.41
+.56
+
+.71
+.67
+.38
+.33
+.28
+.45
+
+.32
+.61
+.80
+.51
+.19
+
+.56
+.28
+.38
+.87"
+
+Item content is specified in Table 1.
+Total score of the items selected from the initial pool
+for use in succeeding experiments.
+c
+This item was retained for use in the succeeding experiments (see Table 1).
+d
+Corrected by Spearman-Brown prophecy formula.
+This correlation was calculated using the items selected
+for use in succeeding studies.
+b
+
+1
+
+1
+*: \\
+z
+ou 24;
+
+\
+*"-— « , , , t t __ JL
+
+'
+
+*k
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+FACTOR
+Figure I . The application of the Scree test to the factors
+obtained in Study 1 led to the retention of one primary
+factor, the Need for Cognition.
+
+proposed that individuals could be characterized by an articulative or a global cognitive style. The articulative style suggests
+differentiation, whereas the global style suggests a somewhat more undifferentiated
+grasp of events. The former involves the separation of figure from ground, whereas the
+latter bespeaks a lesser ability to separate
+figure from ground. Since the articulative,
+in contrast to the global, style includes a
+greater tendency to restructure stimuli, some
+similarity should be found between measures
+of individuals' cognitive style and need for
+cognition. Cognitive style and need for cognition, however, can nevertheless be distinguished conceptually. The latter represents
+individuals' tendency to think about and
+elaborate on events in searching for reality;
+the former represents individuals' tendency
+to think about events in a piecemeal or holistic fashion. Administration of both the
+Need for Cognition Scale and an Embedded
+Figures Test to the same subjects allowed
+a test to determine whether these measures
+reflected the above comparison and contrast
+of these constructs.
+Finally, one might argue that responses
+to the Need for Cognition Scale, which is
+presented in a testing format, are related to
+a subject's level of test anxiety. To assess
+this possibility and to examine the scale's
+discriminant validity, we asked subjects to
+complete Sarason's (1972) Measure of Test
+Anxiety as part of their task in Study 2.
+Method
+
+Tkjf jl* lts\rl
+
+Subjects and design. Four hundred nineteen introductory psychology students at the University of Mis-
+
+NEED FOR COGNITION
+
+Table 3
+Salient Factor Loadings of Items in the Need
+for Cognition Scale: Studies I and 2 ,
+Item
+number"
+
+Study 1
+
+Study 2
+
+1
+4
+5
+9
+10
+11
+12
+13
+14
+15
+16
+17
+19
+20
+21
+22
+23
+24
+26
+27
+28
+29
+30
+31
+
+.62
+.58
+.44
+.36
+.62
+.32
+.53
+.51
+.52
+.65
+.58
+.43
+.68
+.49
+.65
+.67
+.70
+.69
+.23
+.27
+.38
+.77
+.43
+.57
+
+.42
+.43
+.48
+.40
+.46
+.16
+.21
+.41
+.40
+.52
+.42
+.42
+.54
+.33
+.54
+.44
+.62
+;49
+.30
+.32
+.42
+.59
+.37
+.53
+
+32
+
+.72
+
+.56
+
+.69
+.28
+.43
+.61
+.81
+.52
+.55
+.23
+.36
+
+.63
+.40
+.21
+.53
+.57
+.47
+.47
+.23
+.37
+
+33
+35
+37
+39
+40
+41
+43
+44
+45
+Correlation
+between
+factor loadings
+from Studies 1 and 2
+
+.76"
+
+a
+
+Item content and scoring are specified in Table 1.
+Although only 34 items were used in Study 2, the original numbering is used here to identify the items as they
+appear in Table 1.
+b
+N = 34, p< .001.
+souri completed the Need for Cognition Scale, a computer adapted form of the Group Embedded Figures
+Test of field dependence (CF-1, French, Ekstrom, &
+Price, 1963) and Sarason's (1972) Test Anxiety Scale.
+Subjects were tested in groups of 15 to 30 members.
+The Need for Cognition Scale required subjects to
+respond to the 34 statements developed in Study 1. In
+the present study, subjects responded to the items by
+shading in a number from 1 to 5 on a computer answer
+sheet in which 1 indicated "extremely uncharacteristic
+of me" and 5 indicated "extremely characteristic of
+me." The Group Embedded Figures Test was administered in two timed 10-min. segments. In each segment
+
+123
+
+subjects were asked to respond to 16 complex drawings.
+For each complex drawing, subjects were required to
+find which of five simpler figures was contained therein.
+When the appropriate simple figure contained in the
+complex drawing was found, subjects shaded in a number from 1 to 5 on a computer answer sheet, where each
+number corresponded to a different, simple drawing. A
+subject's score on this test was the total number of correct figures found in the total time allocated. High scores
+on this test are associated with field independence.
+
+Results and Discussion
+Factor analysis. The major purpose of
+Study 2 was to assess the replicability of the
+factor structure obtained in Study 1 by using
+the revised Need for Cognition Scale and a
+much more homogeneous subject population. The factor analysis, which was conducted in the same manner as in Study 1,
+produced a pattern of results that was remarkably similar to that obtained previously. As in Study 1, 10 factors in Study 2
+yielded latent roots greater than one, but
+only 1 factor was retained, following the
+scree test (see Figure 2). The first three factors, for example, accounted for 20.0%,
+5.7%, and 4.6% of the variance, respectively,
+in Study 2, as compared with the 30.1%,
+6.8%, and 5.4% of the variance accounted
+for by these factors in Study 1. As expected,
+slightly less variance was attributable to
+these factors in Study 2, given the more restricted range of needs for cognition with
+which we are dealing when using undergraduates from the same introductory psychology course (Study 2) rather than university faculty and factory assembly line
+workers (Study 1).
+The salient factor loadings of the items on
+the first factor from Study 2 are presented
+along with those from Study 1 in Table 3.
+The pattern weights in Table 3 illustrate the
+consistency of the results from Studies 1 and
+2. The weightings from both studies suggest
+that the retained factor represents people's
+tendency to engage in and enjoy thinking.
+Discriminant validity. A correlation was
+calculated between the measures of need for
+cognition and cognitive style; as expected,
+based on the constructs that each is thought
+to tap, a significant but small correlation was
+found (r = .19, TV = 419, p < .001). Also as
+expected, the correlation between the measures of subjects' need for cognition and test
+
+124
+
+JOHN T. CACIOPPO AND RICHARD E. PETTY
+
+«'<>+
+Hi
+8
+
+"3 i
+2e
+
+I
+
+l
+
+1
+
+1
+
+1
+
+1
+
+l
+
+I
+
+l
+
+1—
+
+I
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+FACTOR
+Figure 2. The application of the Scree test to the factors
+obtained in Study 2 led to the retention of one primary
+factor, the Need for Cognition.
+
+anxiety was not significant (r = .02, N =
+419, ns).
+In sum, the Need for Cognition Scale has
+thus far been shown to assess one primary
+factor in a reliable manner, to discriminate
+between groups known to differ by their occupations in need for cognition, to assess a
+construct related to but distinguishable from
+cognitive style, and to be unrelated to (and
+unbiased by) respondents' level of test anxiety.
+Study 3
+A third study was conducted to provide
+further evidence that the Need for Cognition
+Scale taps individuals' tendency to organize,
+abstract, and evaluate information. First, we
+reasoned that a need for cognition would
+develop more in individuals who have had
+positive outcomes associated with their cognitive efforts. Since an individual's general
+intelligence should be one important determinant of whether he or she experiences positive or negative outcomes from thinking, we
+expected that need for cognition and intelligence would be related.
+Several qualifications of this hypothesis
+should be noted, however. First, a perusal
+of the items from the Need for Cognition
+Scale in Table 1 indicates that we are not
+dealing with an intelligence test per se. There
+is nothing intrinsically more intelligent in the
+performance per se of an individual who decides that the answer to the question, "I prefer simple to complex problems," is "strong
+agreement" rather than "strong disagree-
+
+ment." The latter response, which reflects
+a higher need for cognition than the former,
+might be expected more from intelligent
+than unintelligent individuals because more
+likely they have found it rewarding to try to
+solve complex problems. Second, there can
+be sizable differences among people of equal
+intelligence in their past experiences when
+thinking. Hence, we expected to find a significant but weak association between individuals' general intelligence and their need
+for cognition.6
+A second major aim of the present study
+was to assess by use of the Need for .Cognition Scale the extent to which social desirability might be a confounding influence
+in discriminating between people high and
+low in need for cognition. The procedures of
+Studies 1 and 2 suggest that social desirability may not be a major problem, since
+responses were obtained in a manner assuring anonymity (e.g., during mass testing).
+Nevertheless, because the Need for Cognition Scale is somewhat transparent in the
+characteristic that it measures, our society
+seems to place a value on thinking. Furthermore, since empiricial evidence suggests
+that responses to personality scales might
+reveal as much about individual differences
+in self-presentation as in actual needs or disposition (Mills & Hogan, 1978), we collected measures of social desirability in the
+present study to compare them with individuals' scores on the Need for Cognition Scale.
+Third, the relationship between need for
+cognition and dogmatism was investigated.
+Rokeach (1960) reports that highly dogmatic individuals care more for social rec6
+
+The available data on this question are inconclusive.
+Cohen (1957) reported a nonsignificant correlation
+(r = +.23) between the college grades and need for cognition of Yale University undergraduates.' College grades,
+however, reflect not only people's general intelligence
+but also their motivation to perform well in academic
+pursuits, the difficulty of the discipline in which they
+are studying, and so forth. Moreover, grade inflation
+was a problem at Yale University at that time (recall
+that Cohen used grade inflation as the topic of his message), which further attenuates the utility of college
+grades for indexing general intelligence. These problems
+were avoided in the present study by comparing individual's need-for-cognition scores with their overall
+score on the American College Test (ACT) entrance
+exam, which all students at the University of Iowa are
+required to take as a prerequisite for admission.
+
+125
+
+NEED FOR COGNITION
+
+ognition, salvation, and being obedient but
+care less for equality, freedom, and being
+broad-minded than moderately and slightly
+dogmatic individuals.. The dimension of
+broad-mindedness, or willingness to consider
+a number of issues and positions, overlaps
+somewhat with the concept of need for cognition, and hence, we might expect to find
+a negative association between dogmatism
+and need for cognition. The association
+should be weak, however, since one's need
+for cognition is a more specific construct
+than the dogmatic nature of one's personality. If a strong relationship between these
+measures is obtained, the validity of the
+Need for Cognition Scale would be implicated.
+Method
+Subjects. One hundred and four (35 male and 69
+female) students in an introductory psychology course
+at the University of Iowa participated in the study. Subjects were tested in a large room, and they were placed
+in groups that ranged from 6 to 18 members.
+Materials and procedure. Each subject was given
+a notebook containing the experimental instructions,
+questionnaires, and answer sheet. The initial instructions, which subjects read and heard the experimenter
+summarize, (a) asked that subjects indicate their overall
+American College Testing Program Exam (ACT) score
+oh their answer sheet,7 (b) emphasize that subjects
+should indicate the answer to each question that best
+described their feelings at that moment, (c) stressed that
+there were no correct or incorrect answers, and (d) noted
+that all responses were made anonymously. The notebooks contained the Need for Cognition Scale, Troldahl
+and Powell's (1965) measure of dogmatism, and the
+Marlowe-Crowne Social Desirability Scale (Crowne
+& Marlowe, 1964).
+Once all subjects within any given session had completed their questionnaires, they were debriefed, thanked,
+assigned credit for their participation, and dismissed.
+
+Results and Discussion
+No significant sex difference was obtained
+on any of the measures, and this factor will
+not be discussed further.
+The pattern of data provides strong support for the efficacy of the present scale to
+assess the concept of need for cognition.
+First, the significant correlation between the
+need for cognition and reported ACT performance (r = .39, N = 104, p < .01) corresponds with the prediction that intelligence
+would be positively related to an individual's
+tendency to engage in and enjoy thinking per
+se. One concern that might be raised with
+regard to this data centers on the validity of
+
+the reported ACT scores. To the extent that
+subjects erred randomly in their reports of
+ACT scores, the present test of our hypothesis is conservative, since error variance is
+exaggerated. Alternatively, although subjects' responses were anonymous, they may
+have exaggerated their ACT performance
+to enhance any favorable impressions they
+might make during the study. The nonsignificant correlation between reported ACT
+score and social desirability argues against
+this notion (r = .02, N = 104, ns; see Footnote 7). Furthermore, the partial correlation
+between the measures of need for cognition
+and ACT, with social desirability statistically eliminated, was positive and highly significant (r = .38, p < .01).
+Second, the nonsignificant correlation between need for cognition and social desirability (r = .08, W = 104, ns) suggests that
+the transparent purpose of the scale is not
+likely to introduce a biasing of individuals'
+responses to the Need for Cognition Scale
+in their efforts to form a favorable impression when their responses are made anonymously. We remain cautious, however, about
+the utility and validity of the present scale
+in situations in which individuals' responses
+are not made anonymously and are monitored by an evaluative person or audience.
+Finally, the expected negative but weak
+correlation between the need for cognition
+and dogmatism was obtained (r = —.27,
+TV = 104, p < .05). ACT and dogmatism
+scores were also correlated (r = —.23, N =
+104, p < .05), whereas social desirability and
+dogmatism were not correlated significantly
+(r = .03, N = 104, ns). The partial correlation between the measures of need for cognition and ACT, with dogmatism statistically eliminated, was positive and strong
+(r= .48, /x.Ol).
+Study 4
+The fourth experiment was conducted to
+examine the utility of identifying individual
+7
+In a few instances, subjects were unable to recall
+their overall ACT score. These subjects were asked to
+leave their phone number so that we might subsequently
+contact them by phone to obtain their ACT score. We
+were able to secure the ACT scores of all the subjects
+who participated in this study.
+
+126
+
+JOHN T. CACIOPPO AND RICHARD E. PETTY
+
+differences in need for cognition when assessing affective reactions to a cognitive task
+(i.e., individuals' tendency to enjoy thinking). A number-circling task was selected in
+the present study for two reasons. First, the
+task is novel to subjects, thereby reducing
+the likelihood that differential responses to
+the task would emerge because of prior experiences with it. Second, simple and complex versions of the task, as well as posttask
+assessments, have been developed previously
+(e.g., Shaffer & Hendrick, 1971; see also
+Petty & Brock, 1981). We reasoned that
+although neither individuals of high nor low
+need for cognition may particularly enjoy a
+tedious number-circling task, the individuals
+high in need for cognition should prefer the
+complex (i.e., cognitively demanding) to the
+simple version, whereas individuals low in
+need for cognition should prefer the simple
+to the complex version of the cognitive task.
+Additionally, measures of dogmatism and
+social desirability were again obtained to
+replicate the previous study.
+Method
+Subjects and design. Ninety seven (29 male and 68
+female) students in an introductory psychology course
+at the University of Iowa participated in the study. Subjects were placed in groups, which ranged from 5 to 16
+people, and were tested while seated in a laboratory that
+was partitioned to minimize visual and auditory contact
+among subjects. Subjects were randomly assigned to
+perform either the simple or the complex version of the
+number-circling task. Following the conclusion of the
+study, each subject's status regarding need for cognition
+(high vs. low) was determined by performing a median
+split on all subjects' need-for-cognition scores.
+Materials and procedure. Each subject was given
+a notebook containing the experimental instructions,
+questionnaires, task, and answer sheet. Subjects were
+instructed to indicate the answer to each question that
+best described how they felt, and they were told that
+there were no correct or incorrect answers and that all
+responses were made anonymously. The notebooks consisted of the need for cognition, dogmatism, and social
+desirability scales described in Study 3; either a simple
+or complex number-circling task; and a posttask questionnaire.
+The first page of the number-circling task contained
+the instructions for number circling and a sample with
+numbers circled according to the specified rules. Subjects in the simple number-circling-task condition were
+instructed to circle all Is, 5s, and 7s. Subjects in the
+complex number-circling-task condition were instructed
+to circle all the 3s, any 6 that preceded a 7, and every
+
+other 4. All subjects were instructed to work as quickly
+and as accurately as possible.
+Each of the next three pages of the notebook contained a total of 3,500 random numbers. The random
+numbers were displayed in 5 X 5 matrices, with the
+matrices of numbers themselves constituting a 10 X 14
+matrix. After subjects had familiarized themselves with
+the task and had perused the sample, they were given
+10 min. to circle as many digits as they could.8
+Afterwards, subjects completed the items in a posttask questionnaire designed to assess reactions to various
+aspects of the experiment (Shaffer & Hendrick, 1974).
+Subjects used 7-point scales (1 = not at all, 7 = very
+much) to rate the frustration and mental discomfort
+experienced with task performance, mental effort expended on the task, freedom not to participate in the
+experiment, interest and enjoyment in the task, degree
+of justification the experimenter had in conducting the
+experiment, competence of the experimenter, and frustration and mental discomfort experienced at the conclusion of the experiment.
+After completing the posttask questionnaire, subjects
+were debriefed, thanked, given credit for their participation, and dismissed.
+
+Results and Discussion
+As in previous studies, we found that the
+need for cognition scores did not vary as a
+function of the sex of subject.
+An analysis of variance was conducted on
+the responses to the posttask questionnaire.
+Task (simple vs. complex) and need for cognition (high vs. low) served as between-subjects factors. The manipulation of task was
+effective, as subjects reported expending
+more effort when performing the complex
+(M = 3.98) than the simple task (M = 3.13),
+F(\, 93) = 7.12, p< .01.
+Neither the main effect for need for cognition nor the interaction was significant on
+the measure of reported mental effort. These
+null findings are reminiscent of Cohen et al.'s
+(1955) original study, in which individuals
+high versus low in need for cognition reported expending similar amounts of mental
+effort to understand an ambiguous interview. Cohen et al. (1955) suggested that the
+measure was insensitive to felt differences
+in mental effort and that the experimental
+procedures may have imposed an artificial
+ceiling on the effort that could be expended
+8
+Although in retrospect it would have been interesting to have analyzed the number of digits circled, this
+information was not recorded by Shaffer and Hendrick
+(1971, 1974) nor by us.
+
+127
+
+NEED FOR COGNITION
+
+on the task. These possibilities may account
+for the present similarity in perceived mental
+effort expended by subjects classified as having high vs. low need for cognition. Alternatively, ihefelt mental effort may not differ
+even if the individuals with high rather than
+low need for cognition actually expended
+more effort on the task. Thinking, or expending a given amount of mental work, may
+come easier for the former individuals.
+Hence, the report from people high in need
+for cognition of having thought "hard"
+about a task might actually signify that more
+thought about the task was generated than
+when the latter group of individuals reported
+having thought "hard" about the task.
+Suggestively, individuals who were classified
+as low in need for cognition reported experiencing slightly, though not significantly,
+more frustration and mental discomfort during the task (M = 3.75) than did individuals
+high in need for cognition (M = 3.18), F(l,
+93) = 2.45, p < .12, even though no differences were found in the reported mental effort expended. Further research on the
+amount of felt and actual cognitive effort
+that people of high and low need for cognition devote to intellective and nonintellective tasks is clearly desirable.
+More importantly, the major aim of this
+study was accomplished, as the expected
+differences in the enjoyment of cognitive
+tasks were clearly found. Although all the
+subjects reported that they did not much
+enjoy the tedious number-circling task (M =
+1.65), subjects categorized as high in need
+for cognition reported enjoying the complex
+task more than the simple task, whereas subjects classified as low in need for cognition
+reported that they enjoyed the simple task
+more than the complex task, F(l, 93) = 6.98,
+p< .01. Cell means are summarized in Table
+4. No other test was statistically significant.9
+Correlational analyses revealed several interesting effects. First, the higher the subjects' need-for-cognition scores, the less frustration and mental discomfort they reported
+experiencing during the task (r = -.23,
+N = 97,p < .03). Importantly, the frustration and mental discomfort that subjects reported experiencing by the time they had
+completed the posttask questionnaire did not
+
+Table 4
+Reported Enjoyment From Performing the
+Number-Circling Task
+Tasky
+Group
+
+Simple
+
+Complex
+
+Need for cognition
+Low
+High
+
+2.00
+1.29
+
+1.15,
+2.17
+
+Note. Enjoyment was rated on a 7-point scale, in which
+1 was labeled "not at all" and 7 was labeled "very
+much."
+
+covary significantly with need for cognition
+(r = -.04, TV = 97, ns), which suggests that
+the former correlation reflects the differential responses by people with varying needs
+for cognition to the tedious and cognitively
+effortful task rather than to pre-existing trait
+differences in mental anguish.10 Finally, the
+9
+In addition, neither simple main effect was significant, which means that the differential responses to the
+tasks by subjects classified as low versus high in need
+for cognition reflect relative rather than absolute effects.
+The theoretical import of these observations, however,
+is the same.
+The possible influences of effort justification on these
+ratings should be addressed briefly. Jones and Gerard
+(1967) suggested, based on cognitive dissonance theory
+(Festinger, 1957), that a task would be viewed more
+positively to the extent that one exerted effort for little
+external incentive to perform the task. There are several
+reasons to reject this account of the present experimental
+results. Neither the main effect for need for cognition
+nor the interaction of task and need for cognition approached significance on the measure of perceived effort
+expended on the task. The effort justification formulation, therefore, fails to anticipate the interaction obtained on the attitude measure. Alternatively, one might
+argue that dissonance arousal was constant for individuals high versus low in need for cognition (and greater
+for complex than simple-task conditions) but that dissonance reduction followed along different modes for
+individuals high versus low in need for cognition. This
+account is implicated, however, by failures to find main
+effects or interactions involving need for cognition on
+measures of perceived choice and source derogation (cf.
+Shaffer & Hendrick, 1974). Thus, dissonance accounts
+seem irrelevant or unparsimonious, given the observed
+responses to manipulation checks, attitude measures,
+and ancillary items.
+10
+It should be apparent from this analysis that need
+for cognition is a predisposition that may or may not
+influence behavior, depending on the specific situation
+in which the individuals find themselves. That is, it is
+viewed as a tendency rather than as an invariant trait
+
+128
+
+JOHN T. CACIOPPO AND RICHARD E. PETTY
+
+correlational analyses disclosed that the higher
+the subjects' need for cognition scores, the
+less likely they were to derogate the
+experimenter by rating her as unjustified
+(/• = -.22*TV = 97, p < .03) or incompetent
+(r = -.23, N=97,p< .03). These data are
+consistent with the conception that people
+high in need for cognition tend to engage in
+and enjoy thinking about the central task at
+hand rather than responding to the peripheral
+cues associated with the task, which people
+low in need for cognition might be more likely
+to do (e.g., derogating the source—see Petty
+& Cacioppo, 198la, Ch. 9).
+Finally, analyses of the first part of Study
+4, which was a replication of Study 3, indicated that (a) the correlation between need
+for cognition and dogmatism (r = —.23, N =
+97, p < .05) was similar to that obtained
+previously and that (b) the correlation between need for cognition and social desirability, though small, was statistically significant (r = .21, N = 97, p < .05). Regarding
+this latter correlation, we can note that the
+major difference between Studies 3 and 4
+was that subjects completed the scales as a
+member of a group in a classroom in Study
+3 and while seated individually in cubicles
+in Study 4. This lends some credence to the
+caveat raised in the discussion of Study 3:
+The present version of the Need for Cognition Scale, with its strong face validity,
+may be susceptible to social desirability
+biases when subjects believe that their responses might not be anonymous and/or that
+they are being monitored by an evaluative
+person or audience. Nevertheless, this correlation was weak in the present study, and
+social desirability biases did not change the
+pattern of data obtained.11
+In sum, number-circling and analogous
+tasks have been used effectively in past research to tax subjects' processing capacity
+to diminish their thinking about a persuasive
+communication (see Petty & Brock, 1981 for
+a review of this literature). Subjects' ratings
+or disposition. Thus, we concur with Cohen et al.'s
+(1955) use of the term need for cognition to mean that
+it is an individual difference that directs behavior toward
+a goal and causes tension when this goal is not attained
+(see Footnote 2 for further discussion of this point).
+
+clearly indicated that the complex version
+of the task was perceived as being more cognitively effortful than the simple version.
+Moreover, individuals classified as high in
+need for cognition by the scale found the
+simple version more unpleasant than the
+complex version, whereas individuals classified as low in need for cognition found the
+complex version more unpleasant than the
+simple (less cognitively demanding) version
+of the task. These data can be explained by
+considering individual differences in people's
+tendency to enjoy complex problem-solving
+activities.
+General Discussion
+Scale Construction and Reliability
+The Need for Cognition Scale was developed in Study 1, where a pool of items with
+strong face validity for measuring the need
+for cognition was generated and revised to
+meet the criterion of ambiguity. The response bias of acquiescence was minimized
+by working some items for reverse scoring
+(i.e., a' negative rather than positive answer
+indicates a high need for cognition). In addition, the instructions for completing the
+scale emphasized that there were no correct
+or incorrect answers and that responses to
+the questions were anonymous. These instructions were designed to mitigate against
+other response biases, which they apparently
+were effective in doing; the results of Studies
+2-4 indicated that neither test anxiety nor
+social desirability were problematic biases
+when the Need for Cognition Scale was administered in its present form.
+In Study 1, the number of items with
+which we began was trimmed to 45 and ad1
+' Partial correlations were calculated between heed
+for cognition and the other dependent measures collected in the study. These partial correlations, which
+statistically eliminated the effects of social desirability,
+revealed the same pattern of data and levels of statistical
+significance as reported in the text. Thus, self-presentational biases are unlikely accounts for the experimental results. Moreover, the present complement of results
+suggest that people are not responding in a manner that
+simply serves to boost their esteem in their own eyes,
+since their level of need for cognition also proved to have
+predictive validity.
+
+NEED FOR COGNITION
+
+ministered to groups known to differ in their
+need for cognition. The low-need-for-cognition group consisted of people who perform
+repetitive, monotonous tasks for a living—
+factory workers who serve on assembly lines
+for the manufacture of automotive and
+heavy equipment parts. The high-need-forcognition group consisted of people who presumably engage in and enjoy thinking for
+a living—university faculty in selected departments from a major state university. The
+criterion of irrelevance was applied by selecting for inclusion in the Need for Cognition Scale only those items that discriminated between the responses of these groups.
+Finally, the criterion of internal consistency
+was met by the included items, with each
+correlation between individual items and the
+total need-for-cognition score and the splithalf reliability coefficient reaching acceptable levels of statistical significance (ps <
+.01). The final scale included 34 of the 45
+items that were administered in Study 1 (see
+Tables 1 and 2).
+A factor analysis of these selected items
+revealed one major factor, with strong, positive weightings on all 34 items (see Table
+3). Study 2 was conducted primarily to determine the stability of this factor structure.
+Students from an introductory psychology
+course constituted a subject pool that was
+markedly more homogenous than the pool
+used in Study 1. Nevertheless, one major
+factor again was obtained. Moreover, the
+pattern of factor weightings found in Studies
+1 and 2 was very similar (r - .76, TV = 34
+factor weightings, p < .001). Thus, the items
+and test not only exhibited strong internal
+consistency, but the scale exhibited a stable
+factor structure (see Table 3).
+In sum, the response by any single individual to any given item is determined by
+several factors, most of which are unrelated
+to the individual's need for cognition. The
+strong dominance of a single factor, the stable factor weightings, and the high, internal
+consistency that was obtained indicate that
+the shared variation of the items reliably
+assessed a common factor. Moreover, this
+common factor is unlikely to be an artifact
+of response biases, since instructions and
+item wording were designed to minimize ac-
+
+129
+
+quiescence and self-presentation, and correlations between need for cognition and
+both social desirability and test anxiety were
+nonsignificant or weak.
+
+Validity
+The results of the present; series of studies
+speak well for the validity of the scale as a
+measure of the construct—need for cognition. The scale was derived by generating
+items with face validity and selecting for inclusion those that discriminated between individuals who possessed high versus low need
+for cognition. This empirical method of deriving the scale enhances the confidence one
+can place on the construct validity of the
+scale. Convergent and discriminant validity
+for the scale are suggested by the results of
+Studies 2-4. A series of hypotheses was generated regarding probable interrelationships
+that might exist between need for cognition
+and other constructs (e.g., field independence, open-mindedness, overall ACT
+scores). In addition, scales in which need for
+cognition was not expected to covary were
+also identified and administered (e.g., test
+anxiety, social desirability). The pattern of
+correlations strongly supported the validity
+of the scale for measuring need for cognition
+per se.
+Content validity, or the extent to which
+the items in the scale represent all the possible positions on the dimension of need for
+cognition, cannot be determined in a statistical manner. However, the scale was developed in a manner that enhances the likelihood of content validity, since we began with
+a sizable pool of diverse items and selected
+for the populations in which to develop the
+scale groups of individuals who were thought
+to fall near the extremes on the dimension
+of need for cognition. Inspection of the retained items in Table 1 indicates the good
+content validity of the scale.
+Finally, the predictive validity of the scale
+was evident in the results of Study 4. Subjects performed the number-circling task
+because they believed it was important for
+research purposes. Attitudes toward the
+number-circling task would have appeared
+to have been unaffected by the complexity
+
+130
+
+JOHN T. CACIOPPO AND RICHARD E. PETTY
+
+of the rules had individual differences in
+need for cognition not been considered. With
+an assessment of need for cognition included,
+the pattern of data was easily interpretable
+and interesting. No one greatly enjoyed the
+number-circling task, but people who scored
+high on the Need for Cognition Scale found
+more unpleasant the task that required them
+to implement a simple rather than complex
+set of rules; people who scored low on the
+scale rated more unpleasant the task with
+complex rather than simple rules. These data
+clearly suggest the utility of identifying and
+measuring individual differences in people's
+tendency to engage in and enjoy thinking—
+their need for cognition.
+One aspect of the experimental results
+that holds special promise for future research is to be found in the correlational
+analyses that hinted that individuals who
+have a low rather than a high need for cognition are more likely to think about and
+derogate the experimenter. Over the past
+three decades, theorists in attitude research
+have generally described the persuasion process as either one in which message recipients actively process the arguments presented in a communication or one in which
+the message arguments are virtually irrelevant to persuasion, since attitude change results from various noncontent cues in the
+situation, such as the competence of the
+source (see Cacioppo & Petty, 1980; Cialdini, Petty, & Cacioppo, 1981; Petty & Cacioppo, 198 Ib). We have characterized people as traveling under specified circumstances
+one of two routes to persuasion (see Petty
+& Cacioppo, 1981(a), Ch. 9). Under the
+first, or "central route," thinking about issue-relevant information is the most direct
+determinant of the direction and amount of
+persuasion produced. Under the second, or
+"peripheral route," noncontent cues in the
+persuasion setting (e.g., speed of speech or
+expertise), which allow a person to evaluate
+a communication or decide what attitudinal
+position to adopt without engaging in any
+extensive cognitive work relevant to the issue
+under consideration, are the most direct determinants of attitude change.
+An important situational determinant of
+which route will be followed is how exten-
+
+sively is the message recipient personally involved with the issue under consideration
+(cf. Petty & Cacioppo, 1979, 1981b). When
+personal involvement is high, rational processing of the message content tends to predominate. When a message is on a topic of
+low personal importance, noncontent features of the persuasion setting tend to be
+more important in determining attitude
+change. An important dispositional determinant of which route will be followed may
+be the extent to which recipients are motivated by their need for cognition to think
+about issues that they confront. Research
+that examines the role of need for cognition
+as a moderator variable in determining
+which route to persuasion will be traveled
+would be highly informative.
+Reference Note
+1. E. Stotland, personal communication, 1979.
+
+References
+Asch, S. Social psychology. New York: Prentice-Hall,
+1952.
+Blumenthal, A. L. The process of cognition. Englewood
+Cliffs, N. J.: Prentice-Hall, 1977.
+Brehm, J., & Cohen, A. Explorations in cognitive dissonance. New York: Wiley, 1962.
+Cacioppo, J. T., & Petty, R. E. Sex differences in influenceability: Toward specifying the underlying processes. Personality and Social Psychology Bulletin,
+1980,6, 651-656.
+Cialdini, R. B., Petty, R. E., & Cacioppo, J. T. Attitudes
+and attitude changes. In M. R. Rosenweig & L. W.
+Porter (Eds.), Annual review of psychology (Vol. 32).
+Palo Alto, Calif.: Annual Reviews, 1981.
+Cohen, A. R. Need for cognition and order of communication as determinants of opinion change. In C.
+I. Hovland (Ed.), The order of presentation in persuasion. New Haven, Conn.: Yale University Press,
+1957.
+Cohen, A. R., Stotland, E., & Wolfe, D. M. An experimental investigation of need for cognition. Journal
+of Abnormal and Social Psychology, 1955, SI, 291294.
+Crowne, D. P., & Marlowe, D. The approval motive.
+New York: Wiley, 1964.
+Festinger, L. A theory of cognitive dissonance. Stanford, Calif.: Stanford University Press, 1957.
+French, J. W., Ekstrom, R. B., & Price, L. A. Kit of
+reference test for cognitive factors. Princeton, N.J.:
+Educational Testing Service, 1963.
+Goodenough, D. R. Field dependence. In H. London
+& J. Exner, Jr. (Eds.), Dimensions of personality.
+New York: Wiley, 1978.
+
+NEED FOR COGNITION
+Heider, F. The psychology of interpersonal relations.
+New York: Wiley, 1958.
+Jones, E. E., & Gerard, H. B. Foundations of social
+psychology. New York: Wiley, 1967.
+Katz, D. The functional approach to the study of attitudes. Public Opinion Quarterly, 1960, 24, 163-204.
+Maslow, A. H. Dynamics of personality organization,
+I & II. Psychological Review, 1943, 50, 514-558.
+McClelland, D. C., Atkinson, J. W., Clark, R. A., &
+Lowell, E. L. The achievement motive. New York:
+Appleton, 1953.
+Mehrabian, A., & Banks, L. A questionnaire measure
+of individual differences in achieving tendency. Educational and Psychological Measurement, 1978,38,
+475-478.
+Mills, C., & Hogan, R. A role theoretical interpretation
+of personality scale item responses. Journal of Personality, 1978, 46, 778-785.
+Murphy, G. Personality: A biosocial approach to
+origins and structure. New York: Harper, 1947.
+Osgood, C., & Tannenbaum, P. The principle of congruity in the prediction of attitude change. Psychological Review, 1955, 62, 42-55.
+Petty, R. E., & Brock, T. C. Thought disruption and
+persuasion: Methodological and theoretical considerations. In R. E. Petty, T. M. Ostrom, & T. C. Brock
+(Eds.), Cognitive response in persuasion. Hillsdale,
+N.J.: Erlbaum, 1981.
+Petty, R. E., & Cacioppo, J. T. Issue involvement can
+increase or decrease persuasion by enhancing message-relevant cognitive responses. Journal of Personality and Social Psychology, 1979, 37, 1915-1926.
+Petty, R. E., & Cacioppo, J. T. Attitudes and persuasion: Classic and contemporary approaches. Dubuque, Iowa: Wm. C. Brown, 1981. (a)
+
+131
+
+Petty, R. E., & Cacioppo, J. T. Issue involvement as a
+moderator of the effects on attitude of advertising
+content and context. Advances in Consumer Research, 1981, 8, 20-24. (b)
+Rokeach, M. The open and closed mind. New York:
+Basic Books, 1960.
+Sarason, I. G. Experimental approaches to test anxiety:
+Attentional and the uses of information. In C. D.
+Spielberger (Ed.), Anxiety: Current trends in theory
+and research (Vol. 2). New York: Academic Press,
+1972.
+Sarnoff, I., & Katz, D. The motivational bases of attitude change. Journal of Abnormal and Social Psychology, 1954,49, 115-124.
+Shaffer, D. R., & Hendrick, C. Effects of actual effort
+and anticipated effort on task enhancement. Journal
+of Experimental Social Psychology, 1971, 7, 435447.
+Shaffer, D. R,, & Hendrick, C. Dogmatism and tolerance for ambiguity as determinants of differential
+reactions to cognitive inconsistency. Journal of Personality and Social Psychology, 1974, 29, 601-608.
+Troldahl, V. C., & Powell, F. A. A short-form dogmatism scale for use in field studies. Social Forces,
+1965,^,211-214.
+Witkin, H. A., Dyk, R. B., Faterson, H. F., Goodenough, D. R., & Karp, S. A. Psychological differentiation. Potomac, Md.: Erlbaum, 1974. (Originally
+published, 1962)
+Wyer, R. S., Jr., & Carlston, D. E. Social cognition,
+inference, and attribution. Hillsdale, N.J.: Erlbaum,
+1979.
+
+Received December 30, 1980
+
+

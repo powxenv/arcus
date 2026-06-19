@@ -1,0 +1,1958 @@
+Journal of Personality and Social Psychology
+1996, Vol. 71, No. 2, 390-405
+
+Copyright 1996 by the American Psychological Association, Inc.
+0022-3514/96/S3.00
+
+Individual Differences in Intuitive-Experiential
+and Analytical-Rational Thinking Styles
+Seymour Epstein and Rosemary Pacini
+
+Veronika Denes-Raj
+Pace University
+
+University of Massachusetts at Amherst
+
+Harriet Heier
+University of Massachusetts at Amherst
+Two studies provide evidence for the reliability and validity of a new self-report measure of individual
+differences in intuitive-experiential and analytical-rational thinking based on cognitive-experiential self-theory (CEST). The Rational-Experiential Inventory (REI) was constructed to measure
+the 2 independent processing modes with a modified Need for Cognition Scale (NFC, J. T. Cacioppo
+& R. E. Petty, 1982) and a new scale, Faith in Intuition (FI). In Study 1, a factor analysis yielded 2
+orthogonal factors corresponding to NFC and FI. Although heuristic processing was determined
+primarily by FI, NFC also contributed to heuristic responding, in line with CEST. The relation of FI
+and NFC to coping ability also was examined. In Study 2, the factor structure of the REI was replicated (A' = 973). NFC and FI were differentially related to measures of personality, adjustment,
+achievement, and interpersonal relations.
+
+Psychologists from various persuasions have proposed two
+fundamentally different modes of processing information: one
+that has been variously referred to as intuitive (Jung, 1964/
+1968), natural (Tversky & Kahneman, 1983), automatic
+(Bargh, 1989; Higgins, 1989),/!e«rz.tfzc(Chaiken, 1980; Fiske
+& Taylor, 1991; Tversky & Kahneman, 1983), schematic
+(Leventhal, 1984), prototypical (Rosch, 1983), narrative
+(Bruner, 1986), implicit (Weinberger & McClelland, 1991),
+imagistic-nonverbal (Bucci, 1985; Paivio, 1986), experiential
+(Epstein, 1983), mythos (Labouvie-Vief, 1990), and first-signal system (Pavlov, cited in Luria, 1961) and the other as thinking-conceptual-logical (Buck, 1985; Leventhal, 1984; Jung,
+1964/1968), analytical-rational (Epstein, 1983), deliberative-effortful-intentional-systematic (Bargh, 1989; Chaiken,
+1980; Higgins, 1989), explicit (Weinberger & McClelland,
+1991), extensional (Tversky & Kahneman, 1983), verbal
+(Bucci, 1985; Paivio, 1986), logos (Labouvie-Vief, 1990), and
+second-signal system (Pavlov, cited in Luria, 1961).
+Although considerable research and theorizing have been devoted to explaining the nature of these processes (see references
+
+Seymour Epstein, Rosemary Pacini, and Harriet Heier, Department
+of Psychology, University of Massachusetts at Amherst; Veronika
+Denes-Raj, Pace University Education Outreach Program.
+Preparation of this article and the research reported in it were supported by National Institute of Mental Health (NIMH) Research Grant
+MH 01293 and NIMH Research Scientist Award 5 K05 MH00363 to
+Seymour Epstein. We wish to express our appreciation to Alice H. Epstein for her constructive criticism of a previous version and to Ronald
+Hambleton for his consultation on statistical issues.
+Correspondence concerning this article should be addressed to Seymour Epstein, Department of Psychology, University of Massachusetts,
+Amherst, Massachusetts 01003. Electronic mail may be sent via the Internet to sepstein@psych.umass.edu.
+390
+
+above), relatively little effort has been expended on measuring
+individual differences in the degree to which people characteristically operate in one mode or the other. The few notable exceptions (e.g., Briggs & Myers, 1976; Cacioppo & Petty, 1982)
+have serious limitations with respect to measuring the two
+modes of processing. Assuming that two information processing modes exist, it would be of interest to demonstrate reliable
+individual differences in their relative usage and to have an instrument for effectively measuring those differences. For clinical
+and personality psychologists, individual differences in the degree to which people rely on one mode of thinking or the other
+could be helpful in diagnosing and understanding various psychopathologies. Jung (1964/1968) believed this was the case
+when he proposed that thinking and intuition are among the
+two most basic ways of interpreting information. Although Jung
+provided no way of measuring these functions, Briggs and Myers (1976), influenced by his theory, developed a self-report instrument for measuring related dimensions.
+For social psychologists, a measure of the relative degree to
+which people rely on the two processes could be helpful in understanding receptivity to different kinds of communication.
+For example, appeals to emotions, personal experience, and the
+use of concrete examples could be more effective for individuals
+who process information primarily in an intuitive mode,
+whereas presenting facts and logical arguments could be more
+effective for individuals who process information primarily in
+an analytical mode. Some evidence suggests that this may be
+the case. Cacioppo, Petty, and their associates, among others
+(Axsom, Yates, & Chaiken, 1987; Cacioppo & Petty, 1982; Cacioppo, Petty, & Morris, 1983; Petty, Schumann, Richman, &
+Strathman, 1993), have shown that scores on the Need for Cognition scale (NFC; Cacioppo & Petty, 1982) are related to heuristic processing associated with impression formation and to
+people's receptivity to different kinds of information. It would
+
+INDIVIDUAL DIFFERENCES IN THINKING STYLE
+
+be informative to determine whether a measure of intuitive processing would be independent of, and supplement, the NFC
+scale.
+COGNITIVE-EXPERIENTIAL SELF-THEORY
+
+391
+
+which is directly associated with degree of experiential dominance, and repeated amounts of relevant experience, or "proceduralization" (Anderson, 1982), which also favors experiential processing. With its long evolutionary history, experiential
+processing is often adaptive, but it is ill-suited for solving problems that require logical analysis and an understanding of abstract relations.
+
+The research presented in this article was guided by a global
+theory of personality referred to as cognitive-experiential selftheory (CEST; Epstein, 1990, 1991, 1993, 1994). CEST proBASIC AIMS
+poses that people process information by two parallel, interactive systems: a rational system and an experiential system. AcThree aims guided the research reported in this article. The
+cording to CEST, the rational system operates primarily at the
+broadest aim was to obtain information relevant to the conconscious level and is intentional, analytic, primarily verbal,
+struct validity of CEST. A more specific aim was to develop a
+and relatively affect free. The experiential system is assumed to
+reliable self-report measure of individual differences in intube automatic, preconscious, holistic, associationistic, primarily
+itive-experiential and analytical-rational thinking styles. A
+nonverbal, and intimately associated with affect. Heuristic prothird aim was to examine the correlates of the two self-reported
+cessing represents the natural mode of the experiential system
+thinking styles, including a propensity toward heuristic process(Epstein, Lipson, Holstein, & Huh, 1992). Further details on
+ing, coping ability, adjustment, and gender differences.
+the comparative properties of the two systems are outlined in
+Table 1.
+THE CONSTRUCT VALIDATION OF CEST
+Behavior and conscious thought are a joint function of the
+two systems. The systems normally engage in seamless, inteAccording to CEST, there are important individual differgrated interaction, but they sometimes conflict, experienced as
+ences in the degree to which people rely on the experiential and
+a struggle between feelings and thoughts (e.g., Denes-Raj & Eprational modes of information processing. We examine this in
+stein, 1994). The degree of relative dominance of either system
+the present article by determining whether reliable self-report
+in particular situations is determined by various parameters,
+scales of experiential and rational processing can be conincluding individual differences in preference for relying on one
+structed, by determining whether heuristic responses to a broad
+system more than the other, the degree to which the situation is
+range of specially constructed vignettes reveal reliable individassociated with a customary way of responding (e.g., matheual differences, and by establishing whether the two measures of
+matics problems are primarily responded to in the mode of the
+individual differences are reliably related.
+rational system and interpersonal problems in the mode of the
+CEST views heuristic processing as the operation of an orgaexperiential system), the degree of emotional involvement,
+nized, adaptive system—the experiential system, which is inde-
+
+Table 1
+Comparison ofthe Experiential and Rational Systems
+Experiential system
+
+Rational system
+
+1. Holistic
+2. Automatic, effortless
+3. Affective: Pleasure-pain oriented (what feels good)
+4. Associationistic connections
+5. Behavior mediated by "vibes" from past events
+
+1. Analytic
+2. Intentional, effortful
+3. Logical: Reason oriented (what is rational)
+4. Logical connections
+5. Behavioral mediated by conscious
+appraisal of events
+6. Encodes reality in abstract symbols,
+words, and numbers
+7. Slower processing: oriented toward
+delayed action
+8. Changes more rapidly and easily: changes
+with strength of argument and new
+evidence
+9. More highly differentiated
+
+6. Encodes reality in concrete images, metaphors,
+and narratives
+7. More rapid processing: oriented toward
+immediate action
+8. Slower and more resistant to change: Change with
+repetitive or intense experience
+9. More crudely differentiated: Broad generalization
+gradient; stereotypical thinking
+10. More crudely integrated: Dissociative, emotional
+complexes; context-specific processing
+11. Experienced passively and preconsciously: we are
+seized by our emotions
+12. Self-evidently valid: "Experiencing is believing"
+
+10. More highly integrated: Context-general
+principles
+11. Experienced actively and consciously: We
+are in control of our thoughts
+12. Requires justification via logic and
+evidence
+
+Note. From "Cognitive-Experiential Self-Theory: An Integrative Theory of Personality" by S. Epstein,
+1991, in R. C. Curtis, Editor, The Relational Self: Theoretical Convergences in Psychoanalysis and Social
+Psychology, New York: Guilford Press. Copyright 1991 by Guilford Press. Adapted by permission.
+
+392
+
+EPSTEIN, PACINI, DENES-RAJ, AND HEIER
+
+pendent from the rational system. This is in contrast to the prevailing view of heuristic processing as consisting of independent
+cognitive shortcuts. The views of Tversky and Kahneman are
+inconsistent in this respect. In a discussion of the surprising
+prevalence of conjunction errors in responses to the notorious
+Linda vignette, Tversky and Kahneman (1983) concluded that
+there is a "natural" mode of processing that operates by different rules from a rational, or "extensional," mode. In other
+contexts they discuss heuristic processing as separate strategies
+(e.g., anchoring, availability, representative, simulation) employed within a single processing system that includes rational
+thinking. As a result, their theory has been referred to as a "tool
+box theory" because they view heuristics as convenient cognitive shortcuts "selected from a mental toolbox of reasoning procedures" (Pennington, 1990, p. 32). An issue of considerable
+theoretical importance is whether heuristic processing consists
+of a series of independent shortcut strategies or represents the
+operation of an organized, adaptive system. The present study
+can contribute to the resolution of this issue because, to the
+extent that there are two organized, adaptive independent yet
+interacting systems, people can be expected to differ in the degree to which they rely on each. Thus, evidence for reliable,
+broad individual differences across stimuli would provide support for the existence of the integrated systems postulated by
+CEST.
+
+Constructing a Measure of Individual Differences in
+Thinking Style: One Bipolar or
+Two Unipolar Dimensions?
+A critical issue in developing a measure of experiential and
+rational thinking styles is whether the items should be constructed to be bimodal (e.g., "I am more of a 'thinking-type'
+person than a 'feeling-type' person") or unimodal (e.g., "I believe in trusting my hunches" and "I enjoy intellectually challenging problems"). Although CEST assumes that there are
+two modes, it makes no assumption regarding whether they operate in reciprocal relation to each other or orthogonally. This
+issue remains to be resolved empirically by constructing independent scales and determining whether they are inversely related or independent.
+A search through the literature revealed two self-report measures, the Myers-Briggs Type Indicator (MBTI; Briggs & Myers,
+1976) and the NFC scale (Cacioppo & Petty, 1982), that
+seemed relevant to our conceptualization of individual differences in rational and experiential processing. The MBTI, influenced by Jungian theory, provides scores, among others, on
+two relevant dimensions—thinking versus feeling and sensing
+versus intuiting—that are bipolar and therefore not useful for
+resolving the issue of unipolarity versus bipolarity. Cacioppo
+and Petty's NFC scale contains items that focus on engagement
+in and enjoyment of intellectual activities. As such, the scale is
+relevant to rational processing but provides no information on
+experiential processing.
+Therefore, in constructing the Rational-Experiential Inventory (REI), we decided to include two unipolar dimensions that
+would correspond to rational and experiential processing, as
+proposed by CEST. To measure analytic-rational processing,
+we adopted the NFC scale, a reliable, valid measure (Cacioppo
+
+& Petty, 1982). Because no available inventory covered the intuitive-experiential dimension envisioned by CEST, we constructed our own measure. We generated a pool of items to measure engagement and confidence in one's intuitive abilities. The
+development of a coherent, workable scale to measure intuitiveexperiential processing took place informally over several years
+(see Epstein et al., 1992), and so it is difficult to outline the
+process of this scale's development precisely, because it went
+through many changes, spurred on by conceptual refinements,
+wording choices, and psychometric feedback. The result of this
+effort was the creation of a usable scale with face validity and
+adequate reliability (see Block & Kremen, 1996; and Eysenck
+& Eysenck, 1976, for similar descriptions of scale development). We named the intuitive-experiential scale Faith in Intuition (¥1).
+If there are in fact two unipolar dimensions rather than a single bipolar dimension, then it follows that they should not only
+establish unique patterns of relations with other variables
+(ratherthan the equivalent opposites), but they should also supplement each other, because, according to CEST, behavior is a
+joint function of both modes of processing. In summary, a major concern of the study was to establish whether the experiential and rational modes are best measured by two unipolar
+scales or one bipolar scale. In the latter event, the next step
+would be to determine whether single bipolar items would be a
+better way to measure the bipolar dimension than to measure
+each of the poles separately.
+Empirical Correlates of the Two Modes
+of Thinking Style
+According to CEST, the rational and experiential modes represent two fundamental ways in which people process information and thereby adapt to the environment. As such, they carry
+implications for a wide variety of behaviors, such as coping ability, adjustment, gender differences, achievement, and interpersonal relations. Relations of the REI scores to measures of such
+behaviors are explored empirically in the present article.
+OVERVIEW
+In this article we present two studies that evaluate the construct validity of CEST by examining individual differences in
+analytical-rational and intuitive-experiential processing. In the
+first study we present a preliminary version of the REI and examine the relationship of the two self-reported processing dimensions to coping ability, to a non-self-report measure of heuristic processing, and to gender. In the second study we present
+a factor analysis of a subset of the REI items with a large student
+sample and examine the relationships of the two self-reported
+processing dimensions to gender, adjustment, and interpersonal
+relations in order to further establish the construct and discriminant validity of the REI scales.
+Study 1
+In a preliminary attempt to develop an individual-differences
+measure of the two processing modes, we adopted items from
+an already established scale, the NFC scale (Cacioppo & Petty,
+
+393
+
+INDIVIDUAL DIFFERENCES IN THINKING STYLE
+
+1982), and created the FI scale. As already noted, we were particularly interested in whether responses to the two scales were
+inversely related or independent and in examining the relation
+of the REI scales to gender, coping ability, and heuristic responding to vignettes.
+Heuristic responses to vignettes provide an alternate index of
+individual differences in rational and experiential processing.
+In contrast to the self-report scales, the vignettes are non-selfreport measures from which responses may be objectively
+scored as heuristic or rational. The vignettes, adapted from a
+variety of studies of judgmental heuristics (e.g., Kahneman &
+Miller, 1986; Kahneman & Tversky, 1982; Morgan, Larrick, &
+Nisbett, 1990), depict situations that require judgments about
+either the relative degree of distress following arbitrary outcomes or about cost-benefit effects. For example, one vignette
+describes a situation in which usual versus unusual behaviors
+are associated with the same outcome: A man, taking the usual
+route home after considering the scenic route, gets into a car
+accident. Another man, who took the scenic route instead, also
+was involved in an accident. Respondents are asked to judge
+which man would feel more foolish or upset. As the outcome in
+either situation is objectively the same, a response from a rational perspective (i.e., how a completely logical person would
+react) would be that there was no difference between the two
+men in level of distress. From a heuristic perspective (i.e., how
+most people actually behave), the most common response
+would be that the man who took the "unusual" scenic route
+would be more upset than the man who took the usual route,
+because in changing his behavior, he was more responsible for
+the mishap.
+On the basis of CEST we predicted that heuristic responses
+are directly related to intuitive-experiential processing, as heuristic processing represents the natural mode of the experiential
+system. Analytic-rational processing, in contrast, was predicted to be negatively associated with heuristic responding. As
+the two modes are assumed to independently contribute to behavior, scores on the two scales of the REI were expected to
+supplement each other in predicting heuristic responses to
+vignettes.
+In addition to responding to the vignettes from the perspective of the protagonist, which they were told to assume is how
+the average person would respond, participants responded from
+two additional perspectives: how they, themselves, would respond (self perspective) and how a completely logical person
+(logical perspective) would respond. This procedure has been
+used successfully in previous research to demonstrate the
+different operating principles of the rational and experiential
+systems (Epstein, 1994; Epstein et al., 1992; Kirkpatrick & Epstein, 1992). The purpose of eliciting responses to the vignettes
+from three perspectives was twofold. First, reporting how other
+people behave facilitates heuristic processing as it reduces the
+need to present oneself as rational (Kirkpatrick & Epstein,
+1992). Logical-perspective responses permit participants to
+show that they know the rational response but recognize that it
+is not the way most people normally behave. Second, we wished
+to demonstrate that people are intuitively aware of two modes
+of processing information: one that describes how people, including themselves, normally respond in everyday life (the experiential mode) and another that describes a logical manner of
+
+responding (the rational mode). If participants are aware of
+these two modes of processing information, they can alter their
+responses appropriately when asked to make judgments from
+the different perspectives. Although this may appear self-evident, its occurrence would support the two modes proposed by
+CEST; that is, one reason that people would believe in the two
+modes is that they actually exist.
+Responses from a logical perspective are of particular interest, as they provide an objective index of the ability to distinguish between heuristic and logical thinking. That is, to the extent that people produce heuristic responses when attempting
+to adopt a logical perspective, it suggests that they are unable to
+determine that their heuristic responses are not logical. Previous research (Epstein et al., 1992) has indicated that such a
+failure in discrimination is common and that people tend to
+rationalize their heuristic responses as rationally determined.
+We were interested in whether such behavior is associated with
+responses to the two self-report modes of thinking style and,
+more specifically, in whether it is more closely associated with
+experiential processing than with rational processing, as measured by the REI.
+Testing the assumption in CEST that there is a highly general
+experiential processing system is complicated by another assumption: The experiential system operates in a contextspecific manner. Although its basic operating principles are assumed to be the same in all situations, responses to particular
+situations should vary according to the experiences individuals
+have had in them. To the extent that the experiential system
+operates in a context-specific manner, the generality of responses across different kinds of situations should be reduced.
+In contrast, responses influenced by the rational system, which
+operates according to context-free, abstract principles, should
+be more cross-situationally consistent, or general. Thus, we expected that heuristic responses from the self and protagonist
+perspectives, both of which tend to elicit experiential processing, should show less generality across stimuli than responses
+from the logical perspective, which demands rational
+processing.
+
+Method
+Sample and Procedure
+One hundred eighty-four participants (55 men and 129 women), enrolled in undergraduate psychology classes at a large state university,
+volunteered for the study in exchange for experimental credit. They
+received a set of vignettes and inventories that they completed at home.
+They were instructed to complete the vignettes before the questionnaires. All materials were returned at the next class meeting or to a
+secretary.
+
+Materials
+REI. The REI is a 31-item inventory assembled for the purpose
+of constructing a preliminary test of analytic-rational and intuitiveexperiential thinking (see Table 2). The REI consists of two unipolar
+scales: One measures rational thinking and is constructed from a pool
+of items from the original NFC scale (Cacioppo & Petty, 1982), and the
+other measures experiential thinking. Because of time constraints, 19
+items from the original 45-item NFC scale were selected on the basis of
+variations in content and item-total correlations. The short NFC scale,
+
+394
+
+EPSTEIN, PACINI, DENES-RAJ, AND HEIER
+
+like the original, describes the extent to which individuals report that
+they enjoy and engage in, or dislike and avoid, cognitive activities. The
+FI scale includes 12 items, most of which refer to having confidence in
+one's feelings and immediate impressions as a basis for decisions and
+actions. All of the items on the FI scale are positively worded. In preliminary research, we attempted to word half the items in a negative direction, but this produced unsatisfactory internal consistency reliabilities.
+The reason for this may be that negatively wording the items introduced
+a pejorative element. To assert that one's initial impressions of people
+are almost always right is not the opposite equivalent of acknowledging
+that they are almost always wrong. The former is a better measure of
+individual differences because it elicits greater variability in endorse-
+
+ments. Respondents rated all items on a 5-point scale ranging from completelyfalse to completely true.
+Constructive Thinking Inventory (CTIj. The CTI (Epstein, 1990,
+1992a, 1992b; Epstein & Meier, 1989) is a 108-item self-report measure
+of individual differences in automatic constructive and destructive
+thoughts and interpretations of events that occur in everyday life. It provides a Global scale of constructive thinking, and the following additional scales and subscales, or facets: Emotional Coping and its facets of
+Self-Acceptance, Absence of Negative Overgeneralization, Nonsensitivity, and Absence of Dwelling on Unfavorable Events; Behavioral Coping
+and its facets of Action Orientation, Positive Thinking, and Conscientiousness; Personal Superstitious Thinking; Categorical Thinking and
+
+Table 2
+Factor Loadings ofthe Rational-Experiential Inventory Scales
+Factor
+Scale and item
+Need for cognition
+I would rather do something that requires little thought than something that is sure
+to challenge my thinking abilities. (R)
+I don't like to have the responsibility of handling a situation that requires a lot of
+thinking. (R)
+I would prefer complex to simple problems.
+I try to anticipate and avoid situations where there is a likely chance I will have to
+think in depth about something. (R)
+Ifindlittle satisfaction in deliberating hard and for long hours. (R)
+Thinking is not my idea of fun. (R)
+The notion of thinking abstractly is not appealing to me. (R)
+I prefer my life to befilledwith puzzles that I must solve.
+Simply knowing the answer rather than understanding the reasons for the answer to
+a problem isfinewith me. (R)
+I don't reason well under pressure. (R)
+The idea of relying on thought to make my way to the top does not appeal to me.
+(R)
+I prefer to talk about international problems rather than to gossip or talk about
+celebrities.
+Learning new ways to think doesn't excite me very much. (R)
+I would prefer a task that is intellectual, difficult, and important to one that is
+somewhat important but does not require much thought.
+I generally prefer to accept things as they are rather than to question them. (R)
+It is enough for me that something gets the job done, I don't care how or why it
+works. (R)
+I tend to set goals that can be accomplished only by expending considerable mental
+effort.
+I have difficulty thinking in new and unfamiliar situations. (R)
+I feel relief rather than satisfaction after completing a task that required a lot of
+mental effort. (R)
+Faith in Intuition
+My initial impressions of people are almost always right.
+I trust my initial feelings about people.
+When it comes to trusting people, I can usually rely on my "gut feelings."
+I believe in trusting my hunches.
+I can usually feel when a person isrightor wrong even if I can't explain how I know.
+I am a very intuitive person.
+I can typically senserightaway when a person is lying.
+I am quick to form impressions about people.
+I believe I can judge character pretty well from a person's appearance.
+I often have clear visual images of things.
+I have a very good sense of rhythm.
+I am good at visualizing things.
+Eigenvalue
+
+.74
+
+-.08
+
+.71
+
+-.05
+-.02
+
+-.66
+
+-.06
+-.04
+
+.65
+.63
+.59
+.58
+
+-.02
+
+-.57
+
+.01
+
+.57
+.55
+
+-.10
+
+.51
+
+.12
+
+-.49
+.49
+
+-.13
+-.18
+
+.49
+.46
+
+-.00
+
+.44
+
+.20
+
+-.42
+.36
+
+-.18
+-.32
+
+.36
+
+-.00
+
+.02
+.21
+.18
+.18
+.10
+
+-.09
+-.07
+-.19
+
+.76
+.76
+.72
+.64
+.56
+.53
+.46
+.42
+.40
+.35
+.34
+.34
+
+6.15
+
+3.84
+
+-.16
+-.12
+.20
+.22
+
+.11
+
+.16
+
+.04
+
+Note. N = 184. Values in boldface type indicate the highest factor loading for each item. (R) = reverse
+scored.
+
+INDIVIDUAL DIFFERENCES IN THINKING STYLE
+its facets of Polarized Thinking, Distrust of Others, and Intolerance;
+Esoteric Thinking and its facets of Belief in the Unusual and Formal
+Superstitious Thinking; and Naive Optimism and its facets of Overpositivity, Stereotypical Thinking and Pollyanna-ish Thinking.
+The CTI has well-documented evidence of construct validity and reliability. The internal consistency reliability coefficients of its major
+scales are in the high .80s and low .90s (Epstein, 1990). CTI scores have
+been shown to be significantly associated with a variety of measures of
+success in living, including success in the workplace and social relationships, and mental and physical well-being (e.g., Epstein, 1992a, 1992b;
+Epstein &Brodsky, 1993; Epstein &Katz, 1992; Epstein & Meier, 1989;
+Katz & Epstein, 1991).
+Vignettes. The vignette measure (see Appendix) consisted of eight
+vignettes depicting situations that require judgments about relative degree of distress following arbitrary outcomes after near versus far misses
+(2 vignettes), usual versus unusual behaviors (3 vignettes), and acts of
+commission versus omission (3 vignettes). Three other vignettes required judgments about cost-benefit effects. The vignettes presented
+alternative versions of events that have the same outcome.
+The instructions called for participants to respond to each of the vignettes by indicating in which version, if either, they believed the protagonist would feel more upset or foolish, or behave in a more irrational
+way. After making their responses from the perspective of the protagonist, whom they were told to regard as "the average person," participants
+were instructed to make similar ratings from the perspective of how
+they, themselves (self perspective), would react if they were in the position of the protagonist, and how a "completely logical person" (logical
+perspective) would react.
+Nonrational responses to the situations described in the vignettes
+constituted heuristic responses. For example, in one of the near- versus
+far-misses vignettes, reporting that one would feel more foolish for missing a plane by 5 min (near miss) than missing it by 30 min (far miss)
+when the near miss was caused by an unexpected delay in the departure
+of the aircraft was scored as a heuristic response. An example of a heuristic response to a cost-benefit vignette is reporting that one would eat
+more of an unappetizing, expensive pastry than of a cheaper one. We
+computed three heuristic response scores, corresponding to the three
+perspectives (protagonist, self, and logical), by summing the number of
+nonrational responses from each perspective across the 11 vignettes.
+
+Results and Discussion
+Self-Reported Rational-Experiential Processing
+It will be recalled that the REI consists of two scales, NFC
+and FI, which measure rational and experiential processing, respectively (see Table 2). Because of time limitations, we administered a specially constructed shortened version of Cacioppo
+and Petty's (1982) NFC scale. Items for the FI scale were constructed on a face-valid basis, and those that reduced internal
+consistency reliabilities were eliminated. The final version of
+the modified NFC scale consisted of 19 items and was reasonably reliable (a = .87). The final version of the new FI scale
+consisted of 12 items and had moderate reliability (a = .77).
+The average interitem correlations were .26 and .23 for the NFC
+and FI scales, respectively.
+The 31 items of the REI 'were entered into a principal-components factor analysis with varimax rotation (see Table 2). A
+scree test indicated that little added variance was explained beyond a two-factor solution, which accounted for 32.2% of the
+total variance. Thefirstrotated factor (19.8%) contained all the
+items from the new NFC scale, and the second factor (12.4%)
+corresponded to the FI scale. All items loaded above. 30 on their
+
+395
+
+respective factors. Only one item from the NFC scale ("I have
+difficulty thinking in new and unfamiliar situations") seemed
+to discriminate poorly between the two factors. However, because its loading was higher on the NFC factor than on the FI
+factor, and because its removal would have lowered the NFC
+reliability, it was retained. Items were summed, and scale means
+and standard deviations were computed (NFC: M = 64.29, SD
+= 10.54; FI: M = 41.13, SD = 6.08). The NFC and FI scales
+are not significantly related to each other (r = —.07), which
+provides evidence that rational and experiential processing are
+independent. Thus, the results of both the reliability and factor
+analyses suggest that NFC and FI are reliable, independent
+constructs.
+Gender comparisons of REI scores showed that men (M =
+67.02) scored higher on the NFC scale than women (M =
+63.14), t{ 182) = 2.31, p < .05. However, as shown in Study 2
+(of this article), this gender difference was not replicated with a
+much larger sample. There was no significant gender difference
+in FI scores. FI and NFC were not significantly intercorrelated
+for either men or women. Because of gender differences in NFC
+scores in Study 1, subsequent analyses that included the entire
+sample controlled for gender effects, and separate analyses were
+conducted for men and women.
+
+Relation ofRational and Experiential Processing to
+Measures of Coping and Adjustment
+To examine the relation of experiential and rational processing to coping ability, we computed correlations between REI
+and CTI scores, which are presented by gender and total sample
+(see Table 3). We corrected all correlations for attenuation using reliability information from both the CTI and REI. These
+correlations provide evidence for the convergent and discriminant validity of the REI scales. That the correlations of coping
+measures with NFC scores are generally stronger than those
+with FI scores suggests that rational processing may be more
+critical for effective coping (one can't afford to be irrational),
+whereas one can cope effectively across a wide range of intuitive
+processing. People with high NFC scores tend to be generally
+good constructive thinkers, to avoid negative overgeneralization, to take effective action to solve problems, and to avoid
+being unrealistically optimistic. People with high FI scores, on
+the other hand, report being more naive and holding more unrealistic beliefs than others. They also report conventionally
+proper, stereotyped views, such as that everyone should love
+their mothers.
+Some interesting, unpredicted relationships moderated by
+gender also emerged. NFC was significantly related to Global
+Constructive Thinking, Emotional Coping and its facets of Absence of Negative Overgeneralization and Nonsensitivity, and to
+the Behavioral Copying facet of Positive Thinking in men, but
+not in women (all Zs > 2.04). This suggests that NFC in men
+is more important for determining general coping ability than
+in women. In women, Distrust is more strongly related to both
+NFC and FI than in men (Zs = 2.16 and 2.09, p < .05,
+respectively) and indicates that women who report high confidence in their rationality and low confidence in their intuitions
+tend to be less trusting of others. For women, having a thinking
+style that runs counter to the one stereotypically associated with
+
+396
+
+EPSTEIN, PACINI, DENES-RAJ, AND HEIER
+
+Table 3
+Correlations ofScores From the Constructive Thinking Inventory (CTI) and the Rational-Experiential Inventory
+Need for Cognition
+
+Faith in Intuition
+
+CTI scale3
+
+Men
+
+Women
+
+Total
+
+Men
+
+Women
+
+Total
+
+Global Constructive Thinking (.89)
+Emotional Coping (.91)
+Self Acceptance (.80)
+Absence of Negative Overgeneralization (.71)
+Non-Sensitivity (.81)
+Absence of Dwelling (.82)
+Behavioral Coping (.83)
+Positive Thinking (.76)
+Action Orientation (.74)
+Conscientiousness (.64)
+Personal Superstitious Thinking (.78)
+Categorical Thinking (.78)
+Polarized Thinking (.69)
+Distrust (.76)
+Intolerance (.69)
+Esoteric Thinking (.88)
+Belief in the Unusual (.85)
+Formal Superstition (.74)
+Naive Optimism (.75)
+Over Optimism (.75)
+Stereotypical Thinking (.49)
+Pollyanna-ish Thinking (.58)
+
+.42**
+.36*
+.00
+.46**
+.44**
+.27
+.49***
+.44**
+.49**
+.40*
+-.20
+-.18
+-.19
+-.09
+-.20
+-.11
+.03
+-.27
+-.43**
+-.44**
+-.10
+-.45*
+
+.07
+.00
+-.08
+.16
+.05
+-.06
+.27***
+.00
+.38***
+.18
+-.02
+.17
+-.09
+.26*
+.13
+-.02
+.00
+-.06
+_ 37 *»*
+-.25*
+-.37**
+-.27*
+
+.17*
+.09
+-.06
+.26**
+.15
+.03
+.34***
+.13
+.41***
+.25**
+-.08
+.06
+-.13
+.16
+.04
+-.06
+.01
+-.13
+-.37***
+-.32***
+-.28*
+-.32**
+
+.17
+.08
+.22
+-.20
+.01
+.23
+.17
+.25
+.12
+.22
+.10
+.01
+.09
+.09
+-.25
+.35*
+.41*
+.25
+.18
+-.11
+.45*
+.28
+
+.02
+-.11
+-.04
+-.03
+-.15
+-.14
+.16
+.20
+.05
+.33*
+.01
+-.01
+.21
+-.25*
+.00
+.28**
+.27*
+.28*
+.22
+.01
+.17
+.34**
+
+.07
+-.05
+.02
+-.08
+-.10
+-.04
+.16
+.21*
+.06
+.28**
+.04
+-.01
+.18
+-.16
+-.07
+.30***
+.31***
+.27**
+.20*
+-.03
+.26*
+.31*
+
+Note. Men, n = 55; women, n = 129. Gender is partialed out of total sample correlations. Boldface type indicates a significant gender difference.
+Correlations are maximally corrected for attenuation. Significance levels refer to uncorrected correlations.
+a
+CTI reliabilities are in parentheses.
+* p < . 0 5 . **/?<.01. ***/><.001.
+
+femininity (low rationality, strong intuition) may translate into
+difficulties in interpersonal relations. Other correlations between thinking style and coping suggest different patterns for
+men and women. For example, conscientious men tended to be
+high in NFC, whereas conscientious women tended to be high in
+FI. Stereotypical thinking tended to be less likely among women
+high in NFC, whereas it was more likely in men with high FI
+scores. For both genders, correlations between NFC and Behavioral Coping and its facet of Action Orientation and naive Optimism and its three facets suggest that for both genders, rationality is associated with constructive behavioral coping and inversely related to thinking in more primitive, naive ways.
+In sum, the unipolar scales are clearly not opposite equivalents of each other. As expected, rational processing is associated with constructive, action-oriented coping, whereas experiential processing is associated with affectively positive, although
+naive and unrealistic, thinking patterns.
+To test for the joint contribution of the REI scores in predicting coping ability, we conducted regressions using CTI scores
+as dependent variables. The predictors, in order of entry, were:
+gender (a control variable), NFC and FI, and the interaction of
+NFC and FI. In general, the regression analyses confirmed what
+is shown in Table 3: NFC and FI have different coping correlates. However, in predicting two facets of Behavioral Coping,
+NFC and FI had significant additive and interaction effects.
+Similar patterns emerged for the two facets: Action Orientation,
+R = .36, F(4, 179) = 6.65,p <.001, and Conscientiousness, R
+= .38, F(4, 179) = 7.38, p < .001, in which NFC, FI, and the
+interaction term were all significant predictors. For both facets,
+
+the most unique variance was contributed by NFC (3%-6%),
+followed by FI (2%-6%) and the interaction term (2%-4%).
+Furthermore, NFC, FI, and the interaction term were all significant predictors of Action Orientation in men, R = .48, F( 3,
+51) = 4.97, p < .01, but not in women.
+Generality of Heuristic Responses Across Vignettes
+From Three Perspectives
+We conducted an internal consistency reliability (a) analysis
+of heuristic responses to the 11 vignettes from each of the three
+perspectives. The average interitem correlations for the protagonist, self, and logical perspectives were, respectively, .08, .07,
+and .32. The corresponding reliability coefficients were .50, .46,
+and .84. The logical-perspective average interitem correlation
+was significantly greater than the average interitem correlations
+for the self and protagonist perspectives (Zs > 3.50, p < .001),
+which did not differ significantly from each other. These coefficients indicate that generality of heuristic responding across
+vignettes is exhibited in all three perspectives, but the degree of
+generality is significantly greater for responses from a rational
+(how a logical person would behave) than from an experiential
+(how the average person or self behaves in real life) perspective.
+Do people who respond more heuristically than others from
+one perspective do the same from the other perspectives? To answer this question, we computed correlations across the different perspectives. The correlation between the self and protagonist perspectives was substantial, r(184) = .72, whereas the correlations of the self and protagonist perspectives with the logical
+
+397
+
+INDIVIDUAL DIFFERENCES IN THINKING STYLE
+
+perspective were low, albeit statistically significant (rs = .25 and
+.16, respectively). The correlation of .72 is surprising considering that the internal reliability coefficients of the two measures
+are both lower. The explanation is that responses from a self
+and protagonist perspective are not independent, as participants
+regard their heuristic behavior as similar to that of others. Accordingly, although their responses vary as a function of the
+different vignettes, the variation is synchronous between the
+two perspectives. In other words, there is greater variation
+among vignettes than there is between perspectives, accounting
+for the internal consistency coefficients being lower than the correlation between the self and protagonist perspectives. That the
+correlation between the self and the logical perspective is somewhat higher (r = .25) than the correlation between the protagonist and the logical perspectives (r = .16) suggests, consistent
+with other findings (Kirkpatrick & Epstein, 1992), that people
+tend to view themselves as more logical than others. The significant correlations across modes of responding provide evidence of a broad individual-differences variable of the tendency
+to produce heuristic responses.
+Degree of Heuristic Responding to Vignettes From
+Three Perspectives
+As expected, participants were able to vary their responses to
+the vignettes to correspond to the perspectives they were asked
+to adopt. The results from a within-subjects multivariate analysis of variance (MANOVA) showed that they made the greatest
+number of heuristic responses from the protagonist (M - 8.33)
+and the self (M = 7.96) perspectives, and the fewest from the
+logical perspective (M= 4.66), F(2, 366) = 179.40, p< .001.
+There were no significant gender differences in heuristic responding from the protagonist and self perspectives. From the
+logical perspective, however, women (M = 5.00) made more
+heuristic responses than men did (M = 3.87), t{ 182) = 2.15, p
+<.05.
+In summary, these results indicate that people are able to vary
+their responses according to the perspective they are asked to
+adopt, in line with the prediction from CEST that people are
+aware of two modes of processing. Also in line with the theory
+is thefindingthat responses from the rational (logical) perspective are more general than those from the two predominantly
+experiential perspectives (protagonist, self), which is consistent
+with the assumption that the rational system operates by abstract, general principles, whereas experiential processing is
+more context specific.
+Relation of Heuristic Responding to Vignettes and SelfReport Scores on theREI
+Separate effects ofNFC and FI. Table 4 presents the correlations between the number of heuristic responses across the
+11 vignettes and scores on the REI scales. Because of the low
+reliabilities of the heuristic responses from self and protagonist
+perspectives, correlations were corrected for attenuation. The
+correlations for men did not differ significantly from those for
+women. In contrast to the significant correlations produced by
+heuristic responses to vignettes from a self perspective, none
+from a protagonist perspective are significant. This makes sense
+
+Table 4
+Correlations ofScores on the Rational-Experiential
+Inventory (REI) and Heuristic Responses to Vignettes
+From Three Perspectives
+Heuristic responses to vignettes
+
+REI scale
+Need for Cognition
+Total
+Men
+
+Women
+Faith in Intuition
+Total
+
+Self
+perspective
+(a = .46)
+
+Protagonist
+perspective
+(a = .50)
+
+-.30**
+-.50*
+-.23
+
+-.10
+
+.45***
+
+Men
+
+.44
+
+Women
+
+.45***
+
+.04
+.11
+.14
+.26
+.08
+
+Logical
+perspective
+(a = .84)
+-.15
+-.17
+-.16
+.26**
+.41*
+.21
+
+Note. Men, n = 55; women, n= 129. Correlations are maximally corrected for attenuation. Significance levels refer to uncorrected correlations.
+
+*p<.05. **p<.0\. ***/?<.001.
+
+because responses from a self perspective are more relevant to
+responses to the REI, which are also from a self perspective,
+than responses from a protagonist perspective, which indicate
+how one believes others behave.
+The FI scores tend to produce stronger correlations than the
+NFC scores with heuristic responses from both self and logical
+perspectives. People with high FI scores respond more heuristically than others from a self perspective, and they are more
+prone to regard their heuristic responses as logical. Individuals
+high in NFC respond less heuristically than others from a self
+perspective.
+Joint effects ofNFC and FI. We conducted regression analyses to determine the unique contribution of each of the REI
+scales to the prediction of the heuristic responses to the vignettes. Our main interest in doing these analyses was to determine whether the newly developed FI scale of experiential processing added to the prediction of heuristic responding beyond
+the contribution of the well-established NFC scale. Hierarchical
+regressions in which heuristic responses from each of the three
+perspectives constituted the dependent variables were conducted. The independent variables (IVs), entered in the following order, were gender (treated as a control variable), NFC, and
+FI. The interaction term (NFC X FI) was initially added in the
+last step, but as it did not add to the prediction, it was left out.
+For heuristic responses from the self perspective, after Step 3
+with all IVs in the equation, R = .34, F ( 5 , 180) = 7.76, p <
+.001. The inclusion of FI (0 = .25, p < .001) significantly improved the prediction of heuristic responses from the self perspective, after gender and NFC (0 = -.17, p < .05) had been
+introduced (R2 = .1 1). The two REI scales contributed 9% of
+unique variance to the prediction of heuristic responses: 6%
+from the FI scale and 3% from the NFC scale. For heuristic
+responses from the protagonist's perspective, none of the IVs
+made a significant contribution to prediction, R = . 13, F (5,
+180) = 1.11. For heuristic responses from a logical person's perspective, after Step 3 with all IVs in the equation, R = .29, F(5,
+
+398
+
+EPSTEIN, PACINI, DENES-RAJ, AND HEIER
+
+180) = 5.31, p < .001. Only the FI scale (/S = .20, p < .01)
+significantly contributed to the prediction of heuristic responses
+from the logical perspective (4% of the unique variance). Responses from the logical perspective are a measure of participants' ability to distinguish rational from heuristic responding.
+Those with high FI scores are apparently less able than others
+to make this kind of distinction.
+The regression results indicate that both experiential and rational processing, as measured by the FI and NFC scales, respectively, contribute to the prediction of heuristic responses
+to the vignettes. This supports the view from CEST that it is
+important to take into account two independent systems that
+together determine behavior. Heuristic responses to vignettes
+are determined primarily by experiential processing, but they
+are also influenced by rational processing.
+Study 2
+The second study is a further examination of the reliability
+and validity of the REI. We had the opportunity to administer
+a short version of the REI to a very large student sample. The
+REI was included in a questionnaire along with several measures of personality, adjustment, school achievement, and interpersonal relations. We wished to confirm the factor structure of
+the REI that was found in Study 1 and to explore empirically
+both the differential and supplementary relationships of FI and
+NFC to a broad spectrum of personality, adjustment, achievement, and relationship variables.
+
+Method
+Sample and Procedure
+Nitie hundred seventy-three participants (402 men and 571 women),
+enrolled in undergraduate psychology classes at a large state university,
+completed a large department-wide battery of prescreening questionnaires for course credit.
+
+Measures
+REI. Because of time and space limitations, we administered a 10item version of the REI, with 5 items from each scale. We selected the
+best items (in terms of item-total correlations and factor loadings)
+from Study 1 for each scale (see Table 2). Ten highly similar items were
+selected from the original pool in Study 1 and correlated with the totals.
+Both 5-item versions were strongly related to the originals (NFC: r =
+.90, p < .001; FI: r = .85, p < .001), and they were not significantly
+intercorrelated (r = - . 0 9 ) . Some of the NFC items were rewritten for
+the sake of brevity and clarity. The items were rated on a 5-point scale,
+from completely false to completely true.
+Personality and adjustment measures. Respondents completed several measures of personality and psychological adjustment that were
+part of the larger questionnaire. The California Personality Inventory
+(CPI) Dominance Scale (Gough, 1969) contains 36 true-false items
+designed to measure individual differences in need for social dominance. It is scored in the direction of dominance. In our sample, its
+internal consistency ( a ) coefficient was .83. The 32-item Modern Racism Scale (MRS; McConahay, 1983) assesses racist attitudes in a subtle
+and nonthreatening way (e.g., "In a democratic society, the opinion of
+the majority should always prevail"). Answers to the MRS range from
+0 (disagree strongly) to 4 (agree strongly). Its internal consistency coefficient was .82. A high score indicates racist attitudes.
+
+Five items from the Affect Intensity Scale (AI; Larsen & Diener,
+1987) were used to assess individual differences in emotionality associated with-processing in the two modes (e.g., "My emotions tend to be
+more intense than those of most people"). Items were rated on a 5-point
+scale, ranging from completely false to completely true. AI is scored in
+the direction of greater emotionality. The internal consistency of the AI
+scale in this sample was .70.
+A I3-item version of the Beck Depression Inventory (BDI; Beck,
+1967) measured symptoms of depression, including mood, lack of interest, and self-dislike. The BDI items are presented on a scale ranging
+from 0 (no depression) to 3 (high depression). In this sample, it had an
+internal consistency of .85.
+The State-Trait Anxiety Inventory (Spielberger, Gorsuch, & Lushene, 1970) was used to measure symptoms of anxiety. Its 20 items were
+answered on a 4-point scale that ranged from almost never to almost
+always. High scores indicate greater anxiety. Its alpha reliability in the
+current study was .91.
+Self-esteem was assessed with the 10-item Rosenberg (1965) Self-Esteem Scale, designed to measure global feelings of self-worth in adolescents. It is a widely used scale with considerable evidence for reliability
+and validity (see Blascovich & Tomaka, 1991). Responses were made
+on a 4-point scale, ranging from strongly disagree to strongly agree. In
+the current sample, its reliability was .88, and it was scored in the direction of greater self-esteem.
+Traumatic experiences were assessed by having respondents indicate
+the degree of traumatization they experienced, if at all, for 18 events,
+such as death of a parent, parents* divorce, serious illness, and various
+forms of abuse. These were rated on a 9-point scale ranging from not at
+all traumatic to extremely traumatic and were summed to yield an overall traumatization score (a = .65). Three other items assessed whether
+the respondent had experienced sexual, physical, or emotional abuse
+before the age of 16 (a = .65).
+Nine questions asked about stressful experiences in the college
+context, such as romantic relationship problems, academic difficulties,
+and financial problems. These items were based on a 4-point scale ranging from not at all to extremely. This scale had a reliability (a) of .66.
+Two items assessed the frequency and quantity of alcohol consumption. High scores indicate frequent and/or heavy drinking. General
+health was assessed with a single item that asked the respondents to
+compare their own health with that of others their age. Math and Verbal
+Scholastic Aptitude Test (SAT) scores were reported on a scale that
+ranged from below 400 to 700 or above. Grade point average (GPA) was
+reported on a scale ranging from below 2.0 to 3.0 or higher.
+Interpersonal relationships. Respondents completed several indexes
+of romantic and parental relationships. Working models of romantic
+relationships, based on Bartholomew and Horowitz (1991), were assessed with ratings of four attachment prototypes: fearful, dismissing,
+preoccupied, and secure. Respondents read the four attachment descriptions and rated the extent to which they described their feelings
+in romantic relationships on an 8-point scale, ranging from not at all
+descriptive to strongly descriptive. The fearful prototype describes fear
+of intimate relationships and lack of trust in others. The dismissing
+prototype describes the avoidance of close emotional relationships due
+to the need for independence and self-sufficiency. The preoccupied prototype describes a desire for close emotional relationships that conflicts
+with the fear of rejection. The secure prototype describes comfort and
+security in close emotional relationships.
+Three similar ratings were made of working models of mother and
+father. The avoidant model describes a mother or father who was perceived to be cold, distant, and rejecting. The preoccupied model describes a mother or father who was perceived to be inconsistent, sometimes loving and sometimes rejecting. The secure model describes a
+mother or father who was considered to be warm, responsive, and
+supportive.
+
+399
+
+INDIVIDUAL DIFFERENCES IN THINKING STYLE
+
+Table 5
+Factor Loadings of the Rational-Experiential Inventory (REI) Items
+Factor
+REI scale and item
+Need for Cognition
+I don't like to have to do a lot of thinking. (R)
+I try to avoid situations that require thinking in depth about something. (R)
+I prefer to do something that challenges my thinking abilities rather than something
+that requires little thought.
+I prefer complex to simple problems.
+Thinking hard and fora long time about something gives me little satisfaction.
+Faith in Intuition
+I trust my initial feelings about people.
+I believe in trusting my hunches.
+My initial impressions of people are almost always right.
+When it comes to trusting people, I can usually rely on my "gut feelings."
+I can usually feel when a person is right or wrong even if I can't explain how I know.
+Eigenvalue
+
+1
+
+2
+
+.77
+.73
+
+-.01
+-.03
+
+-.73
+-.63
+
+-.01
+
+.59
+
+.00
+
+-.01
+
+.00
+
+.79
+.73
+.70
+.63
+.59
+
+2.62
+
+2.19
+
+.02
+
+-.10
+-.05
+
+.13
+
+Note. N = 973. Values in boldface type indicate the highest factor loading for each item. (R) = reverse
+scored.
+The Straus (1979) Conflict Resolution Scale (CRS) assesses frequency in the use of tactics to settle disputes in the context of romantic
+relationships. The items are presented in order of degree of aggression
+(from "discussed the issue calmly" to "kicked, bit, or hit me with a fist
+or object") and are answered on a scale ranging from never to 11 or more
+times. The internal consistency of the CRS was .88. The CRS was scored
+in the direction of greater use of aggressive tactics.
+Other items assessed whether the respondent was currently in a relationship and number of sex partners.
+
+Results and Discussion
+Structure ofthe REI
+The internal consistency (a) coefficients of the 5-item versions of the NFC and FI scales were .73 and .72, respectively.
+Had the scales been of length comparable to those in Study 1
+(19 items in NFC and 12 items in FI), the reliabilities, by the
+Spearman-Brown prophesy formula, would increase to .91 for
+NFC and .85 for FI. We subjected the 10 items to a principalcomponents factor analysis with varimax rotation in order to
+confirm the factor structure obtained in Study 1. Only two factors with eigenvalues greater than 1.00 emerged, accounting for
+48.2% of the variance. All of the NFC items loaded highly on
+the first factor, which accounted for 26.3% of the variance (see
+Table 5). The second factor contained all of the FI items and
+accounted for 21.9% of the variance. The correlation between
+NFC and FI, r(970) = .08, p < .001, though highly significant
+because of the large sample size, indicated that the two scales
+were largely independent. There were no significant gender
+differences in NFC or FI scores. In sum, the short versions of
+the NFC and FI scales are sufficiently reliable and independent,
+replicating thefindingsof Study 1.
+Relation of NFC and FI to Measures of Personality and
+Psychological Adjustment
+Separate effects of NFC and FI. Correlations of the REI
+scores and measures of personality and psychological adjust-
+
+ment are presented in Table 6, both for the total sample and
+by gender. NFC was negatively correlated with racist attitudes,
+depression, anxiety, stress in college life, and the frequency and
+quantity of alcohol consumption, and was positively correlated
+with dominance, self-esteem, satisfaction with health, SAT
+scores, and GPA. NFC was also positively correlated with degree of traumatization and abuse, especially emotional abuse
+before the age of 16. This correlation suggests that distressing
+experiences may stimulate people to think seriously about their
+lives. In the absence of such experiences, people may be less
+prone to develop such an interest.
+Correlations with FI are generally in the same direction as
+those with NFC but are smaller in magnitude. FI, like NFC,
+was significantly positively correlated with dominance and selfesteem and significantly negatively correlated with depression,
+anxiety, and stress in college life. Neither FI nor NFC was significantly related to affect intensity.
+The pattern of correlations between the REI scales and personality and adjustment was generally similar for men and
+women, with a few exceptions. The relations of NFC and modern racist attitudes and stress in college life were in the same
+direction, but significantly stronger, for men than for women.
+The correlation between NFC and SAT scores was significantly
+stronger for women than for men. With regard to FI, the correlation with dominance was stronger for women, whereas the correlation with depression was stronger for men.
+Joint effects of NFC and FI. To test for the additive effects
+of the REI scores in predicting personality and psychological
+adjustment, we conducted regressions with those variables with
+which both the NFC and FI scales were significantly correlated.
+The predictors, in order of entry, were sex (control variable),
+NFC and FI, and the interaction of NFC and FI. The interaction
+term did not contribute significantly to prediction in any of the
+cases.
+In predicting dominance scores, both NFC (/3 = .30, p <
+.001) and FI (/S = .07, p < .05) were significant predictors, ac-
+
+400
+
+EPSTEIN. PACINI, DENES-RAJ, AND HEIER
+
+Table 6
+Correlations of the Need for Cognition and Faith in Intuition (Short Forms) Scales
+With Personality and Psychological Adjustment
+Faith in Intuition
+
+Need for Cognition
+Personality and
+adjustment
+
+Men
+
+CPI Dominance
+Modern Racism
+Affect Intensity
+BDI Depression
+State-Trait Anxiety
+Rosenberg Self-Esteem
+Traumatization
+Abuse (sum)
+Sexual Abuse
+Physical Abuse
+Emotional Abuse
+Stress in college life
+Drinking
+General health
+SAT (math + verbal)
+GPA
+
+.34** •
+1
+-.36**"
+-.04
+-.30** *
+-.32** t
+.33** •
+.12
+.07
+.00
+.01
+.08
+-.33***
+-.18***
+.12*
+.38***
+.14**
+
+Women
+
+Total
+
+Men
+
+Women
+
+Total
+
+.44***
+
+.39***
+-.26***
+-.06
+-.24***
+-.30***
+.35***
+.10*
+.10*
+.06
+.03
+.07*
+-.20***
+-.13***
+.08*
+.28***
+.13***
+
+.02
+.00
+.01
+-.17**
+-.24***
+.20***
+-.08
+.05
+-.02
+-.07
+-.01
+-.17*
+-.04
+-.09
+-.04
+.02
+
+.18**
+.00
+.03
+-.04
+-.14**
+.18***
+-.06
+.08
+-.04
+-.01
+-.02
+-.10
+-.00
+.03
+.05
+.00
+
+.12*
+.01
+.03
+-.09*
+-.17**
+.18***
+.01
+-.04
+-.03
+-.04
+-.01
+-.11*
+-.03
+.02
+.00
+.01
+
+-.18**
+-.08
+—.21***
+-.30***
+.37***
+
+.08
+.14*
+.09*
+.06
+.06
+-.13*
+.09*
+-.06
+.55***
+.13***
+
+Note. Women, n = 495-571; men, n = 358-401. Gender is partialed out of correlations for the total
+sample. Numbers in boldface type indicate a significant gender difference. Correlations are maximally
+corrected for attenuation. Significance levels refer to uncorrected correlations. CPI = California Personality
+Inventory; BDI = Beck Depression Inventory; SAT = Scholastic Aptitude Test; GPA = grade point average.
+
+*/?<.05. **p<.0\. ***p<.00\.
+
+counting for 9% and 1%, respectively, of the unique variance, R
+= .32, F(3, 855) = 32.92, p < .001. NFC (/? = -.19,p < .05)
+and FI (/3 = —.06, p < .05) were both significant predictors of
+depression scores, R = .32, F(3, 956) = 14.11, p < .001. Together they accounted for 5% of the unique variance (NFC; 4%;
+FI: 1%). Sex (0 = .01,p < .05), NFC (0 = -.24,p < .05), and
+FI(0 = -A3,p< .05) were all significant predictors of anxiety
+scores, R = .30, F(3, 969) = 31.27,/? < .001. NFC contributed
+the most unique variance (6%), followed by FI (2%) and sex
+(1%). Virtually the same pattern emerged in predicting stress
+in college scores, R = .20, F(3, 910) = 32.92, p < .001. In the
+case of self-esteem scores, both NFC (0 = .50, p < .05) and FI
+(/J = .31, p < .05) were significant predictors, R = .32, F(3,
+953) = 35.27, p < .001. NFC contributed the most unique variance (8%), followed by FI (2.25%).
+In sum, the pattern of results suggests that NFC and FI make
+independent and supplemental contributions to predicting personality and psychological adjustment, in line with predictions
+from CEST. The results also show that NFC tends to be a
+stronger predictor than FI of personality and adjustment.
+The REI and Interpersonal Relationships
+Table 7 presents the correlations between REI scores and interpersonal relationship variables. The pattern of correlations
+suggests that individuals with high NFC scores tend not to have
+a preoccupied style in their romantic relationships. Compared
+to individuals with low NFC scores, those with high NFC scores
+tended to report fewer sex partners and to characterize their
+fathers' relationships with them as avoidant. There were several
+significant gender differences in NFC and relationship corre-
+
+lations. Women with high NFC scores were more likely than
+men to report having a dismissive style in their intimate relationships and to adopt calm, rational tactics for dealing with
+relationship conflicts, which is in line with the characterization
+of the exclusively rational person as lacking in emotion-based
+motivation. For men, NFC was negatively related to a secure
+model of their fathers.
+The relationship picture for FI is somewhat more favorable
+than for NFC. FI was positively correlated with a secure style in
+romantic relationships. Significant gender differences in correlations show that for men, but not for women, FI was positively
+associated with a secure model of their mothers. Men high in
+FI were also more likely to be in a significant romantic
+relationship.
+In general, the pattern of correlations suggests that although
+individuals high in NFC show positive psychological adjustment, they tend to report early experiences of emotional abuse
+and distress in relationships with parents. Presently, they report
+a tendency to avoid close, emotional relationships. This pattern
+is especially true of women. Individuals high in FI tend to report
+having secure relationships, and this is equally true for men and
+women. Both NFC and FI are positively related to psychological
+adjustment, each contributing independently.
+General Discussion
+Two Independent Processing Modes
+The presentfindingscontribute to an increasing body of evidence in support of the construct validity of CEST (e.g., DenesRaj & Epstein, 1994; Epstein, 1993, 1994; Epstein et al., 1992;
+
+401
+
+INDIVIDUAL DIFFERENCES IN THINKING STYLE
+
+Table 7
+Correlations ofthe Needfor Cognition and Faith in Intuition (Short Forms)
+Scales With Relationship Variables
+Need for Cognition
+Relationship Variable
+Relationship prototype
+Fearful
+Preoccupied
+Dismissive
+Secure
+Working model of mother
+Avoidant
+Preoccupied
+Secure
+Working model of father
+Avoidant
+Preoccupied
+Secure
+Conflict resolution
+In a relationship
+Number of sex partners
+
+Faith in Intuition
+
+Men
+
+Women
+
+Total
+
+Men
+
+Women
+
+Total
+
+-.09
+-.11
+.00
+.06
+
+-.03
+-.08
+.15**
+.08
+
+-.06
+-.09**
+.09**
+.07
+
+-.04
+-.02
+.04
+.21***
+
+-.06
+-.08
+.06
+.18***
+
+-.05
+-.06
+.06
+.20***
+
+-.03
+.04
+-.04
+
+.07
+.00
+-.01
+
+.03
+.02
+-.03
+
+-.07
+-.08
+.17**
+
+.00
+-.01
+.01
+
+-.02
+-.02
+.08*
+
+.09
+-.00
+-.16**
+-.11
+.04
+-.11*
+
+.09
+.00
+-.01
+-.20***
+.00
+-.05
+
+.09*
+.01
+-.09*
+-.17**
+.02
+-.08*
+
+-.02
+-.02
+.09
+-.01
+.23***
+.07
+
+.02
+-.02
+.06
+.07
+.01
+.03
+
+.01
+-.02
+.06
+.02
+.11**
+.05
+
+Note. Women, n = 500-570; men, n = 335-402. Gender is partialed out of total sample correlations.
+Correlations are maximally corrected for attenuation. Significance levels refer to uncorrected correlations.
+* p < . 0 5 . **p<.01. ***p<.001.
+
+Epstein, Denes-Raj, & Pacini, 1995; Kirkpatrick & Epstein,
+1992). CEST proposes that there are two information processing systems, experiential and rational, that are independent and
+operate by different rules. In two studies, we tested the prediction that there would be reliable individual differences in the
+extent to which people rely on each system. To this end, we
+constructed a self-report measure, the REI, which consists of
+subscales to measure individual differences in analytic-rational
+(NFC) and intuitive-experiential (FI) processing.
+Evidence for the reliability and validity of the two REI scales
+is substantial. The factor structure of the REI, obtained in
+Study 1 and replicated in Study 2, showed the existence of two
+orthogonal factors, corresponding to NFC and FI. This supports the view that the two kinds of processing are not opposite
+equivalents but represent two kinds of information processing
+that are independent.
+Further support for the independence of the two systems was
+provided by evidence showing that they operate by different
+rules. According to CEST, the rational system operates by abstract, general rules guided by analysis and logic, whereas the
+experiential system operates by context-specific, heuristic rules.
+In Study 1, responses to the vignettes from the protagonist and
+self perspectives, designed to elicit experiential processing,
+showed more context specificity than those from the logical perspective. Moreover, heuristic processing across a sample of vignettes was shown to be primarily a function of experiential
+processing. This is consistent with the assumption in CEST that
+the experiential system is the natural, or "default" mode of responding to situations.
+Other evidence for the existence of two modes of processing
+is that people are aware of two different ways of thinking. Consistent with previousfindings(Epstein et al., 1992; Kirkpatrick
+& Epstein, 1992), this was demonstrated in Study 1, in which
+
+participants appropriately shifted from one mode of processing
+principles to the other in responding to the vignettes, depending
+on the perspective they were asked to take. They reported that
+people in everyday life, including themselves, respond experientially, in contrast to the way a logical person would respond.
+However, failure to discriminate between the two modes occurred in those with high FI scores, which suggests that strong
+experientiality may interfere with logical thinking; that is, people who are strongly experiential tend to accept their heuristic
+thinking as rational.
+According to CEST, although rational and experiential processing are independent, they contribute jointly to behavior. We
+tested this assumption in Study 1 and Study 2 with regression
+analysis, in which the independent and joint contributions of
+NFC and FI to the prediction of coping ability, heuristic processing, and adjustment were examined. As NFC has been
+shown to be a significant predictor in past research (e.g., Cacioppo et al., 1983), the question remained whether a measure of
+intuitive-experiential processing, FI, would contribute independently. Study 1 provided evidence that in the case of an objective, non-self-report measure of heuristic processing, FI not
+only added to the prediction but also was a stronger predictor
+than NFC.
+
+Relation ofRational and Experiential Processing to
+Coping and Adjustment
+Further evidence for the independent contributions of rational and experiential processing was provided in Studies 1 and
+2, in which the relation of the REI scales to measures of coping
+and adjustment were examined. In Study 1, aspects of coping
+ability, as assessed by the Constructive Thinking Inventory
+(Epstein & Meier, 1989), were differentially associated with the
+
+402
+
+EPSTEIN, PACINI, DENES-RAJ, AND HEIER
+
+two REI scores. Compared to those with lower NFC scores, people with higher NFC scores were better copers, generally, and
+particularly better behavioral copers. They also reported that
+they avoid naive, overly optimistic thinking, in contrast to those
+with high FI scores, who tend to be naive optimists. Experiential
+processing, as indexed by FI, was associated with both constructive and irrational forms of positive thinking: It was directly
+associated with aspects of constructive behavioral coping, such
+as positive thinking and conscientiousness, as well as irrational
+forms, such as esoteric thinking (e.g., superstitions, occult
+beliefs) and naive optimism.
+In Study 2, NFC and FI were both associated with a variety of
+self-report measures of adjustment and academic performance.
+Although the two modes made significant and independent contributions in predicting these variables, the contribution was
+greater for NFC. This is in contrast to the non-self-report measures of heuristic responses to vignettes in Study 1 and interpersonal relationship variables in Study 2. In general, both contributed independently to predicting adjustment, supporting our
+contention that positive adjustment requires the appropriate
+use of both systems.
+The reason for the stronger influence of NFC than FI as a
+predictor of adjustment may be that people cannot afford to be
+irrational (to have low rationality), whereas there is more leeway with intuitive processing. To the extent that an individual's
+processing is irrational, one would expect that maladjustment is
+present. Because most people's experiential systems have both
+adaptive and maladaptive aspects, the relation of experiential
+processing to adjustment turns out to be weaker, but in the same
+direction, as rational processing. The rational system may also
+be characterized as a conscious, "executive" process, and therefore it is more directly related than experiential processing to
+the mechanisms that govern self-regulation and coping, and
+hence self-reported psychological adjustment.
+In terms of interpersonal relationships, the weight of adjustment shifts toward experiential processing. FI was positively associated with reported secure relationships with both a current
+intimate partner and for men only, with a mother. NFC, though
+directly related to rational, nonaggressive tactics for dealing
+with interpersonal conflicts, was associated with having fewer
+sex partners; a dismissive, avoiding relationship style for
+women; and avoidant, insecure models of father. Together with
+the small but significant relation to trauma and emotional
+abuse before the age of 16, this pattern of correlations suggests
+that the current psychological adjustment of at least some of the
+people with high NFC scores may have come with a price: less
+satisfying, close interpersonal relations.
+It is interesting to speculate on this situation for people high
+in rationality, as measured by NFC. The reports of early difficult experiences, including relationships with parents, point to
+a possible developmental path of the rational system. Difficult
+life experiences may encourage the development of rationality
+as the individual pursues ways to manage emotions and to cope.
+However, rationality developed through adversity may take on a
+somewhat protective or defensive character, in the suppression
+or rejection of experientiality, which is the seat of emotional
+reactions and, as shown earlier, is associated with positive relationships. The development of defensiveness might even be
+more likely when the difficult life experiences occur at an early
+
+age, before the individual is capable of assimilating and accommodating the information at a higher, more flexible and integrated level. In future work, it will be informative to tease apart
+actual from "illusory" mental health (Shedler, Mayman, &
+Manis, 1993) in those with simultaneously high scores on rationality and low scores on experientiality.
+
+Gender and Thinking Style
+The significant gender difference in NFC scores in Study 1
+was not replicated with the much larger sample of Study 2. Although mean levels of rational and experiential processing may
+be similar for men and women, the two studies showed that they
+have some different correlates depending on gender. For example, Study 1 showed that in terms of coping, self-reported interest in rationality seems to be more critical for men than for
+women.
+Stereotypes about differences in thinking styles associated
+with gender are widely held in western society (e.g., Gilligan,
+1982; Tomlinson-Keasey, 1994). Rational, logical thinking is
+associated with masculinity, whereas intuitive, feeling-based
+thinking is associated with femininity. As a result, departures
+from gender stereotypes with regard to intuitive and rational
+thinking may have different consequences for men and women.
+In our studies, women with self-reported high rationality tended
+to show distrust of others, they reported early experiences of
+sexual abuse, and they tended to avoid becoming involved in
+intimate relationships. Women who disconfirm the stereotype
+of femininity by being very rational or intellectually oriented
+may be subject to problems with interpersonal relations (see
+also Block & Kremen, 1996). People may react negatively to a
+woman who does not confirm their expectations, and she may
+eventually internalize such reactions. In contrast, our data suggest that men who disconfirm the stereotype of masculinity by
+being more experiential or intuitive fared well in their relationships with their mothers during childhood and currently with
+intimate partners. It remains for future work to replicate these
+findings and to explore further the different meanings that the
+two modes of processing have for women and men.
+Future Directions
+In this article we addressed the issue of whether the two
+modes of processing, as measured by the REI, are independent
+or inversely related (i.e., bipolar). The results favored the independent relation of the two systems. However, this relationship
+was based on data from a sample with a narrow range of age and
+education, namely college students. If cognitive development in
+adulthood entails the increasing integration of the two systems,
+a significant positive relationship between FI and NFC might be
+present in older samples. In contrast, younger participants may
+exhibit an inverse relation. The investigation of the developmental aspects of the two modes of information processing and
+their interrelation is an important avenue for future work.
+Although in its present form the REI consists of broad scales
+to measure rational and experiential processing, this does not
+preclude the possibility that in future work it may be possible to
+measure specific facets of the two kinds of processing. Just as
+there are several "rational" abilities (e.g., mathematical, verbal,
+
+INDIVIDUAL DIFFERENCES IN THINKING STYLE
+
+abstract logic, introspection, etc.), there may also be several experiential abilities, such as visualization, imagination, and aesthetic sensibility.
+References
+Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological Review, 89, 369-406.
+Axsom, D., Yates, S., & Chaiken, S. (1987). Audience responses as a
+heuristic cue in persuasion. Journal of Personality and Social Psychology, 53, 30-40.
+Bargh, J. A. (1989). Conditional automaticity: Varieties of automatic
+influence in social perception and cognition. In J. S. Uleman & J. A.
+Bargh (Eds.), Unintended thought (pp. 3-51). New York: Guilford
+Press.
+Bartholomew, K.,& Horowitz, L. M. (1991). Attachment styles among
+young adults: A test of a four category model. Journal of Personality
+and Social Psychology, 61, 226-244.
+Beck, A. T. (1967). Depression: Causes and treatment. Philadelphia:
+University of Pennsylvania Press.
+Blascovich, J., & Tomaka, J. (1991). Measures of self-esteem. In J. R.
+Robinson, P. R. Shaver, & L. S. Wrightsman (Eds.), Measures of personality and social psychological attitudes (pp. 115-160). San Diego,
+CA: Academic Press.
+Block, J., & Kremen, A. (1996). IQ and ego-resiliency: Conceptual and
+empirical connections and separateness. Journal of Personality and
+Social Psychology, 70, 349-361.
+Briggs, K. C , & Myers, I. B. (1976). Myers-Briggs Type Indicator. Palo
+Alto, CA: Consulting Psychologists Press.
+Bruner, J. S. (1986). Actual minds, possible worlds. Cambridge, MA:
+Harvard University Press.
+Bucci, W. (1985). Dual coding: A cognitive model for psychoanalytic
+research. Journal of the American Psychoanalytic Association, 33,
+571-607.
+Buck, R. (1985). Prime theory: An integrated view of motivation and
+emotion. Psychological Review, 92, 389-413.
+Cacioppo, J. T, & Petty, R. E. (1982). The need for cognition. Journal
+of Personality and Social Psychology, 42, 116-131.
+Cacioppo, J. T, Petty, R. E., & Morris, K. J. (1983). Effects of need for
+cognition on message evaluation, recall, and persuasion. Journal of
+Personality and Social Psychology, 45. 805-818.
+Chaiken, S. (1980). Heuristic versus systematic information processing
+and the use of source versus message cues in persuasion. Journal of
+Personality and Social Psychology, 39, 752-766.
+Denes-Raj, V., & Epstein, S. (1994). Conflict between experiential and
+rational processing: When people behave against their better judgment. Journal of Personality and Social Psychology, 66, 819-829.
+Epstein, S. (1983). The unconscious, the preconscious and the self-concept. In J. Suls& A. Greenwald (Eds.), Psychological perspectives on
+the self (Vol. 2, pp. 219-247). Hillsdale, NJ: Erlbaum.
+Epstein, S. (1990). Cognitive-experiential self-theory. In L. Pervin
+(Ed.), Handbook of personality theory and research (pp. 165-192).
+New York: Guilford Press.
+Epstein, S. (1991). Cognitive-experiential self-theory: An integrative
+theory of personality. In R. Curtis (Ed.), The relational self: Convergences in psychoanalysis and social psychology (pp. 111-137).
+New York: Guilford Press.
+Epstein, S. (1992a). Constructive thinking and mental and physical
+well-being. In L. Montada, S. H. Filipp, & M. J. Lerner (Eds.), Life
+crises & experiences of loss in adulthood (pp. 385-409). Hillsdale,
+NJ: Erlbaum.
+Epstein, S. (1992b). Coping ability, negative self-evaluation, and overgeneralization: Experiment and theory. Journal of Personality and
+Social Psychology, 62, 826-836.
+
+403
+
+Epstein, S. (1993). Implications of cognitive-experiential self-theory
+for personality and developmental psychology. In D. Funder, R.
+Parke, C. Tomlinson-Keasey, & K. Widaman (Eds.), Studying lives
+through time: Personality and development (pp. 399-438). Washington, DC: American Psychological Association.
+Epstein, S. (1994). Integration of the cognitive and the psychodynamic
+unconscious. American Psychologist, 49, 709-724.
+Epstein, S. (with Brodsky, A.). (1993). You 're smarter than you think:
+How to develop your practical intelligence for success in living. New
+York: Simon & Schuster.
+Epstein, S., Denes-Raj, V., & Pacini, R. (1995). The Linda problem
+revisited from the perspective of cognitive-experiential self-theory.
+Personality and Social Psychology Bulletin, 21, 1124-1138.
+Epstein, S., & Katz, L. (1992). Coping ability, stress, productive load,
+and symptoms. Journal of Personality and Social Psychology, 62,
+813-825.
+Epstein, S., Lipson, A., Holstein, C , & Huh, E. (1992). Irrational reactions to negative outcomes: Evidence for two conceptual systems.
+Journal of Personality and Social Psychology, 62, 328-339.
+Epstein, S., & Meier, P. (1989). Constructive thinking: A broad coping
+variable with specific components. Journal of Personality and Social
+Psychology, 57, 332-349.
+Eysenck, H. J., & Eysenck, S. B. G. (1976). Psychoticism as a dimension of personality. London: Hodder and Stoughton.
+Fiske, S. X, & Taylor, S. E. (1991). Social cognition (2nd ed.). New
+York: McGraw-Hill.
+Gilligan, C. (1982). In a different voice: Psychological theory and women 's development. Cambridge, MA: Harvard University Press.
+Gough, H. G. (1969). The CPI manual. (rev. ed.). Palo Alto, CA: Consulting Psychologists Press.
+Higgins, E. T. (1989). Knowledge accessibility and activation: Subjectivity and suffering from unconscious sources. In J. S. Uleman &
+J. A. Bargh (Eds.), Unintended thought (pp. 3-51). New York: Guilford Press.
+Jung, C. G. (1964/1968). Analytical psychology: Its theory and practice. New York: Pantheon Press.
+Kahneman, D., & Miller, D. T. (1986). Norm theory: Comparing reality to its alternatives. Psychological Review, 93, 136-153.
+Kahneman, D., & Tversky, A. (1982). The simulation heuristic. In D.
+Kahneman, P. Slovic, & A. Tversky (Eds.), Judgment under uncertainty: Heuristics and biases (pp. 201-208). New York: Cambridge
+University Press.
+Katz, L., & Epstein, S. (1991). Constructive thinking and coping with
+laboratory-induced stress. Journal of Personality and Social Psychology, 61, 789-800.
+Kirkpatrick, L. A., & Epstein, S. (1992). Cognitive-experiential selftheory and subjective probability: Further evidence for two conceptual systems. Journal of Personality and Social Psychology, 63, 534544.
+Labouvie-Vief, G. (1990). Wisdom as integrated thought: Historical
+and developmental perspectives. In R. J. Sternberg (Ed.), Wisdom: Its
+nature, origins, and development (pp. 52-83). New York: Cambridge
+University Press.
+Larsen, R. J., & Diener, E. (1987). Affect intensity as an individual
+difference characteristic: A review. Journal of Research in Personality, 21, 1-39.
+Leventhal, H. (1984). A perceptual-motor theory of emotion. In L.
+Berkowitz (Ed.), Advances in experimental social psychology (Vol.
+17, pp. 117-182). New York: Academic Press.
+Luria, A. R. (1961). The role of speech in the regulation of normal and
+abnormal behavior. Oxford, England: Pergamon Press.
+McConahay, J. B. (1983). Modern racism and modern discrimination:
+The effects of race, racial attitudes, and context on simulated hiring
+decisions. Personality and Social Psychology Bulletin, 9, 551-558.
+
+404
+
+EPSTEIN, PACINI, DENES-RAJ, AND HEIER
+
+Morgan, J. N., Larrick, R. P., & Nisbett, R. E. (1990). Teaching the use
+of cost-benefit reasoning in everyday life. Psychological Science, 1,
+362-370.
+Paivio, A. (1986). Mental representations: A dual-coding approach.
+New York: Oxford University Press.
+Pennington, N. (1990). The complexity of human responses to
+(apparently) simple judgment problems. Contemporary Psychology,
+35, 32-33.
+Petty, R. E., Schumann, D. W., Richman, S. A., & Strathman, A. J.
+(1993). Positive mood and persuasion: Different roles for affect under
+high- and low-elaboration conditions. Journal of Personality and SociaiPsychology, 64, 5-20.
+Rosch, E. (1983). Prototype classification and logical classification:
+The two systems. In E. Scholnick (Ed.), New trends in conceptual
+representation/ Challenges to Piaget 's theory (pp. 73-86). Hillsdale,
+NJ: Erlbaum.
+Rosenberg, M. (1965). Society and the adolescent self-image.
+Princeton, NJ: Princeton University Press.
+
+Shedler, J., Mayman, M , & Manis, M. (1993). The illusion of mental
+health. American Psychologist, 48, 1117-1131.
+Spielberger, C. D., Gorsuch, R. L., & Lushene, R. E. (1970). Manual
+for the State-Trait Anxiety Inventory. Palo Alto, CA: Consulting Psychologists Press.
+Straus, M. A. (1979). Measuring intra-family conflict and violence:
+The conflict tactics (CT) scales. Journal of Marriage and the Family,
+41, 75-88.
+Tomlinson-Keasey, C. (1994). My dirty little secret: Women as clandestine intellectuals. In C. E. Franz & A. J. Stewart (Eds.), Women creating lives (pp. 227-245). Boulder, CO: Westview Press.
+Tversky, A., & Kahneman, D. (1983). Extensional versus intuitive reasoning. The conjunction fallacy in probability judgment. Psychological Review, 90,293-315.
+Weinberger, J., & McClelland, D. C. (1991). Cognitive versus traditional motivational models: Irreconcilable or complementary? In
+E. T. Higgins & R. M. Sorrentino (Eds.), Handbook of motivation
+and cognition (Vol. 2, pp. 562-597). New York: Guilford Press.
+
+Appendix
+Vignettes
+Near Versus Far Misses
+Ms. Crane and Ms. Tees were scheduled to leave the airport at the
+same time, but on different flights. They travelled from town in the same
+limousine, were caught in a traffic jam, and arrived at the airport 30
+minutes after the scheduled departure of their flights. Ms. Crane was
+told that her flight had left on time. Ms. Tees was told that herflighthad
+been delayed and had left only 5 minutes ago. They both dawdled for
+ten minutes before leaving home. Who do you think felt her dawdling
+was more foolish?
+Last week Ted went shopping at a grocery store and was going to try
+his luck on a scratch-and-win ticket given with every purchase. Ted eagerly scratched his ticket, but won nothing. As he was about to leave, he
+was startled by a shriek of joy. The person right behind him had just
+won $500. Two days later his friend Jim went shopping at the same
+grocery store and also tried his luck on a scratch-and-win ticket. He was
+at the end of a long line, when he heard a shout of joy coming from the
+front of the line. Someone had just won $500. Jim won nothing. Who
+do you think was more upset when they thought about the incident?
+
+Usual Versus Unusual Behaviors
+Mr. Adams was involved in an accident when driving home after work
+on his usual route. He thought about taking a more scenic route, but
+decided against it. Mr. White was involved in a similar accident when
+driving on a route that he only takes when he wants a change of scenery.
+Who do you think felt more foolish about his decision?
+Mr. Simon was planning to have a relaxed evening in front of the TV.
+On his way home from work he decided to stop at a convenience store
+where he usually shops. When he got there, there was a sign that the
+owner had to leave, but would be back in 15 minutes. Rather than wait,
+he drove to another store in a similar neighborhood. Just as he was
+about to go through the checkout, there was a disruption near the door
+and he saw a man with a mask carrying a gun. The next thing he knew,
+he heard what sounded like a loud firecracker and felt a sharp pain in
+his right arm. In the hospital, he learned that as a result of the gunshot
+he had lost the use of his right arm. Now consider a slightly different
+
+version. Mr. Green had exactly the same thing happen to him while
+shopping at the store where he usually shops. Who do you think felt
+more foolish about stopping at the store?
+Carol almost never takes hitch-hikers in her car. Yesterday she gave a
+man a ride and was robbed. Nancy frequently takes hitch-hikers in her
+car. Yesterday she gave a man a ride and was robbed. Who do you think
+felt more upset about giving the hitch-hiker a ride?
+
+Acts of Commission Versus Omission
+Celia bought a lottery ticket where the winner was to receive a new
+car. As her lucky number was " 3 " she had an inclination to select number 0003. Her friend told her it would be even better if she bet on
+multiples of 3, such as 0369. She took her friend's advice. As luck would
+have it, the winning number was 0003. Now imagine a slightly different
+version in which everything is the same except Celia ignored her friend's
+advice and selected 0003. The winning number was 0369, the number
+her friend suggested. In which version did Celia feel more foolish about
+her decision?
+Paul worked for United Van Lines. Last year he considered switching
+to Allied Van Lines but decided against it. A month ago Paul was permanently laid off due to the bad economic situation of the company. If
+he had switched to Allied Van lines he would still be employed. George
+worked for Allied Van Lines. Last year he switched to United Van Lines.
+A month ago George was permanently laid off due to the bad economic
+situation of the company. If he had not switched, he would still be employed. Who do you think felt more foolish about his decision?
+Debbie attended a rock concert and occupied seat 307. At the end of
+the concert it was announced that a seat number would be randomly
+chosen, and its occupant would win $ 1,000. Debbie decided to move to
+the seat next to hers, number 308. As luck would have it, 307 was the
+winning number. Now imagine a slightly different version. Sandra occupied seat 307, thought of moving to 308, but decided against it. As
+luck would have it, 308 was the lucky number. Who do you think felt
+more foolish about her decision?
+
+INDIVIDUAL DIFFERENCES IN THINKING STYLE
+
+Costs Versus Benefits
+Susan decided to go to a special showing of a foreign film. She was
+willing to spend the $9.00 that it cost because she thought it would be
+very interesting. Halfway through the movie, she decided the movie was
+very boring. Now imagine a slightly different scene. Mary received a
+ticket to the same movie from a friend who wasn't able to use it. Assume
+Mary had exactly the same information and expectations as Susan, and
+was equally bored. Who do you think is more likely to walk out of the
+movie sooner?
+Steven had heard from his friend Jonathan about the fantastic cake
+he had eaten during his vacation, when on a visit to Turkey. As Steve
+had a sweet tooth, he was determined to try it. Fortunately, he heard
+about a delicatessen store in the next town, which supposedly had a
+good selection of foreign foods. The next day he drove there and sure
+enough he found what he was looking for. The cake was very expensive,
+and cost him $4.50 for a single piece. Now imagine a slightly different
+version. Bill, another friend of Jonathan, had heard exactly the same
+thing. Assume that everything is the same except that when Bill went to
+the delicatessen, he was fortunate enough to run into a special promotion and got the same pastry for 25 cents. When both of them tasted the
+
+405
+
+cake, they decided it was too sweet for their taste. Who do you think will
+be more likely to take more bites before discarding the cake?
+Mrs. Carlson was invited to visit the wife of her husband's very
+wealthy boss. As she could not get a baby sitter, she asked if she could
+bring her four year old son Robert. She was told she could bring him
+only if he were a very well-behaved child, as Mrs. Coles had very expensive antiques in her living room. Although Mrs. Carlson had told her son
+he was not to run in the house, Robert began to chase the dog around
+the living room. Before Mrs. Carlson could stop him, a small vase came
+crashing to the floor. Surprisingly, Mrs. Coles was not at all upset. She
+told Mrs. Carlson it was not an expensive piece, and she had, in fact,
+been thinking of getting rid of it. Now imagine a slightly different version in which everything is the same except that Mrs. Coles is very upset,
+and blurts out in her distress that the vase cost over $ 1000, and was her
+favorite vase. Mrs. Carlson knows that they will have to replace the vase,
+although they can ill afford it. In which version do you think Mrs. Carlson was more angry?
+
+Received July 21, 1995
+Revision received December 6, 1995
+Accepted December 9, 1995 •
+
+

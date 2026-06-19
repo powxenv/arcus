@@ -353,7 +353,7 @@ The base profile above is the quadrant archetype. A player's exact position on t
 | Signal | Meaning | Effect on the profile |
 |---|---|---|
 | High prototypicality (far from center) | Strongly that mode | Report the archetype at full strength. |
-| Low prototypicality (near center) | Between modes | Report the Undecidable framing. "You run close to the boundary between modes, the place where a mind has not committed to a single architecture." Pull one or two lines from each adjacent mode. |
+| Low prototypicality (near center) | Between modes | Report **The Halting Point** boundary reading (named for Turing's formal undecidability result). "You run close to the boundary between modes — no algorithm can definitively place you, and that is a structurally honest answer, not a failure." Pull one or two lines from each adjacent mode. When facet tension fires, the modifier rewrites the narrative from "balanced" to "holding opposites, led by the facet signature." |
 | Near an axis boundary | Strong on one axis, neutral on the other | Emphasize the dominant axis. Soften the secondary. |
 | Angle maps to early, mid, or late | Position along the quadrant arc | Shift tone. "Early Algorithm" is building toward full rigor. "Late Architecture" is nearing fluent systems-thinking. |
 
@@ -363,7 +363,7 @@ This is the hybrid dimensional and prototypical structure (Kerber et al. 2021). 
 
 ## Facet reporting (core, not optional)
 
-As of v0.9 the MMA is facet-organized. Every result reports the two axis scores and their four facet sub-scores. The facet signature lets a profile distinguish *which facet drove the axis score*.
+The MMA is facet-organized. Every result reports the two axis scores and their four facet sub-scores. The facet signature lets a profile distinguish *which facet drove the axis score*.
 
 - Axis C, Processing Mode: C1 Deliberation Preference, C2 Override Tendency.
 - Axis D, Encoding Structure: D1 Entry Point, D2 Decomposition Habit.

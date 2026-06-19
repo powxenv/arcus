@@ -2,6 +2,66 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.3 (2026-06-19): Test 2 full-text paper audit, citations updated, Turing theme verified
+
+Why: the v0.2 design cited 13+ cognitive psychology sources but the paper-downloads folder contained one verified cognitive paper (Stanovich & West, 2000). Seven new full-text PDFs were acquired and reviewed, and the design was rebuilt against what the papers actually say, not what the v0.2 citations claimed.
+
+### Papers reviewed (full-text, not abstracts)
+
+- Cacioppo & Petty (1982), NFC Scale. NFC is unidimensional (one major factor). Items are entirely about enjoyment, not speed or ability.
+- Cacioppo et al. (1996), NFC meta-analysis. Confirms NFC as a stable disposition distinct from ability.
+- Epstein et al. (1996), REI. Two ORTHOGONAL factors (NFC and Faith in Intuition; r = .08). Rational and experiential are independent, not opposite poles — a person can be high in both or low in both.
+- Frederick (2005), CRT. Three behavioral items. CRT is related to but distinct from NFC — enjoyment of thinking does not guarantee successful override.
+- Riding (1997), Cognitive Styles Analysis. Wholist-Analytic is unidimensional, independent of IQ and personality, assessed behaviorally (reaction-time). Riding explicitly criticizes self-report measures.
+- Stanovich & West (1997), AOT. Composite of 6 subscales (α = .88). Overlaps NEO-PI-R Openness (two subscales are NEO-PI-R facets).
+- Nisbett et al. (2001). Cross-cultural validation of the holistic/analytic distinction. Confirms the parts/wholes divide is a genuine, stable cognitive dimension.
+- Stanovich & West (2000) was already in hand from Test 1.
+
+### Key findings that changed the design
+
+**Axis C compositing honesty note.** The REI confirms NFC and FI are orthogonal. Treating them as a single bipolar Processing Mode axis composites two independent dimensions — the same pattern as Test 1's Axis A. A mid-axis score can mean "high in both," "low in both," or genuinely intermediate; the C1/C2 facet scores disambiguate. Honesty note added to §2.5 and §4.
+
+**C1/C2 cross-construct split.** C1 maps to NFC, which is unidimensional (Cacioppo & Petty, 1982). C2 maps to the dispositional side of CRT (Frederick, 2005) — a different construct. The split is across constructs, not a validated two-factor decomposition of one. Honesty note added.
+
+**D1/D2 designer decomposition.** Riding treats Wholist-Analytic as unidimensional and assesses it behaviorally. Our D1/D2 split and self-report format are design choices, not Riding's. Riding explicitly criticizes self-report for cognitive style. Honesty note added.
+
+**Citations pruned.** Eight sources dropped from v0.2 (Pacini 1999; Norris & Epstein 2017; Cacioppo et al. 1984; Riding 1991; Riding & Rayner 1998; Kirton 1976; von Wittich & Antonakis 2011; Sternberg 1988/1997) — either redundant with verified sources, unverified against full-text, or not essential to the construct structure. Four new sources added with verified full-text (Cacioppo et al. 1996; Stanovich & West 1997; Nisbett et al. 2001; and Epstein et al. 1996 upgraded from cited to verified).
+
+### Four items replaced for construct alignment against paper findings
+
+- **C1.3.** v0.2 item "Your natural speed for hard problems" framed the construct as speed, not enjoyment. NFC items deliberately avoid speed framing (Cacioppo & Petty, 1982). Replaced with an enjoyment-vs-drain framing: "When a problem makes you think hard for an extended time, you feel energized / drained."
+- **C2.6.** v0.2 item "A quick judgment you made gets re-examined if I have time" confounded disposition with opportunity (the "if I have time" conditional). Replaced with a dispositional frame: "When you make a snap judgment, I usually circle back and check it later / I trust it and move on."
+- **D1.6.** v0.2 item "A new person — I register details about them first" was a near-duplicate of D1.5 ("entering a new situation"). Replaced with a learning-domain frame to extend content coverage: "When learning a new skill, you start with the individual techniques / understanding what the skill feels like as a whole."
+- **D2.3.** v0.2 item "You're building something (a meal, a design, a doc)" was double-barreled in its example domain. Replaced with a single-domain frame: "You're designing something from scratch."
+
+### Turing theme evaluation
+
+Each mapping was verified against Turing's actual work:
+- Algorithm → Turing Machine: STRONG. The 1936 paper formalized computation as a deterministic sequence.
+- Cipher → Enigma: ADEQUATE. Maps to the cognitive mode of cryptanalysis (sequential + pattern recognition), not Turing's personal style. The weakest mapping; stated openly.
+- Gestalt → Morphogenesis: STRONG. The 1952 paper describes global patterns emerging from local rules — the definition of holistic+intuitive.
+- Architecture → ACE/computability: STRONG. ACE was a complete system architecture; computability asks what can be computed in principle — deliberate, holistic, systems-level.
+
+No result names or mappings changed. The theme is substantially genuine, not superficial.
+
+### Other updates
+
+- Boundary renamed Undecidable → **The Halting Point**. The Halting Problem is about formal undecidability — a more precise Turing reference, and "Undecidable" had negative everyday shading. The Halting Point is a boundary condition, not a tier.
+- Scoring section (v0.2 → v0.3) updated to match Test 1's v0.19 model: gradation convention, facet-tension detection, boundary classification, and the tension modifier flag.
+- Short form (MMA-16, 4 per facet, screening-tier) documented in §8.1. Selection TBD pending the full bank audit.
+- Profiles (02b): boundary-row updated to The Halting Point. Full profiles not yet re-audited (deferred).
+
+### Files modified
+- docs/02-modes-of-mind-assessment.md (v0.2 → v0.3)
+- docs/02b-modes-result-profiles.md (Halting Point rename; modulation table)
+- docs/CHANGELOG.md (this entry)
+
+### Deferred
+- Full item-bank audit (content-area mapping, construct purity across all 32 items — this pass addressed the four paper-explicit issues in C1.3, C2.6, D1.6, D2.3; the remaining 28 items need the same rigor pass Test 1 got across v0.12–v0.17).
+- MMA-16 item selection.
+- Profile re-audit (the 14-section profiles exist in 02b but haven't been through the rigor cycle).
+- Build (`mma-debug.html`) and simulation (`mma-simulate.ts`).
+
 ## v0.20 (2026-06-19): two lengths — SCA-32 standard + SCA-16 short form
 
 Why: offer a quicker assessment for respondents with less time or attention, without compromising the framework's honesty stance.

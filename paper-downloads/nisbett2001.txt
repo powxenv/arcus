@@ -1,0 +1,2209 @@
+Copyright 200i by the American Psychological Association, Inc.
+0033-295X/01/$5.00 DO1: 10.1037//0033-295X.108.2.291
+
+Psychological Review
+2001, Vol. 108, No. 2. 291-310
+
+Culture and Systems of Thought: Holistic Versus Analytic Cognition
+Kaiping Peng
+
+Richard E. Nisbett
+University of Michigan
+
+University of California, Berkeley
+
+Incheol Choi
+
+Ara Norenzayan
+Ecole Polytechnique
+
+Seoul National University
+
+The authors find East Asians to be holistic, attending to the entire field and assigning causality to it,
+making relatively little use of categories and formal logic, and relying on "dialectical" reasoning, whereas
+Westerners are more analytic, paying attention primarily to the object and the categories to which it
+belongs and using rules, including formal logic, to understand its behavior. The 2 types of cognitive
+processes are embedded in different naive metaphysical systems and tacit epistemologies. The authors
+speculate that the origin of these differences is traceable to markedly different social systems. The theory
+and the evidence presented call into question long-held assumptions about basic cognitive processes and
+even about the appropriateness of the process-content distinction.
+
+adults. Work by Nisbett and his colleagues (Larrick, Nisbett, &
+Morgan, 1993; Nisbett, 1993; Nisbett, Fong, Lehman, & Cheng,
+1987; Smith, Langston, & Nisbett, 1992) shows that people can
+learn statistical, probabilistic, methodological, logical, deontic,
+cost-benefit, and other quite abstract rule systems and categorization procedures, and that training can affect their reasoning about
+everyday life events and even their behavior. Significant effects
+can be obtained not merely by extensive training in formal courses
+but sometimes even by brief instruction in the laboratory. Given
+that inferential rules and cognitive processes appear to be malleable even for adults within a given society, it should not be surprising if it turned out to be the case that members of markedly
+different cultures, socialized from birth into different world views
+and habits of thought, might differ even more dramatically in their
+cognitive processes.
+In this article, we argue that the considerable social differences
+that exist among different cultures affect not only their beliefs
+about specific aspects of the world but also (a) their naive metaphysical' systems at a deep level, (b) their tacit epistemologies,2
+and (c) even the nature of their cognitive processes—the ways by
+which they know the world. More specifically, we put forward the
+following propositions, which we develop in more detail later.
+1. Social organization directs attention to some aspects of the
+field at the expense of others.
+2. What is attended to influences metaphysics, that is, beliefs
+about the nature of the world and about causality.
+3. Metaphysics guides tacit epistemology, that is, beliefs about
+
+The British empiricist philosophers of the 18th and 19th centuries, including Locke, Hume, and Mill, wrote about cognitive
+processes as if they were the same for all normal adults. This
+assumption of universality was adopted by mainstream psychology
+of the 20th century, where it has been predominant from the
+earliest treatment of cognitive psychology by Piaget, to midcentury learning theorists, to modem cognitive science. The assumption of universality was probably strengthened by the analogy
+to the computer, which has been implicit and often explicit for the
+past 30 years (Block, 1995; Shweder, 1991). Brain equals hardware, inferential rules and data processing procedures equal the
+universal software, and output equals belief and behavior, which
+can, of course, be radically different given the different inputs
+possible for different individuals and groups. "Basic" processes
+such as categorization, learning, inductive and deductive inference,
+and causal reasoning are generally presumed to be the same among
+all human groups.
+It appears, however, that fairly marked differences in knowledge
+about and use of inferential rules exist even among educated
+
+Richard E. Nisbett, Department of Psychology, University of Michigan;
+Kaiping Peng, Department of Psychology, University of California, Berkeley; Incheol Choi, Department of Psychology, Seoul National University,
+Seoul. Korea; Ara Norenzayan, Centre de Recherche en Epistemologie
+Appliquee, Ecole Polytechnique, Paris, France.
+This research was supported by National Science Foundation Grant SBR
+9729103 and National Institute on Aging Grant AG 15047. We appreciate
+the criticism and advice of Dan Ames, Scott Atran, Patricia Cheng, Marion
+Davis, Eric Knowles, Trey Hedden, Lawrence Hirschfeld, Lijun Ji, Beom
+Jun Kim, Shinobu Kitayama, Ulrich Kuhnen, Jan Leu, David Liu, Geoffrey
+Lloyd, Hazel Markus, Ramaswami Mahalingam, Taka Masuda, Coline
+McConnell, Donald Munro, Denise Park, Winston Sieck, David Sherman,
+Michael Shin, Edward E. Smith, Stephen Stich, Sanjay Srivastava, Timothy Wilson, and Frank Yates.
+Correspondence concerning this article should be addressed to Richard
+E. Nisbett, Department of Psychology, East Hall, University of Michigan,
+Ann Arbor, Michigan 48109-1109. Electronic mail may be sent to
+nisbett@umich.edu.
+
+1
+
+We use the philosopher's term metaphysics rather than ontology, which
+is a more common term for psychologists to use to describe theories about
+the nature of the world, because we wish to convey concerns with very
+general notions about the nature of causality and reality, as well as the
+relationships between substance and attribute, fact and value.
+2
+We use the term epistemology to refer to peoples' theory of knowledge,
+including what counts as knowledge, the degree to which different kinds of
+knowledge are certain, and the presumed relation between the knower and
+the object that is known. This definition is probably congenial to both
+psychologists and philosophers.
+
+291
+
+292
+
+NISBETT, PENG, CHOI, AND NORENZAYAN
+
+what it is important to know and how knowledge can be
+obtained.
+4. Epistemology dictates the development and application of
+some cognitive processes at the expense of others.
+5. Social organization and social practices can directly affect
+the plausibility of metaphysical assumptions, such as
+whether causality should be regarded as residing in the field
+versus the object.
+6. Social organization and social practices can influence directly the development and use of cognitive processes such
+as dialectical versus logical ones.
+First, we review evidence that we find to be a convincing
+example of the contention that societies can differ markedly in
+their systems of thought. This evidence concerns a comparison of
+the societies, philosophical orientations, and scientific outlooks of
+two highly sophisticated cultures: those of ancient China and
+Greece. We summarize the views of many historians, philosophers
+of science, and ethnographers indicating that the two societies
+differed in marked ways both socially and cognitively, and that the
+social and cognitive differences were related. We next present a
+general proposal concerning the relation between social factors
+and cognition based on an examination of social life and cognitive
+procedures in the ancient world, deriving a number of quite specific predictions from that formulation. We then present a review
+of evidence regarding these predictions that comes mostly from
+our recent research comparing modern individuals raised in societies influenced by ancient Chinese thought with people raised in
+societies influenced by ancient Greek thought. This research shows
+that, to a remarkable extent, the social and cognitive differences
+that scholars have reported about ancient China and Greece find
+their counterparts among contemporary peoples. Moreover, these
+are not mere parameter differences, but in many cases differences
+that are quantitatively very large and even qualitatively distinct.
+Finally, we speculate on the origins of differences in systems
+of thought, sketch an analysis of the factors that might sustain
+"sociocognitive homeostatic systems" over millennia, and present
+a consideration of the implications of our findings for claims about
+cognitive universality and for the traditional distinction between
+cognitive content and cognitive process.
+
+agency that had no counterpart among the other ancient civilizations. Indeed, one definition of happiness for the Greeks was "the
+exercise of vital powers along lines of excellence in a life affording
+them scope" (Hamilton, 1930/1973, p. 25). Though the Greeks
+believed in the influence of the gods, "divine intervention and
+independent human action" were seen to work together (Knox,
+1990, p. 39). The daily lives of the Greeks were imbued with a
+sense of choice and an absence of social constraint that were
+unparalleled in the ancient world. "The idea of the Athenian state
+was a union of individuals free to develop their own powers and
+live in their own way, obedient only to the laws they passed
+themselves and could criticize and change at will" (Hamilton,
+p. 144).
+Related to the Greek sense of personal freedom is their tradition
+of debate, which was already well established at least by the time
+of Homer in the 8th century (Galtung, 1981; Lloyd, 1990; Nakamura, 1964/1985). Homer emphasizes repeatedly that, next to
+being a capable warrior, the most important skill for a man to have
+was that of the debater. Even ordinary people participated in the
+debate of the marketplace and the political assembly and could
+challenge even a king (Cramer, 1993, p. 65).
+An aspect of Greek civilization that had a great effect on
+posterity was their sense of curiosity about the world and the
+presumption that it could be understood by the discovery of rules
+(Lloyd, 1991; Toulmin & Goodfield, 1961, p. 62). The Greeks
+speculated about the nature of the objects and events around them
+and created causal models of them. The construction of these
+models was done by categorizing objects and events and generating rules about them for the purpose of systematic description,
+prediction, and explanation. This characterized their advances in,
+some have said invention of, the fields of physics, astronomy,
+axiomatic geometry, formal logic, rational philosophy, natural
+history, history, and ethnography. Whereas many great ancient
+civilizations, including the earlier Mesopotamian and Egyptian and
+the later Mayan, made systematic observations in many scientific
+domains, only the Greeks attempted to model such observations in
+terms of presumed underlying physical causes (Cromer, 1993;
+Kane, 2000; Lin, 1936, p. 84; Toulmin & Goodfield, 1961).
+
+The Ancient Chinese and Harmony
+Ancient Greek and Chinese Society
+
+From roughly the 8th to the 3rd century B.C., many civilizations
+made great strides in philosophical and moral thought and in
+scientific and technological endeavors, notably Persia, India, the
+Middle East, China, and Greece. We will examine the differences
+between the two civilizations that were most distant from one
+another and probably influenced one another the least: those of
+Greece and China. In addition, the influence each of these civilizations has had on the modern world is particularly great. Greek
+civilization gave rise to European civilization and post-Columbian
+American civilization, and Chinese civilization gave rise to the
+civilizations of East Asia, including Japan and Korea, and also
+greatly influenced Southeast Asia.
+The Ancient Greeks and Personal Agency
+One of the most remarkable characteristics of the ancient Greeks
+flonians and Athenians in particular) was the location of power in
+the individual. Ordinary people developed a sense of personal
+
+The ancient Chinese provide a particularly valuable contrast to
+the Greeks. The Chinese counterpart to the Greek sense of personal
+agency was a sense of reciprocal social obligation or collective
+agency. The Chinese felt that individuals are part of a closely knit
+collectivity, whether a family or a village, and that the behavior of
+the individual should be guided by the expectations of the group.
+The chief moral system of China, Confucianism, was essentially
+an elaboration of the obligations that obtained between emperor
+and subject, parent and child, husband and wife, older brother and
+younger brother, and between friend and friend. Chinese society
+made the individual feel very much a part of a large, complex, and
+generally benign social organism in which prescriptive role relations were a guide to ethical conduct (Lin, 1936; Munro, 1985).
+Individual rights were construed as one's "share" of the rights of
+the community as a whole. "[R]ole fulfillment in a hierarchical
+system . .. [took] priority over most other goods" (Munro, p. 19).
+Such an emphasis on collective agency resulted in the Chinese
+valuing in-group harmony, "as when the occupants of a social
+group . . . perform their functions and do not transgress the bound-
+
+CULTURE AND THOUGHT
+
+aries of duty or expectations that accompany those functions"
+(Munro, 1985, pp. 20-21). Within the social group, any form of
+confrontation, such as debate, was discouraged. Though there was
+a time, called the period of the "hundred schools" of 600-200 B.C.,
+during which debate, among philosophers at least, did occur
+(Yang, 1988), "[t]here never developed a 'spirit of controversial
+language' nor a 'tradition of free public debate' " (Becker, 1986, p.
+78). "In philosophy, in medicine, and elsewhere there is criticism
+of other points of view . . . [b]ut the Chinese generally conceded
+far more readily than did the Greeks, that other opinions had
+something to be said for them" (Lloyd, 1990, p. 550). So far from
+debate being encouraged in a society with such values, one person
+could not contradict another without fear of making an enemy
+(Cromer, 1993, pp. 73-74), and to "be involved in a lawsuit was
+ipso facto ignominious" (Lin, 1936).
+Chinese civilization was technologically far advanced beyond
+that of the Greeks. The Chinese have been credited with the
+original or independent invention of irrigation systems, ink, porcelain, the magnetic compass, stirrups, the wheelbarrow, deep
+drilling, the Pascal triangle, pound-locks on canals, fore-and-aft
+sailing, watertight compartments, the sternpost rudder, the paddlewheel boat, quantitative cartography, immunization techniques,
+astronomical observations of novae, seismographs, and acoustics
+(Logan, 1986, p. 51). Many of these technological achievements
+were in place at a time when the Greeks had none.
+But most experts hold that these advances should not be regarded as the result of scientific theory and investigation (Cromer,
+1993; Kane, 2000; Logan, 1986). Instead, they are reflective of a
+Chinese genius for practicality (Nakamura, 1964/1985, p. 189). "In
+Confucianism there was no thought of knowing that did not entail
+some consequence for action" (Munro, 1969, p. 55; see also On,
+1996). The Chinese did not make formal models of the natural
+world but rather proceeded by intuition and empiricism. Indeed, it
+has been maintained that the Chinese never developed a concept
+corresponding to the laws of nature for the sufficient reason that
+they did not have a concept of "nature" as distinct from human or
+spiritual entities (Fung, 1983, p. 55; Lloyd, 1991; Logan, 1986, p.
+50; Munro, 1969; Zhou, 1990).
+
+Chinese and Greek Science, Mathematics, and Philosophy
+The social-psychological aspects of ancient Greek and Chinese
+life had correspondences in the systems of thought of the two
+cultures. Their metaphysical beliefs were reflections of their social
+existences. And their tacit epistemologies in turn seem to have
+reflected their different metaphysical beliefs. These resulted in
+very great differences between Greece and China in their approaches to scientific, mathematical, and philosophical questions.
+The cognitive differences between ancient Chinese and Greeks
+can be loosely grouped under the heading of holistic versus analytic thought (Nisbett, 1998; Peng & Nisbett, 1999). We define
+holistic thought as involving an orientation to the context or field
+as a whole, including attention to relationships between a focal
+object and the field, and a preference for explaining and predicting
+events on the basis of such relationships. Holistic approaches rely
+on experience-based knowledge rather than on abstract logic and
+are dialectical, meaning that there is an emphasis on change, a
+recognition of contradiction and of the need for multiple perspectives, and a search for the "Middle Way" between opposing
+propositions. We define analytic thought as involving detachment
+
+293
+
+of the object from its context, a tendency to focus on attributes of
+the object to assign it to categories, and a preference for using rules
+about the categories to explain and predict the object's behavior.
+Inferences rest in part on the practice of decontextualizing structure from content, the use of formal logic, and avoidance of
+contradiction.
+The distinction between holistic and analytic thought rests on a
+long tradition of theory about reasoning beginning with James and
+Piaget and continuing to the present. Holistic thought is associative, and its computations reflect similarity and contiguity. Analytic thought recruits symbolic representational systems, and its
+computations reflect rule structure. Sloman (1996) has recently
+reviewed evidence for this distinction in the cognitive realm.
+Witkin and his colleagues (Witkin, Dyk, Faterson, Goodenough, &
+Karp, 1974; Witkin et al., 1954) have made a similar distinction in
+the perceptual realm between "field dependence" and "field independence." Our definition encompasses both reasoning aspects and
+perceptual aspects of the distinction as well as the belief systems
+that underlie those differences.
+Historians and philosophers of science have identified a number
+of important differences between the Greeks and the Chinese that
+fit under the definitions above.
+Continuity versus discreteness. A fundamental intellectual difference between the Chinese and the Greeks was that the Chinese
+held the "view that the world is a collection of overlapping and
+interpenetrating stuffs or substances.. .. [This contrasts] with the
+traditional Platonic philosophical picture of objects which are
+understood as individuals or particulars which instantiate or 'have'
+properties" (Hansen, 1983, p. 30) that are themselves universals
+(e.g., "whiteness," "hardness"). This profound difference in metaphysics had many ramifications. Most fundamentally, the Greeks,
+unlike the Chinese, were inclined to see the world as a collection
+of discrete objects which could be categorized by reference to
+some subset of universal properties that characterized the object.
+Thus although the Greeks debated whether matter was best understood as waves or particles, the Chinese seem never to have had
+any doubt about the continuous nature of matter (Needham, 1962,
+p. 1).
+Field versus object. Since the Chinese were oriented toward
+continuities and relationships, the individual object was "not a
+primary conceptual starting point" (Moser, 1996, p. 31). Instead,
+"parts exist only within wholes, to which they have inseparable
+relations" (Munro, 1985, p. 17). The Greeks, in contrast, were
+inclined to focus primarily on the central object and its attributes
+(Hansen, 1983, p. 31). This tendency likely contributed to the
+Greeks' lack of understanding of the fundamental nature of causality in the physical domain. Aristotle explained a stone's falling
+through the air as being due to the stone having the property of
+"gravity" and explained a piece of wood's floating on the surface
+of water as being due to the wood having the property of "levity."
+The Chinese, in contrast, recognized that all events are due to the
+operation of a field of forces. They had knowledge of magnetism
+and acoustic resonance, for example, and knew the correct explanation for the behavior of the tides (Needham, 1962, p. 60).
+Relationships and similarities versus categories and rules. A
+consequence of their assumptions about continuity and the importance of the field is that the Chinese were concerned with relationships among objects and events (Zhang, 1985). In contrast, the
+Greeks were more inclined to focus on the categories and rules that
+would help them to understand the behavior of the object inde-
+
+294
+
+NISBETT, PENG, CHOI, AND NORENZAYAN
+
+pendent of its context (Nakamura, 1964/1985, pp. 185-186). The
+Chinese were convinced of the fundamental relatedness .of all
+things and the consequent alteration of objects and events by the
+context in which they were located. It is only the whole that exists;
+and the parts are linked relationally, like "the ropes in a net"
+(Munro, 1985). Thus any attempt to categorize objects with precision would not have seemed a terribly important epistemic goal
+(Chan, 1967; Logan, 1986, p. 122; Moser, 1996, p. 116).3
+The relationship view versus the rule stance is well illustrated by
+the difference between the holistic approach to medicine characteristic of the Chinese and the effort to find effective rules and
+treatment principles in the West. Surgery was common in the West
+from a very early period because the idea that some part of the
+body could be malfunctioning was a natural one to the analytic
+mind. But the idea of surgery was "heretical to ancient Chinese
+medical tradition, which taught that good health depended on the
+balance and flow of natural forces throughout the body" (Hadingham, 1994, p. 77).
+Dialectics versus foundational principles and logic. The Chinese seem not to have been motivated to seek first principles
+underlying their mathematical procedures or scientific assumptions, and, except for the brief "Mohist" period from the end of the
+4th to the end of the 3rd century B.C., "the Chinese did not develop
+any forma) systems of logic for] anything like . . . an Aristotelian
+syllogism" (Liu, 1974). Indeed, there was an absence "not only of
+formal logical systems, but indeed of a principle of contradiction"
+(Becker, 1986, p. 83). It is noteworthy that the Indians did have a
+strong logical tradition, but the Chinese translations of their texts
+were full of errors and misunderstandings (Becker, p. 84). It has
+been argued that the lack of interest in logic accounts for why,
+although Chinese advances in algebra and arithmetic were substantial, the Chinese made little progress in geometry where proofs
+rely on formal logic, especially the notion of contradiction (Lloyd,
+1990, p. 119; Logan, 1986, p. 48; Needham, 1962, p. 1). (Algebra
+did not become deductive until the 12th century; Cromer, 1993,
+p. 89.)
+In place of logic, the Chinese developed a dialectic (Lloyd,
+1990, p. 119), which involves reconciling, transcending, or even
+accepting apparent contradictions. In the Chinese intellectual tradition, there is no necessary incompatibility between the belief that
+A and not A both have merit. Indeed, in the spirit of the Tao or
+yin-yang principle, A can actually imply that not A is also the
+case—the opposite of a state of affairs can exist simultaneously
+with the state of affairs itself (Chang, 1939; Mao, 1937/1962). It is
+this belief that lies behind much of Chinese thought designed to
+find the "Middle Way" between extremes—accepting that two
+parties to a quarrel can both have right on their side or that two
+opposing propositions can both contain some truth. The Chinese
+dialectic includes notions resembling the Hegelian dialectic of
+thesis-antithesis-synthesis and finds its counterpart in modern
+"post-formal operations" in the Piagetian tradition—for example,
+understanding of part-whole relations, reciprocal relations, contextual relativism, and self-modifying systems (Baltes & Staudinger,
+1993; Basseches, 1984; Riegel, 1973).
+Experience-based knowledge versus abstract analysis. "The
+Chinese . . . sought intuitive instantaneous understanding through
+direct perception" (Nakamura, 1964/1985, p. 171). This resulted in
+a focus on particular instances and concrete cases in Chinese
+thought (Fung. 1983: Lloyd, 1990; Nakamura, p. 171). Many
+Greeks favored the epistemology of logic and abstract principles,
+
+and many Greek philosophers, especially Plato and his followers,
+actually viewed concrete perception and direct experiential knowledge as unreliable and incomplete at best, and downright misleading at worst. Thus they were prepared to reject the evidence of the
+senses when it conflicted with reason (Lloyd, p. 118).
+Ironically, important as the Greek discovery of formal logic was
+for the development of science, it also impeded it in many ways.
+After the 6th-century Ionian period, the empirical tradition in
+Greek science was greatly weakened. It was countered by the
+conviction on the part of many philosophers that it ought to be
+possible to understand things through reason alone, without recourse to the senses (Logan, 1986, pp. 114-115). Importantly,
+there never developed in Greece the critical concept of zero, which
+is needed for an Arabic-style place number system as well as for
+algebra. Zero was rejected as an impossibility on the grounds that
+nonbeing is logically self-contradictory (Logan, p. 115)! Eventual
+Western understanding of zero, infinity, and infinitesimals required a detour to the East.
+Sociocognitive Systems
+It is possible to derive the intellectual differences between the
+ancient Greek and Chinese approaches to science and philosophy—their differing metaphysics and epistemology—from their
+differing social psychological attributes. And, more generally, it is
+possible to build a psychological theory from the historical evidence. We now return to the points sketched in the introduction
+concerning the links from social organization to cognitive process.
+We believe that social organization affects cognitive processes in
+two basic ways: indirectly by focusing attention on different parts
+of the environment and directly by making some kinds of social
+communication patterns more acceptable than others.
+
+From Attention to Cognitive Processes
+Social organization, attention, and naive metaphysics. If one
+lives in a complex social world with many role relations, one's
+attention is likely to be directed outside oneself and toward the
+social field. The Chinese habit of attending to the social environment might have carried over to the environment in general,
+allowing, for example, for the discovery of the relevance of the
+field in understanding physical events. As Markus and Kitayama
+(1991) put it, "If one perceives oneself as embedded within a larger
+context of which one is an interdependent part, it is likely that
+other objects or events will be perceived in a similar way" (p. 246).
+Attention to the field should foster attempts to understand relations
+among objects and events in the field and should encourage
+explanation of events in terms of the relationship between the
+object and the field. Similarly, the world might naturally seem
+continuous and interpenetrating to people who view themselves as
+part of a larger whole and who are motivated to maintain harmony
+within it.
+On the other hand, if one lives in a world with fewer and less
+significant social relations and role constraints, it may be possible
+to attend primarily to the object and one's goals with respect to it.
+The object's properties may thus be salient, and one may be
+3
+
+At any rate, the Chinese were not much interested in constructing
+rigorous classifications of a sort that could make possible scientific rule
+construction (Atran, 1995).
+
+295
+
+CULTURE AND THOUGHT
+
+encouraged to use those properties to develop categories and rules
+that presumably govern the object's behavior. The belief that one
+knows the rules governing the object's behavior might encourage
+exclusive focus on the object for explanation and might encourage
+the belief that the world is a place that is controllable through one's
+own actions. Moreover, the world is likely to be perceived as
+discrete and discontinuous by those who regard themselves as fully
+distinct and autonomous entities having limited connections to
+others and possessing the ability to act autonomously.
+Naive metaphysics and tacit epistemology. Beliefs about the
+nature of the world can be expected to influence tacit epistemologies or beliefs about how to get knowledge. If the world is a place
+where relations among objects and events are crucial in determining outcomes, then it will seem important to be able to see all the
+important elements in the field, to see relations among objects, and
+to see the relation between the parts and the whole. If the world is
+a place where the behavior of objects is governed by rules and the
+categories to which they apply, then it is crucial to be able to
+isolate the object from its context, to infer category membership of
+the object from its properties, and to infer how rules apply to
+categories.
+Tacit epistemology and cognitive processes. If it seems important to see relations in the field, then perceptual habits such as
+deep processing of the environment and covariation-detection
+skills could be expected to develop as well as cognitive habits such
+as explaining events with reference to the field. If it is important to
+find out the object's properties and the categories to which it
+belongs, then perceptual habits such as decontextualization of the
+object from the field and cognitive habits such as explaining the
+object's behavior in terms of the categories and rules that apply to
+it could be expected to develop. Such differential cognitive habits
+would, of course, be expected to become largely automatic and
+unconscious, just as the underlying naive epistemology would be
+expected to be largely beyond the reach of conscious awareness.
+
+epistemology, or epistemology governs the development of particular processes cannot, of course, be known at this time. This is
+true in part because all of these elements are in homeostatic
+balance, and there is reciprocal influence among all of them.
+Despite this, it is fruitful to identify the kinds of social practices
+that tend to be found in conjunction with particular cognitive
+processes, and we will describe some important ones later. We will
+also speculate about the ways that the social practices might
+operate to sustain the cognitive processes.
+
+Contemporary Cognitive
+
+If the differences in the nature of social life between East and
+West have been maintained, and if the original differences in
+cognitive orientations were due to the social psychological Ones,
+then cognitive differences might also be found today and not just
+among the intelligentsia.
+There is substantial evidence that the social psychological differences characteristic of ancient China and Greece do in fact
+persist. China and other East Asian societies remain collectivist
+and oriented toward the group, whereas America and other
+European-influenced societies are more individualist in orientation.4 For reviews and general treatments of these differences,
+see Bond (1996), Fiske, Kitayama, Markus, and Nisbett (1998),
+Hofstede (1980), Hsu (1981), Markus and Kitayama (1991),
+Nakamura (1964/1985), and Triandis (1972, 1995). As the psychologist L.-H. Chiu (1972) put it:
+Chinese are situation-centered. They are obliged to be sensitive to
+their environment. Americans are individual-centered. They expect
+their environment to be sensitive to them. Thus, Chinese tend to
+assume a passive attitude while Americans tend to possess an active
+and conquering attitude in dealing with their environment, (p. 236)
+[The American] orientation may inhibit the development of a tendency to perceive objects in the environmental context in terms of
+relationships or interdependence. On the other hand, the Chinese child
+learns very early to view the world as based on a network of relationships; he is socio-oriented, or situation-centered, (p. 241)
+
+From Social Organization to Cognitive Processes
+Social organization can influence cognitive processes without
+mediation by metaphysical beliefs. Dialectics and logic can both
+be seen as cognitive tools developed to deal with social conflict.
+People whose social existence is based on harmony would not be
+expected to develop a tradition of confrontation or debate. On the
+contrary, their intellectual goals when confronted with a contradiction in views might be oriented toward resolving the contradiction, transcending it, or finding a "Middle Way"—in short, to
+exercise a dialectical approach. In contrast, people who are free to
+contend with their fellows might be expected to develop rules for
+the conduct of debate, including the principle of noncontradiction
+and formal logic (Becker, 1986; Cromer, 1993; Lloyd, 1990, pp.
+8-9). Several commentators have maintained that the Greeks
+brought to the pursuit of science essentially the same principles of
+rhetoric that governed debate in the marketplace.
+Science, in this view, is an extension of rhetoric. It was invented in
+Greece, and only in Greece, because the Greek institution of the
+public assembly attached great prestige to debating skill. . . . A geometric proof i s . . . the ultimate rhetorical form. (Cromer, 1993,
+p. 144)
+
+The exact psychological processes by which social organization
+influences metaphysical beliefs, or metaphysical beliefs affect
+
+Differences?
+
+If the social differences have persisted, and if we are correct in
+believing that social factors influence metaphysics, epistemology,
+and ultimately cognitive processes, then several interrelated predictions can be made concerning cognitive differences between
+4
+
+We do not wish to imply that Eastern and Western* societies have been
+marked continuously by the sorts of differences found in ancient times. The
+West during the Middle Ages was similar economically and socially to
+ancient China in many ways, and one would never characterize the feudal
+period as being notably individualistic. In contrast, in various periods in
+China, especially during the late 2nd century to the early 4th century A.D.,
+there were substantial strains of individualism (Yu, 1985). It was probably
+not until the late Medieval Period that the West began to return to levels of
+individualism characteristic of ancient Greece. Since that time, however,
+the West has continued on an ever more individualist trajectory while the
+East in general has not. It is also important to note that there are marked
+differences even today within both the societies that we are labeling
+collectivist and those that we are labeling individualist. While acknowledging these differences, we agree with the mainstream view of historians,
+ethnographers, sociologists, and cultural psychologists that there are nonetheless broad and deep differences between East and West with respect to
+the collectivist-individualist dimension.
+
+296
+
+NISBETT, PENG, CHOI, AND NORENZAYAN
+
+contemporary societies that have been influenced by China and
+those that have been influenced by Greece.
+Attention. We believe that attention to the social environment
+is what underlay ancient Chinese attention to the field in general
+and accounts in part for metaphysical beliefs such as their recognition of the principle of action at a distance. If this notion is
+correct, we might find that contemporary Easterners and Westerners attend to different aspects of the environment. East Asians
+would be expected to attend more to the field than European
+Americans, who would be expected to attend more to a salient
+target object. Process implications follow: East Asians should be
+more accurate at covariation detection than Americans are, that is,
+the perception of relationships within the field. East Asians should
+also be more field dependent (Witkin, Dyk et al., 1974); that is,
+they should find it more difficult than Americans to isolate and
+analyze an object while ignoring the field in which it is embedded.
+Control. If a belief in personal agency underlay Greek curiosity and the invention of science, then Americans might be
+expected to perceive more control in a given situation than do East
+Asians and to benefit more from being given control. They might
+also be more subject to the illusion of control (Langer, 1975), that
+is, a greater expectation of success when the self is involved in
+interaction with the object—even when that interaction could not
+logically have an effect on the outcome.
+Explanation. If East Asians continue to have a metaphysical
+commitment to the notion that the whole context is relevant for a
+causal assessment of outcomes, we should find that their explanations of events invoke situational factors more frequently than do
+those of Americans. East Asians would be expected to explain
+events, both social and physical, with respect to the field—that is,
+contexts and situations—more than Americans would, and Americans would be expected to explain events more with respect to a
+target object and its properties. Thus Americans would be expected
+to be more prone to the fundamental attribution error—the tendency to attribute behavior to dispositions of the person and to
+slight the role of situations and contexts (Ross, 1977).
+Prediction and "postdiction." We are proposing that East
+Asians have always lived in a complex world in which many
+relevant factors are important to a consideration of outcomes. Thus
+their predictions about events might cast a wider net among
+potential causal candidates. They might also be expected to be less
+surprised by any given outcome because of their ready ability to
+find some explanation for it in the complex of potentially relevant
+factors. If explanations come to mind very easily for Asians, we
+might find that they are more susceptible to hindsight bias, the
+tendency to regard events as having been inevitable in retrospect
+(Fischhoff, 1975).
+Relationships and similarities versus rules and categories. If
+Easterners are oriented toward the field, we would expect that they
+would organize their worlds in terms of relationships among
+events in the environment. More concretely, East Asians would be
+expected to group objects and events on the basis of functional
+relationships and part-whole relationships; for example, "A is a
+part of B." Americans, in contrast, would be expected to group
+objects more on the basis of category membership; for example,
+"A and B are both Xs." Other predictions include the expectations
+that Americans might learn rule-based categories more readily
+than East Asians do and that Americans might rely more on
+categories for purposes of deduction and induction.
+
+Logic versus experiential knowledge. If the scant role played
+by logic in the history of East Asian mathematics, science, and
+philosophy has resonance in the thought processes of ordinary
+people today, and if the sympathy for formal approaches remains
+in the West, East Asians might be expected to rely more on prior
+beliefs and experience-based strategies when evaluating the convincingness of formal arguments than do Americans. We might
+also find that East Asians would be heavily influenced by prior
+beliefs in judging the soundness of formal arguments. Americans
+should be more capable of ignoring prior beliefs and setting aside
+experience in favor of reasoning based on logical rules.
+Dialectics versus the law of noncontradiction. If harmony
+remains the watchword in social relations for East Asians, and if
+social needs influence intellectual stances, East Asians would be
+expected to seek compromise solutions to problems, to prefer
+arguments based on principles of holism and continuity, and to try
+to reconcile or transcend seeming contradictions. If the debater's
+concern about contradiction continues to affect Western approaches to problems, Americans should be more inclined to reject
+one or both of two propositions that could be construed as contradicting one another.
+As we will see, there is support for each of these hypotheses. In
+our review, we will not provide details about samples of participants in particular studies. Suffice it to say that we find supportive
+evidence whether the East Asians studied are ethnic Chinese,
+Koreans, or Japanese and whether they are living in their own
+countries or living as foreign students at U.S. universities and
+whether materials for East Asians are in English or translated into
+their native languages. Though most of the participants in research
+to date are students, there is also supportive evidence for nonstudents. It is entirely possible, of course, that there are significant
+differences among the various East Asian populations with respect
+to some of the issues we discuss. Certainly there are substantial
+social and cultural differences, some of which might plausibly
+affect cognitive processes. It should also be noted that the great
+majority of people of European culture who have been studied are
+Americans, and North Americans may well differ more from East
+Asians than do Europeans or Latin Americans.
+
+Attention and Control
+Work by Meyer and Kieras and their colleagues (Meyer, 1995;
+Meyer & Kieras, 1997a, 1997b, 1999) suggests that allocation of
+attention is highly malleable and subject to learned strategic adjustments such that perceptual "bottlenecks" can be ameliorated.
+Work by Rogoff and her colleagues (Chavajay & Rogoff, 2000;
+Rogoff, Mistry, Goncii, & Mosier, 1993) indicates that people in
+some cultures attend to a much wider range of events simultaneously than do people in other cultures. Thus East Asians might
+be capable of attending to both the object and the field, and to a
+wider range of objects in the field, than are Americans. We might
+also expect that, if Westerners attend to the object more, and if
+they believe that they understand the rules influencing the object's
+behavior, they might have a greater belief in the controllability of
+the object than is characteristic of Asians. Several implications
+follow from these considerations: (a) Easterners should see wholes
+where Westerners see parts; (b) Easterners should more easily see
+relationships among elements in the field but (c) find it more
+difficult to differentiate an object when it is embedded in the field;
+and (d) Westerners' perceptions and behavior should be more
+
+CULTURE AND THOUGHT
+
+influenced by the belief that they have control over the object or
+environment.
+Holistic versus analytic Rorschach responses. In an early
+study by Abel and Hsu (1949), Rorschach cards were presented to
+European Americans and Chinese Americans. The investigators
+found that their Chinese American participants were more likely
+than their European American counterparts to give so-called
+"whole-card" responses, in which all aspects of the card, or its
+Gestalt as a whole, was the basis of the response. Their European
+American participants were more likely to give "part" responses,
+in which only a single aspect of the card was the basis of the
+response.
+Attention to the field. Masuda and Nisbett (2001) presented
+realistic animated scenes of fish and other underwater objects to
+Japanese and Americans and asked them to report what they had
+seen. The first statement by American participants usually referred
+to the focal fish ("there was what looked like a trout swimming to
+the right"), whereas the first statement by Japanese participants
+usually referred to background elements ("there was a lake or
+pond"). Although Americans and Japanese were equally likely to
+mention details about the focal fish, Japanese participants made
+about 70% more statements about background aspects of the
+environment. In addition, Japanese participants made about twice
+as many statements concerning relations involving inanimate aspects of the environment ("the big fish swam past the gray seaweed"). In a subsequent recognition task, Japanese performance
+was harmed by showing the focal fish with the wrong background,
+indicating that the perception of the object had been "bound"
+(Chalfonte & Johnson, 1996) to the field in which it had appeared.
+In contrast, American recognition of the object was unaffected by
+the wrong background.
+A similar "binding" result was obtained by Hedden and his
+colleagues (Hedden et al, 2000; Park, Nisbett, & Hedden, 1999).
+They asked their Chinese and American participants to look at a
+series of cards having a word printed either on a background of
+social stimuli (e.g., people at a market) or on no background. The
+words were unrelated to the pictures. Then participants were asked
+to recall as many words as they could. Chinese, but not Americans,
+recalled words better if they had been presented on the background, indicating that recall of the background served as a retrieval cue for the word for them.
+Detection of covariation. Ji, Peng, and Nisbett (2000) examined ability to detect covariation among environmental stimuli.
+Chinese and American participants were asked to judge the degree
+of association between arbitrary figures. On the left side of a
+computer screen, one of the two arbitrary figures was shown—for
+example, a schematic medal or a schematic light bulb. Immediately following that, on the right of the screen, one of another two
+figures was shown—for example, either a pointing finger or a
+schematic coin. Actual covariation between figures on the left and
+those on the right ranged from the equivalent of a correlation of .00
+to one of .60. Chinese participants reported a greater degree of
+covariation than did American participants and were more confident about their covariation judgments. Their confidence judgments were also better calibrated with actual covariation. In addition, as Yates and Curley (1996) found, American participants
+showed a strong primacy effect, making predictions about future
+covariations that were much more influenced by the first pairings
+they had seen than by the overall degree of covariation to which
+they had been exposed. Chinese participants, in contrast, showed
+
+297
+
+no primacy effect at all, making predictions about future covariation that were based on the overall covariation they had actually
+seen.
+Field dependence. Because of their habit of decontextualization and analysis, Americans should find it easier to separate an
+object from the field in which it is embedded than should East
+Asians. To examine this possibility, Ji and her colleagues (2000)
+examined the performance of East Asians and Americans
+(matched for SAT math score) on the Rod and Frame Test of
+Witkin and his colleagues (Witkin et al., 1954). In this task, the
+participant looks into a rectangular box framing a rod that sits
+inside it. The task is to report when the rod appears to be vertical.
+Field dependence is indicated by the degree to which judgments
+about the position of the rod are influenced by the position of the
+frame. Ji and colleagues found that East Asian participants made
+more errors on the test than did American participants. East Asian
+participants were also less confident about the accuracy of their
+performance than were American participants.5
+(Illusion of) control. It seems likely that if Americans believe
+they have control over events, they might pay more attention to
+them. Moreover, control is sufficiently important that people often
+fail to distinguish between objectively controllable events and
+uncontrollable ones. This "illusion of control" was defined by
+Langer (1975) as being an expectancy of personal success higher
+than the objective probability would warrant. The illusion of
+control can actually result in improvement of some cognitive
+functions for Americans. For example, participants were found to
+perform better on routine tasks when they believed mistakenly that
+they could control a loud noise that occurred periodically during
+the tasks (Glass & Singer, 1973). Some cross-cultural work suggests that East Asians may not be so susceptible to this illusion.
+Yamagushi, Gelfand, Miguno, and Zemba (1997) found that
+American males were more optimistic in a condition in which they
+had an illusion of personal control over the environment, whereas
+American females and Japanese of both genders were not.
+As these considerations would suggest, both the covariation
+detection findings and the field dependence findings just discussed
+were affected by manipulations intended to give participants a
+sense of control. In one condition of the covariation-detection task,
+participants were allowed to push a button to control which stimulus was presented on the left, and they could also control the
+intertrial interval. Whereas this manipulation could have no effect
+on the degree of covariation, Americans who were given "control"
+in this fashion tended to see more covariation and express more
+confidence in their judgments about covariation, whereas Chinese
+5
+Several studies compared the field dependence of East Asians and
+Westerners using Witkin's Embedded Figures Test (EFT), in which a small
+figure is shown to participants and they are then asked to find it in a larger,
+more complicated figure. Typically no difference is found or a slight
+difference is found favoring East Asians (Bagley, 1995; Huang & Chao,
+1995). As Bagley has pointed out, however, this result is ambiguous,
+because the figures used in the test resemble the characters in Chinese and
+other East Asian writing systems. To examine if, indeed, writing systems
+might be responsible for the lesser field dependence of East Asians examined using the EFT, Kiihnen, Hannover, Ro'der, et al. (2000) compared
+various Western populations with Malaysians—a highly collectivist East
+Asian population that, however, has a Latin writing system—and found the
+Malaysians substantially more field dependent than any of the other three
+groups.
+
+298
+
+NISBETT, PENG, CHOI, AND NORENZAYAN
+
+participants showed the opposite tendencies. Moreover, control
+actually impaired the calibration of Chinese judgments, whereas
+this was not true for Americans. Similarly, in the Rod and Frame
+task, when participants were allowed to control the movement of
+the rod, the accuracy of American males improved whereas that of
+the other groups did not. Finally, the confidence of both American
+males and American females was greater when they had control
+over the rod, and this was not true for East Asians of either gender.
+Thus the attention of East Asians appears to be directed more
+toward the field as a whole and that of Americans more toward the
+object. East Asians found it easier to see relationships in the
+environment but found more difficulty in separating object from
+field. In addition, Americans and East Asians were affected quite
+differently by control or the illusion of it: Americans' performance
+improved and their confidence increased with control, whereas that
+of East Asians did not.
+
+Explanation and Prediction
+It seems reasonable to assume that people attribute causality to
+the events they attend to. If Westerners attend to the object, we
+would expect them to attribute causality to the object. If East
+Asians attend to the field and the object's relations with the field,
+it seems likely that they would be more inclined to attribute
+causality to context and situations. Each of these expectations is
+supported by a substantial amount of evidence.
+
+Dispositions Versus Contexts in Explanation
+Causal attribution and prediction. One of the best established
+findings in cognitive social psychology concerns the so-called
+"correspondence bias" (Gilbert & Malone, 1995) or "fundamental
+attribution error" (FAE; Ross, 1977)—the tendency to see behavior as a product of the actor's dispositions and to ignore important
+situational determinants of the behavior. If it is really the case that
+East Asians are more oriented toward contextual factors than are
+European Americans, then we might expect that they would be less
+subject to the FAE. I. Choi, Nisbett, and Norenzayan (1999;
+Norenzayan, Choi, & Nisbett, 1999) have recently reviewed research supporting this contention.
+Work by Miller (1984) initially suggested that the FAE might
+indeed be more characteristic of Western culture than of other
+cultures. She found that whereas Americans explained another
+person's behavior predominantly in terms of traits, (e.g., recklessness or kindness), Hindu Indians explained comparable behaviors
+in terms of social roles, obligations, the physical environment, and
+other contextual factors. A similar demonstration by Morris and
+Peng (Morris, Nisbett, & Peng, 1995; Morris & Peng, 1994)
+showed that causal explanations by Americans of events such as
+mass murders focused almost wholly on the presumed mental
+instability and other negative dispositions of the murderers,
+whereas accounts by Chinese of the same events speculated on
+situational, contextual, and even societal factors that might have
+been at work. Lee, Hallahan, and Herzog (1996) found that sports
+editorial writers in Hong Kong focused on contextual explanations
+of sports events, whereas American sports writers were more likely
+to prefer explanations involving the dispositions of individual team
+members. Norenzayan, Choi, and Nisbett (2001) found that Korean participants were more responsive to contextual factors when
+making predictions about how people in general would be ex-
+
+pected to behave in a given situation and, much more than did
+American subjects, made use of their beliefs about situational
+power when making predictions about the behavior of a particular
+individual. Cha and Nam (1985) also found Koreans to make far
+more use of situationally relevant information when making causal
+attributions than Americans did.
+Importantly, Norenzayan et al. (2001) found that Koreans and
+Americans were able to articulate metatheories of behavior that
+accorded with their explanations and predictions. Koreans endorsed situational and interactional theories more than did Americans. The East Asian focus on the field and the American focus on
+the object can be apparent even when the East Asian attributions
+are dispositional in nature. Menon, Morris, Chiu, and Hong (1999)
+have found that East Asian dispositional explanations of events
+(e.g., scandals in organizations) were more likely than those of
+Americans to refer to group dispositions.
+The different forms of preferred explanation apparently extend
+beyond social events. Morris and Peng (1994) and Hong, Chiu, and
+Kung (1997) showed participants cartoon displays of fish moving
+in relation to one another in various ways. Chinese participants
+were more likely to see the behavior of the individual fish as being
+produced by external factors than Americans were, and American
+participants were more inclined to see the behavior as being
+produced by internal ones. Peng and Nisbett (2000) have shown
+that the physical theories of contemporary Chinese and Americans
+reflect those of their respective scientific predecessors two-and-ahalf millennia ago. For ambiguous physical events involving phenomena that appeared to be hydrodynamic, aerodynamic, or magnetic, Chinese were more likely to refer to the field when giving
+explanations (e.g., "the ball is more buoyant than the water") than
+Americans were. (For less ambiguous, lever and "billiard ball"
+events, the explanations of Americans and Chinese were almost
+identical.) Thus the attributional differences probably should not
+be regarded as mere belief differences about local aspects of the
+world, but rather as deep metaphysical differences not limited to
+rules about particular domains specifically taught by the culture.
+Attitude attribution paradigm. One of the first experimental
+demonstrations of the fundamental attribution error was by Jones
+and Harris (1967). Participants read an essay, either supporting or
+opposing some position on an important social question of the day,
+that allegedly had been written by another student. It was made
+clear to participants in a "No Choice" condition that the target had
+no choice about which side to take in the essay. For example, the
+target had been required to write an essay in favor of Castro's
+Cuba for a political science exam. Although normatively this
+information might be expected to eliminate any assumption that
+the essay reflected anything about the actual beliefs of the target,
+participants who read the "Pro" essay reported believing that its
+writer was probably much more in favor of the question than did
+participants who read the "Con" essay.
+I. Choi and Nisbett (I. Choi, 1998; I. Choi & Nisbett, 1998)
+duplicated the basic conditions of the Jones and Harris study and
+added a condition in which, before making judgments about the
+target's attitude, participants were required to write an essay themselves and allowed no choice about which side to take. It was made
+clear to participants that the target had been through the same
+procedure they themselves had been. The American participants in
+this condition made inferences about the target's attitude that were
+as strong as those made by participants in the standard "No
+Choice" condition. Korean participants, in contrast, made much
+
+CULTURE AND THOUGHT
+
+less extreme inferences than did Korean participants in the standard "No Choice" condition. Thus Korean participants, presumably by virtue of seeing the role that the situation played in their
+own behavior, recognized its power and made attributions about
+others accordingly. Similar sensitivity to situational constraints in
+attitude attribution was obtained with Japanese participants by
+Masuda and Kitayama (Kitayama & Masuda, 1997; Masuda,
+1996).
+
+Holistic Prediction and Postdiction
+Attention to the field would appear to have clear advantages for
+explanation of events, inasmuch as it allows for avoidance of the
+fundamental attribution error. But attention to a broad range of
+factors might mean that any event can be readily explained—
+perhaps too readily explained. If a host of factors is attended to,
+and if naive metaphysics and tacit epistemology support the view
+that multiple, interactive factors are usually operative in a given
+outcome, then any outcome may seem to be understandable, even
+inevitable, after the fact. And indeed, I. Choi, Dalai, and KimPrieto (2000) have shown that Koreans regard a larger number of
+factors as potentially relevant to explaining a given event. They
+gave European American, Asian American, and Korean participants a detective story and listed a large number of facts. Participants were asked to indicate which of the facts were irrelevant to
+solving the mystery. Koreans reported believing that far fewer
+facts were irrelevant than did European Americans. Asian Americans were intermediate between the other two groups.
+Hindsight bias. An advantage of the more simplistic, rulebased stance of the Westerner may be that surprise is a frequent
+event. Post hoc explanations may be relatively difficult to generate, and epistemic curiosity may be piqued. The curiosity, in turn,
+may provoke a search for new, possibly superior models to explain
+events. In contrast, if Eastern theories about the world are less
+focused, and a wide range of factors are presumed to be potentially
+relevant to any given outcome, it may be harder to recognize that
+a particular outcome could not have been predicted. Hindsight bias
+(Fischhoff, 1975), or the tendency to assume that one knew all
+along that a given outcome was likely, might therefore be greater
+for Easterners.
+These notions were tested in a series of experiments by I. Choi
+and Nisbett (I. Choi, 1998; I. Choi & Nisbett, 2000). One study
+presented a scenario based on the "Good Samaritan" experiment of
+Darley and Batson (1973). Participants were told about one particular young seminary student, who, they were assured, was a
+very kind and religious person. He was headed across campus to
+deliver a sermon and along the way he encountered a man lying in
+a doorway asking for help. Participants were also told that the
+seminarian was late to deliver his sermon. In Condition A, where
+participants did not know what the target had done, they were
+asked what they thought was the probability that the target would
+help and how surprised they would be if they were to find out that
+he had not helped. Both Koreans and Americans reported about an
+80% probability that the target would help and indicated they
+would be quite surprised if he did not. In Condition B, participants
+were told the target had helped the victim, and in Condition C they
+were told he had not helped the victim. Participants in these
+conditions were asked what they believed they would have regarded as the probability that the target would have helped—if, in
+fact, they had not been told what he did—and also how surprised
+
+299
+
+they were by his actual behavior. Again, both Koreans and Americans in Condition B indicated they would have thought the probability of helping was about 80%, and both groups reported no
+surprise that he did help. Americans in Condition C, where the
+target unexpectedly did not help the victim, also reported that they
+would have thought the probability was about 80% that the target
+would have helped and reported a great deal of surprise that he did
+not do so. In contrast, Koreans in Condition C reported that they
+would have thought the probability was only about 50% that the
+target would have helped and reported little surprise that he did
+not. Thus Americans experienced surprise where Koreans did not,
+and Koreans showed a very pronounced hindsight bias, indicating
+that they thought they knew something all along which in fact they
+did not.
+Influence of alternative possibilities on surprise at outcomes.
+An additional study by I. Choi and Nisbett (in press) indicates that
+Easterners are not as surprised by unanticipated outcomes as
+Americans are. We would expect Westerners to regard a scientific
+finding as more likely if they had previously been presented only
+with a theory that would lead them to expect that finding than if
+they had also been presented in addition with a theory that would
+lead them to expect the opposite. On the other hand, if Koreans are
+in the habit of regarding outcomes as inevitable, then we would not
+necessarily expect them to be much more surprised when presented with two opposing theories than when presented only with
+the theory predicting the actual outcome. And, indeed, this is what
+was found. Americans reported being more surprised when presented with two strongly competing hypotheses, whereas Koreans
+were no more surprised when presented with two opposing hypotheses than when presented with only one.
+Surprise when an "outcome " is found not to be true. In a final
+study, I. Choi and Nisbett (2000) showed that Koreans expressed
+little surprise even when an outcome literally contradicted another
+outcome they had just read about. Participants read either that
+scientific research had shown that more-optimistic people have
+better mental health or that more-realistic people do. Participants
+rated how surprising they found this result to be. Then, under a
+ruse, the experimenter "discovered" that the materials they had
+read were mistaken, due to a printing error, and that it was the
+opposite hypothesis that had been supported. Apologetically, he
+asked the participants if they would fill out the materials again.
+Americans reported substantial surprise if they read that it was the
+less plausible, "realism" hypothesis that, after all, was the correct
+one. Koreans reported much less surprise than Americans.6
+The results support the view that East Asians have complicated
+but underspecified theories about the world that leave them insufficiently surprised by outcomes that differ from those that are
+anticipated. Thus, we would maintain that the same cognitive
+predispositions that make Asians less prone to the fundamental
+attribution error leave them prey to the hindsight bias and may also
+reduce their epistemic curiosity.
+
+6
+When shown only one hypothesis, Koreans and Americans regarded
+the "optimism" hypothesis as equally likely and the two groups also
+regarded the "realism" hypothesis as equally likely. Neither Americans nor
+Koreans expressed much surprise when the more plausible hypothesis
+replaced the less plausible one.
+
+300
+
+NISBETT, PENG, CHOI, AND NORENZAYAN
+
+Relationships and Similarities Versus Rules and
+Categories
+If Westerners attribute causality primarily to objects, it seems
+likely that they do so on the basis of rules that they presume to
+govern the behavior of objects. Rules, in turn, are of value to the
+extent that they apply over a large number and specifiable type of
+objects, that is, to a category. Thus rules and categories would be
+expected to be a major basis of organizing events for Westerners.
+If Easterners attribute causality primarily to the field, then it is
+relationships between the object and the field, and relationships
+among events in the field, that might serve as the basis of organization. There is a good deal of evidence supporting these
+expectations.
+Relationships versus categories as the basis for grouping.
+Chiu (1972) gave items consisting of three pictures of human,
+vehicle, furniture, tool, or food categories to American and Chinese children. Children were asked "to choose any two of the three
+objects in a set which were alike or went together and to state the
+reason for the choice" (p. 237). The dominant style of the Chinese
+children was "relational-contextual." For example, shown a picture
+of a man, a woman, and a child, the Chinese children were likely
+to group the woman and child together because "the mother takes
+care of the baby." In contrast, American children were much more
+likely to group objects on the basis of category membership or
+shared features, for example, to group the man and the woman
+because "they are both adults."
+Relationships versus categories as the basis for judgments of
+association. Ji and Nisbett (Ji, 2001; Ji & Nisbett, 2001) obtained
+the same results as Chiu did with adult Chinese and American
+college students, who were tested in their native languages. They
+asked participants to indicate which of two objects out of three,
+described verbally, were most closely related. In all cases, two of
+the objects shared some kind of relationship, either functional
+(e.g., pencil and notebook) or contextual (e.g., sky and sunshine)
+and also shared a category (e.g., notebook and magazine) or some
+feature that would allow them to be categorized together (e.g.,
+sunshine and brightness). Chinese were more likely to group on the
+basis of relationships, and Americans were more likely to group on
+the basis of categories or shared object features. Participants were
+asked to justify their groupings and Chinese were found to be more
+likely to offer relationships as the justification ("the sun is in the
+sky"), whereas Americans were more likely to offer category
+membership as the justification ("the sun and the sky are both in
+the heavens").
+Family resemblance versus rules as the basis for judgments of
+similarity. Norenzayan, Nisbett, Smith, and Kim (2000; Norenzayan, 1999) presented East Asians (Chinese and Koreans), Asian
+Americans, and European Americans with a series of stimuli on a
+computer screen in which a simple target object appeared beneath
+two groups of four similar objects. The groups were always constructed so that the use of a family resemblance strategy and the
+use of a rule strategy led to different responses (Kemler-Nelson,
+1984). The objects in one group had a close family resemblance to
+one another and to the target object, whereas the objects in the
+other group did not share a close resemblance with the target
+object. Instead, the objects of the second group were all describable by a unidimensional, deterministic rule; for example, they all
+had a curved stem (vs. a straight stem), and the rule was also
+applicable to the target object. Participants were asked to indicate
+
+to which group the target object was most similar. A majority of
+East Asian participants picked the "family resemblance" group,
+whereas a majority of the European American participants picked
+the "rule" group. Asian Americans showed intermediate reasoning,
+having equal preferences for the rule group and the family resemblance group.
+Categories and induction. Osherson, Smith, Wilkie, Lopez,
+and Shafir (1990) have proposed a theory of inductive inference
+from categories, which holds that people's willingness to generalize is in part a function of the extent to which premise categories
+"cover" the lowest level category that includes all premise categories. Thus, when people are told that lions and giraffes have a
+particular property, they are more willing to infer that rabbits have
+the property than when they are told that lions and tigers have the
+property (since lions and giraffes provide more coverage of the
+category mammal than do lions and tigers). Work by I. Choi,
+Nisbett, and Smith (1997) indicates that Koreans make less use of
+categories for purposes of inductive inference than do Americans.
+For example, they were less influenced than Americans by coverage of the category—unless the category was made salient in some
+way. In one manipulation, the category was mentioned in the
+conclusion (i.e., participants made an inference about "mammals"
+rather than "rabbits"). This manipulation had no effect on Americans but increased the degree to which Koreans relied on the
+category. Thus categories are apparently less spontaneously salient for Koreans and, hence, are less available for guiding
+generalizations.
+Category learning. If East Asians are relatively unlikely to use
+explicit rules for assigning attributes to objects and objects to
+categories, then it might be more difficult for them to learn how to
+classify objects by applying rale systems. Work by Norenzayan et
+al. (2000) suggests this is the case. Adopting a paradigm of Allen
+and Brooks (1991), they presented East Asians, Asian Americans,
+and European Americans with cartoon animals on a computer
+screen and told them that some of the animals were from Venus
+and some were from Saturn. Participants in an exemplar-based
+categorization condition were asked simply to observe a series of
+animals and make guesses, with feedback, about the category to
+which each belonged. Other participants were assigned to a rule
+condition and went through a formal, rule-based category learning
+procedure. They were told to pay attention to five different properties of the animals—curly tail, knobby antennas, and so forth—
+and were told that if the animal had any three of these properties
+it was from Venus; otherwise, it was from Saturn.
+Asian and American participants performed equally well at the
+exemplar-based categorization task with respect both to errors and
+to speed of response. But in the rale condition, East Asian participants' response times were slower than those of Americans. Most
+tellingly, when the test trial in the rale condition presented an
+animal that met the formal rale criteria for a given category but
+more closely resembled an animal in the other category—thus
+placing rule-based and memory-based categorizations in conflict—Asians made more errors of classification than did Americans. (They did not make more errors when the test animal more
+closely resembled an instance of the category of which it was also
+a member in terms of the formal rule, and thus either a rale-based
+decision or an exemplar-based decision would yield the right
+answer.) Asian Americans' performance was almost identical to
+that of European Americans for both speed and accuracy.
+
+CULTURE AND THOUGHT
+
+Thus the results of several studies indicate that East Asians rely
+less on rules and categories and more on relationships and similarities in organizing their worlds than do Americans. East Asians
+preferred to group objects on the basis of relationships and similarity, whereas Americans were more likely to group objects on the
+basis of categories and rules. Americans were more likely to rely
+spontaneously on categories for purposes of inductive reasoning
+than were East Asians and found it easier to learn and use rulebased categories.
+
+Formal Logic Versus Experiential Knowledge
+There is a long Western tradition—from the ancient Greeks, to
+the medieval Scholastics, to the prepositional logic theoreticians of
+the late 19th and early 20th centuries—of analyzing argument
+structure apart from content and of reasoning on the basis of the
+underlying abstract propositions alone. Such a tradition has never
+been common in the East, where instead there has been an explicit
+disapproval of such decontextualizing practices and an emphasis
+on the appropriateness of plausibility and sense experience in
+evaluating propositions. Several studies suggest that East Asians
+do indeed rely less on formal logic and more on experiential
+knowledge in reasoning than do Americans—at any rate when
+logic and experience are in conflict.
+Typicality versus logic. Consider the following two deductive
+arguments. Is one more convincing than the other?
+1. All birds have ulnar arteries.
+Therefore, all eagles have ulnar arteries.
+2. All birds have ulnar arteries.
+Therefore, all penguins have ulnar arteries.
+
+One way to measure the extent to which people spontaneously
+rely on formal logic versus experiential knowledge in reasoning is
+to examine how they project properties (the "blank" property
+"ulnar arteries" in the above example) from superordinate categories (birds) to subordinate categories (eagles, penguins). Notice
+that the two arguments have identical premises, but their conclusions vary in the typicality of the exemplar. (Eagles are more
+typical birds than penguins.) Reasoners who apply logic would
+"see" the implicit middle premises of each argument ("All eagles
+are birds," and "all penguins are birds"). Such reasoners would
+find both deductive valid arguments equally convincing. But people often find typical arguments to be more convincing than
+atypical ones (Sloman, 1993).
+Norenzayan and colleagues (2000) asked Korean, Asian American, and European American participants to evaluate the convincingness of a series of such arguments. The responses of participants who received only typical arguments were compared with
+those who received only atypical arguments. As expected, Koreans
+showed a large typicality effect, being more convinced by typical
+than by atypical arguments. European Americans, in contrast, were
+equally convinced by typical and atypical arguments. Asian Americans' responses were in between those of European Americans
+and Koreans. (When an experimental manipulation was introduced
+that increased the salience of the typicality information, all three
+groups showed the typicality effect to the same extent.)
+Knowledge versus logic. In another study, Norenzayan and
+colleagues (2000) presented participants with syllogisms that were
+either valid or invalid and that had conclusions that were either
+
+301
+
+plausible or implausible. In addition, some arguments were presented in abstract form with no content. Korean and American
+university students were instructed to evaluate the logical validity
+of each argument and decide whether the conclusion followed
+from the premises. Results showed that, overall, there was an
+effect of logic as well as of knowledge, consistent with past
+research. Thus, participants correctly judged valid arguments to be
+more valid than invalid ones, and incorrectly judged arguments
+with plausible conclusions to be more valid than arguments with
+implausible conclusions. As predicted, Korean participants
+showed a stronger "belief bias" for valid arguments than did
+American students, being more inclined to judge valid arguments
+as invalid if they had implausible conclusions. Importantly, this
+difference cannot be attributed to cultural differences in the ability
+to reason logically, since both cultural groups showed equal performance on the abstract items. Rather, the results indicate that
+when logical structure conflicts with everyday belief, American
+students are more willing to set aside empirical belief in favor of
+logic than are Korean students.
+
+Dialectics Versus the Law of Noncontradiction
+Peng and Nisbett (Peng, 1997; Peng & Nisbett, 1999) have
+maintained that East Asians do not have the same commitment to
+avoiding the appearance of contradiction as do Westerners. Examples of rules about contradiction that have played a central role in
+the Western intellectual tradition include the following:
+1. The law of identity: A = A. A thing is identical to itself.
+2. The law of noncontradiction: A + not-A. No statement can be both
+true and false.
+3. The law of the excluded middle: Any statement is either true or
+false.
+
+Following the proposals of many philosophers of both the East
+and the West (e.g., Liu, 1974; Needham, 1962/1978; Zhang &
+Chen, 1991), Peng and Nisbett argued that there is a tradition in
+Eastern philosophy that is opposed at its roots to the formal logic
+tradition, namely the dialectical approach. So-called "naive dialecticism" resembles the dialectic of Hegel and Marx inasmuch as
+it sometimes involves the creation of a synthesis from a thesis and
+antithesis. But more commonly it involves transcending, accepting, or even insisting on the contradiction among premises (Huff,
+1993; Liu, 1974; Lloyd, 1990; Needham, 1962; Zhang & Chen,
+1991; Zhou, 1990). Peng and Nisbett (1999) characterized dialecticism in terms of three principles.
+1. The principle of change: Reality is a process that is not static but
+rather is dynamic and changeable. A thing need not be identical to
+itself at all because of the fluid nature of reality.
+2. The principle of contradiction: Partly because change is constant,
+contradiction is constant. Thus old and new, good and bad, exist in the
+same object or event and indeed depend on one another for their
+existence.
+3. The principle of relationship or holism: Because of constant
+change and contradiction, nothing either in human life or in nature is
+isolated and independent, but instead everything is related. It follows
+that attempting to isolate elements of some larger whole can only be
+misleading.
+
+302
+
+NISBETT, PENG, CHOI, AND NORENZAYAN
+
+These principles are, of course, not altogether alien to Western
+epistemology of either the naive or the professional sort. Indeed,
+Western developmental psychologists (Bakes & Staudinger, 1993;
+Basseches, 1980, 1984; Riegel, 1973) have argued that such "postformal" principles are learned in late adolescence and early adulthood to one degree or another by Westerners and that "wisdom"
+consists in part of being able to supplement the use of formal
+operations with a more holistic, dialectical approach to problems.
+But evidence we now present indicates that Western reliance on
+dialectical principles is weaker than that of Easterners, and Western reliance on the foundational principles of formal logic, especially the principle of noncontradiction, is stronger.
+Dialectical resolution of social contradictions. Peng and Nisbett (Peng, 1997; Peng & Nisbett, 1999) presented Chinese and
+American students with contradictions drawn from everyday life.
+For example, they were asked to analyze a conflict between
+mothers and their daughters and between having fun and going to
+school. American responses tended to come down in favor of one
+side or the other ("mothers should respect daughters' independence"). Chinese responses were more likely to find a "Middle
+Way," which found merit and fault on both sides and attempted to
+reconcile the contradiction ("both the mothers and the daughters
+have failed to understand each other").
+Dialecticism and preferred argument form. Peng and Nisbett
+(Peng, 1997; Peng & Nisbett, 1999) gave Chinese and American
+participants, all of whom were graduate students in the natural
+sciences, two different types of arguments for each of two different
+propositions and asked them to indicate which argument they
+preferred. In each case, one of the arguments was a logical one
+involving contradiction and one was a dialectical one. Thus, in one
+problem, two arguments for the existence of God were pitted
+against one another. One was a variant of the so-called "cosmological" or "first cause" argument. It holds that because everything
+must have a cause, this creates an infinite regression of cause and
+effect unless there is a primary cause by an infinite being. The
+dialectical argument applied the principle of holism, stating that
+when two people see the same object, such as a cup, from different
+perspectives, one person sees some aspects of the cup, and the
+other sees other aspects. But there must be a God above all
+individual perspectives who sees the truth about the object. Americans preferred the argument based on noncontradiction in each
+case, and Chinese preferred the dialectic one.
+Judgments about contradictory propositions. One of the strongest implications of the notion that Westerners adhere to a logical
+analysis of problems is that, when presented with apparently
+contradictory propositions, they should be inclined to reject one in
+favor of the other. Easterners, on the other hand, committed to the
+principle of the Middle Way, might be inclined to embrace both
+propositions, finding them each to have merit. In one study, Peng
+and Nisbett (1999) presented participants with either one proposition or two propositions that were, if not outright contradictions, at
+least very different and on the surface unlikely to both be true. The
+propositions were presented in the form of social science studies.
+For example, one proposition was: "A survey found that older
+inmates are more likely to be ones who are serving long sentences
+because they have committed severely violent crimes. The authors
+concluded that they should be held in prison even in the case of a
+prison population crisis." Its counterpart was: "A report on the
+prison overcrowding issue suggests that older inmates are less
+
+likely to commit new crimes. Therefore, if there is a prison
+population crisis, they should be released first."
+Participants read about one of these studies (A or B) or both (A
+and B) and rated their plausibility. In the case of all five issues
+presented, Chinese and American participants agreed on which of
+the two was the more plausible. In the A and B condition, Americans judged the plausibility of the more plausible proposition as
+greater than did Americans who read only the more plausible
+assertion by itself. Thus Americans actually found a contradicted
+assertion to be more plausible than the same proposition when not
+contradicted, a normatively dubious tendency that indicates that
+they felt substantial pressure to resolve the contradiction by buttressing their prior beliefs. (This finding is reminiscent of one by
+Lord, Ross, & Lepper [1979], who found that when people read
+about two different studies, one supporting their view on capital
+punishment and one opposing it, they were more convinced of
+their initial position than if they had not read about any studies.) In
+contrast, Chinese participants in the A and B condition resolved
+the contradiction between the two propositions by finding them to
+be equally plausible, as if they felt obligated to find merit in both
+the conflicting propositions. They actually found the less plausible
+proposition to have more merit when it had been contradicted than
+when it had not—also a normatively dubious inference but utterly
+different in kind from that of the Americans.
+Persuasion by strong versus weak arguments. If Westerners
+respond to apparent contradiction by trying to decide which side is
+correct, but Easterners respond by yielding points to both sides,
+then the two groups might respond differently to arguments against
+an initially held position. Westerners might increase their confidence in their initial position when presented with a weak argument, whereas Easterners might decrease their confidence. This is
+what was found by Davis and her colleagues (Davis, 2000; Davis,
+Nisbett, & Schwarz, 2000). They presented groups of Korean,
+Asian American, and European American participants with a set of
+strong arguments in favor of funding a particular scientific project.
+They presented another group with the same set of strong "Pro"
+arguments and an additional set of weak arguments against funding the project. Korean and American participants were equally in
+favor of funding the project when presented with just the strong
+"Pro" arguments, but the two groups behaved in qualitatively
+different ways when presented additionally with weak "anti" arguments. Koreans were more unfavorable when weak "anti" arguments were added. But Americans were actually more favorable
+toward funding the project when presented with the additional
+weak "anti" arguments than when presented with no "anti" arguments—behavior that is normatively quite suspect.
+Justification of choice. The Western preference for principleguided decisions and the Eastern preference for the "Middle Way"
+appears to apply also for actual choice behavior. Briley, Morris,
+and Simonson (2000) studied the consumer choices of East Asians
+and European Americans. All choices were among a triad of
+objects that differed on two dimensions. Object A was superior to
+both Object B and C on one dimension, and Object C was superior
+to both Object A and B on the other dimension. Object B was
+always intermediate between A and C on both dimensions. On
+average, across the range of choices, Americans and East Asians in
+a control condition were about equally likely to choose intermediate Object B. In an experimental condition, Briley et al. had
+participants give reasons for their choice. They anticipated that this
+would prompt Americans to look for a simple rule that would
+
+CULTURE AND THOUGHT
+justify a given choice (e.g., "RAM is more important than hard
+drive space") but would prompt people of Asian culture to seek a
+compromise ("both RAM and hard drive space are important").
+This is what was found. Americans in the justification condition
+moved to a preference for one of the extreme objects whose choice
+could be justified with reference to a simple rule, whereas Asian
+culture participants moved to a preference for the compromise
+object. Justifications given by participants were consistent with
+their choices, with Americans being more likely to give rule-based
+justifications and Chinese being more likely to give compromisebased justifications.
+Thus there is substantial evidence to indicate that Easterners are
+not concerned with contradiction in the same way as are Westerners. They have a greater preference for compromise solutions and
+holistic arguments; they are more willing to endorse apparently
+contradictory arguments; and they are more willing to move their
+beliefs in the direction of an argument, even when it is a weak one.
+Finally, when asked to justify their choices, they seem to move to
+a compromise, "middle way" instead of referring to a dominating
+principle. It should be noted that the greater adherence to the
+principle of noncontradiction on the part of Americans seems to
+produce no guarantee against normatively questionable inferences.
+On the contrary, their adherence to the principle of noncontradiction may sometimes cause them to become more extreme in their
+judgments under conditions in which the evidence indicates they
+should become less extreme. This tendency mirrors complaints
+about hyperlogical Western habits of mind often expressed by
+philosophers and social critics (Korzybyski, 1933/1994; Lin, 1936;
+Liu, 1974; Nagashima, 1973; Saul, 1992).
+
+Creating and Sustaining Systems of Thought
+What produced the differences in ancient times? What sustains
+them today? These are matters of speculation, of course, so we will
+confine our response to brief considerations, especially for the
+first, historical question.
+
+The Origin of Sociocognitive Systems
+The explanation for the cognitive differences that we prefer is a
+distally materialistic but proximally social one that we have put
+together from the arguments of scholars in a large number of
+disciplines (Barry, Child, & Bacon, 1959; Berry, 1976; Cromer,
+1993; Nakamura, 1964/1985; Needham, 1954; Whiting & Child,
+1953; Whiting & Whiting, 1975; Witkin & Berry, 1975).
+Chinese civilization was based on agriculture, which entailed
+that substantial cooperation with neighbors was necessary to carry
+out economic activities in an effective way. This is especially true
+of the rice agriculture common in the south of China. China was
+organized at the level of the large state very early on, and society
+was complex and hierarchical: The king and later the Emperor and
+the bureaucracy were ever-present controlling factors in the lives
+of individual Chinese. Harmony and social order were thus central
+to Chinese society. Social scientists since Marx have observed that
+economic and social arrangements such as these are generally
+associated with "collectivist" or "interdependent" social orientations as distinguished from "individualistic" or "independent" social orientations that are characteristic of societies with economies
+
+303
+
+based on hunting, fishing, trading, or the modern market economy.
+In marked contrast to all the other great civilizations of the
+ancient world, the Greek economy was not completely dependent
+on agriculture. The Greek ecology conspired against an agrarian
+base, consisting as it does mostly of mountains descending to the
+sea. This sort of ecology was more suited to herding and fishing
+than to large-scale agriculture. The sense of personal agency that
+characterized the Greeks could have been the natural response to
+the genuine freedom that they experienced in their less socially
+complex society.
+The politically decentralized Greek cities also provided great
+scope of action as compared to Chinese cities. Greeks who wished
+to leave one city for another were free to do so: The sea provided
+an escape route for dissidents. In addition, Greeks were involved in
+trade at one of the crossroads of the world. Thus they would have
+had plenty to pique their curiosity and much to discuss. The nature
+of social relations meant that debate would have posed few interpersonal risks, and the authority structure of the city state was too
+weak to prevent the free expression of opinion. Indeed for Athens
+and other city states debate was an integral part of the political
+system.
+Speculative as it is, this view has the virtue that it at least is
+consistent with the economic changes that preceded the Renaissance, namely, the reduced reliance on agriculture and the rise of
+relatively independent city-states with economies based on crafts
+and trade. During the Renaissance, the West recapitulated some of
+the Greek social forms and intellectual traditions, including the
+rediscovery of science. The invention of the printing press greatly
+enhanced the conditions of freedom of thought. Ironically, though
+the Chinese invented movable type before the Europeans did, it
+was suppressed in China, on the quite correct grounds that the
+authority of the government would be undermined by it.
+Some research by Witkin and his colleagues gives credence to
+the notion that stronger social networks might produce a more
+holistic orientation to the world. Berry and Witkin (Berry, 1967,
+1976; Witkin & Berry, 1975) showed that farmers in a number of
+societies are more field dependent than hunters, herders, or industrialized peoples. Witkin and his colleagues (Adevai, Silverman, &
+McGough, 1970; Dershowitz, 1971; Meizlik, 1973) found that
+Orthodox Jewish boys, whose families and communities require
+strict observance of a variety of social rules, were more field
+dependent than were secular Jewish boys, who in turn were more
+field dependent than Protestant boys. These differences held even
+when general intelligence was controlled for. Moreover, individual
+differences in social orientation within a culture apparently are
+associated with field dependence. Americans who are more interested in social activities and in dealing with other people are more
+field dependent (even when intelligence is controlled) than are
+people with less social interest (Witkin & Goodenough, 1977;
+Witkin, Price-Williams, et al., 1974).
+Finally, Kiihnen, Hannover, and Schubert (2000) were able to
+prime field dependence on the Embedded Figures Test by a variety
+of techniques intended to make participants temporarily more
+collectivist in their orientations. For example, they asked participants to think about what they had in common with family and
+friends (vs. asking them to think about how they differed from
+family and friends). The results confirmed that a collectivist prime
+led to more field dependence.
+
+304
+
+NISBETT, PENG, CHOI, AND NORENZAYAN
+
+Sociocognitive Systems in Homeostasis
+Mere inertia would not result in contemporary differences in the
+way people think. We propose that systems of thought exist in
+homeostasis with the social practices that surround them. We will
+describe a number of ways in which the social practices and
+cognitive processes could support or "prime" one another (Y.-y.
+Hong, Morris, Chiu, & Benet-Martinez, 2000).
+Holistic versus analytic practices.
+\. The practice of feng shui for choosing building sites (even
+Hong Kong skyscrapers) may encourage the idea that the factors
+affecting outcomes are extraordinarily complex and interactive,
+which in turn encourages the search for relationships in the field.
+This may be contrasted with more atomistic and rule-based approaches to problem-solving characteristic of the West. Consider,
+for example, the nature of approaches to self-help in the West:
+"The Three Steps to a Comfortable Retirement" or "Six Ways to
+Increase Your Word Power."
+2. Employees in the top one third of the Japanese economy are
+rotated among their company's divisions frequently, to be able to
+see the company's operations from as many viewpoints as possible. A graduate of a top university would be expected to work in
+the factory for the first year or two of employment and might
+actually represent union employees to the company (HampdenTurner & Trompenaars, 1993).
+3. The West, beginning in the 18th century and continuing at an
+increasingly rapid pace into the 20th century, introduced "modularity"—that is, uniform, atomistic, and interchangeable design
+and production (Shore, 1996). From the introduction of piece good
+manufacture in English cottages to Henry Ford's production line to
+the chain restaurant, the West—and America in particular—remain
+the chief innovators and consumers of modular production and
+products.
+4. The most popular game of intellectuals in the East is Go and
+the most popular in the West is chess. Xia (1997) and Campbell
+(1983) have pointed out that Go is more complex and holistic than
+chess, the analytic game par excellence. Go boards have 1 9 X 1 9
+spaces whereas chess boards have 8 x 8 spaces. Go pieces have
+more variation in possible moves than do chess pieces, which must
+adhere to a fixed set of rules for movement. Hence, moves in Go
+are more difficult to predict. The appropriate strategy for Go has
+been termed dialectic in that the "competition between the black
+and white is a well calculated trade-off. . . . It is not wise to be
+greedy and overplay" (Xia, 1997).
+Argument, debate, and rhetoric.
+1. In daily life, East Asians strive to maintain harmony. Ohbuchi and Takahasi (1994) asked Japanese and American businesspeople how they dealt with conflict with their fellow managers.
+Twice as many Japanese as American respondents reported using
+avoidance as a means of dealing with a conflict of views, and three
+times as many Americans as Japanese reported attempting to use
+persuasion.
+2. Decision processes in boardrooms and executive councils in
+Japan are designed to avoid conflicts. Meetings often consist of
+nothing more than the ratification of consensus among members
+obtained by the leader prior to the meeting.
+3. Western educators often complain that their Asian students
+do not participate in class discussions and that they do not follow
+the requirements of rhetoric in their writings—for example, statement of principles and assumptions, derivations, hypotheses, evi-
+
+dence, argumentation, conclusion. Neither their culture nor their
+prior educational experience has prepared them for the canonical
+rhetoric forms that are taken for granted in the West. (See Tweed
+& Lehman, 2000, for a review.)
+4. Galtung (1981) has described the intellectual styles of academics from different cultures. The Anglo-American style "fosters
+and encourages debate and discourse .. . and pluralism is an overriding value" (pp. 823-824). In contrast, for the Japanese, "the
+first rule would be not to harm pre-established social relations"
+(p. 825).
+Law and contracts.
+1. Although the ancient Chinese had a complex legal system, it
+was in general not codified in the way it was in the West (Logan,
+1986). Today, courts of law are relatively rare in the East, and
+there is a marked preference for solving conflicts on the basis of
+the particulars of a specific case and by negotiation through a
+middleman (Leung & Morris, in press).
+2. Easterners and Westerners have fundamentally different understandings of the nature of contracts. In the West, a contract is
+unalterable; in the East, a contract is continually renegotiable in the
+light of changed circumstances (Hampden-Turner & Trompenaars,
+1993). This drastic difference of view has often resulted in conflict
+and bitterness between Eastern and Western negotiators.
+Religion.
+1. Some scholars have contended that Christianity has far stronger theological concerns than other religions have, finding it "necessary to formulate elaborately precise statements about the abstract qualities and relations of gods and humans" (Dyson, 1998,
+p. 8).
+2. Religions in East Asia have long been characterized by their
+interpenetrating and blending qualities. Societies and individuals
+readily incorporate aspects of several different religions into their
+worldviews. In contrast, for Christians, there is a strong tendency
+toward insistence on doctrinal purity. This sometimes results in
+religious wars in the West, a rarity in East Asia.
+Language and writing. Perhaps the most pervasive and important of all practices that operate to sustain the cognitive differences
+are those having to do with language and writing. Indeed, some
+scholars, notably Logan (1986), have tried to make the case that
+most of the cognitive differences we have discussed are due
+primarily to differences in language and writing systems.
+1. The basic writing system of Chinese and other East Asian
+languages has been essentially pictographic. It can be maintained
+that the Western alphabet is more atomistic and analytic by nature
+and "is a natural tool for classifying and served as a paradigm for
+codified law, scientific classification, and standardized weights
+and measures" (Logan, p. 55).
+2. The actual grammar of Indo-European languages encourages
+thinking of the world as being composed of atomistic building
+blocks, whereas East Asian languages encourage thinking of the
+world as continuous and interpenetrating. "[R]ather than onemany, the Chinese language motivates a part-whole dichotomy"
+(Hansen, 1983, p. vii).
+3. East Asian languages are highly contextual in every sense.
+Because of their multiple meanings, words must be understood in
+the context of sentences. Because of the minimal nature of syntax
+in Sinitic languages, context is important to understanding sentences (Freeman & Habermann, 1996). In contrast, Heath (1982)
+has shown that language socialization for middle-class American
+children quite deliberately decontextualizes language. Parents try
+
+CULTURE AND THOUGHT
+
+to make words understandable independent of verbal context and
+utterances understandable independent of situational context.
+4. Although Western toddlers learn nouns (i.e., words referring
+to objects) at a much more rapid rate than they learn verbs (i.e.,
+words referring to relationships), the reverse appears to be true for
+Chinese (Tardif, 1996) and Koreans (S. Choi & Gopnik, 1995).
+Moreover, Western toddlers hear more noun phrases from their
+mothers, whereas East Asian children hear more verbs (Fernald &
+Morikawa, 1993; Tardif, Shatz, & Naigles, 1997).
+5. "Generic" noun phrases—that is, those referring to categories and kinds (e.g., "birds," "tools," as opposed to exemplars such
+as "sparrow," "hammer")—are more common for English speakers
+than for Chinese speakers (Gelman & Tardif, 1998), perhaps
+because Western languages mark in a more explicit way whether
+a generic interpretation of an utterance is the correct one (Lucy,
+1992).
+6. Consistent with the above findings about category usage, Ji
+and Nisbett (Ji, 2001; Ji & Nisbett, 2001) found that Englishspeaking Chinese used relationships more and categories less
+when they grouped words in Chinese than when they did so in
+English.
+Thus there are some good reasons to believe that social practices
+and cognitive ones maintain each other in a state of equilibrium.
+Cognitive practices may be highly stable because of their embeddedness in larger systems of beliefs and social practices.
+
+Implications for Psychology
+Magnitude of
+
+Effects
+
+The cognitive differences we have discussed vary in size, but it
+is important to note that many of them are unusually large, whether
+the standard is the magnitude of mean or proportion differences
+(often on the order of 2:1, 3:1, or higher) or effect size (often well
+in excess of 1.00).
+But, in fact, most of the differences we have reported are not
+merely large. The East Asians and the Americans responded in
+qualitatively different ways to the same stimulus situation in study
+after study. For example, American participants showed large
+primacy effects in judgments about covariation, whereas Chinese
+participants showed none. "Control" tended to increase the degree
+of covariation seen and the self-reported accuracy of Americans
+but tended to have the opposite effect on Chinese, and "control"
+increased the accuracy and confidence of American participants
+for the rod-and-frame test but had no effect for Chinese participants (Ji et al., 2000). Similarly, Cha and Nam (1985) and Norenzayan, Choi, and Nisbett (2001) found that Koreans were greatly
+influenced in their causal attributions by the sort of situational
+information that has no effect for Americans. I. Choi and Nisbett
+(in press) found that Koreans showed large hindsight bias effects
+under conditions where Americans showed none. Peng and Nisbett
+(1999) found that Americans responded to contradiction by polarizing their beliefs, whereas Chinese responded by moderating their
+beliefs. Qualitative differences, with Americans responding in one
+way and East Asians in another, were found in other studies by
+Briley et al. (2000), I. Choi and Nisbett (1998), Davis et al. (2000),
+Norenzayan et al. (2000), and Peng and Nisbett (1999). These
+qualitative differences indicate that literally different cognitive
+processes are often invoked by East Asians and Westerners dealing
+with the same problem.
+
+305
+
+Universality
+The assumption of universality of cognitive processes lies deep
+in the psychological tradition. We believe that the results discussed
+here force consideration of the possibility that an indefinitely large
+number of presumably "basic" cognitive processes may be highly
+malleable. When psychologists perform experiments on "categorization," "inductive inference," "logical reasoning," or "attributional processes," it does not normally occur to them that their data
+may apply only rather locally, to people raised in a tradition of
+European culture. They are, of course, prepared for parameter
+differences, but parameter differences between populations on the
+order of 3:1 or more provide an occasion for wondering about
+universality. It is no exaggeration to state that qualitative differences between populations preempt any claim to universality—
+unless there is reason to believe that experimental procedures are
+not comparable across groups.
+Just how great the cultural differences can be is unclear at this
+point, of course. Moreover, although we have looked at tasks that
+measure important perceptual and cognitive variables, we have no
+way of knowing what population these variables were selected
+from. It is possible that the particular variables we have examined
+exhibit cultural differences that are substantially greater than the
+differences that might be found in other tasks that are equally good
+measures of the conceptual variables. But it is equally—if not
+more—probable that investigators have not been uncannily insightful at this early stage of research and that there are variables
+and measures that would show even larger differences than the
+ones we have examined. Moreover, the participant populations,
+consisting mostly of college students, would be expected to be
+more similar to one another than to more representative members
+of their parent populations.
+
+Fixedness of Cognitive Content
+It is ironic that, just as our evidence indicates that some cognitive processes are highly susceptible to cultural influence, other
+investigators are providing evidence that some cognitive content
+may not be very susceptible to cultural influence. Naive theories of
+mechanics and physics (Baillargeon, 1995; Carey & Spelke, 1994;
+Leslie, 1982; Spelke, 1988, 1990), naive theories of biology (Atran, 1990, 1995; Berlin, 1992; Berlin, Breedlove, & Raven, 1973;
+Gelman, 1988) and naive theory of mind (Asch, 1952; D'Andrade,
+1987; Leslie, 1994; Wellman, 1990) appear so early and are
+apparently so widespread that it seems quite likely that at least
+some aspects of them are largely innate and resistant to social
+modification. Theories of causality—both highly general ones
+having to do with temporal sequence and spatial contiguity (Seligman, 1970), as well as highly specific ones, such as the link that
+all omnivorous mammals are likely to make between distinctivetasting food and gastrointestinal illness experienced many hours
+later (Garcia, McGowan, Ervin, & Koelling, 1968)—are clearly a
+part of the organism's biologically given cognitive equipment.
+Hirschfeld (1996) has argued that "essentialist" beliefs about the
+nature of the social world are universal, and Sperber (1985) and
+Boyer (1993) have argued that even religious conceptions such as
+spirits and superhuman agents are remarkably similar from one
+culture to another. As Sperber (1996) has written, the human mind
+is equipped with a set of cognitive properties that make it easier or
+harder to think certain kinds of thoughts.
+
+306
+
+NISBETT, PENG, CHOI, AND NORENZAYAN
+
+Thus, it appears that the assumption that cognitive content is
+learned and indefinitely malleable and the assumption that cognitive processes are universally the same and biologically fixed may
+both be quite wrong. Some important content may be universal and
+part of our biologically given equipment, and some important
+processes may be highly alterable. The continued existence on the
+planet of widely different social and intellectual traditions offers
+an opportunity to learn a great deal more about the fixedness and
+malleability of both content and process.
+
+The Inseparability of Process and Content
+Our theoretical position is at the same time less radical and more
+radical than the assertion that basic processes differ across cultures. We are urging the view that metaphysics, epistemology, and
+cognitive processes exist in mutually dependent and reinforcing
+systems of thought, such that a given stimulus situation often
+triggers quite different processes in one culture than in another.
+Thus it is not possible to make a sharp distinction between cognitive process and cognitive content. Content in the form of metaphysical beliefs about the nature of the world determines tacit
+epistemology. Tacit epistemology in turn dictates the cognitive
+procedures that people use for solving particular problems.
+People who believe that knowledge about objects is normally
+both necessary and sufficient for understanding their behavior will
+believe it is important to find the appropriate categories that apply
+to the object and the appropriate rules that apply to the categories.
+The search for categories and rules will dictate particular ways of
+organizing knowledge as well as procedures for obtaining new
+knowledge about rules. Such practices in turn are aided by a
+reliance on formal logic, especially including attention to the
+specter of contradiction that undermines beliefs about the validity
+of rules. Abstractions will be a goal because categories and rules
+will seem to be useful just to the extent that they have wide
+applicability and because it can be easier to apply formal logic to
+abstractions than to concrete objects.
+Similar points can be made about people who believe that
+causality is a complex function of multiple factors operating on an
+object in a field. Complexity indicates dynamism and constant
+change. A belief in change and instability will tend to make the
+habits of categorization and of search for universal rules about
+objects seem dubiously relevant. Rather, an attempt to see the
+interrelatedness of events will seem important. Contradiction will
+seem inevitable, since change is constant, and opposing factors
+always coexist. A concern with concrete objects and events will
+seem to be more useful than will a search for abstractions. Logic
+will not be allowed to overrule sensory experience or common
+sense.
+Thus, without saying that Easterners are unable to make use of
+categorization or that Westerners are unable to detect covariation,
+we can see that the differences between cultures can still be very
+great: (a) The circumstances that prompt the use of one process
+versus another will differ substantially across cultures; (b) the
+frequencies with which the very most basic cognitive processes are
+used will differ greatly; (c) consequently, the degree and nature of
+expertise in the use of particular cognitive processes will differ;
+and (d) tacit or even explicit normative standards for thought will
+differ across cultures (Stich, 1990).
+Claude Levi-Strauss, the great French anthropologist, proposed
+that, rn their attempts to solve the problems of daily life, people
+
+might be regarded as bricoleurs—handymen with their bags of
+cognitive tools. Pursuing this metaphor, we may say that even if all
+cultures possessed essentially the same basic cognitive processes
+as their tools, the tools of choice for the same problem may
+habitually be very different. People may differ markedly in their
+beliefs about whether a problem is one requiring use of a wrench
+or pliers, in their skill in using the two types of tools, and in the
+location of particular tools at the top or the bottom of the tool kit.
+Moreover, members of different cultures may not see the same
+stimulus situation as a problem in need of repair. A seeming
+contradiction is a problem for Westerners but may not be for
+Easterners. Indeed, as some of the perceptual work we have
+reviewed indicates, the different focus of attention of Easterners
+and Westerners indicates that they may sometimes not be seeing
+the same stimulus situation at all—even when their heads are
+immobilized at a fixed distance away from a computer screen.
+Another way that cognitive processes can differ is that cultures
+may construct composite cognitive tools out of the basic universal
+toolkit, thereby performing acts of elaborate cognitive engineering,
+as Dennett's (1995) characterization of culture as a "crane-making
+crane" (p. 338) suggests. Modern statistical, methodological, and
+cost-benefit rules provide examples of such crane-produced
+cranes. Nothing like them existed prior to the 17th century, when
+they were constructed in the West on the basis of rule-based
+empirical observation, mathematics, and formal logic, and there is
+great variation among members of Western society today in the
+degree of understanding and use of these rules. Similar points may
+be made about the transformation of the ancient Chinese notions
+about yin and yang into more sophisticated dialectical notions
+about change, moderation, relativism, and the necessity of multiple
+viewpoints.
+The psychological ideas that our position most closely resembles are those in the tradition of Vygotsky (1978, 1987; e.g., Cole,
+1995; Cole & Scribner, 1974; Hutchins, 1995; Lave, 1988; Luria,
+1931; Rogoff, 1990), which insists that thought always occurs in a
+pragmatic problem setting, including the cultural assumptions that
+are brought to the task. This view, recently referred to as the
+"situated cognition" view, has been defined by Resnick as the
+assumption that "the tools of thought... embody a culture's intellectual history.... Tools have theories built into them, and users
+accept these theories—albeit unknowingly—when they use these
+tools" (Resnick, 1994, pp. 476-477).
+The particular cognitive orientations we have been discussing
+have endured for millennia. One of the questions that intrigues us
+most concerns what it might take to seriously disturb the homeostasis of one of these historically rooted systems of thought. It
+is not hard to introduce Westerners to cost-benefit rules; these
+rules can affect their reasoning and their behavior and leave them
+fully accepted members of their communities. It is far from clear
+that it would be so easy to introduce East Asians to that rule
+system, that it would leave members who adopted the rule system
+so fully accepted by their communities or that it would leave
+unscathed the sociocognitive homeostasis of their societies if the
+rule system were to be widely adopted. There seems to be one
+quite interesting case of resistance to change of a homeostatic
+system. The introduction of the highly individualistic economic
+element of capitalism into Japan 130 years ago appears to have had
+far less effect on either social practices or, as our research indicates, cognitive processes, than might have been anticipated.
+
+CULTURE AND THOUGHT
+It is clear from some of the work summarized in this article that
+Asians move radically in an American direction after a generation
+or less in the United States. But it might be a mistake to extrapolate
+from these facts and assume that would be an easy matter to teach
+one culture's tools to individuals in another without total immersion in that culture. It is far from clear that, using normal pedagogical techniques, Americans could be given many of the advantages of a dialectical stance or that East Asians could be taught to
+experience surprise at outcomes when surprise is warranted.
+We hope we have persuaded the reader that the cognitive
+processes triggered by a given situation may not be so universal as
+generally supposed, or so divorced from content, or so independent
+of the particular character of thought that distinguishes one human
+group from another. Two decades ago, Richard E. Nisbett wrote a
+book with Lee Ross entitled, modestly, Human Inference (Nisbett
+& Ross, 1980). Roy D'Andrade, a distinguished cognitive anthropologist, read the book and told Richard Nisbett he thought it was
+a "good ethnography." The author was shocked and dismayed. But
+we now wholeheartedly agree with D'Andrade's contention about
+the limits of research conducted in a single culture. Psychologists
+who choose not to do cross-cultural psychology may have chosen
+to be ethnographers instead.
+
+References
+Abel, T. M, & Hsu, F. I. (1949). Some aspects of personality of Chinese
+as revealed by the Rorschach Test. Journal ofProjective Techniques, 13,
+285-301.
+Adevai, G., Silverman, A. J., & McGough, W. E. (1970). Ethnic differences in perceptual testing. International Journal of Social Psychiatry, 16, 237-239.
+Allen, S. W., & Brooks, L. R. (1991). Specializing in the operation of an
+explicit rule. Journal of Experimental Psychology: General, 120, 3-19.
+Asch, S. (1952). Social psychology. Englewood Cliffs, NJ: Prentice Hall.
+Atran, S. (1990). Cognitive foundations of natural history. New York:
+Cambridge University Press.
+Atran, S. (1995). Causal constraints on categories and categorical
+constraints on biological reasoning across cultures. In D. Sperber, D.
+Premack, & A. J. Premack (Eds.), Causal cognition: A multidisciplinary
+debate (pp. 205-233). Oxford, England: Oxford University Press,
+Bagley, C. (1995). Field independence in children in group-oriented cultures: Comparisons from China, Japan, and North America. The Journal
+of Social Psychology, 135, 523-525.
+Baillargeon, R. (1995). Physical reasoning in infancy. In M. S. Gazzaniga
+(Ed.), The cognitive neurosciences (pp. 181-204). Cambridge, MA: MIT
+Press.
+Baltes, P. B., & Staudinger, U. M. (1993). The search for a psychology of
+wisdom. Current Directions in Psychological Science, 2, 75-80.
+Barry, H., Child, I., & Bacon, M. (1959). Relation of child training to
+subsistence economy. American Anthropologist, 61, 51-63.
+Basseches, M. (1980). Dialectical schemata: A framework for the empirical
+study of the development of dialectical thinking. Human Development, 23, 400-421.
+Basseches, M. (1984). Dialectical thinking and adult development. Norwood, NJ: Ablex.
+Becker, C. B. (1986). Reasons for the lack of argumentation and debate in
+the Far East. International Journal of Intercultural Relations, 10, 75-92.
+Berlin, B. (1992). Ethnobiological classification: Principles of categorization of plants and animals in traditional societies. Princeton, NJ:
+Princeton University Press.
+Berlin, B., Breedlove, D., & Raven, P. (1973). General principles of
+classification and nomenclature in folk biology. American Anthropologist, 74, 214-242.
+
+307
+
+Berry, J. W. (1967). Independence and conformity in subsistence-level
+societies. Journal of Personality and Social Psychology, 7, 415-418.
+Berry, J. W. (1976). Human ecology and cognitive style: Comparative
+studies in cultural and psychological adaptation. New York: Sage/
+Halsted.
+Block, N. (1995). The mind as the software of the brain. In E. E. Smith &
+D. N. Osherson (Eds.), Thinking: An invitation to the cognitive science
+(pp. 377-425). Cambridge, MA: MIT Press.
+Bond, M. H. (1996). Chinese values. In M. H. Bond (Ed.), Handbook of
+Chinese psychology (pp. 208-226). Hong Kong, China: Oxford University Press.
+Boyer, P. (1993). The naturalness of religious ideas. Berkeley: University
+of California Press.
+Briley, D. A., Morris, M., & Simonson, I. (2000). Reasons as carriers of
+culture: Dynamic versus dispositional models of cultural influence on
+decision making. Journal of Consumer Research, 27(2), 157-178.
+Campbell, J. A. (1983). Go: Introduction. In M. A. Bramer (Ed.), Computer
+game playing (pp. 136-140). Chicester, England: Ellis Horwood.
+Carey, S., & Spelke, E. (1994). Domain-specific knowledge and conceptual change. In L. A. Hirschfeld & S. A. Gelman (Eds.), Mapping the
+mind: Domain specificity in cognition and cognition (pp. 169-200).
+Cambridge, England: Cambridge University Press.
+Cha, J.-H., & Nam, K. D. (1985). A test of Kelley's cube theory of
+attribution: A cross-cultural replication of McArthur's study. Korean
+Social Science Journal, 12, 151-180.
+Chalfonte, B. L., & Johnson, M. K. (1996). Feature memory and binding
+in young and older adults. Memory & Cognition, 24, 403-416.
+Chan, W.-T. (1967). The story of Chinese philosophy. In C. A. Moore
+(Ed.), The Chinese mind: Essentials of Chinese philosophy and culture
+(pp. 245-257). Honolulu, HI: East-West Center Press.
+Chang, T.-S. (1939). A Chinese philosopher's theory of knowledge. Yenching Journal of Social Studies, 11(2).
+Chavajay, P., & Rogoff, B. (2000). Cultural variation in management of
+attention by children and their caregivers. Unpublished manuscript,
+University of California at Santa Cruz.
+Chiu, L.-H. (1972). A cross-cultural comparison of cognitive styles in
+Chinese and American children. International Journal of Psychology, 7,
+235-242.
+Choi, I. (1998). The cultural psychology of surprise: Holistic theories,
+contradiction, and epistemic curiosity. Unpublished doctoral dissertation. University of Michigan.
+Choi, I., Dalai, R., & Kim-Prieto, C. (2000). Information search in causal
+attribution: Analytic vs. holistic. Unpublished manuscript, University of
+Illinois.
+Choi, I., & Nisbett, R. E. (1998). Situational salience and cultural differences in the correspondence bias and in the actor-observer bias. Personality and Social Psychology Bulletin, 24, 949-960.
+Choi, I., & Nisbett, R. E. (2000). The cultural psychology of surprise:
+Holistic theories and recognition of contradiction. Journal of Personality
+and Social Psychology, 79, 890-905.
+Choi, I., Nisbett, R. E., & Norenzayan, A. (1999). Causal attribution across
+cultures: Variation and universality. Psychological Bulletin, 125, 47-63.
+Choi, I., Nisbett, R. E., & Smith, E. E. (1997). Culture, categorization and
+inductive reasoning. Cognition, 65, 15-32.
+Choi, S., & Gopnik, A. (1995). Early acquisition of verbs in Korean: A
+cross-linguistic study. Journal of Child Language, 22, 497-529.
+Cole, M. (1995). Socio-cultural-historical psychology: Some general remarks and a proposal for a new kind of cultural-genetic methodology. In
+J. V. Wertsch, P. D. Ri'o, & A. Alvarez (Eds.), Sociocultural studies of
+mind (pp. 113-144). Cambridge, England: Cambridge University Press.
+Cole, M., & Scribner, S. (1974). Culture and thought: A psychological
+introduction. New York: Wiley.
+Cromer, A. (1993). Uncommon sense: The heretical nature of science.
+New York: Oxford University Press.
+D'Andrade, R. (1987). A folk model of the mind. In D. Holland & N.
+
+308
+
+NISBETT, PENG, CHOI, AND NORENZAYAN
+
+Quinn (Eds.), Cultural models in language and thought (pp. 112-148).
+New York: Cambridge University Press.
+Darley, J. M, & Batson, C. D. (1973). From Jerusalem to Jericho: A study
+of situational and dispositional variables in helping behavior. Journal of
+Personality and Social Psychology, 27, 100-119.
+Davis. M. (2000). Responses to weak argument on the part of Asians and
+Americans. University of Michigan, Ann Arbor.
+Davis. M.. Nisbett, R. E., & Schwarz, N. (2000). Responses to weak
+arguments by Asians and Americans. Ann Arbor: University of
+Michigan.
+Dennett. D. C. (1995). Darwin's dangerous idea: Evolution and meanings
+of life. New York: Simon & Schuster.
+Dershowitz. Z. (1971). Jewish subcultural patterns and psychological differentiation. International Journal of Psychology, 6, 223-231.
+Dyson, F. J. (1998, May 28). Is God in the lab? New York Review of Books,
+8-10.
+Fernald, A.. & Morikawa, H. (1993). Common themes and cultural variations in Japanese and American mothers' speech to infants. Child
+Development, 64(3), 637-656.
+Fischhoff. B. (1975). Hindsight/foresight: The effect of outcome knowledge on judgment under uncertainty. Journal of Experimental Psychology: Human Perception and Performance, I, 288-299.
+Fiske, A. P., Kitayama, S., Markus. H. R., & Nisbett, R. E. (1998). The
+cultural matrix of social psychology. In D. T. Gilbert, S. T. Fiske, & G.
+Linzey (Eds.). Handbook of social psychology (4th ed., pp. 915-981).
+Boston: McGraw-Hill.
+Freeman, N. H., & Habermann, G. M. (1996). Linguistic socialization: A
+Chinese perspective. In M. H. Bond (Ed.), The handbook of Chinese
+psychology (pp. 79-92). Oxford, England: Oxford University Press.
+Fung, Y. (1983). A history of Chinese philosophy (D. Bodde, Trans.) (Vol.
+1-2). Princeton, NJ: Princeton University Press.
+Galtung, J. (1981). Structure, culture, and intellectual style: An essay
+comparing saxonic, teutonic, gallic and nipponic approaches. Social
+Science Information, 20, 817-856.
+Garcia, J., McGowan, B. K.. Ervin. F., & Koelling, R. (1968). Cues: Their
+relative effectiveness as reinforcers. Science, 160, 794-795.
+Gelman, S. A. (1988). The development of induction within natural kind
+and artifact categories. Cognitive Psychology, 20, 65-95.
+Gelman, S. A., & Tardif, T. (1998). A cross-linguistic comparison of
+generic noun phrases in English and Mandarin. Cognition, 66, 215-248.
+Gilbert, D. T., & Malone, P. S. (1995). The correspondence bias. Psychological Bulletin, 117, 21-38.
+Glass, D. C., & Singer, J. E. (1973). Experimental studies of uncontrollable
+and unpredictable noise. Representative Research in Psychology, 4(1),
+165-183.
+Hadingham. E. (1994). The mummies of Xinjiang. Discover, 15(4), 68-77.
+Hamilton, E. (1973). TV?*- Greek way. New York: Avon. (Original work
+published 1930)
+Hampden-Turner, C., & Trompenaars, A. (1993). The seven cultures of
+capitalism: Value systems for creating wealth in the United States,
+Japan, Germany, France, Britain, Sweden, and the Netherlands. New
+York: Doubleday.
+Hansen. C. (1983). Language and logic in ancient China. Ann Arbor:
+University of Michigan Press.
+Heath, S. B. (1982). What no bedtime story means: Narrative skills at home
+and school. Language in Society, I I , 49-79.
+Hedden, T., Ji, L., Jing, Q., Jiao, S., Yao, C., Nisbett, R. E., & Park, D. C.
+(2000, April). Culture and age differences in recognition memory for
+social dimensions. Paper presented at the Cognitive Aging Conference,
+Atlanta, GA.
+Hirschfeld. L. (1996). Race in the making: Cognition, culture, and the
+child's construction of human kinds. Cambridge, MA: MIT Press.
+Hofstede, G. (1980). Culture's consequences: International differences in
+work-related values. Beverley Hills, CA: Sage.
+Hong. Y.. Chin. C., & Rung. T. (1997). Bringing culture out in front:
+
+Effects of cultural meaning system activation on social cognition. In K.
+Leung, Y. Kashima, U. Kim, & S. Yamaguchi (Eds.), Progress in Asian
+social psychology (Vol. 1, pp. 135-146). Singapore: Wiley.
+Hong, Y.-y., Morris, M. W., Chiu, C.-y., & Benet-Martinez, V. (2000).
+Multicultural minds: A dynamic constructivist approach to culture and
+cognition. American Psychologist, 55, 709-720.
+Hsu, F. L. K. (1981). Americans and. Chinese: Passage to differences.
+Honolulu: University of Hawaii Press.
+Huang, J., & Chao, L. (1995). Chinese and American students' perceptual
+styles of field independence versus field dependence. Perceptual and
+Motor Skills, 80, 232-234.
+Huff, T. E. (1993). The rise of early modern science: Islam, China, and the
+West. Cambridge, England: Cambridge University Press.
+Hutchins, E. (1995). Cognition in the wild. Cambridge, MA: MIT Press.
+Ji, L. (2001). Culture, language and relationships vs. categories in cognition. Unpublished doctoral dissertation, University of Michigan, Ann
+Arbor.
+Ji, L., & Nisbett, R. E. (2001). Culture, language and categories. Unpublished manuscript, University of Michigan.
+Ji, L., Peng, K., & Nisbett, R. E. (2000). Culture, control, and perception
+of relationships in the environment. Journal of Personality and Social
+Psychology, 78, 943-955.
+Jones, E. E., & Harris, V. A. (1967). The attribution of attitudes. Journal
+of Experimental Social Psychology, 3, 1-24.
+Kane, G. (2000). Culture and science. Unpublished manuscript, University
+of Michigan.
+Kemler-Nelson, D. G. (1984). The effect of intention on what concepts are
+acquired. Journal of Verbal Learning and Verbal Behavior, 23, 734 759.
+Kitayama, S., & Masuda, T. (1997). Shaiaiteki ninshiki no bunkateki baikai
+model: taiousei bias no bunkashinrigakuteki kentou. [Cultural psychology of social inference: The correspondence bias in Japan]. In K.
+Kashiwagi, S., Kitayama, & H. Azuma (Eds.), Bunkashinrigaju: riron to
+jisho [Cultural psychology: Theory and evidence] (pp. 109-127). Tokyo: University of Tokyo Press.
+Knox, B. (1990). Introduction to Homer's The Iliad (Robert Fagles,
+Trans.). St. Paul, MN: Penguin-High Bridge.
+Korzybyski, A. (1994). Science and sanity: An introduction to nonAristotelian systems and general semantics. Englewood, NJ: Institute of
+General Semantics. (Original work published 1933)
+Kuhnen, U., Hannover, B., Roder, U., Schubert, B., Shah, A. A., &
+Zakaria, S. (2000). Cross-cultural variations in identifying embedded
+figures: Comparisons from the US, Germany, Russia and Malaysia.
+Unpublished manuscript, University of Michigan.
+Kuhnen, U., Hannover, B., & Schubert, B. (2000). Procedural consequences of semantic priming: The role of self-knowledge for contextbounded versus context-independent modes of thinking. Unpublished
+manuscript, University of Michigan.
+Langer, E. (1975). The illusion of control. Journal of Personality and
+Social Psychology, 32, 311-328.
+Larrick, R. P., Nisbett, R. E., & Morgan, J. N. (1993). Who uses the
+cost-benefit rules of choice? Implications for the normative status of
+microeconomic theory. Organizational Behavior and Human Decision
+Processes, 56, 331-347.
+Lave, J. (1988). Cognition in practice: Mind, mathematics, and culture in
+everyday life. New York: Cambridge University Press.
+Lee, F., Hallahan, M., & Herzog, T. (1996). Explaining real life events:
+How culture and domain shape attributions. Personality and Social
+Psychology Bulletin, 22, 732-741.
+Leslie, A. M. (1982). The perception of causality in infants. Perception, 11,
+173-186.
+Leslie, A. M. (1994). ToMM, ToBY, and agency: Core architecture and
+domain specificity. In L. A. Hirschfeld & S. A. Gelman (Eds.), Mapping
+the mind: Domain specificity in cognition and culture. Cambridge,
+England: Cambridge University Press.
+
+CULTURE AND THOUGHT
+Leung, K., & Morris, M. W. (in press). Justice through the lens of culture
+and ethnicity. In J. Sanders & V. L. Hamilton (Eds.), Handbook of law
+and social science: Justice. New York: Plenum Press.
+Lin, Y. (1936). My country and my people. London: William Heinemann.
+Liu, S. H. (1974). The use of analogy and symbolism in traditional Chinese
+philosophy. Journal of Chinese Philosophy, 1, 313-338.
+Lloyd, G. E. R. (1990). Demystifying mentalities. New York: Cambridge
+University Press.
+Lloyd, G. E. R. (1991). The invention of nature. In G. E. R. Lloyd (Ed.),
+Methods and problems in Greek Science (pp. 417-434). Cambridge,
+England: Cambridge University Press.
+Logan, R. F. (1986). The alphabet effect. New York: Morrow.
+Lord, C., Ross, L., & Lepper, M. (1979). Biased assimilation and attitude
+polarization: The effects of prior theories on subsequently considered
+evidence. Journal of Personality and Social Psychology, 37, 20982109.
+Lucy, J. A. (1992). Language diversity and thought: A reformulation of the
+linguistic relativity hypothesis. New York: Cambridge University Press.
+Luria, A. R. (1931). Psychological expedition to Central Asia. Science, 74,
+383-384.
+Mao, T.-T. (1962). Four essays on philosophy. Beijing, China: People's
+Press. (Original work published 1937)
+Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications
+for cognition, emotion, and motivation. Psychological Review, 98, 224253.
+Masuda, T. (1996). Bunkashinrigakutekuteki approach niyoru tashakoudousuiron process saikou: correspondence bisas no hunensei no kento.
+[Rethinking the inference process about the other's behavior from a
+cultural psychogical approach.]. Kyoto, Japan: Kyoto University.
+Masuda, T., & Nisbett, R. E. (2001). Culture and attention to object vs.
+field. Unpublished manuscript, University of Michigan.
+Meizlik, F. (1973). Study of the effect of sex and cultural variables on field
+independence/dependence in a Jewish sub-culture. Unpublished master's thesis. City University of New York.
+Menon, T., Morris, M. W., Chiu, C.-y., & Hong, Y.-y. (1999). Culture and
+the construal of agency: Attribution to individual versus group dispositions. Journal of Personality & Social Psychology, 76, 701-717.
+Meyer, D. E. (1995). Adaptive executive control: Flexible multiple-task
+performance without pervasive immutable response-selection bottlenecks. Acta Psychologica, 90, 163-190.
+Meyer, D. E., & Kieras, D. E. (1997a). A computational theory of executive cognitive processes and multiple-task performance: I. Basic mechanisms. Psychological Review, 104, 3-65.
+Meyer, D. E., & Kieras, D. E. (1997b). A computational theory of executive cognitive processes and multiple-task performance: II. Accounts of
+psychological refractory-period phenomena. Psychological Review, 104,
+749-791.
+Meyer, D. E., & Kieras, D. E. (1999). Precis to a practical unified theory
+of cognition and action: Some lessons from EPIC computational models
+of human multiple-task performance. In D. Gopher (Ed.), Attention and
+performance XVII: Cognitive regulation of performance: Interaction of
+theory and application (Vol. 17-88). Cambridge, MA: MIT Press.
+Miller, J. G. (1984). Culture and the development of everyday social
+explanation. Journal of Personality and Social Psychology, 46, 961978.
+Morris, M., Nisbett, R. E., & Peng, K. (1995). Causal understanding across
+domains and cultures. In D. Sperber, D. Premack, & A. J. Premack
+(Eds.), Causal cognition: A multidisciplinary debate (pp. 577-612).
+Oxford, England: Oxford University Press.
+Morris, M. W., & Peng, K. (1994). Culture and cause: American and
+Chinese attributions for social and physical events. Journal of Personality and Social Psychology, 67, 949-971.
+Moser, D. J. (1996). Abstract thinking and thought in ancient Chinese and
+early Greek. Unpublished doctoral dissertation. University of Michigan,
+Ann Arbor.
+
+309
+
+Munro, D. J. (1969). The concept of man in early China. Stanford, CA:
+Stanford University Press.
+Munro, D. J. (1985). Introduction. In D. Munro (Ed.), Individualism and
+holism: Studies in Confucian and Taoist values (pp. 1-34). Ann Arbor:
+Center for Chinese Studies, University of Michigan.
+Nagashima, N. (1973). A reversed world: Or is it? In R. Horton & R.
+Finnegan (Eds.), Modes of thought, (pp. 187-213). London: Faber and
+Faber.
+Nakamura, H. (1985). Ways of thinking of eastern peoples. Honolulu:
+University of Hawaii Press. (Original work published 1964)
+Needham, J. (1954). Science and civilisation in China (Vol. 1). Cambridge,
+England: Cambridge University Press.
+Needham, J. (1962). Science and civilisation in China. Vol. 4: Physics and
+physical technology. Cambridge, England: Cambridge University Press.
+Needham, J. (1978). The history of Chinese science and technology.
+Chiu-lung, China: Chung Hua Shu Chu. (Original work published 1962)
+Nisbett, R. E. (1993). Rules for reasoning. Hillsdale, NJ: Erlbaum.
+Nisbett, R. E. (1998). Essence and accident. In J. Cooper & J. Darley
+(Eds.), Attribution processes, person perception, and social interaction:
+The legacy of Ned Jones (pp. 169-200). Washington, DC: American
+Psychological Association.
+Nisbett, R. E., Fong, G. T., Lehman, D. R., & Cheng, P. W. (1987).
+Teaching reasoning. Science, 238, 625-631.
+Nisbett, R. E., & Ross, L. D. (1980). Human inference: Strategies and
+shortcomings of social judgment. Englewood Cliffs, NJ: Prentice Hall.
+Norenzayan, A. (1999). Rule-based and experience-based thinking: The
+cognitive consequences of intellectual traditions. Unpublished doctoral
+dissertation, University of Michigan.
+Norenzayan, A., Choi, L, & Nisbett, R. E. (1999). Eastern and western
+perceptions of causality for social behavior: Lay theories about personalities and social situations. In D. Prentice & D. Miller (Eds.), Cultural
+divides: Understanding and overcoming group conflict (pp. 239-272).
+New York: Sage.
+Norenzayan, A., Choi, I., & Nisbett, R. E. (2001). Eastern and Western folk
+psychology and the prediction of behavior. Unpublished manuscript,
+University of Illinois.
+Norenzayan, A., Nisbett, R. E., Smith, E. E., & Kim, B. J. (2000). Rules vs.
+similarity as a basis for reasoning and judgment in East and West.
+Unpublished manuscript, University of Illinois.
+Ohbuchi, K. I., & Takahashi, Y. (1994). Cultural styles of conflict management in Japanese and Americans: Passivity, covertness, and effectiveness of strategies. Journal of Applied Psychology, 24, 1345-1366.
+On, L. W. (1996). The cultural context for Chinese learners: Conceptions
+of learning in the Confucian tradition. In D. A. Watkins & J. B. Biggs
+(Eds.), The Chinese learner: Cultural, psychological, and contextual
+influences (pp. 142-156). Hong Kong, China: Comparative Education.
+Osherson, D. N., Smith, E. E., Wilkie, O., Lopez, A., & Shafir, E. (1990).
+Category-based induction. Psychological Review, 97, 185-200.
+Park, D. C., Nisbett, R. E., & Hedden, T. (1999). Culture, cognition, and
+aging. Journal of Gerontology, 54B, 75-84.
+Peng, K. (1997). Naive dialecticism and its effects on reasoning and
+judgment about contradiction. Unpublished doctoral dissertation, University of Michigan.
+Peng, K., & Nisbett, R. E. (1999). Culture, dialectics, and reasoning about
+contradiction. American Psychologist, 54, 741-754.
+Peng, K., & Nisbett, R. E. (2000). Cross-cultural similarities and differences in the understanding of physical causality. Unpublished manuscript, University of California, Berkeley.
+Resnick, L. B. (1994). Situated rationalism: Biological and social preparation for learning. In L. A. Hirschfeld & S. A. Gelman (Eds.), Mapping
+the mind: Domain specificity in cognition and culture (pp. 474-494).
+Cambridge, England: Cambridge University Press.
+Riegel, K. F. (1973). Dialectical operations: The final period of cognitive
+development. Human Development, 18, 430-443.
+
+310
+
+NISBETT. PENG, CHOI, AND NORENZAYAN
+
+Rogoff. B. (1990). Apprenticeship in thinking: Cognitive development in
+social context. New York: Oxford University Press.
+Rogoff. B., Mistry, J.. Goncii. A.. & Mosier, C. (1993). Guided participation in cultural activity by toddlers and caregivers. Monographs of the
+Society for Research in Child Development, 58(236).
+Ross, L. (1977). The intuitive psychologist and his shortcomings. In L.
+Berkowitz (Ed.), Advances in experimental social psychology (Vol. 10,
+pp. 173-220). New York: Academic Press.
+Saul. J. R. (1992). Voltaire's bastards: The dictatorship of reason in the
+West. New York: Random House.
+Seligman, M. E. P. (1970). On the generality of the laws of learning.
+Psychological Review. 77. 127-190.
+Shore, B. (1996). Culture in mind: Cognition, culture and the problem of
+meaning. New York: Oxford University Press.
+Shweder, R. A. (1991). Cultural psychology: What is it? In R. A. Shweder
+(Ed.). Thinking through cultures: Expeditions in cultural psychology
+(pp. 73-110). Cambridge, MA: Harvard University Press.
+Sloman. S. (1993). Feature-based induction. Cognitive Psychology, 25,
+231-280.
+Sloman. S. (1996). The empirical case for two systems of reasoning.
+Psychological Bulletin. 119, 30-52.
+Smith, E. E., Langston, C., & Nisbett, R. E. (1992). The case for rules in
+reasoning. Cognition, 16, 1-40.
+Spelke, E. S. (1988). Where perceiving ends and thinking begins: The
+apprehension of objects in infancy. In A. Yonas (Ed.), Perceptual
+development in infancy. Minnesota Symposium on Child Psychology
+(Vol. 20, pp. 191-234). Hillsdale, NJ: Erlbaum.
+Spelke. E. S. (1990). Principles of object perception. Cognitive Science, 14,
+29-56.
+Sperber, D. (1985). Anthropology and psychology: Towards an epidemiology of representations (The Malinowski Memorial Lecture 1984). Man
+(N.S.), 20, 73-89.
+Sperber. D. (1996). Explaining culture: A naturalistic approach. Cambridge. MA: Blackwell.
+Stich, S. (1990). The fragmentation of reason. Cambridge, MA: MIT Press.
+Tardif. T. (1996). Nouns are not always learned before verbs: Evidence
+from Mandarin-speakers early vocabularies. Developmental Psychology,
+J2(3), 492-504.
+Tardif. T., Shatz, M., & Naigles, L. (1997). Caregiver speech and children's use of nouns versus verbs: A comparison of English, Italian and
+Mandarin. Journal of Child Language, 24, 535-565.
+Toulmin. S., & Goodfield, J. (1961)- The fabric of the heavens: The
+development of astronomy and physics. New York: Harper and Row.
+Triandis, H. C. (1972). The analysis of subjective culture. New York:
+Wiley.
+Triandis. H. C. (1995). Individualism and collectivism. Boulder, CO:
+Westview Press.
+Tweed, R. G., & Lehman, D. (2000). Learning considered within a cultural
+context: Confucian and Socratic approaches. Unpublished manuscript,
+University of British Columbia, Vancouver, Canada.
+
+Vygotsky, L. S. (1978). Mind in society: The development of higher
+psychological processes. Cambridge, MA: Harvard University Press.
+Vygotsky, L. S. (1987). The collected works ofL. S. Vygotsky (J. S. Bruner,
+Trans.). New York: Plenum Press.
+Wellman, H. M. (1990). The child's theory of mind. Cambridge, MA: MIT
+Press.
+Whiting, B. B., & Whiting, J. W. M. (1975). Children of six cultures: A
+psycho-cultural analysis. Cambridge, MA: Harvard University Press.
+Whiting, J. W. M., & Child, I. L. (1953). Child training and personality:
+A cross-cultural study. New Haven, CT: Yale University Press.
+Witkin, H. A., & Berry, J. W. (1975). Psychological differentiation in
+cross-cultural perspective. Journal of Cross Cultural Psychology, 6,
+4-87.
+Witkin, H. A., Dyk, R. B., Faterson, H. F., Goodenough, D. R., & Karp,
+S. A. (1974). Psychological differentiation. Potomac, MD: Erlbaum.
+Witkin, H. A., & Goodenough, D. R. (1977). Field dependence and
+interpersonal behavior. Psychological Bulletin, 84, 661-689.
+Witkin, H. A., Lewis, H. B., Hertzman, M., Machover, K., Meissner, P. B.,
+& Karp, S. A. (1954). Personality through perception. New York:
+Harper.
+Witkin, H. A., Price-Williams, D., Bertini, M., Christiansen, B., Oltman,
+P. K., Ramirez, M., & Van Meel, J. (1974). Social conformity and
+psychological differentiation. International Journal of Psychology, 9,
+11-29.
+Xia, C. (1997). Decision-making factors in Go expertise. Unpublished
+doctoral dissertation, New Mexico State University, Las Cruces.
+Yamagushi, S., Gelfand, M., Mizuno, M., & Zemba, Y. (1997). Illusion of
+collective control or illusion of personal control: Biased judgment about
+a chance event in Japan and the U.S. Paper presented at the Second
+Conference of the Asian Association of Social Psychology, Kyoto,
+Japan.
+Yang, S. (1988). History of Chinese thoughts on logic. Ganshu, China:
+People's Press of Ganshu.
+Yates, J. R, & Curley, S. P. (1996). Contingency judgment: Primacy
+effects and attention decrement. Acta Psychologica, 62, 293-302.
+Yu, Y.-s. (1985). Individualism and the Neo-Taoist movement in Wei-Chin
+China. In D. Munro (Ed.), Individualism and holism: Studies in Confucian and Taoist values (pp. 121-156). Ann Arbor: Center for Chinese
+Studies, University of Michigan.
+Zhang, D. L. (1985). The concept of "Tian Ren He Yi" in Chinese
+philosophy. Beijing University Journal, I, 8.
+Zhang, D. L., & Chen, Z. Y. (1991). Zhongguo Siwei Pianxiang (The
+orientation of Chinese thinking). Beijing: Social Science Press.
+Zhou, G. X. (1990). Chinese traditional philosophy. Beijing: Beijing
+Normal University Press.
+
+Received June 25, 1999
+Revision received July 1, 2000
+Accepted July 10, 2000 •
+
+

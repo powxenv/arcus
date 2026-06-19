@@ -1,0 +1,1030 @@
+This article was downloaded by: [McGill University Library]
+On: 26 December 2012, At: 10:58
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered
+office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+
+Educational Psychology: An
+International Journal of Experimental
+Educational Psychology
+Publication details, including instructions for authors and
+subscription information:
+http://www.tandfonline.com/loi/cedp20
+
+On the Nature of Cognitive Style
+Richard J. Riding
+
+a
+
+a
+
+Assessment Research Unit, University of Birmingham, UK
+Version of record first published: 25 Nov 2010.
+
+To cite this article: Richard J. Riding (1997): On the Nature of Cognitive Style, Educational
+Psychology: An International Journal of Experimental Educational Psychology, 17:1-2, 29-49
+To link to this article: http://dx.doi.org/10.1080/0144341970170102
+
+PLEASE SCROLL DOWN FOR ARTICLE
+Full terms and conditions of use: http://www.tandfonline.com/page/terms-andconditions
+This article may be used for research, teaching, and private study purposes. Any
+substantial or systematic reproduction, redistribution, reselling, loan, sub-licensing,
+systematic supply, or distribution in any form to anyone is expressly forbidden.
+The publisher does not give any warranty express or implied or make any
+representation that the contents will be complete or accurate or up to date. The
+accuracy of any instructions, formulae, and drug doses should be independently
+verified with primary sources. The publisher shall not be liable for any loss, actions,
+claims, proceedings, demand, or costs or damages whatsoever or howsoever caused
+arising directly or indirectly in connection with or arising out of the use of this
+material.
+
+Educational Psychology, Vol. 17, Nos 1 and 2, 1997
+
+29
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+On the Nature of Cognitive Style
+
+R I C H A R D J. RIDING, Assessment Research Unit, University of Birmingham,
+
+UK
+
+ABSTRACT
+This paper reviews the origins of the construct of cognitive style, its fundamental dimensions and their method of assessment. The evidence for the independence of the style
+dimensions from one another, from intelligence and from personality is presented. The relationship of style to observed behaviours, such as learning performance, learning preferences, subject
+preferences and social behaviour, is described. Physiological measures and their relationship to
+style are considered. The distinction between style, which is likely to be relatively fixed, and
+strategies which are capable of being learned and developed, is discussed. A 'level' model is then
+outlined with, at the primary level: experience, personality sources and gender. Styles operate
+at the next level of cognitive control. The outer output level comprises the learning strategies.
+Priorities for further research are outlined.
+
+This paper will consider the nature of the construct of cognitive style, its assessment
+and its relationship to behaviour.
+
+Cognitive Style and its Assessment
+The Origins of the Construct of Cognitive Style
+
+Early in the scientific study of psychology, attention was given to the notion that some
+people have a predominantly verbal way of representing information in thought, while
+others are more visual or imaginal (e.g. Galton, 1883; James, 1890) and this was
+continued by Bartlett (1932).
+Between the early 1940s and the 1980s, various investigators observed what they felt
+represented style dimensions. However, the researchers generally worked in their own
+contexts, in isolation from one another, developed their own instruments for assessment and gave their own labels to the style they were studying with little reference to
+the work of others. Not surprisingly, this led to the development of a large variety of
+style labels. A number of workers suggested that many of these were but different
+conceptions of the same dimensions (e.g. Coan, 1974; Fowler, 1980; Brumby, 1982;
+0144-3410/97/01-2/0029-21 © 1997 Carfax Publishing Ltd
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+30
+
+R. J. Riding
+
+Miller, 1987; Riding & Buckle, 1990). Riding and Cheema (1991) found over 30 labels
+and, after reviewing the descriptions, correlations, methods of assessment and effect on
+behaviour, concluded that they could be grouped into two principal cognitive style
+dimension: the Wholist-Analytic and the Verbal-Imagery. A further review by Rayner
+and Riding (this issue) supported this conclusion.
+The two basic dimensions of cognitive style may be summarised as follows:
+(1) The Wholist-Analytic Style dimension of whether an individual tends to process
+information in wholes or parts.
+(2) The Verbal-Imagery Style dimension of whether an individual is inclined to
+represent information during thinking verbally or in mental pictures.
+Cognitive style has been denned by Tennant (1988) "an individual's characteristic and
+consistent approach to organising and processing information".
+
+Style Versus Ability
+An important aspect of this notion is that of style in contrast to simple ability. What are
+the characteristics of style that distinguish it from ability? Both style and ability will
+affect performance on a given task. The basic distinction between them is that
+performance on all tasks will improve as ability increases, whereas the effect of style on
+
+The Nature of Cognitive Styles
+
+31
+
+performance for an individual will either be positive or negative depending on the
+nature of the task. It follows from this that for an individual at one end of a style
+dimension, a task of a type they find difficult will be found easier by someone at the
+other end of the dimension, and vice versa. For instance, if the dimension were the
+Verbal-Imagery style, then Verbalisers would find pictorial tasks more difficult than
+would Imagers, but they would find highly verbal tasks easier than would Imagers. In
+other words, in terms of style a person is both good and poor at tasks depending on the
+nature of the task, while for intelligence, they are either good or poor.
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+Assessment of Cognitive Style
+Two general approaches to assessment have been used to study style: (a) introspective
+self-report and (b) tests of information processing, on the assumption that performance
+is facilitated by style.
+(a) Self-report. A questionnaire, the Cognitive Style Index (Allinson & Hayes, 1996),
+probably assesses a dimension related to the Wholist-Analytic dimension. For the
+Verbal-Imagery dimension, Paivio (1971) devised the Individual Differences Questionnaire comprising 86 true/false item statements (47 for assessing the strength of preference in the verbal mode and 39 for the imagery mode). A development of this using
+differences in lateral eye movement was the Verbalizer-Visualizer Questionnaire (see,
+for instance, Richardson, 1994, pp. 35-37).
+However, introspective self-report measures have inherent weaknesses. These include the subject's (i) possible inability to report their behaviour accurately and
+objectively, (ii) unwillingness to make the necessary effort to respond accurately and
+(iii) bias due to the pressure of social desirability in making responses (see, for instance,
+Kline, 1995, p. 512).
+(b) Measurement of Information Processing. In terms of the Wholist-Analytic dimension,
+Witkin et al. (1971) produced the Embedded Figures Test (EFT), which required
+subjects to find simple geometrical figures within more complex ones in a given time.
+This was designed to assess field-dependence-independence and it was assumed that
+field-independent individuals would be able to do items more quickly than field-dependent ones. However, no subtest was used that the field-dependent individuals were
+likely to perform better on than the field-independent ones. As overall performance will
+also be affected by general ability or 'intelligence', it may be objected that the EFT
+assesses intelligence rather than style (see, for instance, Goldstein & Blackman, 1978,
+pp. 183-184; Flexer & Roberge, 1980; Riding & Pearson, 1994).
+With the Verbal-Imagery dimension, Delaney (1978) used tests of both verbal and
+spatial ability. However, the results were used separately and not in combination, by
+means of a ratio or a difference.
+The approach used by Riding (1991a) in developing the Cognitive Styles Analysis
+(CSA) was to assess performance on simple tasks that might then be representative of
+processing generally, with the intention of measuring an individual's position on both
+the Wholist-Analytic and the Verbal-Imagery dimensions. This was a development of
+the earlier work of Riding and Taylor (1976), Riding and Ashmore (1980), Riding and
+Calvey (1981) and Riding et al. (1989). The background to the development of the
+Cognitive Styles Analysis is given in Riding and Cheema (1991).
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+32
+
+R. J. Riding
+
+The CSA is computer presented and directly assesses both ends of the Wholist-Analytic and Verbal-Imagery dimensions, and comprises three subtests. The first assesses
+the Verbal-Imagery dimension by presenting 48 statements one at a time to be judged
+true or false. Half of the statements contain information about conceptual categories,
+while the rest describe the appearance of items. Half of the statements of each type are
+true. It was assumed that Imagers would respond more quickly to the appearance
+statements, because the objects could be readily represented as mental pictures and the
+information for the comparison could be obtained directly and rapidly from these
+images. In the case of the conceptual category items, it was assumed that Verbalisers
+would have a shorter response time because the semantic conceptual category membership is verbally abstract in nature and cannot be represented in visual form. The
+computer records the response time to each statement and calculates the VerbalImagery Ratio. A low ratio indicates a Verbaliser and a high ratio an Imager, with the
+intermediate position being described as Bimodal. It may be noted that in this approach
+individuals have to read both the verbal and the imagery items so that reading ability
+and reading speed are controlled for.
+The second two subtests assess the Wholist-Analytic dimension. The first of these
+presents items containing pairs of complex geometrical figures which the individual is
+required to judge either the same or different. As this task involves judgements about
+the overall similarity of the two figures, it was assumed that a relatively fast response to
+this task would be possible by Wholists. The second presents items each comprising a
+simple geometrical shape (e.g. a square or a triangle) and a complex geometrical figure,
+and the individual is asked to indicate whether or not the simple shape is contained in
+the complex one by pressing one of the two marked response keys. This task requires
+a degree of disembedding of the simple shape from within the complex geometrical
+figure in order to establish that it is the same as the stimulus simple shape displayed:
+it was assumed that Analytics would be relatively quicker at this. Again, the computer
+records the latency of the responses and calculates the Wholist-Analytic Ratio. A low
+ratio corresponds to a Wholist and a high ratio to an Analytic. Ratios between these
+positions are labelled Intermediate. It should be noted that each style dimension is a
+continuum and subsequently labels will only be attached to ranges on a dimension for
+convenience.
+The CSA provides a simple, quick and convenient means of assessing an individual's
+position on the two fundamental cognitive style dimensions (see Riding, 1991b). The
+instrument has several advantages:
+
+(a) It is an objective test, as defined by Cattell and Warburton (1967), as it is
+objectively scored and its method of assessment is not obviously apparent to
+those being assessed. It is consequently difficult for assessees to contrive their
+results.
+(b) It positively assesses both ends of the style dimension. This is important, as
+otherwise it could be objected that the assessment is simply of ability.
+(c) As it does not contain ^questionnaire-type items, or difficult language, it can be
+used with a wide age-range from children to adults.
+(d) It is context free and can be used in a wide range of situations, such as schools,
+industry and the health service.
+(c) It is probably culture free in nature and it has been used in a number of countries
+[1].
+
+The Nature of Cognitive Styles
+
+33
+
+Evidence for the Validity of Style as a Construct
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+For a style measure to be shown to possess a degree of construct validity, several
+conditions need to be fulfilled. These will include the following. The style dimensions
+should be:
+(1) independent of one another;
+(2) separate from intelligence;
+(3) independent of personality;
+(4) related to observed behaviours, such as (a) learning performance, (b) learning
+preferences, (c) subject preferences and (d) social behaviour;
+(5) related to physiological measures; and
+(6) such that they fulfil the requirements of a 'style'.
+This consideration of style will be limited to studies using the Cognitive Styles Analysis
+approach [2].
+(1) The Independence of the Style Dimensions
+
+The two cognitive style dimensions are independent of one another, in that the position
+of an individual on one dimension does not affect their position on the other.
+Correlation between the two dimensions has been found to be consistently low and
+typically r = ±0.1 (e.g. Riding & Douglas 1993; Riding et al, 1995).
+Gender Differences. There do not appear to be overall gender differences with respect to
+cognitive style. Differences are usually small and nonsignificant on both dimensions
+(p<0.05) (e.g. Riding et al., 1995).
+Age Differences. No longitudinal studies of the effect of age by assessing subjects at
+different ages have been undertaken. However, where samples were from a wide
+age-range, no significant correlation between age and style was observed. For example,
+with a sample of nurses aged 21-61 years, the correlations between age and WholistAnalytic style and Verbal-Imager style, were, respectively, r = 0.00 and r = 0.01 (from
+the data collected by Riding & Wheeler, 1995).
+(2) Style and Intelligence
+
+Cognitive style appears to be independent of intelligence. Riding and Pearson (1994),
+with a sample of 119 12-13-year-old pupils, found that intelligence as measured by the
+subtests of the British Abilities Scale was not related to cognitive style. The correlations
+between the four subtests used and the Wholist-Analytic and Verbal-Imagery ratios
+were all low and nonsignificant and were, respectively: Digits — 0.01, 0.12; Similarities
+- 0 . 0 3 , 0.01; Matrices - 0 . 1 0 , 0.04; Speed of Information Processing 0.07, 0.02.
+Similar findings came from a Canadian study (Riding & Agrell, submitted) of the
+relationship between style and the Canadian Test of Cognitive Skills (CTCS) with 205
+14-16-year-old students. The CTCS comprises four subtests containing intelligence
+test-type items. These together with the respective correlations with the Wholist-Analytic and Verbal-Imagery ratios were: Sequences 0.01, - 0 . 1 0 ; Analogies - 0 . 0 1 ,
+- 0 . 0 5 ; Memory - 0 . 0 3 , - 0 . 0 3 ; Verbal Reasoning - 0 . 0 2 - 0 . 1 0 . Again, all the
+correlations were very low. This study did, however, indicate an interaction between
+
+34
+
+R. J. Riding
+
+style and intelligence in their effect on school achievement, such that style was more
+critical where pupils were of lower ability and the subject matter did not ideally suit
+their style. For instance, the difference in performance between high and low ability
+pupils was greater for the Analytic-Imagers than the Analytic-Verbalisers, where in the
+latter case that style was more naturally suited to learning academic subjects.
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+(3) Personality and Style
+Riding and Wigley (submitted) in a study of 340 College of Further Education students
+aged 17-18 years used a range of questionnaire measures of personality and attitude,
+for comparison with cognitive style, and these included: (a) EPQ-R Short Scale
+(Eysenck & Eysenck, 1991) Extraversion, Neuroticism and Psychoticism; (b) IVE
+Questionnaire (Eysenck and Eysenck, 1991) Impulsiveness, Venturesomeness and
+Empathy, and (c) State and Trait Anxiety Inventory (Spielberger, 1977). A principal
+components factor analysis with oblique rotation gave four factors which were labelled:
+Anxiety, Impulsiveness, Empathy, and Style. No personality measure loaded beyond
+± 0.33 on Style.
+They also considered the interactive effect of Wholist-Analytic style and Verbal-Imagery style on personality measures. They found significant effects such that with
+Neuroticism, Wholist-Verbalisers and Analytic-Imagers were more anxious than Analytic-Verbalisers and Wholist-Imagers. With Impulsiveness, Wholist-Verbalisers and
+Analytic-Imagers were more impulsive/decisive than Analytic-Verbalisers and WholistImagers. They proposed a tentative model in which physiologically based personality
+sources are independent of cognitive style but are moderated by style in their effect on
+behaviour.
+(4) Cognitive Styles and Behaviour
+The relationship between cognitive style and the following behaviours will be reviewed:
+(a) Learning Performance, (b) Learning Preferences, (c) Subject Preferences and (d)
+Social Behaviour.
+(a) Style and Learning Performance. This section will consider the effect on
+learning performance of the interaction between style and the way the instructional
+material is structured, its mode of presentation, its type of content, as well as academic
+achievement.
+The Structure of the Material. Several studies have found that an individual's position on
+the Wholist-Analytic dimension interacts with the structure of the learning material to
+affect performance. When presented with a prose passage for recall, Douglas and
+Riding (1993) found that with 77 11-year-old pupils, Wholists did best when the title
+of the passage was given before the passage was presented, rather than at the end,
+although this had little effect for Analytics. The result was interpreted as due to the
+Wholists being less able to structure material, being helped by a title at the beginning
+to give some organisation to the material.
+Riding and Sadler-Smith (1992) compared performance on two versions of computer-presented instructional material on central heating systems with 129 14-19-yearold students. The two versions presented that same information, but one also contained
+an introduction to the five topics and each topic had a short overview at the start and
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+The Nature of Cognitive Styles
+
+35
+
+a summary at the end. In addition, there was an overall summary at the end of the five
+topics. This treatment slightly improved recall performance for Analytic-Verbalisers
+and Wholist-Imagers, but the additional material reduced performance for the other
+two styles, Wholist-Verbalisers and Analytic-Imagers. This was explained in terms of a
+lack on the part of the Analytic-Verbalisers of a facility to obtain a whole view, and of
+the Wholist-Imagers to be able readily to analyse the information into its structure. For
+these styles, the overview and summaries provided these to some extent. By contrast,
+the Wholist-Verbalisers and the Analytic-Imagers had some facility to do this for
+themselves and the additional material was therefore redundant and depressed performance.
+Riding and Al-Sanabani (in prep.) with a sample of 200 10-15-year-old pupils
+studied the effect on recall performance of a short summary placed either before or after
+a main prose passage. The presence of a summary helped both Verbalisers and Imagers.
+However, for the younger pupils (10-12 years), the Verbalisers were most helped with
+the summary before, and the Imagers with it after. By contrast, with the older pupils
+(13-15 years) the Imagers gained most by having the summary first, and the Verbalisers
+with it second. Put another way, there was only a relatively small improvement in
+performance with age for the Verbalisers on the material with a summary, while there
+was a much greater change with the Imagers. This shift may have been due to the ways
+in which the styles developed learning strategies with age and, particularly, that the
+Imagers had found ways of coping more effectively with verbal material.
+Riding and Adams (in prep.) with 84 12-year-old pupils considered the effect of
+context generated by Direct and Indirect antecedents on the response time to judging
+statements. An example of both is shown below. For each condition, the sentences were
+computer presented one at a time. When the pupil had understood a sentence a key was
+pressed. In the case of the last sentence, the pupil indicated whether it was true or false
+by pressing one of two marked keys.
+DIRECT ANTECEDENT
+(1) June was happy lying
+in the hot sun.
+
+INDIRECT ANTECEDENT
+(1) June joined the other
+bathers on the beach
+
+(2) As a result she got mildly
+sunburnt
+(3) The sun can burn people
+They found that in the case of the Indirect and Direct antecedents, the Verbalisers were
+faster than the Imagers. The reason for this was probably that Imagers take longer than
+Verbalisers because their habitual mode of processing is to generate mental pictures and
+these do not help in judging the final statement: while for the Verbalisers, the semantic
+area related to the statement is likely to be activated, facilitating a quick response. In
+all cases, except that of the Analytic-Verbalisers in the Direct condition, the Analytics
+took longer than the Wholists, perhaps because their processing is more exhaustive and
+considers a wide range of options. However, for the Analytic-Verbalisers in the Direct
+condition, they would have been able to use the context to guide them quickly to the
+properties of the objects mentioned and they would have been able more quickly to
+make the logical inferences, as they were more focused. In a sense, they could more
+quickly disembed the main idea suggested by the context. By contrast, in the more
+
+36
+
+R. J. Riding
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+diffuse Indirect contexts the Analytics could have generated too many possibilities and,
+hence, were slower than the Wholists who probably just waited for the question.
+In summary, Wholists will benefit from help in structuring the material, while
+Analytics should be able to impose their own structure upon it.
+Mode of Presentation. Two modes of presentation are available: the verbal and the
+pictorial. Riding and Ashmore (1980) with 74 11-year-old pupils presented groups of
+Verbalisers and Imagers (as assessed by the earlier Verbal-Imagery Code Test) with
+either a verbal or a pictorial version of the same information. They found that
+Verbalisers were superior with the verbal version and Imagers when learning in the
+pictorial mode. Within the instructional context, while purely verbal presentation is
+often possible, an alternative purely pictorial version is rarely an option as some words
+will also be necessary. However, it will usually be feasible to present information in both
+modes to some extent. Riding and Douglas (1993), with 59 15-16-year-old students,
+found that the computer presentation of material on motor car braking systems in a
+text-plus-picture format facilitated the learning by Imagers compared to the same
+content in a text-plus-text version. They further found that at recall in the text-plus-picture condition 50% of the Imagers used illustrations as part of their answers compared
+to only 12% of the Verbalisers.
+Generally, Imagers learn best from pictorial presentations, while Verbalisers learn
+best from verbal presentations. It is also likely that lecturers and teachers will reflect
+their own style in the ways in which the present information, such that, for instance,
+Verbalisers will use a highly verbal content, while Imagers will use pictures and
+diagrams to illustrate their words. This is worthy of further study.
+Style and Representational Control. Riding and Dyer (1980) distinguished between two
+levels of control of verbal and imagery performance: voluntary and involuntary. They
+suggested that, in the former, the individual makes a deliberate and conscious decision
+to generate an image or verbal response, while, in the latter, the image or verbal
+representation occurs spontaneously without conscious effort. In the present context, it
+may be argued that Verbalisers do not use images greatly during involuntary information processing, although they can generate them successfully by conscious effort.
+By contrast, Imagers habitually use involuntary imagery as a means of representing
+information. Further, for Imagers, mental pictures are likely to be less stable than those
+produced by Verbalisers as they will be liable to interference and displacement by
+further involuntary intrusive images. It may follow that the converse applies to Verbalisers and Imagers with respect to verbal associations, and that Verbalisers find that verbal
+associations tend to be less stable for them than they would be when consciously evoked
+by Imagers.
+Douglas and Riding (1994), with 71 11-year-old pupils, studied drawing performance. The pupils were asked to draw two pictures, one from memory and one from a
+picture. Judges rated the drawings of the Verbalisers as significantly better than those
+of the Imagers. It may be that the fluid mental pictures of the Imagers interfered with
+the external representations.
+It may well follow from this that, in the case of individuals of the same ability and
+similar on the Wholist-Analytic dimension, the Verbalisers are superior in speech which
+benefits from involuntary verbal fluency and relatively inferior in writing where the lack
+of verbal control due to spontaneous involuntary verbal associations may be a hin-
+
+The Nature of Cognitive Styles
+
+37
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+drance. By contrast, Imagers may be superior in written mode, but inferior in the
+spoken mode. This possibility awaits investigation.
+Type of Content. In the case of the type of content of learning material, studies of 11and 12-year-old pupils indicated that Imagers recall highly visually descriptive text
+better than acoustically complex and unfamiliar text, while the reverse holds for
+Verbalisers (Riding & Dyer, 1980; Riding & Calvey, 1981). Initial reading performance, which is obviously a very verbal task, has been found to be superior in Verbalisers.
+Riding and Anstey (1982), with 40 7-year-old children, assessed reading accuracy and
+comprehension and found that both declined from Verbaliser to Imager. Riding and
+Mathias (1991), with 80 11-year-olds, observed that for reading accuracy this effect was
+still very pronounced for Wholists, where Wholist-Verbalisers showed much greater
+proficiency at reading compared to Wholist-Imagers.
+In terms of content type, individuals appear to learn best when information can be
+readily translated into their preferred Verbal-Imagery mode of representation.
+Educational Achievement. The study of educational achievement and style poses problems. These derive from the nature of the subject, the ways in which it has been taught
+and the methods of assessment. A subject usually varies considerably within itself in
+terms of the type of content and the range of processing required. The method of
+instruction will vary from teacher to teacher and probably be a reflection of their styles.
+Further, the form of assessment can be varying proportions of course work and unseen
+examination, and can also vary in mode (verbal/pictorial).
+Riding and Caine (1993) looked at the performance of 182 pupils in the General
+Certificate of Secondary Education (GCSE) (the British public examination at 16
+years) in Mathematics, English Language and French. Overall, the Intermediate-Bimodals did well in all three subjects. There were also significant interactions between style
+and subject on performance, but the patterns obtained were not easy to interpret,
+probably for the reasons given above.
+(b) Style and Learning Preference. Two methods of assessing learning preferences
+have been used: (i) self-report and (ii) observed behaviour choices.
+Self-report Measures. In an investigation by Riding and Read (1996), 78 12-year-old
+pupils were individually questioned about their preferences in the subjects of English
+language and science with respect to mode of working and social context. With mode
+of working, in the case of the higher ability pupils, Imagers, particularly if they are
+Wholists, reported that they used less writing and more pictures than Verbalisers,
+especially where the subject allowed, as in science. The tendency by Imagers to use
+pictures, and Verbalisers writing, increased with ability. There was evidence that lower
+ability pupils were more constrained by the usual format of the subject than were those
+of higher ability.
+The preferences for group, pair and individual working were that all pupils reported
+that they preferred group or pair work to individual work, and group work was
+particularly liked by Wholists, and especially by lower ability Wholist-Imagers. Individual work was least disliked by Analytics, particularly in the case of higher ability
+Verbalisers.
+Sadler-Smith and Riding (submitted), used a questionnaire approach to study
+instructional preferences in 245 university business studies students. In terms of locus
+
+38
+
+R. J. Riding
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+of control, the Analytics preferred to have control themselves rather than to be
+controlled, while the Wholists had no preference.
+The self-report approach suffers from the limitations mentioned above in the section
+considering the assessment of style. While questionnaire approaches have some uses,
+where possible observation of real behaviour is likely to be more relevant.
+
+Observed Behaviour Choices. In a study by Riding and Watts (this issue), 90 female
+16-year-old pupils were told within their class groups that three versions of a sheet
+giving information on study skills had been prepared for them, and that each sheet
+contained the same information but that the formats were different. They were then
+invited to come one at a time to the front of the class and to take one of the versions
+from the teacher's desk. Their choices were noted by the teacher. The versions were
+unstructured-verbal (paragraphs, without headings), structured-verbal (paragraphs,
+each with a clear heading) and structured-pictorial (paragraphs, each with a clear
+heading and a pictorial icon depicting the activity placed in the left margin). No pupils
+chose the unstructured-verbal version. With the two structured versions, there was a
+significant interaction with Verbal-Imagery style with the majority of the Verbalisers
+selecting the verbal version and most of the Imagers the pictorial. On the WholistAnalytic dimension, the pictorial version was more attractive to the Wholists, perhaps
+because it looked more 'lively', while with the Analytics there was a slight preference for
+the more 'neat and tidy' verbal format. The results suggested that pupils are attracted
+to, and prefer to select, materials that appear to suit their own style.
+
+(c) Subject Preferences. Riding and Staley (submitted) gave a questionnaire to 204
+university business studies students which assessed their preferences about the content
+and presentation of their courses. For analysis the courses were grouped as, Information Technology, Accounting (accountancy and quantitative methods, as both of
+these composed largely of numerical concepts and computation) and Management
+(organisational behaviour and business workshop, both of which were concerned with
+the running of organisations). On the Wholist-Analytic dimension, Intermediates were
+least happy with Accounting and Information Technology and most happy with
+Management. For Accountancy and Information Technology, in terms of being positive about the courses, having a clear overview of the courses, least needing content
+overviews, finding the presentation order logical and liking the tutor's style, Wholists
+were highest in their ratings, followed by the Analytics, with the Intermediates having
+the lowest ratings. Accounting and Information Technology requires, on the one hand,
+the capacity for an overall view of the processes and their purposes, and on the other,
+the methodological following of rules. Wholists fit the first requirement and Analytics
+the latter. Intermediates tend to alternate between both, which is useful for a more
+creative approach, but does not consistently give either.
+With Management, it was Intermediates who were most positive, generally found the
+presentation order logical and most liked the tutor's style. Wholists, in particular, rated
+these less highly. Management requires a more creative approach, requiring more
+problem-solving activities, which suits the Intermediates more than the Wholists.
+With respect to the Wholist-Analytic dimension, when performance was considered
+it was noted that individuals underestimated their performance on the subjects that did
+not suit their style and overestimated it on those that did.
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+The Nature of Cognitive Styles
+
+39
+
+(d) Style and Social Behaviour. As cognitive style affects the ways in which an
+individual thinks about and internally represents situations in the external world, it is
+reasonable to expect that it might also be related to aspects of social behaviour.
+The Wholist-Analytic style was derived from a family of styles which includes
+field-dependence-independence. Witkin et al. (1979) considered the effects of this
+dimension on aspects of personality related to the perception of self and nonself.
+They argued that self-nonself segregation increases with field-independence (see also
+Korchin, 1986). Riding (1991b) has suggested that the Wholist-Analytic style will be
+reflected socially in such dimensions as being dependent-self reliant, flexible-consistent,
+realistic-idealistic, vague-organised. Wholists will tend to the first mentioned extreme
+and Analytics the other.
+In line with Huckabee (1974) and Schwartz (1975), Riding and Wicks (1978) found
+results on learning tasks consistent with the interpretation that Verbalisers would be
+extraverts and Imagers introverts. With 12-year-old children, Riding and Dyer (1980)
+found a correlation of — 0.67 for boys and — 0.76 for girls between an earlier measure
+of Verbal-Imagery style (using the Verbal-Imagery Code Test) and introversionextraversion. As discussed in the section on Personality and Style, it is, however, not
+simply that extraversion-introversion and Verbaliser-Imager are respectively the social
+and cognitive manifestations of the same underlying mechanism. There are, however,
+aspects of the Verbal-Imagery dimension that affect social behaviour, as this dimension
+influences the focus and type of an individual's activity, externally and stimulating in
+the case of Verbalisers, and internally and more passive for Imagers.
+Social Relationships. Riding and Wright (1995) asked 149 undergraduate students living
+in university flats, with typically five per flat, to rate their flatmates in terms of personal
+characteristics. The Wholists were rated as more assertive, humorous and helpful, while
+the Analytics were seen as more shy. Further, the degree of unity in each flat was
+assessed by rating questions such as, "Relations in my accommodation have been
+harmonious." When compared to the majority style in each flat, the order of reported
+unity from least to highest was: Analytic-Imager, Wholist-Imager, Analytic-Verbaliser,
+Wholist-Verbaliser. This order was as expected as Analytics are likely to be more
+separate than Wholists and Imagers are likely to be more inward and detached than
+Verbalisers.
+Riding et al. (1995) asked 12-year-old pupils to rate the children in their class in
+terms of being Active (outgoing, lively, humorous), Modest (shy, quiet) and Responsible (serious, patient). They found Verbalisers highest on Active, Bimodals highest on
+Modest and that Responsibleness increased from Verbaliser to Imager.
+Behaviour Problems. Riding and Craig (submitted) assessed the style of 83 10-18-yearold pupils in two residential special schools to which the pupils had been referred
+because of behaviour problems. The percentage of pupils in the Wholist-Analytic
+dimension style groupings as defined by a control sample was Wholists 46%, Intermediates 34% and Analytics 20%. Rayner and Riding (1996) studied 17 15-17-year-old
+pupils attending a Truancy Unit because of their previous failure to attend school.
+Again, comparison with a control sample showed a significant difference on the
+Wholist-Analytic dimension with Wholists 41%, Intermediates 53% and Analytics 6%.
+The high proportion of Wholists with problem behaviour might possibly be related to
+a lack of strong internal control on the part of Wholists if they are then in a situation
+
+40
+
+R. J. Riding
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+where there is insufficient structure and parental discipline within their home environment.
+Stress and Aspect of Occupation. Borg and Riding (1993) gave a sample 212 Maltese
+secondary school teachers a stress questionnaire. This indicated that the amount of
+stress reported was in line with the expectation of Wholists being more open and people
+orientated, and Analytics being more structured and organised. The Wholists reported
+more stress from time pressures and staff relations, while the Analytics found pupil
+misbehaviour and working conditions more stressful.
+Riding and Wheeler (1995), in a study of 204 nurses, found that Verbalisers had a
+significantly higher grade than Imagers. Further, they found evidence that the type of
+nursing that most suited nurses was related to their style. A questionnaire was used to
+assess their reported level of stress and of general satisfaction with their job. A
+Suitability Index was obtained from (satisfaction minus stress) and this was compared
+with their style and type of nursing. The styles with the highest and lowest indices on
+three types of nursing are shown below.
+
+Type of nursing and style
+Suitability
+Level
+
+General
+
+Orthopaedic
+
+Psychiatric
+
+Highest
+Lowest
+
+Analytic-Verbaliser
+Wholist-Imager
+
+Intermediate-Bimodals
+Analytic-Imager
+
+Wholist-Imagers
+Intermediate-Verbaliser
+
+It could be argued that General Nursing is dynamic, requiring conscientious activity,
+Orthopaedic nursing is slower needing patience, and Psychiatric Nursing is demanding
+benefiting from tolerance.
+This approach could usefully be applied to other occupations.
+(5) Style and Physiological Mechanisms
+Riding et al. (1993) reviewed work on EEG and verbal and imagery processing. They
+suggested that for the Verbal-Imagery dimension, EEG alpha suppression (indicating
+mental activity) during information processing would occur over the left hemisphere for
+Verbalisers and over the right for Imagers. With respect to the Wholist-Analytic
+dimension, no clear prediction was made other that it would not be in terms of
+left-right hemispheric specialisation.
+Riding et al. (1997) reported a study of EEG and style which recorded EEG alpha
+in 15 subjects ranging in age form 18 to 36 years, while they did computerpresented word targeting tasks in which words appeared one at a time on the screen at
+a rate of two, five and 10 words/second, and in pairs at five and 10 word-pairs/second.
+The task required subjects to monitor the displayed words and respond with a button
+press whenever a noun from the superordinate categories of 'fruit' or 'vegetable' was
+displayed (e.g. apple or carrot). This study showed a significant effect (p = 0.002) for the
+Wholist-Analytic dimension along the midline (locations Fz, Cz and Pz) with alpha
+suppression being greater for the Analytics and fairly uniform along the line, while for
+the Wholists suppression decreased from anterior to posterior. For the Verbal-Imagery
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+The Nature of Cognitive Styles
+
+Low
+
+41
+
+High
+Style dimension
+
+FIG. 2. Schematic graph of performance and condition.
+
+dimension, the ratio of the power output at T5 (left) to that at T6 (right) correlated
+with the Verbal-Imagery ratio r = 0.50 (p = 0.055) in the expected direction. It should
+be noted that in this study the tasks were likely to favour Analytics and Verbalisers. In
+view of this, the finding of significant style effects is encouraging. Further studies are
+required using a range of information-processing tasks that are in the natural mode for
+each style.
+(6) Style Dimension Positive and Negative Interaction with a Variable
+It is in the nature of a style, as distinct from an ability, that it should interact with a
+variable such that the relative performance of an individual at one extreme of a
+dimension should be higher than that of a person at the other end in one condition, but
+that the situation should be reversed when the condition is changed. This is shown
+schematically in Fig. 2.
+Fig. 2 shows the idealised relationship, which, in practice, is not likely to be so linear
+and the crossover may not be at the centre of the dimension. Further, in many real-life
+tasks there is likely to be an interaction between the two dimensions and the condition,
+rather'than an effect of only one of the dimensions without any effect of the other.
+However, single dimension interactions have been observed. For the Wholist-Analytic
+dimension, this type of interaction was observed in the case of Douglas and Riding
+(1993) in the study of the effect of the position, before or after, of a prose passage title
+on recall. In the case of the Verbal-Imagery dimension, the interaction was found in the
+studies by Riding and Douglas (1993) on text-plus-text versus text-plus-picture presentation of learning material, and by Riding and Watts (this issue) in the observed
+preference for verbal or pictorial formats of instructional material.
+
+Towards a Model of Style
+Style and Strategies
+It is useful to distinguish between style and strategy. Style probably has a physiological
+basis and is fairly fixed for the individual. By contrast, strategies are ways that may be
+learned and developed to cope with situations and tasks, and particularly methods of
+
+42
+
+R. J. Riding
+
+utilising styles to make the best of situations for which they are not ideally suited.
+Within the literature, the term 'learning style' is sometimes used to refer to what here
+is considered to be a strategy. A useful distinction has been made by Curry (1983).
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+Curry's Onion Model
+Curry (1983) proposed that all cognitive/learning style measures may be grouped into
+three main types or "strata resembling layers of an onion". By organising learning style
+measures like this, "learning behaviour is fundamentally controlled by the central
+personality dimension, translated through middle strata information processing dimensions and, given a final twist by interaction with environmental factors encountered in
+the outer strata".
+According to Curry, the outermost layer of the onion and the most observable style
+is what she labels as "instructional preference". Examples of measures of this style are
+the Learning Preference Inventory (Rezler & Rezmovic, 1981) and the Grasha Reichmann Students Learning Styles Scales (Reichmann & Grasha, 1974). Instructional
+preference refers to the individual's choice of environment in which to learn. As this is
+the layer that is most exposed to the learner's environment, learner expectations,
+teacher expectations and other external features, Curry believes instructional preference
+to be the least stable, the most easily influenced level of measurement in the learning
+styles area.
+The second layer of the onion model is referred to as the 'information processing
+style'. This is considered as the individual's intellectual approach to assimilating
+information, and, because this processing does not directly involve the environment,
+Curry believes that measures of this style are more stable than instructional preference,
+but are still modifiable by learning strategies. Measures such as the Learning Style
+Inventory (Kolb, 1976) and Inventory of Learning Processes (Schmeck et al., 1977) are
+all thought to be dealing with information processing style concepts applicable at the
+intersection between fundamental personality level individual differences and environmentally offered learning format choices.
+The third and the innermost layer of the hypothetical learning style onion is
+'cognitive personality style'. The cognitive personality style is denned as the individual's
+approach to adapting and assimilating information, which does not interact directly
+with the environment, but is an underlying and relatively permanent personality
+dimension that is expressed indirectly and is apparent only when an individual's
+behaviour is observed across many learning instances. Examples of measures which
+Curry suggested assess this third type of learning style are the Embedded Figures Test
+(Witkin, 1962); Myers-Briggs Type Indicator (Myers, 1962); and Matching Familiar
+Figures Test (Kagan, 1965).
+On the basis of the onion model, the Cognitive Styles Analysis would be placed in the
+innermost level.
+The Cognitive Control Model
+A possible model, which is an elaboration of that of Curry, of Riding and Rayner
+(1995) and Riding and Wigley (submitted), and which also bears some similarities to
+that of Furnham (1995, p. 398), will be sketched in outline and this is shown
+schematically in Fig. 3.
+At the inmost level, there are a number of underlying primary sources comprising the
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+The Nature of Cognitive Styles
+
+43
+
+FIG. 3.
+
+memory of the individual's past experiences and knowledge, their underlying personality sources and their gender. In order to make the model more concrete, some of the
+personality sources have been given tentative names, although clear physiological
+mechanisms for them have yet to be fully identified.
+The next level is that of cognitive control. This comprises the two dimensions of
+style, the Wholist-Analytic and the Verbal-Imagery. It provides the organisational and
+representational interface between the internal state and the external world. It combines the internal state with the information from the external world and imposes on
+the response and view its own structure and form. The ways in which the WholistAnalytic dimension and the Verbal-Imagery dimension may affect attitude and behaviour have been discussed by Riding (1991b) and Riding (1994).
+At the input level will the perceptual and working memory processing system which
+analyses the incoming information. The performance of this may be considered to be
+the main determiner of 'intelligence' as assessed by intelligence tests, as many test items
+seem to concentrate on this area.
+At the output level, there will be the learning strategies. These will have developed
+by, for instance, the individual then sensing that certain modes are easier to use, and
+then recognising a learning preference, and then deciding to 'translate' new incoming
+information into that representation. At this level, there will also be the cognitive
+response 'set' that influences social behaviour. (It may be observed that learning
+strategies are at a different level in this model from that of Curry.)
+The perception of experiences will probably be moderated by the cognitive control
+
+44
+
+R. J. Riding
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+level in interaction with the cognitive history and the primary personality sources.
+Taking anxiety as an example, and building on Spielberger (1966) and Eysenck (1991),
+external stimuli are assessed by the cognitive control level as to whether or not they are
+threatening. Those that are interpreted as being threatening trigger the anxiety source
+and the level of state anxiety increases and this, in turn, is reflected in behaviour. The
+interpretation of the threat will be affected by cognitive style and also the characteristics
+of the trait anxiety source.
+Some tentative evidence for the model comes from the observations of interactions
+between intelligence, style and gender in affecting academic achievement (Riding &
+Agrell (submitted)) and between style and personality sources in affecting social
+behaviour (Riding & Wigley (submitted)).
+
+Conclusion
+In order to pursue research, and particularly to develop a model and evaluate a
+construct, the researcher needs to have sufficient evidence to sustain belief that the
+construct may exist in order to maintain the energy to undertake the research. On the
+other hand, it is also necessary to have a decree of scepticism in order to retain the
+openness required to evaluate the findings. The psychological study of any construct
+poses difficulties. Even a generally accepted notion, such as intelligence, has been
+questioned as to whether it really exists as a valid construct (see, for instance, Howe
+1990). Howe warns, "It is particularly important not to fall into the trap of believing
+that by describing someone's performance we are also providing the reasons for it"
+(1990, p. 493).
+The validity of the construct of cognitive style, as assessed by the Cognitive Styles
+Analysis approach, is supported by evidence that the dimensions are independent of
+one another, separate from intelligence, independent of, but interacting with, personality; and related to observed behaviours, such as learning performance, learning preferences, subject preferences and social behaviour. There is also an indication of a
+relationship between style and physiological measures. In addition, cognitive style fulfils
+the requirement for the distinction between style and ability. Further, the observed
+relationships between the dimensions and behaviour are consistent with the view that
+the Wholist-Analytic dimension is concerned with organisation and the Verbal-Imagery
+dimension with representation.
+Further Research
+
+While there is evidence to support the notion of style, a number of questions remain
+and further research is need to clarify these. Possible research areas include the
+following.
+(a) What Are the Origins of Style? An obvious question concerns the origins of style.
+They are either inbuilt or develop with experience. It could be that an individual is born
+with a predisposition to use one mode of representation in preference to another. Are
+there style genes? On the other hand, there is the possibility that a style emerges from
+a difference between two complementary abilities. In order to illustrate this, one can
+deliberately oversimplifies how the brain works and consider that within it there is one
+processor for verbal information and another for pictorial. If, in an individual, these two
+processors have unequal speed and processing capacity, then the individual will tend to
+
+The Nature of Cognitive Styles
+
+45
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+use the one in preference to the other whenever possible, and this will lead to the
+establishment of a style, or habitual preference for one over the other. Whatever the
+mechanism, style appears to be present at a relatively early age. Riding and Taylor
+(1976) found evidence that the Verbal-Imagery style was strongly apparent in 7-yearolds. Methods of assessing style in young children and infants need to be developed.
+(b) Are There Other Fundamental Style Dimensions? Do the Wholist-Analytic and the
+Verbal-Imagery dimensions encompass all style descriptors or are there are possibly
+other dimensions? If there are, then they must fulfil the condition that for a style to exist
+as a dimension, the two processors must represent opposites in some sense. In the case
+of the Verbal-Imagery dimension, while words are not the opposite of pictures, they can
+be alternative ways of representing the same information. For the Wholist-Analytic style
+dimension, it is possible to see a progression from the whole to the parts. The whole is,
+in this sense, the opposite of the parts; the wood comprises the individual trees. Studies
+are required to compare other existing measures of style and strategy, provided they
+have also been shown to possess a reasonable degree of construct validity, with the
+Wholist-Analytic and Verbal-Imagery dimensions.
+(c) What Is the Relationship Between Physiological Measures and Style? The identification
+of the underlying physiological mechanisms associated with style is important. Further
+studies using more sophisticated brain-scanning techniques to compare neural activity
+during a range of tasks would be useful.
+(d) Are There Cultural Differences in Style? Most of the studies using the Cognitive Styles
+Analysis approach have been in the UK. The possible effect of culture on style is of
+interest. If similar style patterns were to be demonstrated in a wide range of cultures,
+then this would contribute to the understanding of the nature of style. In English there
+are versions of the CSA for use in the UK, Northern America and Australia. In
+addition, French, Dutch, Malay and Arabic versions have been developed.
+(e) What Is the Interaction Between Other Sources and Style? In considering the impact of
+styles on behaviour, such as learning performance, it is necessary to bear in mind the
+range of individual variables that might affect learning. For a particular task, these will
+include the individual's:
+(a) level of ability/intelligence;
+(b) present relevant knowledge which is necessary to give meaning to the new
+information, or, on the other hand, that could make the new learning redundant;
+(c) degree of motivation, including the perceived relevance of the task;
+(d) gender; and
+(e) style.
+Clearly style will only be one of many influences. It will not show an effect if there is
+a lot of noise in the system, occurring because other relevant variables are not measured
+and included in the analysis. Further, style is not likely to be critical when the task is
+simple. It is likely to be important, however, where the learner is under pressure
+because, relative to their ability etc., the task is difficult. The investigation of the
+conditions in which style is most critical are required. Other research could usefully
+undertake the further study of personality descriptors and style.
+With intelligence measures it may be noted that these are likely to include more than
+
+46
+
+R. J. Riding
+
+just processing capacity and facility, as the items commonly used in intelligence tests
+also assess learned knowledge and the application of acquired skills. They therefore
+include within the measure the ability to learn and perform, and, hence, explain more
+of the variance than style, but they are not pure measures.
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+(f) What Is the Interaction Between Other Experiences and Style? The effect of previous
+experiences on style reactions is of interest. For example, does stress make Analytics
+more analytic and cautious and Wholists more impulsive?
+(g) What Are the Mechanisms for Strategy Development? Given that a particular style finds
+certain tasks more difficult, how can the development of effective strategies be fostered
+in an individual? Various approach could be tried, for example, (i) pairing people of
+dissimilar style so that they learn from one another's approaches as they work together,
+(ii) deliberately present materials in mis-matched mode to encourage the production of
+methods of recoding, (iii) make people aware of the potential of the complementary
+nature of style dimensions where they exist in the case of Analytic-Imagers who could
+use their imaging facility to give an overall, 'whole' view which they lack as Analytics.
+Further, the progression of strategy development could be studied by investigating
+the progression from awareness of ease of difficulty in doing a task, through preferences, awareness of limitations, to the development and refinement of strategies to cope
+with stylistically inappropriate modes or situations.
+(h) What is the Range of Practical Applications of Style? Riding (1994) speculated on the
+practical work-place applications of style for personal development, team roles, management style and interpersonal relationships. Systematic investigation of the types of
+application would clarify the practical use of style in a range of work situations.
+Correspondence: R. J. Riding, Assessment Research Unit, School of Education, University of Birmingham, Birmingham, B15 2TT, UK. Email: R.J.Riding@bham.ac.uk.
+NOTES
+[1] The Cognitive Styles Analysis is available in various languages: English versions for the UK, North
+American and Australasian contexts; French, Dutch, Arabic and Malay. Other language versions
+are in preparation.
+[2] In this review of work using the Cognitive Styles Analysis, the style dimension groupings (e.g.
+Wholist) were usually relative to the sample used and not absolute according to a fixed ratio range.
+Further, only two divisions were used where the sample was relatively small (e.g. Wholist and
+Analytic) and three where it was larger (e.g. Wholist, Intermediate and Analytic).
+
+REFERENCES
+ALLINSON, C.W. & HAYES, J. (1996) The Cognitive Style Index: a measure of intuition-analysis for
+organisational research, Journal of Management Studies, 33, pp. 119-135.
+BARTLETT, F.C. (1932) Remembering (Cambridge, Cambridge University Press).
+BORG, M.G. & RIDING, R.J. (1993) Teacher stress and cognitive style, British Journal of Educational
+Psychology, 63, pp. 271-286.
+BRUMBY, M.N. (1982) Consistent differences in cognitive styles shown for qualitative biological
+problem-solving, British Journal of Educational Psychology, 52, pp. 244-257.
+CATTELL, R.B. & WARBURTON, F.W. (1967) Objective Personality and Motivational Tests (Urbana, IL,
+University of Illinois Press).
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+The Nature of Cognitive Styles
+
+47
+
+COAN, R. (1974) The Optimal Personality: an empirical and theoretical analysis (New York, Columbia
+University Press).
+CURRY, L. (1983) An organization of learning styles theory and constructs, ERIC Document 235 185.
+DELANEY, H.D. (1978) Interaction of individual differences with visual and verbal elaboration instructions, Journal of Educational Psychology, 70, pp. 306-318.
+DOUGLAS, G. & RIDING, R.J. (1993) The effect of pupil cognitive style and position of prose passage
+title on recall, Educational Psychology, 13, pp. 385-393.
+DOUGLAS, G. & RIDING, R.J. (1994) Cognitive style and gender differences in drawing from memory
+versus copying in 11-year-old children, Educational Psychology, 14, pp. 493-496.
+EYSENCK, M.W. (1991) Trait anxiety and cognition, in: C.D. SPIELBERGER & I.G. SARASON (Eds) Stress
+and Emotion: Vol. 14, pp. 77-84 (Washington, Hemisphere Publishing Corporation).
+EYSENCK, H.J. & EYSENCK, S.B.G. (1991) Eysenck Personality Scales (London, Hodder and Stoughton).
+FLEXER, B.K. & ROBERGE, J.J. (1980) IQ, field-dependence-independence, and the development of
+formal operational thought, Journal of General Psychology, 103, pp. 191-201.
+FOWLER, W. (1980) Cognitive differentiation and developmental learning, in H. REES & L. LIPSITT
+(Ed.) Advances in Child Development and Behaviour, Vol. 15, pp. 163-206 (New York, Academic
+Press).
+FURNHAM, A. (1995) The relationship of personality and intelligence to cognitive style and achievement, in D.H. SAKLOFSKE & M. ZEIDNER (Eds) International Handbook of Personality and Intelligence,
+pp. 397-413. (New York, Plenum Press).
+GALTON F. (1883) Inquiries into Human Faculty and its Development (London, Macmillan).
+GOLDSTEIN, K.M. & BLACKMAN, S. (1978) Cognitive Style: five approaches and relevant research (New
+York, Wiley).
+HOWE, M.J.A. (1990) Does intelligence exist?, The Psychologist, 11, pp. 490-493.
+HUCKABEE, M.W. (1974) Introversion-extraversion and imagery, Psychological Reports, 34, pp. 4 5 3 454.
+JAMES, W. (1890) The Principles of Psychology, Vol. 2, Ch. 18 (London, Macmillan).
+KAGAN, J. (1965) Impulsive and reflective children: significance of conceptual tempo, in: J.D.
+KRUMBOLTZ (Ed.) Learning and the Educational Process (Chicago, Rand McNally).
+KOLB, D.A. (1976) The Learning Style Inventory: technical manual (Boston, MA, McBer & Company).
+KORCHIN, S.J. (1986) Field dependence, personality theory, and clinical research, in: M. BERTINI, L.
+PIZZAMIGLIO & S. WAPNER (Eds) Field Dependence in Psychological Theory, Research, and Application
+(Hillsdale, NJ, Lawrence Erlbaum Associates).
+MILLER, A. (1987) Cognitive styles: an integrated model, Educational Psychology, 7, pp. 251-268.
+MYERS, I.B. (1962) The Myers-Briggs Type Indicator Manual (Princeton, Educational Testing Service).
+PAIVIO, A. (1971) Imagery and Verbal Processes (New York, Holt, Rinehart and Winston).
+RAYNER, S. & RIDING, R.J. (1996) Cognitive style and school refusal, Educational Psychology, 16(4) pp.
+445-452.
+RAYNER, S. & RIDING, R.J. (this issue) Towards a categorisation of cognitive styles and learning styles,
+Educational Psychology, 17.
+REICHMANN, S.W. & GRASHA, A.F. (1974) A rational approach to developing and assessing the
+construct validity of a study learning style scales investment, Journal of Psychology, 87, pp. 213-223.
+REZLER, A.G. & REZMOVIC, V. (1981) The Learning Preference Inventory, Journal of Applied Health,
+10, pp. 28-34.
+RICHARDSON, A. (1994) Individual Differences in Imaging: their measurement, origins and consequences
+(New York, Baywood Publishing Co.).
+RIDING, R.J. (1991a) Cognitive Styles Analysis (Birmingham, Learning and Training Technology).
+RIDING, R.J. (1991b) Cognitive Styles Analysis User Manual (Birmingham, Learning and Training
+Technology).
+RIDING, R.J. (1994) Personal Style Awareness and Personal Development (Birmingham, Learning and
+Training Technology).
+RIDING, R.J. & ADAMS, D. (submitted) Cognitive Style and Inference Speed Following Direct and Indirect
+Antecedents.
+RIDING, R.J. & AGRELL, C. (in prep.) The Effect of Cognitive Style and Cognitive Skills on School
+Subject Performance.
+RIDING, R.J. & A L SANABANI, S. (in prep.) The Effect of Cognitive Style and the Structure of Instructional
+Prose Material on Recall.
+RIDING, R.J. & ANSTEY, L. (1982) Verbal-Imagery learning style and reading attainment in eight-yearold children, Journal of Research in Reading, 5, pp. 57—66.
+
+48
+
+R. J. Riding
+
+RIDING, RJ. & ASHMORE, J. (1980) Verbaliser-Imager learning style and children's recall of information
+presented in pictorial versus written form, Educational Studies, 6, pp. 141-145.
+RIDING, R.J. & BUCKLE, C.F. (1990) Learning Styles and Training Performance (Sheffield, Training
+Agency).
+RIDING, R.J., BUCKLE, C.F., THOMPSON, S. & HAGGER, E. (1989) The computer determination of
+
+learning styles as an aid to individualised computer-based training, Educational and Training Technology International, 26, pp. 393-398.
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+RIDING, R., BURTON, D., REES, G. & SHARRATT, M. (1995) Cognitive style and personality in
+
+12-year-old children, British Journal of Educational Psychology, 65, pp. 113-124.
+RIDING, R.J. & CAINE, T. (1993) Cognitive style and GCSE performance in mathematics, English
+language and French, Educational Psychology, 13, pp. 59-67.
+RIDING, RJ. & CALVEY, I. (1981) The assessment of Verbal-Imagery learning styles and their effect on
+the recall of concrete and abstract prose passages by eleven-year-old children, British Journal of
+Psychology, 72, pp. 59-64.
+RIDING, R.J. & CHEEMA, I. (1991) Cognitive styles—an overview and integration, Educational Psychology, 11, pp. 193-215.
+RIDING, R.J. & CRAIG, O. (submitted) Cognitive Style and Problem Behaviour in Boys Referred to
+Residential Special Schools.
+RIDING, R.J. & DYER, V.A. (1980) The relationship between extraversion and Verbal-Imagery learning
+styles in 12-year-old children, Personality and Individual Differences, 1, pp. 273-279.
+RIDING, R.J. & DOUGLAS, G. (1993) The effect of cognitive style and mode of presentation on learning
+performance, British Journal of Educational Psychology, 63, pp. 297-307.
+RIDING, R.J., GLASS, A., BUTLER, S.R. & PLEYDELL-PEARCE, C.W. (submitted) Cognitive Style and
+
+Individual in Differences in EEG Alpha During Information Processing, Educational Psychology, 17,
+pp. 219-234.
+RIDING, R.J., GLASS, A. & DOUGLAS, G. (1993) Individual differences in thinking: cognitive and
+neurophysiological perspectives, Educational Psychology, 13, pp. 267-279.
+RIDING, R.J. & MATHIAS, D. (1991) Cognitive styles and preferred learning mode, reading attainment
+and cognitive ability in 11-year-old children, Educational Psychology, 11, pp. 383-393.
+RIDING, RJ. & PEARSON, F. (1994) The relationship between cognitive style and intelligence, Educational Psychology, 14, pp. 413-425.
+RIDING, R.J. & RAYNER, S. (1995) The information superhighway and individualised learning, Educational Psychology, 15, pp. 365-378.
+RIDING, R.J. & READ, G. (1996) Cognitive style and pupil learning preferences, Educational Psychology,
+16, pp. 81-106.
+RIDING, RJ. & SADLER-SMITH, E. (1992) Type of instructional material, cognitive style and learning
+performance, Educational Studies, 18, pp. 323-340.
+RIDING, RJ. & STALEY, A. (submitted) Self-perception as Learner, Cognitive Style and Business Studies
+Students' Course Performance.
+RIDING, R.J. & TAYLOR, E.M. (1976) Imagery performance and prose comprehension in seven-year-old
+children, Educational Studies, 2, pp. 21-27.
+RIDING, R.J. & WATTS, M. (this issue) The effect of cognitive style on the preferred format of
+instructional material, Educational Psychology, 17.
+RIDING, R.J. & WHEELER, H. (1995) Occupational stress and cognitive style in nurses: 2, British Journal
+of Nursing, 4, pp. 160-168.
+RIDING, R.J. & WICKS, B.J. (1978) The effect of extraversion and presentation order in learning from
+picture-commentary sequences in children, Educational Review, 5, pp. 15—22.
+RIDING, R.J. & WIGLEY, S. (submitted) The Relationship Between Cognitive Style and Personality in Further
+Education Students.
+RIDING, RJ. & WRIGHT, M. (1995) Cognitive style, personal characteristics and harmony in student
+flats, Educational Psychology, 15, pp. 337-349.
+SADLER-SMITH, E. & RIDING, R.J. (submitted) Cognitive Style and Learning Preferences in Business Studies
+Students.
+SCHMECK, R.R., RIBICH, F.D. & RAMANIAH, N. (1977) Development of a self-report inventory for
+
+assessing individual differences in learning processes, Applied Psychological Measurement, 1, pp.
+413-431.
+SCHWARTZ, S. (1975) Individual differences in cognition; some relationships between personality and
+memory, Journal of Research in Personality, 9, pp. 217-225.
+SPIELBERGER, C.D. (1966) Theory and research in anxiety, in: C.D. SPIELBERGER (Ed.) Anxiety and
+Behavior, pp. 97-105. (New York, Academic Press).
+
+The Nature of Cognitive Styles
+
+49
+
+Downloaded by [McGill University Library] at 10:58 26 December 2012
+
+SPIELBERGER, C.D. (1977) State and Trait Anxiety Inventory Form Y 1 (Palo Alto, Consulting Psychologists' Press).
+TENNANT, M. (1988) Psychology and Adult Learning (London, Routledge).
+Witkin, H.A. (1962) Psychological Differentiation; studies of development (New York, Wiley).
+WITKIN, H.A., GOODENOUGH, D.R. & OLTMAN, P.K. (1979) Psychological differentiation: current
+status, Journal of Personality and Social Psychology, 37, pp. 1127-1145.
+WITKIN, H.A., OLTMAN, P.K., RASKIN, E. & KARP, S.A. (1971) Manual for the Embedded Figures Tests
+(Palo Alto, CA, Consulting Psychologists' Press).
+
+

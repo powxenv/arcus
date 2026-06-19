@@ -1,15 +1,15 @@
 # Test 2: The Modes of Mind Assessment (MMA)
 
-> Status: v0.2 design document. 32-item facet-organized bank.
+> Status: v0.3 design document. Full-text paper audit (7 cognitive psych PDFs reviewed, verified against actual findings). Citations updated: kept only sources with verified full-text; dropped redundant or unverified ones. Three construct honesty notes added (Axis C compositing, C1/C2 cross-construct split, D1/D2 designer decomposition). Four items replaced for construct alignment against paper content. Scoring updated to v0.19 parity (facet-tension detection, gradation convention). Boundary renamed Undecidable → The Halting Point. See CHANGELOG v0.3.
 > Position: The Turing-themed test of the four-test Solstice Soul suite.
 > Theme served: Alan Turing (computing, code-breaking, AI, the many valid ways a mind can compute).
-> Honesty statement: The MMA is an original, theory-informed assessment for reflection and play. Its axes are inspired by validated models of cognition (Epstein dual-process theory, Riding's cognitive styles). It is not independently validated and is not clinical. The four result names are an interpretive metaphor drawn from computing and Turing's own work, not a claim that human minds are literally algorithms.
+> Honesty statement: The MMA is an original, theory-informed assessment for reflection and play. Its two axes are grounded in full-text-verified constructs: Processing Mode draws from Need for Cognition (Cacioppo & Petty, 1982), the Rational-Experiential Inventory (Epstein et al., 1996), and the Cognitive Reflection Test (Frederick, 2005); Encoding Structure draws from Riding's (1997) Wholist-Analytic dimension, with cross-cultural corroboration from Nisbett et al. (2001). It is not independently validated and is not clinical. The four result names are an interpretive metaphor drawn from computing and Turing's own work, not a claim that human minds are literally algorithms.
 
 ---
 
 ## 1. The name
 
-**The Modes of Mind Assessment (MMA).** Locked v0.1.
+**The Modes of Mind Assessment (MMA).**
 
 "Modes" signals dual-process theory (System 1 and System 2 are the two modes of mind). "Mind" is the domain, distinct from Test 1's domain (energy and orientation). "Assessment" matches the SCA naming convention and signals a serious instrument.
 
@@ -17,58 +17,82 @@ The in-game UI may use "The Turing Modes" as a friendlier label, but the framewo
 
 ---
 
-## 2. Theoretical foundation (each source states its use)
+## 2. Theoretical foundation (each source states its use, each verified against full-text)
 
-The two axes are cognitive, not affective or motivational. Test 1 already covers energy and approach. This test covers how you think, a genuinely separate domain with minimal overlap.
+Sources below are retained because full-text PDFs confirm the claimed use.
 
 ### 2.1 Structural sources (define what we measure)
 
-- **Epstein, Pacini, Denes-Raj and Heier (1996), Rational-Experiential Inventory.** 1303 citations. Two independent dimensions, rational (analytical, deliberative) and experiential (intuitive, automatic), based on Cognitive-Experiential Self-Theory. *Use:* core anchor for Axis C (Processing Mode). The decisive finding is that the two modes are independent, not opposite, which lets us score them continuously without dichotomizing.
-- **Pacini and Epstein (1999), REI-Revised.** Refined the REI with cleaner factor structure. *Use:* grounds the item wording for the deliberate and intuitive poles.
-- **Norris and Epstein (2017), Rational-Experiential Multimodal Inventory.** Splits experiential into intuition, emotionality, imagination. *Use:* sub-score texture for the intuitive pole, if we want facet depth on the results screen.
-- **Cacioppo and Petty (1982), Need for Cognition Scale.** 3601 citations. Enjoyment of effortful, deliberative thinking. *Use:* secondary corroboration for the deliberate pole. Validates that "deliberate" is a stable disposition, not just a state.
-- **Cacioppo, Petty and Kao (1984), NFC Short Form.** *Use:* item-length precedent (18-item short form exists, confirming 8 items per axis is feasible).
-- **Frederick (2005), Cognitive Reflection Test.** Behavioral measure of overriding System 1 intuition with System 2 deliberation. *Use:* behavioral-trait anchor. Confirms the two modes are operationally distinguishable, not just self-report.
+- **Cacioppo and Petty (1982), Need for Cognition Scale (JPSP).** Four studies developing and validating the NFC. Factor analysis yielded ONE major factor — NFC is unidimensional. Items measure "the tendency for an individual to engage in and enjoy thinking" (p. 116). Unrelated to social desirability, weakly related to cognitive style, weakly negatively related to dogmatism, positively correlated with intelligence. Verified: items are entirely about enjoyment, not speed or ability. *Use:* core anchor for the C1 facet (Deliberation Preference). The unidimensionality finding means C1 and C2 are a cross-construct split, not a two-factor decomposition of NFC — stated in §2.5 honesty notes.
+- **Cacioppo, Petty, Feinstein and Jarvis (1996), NFC meta-analysis (Psychological Bulletin).** A comprehensive review confirming NFC is a stable disposition — people differ systematically in how much they enjoy thinking, and this difference is not the same thing as intelligence. *Use:* backs up C1 and confirms that "enjoyment of thinking" is a real, measurable individual difference.
 
-- **Riding (1991, 1997), Cognitive Styles Analysis.** Two genuinely orthogonal cognitive dimensions, Wholist-Analytic and Verbaliser-Imager. *Use:* core anchor for Axis D (Encoding Structure), specifically the Wholist-Analytic dimension. We borrow Wholist-Analytic and drop Verbaliser-Imager, see §2.3.
-- **Riding and Rayner (1998), Cognitive Styles and Learning Strategies.** Synthesizes the evidence base for Wholist-Analytic as a stable cognitive style. *Use:* precedent that the construct is measurable across contexts.
+- **Epstein, Pacini, Denes-Raj and Heier (1996), Rational-Experiential Inventory (JPSP).** Two studies validating the REI. The key finding: factor analysis produced TWO ORTHOGONAL factors — NFC (rational) and Faith in Intuition (FI, experiential). Their correlation? r = .08 — practically zero. You can be high in both, or low in both. They're not opposites. The 10-item short form (5 NFC + 5 FI) had α = .73/.72; at 8+ items the Spearman-Brown projection exceeds .85. *Use:* core anchor for Axis C. This is the same pattern as Test 1's Axis B (approach and withdrawal are independent per Carver & White). What it means for our design is in §2.5.
+- **Frederick (2005), Cognitive Reflection Test (J. Economic Perspectives).** Three simple questions (the bat-and-ball, machines, and lily-pad problems). Each has an intuitive but wrong answer, and getting it right requires overriding that first impulse. CRT scores predict decision-making biases above IQ. CRT is not the same as NFC — enjoying thinking doesn't mean you'll catch your own wrong intuitions. *Use:* behavioral anchor for the C2 facet. Our C2 items aren't the CRT problems — they're self-report questions about whether you *tend* to verify, not whether you *can* get the right answer.
+- **Stanovich and West (2000), Individual differences in reasoning (BBS).** A landmark paper (82 pages plus peer commentary) establishing that thinking dispositions predict reasoning performance above and beyond cognitive ability. Introduces the dual-process framework: System 1 (fast, intuitive, automatic) vs. System 2 (slow, analytical, decontextualized). The key mechanism: "cognitive decontextualization" — the ability to set aside what you already believe and evaluate the problem on its own terms. *Use:* the overarching framework linking C1 (enjoying System 2) and C2 (using System 2 to check your work).
+- **Stanovich and West (1997), Actively Open-Minded Thinking (J. Educational Psychology).** AOT is a composite of six subscales (Flexible Thinking + Openness-Ideas + Openness-Values − Absolutism − Dogmatism − Categorical Thinking; α = .88). AOT predicts argument evaluation above cognitive ability. BUT: two of the six subscales are NEO-PI-R facets — AOT substantially overlaps with Big Five Openness. *Use:* supplementary corroboration that individual differences in cognitive processing are real. Provides shading for the result profiles (open-minded/flexible vs. certain/rigid coloring across all four modes). Not used as a structural axis — AOT is more about how you handle beliefs than how you compute.
+
+- **Riding (1997), On the nature of cognitive style (Educational Psychology).** Review of the Cognitive Styles Analysis. Two independent dimensions: Wholist-Analytic (r ≈ ±0.1 with Verbal-Imagery). Wholist-Analytic is independent of intelligence (correlations with ability subtests: r ≈ 0.00–0.04) and independent of personality. The CSA uses behavioral (reaction-time) assessment, not self-report. Riding explicitly criticizes self-report measures (p. 31: "inability to report accurately, unwillingness to make the necessary effort, social desirability bias") but acknowledges validated self-report instruments exist (Allinson & Hayes, 1996). *Use:* core anchor for Axis D (Encoding Structure), specifically the Wholist-Analytic (parts-first vs. whole-first) dimension. The CSA is behavioral; our conversion to self-report is a design choice stated in §2.5.
+- **Nisbett, Peng, Choi and Norenzayan (2001), Culture and systems of thought (Psychological Review).** Cross-cultural validation of the holistic vs. analytic distinction. East Asians tend toward holistic (context/field-sensitive) processing; Westerners tend toward analytic (object/category-based) processing. The distinction maps onto perceptual field dependence/independence (Witkin). *Use:* independent, cross-cultural corroboration that the parts/wholes distinction is a genuine, stable cognitive dimension — not a measurement artifact of one instrument. Supplementary citation; does not provide item content or a two-facet structure.
 
 ### 2.2 Textural sources (define how we describe)
 
-- **Kirton (1976), Adaption-Innovation Theory (KAI).** Single validated dimension, adaptors do things better, innovators do things differently. *Use:* texture only for the "creative" reading of certain results. Not structural, because it is single-axis and overlaps heavily with Big Five Openness (von Wittich and Antonakis 2011).
-- **von Wittich and Antonakis (2011), "The KAI cognitive style inventory: Was it personality all along?"** *Use:* the caveat. KAI largely reduces to Big Five. We borrow the vocabulary, never the claim that KAI is an independent cognitive construct.
-- **Sternberg (1988, 1997), Mental Self-Government / Thinking Styles Inventory.** 13 styles across functions (legislative, executive, judicial), forms, levels, scopes, leanings. *Use:* archetype vocabulary for the result profiles. Rich naming source, but too many dimensions to structure a 2-axis test, so we use it for texture only.
-- **Sowden, Pringle and Gabora (2014), creative thinking and dual-process theory.** Maps the generation-versus-refinement distinction onto Type 1 and Type 2. *Use:* justifies explicitly excluding creativity as an axis (see §2.3) by showing it is a process distinction, not a cognitive-style one.
+Each result's profile draws vocabulary from the broader cognitive-styles and thinking-dispositions literature. No textural source below is used as a structural anchor.
+
+- **Sternberg (1988, 1997), Thinking Styles.** 13 thinking styles across functions, forms, levels, scopes. *Use:* archetype vocabulary for the result profiles only. Too many dimensions to structure a two-axis test, so not used structurally. NOTE: not verified against full-text; cited for naming richness only.
+- **Sowden, Pringle and Gabora (2014), creative thinking and dual-process theory.** Maps creative generation and refinement onto Type 1 and Type 2 processes. *Use:* conceptual argument for why creativity is not a separate axis (§2.3). NOTE: not verified against full-text; cited for the conceptual point only.
+
 
 ### 2.3 Why two axes, why these two, why not three
 
-- **Why not three axes (dropping Riding's Verbaliser-Imager).** Verbaliser-Imager (words versus pictures) is the weaker of Riding's two dimensions. It has thinner validation, overlaps with modality-of-study rather than cognition, and adds a third axis that breaks the 4-quadrant template the suite is built on. Wholist-Analytic (parts-first versus whole-first) is the robust, cognition-level construct. We keep it and drop Verbaliser-Imager.
-- **Why not a creativity axis (dropping "Creative Disruptor").** Creativity is a capability, not a cognitive mode. Sowden, Pringle and Gabora (2014) show creative generation and refinement map onto Type 1 and Type 2 processes respectively, meaning creativity is distributed across all four of our quadrants rather than being a separate axis. Forcing a creativity axis would conflate a capability with a cognitive style. The four results all have their own creative signature, surfaced in the profiles rather than scored.
-- **Why dual-process (Epstein) rather than MBTI thinking-versus-feeling.** Epstein treats rational and experiential as independent dimensions. MBTI dichotomizes them. Same structural flaw we rejected in Test 1. Epstein is the validated, non-dichotomizing move.
+- **Why not three (Verbaliser-Imager).** Riding validates Verbaliser-Imager as orthogonal to Wholist-Analytic (r ≈ ±0.1). The dimension has genuine construct validity. We drop it because (a) it adds a third axis that breaks the suite's 4-quadrant template, (b) it overlaps with modality-of-study rather than core cognition, and (c) the suite template is locked (§2 of the framework doc). Wholist-Analytic is the more cognition-level construct.
+- **Why not a creativity axis.** Creativity is a capability, not a cognitive mode. Sowden, Pringle and Gabora (2014) show creative generation and refinement map onto Type 1 and Type 2 processes, meaning creativity is distributed across all four quadrants. Forcing a creativity axis would conflate capability with style.
+- **Why Epstein dual-process rather than MBTI thinking-vs-feeling.** Epstein treats rational and experiential as independent dimensions, confirmed as orthogonal in the full-text (r = .08). MBTI dichotomizes them. Same flaw as Test 1's rationale for rejecting MBTI (McCrae and Costa 1989).
 
 ### 2.4 Response-format sources (inherit from Test 1)
 
-Test 1's response-format decisions apply unchanged. Sources summarized, not re-argued.
-- **Sun, Schmidt and Henry (2025).** Sliders underperform Likert. *Use:* reject slider, use seven-point bipolar Likert.
-- **Chang (1994), Gosling et al. (2003), Gliem and Gliem (2003), Spearman-Brown.** *Use:* seven points, eight items per axis.
-- **McCrae and Costa (1989), Schulte et al. (2020), Backstrom and Bjorklund (2024).** *Use:* reject forced-choice and dichotomizing.
+Decisions apply unchanged from Test 1. Full argument in `01-solstice-cycle-assessment.md` §7.
+- **Sun, Schmidt and Henry (2025).** Sliders underperform Likert.
+- **Chang (1994), Gosling et al. (2003), Spearman-Brown.** Seven points, eight items per axis.
+- **McCrae and Costa (1989), Schulte et al. (2020).** Reject forced-choice and dichotomizing.
+
+
+### 2.5 Facet grounding and honesty notes
+
+The facets under each axis are grounded in validated constructs. Three honesty notes document design choices where we stray from the source instruments — the same transparency Test 1 uses for its Axis A compositing.
+
+**Axis C facets.**
+- **C1 Deliberation Preference:** Need for Cognition (Cacioppo & Petty, 1982). The tendency to engage in and enjoy effortful thinking. NFC is one thing — one major factor, confirmed in four studies. Items are about enjoyment: "I prefer complex to simple problems"; "Thinking is not my idea of fun" [reversed]. Not about speed, not about ability.
+- **C2 Override Tendency:** The dispositional side of cognitive override (Frederick, 2005). Do you pause and check your intuitions, or trust them and move on? CRT is a behavioral test — our items convert this to self-report, asking about your tendency to verify, not your ability to get the right answer. Stanovich & West (2000) on "cognitive decontextualization" provides the bridge: both C1 and C2 are about engaging System 2, but C1 is about enjoying it and C2 is about checking with it.
+
+**Honesty note 1 — Axis C puts two independent dimensions on one scale.** NFC (enjoyment of rational thinking) and Faith in Intuition (experiential) are separate dimensions in the REI (Epstein et al., 1996; r = .08). A person can be high in both or low in both. Treating them as opposite ends of one axis collapses two dimensions into one. A mid-axis score on our test could mean you're high in both systems, low in both, or genuinely in the middle. The C1 and C2 facet scores help tell these apart: if your C1 (enjoyment) is high but your axis score is mid-range, you're probably bimodal — you engage both rational AND intuitive thinking. The facet signature surfaces this; the axis mean alone doesn't.
+
+**Honesty note 2 — C1 and C2 come from different constructs.** C1 is NFC (enjoyment of thinking). C2 is override tendency (checking your intuitions). These are different things — the CRT paper (Frederick, 2005) confirmed you can enjoy thinking without being good at checking your gut. We put them under one axis because they share a "System 2 engagement" theme (Stanovich & West, 2000), but they're not two halves of one validated scale. We report them separately so any divergence is visible. If pilot data ever shows they merge into one factor, the separate reporting is harmless.
+
+**Axis D facets.**
+- **D1 Entry Point:** Riding (1997) Wholist-Analytic. What registers first when you encounter something new — the parts, or the whole picture? Riding's original test uses computer-based reaction-time tasks, not a questionnaire.
+- **D2 Decomposition Habit:** Same Riding source, but applied to what you do once you have the information. Do you break things down into units, or look for patterns that connect them? D2 is our extension — Riding doesn't split Wholist-Analytic into two sub-facets.
+
+**Honesty note 3 — D1 and D2, and the switch from behavioral to self-report.** Riding treats Wholist-Analytic as one dimension and measures it behaviorally. We split it into two facets and use Likert self-report. Both are design choices. Riding himself flagged self-report weaknesses for cognitive style ("inability to report accurately… social desirability bias"). We're transparent: D1 and D2 are reported separately so you can see any differences; if they turn out to be the same factor, the split is harmless. The self-report format carries the same caveats as every other test in this suite.
+
+**Honesty note 4 — Overlap with personality.** C1 overlaps with Big Five Openness-to-Ideas. C2 overlaps with Conscientiousness. Axis D overlaps weakly with Openness. These are real, validated constructs — we're not inventing dimensions, we're combining established ones into a new structure. The MMA's contribution is asking "how do you compute?" from two angles (process and structure), framed through Turing's work rather than through personality.
+
 
 ---
 
 ## 3. Why the framework fits the Turing theme
 
-Turing's core insight was that there are many valid ways a mind can compute. The Imitation Game asks whether a hidden mind can be inferred from its outputs. The MMA asks the inverse: given your outputs, which mode of mind is yours?
+Turing's core insight was that there are many valid ways a mind can compute. The Imitation Game asks whether a hidden mind can be inferred from its outputs. The MMA asks the inverse: given your outputs (your item responses), which mode of mind is yours?
 
-The fit is structural. Turing's own work spans all four quadrants, which lets each result name point at a real piece of his legacy:
+The fit is structural. Turing's own work spans all four quadrants — not as a retrospective mapping, but as a direct correspondence between the cognitive mode each quadrant describes and what Turing actually built or discovered:
 
-| Turing's work | Quadrant it embodies |
-|---|---|
-| The Turing Machine, the Halting Problem | ⚙️ The Algorithm (sequential + deliberate) |
-| Enigma codebreaking, Bombe design | 🕸️ The Cipher (sequential + intuitive pattern work) |
-| Morphogenesis, reaction-diffusion | 🔮 The Gestalt (holistic + intuitive emergence) |
-| ACE architecture, computability theory | 🏗️ The Architecture (holistic + deliberate systems thinking) |
+| Turing's work | Cognitive mode | Why the fit is genuine, not decorative |
+|---|---|---|
+| The Turing Machine, the Halting Problem (1936) | ⚙️ The Algorithm (sequential + deliberate) | Turing formalized computation as a deterministic sequence of exact operations. The Algorithm is the mode this formalization describes: stepwise, verifiable, each operation justified by the one before it. The Turing Machine IS the operational definition of sequential+deliberate. |
+| Enigma codebreaking, Bombe design (1939–42) | 🕸️ The Cipher (sequential + intuitive) | Cryptanalysis involves sequential operation (character by character, frequency by frequency) driven by pattern recognition rather than formal proof. The Bombe automated this: an electro-mechanical pattern-matcher that tested rotor settings against known cribs. The mapping is to the cognitive mode of the activity, not to Turing's personal style — the weakest of the four mappings, stated openly. |
+| Morphogenesis, reaction-diffusion (1952) | 🔮 The Gestalt (holistic + intuitive) | Turing's morphogenesis paper describes how global patterns (spots, stripes, spirals) emerge from simple local rules — the definition of a holistic+intuitive insight. He saw the whole pattern arising from the system dynamics, not from specifying each element. This is the purest expression of the Gestalt mode. |
+| ACE architecture, computability theory (1945) | 🏗️ The Architecture (holistic + deliberate) | The ACE design was a complete system architecture — Turing designed the whole machine, not a component. His computability work asks what can be computed in principle, a systems-level question approached with formal rigor. The Architecture mode: deliberate, structured, and about wholes. |
 
-The test's framing writes itself: *Turing showed that minds, like machines, come in different architectures. Which of these is yours?*
+The test's framing: *Turing showed that minds, like machines, come in different architectures. Which of these is yours?* The mapping is structural and historically grounded, not decorative. The one mapping that stretches (the Cipher → Enigma via the mode of the activity, not the man) is stated openly rather than implied.
 
 ---
 
@@ -77,15 +101,16 @@ The test's framing writes itself: *Turing showed that minds, like machines, come
 Two orthogonal continuous axes, each 0 to 100.
 
 **Axis C, Processing Mode** (how you arrive at answers).
-- Construct basis: Epstein dual-process (rational and experiential). Cacioppo-Petty Need for Cognition. Frederick Cognitive Reflection.
-- High pole, Deliberate (System 2): effortful, analytical, stepwise, override-capable.
+- Construct basis: Cacioppo & Petty (1982) Need for Cognition. Epstein et al. (1996) REI. Frederick (2005) CRT (behavioral anchor for C2). Stanovich & West (2000) dual-process framework.
+- High pole, Deliberate (System 2): effortful, analytical, and enjoys the thinking itself — not just the answer. The NFC core.
 - Low pole, Intuitive (System 1): rapid, automatic, pattern-based, low-effort. Reframed as fluency and speed, never as laziness or error.
+- **Honesty note (full-text verified).** NFC and Faith in Intuition are orthogonal in the REI (Epstein et al., 1996; r = .08). Treating them as a single bipolar axis is a design choice. A mid-axis score may reflect being high in both, low in both, or genuinely intermediate. The C1 and C2 facet sub-scores disambiguate. See §2.5.
 
 **Axis D, Encoding Structure** (how you take in and structure information).
-- Construct basis: Riding Wholist-Analytic. Gestalt psychology tradition.
+- Construct basis: Riding (1997) Wholist-Analytic dimension. Nisbett et al. (2001) cross-cultural corroboration.
 - High pole, Sequential: parts-first, ordered, builds bottom-up.
 - Low pole, Holistic: whole-first, configurational, builds top-down. Neither pole is superior.
-
+- **Honesty note (full-text verified).** Riding's CSA assesses Wholist-Analytic behaviorally (reaction time), not via self-report. Our conversion to self-report Likert is a design choice. The D1/D2 split into Entry Point and Decomposition Habit is a designer decomposition of a unidimensional construct — see §2.5.
 Each quadrant embodies a recognizable cognitive mode. The person is always a point on the plane, never forced into a binary.
 
 ---
@@ -111,78 +136,70 @@ Why "The Cipher" is Sequential plus Intuitive: a cryptanalyst works sequentially
 
 ## 6. Methodology and scoring
 
-**Step 1, collect.** 32 responses, each 1 to 7.
+Inherits Test 1's model identically — the math is construct-agnostic and applies to any two-axis continuous instrument.
+
+**Step 1, collect.** 32 responses, each 1 to 7. Four facets (C1, C2, D1, D2), 8 items each.
 
 **Step 2, direction-normalize.** Map each item so a higher value always means more Deliberate (Axis C) or more Sequential (Axis D). Reverse-keyed items are inverted.
 
-**Step 3, axis scores.**
-- C = mean of normalized Axis-C items, scaled to 0 to 100. 0 is Intuitive, 100 is Deliberate.
-- D = mean of normalized Axis-D items, scaled to 0 to 100. 0 is Holistic, 100 is Sequential.
+**Step 3, facet scores.** C1 = mean of normalized C1 items, scaled 0–100. Similarly for C2, D1, D2.
 
-**Step 4, locate on the plane.** Center is (50, 50).
-- Quadrant (your mode) from the signs of C−50 and D−50.
+**Step 4, axis scores.** C = mean of C1 and C2, 0–100 (0 = Intuitive, 100 = Deliberate). D = mean of D1 and D2, 0–100 (0 = Holistic, 100 = Sequential).
+
+**Step 5, locate on the plane.** Center is (50, 50). Quadrant from the signs of C−50 and D−50.
   - C>50, D>50: The Algorithm
   - C<50, D>50: The Cipher
   - C<50, D<50: The Gestalt
   - C>50, D<50: The Architecture
-- Prototypicality r = distance from center / 70.7. Higher means more clearly that mode. Lower means more between.
-- Phase angle = atan2(D−50, C−50). Maps to an exact position. Used for gradation (early, mid, late) and secondary leaning.
+- Prototypicality r = distance from center / 70.7.
+- Gradation convention. Same geometry as Test 1. Within each quadrant, progress is measured from the entry edge (the boundary with the adjacent quadrant). Binned Early (0–30°), Mid (30–60°), Late (60–90°).
+**Step 6, classify.** Follows Test 1's v0.19 model.
+- **Facet-tension check.** An axis is "tense" when its two facets pull in opposite directions and both are at least 20 points from 50. That means the axis mean landed near center because the two facets cancelled each other — not because you're moderate.
+- **r ≥ 0.28** (clear mode): report your mode, gradation, and facet signature. If an axis is tense, add a tension flag.
+- **r < 0.28, no tension** (genuinely balanced): report **The Halting Point** — the boundary condition. Named for Turing's proof that no algorithm can determine in general whether a program will halt. Similarly, your responses don't strongly favor any one mode — not a failure, just an honest answer.
+- **r < 0.28, with tension** (near center from cancellation): same Halting Point boundary, but the narrative changes. Instead of "you're balanced," it says "you're near center because two strong facets cancel — not because you're moderate. Read the facet signature." This is the tension modifier rewriting the story, not a new result type.
 
-**Step 5, classify.**
-- r ≥ 0.28: report primary mode plus gradation plus leaning.
-- r < 0.28 (near center or near an axis): report the Undecidable result. "You run close to the boundary between modes, the place where a mind has not committed to a single architecture." The name nods to Turing's Halting Problem and resolves gracefully instead of forcing an arbitrary call.
+This is the hybrid dimensional and prototypical pattern (Kerber et al., 2021) inherited from Test 1. It avoids the midpoint cliff (McCrae and Costa, 1989). The Halting Point, like the Threshold in Test 1, is a boundary condition — not a fifth type.
 
-This is the hybrid dimensional and prototypical pattern (Kerber et al. 2021) inherited from Test 1.
 
 ---
 
 ## 7. Question format and response scale
 
 Format, response scale, and rationale are identical to Test 1. Summarized here, see `01-solstice-cycle-assessment.md` §7 for the full argument.
+The format: each question shows a short scenario and two opposing anchor statements on a seven-point scale. The poles alternate randomly so you can't default to one side. The bipolar format itself handles acquiescence bias (always-agree tendency).
 
-**Format: a scenario stem plus a seven-point bipolar Likert between two anchor statements.**
-
-```
-"You're handed a problem you've never seen before. What's your first move?"
-[ I want to break it into steps and solve each one • • • • • • I want to get the overall shape of it first, then fill in ]
-```
-
-Each item shows two anchor statements (the two poles of the axis) with seven discrete, clickable segments between them. The midpoint is neutral. Pole direction alternates per item to counter position and acquiescence bias.
-
-Seven-point bipolar Likert, not a slider. Every validated cognitive-style instrument (REI, NFC, CSA, KAI, TSI) uses Likert. None use sliders. Pole direction is randomized at render time.
-
-Explicitly avoided: binary forced choice (McCrae and Costa 1989 dichotomizing flaw), pure forced-choice and ipsative scoring (Schulte et al. 2020), zero to 100 sliders as the input mechanism (Sun, Schmidt and Henry 2025).
+Every validated cognitive-style instrument uses Likert — the REI, NFC, and CSA are all questionnaire-based. None use sliders. Seven points gives enough precision without overwhelming you.
 
 ---
 
-## 8. Number of questions
-
-**32 items, facet-organized.** 2 axes, 2 facets per axis, 8 items per facet. Matches the NEO-PI-R facet standard. Roughly 8 to 10 minutes.
+**Two lengths, one item bank.** Standard form: 32 questions (~8–10 minutes). Quick form: 16 questions (~4–5 minutes). Both use the same scoring and give the same result types. The 16 is a subset of the 32 — the same items, fewer of them. You can start with 16 and finish the rest later for the full result. The 16-item version is a quick read: it places you in a mode reliably, but the facet detail is rougher (four items per facet lands in a lower reliability band, which we state on the result screen).
 
 **Facet structure.**
-- Axis C, Processing Mode: C1 Deliberation Preference (preference for and engagement in effortful thinking, Need for Cognition core), C2 Override Tendency (checking and verifying intuitions, Cognitive Reflection core).
-- Axis D, Encoding Structure: D1 Entry Point (parts-first versus whole-first when approaching new information), D2 Decomposition Habit (tendency to break down versus synthesize).
+- Axis C, Processing Mode: **C1 Deliberation Preference** (do you enjoy thinking hard?) and **C2 Override Tendency** (do you check your intuitions?). C1 comes from Need for Cognition (Cacioppo & Petty, 1982). C2 is the self-report equivalent of the Cognitive Reflection Test's behavioral pattern (Frederick, 2005) — the tendency to verify, not the ability to get the right answer.
+- Axis D, Encoding Structure: **D1 Entry Point** (what do you notice first — the pieces or the whole?) and **D2 Decomposition Habit** (once you're in, do you break things down or look for patterns?). Both draw from Riding's (1997) parts-first vs. whole-first dimension. D1/D2 is our split — Riding treats it as one dimension. See §2.5 for the honesty note.
 
-**Item-writing rules applied.** Vary exactly one facet per item. No item mixes processing mode with encoding structure. True antonym poles on a single dimension. Neutral language (behavior, not virtue). No transparent giveaways. Gender-neutral and identity-agnostic. Both poles affirming. Pole direction randomized at render time.
+**Item-writing rules.** Each item varies exactly one facet — no mixing. True opposite poles on one dimension. Neutral language (no "good" or "bad" framing). No transparent giveaways. Gender-neutral. Both poles are affirming. Pole direction is randomized at render time.
 
 ### Facet C1: Deliberation Preference (8 items)
 
-All items vary preference for effortful thinking only. No encoding-structure language.
+All items vary enjoyment of and preference for effortful thinking. No encoding-structure language, no speed/ability framing. Content areas drawn from NFC items (Cacioppo & Petty, 1982; Epstein et al., 1996): problem enjoyment, understanding vs. efficiency, thinking as fulfillment, thinking as default mode.
 
 | # | Scenario stem | Deliberate pole (System 2) | Intuitive pole (System 1) |
 |---|---|---|---|
 | C1.1 | How often do you enjoy effortful, slow thinking for its own sake? | "Often. I like grinding through a hard problem." | "Rarely. I'd rather get to the answer and move on." |
 | C1.2 | When you're learning something new, you prefer to… | "Understand the principles first, deliberately." | "Pick it up by doing, before I have the theory." |
-| C1.3 | Your natural speed for hard problems is best described as… | "Slow and careful. I take the time to be right." | "Fast. I land on answers before I can show my work." |
+| C1.3 | When a problem makes you think hard for an extended time, you feel… | "Energized. This is why I'm here." | "Drained. I'd rather be done." |
 | C1.4 | A hard problem lands on you. Your impulse is to… | "Sit with it and work it through." | "Find the quickest path to an answer." |
 | C1.5 | You'd rather… | "Spend an hour understanding why." | "Spend an hour getting it done." |
 | C1.6 | Thinking hard feels… | "Satisfying. I seek it out." | "Costly. I'd rather avoid it." |
 | C1.7 | When something is complex… | "I want to map it fully before acting." | "I want to get the gist and act." |
 | C1.8 | Effortful reasoning is… | "My natural mode." | "Something I use only when I must." |
 
+
 ### Facet C2: Override Tendency (8 items)
 
-All items vary how much you check or verify your intuitions. Not about preference for thinking (that is C1).
+All items vary how much you check or verify intuitions before trusting them. Not about preference for thinking — that is C1. Content areas: initial-impulse verification, gut-vs-analysis conflict, tolerance for unexplained knowledge, verification as default vs. exception.
 
 | # | Scenario stem | Deliberate pole (verifies) | Intuitive pole (trusts fast) |
 |---|---|---|---|
@@ -191,13 +208,14 @@ All items vary how much you check or verify your intuitions. Not about preferenc
 | C2.3 | When you can't explain how you know something, you… | "Don't fully trust it until I can." | "Trust it anyway. Some knowledge is pre-verbal." |
 | C2.4 | Your first instinct on a question is usually… | "A hypothesis I then check." | "Something I trust and run with." |
 | C2.5 | When you're confident fast… | "I still want to verify." | "I act on it." |
-| C2.6 | A quick judgment you made… | "Gets re-examined if I have time." | "Stands unless it clearly fails." |
+| C2.6 | When you make a snap judgment… | "I usually circle back and check it later." | "I trust it and move on." |
 | C2.7 | Doubt, for you, is… | "A signal to dig deeper." | "A drag I'd rather skip." |
 | C2.8 | When the stakes are real… | "I override instinct with analysis." | "I trust instinct and analyze after." |
 
+
 ### Facet D1: Entry Point (8 items)
 
-All items vary what registers first when approaching new information. No processing-mode words.
+All items vary what registers first when you approach new information. No processing-mode words.
 
 | # | Scenario stem | Sequential pole (parts-first) | Holistic pole (whole-first) |
 |---|---|---|---|
@@ -206,29 +224,47 @@ All items vary what registers first when approaching new information. No process
 | D1.3 | When you read, your eye moves… | "Line by line, in order." | "Around the page, grabbing the shape of it first." |
 | D1.4 | A new subject. You start with… | "The basics, the building blocks." | "The big picture, what it's about." |
 | D1.5 | Entering a new situation… | "I notice the pieces first." | "I get the overall feel first." |
-| D1.6 | A new person… | "I register details about them first." | "I get an overall impression first." |
+| D1.6 | When learning a new skill, you start with… | "The individual techniques, one at a time." | "Understanding what the skill feels like as a whole." |
 | D1.7 | When information arrives… | "I take it in piece by piece." | "I take in the whole pattern." |
 | D1.8 | Your entry point into anything new is… | "The parts." | "The whole." |
 
+
 ### Facet D2: Decomposition Habit (8 items)
 
-All items vary how you work with information once you have it. Related to D1 but distinct: D1 is the moment of entry, D2 is the ongoing processing habit.
+All items vary how you work with information once you have it — ongoing processing: decompose into units or synthesize into wholes. Distinct from D1 (first entry): D1 is the moment of encountering; D2 is the habit of working.
 
 | # | Scenario stem | Sequential pole (decomposes) | Holistic pole (synthesizes) |
 |---|---|---|---|
 | D2.1 | You're explaining something you understand well. You tend to… | "Build it up piece by piece for the listener." | "Give the whole picture first, then refine." |
 | D2.2 | A complex system is in front of you. Where do you start? | "With the individual components and how each works." | "With the overall structure and what it's doing." |
-| D2.3 | You're building something (a meal, a design, a doc). You… | "Work through the parts in sequence." | "Hold the finished thing in mind, then realize it." |
+| D2.3 | You're designing something from scratch. You… | "Work through the components in sequence." | "Hold the complete vision in mind, then realize it." |
 | D2.4 | A pile of details lands on you. You prefer to… | "Order them into a sequence and work through it." | "Stand back and find the pattern they form." |
 | D2.5 | When the details don't add up to a sensible whole, you… | "Keep working the parts until they do." | "Step back and reconsider the shape of the whole." |
 | D2.6 | Faced with complexity… | "I decompose it into manageable units." | "I look for the unifying pattern." |
 | D2.7 | Your instinct with any system… | "Take it apart to understand it." | "Find what holds it together." |
 | D2.8 | Understanding, for you, comes from… | "Assembling parts into wholes." | "Grasping wholes that contain their parts." |
 
-**Notes.** All 32 items are gender-neutral and identity-agnostic. Both poles of every item are affirming. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75.
 
-**Overlap honesty.** Axis C (Processing Mode) overlaps with Big Five Conscientiousness (deliberate pole) and Openness (both poles, via intellectual engagement). Axis D (Encoding Structure) overlaps with Riding's Wholist-Analytic and weakly with Openness. These are validated constructs we build on, not inventions. The MMA's contribution is the combination, the facet structure, and the cognitive (not personality) framing.
+**Notes.** All 32 items are gender-neutral and identity-agnostic. Both poles of every item are affirming. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75. The four items replaced in v0.3 (C1.3, C2.6, D1.6, D2.3) were fixed for construct alignment against the full-text papers; they have not been pilot-tested.
 
+**Overlap honesty.** Axis C (Processing Mode) overlaps with Big Five Openness-to-Ideas (via C1, confirmed in Stanovich & West, 1997) and Conscientiousness (via C2's deliberation/responsibility shading). Axis D (Encoding Structure) overlaps weakly with Openness. These are validated constructs we build on, not inventions. The MMA's contribution is the combination, the facet structure, and the cognitive (not personality) framing.
+
+### 8.1 The 16-item short form (MMA-16)
+
+Same subset approach as SCA-16: curated selection of 4 items per facet from the 32-item bank. MMA-16 is a screening-tier quick read (Spearman-Brown α ≈ .60–.70 — the same marginal band as SCA-16, stated openly on the result screen). Scoring model and result taxonomy are identical; only the number of items feeding each facet mean changes. An upgrade path exists: finish the 16, then answer the remaining items for the full result.
+
+**Selection** (content-driven, no pilot data): most construct-central items per facet, maximally spread across content areas.
+
+**MMA-16 = {C1.1, C1.4, C1.6, C1.8, C2.1, C2.2, C2.7, C2.8, D1.1, D1.4, D1.5, D1.6, D2.2, D2.5, D2.6, D2.8}** (16 items, 4 per facet).
+
+| Facet | Retained (4) | Dropped (4) | Why |
+|---|---|---|---|
+| C1 Deliberation Pref. | C1.1, C1.4, C1.6, C1.8 | C1.2, C1.3, C1.5, C1.7 | Four most direct NFC items: enjoyment, default impulse, satisfaction, self-label. Dropped C1.2 (learning — narrow), C1.3/C1.5/C1.7 (overlap retained). |
+| C2 Override Tendency | C2.1, C2.2, C2.7, C2.8 | C2.3, C2.4, C2.5, C2.6 | Four strongest verification contexts: initial answer, internal conflict, epistemic stance, high stakes. Dropped C2.3–C2.5 (narrower) and C2.6 (replaced in v0.3). |
+| D1 Entry Point | D1.1, D1.4, D1.5, D1.6 | D1.2, D1.3, D1.7, D1.8 | Four broad entry contexts: problem, learning, situation, skill. Dropped D1.2 (overlaps D1.1), D1.3 (reading — narrow), D1.7/D1.8 (overlap retained / too generic). |
+| D2 Decomposition | D2.2, D2.5, D2.6, D2.8 | D2.1, D2.3, D2.4, D2.7 | Span approach, conflict, complexity, and foundational understanding. Dropped D2.1 (output — narrow), D2.3 (replaced in v0.3), D2.4/D2.7 (overlap retained). |
+
+The short-form caveat ("screening-tier; facet detail is provisional") appears on MMA-16 results.
 ---
 
 ## 9. Interpretation and reporting
@@ -236,10 +272,10 @@ All items vary how you work with information once you have it. Related to D1 but
 A result has four layers, surfaced in order:
 1. **Your mode** (quadrant). The shareable label.
 2. **Your position** (angle). Gradation and secondary leaning.
-3. **Your prototypicality** (radius). Strongly versus with nuance. Near-center yields the Undecidable result.
-4. **Your narrative.** Two to three personalized paragraphs from the full answer pattern, ending with a "your halting point" line (the Turing-flavored equivalent of Test 1's "solstice moment"). Gemini layer per the GDD. Consumes the numeric profile and per-item answers.
+3. **Your prototypicality** (radius). Strongly versus with nuance. Near-center yields **The Halting Point** — the boundary condition, named for Turing's formal undecidability result. Its narrative splits depending on the facet-tension modifier: genuinely balanced ("no algorithm can settle this") or holding opposites ("two strong facets cancel, not balance").
+4. **Your narrative.** Two to three personalized paragraphs from the full answer pattern, ending with a "your halting point" line (the Turing-flavored equivalent of Test 1's "your moment on the cycle"). Gemini layer per the GDD.
 
-**Deterministic fallback (no-API path).** 16 pre-written results equal 4 modes times {early, mid, late, boundary-Undecidable}. The game is fully playable without the API. The API only enriches the narrative.
+**Deterministic fallback (no-API path).** 12 seasonal-mode states (4 modes × {early, mid, late}) plus the Halting Point boundary reading (two narrative variants via the facet-tension modifier). The type count is four; the Halting Point is a boundary condition, not a fifth type. The game is fully playable without the API.
 
 **Never reported as:** an IQ score, a creativity score, a competence ranking, a fixed identity, or a clinical assessment. Always framed as a snapshot of how your mind tends to work right now.
 
@@ -256,11 +292,13 @@ A result has four layers, surfaced in order:
 - Playable offline. Deterministic fallback. The AI layer is enrichment, not a dependency.
 
 **Limitations, stated up front in the product.**
-- Not a validated clinical instrument. Inspired by validated models. Not independently psychometrically evaluated.
-- Self-report biases remain. Mitigated, not eliminated, by scenario framing and Likert format.
-- Short form trades reliability for brevity, intentional for a game.
-- The mode names are interpretive. We measure processing and encoding. We name the result computationally.
+- Not a validated clinical instrument. Inspired by validated models (NFC, REI, CRT, Wholist-Analytic). Not independently psychometrically evaluated.
+- Self-report biases remain. Mitigated, not eliminated, by scenario framing and Likert format. Riding (1997) specifically notes self-report weaknesses for cognitive style.
+- The REI dimensions (NFC and FI) are orthogonal (Epstein et al., 1996). Collapsing them into one bipolar axis loses information — the facet signature recovers some, not all, of the lost texture. See §2.5 honesty note 1.
+- The mode names are interpretive. We measure processing preference and encoding structure. We name the result computationally.
+- The Halting Problem reference is a metaphor. Formal undecidability is a proof about Turing machines, not about cognitive profiles. The metaphor is made explicit so it is not mistaken for a formal claim.
 - State versus trait ambiguity. The MMA blurs stable disposition with current thinking habits. We lean into this, but it is not a pure trait measure.
+
 
 **Intended use.**
 - Reflective self-discovery and play within the Solstice Soul game.
@@ -278,9 +316,16 @@ A short, plain-language disclaimer appears with every result.
 
 ## 11. Status
 
-Test 2 inherits the locked suite decisions from Test 1. No open decisions.
-- Name locked: The Modes of Mind Assessment (MMA).
-- Result naming locked: mode-primary with archetype subtitle (for example `⚙️ The Algorithm`). Mirrors Test 1's season-primary convention.
-- Suite template applied unchanged.
+- Name: The Modes of Mind Assessment (MMA).
+- Result naming: mode-primary with archetype subtitle (`⚙️ The Algorithm`).
+- Boundary: The Halting Point.
+- Scoring: matches Test 1's v0.19 model (facet-tension detection, gradation convention, tension modifier). Inherits the suite template.
+- Item bank: 32 items (4 facets, 8 per facet). Four items replaced in v0.3 from full-text paper findings. The remaining 28 need a full multi-cycle audit — noted here, not hidden.
+- Short form: MMA-16 selected and documented in §8.1.
+- Citations: 9 structural sources verified against full-text PDFs; 2 textural sources flagged as unverified.
+- Profiles: `02b-modes-result-profiles.md` contains 14-section profiles. Not yet re-audited.
+- Build and simulation: not yet implemented.
 
 See `CHANGELOG.md` for revision history.
+
+
