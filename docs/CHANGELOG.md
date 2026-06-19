@@ -2,7 +2,57 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
-## v0.3 (2026-06-19): Test 2 full-text paper audit, citations updated, Turing theme verified
+## v0.1 (2026-06-19): Test 3 — Spectrum of Self Assessment (SSA) design based on full-text identity/pride literature
+
+Why: build the Pride-themed test from first principles, grounded in full-text reviewed papers rather than the prior proposal's assumptions. Six identity/pride PDFs were reviewed, two were rejected as incompatible with the measurement format, and two axes were selected based on the best-evidenced constructs.
+
+### Papers reviewed (full-text, not abstracts)
+
+- **Campbell et al. (1996), Self-Concept Clarity.** 1377 citations. SCC is unidimensional (one major factor), measured via 12-item Likert scale, independent of self-esteem, predicts stability and consistency of self-descriptions. Low SCC associated with high Neuroticism, low Conscientiousness, rumination. Cross-cultural validation (Japanese vs. Canadian). *Use:* core anchor for Axis A (Identity Clarity).
+- **Kernis & Goldman (2006), Multicomponent authenticity.** 839 citations. Four-component model: awareness, unbiased processing, behavior, relational authenticity. Validated Authenticity Inventory. *Use:* core anchor for Axis B (Self-Alignment).
+- **Snyder (1974), Self-Monitoring.** ~5000 citations. Self-monitoring of expressive behavior — stable individual difference in adjusting self-presentation to social context. Convergent and discriminant validity across four lab and field studies. *Use:* corroborates the Axis B low pole (Other-Oriented).
+- **Wood et al. (2008), Authenticity Scale.** Three-factor model: self-alienation, authentic living, accepting external influence. Invariant across sample, ethnicity, gender. Discriminant validity from Big Five. *Use:* corroborates Axis B (Self-Alignment).
+- **Showers (1992), Compartmentalization.** ~600 citations. Uses card-sorting task, no self-report Likert scale exists. **Rejected as structural source.**
+- **Linville (1987), Self-Complexity.** 922 citations. Uses card-sorting task, no self-report Likert scale exists. **Rejected as structural source.**
+
+Also consulted but not used as structural anchor: Tracy & Robins (2004, 2007) on authentic vs. hubristic pride (noted as valuable emotion construct but directed at pride experience rather than identity structure/expression); Fenigstein et al. (1975) self-consciousness (2639 citations, noted as potential future supplement).
+
+### Decision: two axes — Identity Clarity × Self-Alignment
+
+**Axis A: Identity Clarity** (high = Clear, low = Diffuse) — grounded in Campbell et al. (1996) SCC. How clearly and confidently you know who you are.
+- A1 Self-Knowledge: knowing your attributes, values, preferences.
+- A2 Self-Consistency: stability and coherence of self-beliefs.
+- Honesty note: SCC is unidimensional; A1/A2 split is our design choice.
+
+**Axis B: Self-Alignment** (high = Self-Aligned, low = Other-Oriented) — grounded in Kernis & Goldman (2006), Snyder (1974), Wood (2008). How authentically you express your identity vs. adapting to social expectations.
+- B1 Authentic Living: acting in accord with true self (Kernis & Goldman awareness + behavior; Wood authentic living).
+- B2 Genuine Relating: being open and genuine in relationships (Kernis & Goldman unbiased processing + relational; Wood self-alienation + external influence).
+- Honesty note: B1/B2 pairing is our design choice from Kernis & Goldman's four components.
+
+### Why Tracy & Robins (pride emotion) was not used structurally
+
+The authentic vs. hubristic pride framework (Tracy & Robins, 2007) is a well-validated two-factor structure with strong personality correlates. However, it measures how people experience the emotion of pride, not how they structure or express their identity. For a test asking "how do you show who you are?", identity clarity and self-alignment are the more direct constructs. Tracy & Robins is noted as a potential source for profile texture and future extension.
+
+### Result types
+
+The light/visibility metaphors from the prior proposal (Beacon, Prism, Ember, Aurora) were retained and remapped to the new axes:
+- Clear + Self-Aligned: **The Beacon** — steady, authentic, known.
+- Clear + Other-Oriented: **The Prism** — known self, adaptive presentation.
+- Diffuse + Self-Aligned: **The Ember** — uncertain self, genuine expression.
+- Diffuse + Other-Oriented: **The Aurora** — fluid self, adaptive expression.
+
+Boundary: **The Reflection Point**, named for the self-reflection needed to develop a clear identity.
+
+### What was created
+
+- `docs/03-spectrum-of-self-assessment.md` — full design doc (status header, name, theoretical foundation with honesty notes, item bank, scoring, result types, lengths, limitations).
+- `docs/03b-ssa-result-profiles.md` — 14-section profiles for all four modes plus The Reflection Point boundary.
+
+### Deferred
+- Full item-bank audit (the 32 items are new and have not been through a multi-cycle construct-purity pass).
+- Build (`ssa-debug.html`) and simulation (`ssa-simulate.ts`).
+- Profile audit (the 14-section profiles in 03b are drafts).
+- Tracy & Robins pride-emotion integration as profile texture.
 
 Why: the v0.2 design cited 13+ cognitive psychology sources but the paper-downloads folder contained one verified cognitive paper (Stanovich & West, 2000). Seven new full-text PDFs were acquired and reviewed, and the design was rebuilt against what the papers actually say, not what the v0.2 citations claimed.
 

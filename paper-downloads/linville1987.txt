@@ -1,0 +1,1797 @@
+Journal of Penonality and Social Psychology
+1987, Vol. 52, No. 4,663-616
+
+Copyright 1987 by the American Psychological Association. Inc.
+0022-35 M/87/S00.7J
+
+Self-Complexity as a Cognitive Buffer Against
+Stress-Related Illness and Depression
+Patricia W. Linville
+Yale University
+This prospective study tested the self-complexity buffering hypothesis that greater self-complexity
+moderates the adverse impact of stress on depression and illness. This hypothesis follows from a
+model that assumes self-knowledge is represented in terms of multiple self-aspects. As denned in
+this model, greater self-complexity involves representing the self in terms of a greater number of
+cognitive self-aspects and maintaining greater distinctions among self-aspects. Subjects completed
+measures of stressful events, self-complexity, depression, and illness in two sessions separated by 2
+weeks. A multiple regression analysis used depression and illness at Time 2 as outcomes, stressful
+life events and self-complexity at Time 1 as predictors, and depression and illness at Time 1 as
+control variables. The Stress X Self-Complexity interaction provided strong support for the buffering
+hypothesis. Subjects higher in self-complexity were less prone to depression, perceived stress, physical symptoms, and occurrence of the flu and other illnesses following high levels of stressful events.
+These results suggest that vulnerability to stress-related depression and illness is due, in part, to
+differences in cognitive representations of the self.
+
+The basic hypothesis of this article is that a complex cognitive
+representation of the self serves to moderate the adverse physical and mental health effects of stressful events. Both major life
+events (e.g., divorce, death of a spouse, job loss) and the accumulation of minor hassles are associated with physical and
+mental health problems (see Dohrenwend & Dohrenwend,
+1978; Kanner, Coyne, Shaefer, & Lazarus, 1980; Silver & Wortman, 1980; Thoits, 1983a). But although the association between stressful events and physical or mental health problems
+is consistently observed, it tends to be only weak to moderate.
+Some people are more susceptible than others to the adverse
+consequences of stress. Circumstances that adversely affect
+some people leave others seemingly unaffected. Individual
+differences in reactions to stressful events have led researchers
+to posit factors that moderate the relation between stressful
+events and their adverse outcomes. The moderator most cited
+as a buffer against the unhealthy consequences of stress is social
+support (e-g., Cassel, 1976; Cobb, 1976; Cohen & Hoberman,
+1983; Dean & Lin, 1977; Kaplan, Cassel, & Gore, 1977; LaRocco, House, & French, 1980). Other moderators include cognitive coping strategies (e.g., Lazarus & Launier. 1978; Pearlin
+& Schooler, 1978; Silver &Wortman, 1980; Taylor, 1983), locus
+
+of control (e.g., Johnson & Sarason, l978;Lefcourt, 1981), private self-consciousness (Mullen & Suls, 1982), and hardiness
+(Kobasa, 1979).
+There is a growing recognition that self-cognitions play a role
+in coping, depression, and various mental health processes (e.g.,
+Beck, 1976; Cantor & Kihlstrom, 1986; Higgins, Klein, &
+Strauman, 1985; Kuiper & Derry, 1981; Linville, 1985). The
+model proposed in this article suggests that individual differences in vulnerability to stress are due, in part, to differences in
+cognitive representations of the self, more specifically, to
+differences in the complexity of self-representations. As I define
+the concept, greater self-complexity entails cognitively organizing self-knowledge in terms of a greater number of self-aspects
+and maintaining greater distinctions among self-aspects. The
+basic hypothesis is that greater self-complexity moderates the
+adverse impact of stressful events on physical and mental health
+outcomes. Thus, greater self-complexity is a protective factor
+for people under stress.
+Consider the example of a woman going through a divorce.
+Assume that she has a simple self-representation with only two
+important self-aspects, wife and lawyer. Furthermore, assume
+that these two self-aspects are closely associated in memory,
+perhaps because her husband is also an attorney with whom
+she has shared many professional experiences. In this case, the
+negative affect and self-appraisal associated with her divorce
+will be massive because it will spill over to affect her thoughts
+and feelings about both important aspects of her self. In contrast, consider a woman with a more complex self-representation that involves several important self-aspects, for example,
+wife, lawyer, tennis player, and friend. Furthermore, assume
+that the self-aspect wife is not closely associated in memory
+with other self-aspects. In this case, negative affect and self-appraisal associated with the divorce are less likely to spill over
+
+This research was supported by Grant 1 R03 MH 38066-01 from
+the National Institute of Mental Health. Portions of the research were
+presented at the Conference on Social Cognition in Nags Head, North
+Carolina, in May 1984.
+I would like to thank Eve Wittenberg for her assistance in collecting
+data and Gregory Fischer and the participants at the Nap Head conference for their helpful suggestions.
+Correspondence concerning this article should be addressed to Patricia W. Linville, Department of Psychology, Yale University, Box 11A,
+Yale Station, New Haven, Connecticut 06520.
+
+663
+
+664
+
+PATRICIA W, LINVILLE
+
+and adversely affect her feelings about other self-aspects. Thus,
+
+and propositions, it is distinct to the extent that it is represented
+
+there will be three unaffected self-aspects to buffer against nega-
+
+by different features or propositions. As defined in Linville's
+
+tive feelings associated with the divorce.
+
+model, greater self-complexity involves having more self-aspects and maintaining greater distinctions among self-aspects.
+
+When self-aspects are few and undifferentiated, a stressful
+event in one aspect tends to spill over and color thoughts and
+feelings about other aspects. For people who maintain more aspects and perceive greater distinctions among self-aspects, the
+impact of a negative event is likely to be confined to a smaller
+proportion of their self-representation. Thus, they are more
+likely to maintain positive thoughts and feelings about some
+self-aspects despite the negative impact of stress in one area.
+These positive thoughts and feelings about other self-aspects
+may act as buffers against the negative thoughts and feelings that
+result from stressful events. The greater the proportion of unaffected self-aspects, the greater the potential buffering effect. If
+one assumes that negative thoughts and feelings about various
+self-aspects contribute to stress reactions and their physical and
+mental health consequences, then maintaining more distinct
+self-aspects should act as a buffer against these adverse consequences of stress.
+
+The Self-Complexity Model
+The prediction that greater self-complexity provides a buffer
+against the adverse consequences of stress is based on an extension of Linville's model of the relation between self-complexity
+and affective extremity. In this section, I will briefly summarize
+the key assumptions of this model and then discuss its implications for physical illness and depression. (For a fuller description of the model, see Linville, 1985.)
+
+Self-Representation
+The self-complexity model assumes that knowledge about the
+self is represented in terms of multiple cognitive structures,
+which are referred to here as self-aspects. This assumption is
+consistent with a variety of theories that view the self as multifaceted (e.g., Gergen, 1971; Greenwald & Pratkanis, 1984;
+James, 1892; Kihlstrom& Cantor, 1983;Kuiper&Derry, 1981;
+Markus & Nurius, 1986; Rogers, 1981; Rosenberg & Gala,
+1985). For instance, a woman might think of herself in terms of
+various social roles (lawyer, friend, mother), kinds of relationships (colleague, competitor, nurturer), types of activities (running, playing tennis, writing), superordinate traits (hard-working, creative), goals (career success), and so forth. Each role,
+relationship, activity, goal, and superordinate trait in the selfrepresentation may serve as a self-aspect, each with its own set
+of features, propositions, and affects. These self-aspects are assumed to be structures in a larger associative network. Not all
+
+The Spillover Process
+Self-complexity is important because it partially determines
+the impact of experiences on thoughts and feelings about various self-aspects. When people experience a negative event, the
+self-aspect most relevant to the immediate context is activated,
+and negative thoughts and feelings evoked by the experience
+tend to become associated with the activated self-aspect For
+instance, a tennis player who has just lost an important match
+is likely to feel dejected. These negative feelings are likely to
+become associated with this person's "tennis player" self-aspect, as are negative thoughts or inferences evoked by the defeat
+(e.g., "I performed poorly under pressure"). Likewise, experiencing a positive event triggers positive thoughts and feelings
+that become associated with activated self-aspects.
+The model further assumes that activation spreads from the
+originally activated self-aspect to associated self-aspects. A selfaspect will become activated to the degree that it is related to
+currently activated self-aspects. Feelings and inferences associated with the originally activated self-aspect spill over and color
+feelings and inferences regarding associated self-aspects. For instance, if our tennis player is a courtroom lawyer by profession,
+her "tennis player" and "courtroom lawyer" self-aspects may be
+closely related because both are highly competitive and stressful
+activities. Thus, defeat on the tennis court may spill over to lead
+her to conclude, "Competition brings out the worst in me,"
+which will make her feel worse about herself as a lawyer as well.
+The more related two self-aspects are, the more likely thoughts
+and feelings about one are to spill over to color thoughts and
+feelings about the other.
+Because greater self-complexity involves having self-aspects
+that are more distinct from one another, people greater in selfcomplexity are likely to be less subject to such spillover effects.
+For those high in self-complexity, thoughts and feelings evoked
+by events are likely to be confined to immediately salient selfaspects. Thus, with greater self-complexity, fewer self-aspects
+are affected by events, and a greater number of self-aspects remain unaffected.
+
+Self-Complexity
+
+and Affective
+
+Extremity
+
+The self-complexity model assumes that current affect is a
+
+self-aspects are activated at any given time. Rather, specific self-
+
+function of the affect associated with recently activated self-aspects. These recently activated self-aspects include not only
+
+aspects are activated depending on such factors as the context
+and associated thoughts, their relation to currently activated
+
+those activated by recent events, but also those activated by the
+spillover process or by other cognitive processes such as recall-
+
+self-aspects, and their recency and frequency of activation.
+
+ing past experiences.
+
+Self-representations may differ in terms of both the number
+of self-aspects and the degree to which distinctions are made
+among self-aspects. Two self-aspects are distinct to the extent to
+which they are represented by different cognitive elements. For
+instance, if each self-aspect is represented by a set of features
+
+Thus, the model leads to the self-complexity-qffeaive
+extremity hypothesis: People lower in self-complexity will experience greater swings in affect and self-appraisal in response to
+life events (Linville, 1985). That is, those lower in self-complexity will experience a more negative change in affect and self-
+
+665
+
+SELF-COMPLEXITY, ILLNESS, AND DEPRESSION
+
+appraisal following a negative event and a more positive change
+in affect and self-appraisal following a positive event.
+Why does high self-complexity lead to less affective extremity? The greater a person's self-complexity, the smaller the proportion of self-aspects that are likely to be affected by an emotionally salient event This is true for two reasons. First, the
+greater a person's self-complexity, the more self-aspects the person is likely to have. Thus, if an event directly affects only one
+self-aspect, this one self-aspect will be a smaller proportion of
+the total self-representation for a person high in self-complexity.
+Second, because greater self-complexity implies less spillover,
+the impact of emotionally salient events is less likely to spread
+from the immediately affected self-aspect to other self-aspects.
+Why does the proportion of self-aspects affected influence
+affective extremity? Because emotionally salient events affect
+a smaller proportion of the self-aspects of those high in selfcomplexity, the direct impact of the event will tend to be relatively small. In addition, those high in self-complexity will tend
+to have a greater proportion of self-aspects that were unaffected
+by the event. Thus, if these unaffected self-aspects are activated
+by other events or cognitions, they may serve to moderate the
+impact of the original event.'
+The self-complexity-affective extremity prediction has been
+supported in two past experiments. In the first, Linville (1985)
+examined reactions to success and failure in a bogus performance feedback experiment. As predicted by the self-complexity model, those lower in self-complexity showed both a greater
+increase in affect and self-appraisal following a success experience and a greater decrease in affect and self-appraisal following
+a failure experience. Thus, low self-complexity was associated
+with more extreme affective reactions.
+The second experiment tested a related prediction. Assuming
+that people tend to experience both positive and negative selfrelevant events over time, the self-complexity model predicts
+that those lower in self-complexity will experience greater mood
+swings over time. Their mood will go up more after positive
+events and down more after negative events, which results in
+greater mood variability over time. Linville (1985) tested this
+hypothesis in a mood diary study in which subjects filled out a
+set of mood scales each day over a 2-week period. As predicted,
+those lower in self-complexity displayed greater mood variability. Self-complexity was related to the variance but not to the
+mean of subjects' mood scores over the 2-week period. Thus
+subjects lower in self-complexity were not more positive or
+more negative in their mood, they were simply more variable.
+
+Self-Complexity as a Buffer Against Stress-Related
+Illness and Depression
+The goal of the current research is to extend the self-complexity model to physical and mental health consequences of stressful life events. One plausible sequence is as follows. Experiencing negative stressful events triggers negative thoughts and feelings associated with various self-aspects. These, in turn,
+contribute to negative affect, low self-appraisal, depression, and
+other stress reactions including physiological responses. These
+may ultimately influence physical health outcomes through
+neuroendocrine or immune system functioning, maladaptive
+
+health-related behaviors (e.g., smoking, alcohol and drug use,
+poor diet), and failure to seek medical care (see Jemmott &
+Locke, 1984;Krantz,Grunberg,&Baum, 1985).
+For people high in self-complexity, the impact of a stressful
+event will tend to be confined to immediately relevant self-aspects, thus affecting a relatively small part of their self-representation and leaving many other self-aspects to serve as buffers
+against the stressful event. In this way, greater self-complexity
+moderates negative thoughts and feelings about self-aspects
+and, hence, the extremity of negative affect and self-appraisal.
+Assuming that these negative thoughts and feelings contribute
+to stress reactions and their physical and mental health consequences, it follows that greater self-complexity also moderates
+these adverse consequences of stress.
+This logic leads to the self-complexity buffering hypothesis:
+Greater self-complexity moderates the adverse impact of stressful events on physical and mental health outcomes.
+The study that follows tests this prediction.
+Method
+
+Overview
+The self-complexity buffering hypothesis was tested in a prospective
+study that examined the relation between accumulated stresses and subsequent depression and illness in a college population. In Session 1, subjects completed a self-complexity task, then completed questionnaires
+that assessed their life events, illnesses, and physical and depressive
+symptoms occurring during the preceding 2 weeks. In Session 2, conducted 2 weeks later, subjects again reported on their life events, illnesses, and physical and depressive symptoms that had occurred during
+the preceding 2 weeks. The self-complexity model predicts that those
+greater in self-complexity are less prone to depression and illness following high levels of stress.
+
+Subjects
+A total of 106 undergraduates (43 men and 63 women; 58 freshmen
+and 48 upperclassmen) participated in this study as pan of their research participation requirement.2 Subjects were tested in small groups
+composed of 1 to 5 subjects.
+
+Measures
+Subjects attended two sessions, 2 weeks apart. (A 2-week time interval
+was chosen because the outcomes studied have short developmental periods.) At each session, they completed the following measures.
+Self-complexity measure- Recall that in the present model, self-com-
+
+1
+This is a probabilistic argument. On the average, the affect associated with unaffected self-aspects will be more moderate than that associated with self-aspects that have just been affected by emotionally salient
+events. For example, there is no guarantee that a person will feel good
+about a self-aspect unaffected by a negative event. But the more unaffected self-aspects a person has, the greater the chance that the person
+will have positive feelings about some of them.
+2
+Three of the initial 109 subjects could not be scheduled for the second session. Because inclusion of sex as a variable did not alter any
+results that tested self-complexity as a buffer against depression and illness, male and female subjects were combined in the present data analy-
+
+666
+
+PATRICIA W. L1NVILLE
+
+plenty is conceptually defined in terms of the number and distinctiveness of self-aspects a person uses to think about himself or herself. To
+measure self-complexity defined in this way, I used the self-complexity
+sorting task developed in studies of mood variability and reactions to
+success and Mure (Linville, 1985).
+Subjects were given a packet of 33 randomly ordered index cards, 10
+blank cards, and two recording sheets (each consisting of a legal-size
+sheet with 14 columns}. Each index card contained the name of one
+feature and a number in the corner.9 The features were chosen from a
+pretest, open-ended self-description task. They were chosen to represent
+a wide range of dimensions that students use to think about themselves
+and included both positive and negative features. The experimenter gave
+the following instructions aloud:
+In this study we are interested in how you describe yourself. In
+front of you are 33 cards and two recording sheets. I'D let you look
+through the cards when I finish giving the instructions. Each card
+contains the name of a trait or characteristic. Your task is to form
+groups of traits that go together, where each group of traits describes an aspect of you or your life. You may sort the traits into
+groups on any meaningful basis—but remember to think about
+yourself while doing this. Each group of traits might represent a
+different aspect of yourself. Form as many or as few groups as you
+desire. Continue forming groups until you feel that you have
+formed the important ones. I realize that this task could be endless,
+but we want only what you feel is meaningful to you. When you
+feel that you are straining to form more groups, it is probably a
+good time to stop.
+Each group may contain as few or as many traits as you wish.
+You do no! have to use every trait, only those that you feel are descriptive of you. Also, each trait may be used in more than one
+group; so you may keep reusing traits as many times as you like.
+For example, you may find that you want to use the trait relaxed
+in several groups. If you wish to use a trait in more than one group,
+you may use one of these blank cards on your desk. Simply write
+the trait and its number on a blank card and then proceed to use it
+as you would the other cards.
+The sheet with the columns is your recording sheet. Use the recording sheet to indicate which traits you have put together. Each
+column will correspond to one of your groups. Notice the number
+in the comer of each card. Write only the trait's number in the
+column, not the name of the trait. In each column, place the numbers of the traits that form a group. A natural way to perform this
+task is to form one or several groups and record them, then mix up
+the cards and see if there are other groups that you wish to form
+and then record them. Repeat this procedure until you feel that
+you have formed the groups that are important to you. Remember
+to use the blank cards if you wish to use the same trait in more
+than one group. You have an extra recording sheet if you need it.
+The order in which you record the groups is not important, nor is
+the order of the traits within a group. We are only interested in
+which traits you put together. It is not necessary to label the groups
+unless you wish to. Do not put your name on the recording sheet,
+'four responses are strictly anonymous and confidential. So be as
+honest as you can.
+As you are doing the task, I'd like you to keep a few things in
+mind. Remember that you are describing yourself in this task, not
+people in general. \bu do not have to use all of the traits, and you
+may reuse a trait in several groups. Take as much time as you like
+on the task. Different people will finish at different times, so take
+as much time as you need even if others finish. Do you nave any
+questions about the task? Now look at each of the traits and let me
+know if you need a clarification on the meaning of any trait. When
+you are finished, please turn over your recording sheet.
+If subjects did not complete the task in 25 min, they were asked to do
+so within the next 5 min. Because some subjects tend to stop when oth-
+
+ers complete the task, no more than 5 subjects were tested at one time,
+and subjects were tested in individual cubicles.
+In general, subjects found the self-complexity sorting task meaningful
+and interesting. All formed at least several groups, often reusing the
+same feature in several different groups. Table 1 displays the actual feature sorts created by 2 subjects. These subjects spontaneously labeled
+their feature groupings. An informal examination of these feature sorts,
+as well as those of other subjects who labeled their feature sorts, supported several of our earlier speculations about the self. The self is multifaceted. It includes categories related to roles (student, friend), relationships (listener), activities (sports, parties), supernrdinate traits (tense,
+creative), and evaluatively organized aspects (my best qualities).
+To assign each subject a self-complexity score, I used a measure of
+dimensionality based on the H statistic, an index of dispersion derived
+from information theory (Attneave, 1959; Scott, 1969). The measure
+represents the number of independent attributes implicit in a subject's
+feature sort. In the present context, the objects in question were features
+that described different aspects of the self, so I will refer to this measure
+as the self-complexity score and denote it by the letters SC. It is defined
+by
+
+SC = logan -
+
+(1)
+
+where n is the total number of features (here 33), and n is the number
+of features that appear in a particular group combination.4 The SC
+score can be interpreted as the minimal number of independent binary
+attributes underlying a person's feature sort about the self,' The greater
+the number of self-aspects created and the less redundant the features
+used in creating these self-aspects, the greater the SC score. Thus, high
+self-complexity results from having a large number of self-aspects that
+are nonredundant in terms of the features that describe them. Low selfcomplexity results either from having few self-aspects or from having
+many self-aspects that are highly redundant in terms of the features that
+describe them.
+Activities. Subjects listed "the bask activities that you engage in during the school year" (e.g., studying, a job, sports, campus groups, dates,
+relationships with others, artistic or musical activities, hobbies). Subjects listed each activity on a separate line. A simple count of the number of separate activities was later made. This count excluded such basic
+activities as sleeping or eating.
+Life stresses. Subjects completed a modified version of the College
+Student Life Events Scale (CSLES; Levine & Perkins, 1980). The 102
+items of the CSL£S represent stressful events that fall into 14 categories
+(social and academic life, living arrangements, finances, drugs, religious
+activities, political activities, sexual activities, family, friends, male-female relationships, employment, legal problems, accidents, and extracurricular activities). The scale was chosen because it includes a wide
+variety of minor and major stressful events characteristic of a college-
+
+3
+The features and details of the measurement procedure are available
+from the author.
+4
+To define a group combination, consider a feature that is sorted in
+Group 1 and Group 2 but no others. This feature is said to fall into the
+group combination 1-2. More generally, if a person forms two groups,
+a given feature may fall into one of four possible group combinations:
+1,2, 1-2, or no group. The «j in the formula would be interpreted as
+follows in this example: nt = number of features sorted only into Group
+I; HZ = number of features sorted only into Group 2; »3 = number of
+features sorted only into both Group 1 and Group 2; and fi* - number
+of features not sorted into any group. Note that if the Mh group combination has no members (i.e., n = 0), it is excluded from the summation.
+5
+The measure does not require the assumption that people think
+about themselves in terms of independent binary attributes. It is simply
+a useful statistical measure of the complexity of a feature sort.
+
+667
+
+SELF-COMPLEXITY, ILLNESS, AND DEPRESSION
+
+TaWel
+Examples of Two Subjects' Feature Sorts
+Subject 1
+Relationship
+with men
+
+Relationship
+with friends
+
+Relationship
+with family
+
+Outgoing
+Playful
+Reflective
+Mature
+Emotional
+Assertive
+Competitive
+Relaxed
+Humorous
+Affectionate
+Soft-hearted
+Individualistic
+Sophisticated
+
+Humorous
+Relaxed
+Assertive
+Outgoing
+Mature
+Emotional
+Reflective
+Soft-hearted
+Not studious
+Affectionate
+Individualistic
+
+Emotional
+Playful
+Reflective
+Mature
+Assertive
+Humorous
+Outgoing
+Individualistic
+Unconventional
+
+Studies
+
+Physically
+
+Quiet
+Studious
+Organized
+Mature
+Reserved
+Industrious
+individualistic
+
+Individualistic
+Affectionate
+Industrious
+Quiet
+Organized
+
+At
+patties
+
+Humorous
+Playful
+Outgoing
+Sophisticated
+Affectionate
+Competitive
+Imaginative
+Impulsive
+Mature
+
+Subject 2
+
+Dorm life
+
+Home life
+
+School
+
+Social life
+
+Playful
+Relaxed
+Outgoing
+Assertive
+Competitive
+Affectionate
+Humorous
+Soft-hearted
+Unorganized
+Lazy
+Imaginative
+Individualistic
+
+Lazy
+Emotional
+Relaxed
+Humorous
+Playful
+Affectionate
+Unorganized
+Soft-hearted
+Not studious
+Irresponsible
+
+Reflective
+Reserved
+Unorganized
+Lazy
+Insecure
+
+Outgoing
+Humorous
+Quiet
+Relaxed
+Playful
+Insecure
+Impulsive
+Not studious
+Conformist
+
+age population. Because several of our outcome variables were illness
+related, we omitted 7 health-related items from all analyses.'
+For each item, subjects indicated whether the event is question had
+happened to them during the past 2 weeks, during the past 6 months
+(excluding the past 2 weeks), or not at all. For those events that had
+occurred, subjects rated whether the impact of the event was negative,
+mate, or positive, then whether the event was earned by you or not
+caused by you. (The causal question and several life events were added
+to the scale for mis study.)
+Preliminary analyses were performed to select a stress index, in these
+analyses, various stress indices at Time 1 were used to predict outcome
+variables at Time 2. (These regression models did not include self-complexity as a predictor of Time 2 outcomes.) On the basis of these results,
+the primary analyses reported here were based on a stress index computed for each subject using the number of negative events occurring
+during the past 2 weeks.7
+Subjects completed the following outcome measures at each of the
+two sessions.
+Depression, The Center for Epidemiologic Studies Depression Scale
+(CES-D) consists of 20 items constructed to measure current level of
+depressive symptomatology, especially depressive affect. Each symptom
+on the CES-D was rated on a 4-point scale indicating the degree of occurrence during the previous week. The scale ranged from rarely or
+none of the time to most all of the time (Radloff, 1977)."
+Physical symptoms. The Cohen-Hoberman Inventory of Physical
+
+Work
+(dining hall worker)
+Industrious
+Rebellious
+Playful
+Outgoing
+Assertive
+Relaxed
+
+Activities
+Imaginative
+Relaxed
+Quiet
+Outgoing
+Assertive
+Unorganized
+Affectionate
+Soft-hearted
+
+Symptoms (CHIPS; Cohen & Hoberrnan, 1983) lists 39 common physical symptoms that reflect the health problems of college students (e.g.,
+a cold, cough, pulled muscle, study head or nose, stomach pains, nausea, and headache). The scale excludes symptoms obviously psychological in nature. Subjects rated how much each physical symptom both-
+
+6
+
+Additional analyses revealed that inclusion of the health items did
+not alter any results,
+7
+These analyses indicated that stresses during the past 2 weeks were
+more strongly related to all subsequent depression and illness outcome
+variables than stresses during the past 6 months. Similarly, an index of
+events whose impact was perceived to be negative was more strongly
+related to most outcome variables than an index of all events. Comparisons between a stress index based on an negative events during the past
+2 weeks and one based on negative events during the past 2 weeks perceived to be "caused by you" showed no clear pattern of superiority in
+predicting outcome variables. Because results for these two indices were
+very similar, and because most stress research has used indices of an
+negative events regardless of perceived causality, the primary analyses
+reported here used a stress index based on all negative events during the
+past 2 weeks.
+* Because many subjects failed to notice that half of the items on a
+Beck Depression Inventory were on the back side of the form, this variable was not included in the analyses.
+
+668
+
+PATRICIA W. UNVILLE
+
+ered them during the past 2 weeks. Physical symptoms were rated on a
+5-point scale (not at all, a little kit, moderately, quite a bit, extremely).
+Illness. Subjects also listed, on a separate sheet, an illnesses that had
+occurred in the past 2 weeks. The list of illnesses was later coded for the
+occurrence of the following: (a) respiratory flu, (b) abdominal problems, (c) headache or backache, (d) allergy-related problems, (e) physical injury or muscle problems, (f) menstrual cramps, and (g) yeast infection. All listed illnesses fell into one of these categories. Those categories relevant only to women (menstrual cramps and yeast infection)
+were analyzed for women only.
+Perceived stress. Subjects completed the Perceived Stress Scale (PSS),
+a 14-item instrument designed to measure the degree to which, situations ia one's life are appraised as stressful (Cohen, Kamarck, & Mermelstein, 1983). For each item, subjects rated how often during the past
+2 weeks they thought or felt a certain way. For example, "In the last two
+weeks, how often have you felt difficulties were piling up so high that
+you could not overcome them?" Subjects responded on a 5-point scale
+(never, almost never, sometimes, fairly often, very often).
+
+3. hi >, =, or < 0: The model being tested makes no prediction concerning any direct association between self-complexity and level of depression and illness over time.
+4.64 < 0: This is the key hypothesis of the self-complexity model. The
+predicted multiplicative interaction provides a direct test of the selfcomplexity buffering hypothesis. If higher self-complexity moderates
+the impact of recent stresses on subsequent depression and illness, then
+the coefficient for the Self-Complexity X Stress interaction term will be
+negative. That is, as self-complexity increases, the impact of stress on
+illness and depression decreases.
+Note that this is a prospective prediction model. By measuring outcome variables at both Time 1 and Time 2,1 was able to control for
+initial levels of depression and illness. This prospective design also permits an examination of the temporal relation between life events and
+depression and illness and avoids the contamination of measures that
+occurs with retrospective studies. Thus, this prospective design provides
+a strong test of the self-complexity model.
+Results
+
+Procedure
+Self-Complexity
+The study involved two sessions. Subjects were tested in individual
+cubicles in groups of 1 to 5 persons. At the beginning of the first session,
+the experimenter stressed the confidentiality and anonymity of their
+responses. Subjects gave no identifying information but created a code
+to be put on each scale. At the first session, subjects completed the selfcomplexity sorting task. They then completed a packet containing the
+fallowing instruments in the following order the CSLES, the CES-D, tie
+CHIPS, the PSS, and a sheet requesting a list of all illnesses occurring
+during die past 2 weeks. Exactly 2 weeks later, subjects returned for
+the second session. Subjects completed the same self-complexity sorting
+task and the same packet of instruments. In addition, subjects listed
+their school-year activities. Thus, in this prospective design, subjects
+reported life stresses, depression, and illnesses for the past 2 weeks at
+both Time 1 and again at Time 2 (2 weeks later).
+
+Scores
+
+As a 6rst step in the analyses, each subject received a SC score
+based on his or her feature sort at Time 1 (see Equation 1). A
+higher SC score indicates higher self-complexity. The maximum value of SC is logjn (where n is the number of features to
+be sorted). In the present study, n = 33, so the maximum SC
+score is Iofc33 = 5.04. The actual range of scores was between
+.994 and 4.802 (M = 3.089, SO = .693).10 Self-complexity
+scores for male and female subjects did not significantly differ
+(/KM = 1.25, p > .2). Self-complexity was relatively stable from
+Time 1 to Time 2 (r = .7, p < ,001). Also, a simple regression
+analysis indicated that changes in self-complexity from Time 1
+to Time 2 were not a function of life events (p = .9).
+The number of feature groups created in the self-complexity
+sorting task ranged from 3 to 12 (M = 6.57, SD = 2.156). Self-
+
+Statistical Model and Predictions
+
+complexity scores were positively correlated with number of
+Recall that the model predicts a stress-buffering effect of self-complexity. The impact of stress on depression and illness is reduced as the
+level of self-complexity increases. Because self-complexity was conceptualized and measured here and in prior studies as a continuous variable, I tested this prediction by using a multiple regression model that
+included the multiplicative interaction of stress and self-complexity:
+
+feature groups created (r = .72, p < .001). The number of activities listed ranged from 4 to 22 (M = 10.48, SD = 3.95). Both
+self-complexity scores and number of feature groups created
+had a near-zero correlation with number of activities.
+
+Frequency of Stressful Events, Depression, and Illness
+At Time 1,96% of the subjects reported at least one negative
+X Stressi . (2)
+
+event during the preceding 2 weeks. The number of negative
+events ranged from 0 to 17 (M = 4.89, SD = 3.56). At Time 2,
+
+Here, X2 is the value of the outcome variable (e.g.. depression, illness)
+at Time 2; Y, is the value of the outcome variable at Time 1; Stress, is
+the number of negative events during the past two weeks at Time 1;*
+SC\ is the self-complexity score at Time 1; and SC, X Stress, is the
+multiplicative interaction term that provides the basis for testing the
+self-complexity buffering hypothesis.
+Because all outcome variables are scaled so that higher scores indicate
+greater depression or illness, the specific predictions of the analysis are
+as follows:
+1 . i| > 0: Because physical and mental health symptoms tend to persist, values of the outcome variables should be positively related over
+time. This term controls for initial individual differences in illness and
+depression.
+2.frz> 0: Higher stresses at Time 1 will increase depression and illness
+at Time 2.
+
+67% of the subjects reported at least one type of illness during
+the preceding 2 weeks (57% had respiratory flu, 19% had headaches or backaches, 13% had abdominal problems, 11% had
+injuries, 3% had allergies, 11% of the women had menstrual
+cramps, and 3% of the women had yeast infections). At Time 2,
+depression (CES-D) scores ranged from 2 to 45 (M = 16.08),
+
+' Additional regression analyses revealed that using a stress index
+based on negative events during the past 2 weeks perceived to be "caused
+by you" did not alter any of the results regarding the buffering effect of
+self-complexity.
+10
+In prior studies that also used 33 traits, the mean self-complexity
+scores for this sorting task were 2.857 and 3.555 (Linvule, 1985).
+
+SELF-COMPLEXITY, ILLNESS, AND DEPRESSION
+Table 2
+Correlations Between Stresses, Self-Complexity, Physical
+Symptoms, Depression, and Perceived Stress
+Variable
+
+Stress (Tl)
+
+Self-complexity (Tl)
+Physical symptoms (Tl)
+Depression (Tl)
+Perceived stress (Tl)
+Self-complexity (T2)
+Physical symptoms (T2)
+Depression (T2)
+Perceived stress (T2)
+
+.12
+
+Self-Complexity (Tl)
+
+.30"
+.28"
+.31"
+
+.17
+.10
+.09
+
+.07
+
+.70"»
+.28"
+
+.25"
+.22"
+.31"
+
+.18
+.15
+
+Note. Stress = number of negative events. T l ' Time I. T2 = Time 2.
+•pz .05. **ps .01. *"p<: .001.
+
+physical symptoms (CHIPS) scores ranged from 0 to 81 (M =
+18.45), and perceived stress (PSS) scores ranged from 8 to 45
+(M =22.75).
+Correlations
+Correlations between key continuous variables are presented
+in Table 2. Note first that self-complexity was not associated
+with number of negative events. Second, number of negative
+events at Time 1 was only moderately associated with depression, physical symptoms, and perceived stress at Time 2. This
+weak association when moderators were not considered is consistent with previous research. Third, self-complexity at Time
+1 was not significantly associated with level of depression, physical symptoms, or perceived stress at Time 1, although it was
+moderately associated with physical symptoms at Time 2.
+Fourth, although not shown, the Time 1 to Time 2 correlations
+were .82 for physical symptoms, .56 for depression, and .75 for
+perceived stress. Finally, although not shown in Table 2, depression, physical symptoms, and perceived stress were significantly
+correlated with one another at both Time 1 and Time 2. These
+correlations ranged from .45 to .80.
+Regression Models of Physical Symptoms, Depression,
+and Perceived Stress
+Because of the complex and interactive nature of the model
+posited in this article, the simple correlations discussed earlier
+do not provide an adequate basis for testing the hypotheses of
+interest. In this section, we will consider regression results obtained by estimating the coefficients of Equation 2 for each of
+the three continuous outcome variables: physical symptoms,
+depression, and perceived stress. Predictions regarding the signs
+of the coefficients of these regression models were explained in
+the previous discussion of Equation 2. The regression results
+are summarized in Table 3, which presents standardized regression coefficients for each outcome variable." These regression
+models explained between 35% and 71% of the variance in
+Time 2 outcomes for the three continuous dependent variables.12
+Additive effects of previous symptoms and stressful events. As
+
+669
+
+predicted, there was a strong positive relation between symptoms at Time 1 and symptoms at Time 2 for all three outcome
+variables. The standardized i, coefficients for the three butcome variables ranged in size from .53 to .78, and each was
+highly significant (p < .001). Even after adjusting for the effects
+of stress and self-complexity, there was a large and statistically
+significant tendency for physical symptoms, depression, and
+perceived stress to persist over time.
+Also as predicted, negative events at Time 1 were positively
+and significantly related to physical symptoms, depression, and
+perceived stress at Time 2. The standardized Aj coefficients,
+which reflect the additive effect of stressful events, ranged in size
+from .59 to .81. Thus, even after adjusting for prior symptom
+levels and the effect of self-complexity, subjects who reported a
+higher number of negative events at Time 1 displayed higher
+levels of physical symptoms, depression, and perceived stress at
+Time 2.
+Additive and interactive effects of self-complexity. The critical
+prediction of the present theory is that the impact of negative
+events on physical and depressive symptoms is reduced as level
+of self-complexity increases. Therefore, bt, the coefficient for
+the multiplicative interaction of self-complexity and negative
+events, should be negative. This prediction was supported for
+all three outcome variables, physical symptoms (p < .01), depression (p < .03), and perceived stress (p < .06), with standardized regression coefficients ranging from —.56 to —.82. It is
+noteworthy that the standardized regression coefficients for this
+predicted interaction effect were as large as the additive effects
+of negative events per se. Thus, these results strongly support
+the main buffering prediction of the self-complexity model;
+namely, the higher the level of self-complexity, the less adverse
+the impact of stressful events on physical and depressive symptoms.
+Recall that the self-complexity model makes no prediction
+about the value of 63, the coefficient that reflects the additive
+impact of level of self-complexity. As Table 3 reveals, this effect
+was positive, with coefficient values ranging from .23 to .35. To
+understand this additive main effect, we must consider it in the
+context of Equation 2. Considered together, the estimated values of b2,b-i, and 64 imply that there was a crossover interaction
+between stress and self-complexity.13 Our regression estimates
+imply that at low levels of stressful events, subjects low in selfcomplexity were less likely to experience physical symptoms,
+depression, or perceived stress. But at high levels of stressful
+events, subjects high in self-complexity were less likely to experience physical symptoms, depression, or perceived stress.
+
+1}
+
+Because the self-complexity model makes a dear a priori directional prediction for fci, 6;, and bt, one-tailed tests are most appropriate
+for testing hypotheses regarding these coefficients; for 63, where no a
+priori prediction is made, two-tailed tests are appropriate (Winer,
+1971).
+12
+Differences in variance explained were due mainly to differences
+on how much change occurred between Time 1 and Time 2. High R1
+values occurred for dependent variables that changed very little because
+the covariate at Time 1 accounted for most of the variance at Time 2.
+1
+* When the estimated regression relation was plotted, a crossover occurred in the range of the observed values of stress and self-complexity.
+
+670
+
+PATRICIA W. LINVILLE
+
+Thus, higher self-complexity acted as a buffer against the adverse physical and mental health consequences of high levels of
+stressful events. But in the absence of stressful events, low selfcomplexity subjects experienced fewer symptoms. As I argue in
+the Discussion section, although such a crossover interaction is
+not necessarily predicted by the self-complexity model, it is not
+inconsistent with it
+Logit Models of Probability of Illness
+Our measures of the occurrence or nonoccurrence of specific
+illnesses (e.g., flu or no flu) were dichotomous. This section reports the results of logit analyses for the five types of illnesses
+that occurred in 10% or more of our sample at Time 2. These
+were respiratory flu, backaches and headaches, menstrual
+cramps, abdominal problems, and injuries.14 In addition, I created a dichotomous overall measure (illness) for the presence or
+absence of any type of illness. Ordinary least squares regression
+analysis is inappropriate for these dichotomous outcome variables. Instead, for each illness, the coefficients of the following
+logit regression model were estimated:
+logfftj/U - Pij)] = bo + b, Yt + biStress,
+
++ baSC, + WO, X Stressi. (3)
+Here A, denotes the conditional probability that subject i will
+have illness ji at Time 2, given the observed values of the independent variables for subject / (see Bishop, Fienberg, & Holland,
+1975). Thus, the dependent variable in this model is the "log
+odds" that subject / will get illness/ Predictions from the selfcomplexity model regarding the signs of the coefficients in
+Equation 3 are exactly the same as for Equation 2,
+The coefficients of Equation 3 were estimated by using the
+logistic regression procedure in the BMDP package. A separate
+logit model was estimated for each illness as well as for the overall illness measure. To facilitate comparisons of the relative sizes
+
+Table 3
+
+Standardized Regressions of Physical Symptoms,
+Depression, and Perceived Stress
+Independent variables
+
+Outcome
+variable
+Physical
+symptoms
+(T2)
+Depression
+(T2)
+Perceived
+stress (T2)
+
+<*i)
+
+Stress
+(Tl)
+(W
+
+SC
+(Tl)
+(W
+
+.78***
+
+.61"
+
+.53"*
+.71"*
+
+Outcome
+(Tl)
+
+SC(T1)X
+Stress
+(Tl)
+
+(W
+
+R2
+
+.34"*
+
+-.68"*
+
+.71
+
+.81"
+
+.35"
+
+-.82"
+
+.35
+
+.59"
+
+.23"
+
+-.56*
+
+.58
+
+Note. Tl - Time 1. T2 = Time 2. SC - self-complexity. N = 106. The
+SC x Stress interaction term provides the basis for testing the buffering
+hypothesis.
+*ps .06.
+.05. ***p s .01.
+
+Table 4
+Logit Models of Illness
+Independent variables
+
+Outcome
+variable
+Illness (T2)
+Flu(T2)
+Aches (T2)
+Cramps (T2)
+Abdominal (T2)
+Injury (T2)
+
+Outcome
+(Tl)
+
+0.53*
+0.60"
+0.87"
+-4.26
+1.02"
+1.39"
+
+Stress
+(Tl)
+
+2.95"
+2.64"
+2.74*
+5.52*
+1.46
+1.09
+
+SC(T1)
+
+SC(T1)X
+Stress
+(Tl)
+
+(As)
+
+(*4)
+
+1.26*
+1.19"
+1.08*
+1.98*
+0.49
+0.91
+
+-3.34"
+-3.21"
+-2.43*
+-6.12*
+-1.31
+-1.11
+
+Note. Tl = Time 1. T2 - Time 2. SC = self-complexity. JV= 106 for all
+illness variables except cramps (women only) where N = 63. The Stress,
+SC, and SC X Stress variables have been converted to standardized
+scores. The binary illness, flu, aches, cramps, abdominal, and injury
+variables have been left in binary form.
+
+of coefficients for Table 4, the continuous independent variables
+(stress, self-complexity, and the Self-Complexity x Stress interaction) were standardized by converting them to Z scores. But
+the values of the illness outcome variables at Time 1 and Time
+2 were left in their naturally dichotomous form. Logit results
+for each illness measure are presented in Table 4.
+Additive effects of previous symptoms and stress. For all types
+of illnesses except menstrual cramps, the presence of the illness
+at Time 1 was positively and significantly related to the presence
+of that illness at Time 2. Thus, except for menstrual cramps,
+the presence or absence of these illnesses tended to persist over
+a 2-week period of time. Of greater interest is the fact that the
+i>2 coefficients were also positive and statistically significant for
+four of the six illness measures. Even after controlling for the
+presence of illness at Time 1, negative events at Time 1 were
+positively associated with the presence of illness at Time 2 for
+the illness, flu, aches, and cramps measures. Negative events at
+Time ( were not significantly associated with the abdominal 01
+injury measures at Time 2 (see Table 4).
+Additive and interactive effects of self-complexity Here the
+critical prediction of the self-complexity model is that i>4, the
+coefficient for the Self-Complexity X Stress interaction, is negative. In discussing the results of this prediction, it is useful to
+distinguish between those illness outcome measures at Time 2
+that were significantly associated with stress at Time 1 and those
+that were not. If a specific illness is unrelated to prior stress,
+then moderating the stress should not reduce the likelihood of
+the illness. Thus, the types of illnesses for which we expect a
+significant Self-Complexity x Stress interaction are those
+whose occurrence is associated with prior stress.
+For all four illness outcome variables for which there was a
+significant stress main effect, the coefficient for the Serf-Complexity X Stress interaction was negative and statistically sig-
+
+" Allergies and yeast infections occurred too infrequently (3%) to
+permit us to meaningfully estimate the coefficients in Equation 3.
+
+671
+
+SELF-COMPLEXITY, ILLNESS, AND DEPRESSION
+nificant as predicted (illness, p < ,Q04;flu, p < .005; aches, p <
+
+Discussion
+
+.05; and cramps, p < .03). Moreover, comparison of the b2 and
+2>4 coefficients revealed that the interaction effect was of roughly
+
+The proposed model predicts that people who have complex
+
+the same magnitude as the adverse effect of stress per se (see
+Table 4). So here, too, we find support for the self-complexity
+
+self-representations are less vulnerable to the adverse physical
+and mental health consequences of stressful events. The model
+
+buffering prediction that those high in self-complexity are less
+
+maintains that self-knowledge is cognitively represented in
+
+prone to stress-related illness following a period of high stress.
+
+terms of multiple self-aspects that vary in terms of their related-
+
+For the two illness outcome variables for which there was no
+significant stress main effect (i.e., abdominal and injury), the
+coefficient for the Self-Complexity X Stress interaction was not
+
+ness. As defined in this model, greater self-complexity involves
+having more self-aspects and perceiving greater distinctions
+among self-aspects. When people experience negative events,
+
+significant. However, these symptom categories occurred for
+
+they experience negative thoughts and feelings associated with
+
+relatively few subjects in our experiment (13% had abdominal
+
+particular self-aspects. These negative thoughts and feelings
+then spill over and color thoughts and feelings about associated
+
+problems and 11% had injuries), so these tests of the self-complexity buffering hypothesis had low statistical power. Moreover,
+even for these two variables, the coefficients for the stress main
+effect were positive, and the coefficients for the Self-Complex-
+
+self-aspects. Because people high in self-complexity tend to
+
+ity X Stress interaction were negative as predicted by the model.
+Therefore, even for these variables, the results were consistent
+
+be confined to a smaller proportion of their self-representation.
+
+with the self-complexity model (although not statistically significant).
+
+self-aspects that can serve as buffers to moderate negative
+thoughts and feelings resulting from negative events. If one as-
+
+Finally, as was the case for the continuous outcome variables,
+the 63 coefficients for the additive effect of self-complexity were
+positive for all six illness measures and statistically significant
+
+sumes that such negative thoughts and feelings about various
+self-aspects contribute to stress reactions and their physical and
+
+for four. Again, this indicates a crossover interaction between
+
+should be less prone to these adverse consequences of stress.
+
+stress and self-complexity. Our logit results imply that at low
+
+The results of this prospective study support the self-complexity buffering hypothesis and suggest the following conclu-
+
+levels of stress, subjects lower in self-complexity were less likely
+to become ill. But at high levels of stress, subjects higher in selfcomplexity were less likely to become ill.
+In summary, greater self-complexity acted as a protective
+buffer against the adverse physical and mental health consequences of stressful events. Subjects higher in self-complexity
+were less prone to depression, perceived stress, physical symptoms, and occurrence of the flu and other illnesses following
+high levels of stressful events.
+
+have more self-aspects, and because they are less likely to experience spillover effects, the impact of a negative event is likely to
+Thus, those high in self-complexity will have more unaffected
+
+mental health consequences, those higher in self-complexity
+
+sions. First, greater self-complexity acts as a moderator of depression and illness when people are under high stress. Second,
+greater self-complexity buffers against those types of health outcomes that are related to stress in the current sample (respiratory flu, backaches and headaches, and menstrual cramps).
+Third, self-complexity is a stronger moderator of stress-related
+depression and illness than a simple count of number of selfaspects or number of activities.
+The analyses tested whether self-complexity is related to wellbeing through a main effect model (i.e., self-complexity has a
+
+Other Measures of Self-Complexity
+To see whether two relatively crude measures of self-complexity would also serve as predictors of differences in reactions to
+stress, two additional sets of regression analyses were run that
+paralleled those already reported. In the first set of analyses, a
+
+beneficial effect regardless of whether people are under stress)
+or a buffering model (i.e., self-complexity moderates the adverse
+effect of stressful events and, therefore, is beneficial primarily
+for those under stress). The self-complexity model does not imply that those higher in self-complexity will generally display
+higher levels of physical and mental health but, rather, that self-
+
+simple count of the number of feature groups created by each
+
+complexity interacts with level of stress so that those higher in
+
+subject in the serf-complexity sorting task was used as a self-
+
+self-complexity will be less adversely affected by negative events
+
+complexity measure in Equations 2 and 3. Results for this mea-
+
+when they occur. Thus, the model predicts a buffering interac-
+
+sure revealed the same buffering pattern as those based on the
+
+tion but makes no predictions regarding either a positive or neg-
+
+SC score used in the main analyses, but the interaction effect
+
+ative main effect of self-complexity. The current data supported
+
+was weaker and nonsignificant. Number of feature groups cre-
+
+this buffering prediction. High self-complexity was mainly ben-
+
+ated is an inferior measure of self-complexity because unlike
+the self-complexity statistic defined earlier, it fails to adjust for
+
+eficial to those under high stress. Similarly, many studies have
+
+the redundancy of the categories created.
+
+high levels of stress (see Cohen & Wills, 1985; Gentry & Ko-
+
+shown that social support is beneficial primarily to those under
+
+In the second set of analyses, the number of activities listed
+
+basa, 1984, for reviews). In past studies, self-complexity moder-
+
+by each subject was used as a self-complexity measure. Results
+
+ated mood and self-appraisal but had no main effect on mood
+
+for this measure showed no buffering effect of number of activi-
+
+or self-appraisal (Linvffle, 1985).
+In fact, estimation results from the regression analysis re-
+
+ties on physical or mental health outcomes of stress. In fact,
+there was a nonsignificant tendency in the opposite direction: A
+greater number of activities tended to exacerbate the relation
+between stress and subsequent depression and illness.
+
+vealed a crossover interaction between stress and self-complexity. At low levels of stress, subjects lower in self-complexity
+showed fewer physical and mental health symptoms than did
+
+672
+
+PATRICIA W. LINVILLE
+
+those higher in self-complexity. At higher levels of stress, sub-
+
+support, but at high levels of stress, subjects high in social sup-
+
+jects higher in self-complexity showed fewer adverse symptoms.
+Although such a crossover interaction is not necessarily pre-
+
+port reported fewer symptoms than did those low in social support. Cohen and Hoberman speculated that the relationships
+
+dicted by the self-complexity model, it is not inconsistent
+with it.
+
+background stress. Similarly, at low levels of stress, Cohen and
+
+that provide social support may also be a source of low-level
+
+Why might low self-complexity be advantageous at low levels
+
+Hoberman found a slight tendency for subjects with more posi-
+
+of stressful events? One possibility is that the absence of nega-
+
+tive events to experience more physical symptoms; however, at
+
+tive events may be interpreted or experienced as a positive state
+
+high levels of stress, more positive events acted as a buffer.
+
+of affairs. If so, then the crossover interaction observed here
+could be another instance of the self-complexity-affective extremity effect reported in Linville's previous research on the
+
+Alternative Explanations for the Buffering
+of Self-Complexity
+
+Effect
+
+effects of positive and negative performance feedback (LinviUe,
+1985).13 In this work, LinviUe found that subjects lower in self-
+
+The prospective nature of the present design allows us to rule
+
+complexity showed greater decline in affect and self-appraisal
+
+out reverse causation arguments. For instance, it is possible that
+
+following negative performance feedback, but they also showed
+
+the presence of physical or depressive symptoms might cause
+
+greater rise in affect and self-appraisal following positive feed-
+
+both high reported levels of stressful events and low self-com-
+
+back. If one assumes that the absence of negative events is experienced as a positive state of affairs, then the self-complexityaffective extremity hypothesis suggests that in the absence of
+
+plexity. Thus, people with high symptom levels would also have
+high stress scores and low self-complexity scores, as predicted
+
+stressful events, those low in self-complexity may experience
+more positive affect than those high in self-complexity. If positive affect protects against depression and illness, then those low
+
+to rule out in a cross-sectional study. But the present prospective design directly controlled for symptoms at Time 1, which
+
+in self-complexity may experience fewer mental and physical
+
+self-complexity and stress at Time 1 and symptoms at Time 2.
+We can also rule out three response-bias explanations for the
+
+health problems during periods of low stress.
+A second possible explanation of the crossover interaction is
+
+by our model. This is a plausible hypothesis that would be hard
+
+removed any effects of prior symptoms on the relation between
+
+observed buffering effect of self-complexity. The first is that
+people higher in self-complexity simply report more of every-
+
+that high self-complexity per se might be associated with types
+of stress not captured by measures of the number of negative
+events. For instance, maintaining multiple distinct self-aspects
+
+thing (including more self-aspects), but under conditions of
+
+may be a source of chronic, low-level stress, perhaps because of
+role conflicts or multiple demands on time and attention. Such
+
+scales. That is, because they displayed more symptoms under
+low stress, subjects were unable to report many more symptoms
+under high stress because they had already exhausted the scale
+
+chronic stress may go unreported in events scales either because
+it is a constant feature of the subject's life, or because it does
+not fit into the framework of the events scales. Unfortunately,
+we lack a direct measure of low-level stress resulting from role
+strain. However, if one assumes that such stress is captured by
+the PSS, then we can indirectly test this hypothesis by estimating the coefficients of the regression equation
+
+high stress, they encounter a ceiling effect on the symptom
+
+range. This would create the appearance of a moderating interaction like the one observed. However, examination of the actual distribution of responses on the physical symptoms, perceived stress, and depression scales revealed that even the most
+extreme subjects could have gone much higher on each scale.16
+Thus, the ceiling hypothesis is ruled out Moreover, those higher
+
+(4)
+
+in self-complexity did not report significantly more negative
+events, and under stressful conditions, they actually reported
+less depression, perceived stress, and illness than did those lower
+
+If this speculation is correct, and if the PSS measure does cap-
+
+in self-complexity. Thus, this first response-bias hypothesis is
+refuted by the data.
+
+PSS = b0 + ^Stress + b2SC.
+
+ture role strain effects, then hi should be greater than zero. That
+
+A second response-bias hypothesis is that people higher in
+
+is, after we partial out the effects of specific stressful events,
+there should be some residual perceived stress that is attribut-
+
+self-complexity simply give more socially desirable responses.
+Inconsistent with this explanation is the fact that under low
+
+able to self-complexity per se. The estimation results for this
+regression indicated that £3 was positive, but it was small and
+
+more physical and depressive symptoms—a tendency that does
+
+fell far short of traditional significance levels (p > .5). Neverthe-
+
+not appear to be socially desirable. If one argues that those
+
+less, this hypothesis is worthy of further study because the per-
+
+higher in self-complexity tried to please the experimenter by
+
+stress, subjects higher in self-complexity actually experienced
+
+ceived stress measure may not capture the kinds of low-level
+role strains that may accompany having a large number of distinct self-aspects.
+It is noteworthy that other buffering studies have found crossover interactions (see Cohen & Wills, 1985, for a review). For
+example, Cohen and Hoberman (1983) found a similar crossover interaction in their study of the protective effects of social
+support At low levels of stress, subjects high in social support
+reported more physical symptoms than did those low in social
+
+i5
+The complexity-extremity effect has also been demonstrated in
+studies of how people perceive and evaluate members of various social
+groups based on age, race, and sex (Linville, 1982; LinviUe & Jones,
+1980).
+15
+Although the possible range of scores on the physical symptoms
+scale was 0 to 140, the actual range was 0 to 81. The possible range for
+the CES-D was 0 to 60, and the actual range was 2 to 45. The possible
+range for the PSS was 0 to 56, and the actual range was 8 to 45.
+
+673
+
+SELF-COMPLEXITY, ILLNESS, AND DEPRESSION
+reporting symptoms even in the absence of stress, they should
+
+only the hypotheses to which they lead. Other sets of assump-
+
+also have reported more symptoms under high stress, which
+
+tions could be devised that would lead to the same hypotheses.
+
+they did not.
+
+Current work is testing and refining these assumptions regard-
+
+A third response-bias hypothesis is that the results reflect
+
+ing the mechanisms that underlie the self-complexity model.
+
+only a general propensity to use or avoid extreme values on a
+rating scale, possibly because people adopt different anchors for
+the endpoints of scales. Contrary to this hypothesis, the selfcomplexity measure itself was based on a feature-sorting task,
+
+Implications for Testing the Self-Complexity
+
+Model
+
+not on a rating task. Thus, the measure of self-complexity could
+not have been affected by such a response bias. Moreover, the
+
+The results have several implications for the measurement of
+self-complexity. First, the SC score used in the primary analyses
+
+outcome variables illness, flu, aches, and cramps were gener-
+
+was a better predictor of illness and depression than was a sim-
+
+ated by listing illnesses, not by rating scales. The supportive
+
+ple count of the number of feature groups created by the subject
+
+results for these discrete outcome variables cannot be ac-
+
+in the self-complexity sorting task. This finding supports an im-
+
+counted for by a tendency to use extreme values on a rating
+scale.
+A final type of alternative explanation for the buffering effect
+
+portant element of the theoretical interpretation of the selfcomplexity concept, namely that self-complexity depends not
+only on the number of self-aspects but also on the extent to
+
+of self-complexity involves differential interpretation of life
+events by those high in self-complexity or high in depression or
+
+which these self-aspects are related to one another. The SC
+score reflects both components of self-complexity, whereas a
+
+illness. To test this hypothesis, the coefficients of the following
+
+simple count of feature groups created reflects only number of
+
+regression model were estimated:
+
+where PNEG is the proportion of reported events judged by the
+
+self-aspects.
+Second, the SC score was a better predictor of illness and depression than was a simple count of the number of activities
+reported by subjects. Sociological research suggests that multi-
+
+PNEG = ba + b,SC + b2Yi + b}SC X Yit
+
+(5)
+
+subject to have had a negative impact, SC is the subject's self-
+
+ple roles can have a protective effect against the adverse effects
+
+complexity score, Y-, is the subject's score on the i-th illness or
+depression measure (either CES-D, CHIPS, or PSS), and SC X Y{
+is the product interaction of self-complexity and the i-th illness
+
+of stress. Thoits (1983b) has shown that the greater the number
+
+or depression measure. If either self-complexity, level of illness
+
+distress. In addition, people who hold fewer social roles—the
+unmarried, the unemployed, the retired, housewives, those who
+live alone—experience more psychological distress than their
+
+or depression, or their interaction influenced whether subjects
+interpreted events negatively, then one or more of the coefficients in this regression equation should be statistically significant. Three versions of this model were estimated, one for each
+of the three continuous outcome measures. In all three analyses,
+the coefficients of all independent variables were very small and
+
+of actual social identities possessed (e.g., spouse, parent, friend,
+church member), the lower the reported level of psychological
+
+counterparts who hold more roles (e.g., Gove & Hughes, 1980;
+Gove & Tudor, 1973; Gurin, Veroff, & Feld, 1960; Radloff,
+1975). Verbrugge (1983) has shown that employment, marriage, and parenthood are associated with good health for both
+
+port for the hypothesis that the findings were due to differential
+
+men and women. Employed married parents had the best
+health, and people with none of these roles had the worst health.
+
+interpretation of events by those high in self-complexity, de-
+
+The present results suggest that a simple count of number of
+
+pression, illness, or perceived stress.
+
+social roles may not completely account for stress reactions, and
+that the concerns of classic role theory may be expanded by
+considering two additional questions: First, how are roles cogni-
+
+far from statistically significant (p > .7). Thus, there is no sup-
+
+Limitations of the Present Study
+
+tively represented? Second, how are they cognitively related to
+
+Because this research deals with potentially important theo-
+
+one another? The cognitive relatedness of roles may be as
+
+retical and clinical issues, it is essential to recognize possible
+limitations of the work. First, the reported test of the model was
+limited to an undergraduate population. Current work is testing
+
+closely related to health as the number or kind of roles.
+Third, the research suggests that self-complexity is best con-
+
+the model in nonstudent populations. Second, the study re-
+
+ceived of as a continuous variable, a matter of degree, rather
+than an all-or-nothing factor. Treating self-complexity as a di-
+
+ported here used a stress measure based on the accumulation
+
+chotomous (high vs. low) measure provides a less powerful test
+
+of a variety of types of events judged to have a negative impact.
+
+of the model. In the present study, treating the SC score as a
+
+To see whether these results generalize across different ways of
+measuring stress, current work is examining the response of a
+
+dichotomous variable supported the buffering hypothesis, but
+the effect was weaker.
+
+population of respondents, all of whom have been exposed to
+
+Fourth, the present approach to measuring self-complexity,
+
+the same stressful event. A third note of caution concerns the
+status of the assumptions underlying the self-complexity model
+
+via the self-complexity sorting task and the SC score, is closely
+linked to the conceptual definition of self-complexity in the
+
+developed in this article. The approach has been to present one
+
+model developed here. To test the present self-complexity
+
+set of assumptions that leads to the present hypotheses. The
+assumptions are plausible and, as noted in the discussion of
+them, most are based on previous research findings. But the
+
+model, it is important to use a self-complexity measure that
+satisfies this conceptual definition of self-complexity. Other intuitively plausible definitions or measures of self-complexity
+
+assumptions themselves were not tested in the present research,
+
+will not necessarily show the same relation to the extremity of
+
+674
+
+PATRICIA W. LINVILLE
+
+affective reactions or to the likelihood of physical and mental
+health symptoms following stressful events.
+The theoretical model and results also have two implications
+for the design of tests of the self-complexity model. First, the
+results underscore the advantages of using a prospective design
+to test buffering hypotheses. As noted earlier, the prospective
+design rules out several alternative explanations of the findings.
+In addition, a prospective design provides a more powerful statistical test of the buffering hypothesis. When 62, fe3, and b, in
+Equation 2 were estimated using only cross-sectional data at
+Time 1, the results were generally consistent with the self-complexity buffering hypothesis, but they were weaker than the prospective results and statistically significant in only a few cases.
+The greater power of the prospective design results from using
+the Time 1 score for the outcome variable as a covariate to factor out individual differences and thus increase the precision
+with which other effects are estimated.
+Second, the discussion of the predictions regarding the coefficients of Equation 2, particularly bt, the coefficient for the
+multiplicative interaction of stress and self-complexity, underscores the importance of including a measure of stressful events
+in tests of the self-complexity buffering hypothesis. Simply correlating self-complexity with symptom levels does not test the
+buffering hypothesis. Rather, one needs to examine the interaction effect of stress and self-complexity to determine whether
+greater self-complexity buffers those under high stress.
+
+Implications for the Concept of Self
+Although the notion of self-concept has long been of interest
+to psychologists, most earlier work focused on the content
+rather than the structural properties of the self. The present
+model is consistent with the growing interest in how information about the self is cognitivety represented and processed (e.g.,
+Bower & Gilligan, 1979; Carver &Scheiei; 1981;Greenwald&
+Pratkanis, 1984; Higgins et a!., 1985; Kihlstrom & Cantor,
+1983; Markus, 1977; Rogers, 1981). The present view is that
+representations of self are best conceived of in terms of multiple
+self-aspects, or multiple cognitive structures, each with its own
+set of associations among features, propositions, affects, and
+evaluations. Some self-aspects are highly interconnected to
+other self-aspects, whereas others are not. In the present model,
+events do not activate all self-aspects or the self-concept as a
+whole. Rather, only a subset of self-aspects is activated at any
+given time. Specific self-aspects are activated, depending on the
+context, the thoughts involved, their relation to currently activated self-aspects, their recency and frequency of activation,
+their chronic accessibility (Higgins et al., 1982), and motivation. This is consistent with McGuire's work showing that
+different features of the self are salient at different times. People
+tend to focus on their features that are most distinctive in a
+particular social environment (e.g., McGuire, McGuire, Child,
+& Fujioka, 1978; McGuire & Padawer-Singer, 1976). Thus, how
+we feel or think about ourselves is dependent on which selfaspects are currently salient or activated. This multifaceted
+view of the self is in contrast to theories that implicitly assume
+that the self is represented and activated as a unitary cognitive
+structure.
+
+How do self-representations develop over time into more
+differentiated structures? First, increased experience in varied
+roles, relationships, and situations increases the opportunity for
+self-differentiation. This argument is consistent with theories of
+cognitive development that imply that cognitive differentiation
+increases with experience (Lewin, 1951; Piaget, 1960; Werner,
+1957), and self-concept and self-evaluations become more
+differentiated and more abstract with increasing age (Montemayor & Eisen, 1977; MuUener & Laird, 1971). The self becomes increasingly differentiated through the same basic cognitive processes of generalization and discrimination that lead to
+increasing differentiation of other social knowledge structures
+(e.g., Linville, Salovey, & Fischer, 1986). Second, an increasing
+range of experiences relevant to the self (e.g., family, professional, social, aesthetic, physical) also creates functional incentives for self-differentiation. Increased self-differentiation provides a highly efficient way of accessing self-relevant information in a variety of areas of life, and of discriminating and
+responding to the varied demands of an increasing number of
+roles and interpersonal situations. Thus, greater self-complexity
+is likely to be a function of both greater and more varied experiences and greater demands to differentiate among aspects of
+one's life. For instance, number of cognitive self-aspects may
+depend, in part, on the number of actual roles and relationships
+in one's life. Thus, people involved in multiple personal and
+professional roles may exhibit greater self-complexity than
+those whose lives center on only a few roles. Third, intellectual
+and personality tendencies may contribute to the tendency to
+cognitively differentiate the self (Linville, Barnes, & Bersoff,
+1986). Thus, holding the number of actual roles or relationships
+constant, people may differ in their tendency to differentiate
+self-representations.
+Finally, note that the factors that contribute to greater selfcomplexity will not necessarily have any impact on the complexity of cognitive representations of other domains (e.g., cognitive representations of political figures or social psychologists). Thus, those high in self-complexity need not necessarily
+be high in complexity with respect to other domains.
+
+Clinical Implications
+This initial work suggests several broader and potentially significant clinical implications of the self-complexity construct
+and model. First, the self-complexity model developed here provides theoretical insight into the cognitive and affective responses to stress that result in adverse psychological and physical symptoms. Responses to life events are a consequence not
+only of the cognitions and affect associated with the event-relevant self-aspect, but also of the cognitions and affect associated
+with related self-aspects in the self-representation. Second, this
+research suggests that the self-complexity sorting task and SC
+score provide potentially useful diagnostic tools for identifying
+those individuals who are more vulnerable to depression or illness under high stress. Third, the self-complexity model may
+prove useful in understanding the negative thought patterns
+characteristic of clinically depressed individuals. As argued in
+an earlier article, the cycle of negative thoughts characteristic of
+depression may derive from an automatic spreading activation
+
+SELF-COMPLEXITY, ILLNESS, AND DEPRESSION
+process in which negative thoughts about one self-aspect activate associated negative thoughts in related self-aspects (Linville, 198S). Finally, the self-complexity model suggests therapeutic interventions that simultaneously encourage people to
+develop distinctions among self-aspects and to focus on those
+self-aspects about which they have positive thoughts and feelings. For instance, people might be encouraged to focus on feeling good about themselves in certain respects despite problems
+concerning other areas of their lives, for example, "Despite my
+marital problems, I am a good parent."
+
+References
+Attneave, F. (1959). Applications of information theory to psychology.
+New York: Holt-Dryden.
+Beck, A. T. (1976). Cognitive therapy and the emotional disorders. New
+York: International Universities Press.
+Bishop, Y. M. M., Fienberg, S. E., & Holland, P. W. (1975). Discrete
+multivariote analysis: Theory and practice. Cambridge: MIT Press.
+Bower, G. H.. & Gffligan, S. G. (1979). Remembering information related to one's self. Journal of Research in Personality, 13,420-461.
+Cantos N., & Kihbtrom, S. (1986). Personality and social intelligence.
+Englewood CBS, NJ: Prentice-HalL
+Carvei; C. S., & Sender, M. F. (1981). Attention and self-regulation: A
+control theory approach to human behavior. New York: Springer-Verlag.
+Cassel, J. C. (1976). The contribution of the social environment to host
+resistance. American Journal of Epidemiology, 104,107-123.
+Cobb, S. (1976). Social support as a moderator of life stress. Psychosomatic Medicine, 38,300-314.
+Cohen, S., & Hobennan, H. M. (1983). Positive events and social supports as buffers of life change stress. Journal of Applied Social Psychology, 13,99-125.
+Cohen, S., Kamarck, X, & Mermelstein, R. (1983). A global measure
+of perceived stress. Journal of Health and Social Behavior, 24, 385396.
+Cohen, S., & Wills, T. A. (1985). Stress, social support, and the buffering
+hypothesis. Psychological Bulletin, 98, 310-357.
+Dean, A., & lin, N. (1977). The stress-buffering role of social support.
+Journal ofNerwus and Mental Health, 169,403-417.
+Dohrenwend, B. S., & Dohrenwend, B. P. (1978). Some issues in research on stressful Hie events. Journal of Nervous and Menial Disease,
+166,1-15.
+Gentry, W. D., & Kobasa, S. C. (1984). Social and psychological resources mediating stress-illness relationships in humans. In W. D.
+Gentry (Ed.), Handbook of behavioral medicine (pp. 87-116). New
+\brfc Guflford Press.
+Gergen, K. J. (1971). The concept of self. New \brk: Holt, Rinetmrt &
+Winston.
+Gove, W. S., & Hughes, M. (1980). Reexammmg the ecological fallacy:
+A study in which aggregate data are critical in investigating the pathological effects of living alone. Social Forces, 58, 1157-1177.
+Gove, W. S., & Tudor, 3. F. (1973). Adult sex roles and mental illness.
+American Journal of Sociology, 78,50-73.
+Greenwald, A. G., & Pratkanis, A. R. (1984). The self. In R. S. Wyer &
+T.K.St:uU(Ete.),Ifandbookofsocialcognitian(V<A. 3, pp. 129-178).
+Hillsdale, NJ: Eribaum.
+Grain, G., Veroff, J., & Feld, S. (I960). Americans view their mental
+health. New York: Basic Books.
+Higgins, E. T, King, G. A., & Mavin, G. H. (1982). Individual construct
+accessibility and subjective impressions and recall. Journal of Personality and Social Psychology, 43, 35-47.
+
+675
+
+Higgins, E. T, Klein, R., & Strauman, T. (1985). Self-concept discrepancy theory: A psychological model for distinguishing among different aspects of depression and anxiety. Social Cognition, 3, 51-76.
+James, W. (1892). Psychology: The briefer course. New York: Holt,
+Rinehart & Winston.
+Jemmott, J. B., & Locke, S. E. (1984). Psychosocial factors, immunelogic mediation, and human susceptibility to infectious diseases: How
+much (So vKtaiawt Psychological Bulletin, 95, 78-108.
+Johnson, J. H., & Sarason, I. G. (1978). Life stress, depression, and
+anxiety: Internal-external control as a moderator variable. Journal
+of Psychosomatic Research, 22,205-208.
+Kanner, A. D., Coyne, J. C., Shaefer, C., & Lazarus, R. S. (1980). Comparison of two modes of stress measurement: Daily hassles and uplifts
+versus major life events. Journal of Behavioral Medicine, 4,1-39.
+Kaplan, B. H., Cassel, J. C, & Gore, S, (1977). Social support and
+health. Medical Care, IS, 47-58.
+Kihlstrom, J. F., & Cantor, N. (1983). Mental representations of the self.
+In L. Berkowitz (Ed.), Advances in experimental social psychology
+(Vol. 17, pp. 1-47). New York: Academic Press.
+Kobasa, S. C. (1979). Stressful life events, personality, and health: An
+inquiry into hardiness. Journal of Personality and Social Psychology,
+37,1-11.
+Krantz, D. S., Grunberg, N. E, & Baum, A. (1985). Health psychology.
+Annual Review of Psychology, 36,349-383.
+Kuiper, N. A., & Derry, P. A. (1981). The self as a cognitive prototype:
+An application to person perception and depression. In N. Cantor &
+J. F. Kihlstrom (Eds.), Personality, cognition, and social interaction
+(pp. 215-232). Hillsdale, NJ: Eribaum.
+LaRocco, J. M., House, J. S., & French, J. R. P., Jr. (1980). Social support, occupational stress, and health. Journal of Health and Social
+Behavior, 21,202-218.
+Lazarus, R. S., & Launier, R. (1978). Stress-related transactions between persons and environment In L. A. Pervin & M. Lewis (Eds.),
+Perspectives in interactional psychology (pp. 287-327). New "York:
+Plenum Press.
+Lefcourt, H. M. (1981). Locus of control and stressful life events. In
+B. S. Dohrenwend & B. P. Dohrenwend (Eds.), Stressful life events
+and their contexts. New York: Prodist.
+Levine, M., & Perkins, D. V. (1980, August). Tailor making life events
+scale. Paper presented at the meeting of the American Psychological
+Association, Montreal.
+Lewin, K. (1951). Field theory in social sciences. New York: Harper.
+Linville, P. W. (1982). The complexity-extremity effect and age-based
+stereotyping. Journal of Personality and Social Psychology, 42, 193211.
+Linville, P. W. (1985). Self-complexity and affective extremity: Don't
+put all of your eggs in one cognitive basket. Social Cognition, 3,94120.
+Linville, P. W., Barnes, M., & Bersoff, D. M. (1986). Self-complexity: A
+measure of multiple self-aspects. Unpublished manuscript, \ale University, New Haven, CT.
+Linville, P. W., & Jones, E. E. (1980). Polarized appraisals of outgroup
+members. Journal of Personality and Social Psychology, 38,689-703.
+Linville, P. W., Salovey, P., & Fischer, G. W. (1986). Stereotyping and
+perceived distributions of social characteristics. In J. Dovidio & S. L.
+Gaertner (Eds.), Prejudice, discrimination, and racism (pp. 165208). New York: Academic Press.
+Markus. H, (1977), Self-schemata and processing information about
+the self. Journal of Personality and Social Psychology, 35,63-78.
+Markus, H., & Nurius, P. (1986). Possible selves. American Psychologist, 41, 954-969.
+McGuire, W. J., McGuire, C. W., Child, P., & Fujioka, T. (1978). Salience of ethnicity in the spontaneous self-concept as a function of
+
+676
+
+PATRICIA W. LINVILLE
+
+one's ethnic distmctiveness in the social environment. Journal of Personality and Social Psychology, 36.511 -520.
+McGuire, W. J., & Padawer-Singer, A. (1976). Trait salience in the spontaneous self-concept. Journal of Personality and Social Psychology,
+33.743-754.
+Montemayor, R., & Eisen, M. (1977). The development of self-conceptions from childhood to adolescence. Journal of Personality and Social Psychology, 34,314-319.
+Mullen, B., & Suls, J. (1982). "Know thyself": Stressful life changes
+and the ameliorative effect of private self-consciousness. Journal of
+Experimental Social Psychology, IS, 43-55.
+Mullener, N., & Laird, J. D. (1971). Some developmental changes in the
+organization of self-evaluations. Developmental Psychology, 5, 233236.
+Peariin, L. I., & Schooler C. (1978). The structure of coping. Journal
+of Health and Social Behavior, 19,2-21.
+Piaget, J. (1960). The psychology of intelligence. New %rfc Harcourt,
+Brace.
+Radloff, L. (1975). Sex differences in depression. Sex Roles, 1, 249265.
+Radloff, L. (1977). The CES-D scale: A self-report depression scale for
+research in the general population. Applied Psychosocial Measurement, 1,3^-401.
+Rogers, T. B. (1981). A model of the self as an aspect of the human
+information processing system. In N. Cantor £ J. F, Kihlstrom
+(Eds.), Personality, cognition, and social interaction (pp. 193-214).
+Hillsdale. NJ: Erlbaum.
+
+Rosenberg, S., & Gala, M. A. (1985). The multiplicity of personal identity. In P. Shaver (Ed.), Review of personality and social psychology
+(Vol. 6, pp. 87-113). Beverly Hills, CA: Sage.
+Scott, W. A. (1969). Structure of natural cognitions. Journal of Personality and Social Psychology, 12,261-278.
+Silver, R. L., & Wortman, C. B. (1980). Coping with undesirable life
+events. In J. Garber & M. E. P. Seligman (Eds.), Human helplessness
+(pp. 279-375). New York: Academic Press.
+Taylor, S. E. (1983). Adjustment to threatening events: A theory of cognitive adaptation. American Psychologist, 38,1161-1173.
+Thoits, P. A. (1983a). Dimensions of life events that influence psychological distress: An evaluation and synthesis of the literature. In H. B.
+Kaplan (Ed.), Psychosocial stress (pp. 33-103). New York: Academic
+Press.
+Thoits, P. A. (1983b). Multiple identities and psychological well-being.
+A reformulation and test of the social isolation hypothesis. American
+Sociological Review, 48,174-187.
+Verbrugge, L. M. (1983). Multiple roles and physical health of women
+and men. Journal of Health and Social Behavior, 24, 16-30.
+Werner, H. (1957). Comparativepsychology oj'mental development (3rd
+ed.). New M>rk: International Universities Press.
+Winer, B. J. (1971). Statistical principles in experimental design. New
+Mjrk: McGraw-Hill.
+
+Received March 31,1986
+Revision received August 4,1986 •
+
+Models of Addiction: Call for Papers
+A special issue of the Journal of Abnormal Psychology is being planned that will
+comprise both empirical research and review papers relevant to major models or conceptualizations of addiction. Solicited manuscripts should review empirical literatures, advance theory, or present major empirical data sets relevant to models or theories of addiction; namely, Pavlovian, opponent-process, operant, genetic, incentive,
+biopharmacological, social learning, stress/coping models, and so on. Manuscripts
+that have clear relevance to motivational processes in addiction are especially welcome. Thus, papers that address specific addiction phenomena (e.g., dispositional tolerance) should make clear the relevance of such phenomena to addiction theory and
+drug motivation.
+Contributions intended for the special issue should be sent to the guest editor
+Timothy B. Baker
+W. J. Brogden Psychology Building
+University of Wisconsin
+1202 West Johnson Street
+Madison, Wisconsin 53706
+The deadline for initial submission of manuscripts is May 10,1987. If authors desire
+feedback regarding the general appropriateness of manuscripts in the preparation
+stage, they should submit a 200-300 word abstract to the guest editor.
+
+

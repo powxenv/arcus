@@ -1,0 +1,795 @@
+One Personality, Multiple Selves:
+Integrating Personality
+and Social Roles
+Brent W. Roberts
+Eileen M. Donahue
+University of California, Berkeley
+ABSTRACT How do people maintain multiple, role-specific self-conceptions as well as a consistent sense of self? In a sample of middle-aged women,
+we examined three issues: (a) the ways in which people view themselves as
+both different and similar across social roles (e.g., parent, friend, worker), (b)
+how role-specific self-conceptions and general self-conceptions are related,
+and (c) the merits of predicting role-specific criteria from role-specific and
+general self-conceptions. Results showed that subjects' self-conceptions were
+specific to role contexts, yet highly correlated across those same role contexts.
+In addition, role-specific self-conceptions were more similar to the general
+self-concept for roles with which the individual was more satisfied. Finally, as
+predicted from the bandwidth-fidelity trade-off, ratings of the general self correlated moderately with outcomes across all role domains, whereas ratings of
+role-specific self-conceptions correlated strongly with outcomes for the same
+role, but not in other roles.
+A man has as many social selves as there
+are individuals who recognize him . . . [and]
+generally shows a different side of himself
+to each of these different groups. (WiUiam
+James, 1890/1950, p. 294)
+This research was supported, in part, by ADAMHA Grant MH4398 to Ravenna Helson. We would like to thank Ravenna Helson, Oliver P. John, and Richard W. Robins
+for their helpful comments on earlier versions of the manuscript. Eileen M. Donahue
+is now at Wellesley College. Correspondence concerning this article should be addressed to Brent W. Roberts, Institute of Personality and Social Research, University
+of Califomia, Berkeley, CA 94720.
+Journal of PersonaUty 62:2, June 1994. Copyright © 1994 by Duke University Press.
+CCC 0022-3506/94/$l .50
+
+200
+
+Roberts and Donahue
+For most of us, by the age of 30, the character has set like plaster and will never soften
+again. (William James, 1890/1950, p. 124)
+
+In the first passage quoted above, William James highlights that the
+self-concept is based on interactions with others and that it is often
+context-specific. According to James a woman would view herself differently in her role as mother to her yoting children as opposed to her
+role as real-estate agent. This first viewpoint, which we refer to as the
+"multiple selves" perspective, focuses on a person's self-conceptions
+derived from the various social domains of life. This perspective has
+been the halhnark of self-concept and identity research (Markus &
+Cross, 1990; Stryker & Statham, 1985).
+However, James also noted that after a person turns 30, character, or
+personality, is "set like plaster." This personality set in plaster should
+lead to consistency in the self-concept both over time and across situations. This second viewpoint, the "dispositional" perspective, concentrates on consistencies in personahty across situations and over the life
+span. This perspective has been the foundation of much research in personality (Block, 1981) and adult development (Conley, 1984; McCrae,
+Costa, & Arenberg, 1980).
+The extent to which the multiple self and dispositional perspectives
+conflict is unclear. Can individuals see themselves as different in different social contexts, while maintaining a stable sense of self across these
+social contexts? To explore this question we asked a sample of middleaged women to describe themselves in each of their current social roles,
+and to describe themselves in general. Thus, we were able to examine both differences and consistencies in the way individuals describe
+themselves across social roles. In addition, this design allowed us to
+examine how describing oneself in general relates to describing oneself in different roles. Finally, this method permitted us to compare the
+merits of predicting life outcomes, specific to certain roles, from role
+self-descriptions and general self-descriptions.
+Theoretical Issues
+Comparing the multiple self and dispositional perspectives. How do
+people come to see themselves as different in different social roles, yet
+see themselves as the same across those social roles and over time?
+From a symbolic interactionist or identity perspective, it is assumed that
+self-conceptions are derived from interactions within social contexts.
+
+Personality and Social Soles
+
+201
+
+Simply put, socid contexts such as roles prescribe and facilitate behaviors through norms and scripted relationships. The behaviors associated
+with role norms and relationships are internalized over time, creating
+role-specific self-conceptions (Stryker & Statham, 1985). For example,
+an aggressive man might see himself as more aggressive as a soldier than
+as a husband, because in the soldier role aggressiveness is rewarded,
+whereas in the husband role it is not. To the extent that behavior is afforded or constrained uniquely in different social roles, we should find
+meaningful differences in the way that people behave and in the way
+they perceive their attributes in different roles. The most direct way to
+examine these differences is to measure mean level differences in the
+perception of attributes across roles.
+From a dispositional perspective, underlying "latent" traits predispose an individual to select certain types of behavior consistently across
+a variety of situations (McCrae & Costa, 1984). For example, an extravert might always be the first to speak up in a crowd, while an introvert
+might not speak until spoken to. Moreover, whatever the situation, the
+extravert will probably say more than the introvert. These rank-order
+behavioral consistencies should lead to consistency in self-conceptions
+across situations. The most direct way to assess this type of consistency
+is to correlate self-conceptions across a range of situations, or across
+social roles.
+Situational differences are often thought to preclude dispositional
+consistencies. That is, if a woman acts more outgoing at work than at
+home she is thought to be behaving inconsistently across those roles.
+However, mean level differences and correlational consistency in behavior across situations are both conceptually and statistically independent
+(Ozer, 1986). Thus, the woman may be acting less outgoing at home,
+but relative to other people she retains rank-order, or correlational
+consistency. In one recent study, Funder and Colvin (1991) provided
+empirical evidence that behavior can be both situationally specific and
+cross-situationally consistent. They found that three rather normal laboratory situations engendered different mean levels of behavior as well
+as robust cross-situational correlations of behavior across the laboratory
+situations. They concluded that "even though situations profoundly affect what people do, people can still manage to preserve their distinctive
+behavioral styles across situations" (Funder & Colvin, 1991, p. 791).
+In the present study, we assessed the self-concept across social roles
+rather than behavior across situations. Based on Funder and Colvin's
+(1991) findings and the work of identity researchers (Rosenberg & Gara,
+
+202
+
+Roberts and Donahue
+
+1985; Stryker & Serpe, 1982), we expected to find mean level differences in attributes across different roles. For example, we would expect
+attributes such as conscientiousness to be expressed more in work settings than with friends. In addition, we expected that the mean level
+differences in many attributes across different roles would show varied
+patterns. For example, people could be extravefted but not warm at
+work, while they might be warm but not extraverted with their parents.
+Thus we expected to find interactions between the different types of
+roles and self-ascribed attributes, such that particular attributes would
+be uniquely associated with certain roles. Based on Funder and Colvin's
+research, we also hypothesized that self-conceptions would be highly
+similar across roles.
+Relation between the general self and role-specific self-conceptions. How
+do self-descriptions made in general relate to self-descriptions made in
+each of our roles? Identity researchers have proposed that a person's
+identity is a hierarchical collection of role identities (Stryker & Serpe,
+1982). Role identities are essentially role-specific self-descriptions
+made up of the characteristics a person ascribes to him/herself in a
+particular social role (Burke & Tully, 1977). Role identities are organized in an "identity salience hierarchy" (Stryker & Serpe, 1982). The
+identity salience hierarchy, or the structure of the identity, is defined by
+"the probability that any given role-identity will be invoked in a given
+situation, or across a number of situations" (Serpe, 1987). The salience
+or importance of a role identity for an individual is determined by the
+individual's social and emotional commitment to that role (Stryker,
+1987) and the individual's satisfaction with performance in that role
+(Hoelter, 1983).
+Conceptually, the total identity is analogous to the general selfconcept. Both entail a full description of the attributes associated with
+each individual's social world. The difference between specific role
+identities and the general self lies in how people describe themselves.
+General self-descriptions require that people combine their attributes
+from several specific role identities into a single overall rating. Thus,
+the single general self-rating represents a unique combination of rolespecific information. We suggest that the general self refiects to a greater
+extent those role identities that are relatively more salient to the individual. If this is true, one would expect that the similarity between
+role-identity descriptions and general self-descriptions would be a function of factors such as role commitment and satisfaction. To test this
+hypothesis we used measures of role commitment and satisfaction to
+
+Personality and Social Roles
+
+203
+
+predict the correspondence between each person's general self-concept
+and role-specific self-conceptions.
+The prediction of role criteria: The bandwidth-fidelity trade-off. In personality assessment it is recognized that broad, global constructs predict
+diverse behaviors at moderate levels of accuracy, whereas narrow, specific constructs predict limited behaviors with a high degree of accuracy
+(Hampson, John, & Goldberg, 1986). This phenomenon is known as
+the bandwidth-fidelity trade-off (Cronbach & Glesser, 1957). For example, a broad measure of extraversion should predict talkativeness,
+energy, and enthusiasm reasonably well, whereas a more specific measure of gregariousness should predict only talkativeness but with greater
+accuracy.
+Analogously, we believe that measuring an individual's self-conceptions, both in general and across different roles, will yield a similar
+bandwidth-fidelity trade-off. General self ratings of attributes should encompass most social contexts in a person's life. Consequently, we would
+assume that they have considerable breadth and should predict life outcomes across a number of contexts at a moderate level of accuracy. In
+contrast, attributes measured within specific roles should predict particular role-related life outcomes better than general self measures, but
+will have little predictive utility across different role contexts. For example, a general measure of extraversion may predict how sociable
+people are at work, with their friends, and with their spouses. In contrast, a measure of extraversion taken from the worker role might be
+a strong predictor of how much people socialize with co-workers, but
+show weaker relations with sociability in other role domains.
+To test the bandwidth-fidelity trade-off, we will compare the correlations between self-descriptions from the general self and from each role
+with life outcome criteria in each role. If our assumptions are correct,
+we expect ratings of attributes taken from the general self to correlate significantly, but only moderately, with criteria across a number of
+roles. In contrast, we expect ratings of attributes taken from each role
+to correlate significantly with criteria specific to that same role, and not
+to criteria from other roles.
+Empiiical Issues
+Measuring attributes for multiple selves: The Facets of the Self Questionnaire. A number of techniques have been employed to assess rolespecific self-conceptions that range from permitting people to sort
+
+204
+
+Roberts and Donahue
+
+attributes freely into undefined categories (Linville, 1987) to rating specific attributes over specific roles (Block, 1961). We asked our sample
+of middle-aged women to rate 16 personal attributes for the general self
+as well as for a set of five roles. Of the 16 attributes, 10 were selected
+to represent the Big Five dimensions of personality description and
+6 were added to represent important feelings about relationships with
+others (e.g., feeling appreciated, feeling bored). The subjects rated the
+16 attributes in up to five different social roles. The roles were selected
+for their relevance to women at midlife (i.e., being a parent, worker,
+partner, daughter, and friend). To maintain the validity of the ratings
+we asked our subjects to rate only those roles that they were currently
+enacting or that they had recently enacted. Thus, a woman who was
+divorced for a long period of time would not rate the attributes for the
+partner role.
+Creating and selecting specific measures. To test the mean level differences in attributes across roles and to test the bandwidth-fidelity
+trade-off, we collapsed the 16 attributes into fewer, more reliable scales:
+Positive Affect, Competence, and Dependability. We also needed to
+select appropriate criteria to test the bandwidth-fidelity trade-off. We
+included the Facets of the Self Questionnaire in the most recent assessment of the Mills Longitudinal Study (see Helson & Wink, 1992),
+along with an extensive battery of questionnaires, rating scales, and
+open-ended questions about various aspects of the subjects' lives. We
+selected role-specific criteria that corresponded to the domains of positive affect, competence, and dependability from the extensive database
+collected concurrently with our questionnaire.
+Hypotheses. To review, we began with three main hypotheses. We expected ratings of attributes across roles to vary significantly from role to
+role and to be correlationally consistent across roles. Second, following
+identity theory, we expected that the similarity between any given role
+and the general self would be related to the level of commitment and
+satisfaction derived from that role. And third, based on the bandwidthfidelity trade-off, we expected that measures derived from the general
+self would correlate moderately with outcomes across role domains,
+whereas measures derived from specific role domains would correlate
+strongly with outcomes in the same role, but not other roles.
+
+Personality and Social Roles
+
+205
+METHOD
+Subjects
+
+In 1958 and again in 1960, a representative two-thirds sample of the senior
+class at Mills College participated in a study of personality characteristics and
+plans for the future among college women (Helson, 1967). Three subsequent
+assessments (1963-64, 1981, 1989) ofthe sample have traced the personality
+and life events of approximately 100 women for 30 years with little attrition
+(Helson & Moane, 1987; Helson & Wink, 1992). The women were approximately 21, 27, 43, and 52 years old at the four times of testing. The last three
+assessments were conducted through the mail. The present study focuses on
+data from the 1989 assessment; our measures were available for a maximum
+of 89 subjects.
+
+Pioceduie
+To test the mean level differences in self-conceptions across roles, we first
+aggregated our 16 items into three scales: Positive Affect, Competence, and
+Dependability (described below). These scales were scored for each role and
+for the general self for each subject. We then tested mean level differences
+in scale scores, and interactions between scale and role, across the four roles
+of partner, friend, worker, and daughter. These four roles were chosen because they were rated by a majority of the subjects. We also tested cross-role
+correlations using these same four roles.
+We used correlations and multiple regression to predict the similarity between role self-conceptions and the general self from measures of role commitment and satisfaction. In the Mills Longitudinal Study, adequate measures
+of commitment and satisfaction were available only for the worker and partner
+roles. Consequently, we restricted our analyses to these two roles.
+To test the bandwidth-fidelity hypothesis we correlated both the role-specific
+and the general self scales (Positive Affect, Competence, and Dependability)
+with role-specific criteria. This required suitable criteria in each role that corresponded to positive affect, competence, and dependability. From a close
+examination of the database we identified a large number of criteria relevant to
+positive affect and competence for the worker and partner roles, but not for the
+daughter and friend roles. We identified few criteria relevant to dependability in
+any ofthe roles. Consequently, the bandwidth-fidelity hypothesis was tested on
+the worker and partner roles using the Positive Affect and Competence scales
+and the corresponding role-specific criteria.
+
+Measures
+The Facets cf the Self Questionnaire. The subjects rated 16 emotion and trait
+attributes on a 1 -to-8 scale to describe themselves "in general." They then rated
+
+206
+
+Roberts and Donahue
+
+how descriptive each attribute was of how they saw themselves in several important roles they were currently enacting or had recently enacted: the partner,
+work/career, friend, and daughter roles.
+General self and role scale development. To develop general self and role scales
+we conducted five separate principal components analyses of the 16 attributes,
+one for each of the four major roles and one for the general self Three similar
+factors were found in each analysis, suggesting three replicated dimensions:
+positive affect, competence, and dependability. The Positive Affect scales were
+defined by two true-scored items (taking pleasure and feeling supported), and
+four false-scored items (irritable, feeling unappreciated, cynical, and feeling
+bored). The Competence scales consisted of four items: assertive, effective,
+creative, and being stimulating. The Dependability scales consisted of three
+true-scored items (organized, flexible, and supportive) and one false-scored
+item (irresponsible). Two items were not included on any of the scales (imperceptive and feeling insecure). The Positive Affect, Competence, and Dependability scale scores were computed for the general self and for the partner,
+worker, daughter, and friend roles. Internal consistency analyses confirmed
+the homogeneity of the scales. The alpha coefficients for the general self and
+role-specific scales ranged from .71 to .82 for the Positive Affect scale (mean
+= .77), .54 to .71 for the Competence scale (mean = .63), and .34 to .68 for
+the Dependability scale (mean = .54).
+Measures of role commitment and satisfaction. Questionnaire measures of role
+involvement were used to assess commitment to the partner and worker roles
+(Helson & Wink, 1992). Involvement was measured on a l-to-5 scale. For
+example, subjects who gave their partner role the highest rating (i.e., 5) saw
+themselves as very involved in their marriage and saw the partner role as very
+important to their identity. Satisfaction with the partner role was assessed using
+a 7-item marital satisfaction scale (alpha = .78) (see Helson & Wink, 1987).
+Satisfaction with the work role was measured using a 5-point rating of overall
+work satisfaction.
+Other role measures. Role-specific criteria were needed to test the bandwidthfidelity trade-off hypothesis. In addition to the role-identity ratings, the subjects
+filled out rating scales and open-ended questions about various areas of their
+lives, including marriage and work. From these materials we selected several
+measures related to positive affect and competence. Several scales validated
+in previous research with this sample provided some of the role criteria. In
+addition, independent judges' were asked to identify items from each relevant
+1. We are grateful to Jennifer Lee, Richard Robins, and Ed Taylor, who served as
+judges.
+
+Personality and Social Roles
+
+207
+
+role domain in the questionnaires that were conceptually related to positive
+affect and competence. Items were retained for criteria if at least two of the
+three independent judges identified the items as being related to positive affect
+or competence.
+Two previously published scales were selected as role-specific criteria to be
+related to the partner Positive Affect scale: the 7-item marital satisfaction scale
+mentioned above and an aggregated measure of marital tensions derived from
+a marital tensions checklist (Helson & Roberts, 1992). The judges identified
+three specific items from the marital tension checklist as role-specific criteria
+to be related to the partner Competence scale: "I am not sociable," "I am
+boring," and "I am unhappy in sexual relations." Subjects rated each item on
+a 4-point scale.
+In the work role, two variables were identified by the judges as corresponding to the work Positive Affect scale: ratings of overall satisfaction with all
+aspects of work, and satisfaction with attainment in work. Each was rated on
+a 5-point scale. Three additional aspects of work satisfaction, also rated on 5point scales, were used as criteria for the work Competence scale: "challenge
+or opportunity for achievement," "control over what I do—autonomy," and
+"interest, stimulation, and variety."
+
+RESULTS
+Effect of Soles on Self-Conceptions
+To determine whether roles systematically influenced the way people
+perceived their attributes, we conducted a within-subjects multivariate analysis of variance (MANOVA) of the effect of the four roles of
+partner, worker, daughter, and friend and the three attributes (positive
+affect, competence, and dependability) on the mean scale scores. We
+found significant main effects for role, F{3,73) = 3.5,p < .05, and attribute, F (2,74) = 10.3,p < .05, and a significant interaction between
+role and attribute on the mean attribute rating level, F(6,70) = 18.8,
+p < .05.
+The main effect for role shows that the women described themselves
+differently depending on the role that they were rating. The main effect
+for attribute indicates that, on average, they rated themselves higher
+on some attributes than others. The significant interaction between role
+and attribute indicates that particular attributes were uniquely associated
+with certain roles (see Figure 1).
+
+208
+7.5
+
+Roberts and Donahue
+
+Mean scale scores
+Positive Affect
+Competence
+Dependabiiity
+
+6.5
+
+5.5
+
+Worker
+
+Partner
+
+Friend
+
+Daughter
+
+Figure 1
+
+Mean Scores of the Positive Affect, Competence, and Dependability
+Scales in the Partner, Worker, Friend, and Daughter Roles
+(8-Point Scale)
+Consistency of Self-Ratings across Roles
+To determine whether people see themselves as consistent across roles,
+we computed within-subject correlations between the partner, worker,
+friend, and daughter roles across the 16 trait ratings, and then computed the mean correlations across subjects using r-to-z transformations. Table 1 shows the mean correlations and standard deviations for
+the different combinations of roles. The worker, friend, and partner
+roles were seen as the most similar, while the daughter role was least
+similar to either the worker, partner, or friend role. The average correlation among all four roles was .81, indicating that the subjects' rank
+ordering of the trait attributes tended to be very similar across roles;
+that is, subjects generally rated the same attributes as most descriptive
+of themselves (relative to other attributes) for all the roles, even though
+the numerical level of the ratings generally differed across roles.
+
+Personality and Social Roles
+
+209
+Table 1
+
+Means and Standard Deviations for the Within-Subject Conelcrtions
+among the Partner, Woikei, Daughtei, and Friend Roles
+Worker
+
+Daughter
+
+.75
+
+.72
+
+—
+
+(.27)
+
+(.30)
+
+Partner
+Worker
+
+.81
+(-25)
+
+Daughter
+Friend
+
+.89
+
+.89
+
+.11
+
+(.21)
+
+(.19)
+
+(.27)
+
+Note. Within-subject correlations were computed between pairs of roles across 16
+emotion and trait attributes. Mean correlations were computed by converting correlations using a Fisher Z transformation. Correlations ranged from .00 to .99. Standard
+deviations are given in parentheses.
+
+Relation between Role-Specific
+SeU-Conceptions and the General Self
+Our second hypothesis predicted that role self-conceptions and general self-conceptions would be more similar for roles in which subjects
+felt committed and satisfied. To test this hypothesis, we first computed
+within-subject similarity coefficients between the worker and partner
+role self-conceptions and the general self-concept. The partner and
+worker self-conceptions correlated with the general self-concept .83
+and .85, respectively. We then correlated each subject's similarity coefficient with commitment and satisfaction in the corresponding role.
+Role commitment was significantly correlated with the similarity between role self-conceptions and the general self for both the partner
+(r = .35,p < .05) and worker roles (r = .24,p < .05). Role satisfaction was also significantly correlated with the similarity between role
+self-concepts and general self for both the partner (r = .5\,p < .05)
+and worker (r = .44,p < .05) roles. We used multiple regression to
+test whether satisfaction and commitment independently predicted the
+similarity between role self-conceptions and general self-conceptions.
+When both commitment and satisfaction were entered simultaneously
+into the regression equation, commitment to the role did not significantly predict similarity between descriptions ofthe partner and worker
+roles and the general self (Betas = .09 and .19, ps > .05, respectively), whereas satisfaction did significantly predict similarity for the
+
+I
+
+o
+
+I
+u
+
+o
+
+* *
+
+o
+o
+e n —I
+
+ON Os
+
+%
+
+* *I
+
+Oi
+
+I
+
+a
+
+at
+
+(N 00
+
+•o
+%
+
+o
+
+u
+3
+
+r
+
+I8
+
+II
+
+di
+
+"I
+
+I
+0.
+
+<u
+
+I
+
+I
+I
+
+2
+
+I
+
+•B
+
+q
+
+I
+
+c/3
+
+V
+a.
+
+Personality and Social Roles
+
+211
+
+two roles (Beta = . 5 5 , p < .05, andBeta = .3S,p> .05, respectively).
+Thus, only satisfaetion with role performance was an independent predictor of the similarity between role self-conceptions and general selfconceptions.
+Prediction ol Role Outcomes: The
+Bandwidth-Fidelity Trade-Off
+Our final hypothesis predicted that measures derived from the general
+self would correlate moderately with outcomes across role domains,
+while measures derived from specific role domains would correlate
+strongly with outcomes in the same role, but not other roles. To test this
+hypothesis we correlated the worker, partner, and general self Positive
+Affect and Competence scales with role-specific criteria. Tables 2 and 3
+show the correlations of the role self-concept and general self Positive
+Affect and Competence scales with the role-specific criteria.
+The general self scales predicted outcomes at a moderate or low
+level of magnitude for both role domains (i.e., worker and partner
+roles). By contrast, the role-specific scales predicted corresponding role
+criteria quite well and with a great deal of specificity. For example,
+the partner Positive Affect scale correlated with marital satisfaction
+(r = .61,p < .05) and total marital tensions (r = —.60,p < .05), but
+not with work outcomes. The worker Positive Affect scale correlated
+with satisfaction with all aspects of work (r = .62,p < .05) and satisfaction with attainment in work (r = .4S,p < .05), but not with outcomes for the partner role.
+The overall pattem of correlates for the role Competence scales mirrored the findings found for the role Positive Affect scales (see Table 3).
+The partner Competence scale was negatively related to seeing oneself
+as boring as a marital partner (r = -.29,p < .05), feeling unhappy
+in one's sexual relations (r = -.43,p < .05), and feeling unsociable
+as a marital partner (r = -.26,p < .05). The worker Competence
+scale significantly predicted satisfaction with challenge or opportunity
+for achievement in work (r = .48,p < .05), autonomy or control over
+work (r = .33,p < .05), and the amount of interest, stimulation, and
+variety in work (r = .38,p < .05).
+For the outcomes listed in Table 2, the general self Positive Affect
+scale predicted many of the domain-specific criteria, but never at the
+same magnitude as the role self-concept scales. Tests for the difference between nonindependent correlations revealed that role-specific
+
+*
+00
+
+I
+i
+I
+n
+
+I
+
+o
+
+u
+
+_ o
+
+r rr
+'S
+
+I2
+o
+
+OS
+
+I
+
+.S >>
+
+I| 8
+o
+
+•s
+
+I
+
+.2 -s
+C/5
+
+8 V
+
+Personality and Social Roles
+
+213
+
+measures of positive affect predicted role-specific criteria significantly
+better than general self measures for all four outcomes (see Table 2).
+Thus, the results for the Positive Affect scale substantiated our hypothesis that the general self would correlate moderately with outcomes
+across role domains, while measures derived from specific role domains
+would correlate strongly with outcomes in the same role, but not other
+roles. For the Competence scales four of the six role-specific correlations were significantly greater than the general self correlations (see
+Table 3). However, only one of the correlations of the general self
+Competence scale with the role-specific criteria reached statistical significance. Thus, the results from the Competence scales only partially
+supported our hypothesis.
+DISCUSSION
+
+In the present study, we examined how role contexts affect self-descriptions and how role self-conceptions are related to descriptions of the
+self in general. We demonstrated that people see themselves differently in each of their roles. That is, on particular attributes, people
+rate themselves higher in some roles than in others. However, people
+also maintain a correlationally consistent self-perception across roles,
+in that their rank-ordering of trait attributes tends to be very similar
+across roles. We also found that general self descriptions are related
+to role-specific self-conceptions, especially for roles in which a person
+feels more committed and satisfied. Finally, we found that measures of
+positive affect derived from the general self correlated moderately with
+outcomes across all role domains, whereas measures of positive affect
+derived from specific role domains correlated strongly with outcomes
+in the same role, but not in other roles. The results were not as clear for
+the measures of competence. The competence measures derived from
+the specific roles did predict role-specific criteria well, but the general
+self measure of competence failed to predict specific criteria across
+different roles.
+
+Reconciling the Multiple Selves and
+Dispositional Perspectives
+Although it is clear, conceptually, that mean level differences in selfconceptions across roles should be independent of correlational consistency of self-conceptions across roles (Ozer, 1986), research ex-
+
+214
+
+Roberts and Donahue
+
+amples are lacking. Our results illustrating both mean level differences
+and cross-role consistencies in self-conceptions make William James's
+seemingly incompatible statements quoted in the introduction quite
+compatible. Funder and Colvin (1991) demonstrated the independence
+of mean level differences and correlational consistency of discrete behaviors across different situations. We have extended this work and
+further substantiated James's contentions by showing that people see
+their self-concepts both differently and consistently across social roles.
+Though the present research begins to synthesize the multiple selves
+and the dispositional perspectives, we feel important extensions of this
+work remain. For example, we were unable to examine the longitudinal
+stability of role-specific self-conceptions and their relation to general
+self descriptions because those measures were not included in previous assessments of the Mills Longitudinal Study. Previous research
+from personality and adult development has shown that personality is
+both malleable and consistent over time (Block, 1971; Helson & Wink,
+1992). One possible source of both consistency and change in selfconceptions may be consistencies and changes in the very social roles
+from which identity is derived. To better understand personality consistency and change across roles and time, we hope to include similar
+measures in future assessments ofthe Mills sample.
+
+Multiple Selves: Nonnative Effects of Roles and
+the Relation between Roles and the
+General Self
+In addition to comparing the multiple selves and dispositional perspectives, we were also able to test more specific hypotheses derived from
+identity and personality theory. From the perspective of identity theory
+we proposed that social roles would not only have a general effect on
+self-perceptions, but would possibly interact with attributes such that
+certain attributes would be associated with specific roles. This was best
+illustrated by the main effects of roles and the interactions between roles
+and attributes on the mean level of attribute ratings. For example, as a
+group, our subjects were more competent and dependable as a worker
+than as a partner, friend, or daughter. This demonstrates that social
+roles shape identity development in a normative fashion. Although we
+did not begin with specific predictions about how certain attributes
+and roles would interact, our findings seem reasonable and consistent
+with previous research conceming the relation between personality and
+
+Personality and Social Roles
+
+215
+
+role experiences in middle-aged women. Maintaining a career requires
+responsibility and provides an outlet for personal resources such as
+creativity and effectiveness (Miller, Schooler, Kohn, & Miller, 1979).
+This may explain the higher dependability and competence scores we
+observed for the worker role. The fact that the friend role is largely
+voluntary and flexible would account for the high positive affect associated with this role. In contrast, many of the women felt less positive,
+competent, and dependable in their daughter role. Many of the women
+in our study were caring for parents or had recently lost a parent. Caretaking has been shown to have deleterious effects on the well-being of
+the caretaker (Cantor, 1983; Haley, Levine, Brown, Berry, & Hughes,
+1987). Thus, the lower scores overall for the daughter role may refiect
+normative role demands of middle-aged women.
+In addition to the nonnative effects of roles, identity theory also
+proposes that the structure of one's identity can be determined by the
+amount of commitment and satisfaction people feel toward their various
+role identities. Therefore, we concluded that the similarity between descriptions of any given social role and the general self would be related
+to the degree to which a person felt committed to, and satisfied with,
+that role. We found that both were related to role/general self similarity, but satisfaction was the more important predictor of similarity.
+Of course, the direction of the relationship cannot be determined from
+a correlational study. It may be that global personality measures assess
+primarily those parts of the identity that are important and satisfactory
+to the subject, perhaps refiecting a bias toward self-enhancement. Or, it
+may be that people select and maintain role self-concepts that reinforce
+their global self-conceptions.
+Personality Psychology a n d the
+Bandwidth-Fidelity Trade-Off
+Many personality researchers believe that traits are organized in a hierarchy from broad to narrow descriptors (Hampson et al., 1986) and that
+this hierarchy creates a bandwidth-fidelity trade-off in the prediction of
+criteria. We proposed that a similar bandwidth-fidelity trade-off would
+occur for the correlates of general self and role-specific measures. Consistent with our prediction, we showed that scales measuring general
+self positive affect predicted criteria moderately well across a number of
+role contexts, whereas role-specific Positive Affect scales predicted corresponding role criteria quite well and with a great deal of specificity.
+
+216
+
+Roberts and Donahue
+
+The fact that the results did not replicate well for the Competence scales
+is, we believe, most likely because it was difficult to find role-specific
+criteria that were clearly related to competence. Nonetheless, we feel
+our findings are strong enough to warrant future research employing
+general self and role-specific scales that are somewhat longer and explicitly designed to measure standard, well-established dimensions such
+as the Big Five (John, 1990).
+We do not believe that our findings demonstrating the utility of measuring attributes specific to certain roles imply that psychologists should
+stop using global general assessments of self-concept. On the contrary,
+when a researcher's primary goal is broad coverage of the personality
+domain, and when hypotheses entail global rather than context-specific
+predictions, global measures are clearly appropriate. On the other hand,
+when researchers are interested in role-specific outcomes, they may
+want to sacrifice breadth for fidelity by using role-specific self-concept
+measures.
+CONCLUSION
+
+Identity theorists have shown that social roles are important determinants of the stmcture and content of a person's identity or self-concept.
+Personality psychologists have shown that self-conceptions are quite
+consistent over time and across situations and social roles. William
+James recognized both perspectives, suggesting that they are not incompatible. The present study was an explicit, empirical comparison
+of the multiple selves and dispositional perspectives, showing that the
+two perspectives are not mutually exclusive. Rather, both perspectives
+are valid, and together they provide a more complete understanding of
+personality.
+REFERENCES
+Block, J. (1961). Ego-identity, role variability, and adjustment. Journal cf Consulting
+and Clinical Psychology, 25, 392-397.
+Block, J. (1971). Lives through time. Berkeley: Bancroft Books.
+Block, J. (1981). Some enduring and consequential stmctures of personality. In A. I.
+Rabin (Ed.), Further explorations in personaUty (pp. 27-43). New York: Wiley.
+Burke, P. J., & TuUy, J. C. (1977). The measurement of role-identity. Social Forces,
+SS, 881-897.
+Cantor, M. H. (1983). Strain among caregivers: A study of experience in the United
+States. Gerontologist, 23, 597-604.
+
+Personality and Social Roles
+
+217
+
+Conley, J. J. (1984). Longitudinal consistency of adult personality: Self-reported
+psyctioibgicai" cjiaractfenstics across 4^" years, journal' qf''l^rsonatliy ana'Social'
+Psychology, 47,1325-1333.
+Cronbach, L. J., & Glesser, G. C. (1957). Psychological tests and personnel decisions.
+Urbana: University of Illinois.
+Funder, D. C , & Colvin, C. (1991). Explorations in behavioral consistency: Effects
+of persons, situations, and behaviors. Joumal of Personality and Social Psychology,
+60, 773-794.
+Haley, W. E., Levine, E. G., Brown, L., Berry, J. W., & Hughes, G. H. (1987).
+Psychological, social, and health consequences of caring for a relative with senile
+dementia. Journal of the American Geriatrics Society, 35, 405-411.
+Hampson, S. E., John, O. P., & Goldberg, L. R. (1986). Category breadth and
+hierarchical structure in personality: Studies of asymmetries in judgments of trait
+implications. Joumal of PersonaUty and Social Psychology, 51, 37-54.
+Helson, R. (1967). Personality characteristics and developmental history of creative
+women. Gertetic Psychology Monographs, 76, 205-256.
+Helson, R., & Roberts, B. W. (1992). Personality of young-adult couples and wives'
+work pattems. Journal cf Personality, 60, 575-597.
+Helson, R., & Moane, G. (1987). Personality change in women from college to midlife.
+Joumal cf PersonaUty and Social Psychology, 53, 176-186.
+Helson, R., & Wink, P. (1987). Two conceptions of maturity examined in the findings
+of a longitudinal study. Journal of Personality and Social Psychology, 53, 531-541.
+Helson, R., & Wink, P. (1992). Personality change in women from early 40s to early
+50s. Psychology and Aging, 7, 46-55.
+Hoelter, J. W. (1983). The effects of role evaluation and commitment on identity
+salience. Social Psychology Quarterly, 46,140-147.
+James, W. (1950). The principles of psychology. New York: Dover. (Original work
+published 1890)
+John, O. P. (1990). The "Big Five" factor taxonomy: Dimensions of personality in
+the natural language and in questionnaires. In L. A. Pervin (Ed.), Handbook cf
+personaUty theory and research (pp. 66-100). New York: Guilford.
+Linville, P. W. (1987). Self-complexity as a cognitive buffer against stress-related illness
+and depression. Journal of PersonaUty and Social Psychology, 52, 663-676.
+Markus, H., & Cross, S. (1990). The interpersonal self. In L. A. Pervin (Ed.), Handbook ofpersonaUty theory and research (pp. 576-608). New York: Guilford.
+McCrae, R. R., & Costa, P. T., Jr. (1984). Personality is transcontextual: A reply to
+Veroff. Personality and Social Psychology Bulletin, 10, 175-179.
+McCrae, R. R., Costa, P. T., Jr., & Arenberg, D. (1980). Constancy of adult personality structure in males: Longitudinal, cross-sectional and times-of-measurement
+analyses. Journal of Gerontology, 35, 877-883.
+Miller, J., Schooler, C., Kohn, M. L., & Miller, K. A. (1979). Women and work: The
+psychological effects of occupational conditions. American Journal of Sociology,
+85, 66-94.
+Ozer, D. J. (1986). Consistency in personaUty: A methodological framework. Berlin:
+Springer-Verlag.
+Rosenberg, S., & Gara, M. A. (1985). The multiplicity of personal identity. In P. Shaver
+
+218
+
+Roberts and Donahue
+
+(Ed.), Review of personality and social psychology (Vol. 6, pp. 87-113). Beverly
+Hills: Sage.
+Serpe, R. T. (1987). Stability and change in self: A structural symbolic interactionist
+explanation. Social Psychological Quarterly, 50, 44-55.
+Stryker, S. (1987). The vitalization of symbolic interactionism. Social Psychology
+Quarterly, 50, 83-94.
+Stryker, S., & Serpe, R. (1982). Commitment, identity salience, and role behavior:
+Theory and research example. In W. Ickes & E. Knowles (Eds.), PersonaUty, roles.
+and social behavior (pp. 119-218). New York: Springer-Verlag.
+Stryker, S., & Statham, A. (1985). Symbolic interaction and role theory. In G. Lindzey
+& E. Aronson (Eds.), Handbook of social psychology (Vol. 1, pp. 311-378). New
+York: Random House.
+Manuscript received July 30. 1992; revised Jantmry 11. 1993.
+
+

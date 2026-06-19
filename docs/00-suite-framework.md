@@ -103,7 +103,7 @@ Each axis has 2 theory-grounded facets (8 items each). Facets named below; full 
 |---|---|---|---|---|---|---|
 | 1 | Solstice | SCA | Affect | Solar Height: baseline arousal, stimulation appetite | Tidal Direction: social approach, agency | Summer, Autumn, Winter, Spring |
 | 2 | Turing | MMA | Cognition | Processing Mode: deliberation preference, override tendency | Encoding Structure: entry point, working scale | Algorithm, Cipher, Gestalt, Architecture |
-| 3 | Pride | SSA | Identity | Identity Plurality: self-concept integration, contextual variation | Identity Expression: visibility preference, disclosure selectivity | Beacon, Ember, Prism, Aurora |
+| 3 | Pride | SSA | Identity | Identity Clarity: self-knowledge, self-consistency | Self-Alignment: authentic living, genuine relating | Beacon, Prism, Ember, Aurora |
 | 4 | Passage of Time | TOA | Time | Temporal Orientation: past valence, future salience | Temporal Mode: scheduling preference, flow tolerance | Archivist, Navigator, Storyteller, Pioneer |
 
 Status. Tests 1 and 2 are expanded to 32 items with the facet structure below (v0.9). Tests 3 and 4 are designed at 32 items from the start.
@@ -113,31 +113,31 @@ Facet note. Test 1 Axis B facets are "social approach" (DeYoung Enthusiasm aspec
 
 ---
 
-## 5. Test 3 proposal: Spectrum of Self Assessment (SSA)
+## 5. Test 3: Spectrum of Self Assessment (SSA)
 
-**Domain.** Identity and self-expression. The personality side of Pride, not sexual orientation or gender as variables.
+> Status: v0.1 design document. See `03-spectrum-of-self-assessment.md` for the full framework. Summary below.
 
-**Why Pride fits.** Pride celebrates the plurality and authenticity of identity. A spectrum is structurally correct: people vary on how their self is organized and how it is shown, and every position is valid. The test measures those variations as personality, themed through Pride's celebration of difference.
+**Domain.** Identity, self-concept, self-expression. The personality side of Pride, not sexual orientation or gender as variables.
 
-**Axis 1, Identity Plurality.** Singular and integrated versus plural and multi-faceted.
-- Construct basis: the construct anchor will be selected and verified when Test 3 is built, following the evidence standard applied to Tests 1 and 2.
-- Singular pole: one coherent core self across contexts.
-- Plural pole: many facets, different selves in different rooms, all real.
-- Neither pole is superior. Plural is reframed as complexity and range, never fragmentation.
+**Why Pride fits.** Pride celebrates the courage to know yourself and show who you really are. The SSA measures two dimensions of this: how clearly you know yourself (Identity Clarity) and how authentically you express that self in the world (Self-Alignment). Every position is valid.
 
-**Axis 2, Identity Expression.** Reserved and private versus expressive and visible.
-- Construct basis: self-monitoring (Snyder 1974). Authentic living and self-disclosure (Wood et al. 2008 Authenticity Scale).
-- Reserved pole: identity held close, shown selectively or privately.
-- Expressive pole: identity made visible, disclosed, worn openly.
-- Neither pole is superior. Reserved is reframed as discernment and protection, never hiding or shame.
+**Axis A, Identity Clarity.** Clear and confident self-knowledge versus diffuse and uncertain self-beliefs.
+- Construct basis: Campbell et al. (1996) Self-Concept Clarity Scale. Low SCC is independently associated with high Neuroticism, low Conscientiousness, chronic self-analysis.
+- Facets: A1 Self-Knowledge, A2 Self-Consistency. Both draw from the unidimensional SCC; the split is a designer choice (see §2.5 of the design doc).
 
-**Four results (draft, light/spectrum imagery).**
-- Singular + Expressive: **The Beacon.** One clear identity, brightly shown.
-- Singular + Reserved: **The Ember.** One strong core, glowing within.
-- Plural + Expressive: **The Prism.** Many facets, all in the light.
-- Plural + Reserved: **The Aurora.** Many facets, shifting, partially seen.
+**Axis B, Self-Alignment.** Self-aligned (behavior matches values and true self) versus other-oriented (behavior adjusts to social expectations).
+- Construct basis: Kernis & Goldman (2006) multicomponent authenticity. Corroborated by Snyder (1974) self-monitoring and Wood et al. (2008) Authenticity Scale.
+- Facets: B1 Authentic Living, B2 Genuine Relating. Pairing derived from Kernis & Goldman's four components.
 
-**Open decision.** Identity Plurality × Identity Expression, or an alternative (Marcia 1966 identity statuses, or the interpersonal circumplex of agency and communion). See §8.
+**Four results (light/visibility imagery).**
+- Clear + Self-Aligned: **The Beacon.** You know yourself and you show yourself.
+- Clear + Other-Oriented: **The Prism.** You know yourself but adjust your presentation.
+- Diffuse + Self-Aligned: **The Ember.** You don't fully know yourself, but what you show is genuine.
+- Diffuse + Other-Oriented: **The Aurora.** Your self shifts with context, and your presentation shifts with it.
+
+**Boundary condition:** The Reflection Point. Named for the self-reflection needed to develop a clear identity.
+
+**Sources rejected after full-text review.** Showers (1992) compartmentalization and Linville (1987) self-complexity — both use card-sorting tasks incompatible with self-report Likert format. Tracy & Robins (2007) authentic vs. hubristic pride — valuable for profile texture but measures pride emotion, not identity structure.
 
 ---
 

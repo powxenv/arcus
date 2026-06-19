@@ -1,0 +1,2005 @@
+Journal of Personality and Social Psychology
+1996, Vol. 70, No. 1, 141-156
+
+Copyright 1996 by the American Psychological Association, Inc.
+0022-3514/96/$3.00
+
+Self-Concept Clarity:
+Measurement, Personality Correlates, and Cultural Boundaries
+Jennifer D. Campbell, Paul D. Trapnell, Steven J. Heine, liana M. Katz,
+Loraine F. Lavallee, and Darrin R. Lehman
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+University of British Columbia
+Self-concept clarity (SCC) references a structural aspect of the self-concept: the extent to which selfbeliefs are clearly and confidently denned, internally consistent, and stable. This article reports the
+SCC Scale and examines (a) its correlations with self-esteem (SE), the Big Five dimensions, and
+self-focused attention {Study 1); (b) its criterion validity (Study 2); and (c) its cultural boundaries
+(Study 3). Low SCC was independently associated with high Neuroticism, low SE, low Conscientiousness, low Agreeableness, chronic self-analysis, low internal state awareness, and a ruminative
+form of self-focused attention. The SCC Scale predicted unique variance in 2 external criteria: the
+stability and consistency of self-descriptions. Consistent with theory on Eastern and Western selfconstruals, Japanese participants exhibited lower levels of SCC and lower correlations between SCC
+and SE than did Canadian participants.
+
+Within the last couple of decades, psychologists1 view of the
+self-concept has undergone a dramatic transformation (Markus
+& Wurf, 1987). Early researchers treated the self-concept as a
+unitary, monolithic entity—a stable, generalized view of the
+self—and typically focused their research efforts on a single aspect of the self-concept, self-esteem. Contemporary researchers, in contrast, rely on a multifaceted, dynamic construal in
+which the self-concept is defined as a cognitive schema—an organized knowledge structure that contains traits, values, episodic and semantic memories about the self and controls the
+processing of self-relevant information (e.g., Greenwald & Pratkanis, 1984; Kihlstrom&Cantor, L984;Kihlstrometal., 1988;
+Markus, 1977).
+The current conceptualization allows a distinction between the
+contents of the self-concept and its structure. The contents can
+be usefully subdivided into knowledge components—Who/What
+am I?—and evaluative components—How do I feel about myself?
+Examples of knowledge components include beliefs about one's
+specific attributes (e.g., traits, physical characteristics), as well as
+roles, values, and personal goals. Evaluative components include
+the positivity of specific self-beliefs and self-esteem, a global selfevaluation that is the product of viewing "the self" as an attitude
+object. Structural characteristics of the self-concept refer to how
+the knowledge components or specific self-beliefs are organized.
+For example, Linville (1985, 1987) coined the term self-complex-
+
+Jennifer D. Campbell, Paul D. Trapnell, Steven J. Heine, liana M.
+Katz, Loraine F. Lavallee, and Darrin R. Lehman, Department of Psychology, University of British Columbia, Vancouver, British Columbia;
+Canada.
+This research was funded by a grant from the Social Science and Humanities Research Council.
+Correspondence concerning this article should be addressed to Jennifer D. Campbell, Department of Psychology, University of British
+Columbia, 2136 West Mall, Vancouver, British Columbia, Canada
+V6T1Z4.
+
+ity to represent the number of different or independent dimensions
+that underlie the organization. Donahue and her associates
+(Donahue, Robins, Roberts, & John, 1993) have focused on a
+different aspect of complexity: the extent to which these dimensions are integrated. Another structural variable can be found in
+Showers's (1992) work on compartmentalization, the extent to
+which positive and negative self-beliefs reside in different
+dimensions.
+The present article is concerned with another structural aspect
+of the self-concept, namely, self-concept clarity (SCC; Campbell,
+1990; Campbell & Lavallee, 1993). SCC is defined as the extent to
+which the contents of an individual's self-concept (e.g., perceived
+personal attributes) are clearly and confidently defined, internally
+consistent, and temporally stable. A couple of points may serve to
+bring the clarity construct into sharper focus.
+First, clarity overlaps with a number of other, more traditional constructs. One construct with obvious overlap is that of
+identity (achievement, status, integration, etc.). Identity, however, has a much richer and more complex set of elements than
+clarity (e.g., Adler, 1959; Allport, 1961; Baumeister, 1986; Erikson, 1959; Marcia, 1980), characteristics that render the
+identity construct rather difficult to assess empirically. The literature also contains a plethora of overlapping constructs that
+have a narrower focus than clarity. For example, Rosenberg's
+(1965) notion of self-concept stability focuses on the temporal
+stability of self-beliefs, whereas the constructs of role variability
+(Block, 1961a) and self-consistency (Gergen & Morse, 1967)
+address the internal consistency of self-beliefs. In addition, the
+Hogan Personality Inventory Identity scale (Hogan, 1986) and
+the Identity Integration scale (O'Brien & Epstein, 1988) focus
+on generalized certainty about the self, combined with manifestations of certainty such as decisiveness and well-defined longterm goals.
+Second, clarity is a characteristic of people's beliefs about
+themselves (i.e., their self-concepts). It is mute with respect to
+the accuracy of those beliefs and therefore does not necessarily
+
+141
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+142
+
+CAMPBELL ET AL.
+
+imply self-knowledge in the sense of insight or awareness of
+one's behavioral potentials (Wicklund & Eckert, 1992). A person could hold highly articulated self-beliefs that one might argue, on the basis of behavior, are inaccurate.
+Clarity and the other aforementioned structural variables
+(e.g., self-complexity) are theoretically independent of the
+contents of the self-concept. That is, any particular set of selfbeliefs could, in principle, be organized with varying degrees of
+complexity or be held with different levels of confidence and
+stability. Campbell (1990; Campbell & Fehr, 1990; Campbell,
+Chew, & Scratchley, 1991; see also Baumgardner, 1990), has
+demonstrated, however, a connection between clarity and global
+self-esteem, an evaluative component of the contents. Although
+high-self-esteem people have positive, well-articulated beliefs
+about the self, the prototypic low-self-esteem person does not,
+in contrast, have a well-defined negative view of the self. The
+self-concepts of low-self-esteem people are better described as
+evaluatively neutral and, more important, are characterized by
+relatively high levels of uncertainty, instability, and inconsistency (i.e., low clarity).
+The demonstration of the self-esteem-clarity relation has
+proven to be theoretically useful in understanding many of the
+contradictory, puzzling, and paradoxicalfindingsin the self-esteem literature. Although lack of space precludes a review here,
+a number of self-esteem phenomena (e.g., low self-esteem plasticity, Brockner, 1984) that are not easily understood by referencing differences in the positivity of self-beliefs are cogently
+and parsimoniously explained by the fact that high- and lowself-esteem people differ in the clarity or certainty of their selfbeliefs (e.g., Baumeister, 1993; Blaine&Crocker, 1993;Campbell & Lavallee, 1993; Setterlund & Neidenthal, 1993; Tice,
+1993).
+The validity of these explanations, however, hinges on the assumption that clarity, like self-esteem, can be conceptualized as
+a relatively stable trait. Although plausible, this assumption is
+currently unsupported. The empirical research examining the
+self-esteem-clarity relation has generally pretested participants
+on standard self-report scales of self-esteem and subsequently
+tested them on a number of unobtrusive measures of clarity
+(e.g., the extremity, internal consistency, and temporal stability
+of their self-descriptions); the evidence for the relation lies in
+the convergent associations that have emerged across studies
+and measures (Campbell & Lavallee, 1993).
+Research Aims
+One goal of the present article was to ascertain if self-concept
+clarity is a relatively stable individual difference or trait and,
+more specifically, if it is one that can be reliably captured in
+self-reports. That is, would individuals whose self-perceptions
+lacked Parity be sufficiently aware of their status to report it,
+and would these self-reports remain stable over time? A further
+aim, given the established empirical connection between clarity
+and self-esteem, was to determine if trait measures of clarity
+and self-esteem could be reliably differentiated from one another in self-reports.
+Thisfirstgoal does not in any way deny the validity or utility
+of conceptualizing clarity, self-esteem, or any other component
+of the self-concept as a state (e.g., the dynamic or working self-
+
+concept Markus & Wurf, 1987; identity images, Schlenker,
+1985). In Conley's (1984) terms, self-concept clarity is a "selfopinion"—a type of individual difference that is useful to assess
+both as a state and as a trait because, although it is susceptible
+to environmental influences, it also exhibits high levels of temporal stability (Conley argued that, with time lags longer than
+10 years, self-opinions are less stable than intelligence and personality traits). This dual nature of individual differences in
+self-opinion is, in fact, highlighted in the postulated interplay
+among clarity, temporary levels of self-esteem, and the working
+self-concept in theoretical accounts of the self-esteem literature
+(eg., Campbell & Lavallee, 1993).
+A second goal was to explore the nomological network of the
+clarity construct by examining its relations with other personality dispositions. The other traits we examined were based on
+the Big Five model of personality, which is currently the model
+of choice for measurement of normal-range trait dimensions,
+owing to its demonstrated comprehensiveness (Briggs, 1992;
+Goldberg, 1990,1993; Wiggins & Trapnell, in press). We anticipated that clarity would be related to Neuroticism, Conscientiousness, and Extraversion (to avoid redundancy, we postpone
+describing the theoretical rationale for these relations until the
+General Discussion) and that empirically demonstrating these
+relations might yield benefits comparable to those that have
+emerged in the self-esteem literature.
+A third, related goal was to examine the relation between clarity
+and chronic attention to the self (i.e., self-consciousness). It has
+been argued that higher levels of self-attention should result in a
+more clearly articulated self-schema (e.g., Buss, 1980). A number
+of studies have supported this proposition (e.g., Kernis & Grannemann, 1988; Nasby, 1985, 1989; Scheiei; Buss, & Buss, 1978)
+and, consistent with this generally positive view of self-attention,
+there are also studies showing that self-consciousness may buffer
+the adverse effects of stressful life events (e.g., Mullen & Suls,
+1982; Suls& Fletcher, 1985;cf.Frone&McFarlin, 1989).Amore
+negative view of self-attention, however, is suggested by the close
+associations among self-focus, negative affective states, and psychopathology. In his review, Ingram (1990) found elevated levels
+of self-focus to be such a universal feature of psychopathological
+states and disorders that he concluded "the apparent ubiquitousness of this process in disorder makes it difficult tofindanything
+dysfunctional that is not accompanied by increased self-focused
+attention" (p. 156). Other research suggests that negative mood is
+associated with, and may in fact cause, increases in self-focused
+attention (Wood, Saltzberg, & Goldsamt, 1990; cf. Salovey, 1992).
+These two lines of evidence imply a "self-absorption paradox"
+with respect to psychological adjustment: Despite their higher levels of psychological distress and pathology, self-focused individuals
+possess a clearer better articulated self-structure than do less selffocused individuals. Although this pattern is consistent with the
+"sadder but wiser" phenomenon noted in the literature (Alloy &
+Abramson, 1988), it stands in direct contradiction to the positive
+clarity-self-esteem relation (Campbell, 1990), as well as to research showing that people high in self-consciousness are more
+susceptible to external cues and feedback (Hull, Van Treuren,
+Ashford, Propsom, & Andrus, 1988).
+In an effort to shed some light on these contradictory findings,
+we examined clarity's relations with a number of scales that
+measure dispositional self-focused attention. The most widely
+
+143
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+SELF-CONCEPT CLARITY
+
+used taxonomy of disposition a I self-consciousness (Buss, 1980)
+is operationalized by the Public and Private Self-Consciousness
+Scales (Fenigstein, Scheier, & Buss, 1975). The Public scale taps
+attentiveness to or awareness of one's external self (the self as a
+social object), whereas the Private scale taps attentiveness to or
+awareness of one's inner thoughts, feelings, and attitudes. The
+unidimensionality of the Private scale, however, has been questioned by studies (Bumkrant & Page, 1984; Gould, 1986; Lennox & Welch, 1987; Mittal & Balsubramanian, 1987; Piliavin
+& Charag, 1988) showing two distinct factors (but see Britt,
+1992; Bernstein, Teng, & Garbin, 1986, for arguments against
+splitting the Private scale into two factors), factors usually referred to as Self-Reflectiveness (PRIV-SR) and Internal State
+Awareness (PRIV-ISA). PRIV-SR consists of six items, including "I'm always trying tofiguremyself out" and "I reflect about
+myself a lot." PRIV-ISA consists of four items, including "I'm
+aware of the way my mind works when I work through a problem" and "I'm alert to changes in my mood." We examined
+clarity's relation with the two factors separately (in addition to
+the total scale) because, although low clarity could plausibly
+lead individuals to engage in frequent self-analysis (to try to
+"figure themselves out"), it could also be associated with a perceived lack of awareness of one's internal states, moods, and
+feelings.
+We also used a second taxonomy of dispositional self-attentiveness recently proposed by Trapnell and Campbell (1995).
+This model distinguishes two motivational states presumed to
+direct attention toward the self: curiosity and anxiety. The Reflection-Rumination Questionnaire (RRQ) was developed to
+measure individual differences in these two motivationally distinct varieties of self-consciousness. The Reflection scale measures a voluntary, emotionally positive form of self-focus associated with epistemic interest in the self (e.g., "I love exploring
+my 'inner* self"). The Rumination scale measures an involuntary, emotionally negative form of self-focus associated with
+threat or uncertainty ("Sometimes it is hard for me to shut off
+thoughts about myself"). Scale development and validation is
+reported elsewhere (Trapnell & Campbell, 1995), but we note
+here that Reflection and Rumination (a) are relatively independent forms of self-consciousness (r < .25), (b) correlate equally
+highly with the PRIV-SR subscale (rs > .50), (c) correlate in
+opposite directions with the PRIV-ISA subscale, and (d) are associated with different Big Five dimensions—Reflection is related to Openness (r > .60), and Rumination is related to Neuroticism(/-> .60).
+A final research goal was to explore cultural boundaries of
+the SCC construct. Markus and Kitayama (1991) argued that
+people from Western and Eastern cultures have strikingly
+different construals of the self. The Western (or independent)
+construal views the self as an independent, self-contained, autonomous entity. The self has a unique and stable configuration
+of internal attributes that governs the individual's behavior
+across situations. The Eastern (or interdependent) construal
+views the self as an interconnected entity that is most meaningful when cast within an interpersonal context. Internal attributes are seen as situation specific and, to the extent that there
+is a recognition of invariant attributes, they tend not to be
+viewed as diagnostic of the self but as aspects to be controlled or
+regulated to achieve harmony with others.
+
+SCC is a construct that appears closely aligned with the Western construal of the self—the independent, but not the interdependent, self should possess a clearly denned, consistent set of
+internal attributes that remain stable across situations. To investigate this possibility, we measured clarity and self-esteem in
+Canadian and Japanese samples with the expectations that (a)
+Canadians would exhibit higher average levels of clarity, and
+(b) because clarity captures characteristics that are normatively
+prescribed only in Western cultures, a more pronounced association between clarity and self-esteem would be found among
+Canadians.
+Overview of the Research
+In Study 1 we report the development of the SCC Scale and
+examine its associations with self-esteem, the Big Five personality dimensions, and different forms of self-focused attention.
+Assessing the convergent, divergent, and construct validity of a
+scale consists of demonstrating that the pattern of correlations
+with measures of other constructs conforms to (a) the definition
+or conceptual specification of the construct and (b) theoretical
+propositions regarding psychological antecedents and consequences of the construct (Wiggins, 1973). Therefore, this study
+expands the nomological network of the clarity construct but
+also serves to establish the SCC Scale's validity to the extent
+that the pattern of correlations adheres to theoretical expectations. A second aspect of validity is external or criterion validity,
+the extent to which test scores relate to nontest manifestations
+of the construct in a theoretically consistent manner (Wiggins,
+1973). We examined the SCC Scale's external validity in Study
+2, in which we used SCC scores to predict the internal consistency and temporal stability of self-descriptions. In Study 3 we
+explored cultural boundaries of the clarity construct by contrasting SCC scores and the SCC-self-esteem correlation in Canadian and Japanese samples.
+Study 1
+
+Method
+Participants
+Three samples of undergraduates enrolled in introductory psychology classes at the University of British Columbia completed a battery of
+personality instruments. In Study la we tested 471 participants whose
+ages ranged from 17 to 44 (M = 19.11, SD = 2.51). Of those who indicated their sex, 167 were male and 295 were female. Study 1b included
+608 participants, whose ages ranged from 17 to 42 (M = 19.37, 5 0 =
+2,55); 262 were male and 328 were female. In Study 1c there were 465
+participants, whose ages ranged from 17to48(M= 19.61,52)= 3.15);
+138 were male and 312 were female. All participants received extra
+course credit for participation.
+
+Measures
+Studies 1 a-1 c were conducted in each of 3 consecutive years. Because
+they differed in the content of the test batteries administered, we note
+below which studies contained each measure. Unless otherwise noted,
+participants responded to all scale items on 5-point Likert scales anchored by strongly disagree (1) and strongly agree (5).
+SCC. The Study la battery contained an initial pool of 40 items
+designed to measure clarity. Some of the items assessed the perceived
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+144
+
+CAMPBELL ET AL.
+
+tors (e.g., Burakrant & Page, 1984): The Public scale was unidimencertainty, temporal stability, and internal consistency of self-beliefs,
+sional, but the Private scale divided into the two expected factors: PRIVwhereas others tapped fairly direct ramifications of SCC, such as deciSR (6 items) and PRIV-ISA (4 items). We derived PRIV-SR and PRIVsiveness and clearly articulated goals. The initial 40-item pool was genISA subscores by summing responses to the 6 and 4 items, respectively.
+erated both by culling (and sometimes revising) items from published
+In Studies lband Ic, participants also completed the RRQ(TrapnelI&
+scales measuring related constructs (e.g., Rosenberg's [ 1965 ] Self-ConCampbell, 1995).
+cept Stability Scale) and by constructing new items. The test batteries
+Other measures. We administered the Marlowe-Crowne Social Deadministered in Studies lb and Ic contained a 20-item subset of the
+sirability Scale (MC; Crowne & Marlowe, 1960), 25 true-false items,
+original item pool.
+in Studies la and Ic to evaluate the extent to whichresponsesto the
+Self-esteem. We included two measures of self-esteem in Study la:
+SCC Scale were associated with socially desirable response tendencies.
+the Rosenberg (1965) Self-Esteem Scale, which taps generalized, global
+In Study 1 a, participants also rated themselves on 16 adjectives, each
+feelings of self-worth, and the Texas Social Behavior Inventory (TSBI;
+representing a label for 1 of the 16 sectors of Wiggins's (1979) circumHelmreich, Stapp, & Ervin, 1974), which focuses on social self-esteem
+plex model of interpersonal traits. We used these pretest ratings in Study
+or perceived social competence. Studies lb and 1c included only the
+2, in which we examined the temporal stability of participants' selfRosenberg scale.
+descriptions.
+Big Five measures. In Studies lb and Ic we measured the Big Five
+personality factors with the NEO-FFI (Costa & McCrae, 1989), a 60item short form version of the NEO Personality Inventory (Costa &
+Results
+McCrae, 1985). Reliability and validity evidence for the FFI is impressive, with thefive12-item FFI scales accounting for approximately 75%
+We focus first on the data relevant to the development and
+of the variance in convergent criteria of the full NEO-PI (Costa &
+reliability of the SCC Scale. Then we examine the correlations
+McCrae, 1989).
+between the SCC Scale and measures of the other constructs.
+The Positive and Negative Affect Schedule (PANAS; Watson, Clark,
+Finally, we report regression analyses, which provide a portrait
+&Tellegen, 1988)consistsof20adjectives, 10 that measure the disposiof the independent personality concomitants of clarity.
+tional mood dimension of negative affectivity (NA; e.g., nervous, hostile, ashamed), and 10 that measure positive affectivity (PA; e.g., proud,
+SCC Scale
+enthusiastic, inspired). Watson and Tellegen (1985) identified NA and
+PA as the most superordinate dimensions of emotional experience.
+From the initial pool, we selected 20 items on the basis of
+Strong relations between NA and Neuroticism and between PA and Exinternal
+consistency and lack of item redundancy. This original
+traversion (Meyer & Shack, 1989; Watson & Clark, 1992) have led some
+20-item scale (reported in Campbell, Katz, Lavallee, & Traptheorists to propose that Neuroticism and Extraversion be relabeled
+Negative Emotionality and Positive Emotionality (Tellegen, 1985; Tel- nell, 1991) contained three highly intercorrelated factors
+(average r = .52) reflecting generalized clarity, goal-directlegen & Waller, in press).
+edness, and decisiveness. We subsequently decided that a
+Scales measuring selected aspects of neuroticism also were adminisshorter, unidimensional scale focusing specifically on the epistered. We included the Taylor Manifest Anxiety Scale (TMAS; Taylor,
+temological status of the self-concept was preferable on both
+1953) in Studies laand Ic, the Beck Depression Inventory (BDI; Beck,
+1967) in Studies lband Ic, and a short version of the Repression-Sentheoretical and practical grounds. Our reasoning was that alsitization Scale (R-S: Byrne, 1961) in Study Ic. The TMAS is a truethough decisiveness and goal directedness are certainly logical
+false questionnaire consisting of 50 items from the Minnesota
+manifestations of clarity, both represent broad constructs of
+Multiphasic Personality Inventory (MMPI; Hathaway & McKinley,
+their own and share many features with a large number of other
+1951) selected on the basis of face validity to measure manifest trait
+important trait constructs (e.g., dominance, conscientiousness,
+anxiety. The scale is alternatively considered one of the best available
+vocational identity). Because inclusion of such items might unmarkers of NA or neuroticism (Watson & Clark, 1984). We used a 20necessarily complicate interpretations of the SCC Scale and its
+item short form version of the TMAS developed by Bendig (1956) in
+associations, we opted to keep the item set brief and as concepStudy Ic instead of the original 50-item scale. The BD1 is a 21-item
+tually univocal as possible. We therefore retained only those 12
+measure of depression that has been widely used with college populaitems that loaded on thefirstfactor. The retained items tap pertions (e.g., Alloy & Abramson, 1982). The R-S Scale consists of truefalse MMPI items selected on the basis of face validity to operationalize
+ceived internal consistency and temporal stability of self-beliefs,
+the trait of repression-sensitization, the tendency to cognitively avoid
+along with more generic self-certainty items.1 Table I shows the
+versus approach threatening perceptions, thoughts, and feelings (Bell &
+12 items selected for the final scale, along with the average factor
+Byrne, 1978; Gordon, 1957). We used a 43-item short form version
+loadings (principal-components analysis) and the average corconstructed by Paulhus and Levitt (1983), who reported alpha reliabilrected item-total correlations. Table 2 shows the scale statistics
+ities and a factor structure based on the combined-sex sample closely
+for each of the three separate samples.
+resembling that reported for the original R-S scale.
+Internal consistency. The average alpha reliability coeffiFinally, the Study Ic battery included an 18-item short form version
+cient was. 86 (Table 2). The combined-sample corrected itemof the Need for Cognition Scale (NCOG; Cacioppo, Petty, & Kao,
+total correlations ranged from .35 to .66, with an average item1984), which measures the tendency to engage in and enjoy thinking
+total correlation of .54 (Table 1). An examination of the com(Cacioppo & Petty, 1982), a construct that overlaps with the Big Five
+Openness dimension. The 18-item short form, constructed from factor
+and psychometric analyses of the original scale, may be a less problem1
+atic measure of the construct than the longer version, which has been
+Item 12 contains both decisiveness and goal-directedness content,
+criticized for its multidimensionality.
+but we retained it because it loaded most heavily on thefirstfactor. For
+Self-consciousness. We administered the Self-Consciousness Scale
+investigators who have used the original 20-item scale, the correlations
+(Fenigsteinetal., 1975) in all three studies. Factor analyses in our own
+reported in Studies 1 and 2 are highly similar to those obtained with the
+earlier version of the scale.
+samples consistently replicated the results reported by other investiga-
+
+145
+
+SELF-CONCEPT CLARITY
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Table 1
+Structural Coefficients and Descriptive Statistics for Self-Concept Clarity Scale Items
+Item
+
+PCI
+
+1. My beliefs about myself often conflict with one another.1
+2. On one day I might have one opinion of myself and on another day I might have a different opinion.*
+3. I spend a lot of time wondering about what kind of person I really am."
+4. Sometimes I feel that I am not really the person that I appear to be.*
+5. When I think about the kind of person I have been in the past, I'm not sure what I was really like."
+6. 1 seldom experience conflict between the different aspects of my personality.
+7. Sometimes 1 think I know other people better than I know myself."
+8. My beliefs about myself seem to change very frequently.8
+9. If I were asked to describe my personality, my description might end up being different from one day
+to another day.*
+10. Even if I wanted to, I don't think I would tell someone what I'm really like."
+11. In general, I have a clear sense of who I am and what I am.
+12. It is often hard for me to make up my mind about things because 1 don't really know what I want.*
+
+75
+68
+65
+70
+62
+43
+58
+76
+68
+49
+
+66
+56
+
+M
+
+SD
+
+.66
+.57
+.56
+.61
+.52
+.35
+.48
+.66
+
+3.57
+3.07
+3.07
+3.16
+3.55
+3.08
+3.39
+3.61
+
+0.97
+1.14
+1.20
+1.14
+1.04
+1.07
+1.17
+1.02
+
+.58
+.41
+.57
+.47
+
+3.58
+
+1.12
+1.18
+0.99
+1.21
+
+3.42
+3.61
+2.97
+
+Note. N = 1,544. Scale ranges from 1 (strongly disagree) to 5 (strongly agree). PC 1 = loading on first unrotated principal component; rjt - corrected
+item-total correlation.
+• Reverse-keyed item.
+
+bined-sample interitem correlation matrix revealed that all of
+the items were positively intercorrelated, with correlations
+ranging from .10 to .58, and a mean interitem correlation of .34
+(Table 2). The alphas, item-total correlations, and interitem
+correlations all indicate high levels of internal consistency, and
+there was very little variability in these statistics across the three
+samples.
+Evidence for a general factor. In addition to the reliability
+data, factor analyses of the 12 items yielded strong evidence of a
+single, general factor. Principal-components and maximum-likelihood factor analyses in each sample typically yielded only one
+factor with an eigenvalue greater than 1.0. Although some analyses did yield a second factor with eigenvalues of approximately
+1.0, the items that comprised this second factor replicated neither
+across samples nor across solutions. In each sample, every item
+loaded positively on thefirstunrotated factor, with a minimum
+item loading of .34, and the average correlation between these
+loadings in the three samples was .84. In the combined sample,
+all items had loadings greater than .45 (Table 1). A scree test also
+supported the unidimensionality of the scale. In the combined
+sample, thefirstfactor accounted for 41% of the total variance,
+with the second factor accounting for only 8%.
+Test-retest reliability. We readministered the scale to 155
+Study la participants after a 4-month interval and to 61 Study
+lc participants after a 5-month interval. Despite the relatively
+
+long intervals, the test-retest correlations of .79 and .70, respectively (Table 2), revealed high levels of temporal stability.
+Scale distributions. Table 2 shows the SCC Scale means,
+standard deviations, and information relevant to sex and age
+differences for each of the three samples. The overall scale mean
+decreased across the three samples, indicating that in the 3-year
+time period participants exhibited somewhat lower levels of
+clarity. Although these differences could reflect a form of scale
+unreliability (i.e., sensitivity to variations in the number or type
+of other scale items included in the test battery), there are reasons to doubt this interpretation. First, in Studies lb and lc we
+constructedfivedifferent forms of each test battery in which we
+systematically varied the location of the SCC items within the
+test battery. Analyses of variance indicated that SCC scores
+were invariant over thefiveforms of the batteries (both Fs < 1).
+Second, scores on the other scales also indicated that the three
+samples tended to exhibit generally higher levels of psychological distress across time. For example, self-esteem scores declined, and depression and neuroticism scores increased, over
+the 3-year period. Taken together, these data suggest that the
+decrease in SCC scores across studies may reflect an historical
+trend in our samples rather than scale unreliability.2
+2
+
+The decrease in SCC means over the 3-year period may reflect the
+steadily increasing proportion of Asian students at the University of
+
+Table 2
+Scale Statistics:Study 1
+N
+
+Total
+
+Males
+
+Interitem r
+
+Females
+
+Study'
+
+Total
+
+Fern
+
+M
+
+SD
+
+M
+
+SD
+
+M
+
+SD
+
+X
+
+Range
+
+Test-retest r
+
+a
+
+la
+lb
+lc
+
+464
+595
+456
+
+295
+328
+312
+
+42.12
+39.68
+38.86
+
+8.19
+8.16
+8.06
+
+42.93
+40.18
+40.24
+
+8.29
+7.71
+7.52
+
+41.67
+39.27
+38.25
+
+i3.11
+13.49
+i3.23
+
+.34
+.34
+.32
+
+.15-.57
+.10-. 58
+.10-. 56
+
+.79
+
+.86
+.86
+.85
+
+.70
+
+Note. The test-retest correlation in Study la is based on 155 participants and a 4-month interval. The test-retest correlation in Study lc is based
+on 61 participants and a 5-month interval. Fem = females.
+
+REF
+
+CAMPBELL ET AL.
+
+Table 2 also shows that women tended to exhibit lower levels
+of clarity than men. Although the sex difference was not reliable
+in Studies la or lb, it did reach conventional levels of significance in Study lc, F( I, 448) = 5.87, p < .02. This relatively
+small, but consistent, sex difference is congruent with prior research that generally reveals somewhat higher levels of neuroticism (Costa & McCrae, 1985), anxiety (Jackson, 1976), and
+NA(Woods, Rhodes, &Whelan, 1989) among women.
+Finally, SCC scores were weakly correlated with age in all
+three studies (rs = .08-. 12). Although the direction of these
+correlations is consistent with an expected developmental trend
+of higher levels of self-concept articulation or clarity with increasing age, the present samples do not contain adequate age
+variability to constitute a reasonable test of this trend.
+Social desirability. The SCC Scale was moderately correlated with the MC Scale administered in Studies la and lc; rs
+- .32 and .33, respectively. The extent to which correlations
+with the MC Scale reflect social desirability response bias or
+substantive personality trait variance in the MC Scale continues
+to be a contentious issue but one that is beyond the scope of
+the present investigation (see Paulhus, 1991). Nonetheless, the
+magnitude of the SCC-MC correlations is highly similar to
+those that we obtained between the MC Scale and a number of
+other measures, including self-esteem, Neuroticism, Conscientiousness, and Agreeableness.
+
+rr
+
+s
+
+g tt "c '5 ^
+
+O m
+
+PUB
+
+-.29
+-.24
+-.29
+
+ISA
+
+Sel!F-consc
+
+l" \
+
+O <N —
+
+Q " 5
+
+s
+
+— oo O
+
+g r rr
+i/-i
+
+r^
+
+-^f
+
+UJ £
+
+-.38
+-.20
+-.23
+
+PRV
+
+w G C
+C Q ra
+
+s
+
+.20
+
+U
+
+z
+
+a
+
+OS
+
+OH
+
+0
+
+u
+
+r
+
+Con
+
+o
+
+r^ ao
+
+I .i g g ^
+w
+
+I i W ~ -~
+
+S "^
+
+EXT
+
+S II rr rr ^ "S
+
+«§oo" 8
+cCJ
+UJZUJ
+< *
+S
+dZ
+cj ^^
+^* ^^W
+« S
+O
+
+w
+
+?? *
+
+-.49
+-.48
+-.62
+
+TAY
+
+Neur
+
+BDI
+
+-.63
+
+en
+
+UJ
+
+-.61
+
+a.
+
+(' (*
+
+Z
+
+™ O CT>
+
+ROS
+
+z
+
+TEX
+
+w
+
+Study
+
+British Columbia during this period, but we were unable to test this
+possibility because we did not collect information on ethnic background in Study 1 (see Study 3 for cultural differences in SCC).
+
+Agr
+
+Personality Correlates of SCC
+Table 3 contains the zero-order correlations between the SCC
+Scale and the other measures. To facilitate interpretation of
+these correlations, we grouped in Table 3 scales that are theoretically (and empirically) associated with a common underlying dimension. For example, we placed the NEO-FFI Neuroticism Scale, the NA Scale, the TMAS, the BD1, and the R-S
+Scale together under the common label of neuroticism (McCrae
+& Costa, L987; Watson & Clark, 1984). We also grouped the
+scales that focus on dispositional self-attention or selfconsciousness.
+Self-esteem, The SCC Scale was substantially correlated
+with the measures of self-esteem (average r - .61); people
+higher in clarity were higher in self-esteem. Because these correlations replicate the results of earlier studies that used unobtrusive measures of clarity (Baumgardner, 1990; Campbell,
+1990), they provide evidence for the SCC Scale's construct
+validity.
+Neuroticism. Our expectation that clarity would be substantially correlated with Neuroticism or NA also was confirmed. The SCC Scale exhibited strong negative correlations
+with the NA Scale (average r = -.50), the NEO-FFI Neuroticism Scale (average r = -.64), the TMAS (average r - -.61),
+the BDI (average r = -.49), and the R-S Scale {r = -.63).
+Other Big Five dimensions. The SCC Scale exhibited fairly
+substantial correlations with the NEO-FFI Conscientiousness
+scale, indicating that people higher in clarity were more consci-
+
+S& «
+
+C « c
+
+Table 3
+SCC Correlatesr; Study 1
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+146
+
+? «
+
+•I o I
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+SELF-CONCEPT CLARITY
+
+entious. The scale was also moderately associated with Extraversion (the correlations were somewhat more pronounced
+with the PA scale than with the NEO-FFI Extraversion scale)—
+people higher in clarity were more extraverted. In addition,
+there were moderate correlations with the NEO-FFI Agreeableness dimension such that high clarity was associated with
+higher levels of Agreeableness. Finally, the SCC Scale was uncorrelated with the NEO-FFI Openness to Experience scale
+(average r = -.01), but it was correlated with the NCOG Scale
+(r = .20), suggesting that people with more certain self-concepts
+may engage in or enjoy thinking more than their low-clarity
+counterparts.
+Self-consciousness. We distinguished between two subtypes
+of private self-consciousness: chronic self-analysis (PRIV-SR)
+and internal state awareness (PRIV-ISA) and between two motivationally distinct varieties of private self-consciousness: reflection and rumination. The PRIV-SR and PRIV-ISA subscales
+of the Private Self-Consciousness Scale were relatively independent of one another (average r = .26), as were the scores on
+the RRQ Reflection and Rumination scales (average r = .22).
+However, the Reflection and Rumination Scales were both
+highly correlated with the PRIV-SR subscale (average rs = .52
+and .51, respectively), suggesting that a tendency toward
+chronic self-analysis might be equally likely to reflect epistemic
+interest in the self or anxious preoccupation with the self.
+SCC had a moderate correlation with the total Private SelfConsciousness Scale (average r = .27). However, an inspection
+of the two Private subscales revealed that whereas SCC had a
+strong negative correlation with the Self-Reflection subscale
+(average r = -.43), it had a small positive correlation with the
+Internal State Awareness Subscale (average r = .15). This pattern suggests that individuals with more confused self-concepts
+have a greater tendency toward chronic self-analysis but may be
+somewhat less attuned to their internal states than people with
+more clearly articulated self-schemas.
+Relations with the RRQ yielded another divergence. Although SCC had a strong inverse correlation with the Rumination scale (average r = -.52), it was only weakly related to the
+Reflection scale (average r - -.12). These correlations further
+suggest that the high levels of self-analysis exhibited by people
+low in clarity are not particularly motivated by intellectual curiosity about themselves but take the form of affectively negative, intrusive self-relevant thoughts.
+Finally, the SCC Scale was moderately, negatively correlated
+with the Public Self-Consciousness Scale (average r = -.26),
+suggesting that people with more confused self-concepts may be
+more sensitive to or concerned about how their behaviors are
+viewed and evaluated by others.
+
+Regression Analyses
+Although the zero-order correlations provide some insight
+into the potential concomitants of self-concept clarity, some of
+the personality traits we measured are correlated with one another (e.g., self-esteem is substantially negatively correlated
+with neuroticism or NA; Watson & Clark, 1984). Therefore, it
+was theoretically important to ascertain the extent to which
+these traits exhibited associations with clarity that were independent of their associations with other traits. For example,
+
+147
+
+does clarity still appear to be an important concomitant of selfesteem after controlling for the fact that both clarity and selfesteem are negatively associated with Neuroticism?
+To address this issue in Studies lb and lc, we regressed SCC
+scores on the Rosenberg Self-Esteem Scale, the Big Five dimensions as assessed by the NEO-FFI scores, and thefivemeasures
+of self-consciousness (the Private Self-Consciousness Scale was
+not included because it is redundant with the Self-Reflection
+and Internal State Awareness subscales). Study la did not include the full complement of measures, but we undertook a
+somewhat comparable analysis with these data by regressing the
+Rosenberg Self-Esteem Scale, the TMAS (Neuroticism), the
+Positive Affectivity scale (Extraversion), and the three available
+self-consciousness scores (PRIV-SR, PRIV-ISA, and Public
+Self-Consciousness) on SCC scores.
+The regression analyses accounted for 56%, 56%, and 52% of
+the variance in SCC scores in Studies la-lc, respectively. The
+pattern of associations (the beta weights are shown in Table 4)
+was remarkably consistent across the three samples. Clarity was
+independently associated with higher levels of self-esteem, lower
+levels of Neuroticism or NA,3 lower levels of self-reflection or
+chronic self-analysis, and higher levels of internal state awareness in all three samples. It was also independently associated
+with lower levels of rumination, higher levels of Conscientiousness, and higher levels of Agreeableness in the two samples that
+included these measures. The beta weights associated with public self-consciousness, Openness to Experience, and self-focused attention motivated by intellectual curiosity (the RRQ
+Reflection scale) were consistently small and nonsignificant.
+The only trait that failed to show a consistent pattern across
+samples was Extraversion, which exhibited a nonsignificant
+positive beta weight in Study la, a near-zero beta weight in
+Study lb, and a significant negative beta weight in Study lc.4
+Although we treated SCC scores as the criterion variable in
+these regressions for ease of presentation, the results do not necessarily imply that the significant predictor traits cause differences in clarity. Indeed, regression analyses in which each of the
+reliable predictors was treated as the criterion variable yielded
+comparable results. For example, when self-esteem was treated
+as the criterion variable, the SCC Scale accounted for significant incremental variance in self-esteem after controlling for
+the variance accounted for by all of the remaining traits. Therefore, the regression results should be viewed as showing that
+clarity is either an independent cause or an independent consequence of those traits that yielded reliable beta weights.
+3
+
+Although we reported the FFI Neuroticism Scale in the regressions
+(because the FFI was used to assess the other Big Five dimensions),
+replacing the FFI scale with another "neuroticism" measure (e.g., the
+NA Scale of the PANAS) yielded very similar results. The various measures of Neuroticism, however, were redundant with one another in that
+if any one of them was entered into the regression, the others made no
+reliable contribution.
+4
+Given the known overlap between clarity and self-esteem, we also
+computedfirst-orderpartial correlations controlling for self-esteem. All
+of the reliable zero-order correlations reported in Table 3 remained significant, with the following two exceptions: The correlations with both
+measures of Extraversion (PA and FFI Extraversion scales) and the
+NCOG Scale approached 0.
+
+148
+
+CAMPBELL ET AL.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Table 4
+Regression of Self-Esteem, Big Five Dimension, and SelfConsciousness on SCC Scores: Beta Weigkts
+Predictor
+
+Study la
+
+Study lb
+
+Study lc
+
+Self-Esteem
+Neuroticism
+PRIV-Self-Reflection
+PRIV-Intemal State Awareness
+Rumination
+Conscientiousness
+Agreeableness
+Extraversion
+Public Self-Consciousness
+Openness
+Reflection
+
+.35***
+
+.24***
+-.23***
+-.15**
+.14**
+-.13**
+.18***
+.07*
+-.02
+-.04
+-.03
+
+.31***
+-.20***
+-.16**
+.14**
+-.15**
+.11**
+.09*
+-.12**
+-.03
+
+-.31***
+.10**
+—
+—
+—
+.07
+
+-.01
+—
+—
+
+.03
+
+.00
+
+-.03
+
+Note. Self-esteem = Rosenberg Self-Esteem Scale; Neuroticism =
+Taylor Manifest Anxiety Scale (Study la) and NEO-FFI Neuroticism
+Scale (Studies lb and lc); PRIV-Self-Reflection - Self-Reflection subscale of the Private Self-Consciousness Scale (PRIV); PRJV-Internal
+State Awareness = Internal State Awareness subscale of the PRIV; Rumination = Rumination subscale of the Reflection-Rumination Questionnaire (RRQ); Conscientiousness = NEO-FFI Conscientiousness
+scale; Agreeableness = NEO-FFI Agreeableness scale; Extraversion =
+Positive Affectivity subscale of the Positive and Negative Affect Schedule
+(Study la) and NEO-FFI Extraversion scale (Studies 1 b and lc); Public
+Self-Consciousness = Public Self-Consciousness Scale; Openness =
+NEO-FFI Openness to Experience scale; Reflection = Reflection subscale of the RRQ.
+* p < .05, two-tailed. ** p < .01, two-tailed. ***/?< .001, two-tai led.
+
+No mention was made of Study la, and participants were selected without regard to SCC scores. However, given the established relation between self-esteem and clarity (Campbell, 1990), we ensured that approximately half the participants fell above, and half below, the median
+on the Rosenberg Self-Esteem Scale. This procedure yielded a sample
+of 48 men and 107 women whose SCC scores averaged 29.07, a mean
+nearly identical to that of the full Study 1 a sample (29.88).
+
+Procedure and Materials
+Participants reported in groups of 2-4 but undertook the tasks in
+individual cubicles. Theyfirstrated themselves on 16 adjectives, each of
+which represented a label for 1 of the 16 sectors of the interpersonal
+circumplex (Wiggins, 1979). Because participants had made these
+same ratings 4 months earlier in Study la, the ratings allowed us to
+assess the temporal stability of their self-descriptions. We assessed the
+internal consistency of self-descriptions by asking participants to make
+me-not me decisions for 56 adjectives, within which were embedded 25
+pairs of opposites (e.g.. careless-careful, timid-bold). The adjectives
+were presented by a computer (presentation order was randomized for
+each participant), and participants were instructed to press the "y" key
+if they believed that the adjective described them and to press the "n"
+key if it did not. Internal consistency was operationalized as the number
+of pairs that elicited a consistent response pattern {me to one adjective
+and not me to its opposite). Finally,we readministered the SCC Scale
+to participants to assess the sealers temporal stability (these results are
+reported in Table 2).
+
+Results and Discussion
+Discussion
+The results of Study 1 suggest that clarity is a relatively stable
+trait that can be captured by means of self-reports. The SCC
+Scale exhibited excellent reliability, both in terms of its internal
+consistency and temporal stability. The study also provided initial evidence for the scale's validity. Although we postpone a
+substantive discussion of the personality concomitants of clarity
+until the General Discussion, the pattern of correlations was
+generally consistent with prior research (e.g., the self-esteemclarity relation) and with the theoretical description of the construct (e.g., low clarity was associated with chronic selfanalysis ). Another important form of validity, however, not addressed in Study 1, is criterion validity. Therefore, we turn to
+Study 2, which we designed to demonstrate the validity of the
+SCC Scale using unobtrusive, naturalistic indicators of clarity
+as opposed to scores on other self-report measures.
+Study 2
+Previous research (e.g., Campbell, 1990) that examined the
+self-esteem-clarity relation used unobtrusive measures of clarity, including the temporal stability and the internal consistency
+of participants' self-descriptions. In Study 2, we used these two
+indicators of clarity to assess the criterion validity of the SCC
+Scale.
+
+Method
+Participants
+We recruited a subset of participants (N = 155) who participated in
+Study la 4 months later for a study concerned with "self-descriptions."
+
+We calculated three measures of temporal stability for each participant from the two sets of ratings on the 16 circumplex adjectives: (a) the number of adjectives that exhibited any change in
+rating (NCHG); (b) the average absolute difference between each
+of the 16 ratings (ABDIFF); and (c) the within-subject correlation
+(Fisher's r-Xo-z transformation) between the two sets of ratings
+(CORR). The first two measures, which assess the extent to which
+participants changed their ratings between the two testing occasions, were highly correlated with one another (r = .74), and the
+two change measures were negatively correlated with CORR, the
+rank order similarity in the two sets of ratings (average r = —.67).
+The internal consistency measure, however, was only slightly related to the temporal stability measures (average r = -.08 with the
+two change measures, and r - .09 with the rank-order measure).
+The correlations between the SCC Scale and the internal consistency and temporal stability measures were all reliable and in the
+expected direction (see Table 5). Participants high in clarity exhibited more consistent responses on the me-not me rating task (r
+= .31), and their ratings on the circumplex adjectives changed less
+(average r = -.31) and were more similarly rank ordered (r ~
+.38).
+Correlations with the other Study la personality variables also
+are shown in Table 5, The pattern of these correlations corresponds quite closely with the direction and strength of the associations between these other personality measures and the SCC Scale.
+Low self-esteem and high Neuroticism were associated with lower
+levels of internal consistency and temporal stability. Extraversion
+(low), PRIV-SR, and public self-consciousness exhibited similar,
+but weaker, patterns. PRIV-ISA was relatively independent of the
+criterion variables.
+To assess the unique contribution of the SCC Scale in predicting
+
+149
+
+SELF-CONCEPT CLARITY
+Table 5
+Correlations Between Study la Personality Variables and the Internal Consistency
+and Temporal Stability of Participants' Self-Descriptions
+Temporal stability
+Personality variable
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Self-concept clarity
+Self-esteem
+Neuroticism
+Extra version
+Self-reflection
+Internal state awareness
+Public self-consciousness
+
+Internal
+consistency
+
+NCHG
+
+ABDIFF
+
+CORR
+
+-.27***
+-.24**
+.29***
+-.12
+
+-.28***
+
+-.34***
+-.23**
+.28***
+-.20*
+.16*
+
+.04
+
+.03
+
+-.18*
+
+.26**
+
+-.04
+.19*
+
+.38***
+.37***
+-.40***
+.28***
+-.17*
+-.06
+-.22**
+
+.31***
+.19*
+-.27***
+.14
+
+.07
+
+Note. NCHG = number of adjectives that exhibited any change in rating; ABDIFF = average absolute
+difference between each rating; CORR = within-subject correlation between the two sets of ratings; Selfconcept clarity = Self-Concept Clarity Scale; Self-esteem = Rosenberg Self-Esteem Scale; Neuroticism =
+Taylor Manifest Anxiety Scale; Extraversion = Positive Affectivity subscale of the Positive and Negative
+Affect Schedule; Self-reflection = Self-Reflection subscale of the Private Self-Consciousness Scale (PRIV);
+Internal state awareness = Internal State Awareness subscale of the PRIV; Public self-consciousness =
+Public Self-Consciousness Scale.
+*p< .05,two-tailed. **p< .01,two-tailed. •**p< .001, two-tailed.
+
+the criterion variables, we conducted hierarchical regression analyses using a multiple-act criterion. The criterion consisted of an
+unweighted combination of the internal consistency score, one of
+the change scores (NCHG), and the rank-order score (CORR),
+derived by first standardizing and then summing the three scores.
+In the first analysis, we entered the SCC score and then tested for
+the incremental variance accounted for by the other personality
+variables. The SCC score accounted for 22% of the variance, F( 1,
+139) = 39.58, p < .001; the six other variables, tested either as a
+group (5% incremental variance; F[6, 133] = 1.46, ns), or individually, did not account for a significant proportion of incremental variance (public self-consciousness was marginally significant,
+2% incremental variance; F[l, 133] = 3.51,/? < .07). In the second analysis, wefirstentered the other six variables and then tested
+for the incremental variance of the SCC Scale, The SCC Scale
+accounted for 6% of the variance after controlling for the other six
+variables, F( 1,133) = 11.42, p < .001.
+The results of this study provide good evidence for the external
+validity of the SCC Scale. The criterion variables we used, although based on participants' self-reports, were unobtrusive indicators derived from the patterning of these reports either within
+testing occasions (the internal consistency measure) or across testing occasions (the temporal stability measures). The disadvantage
+of such measures is that they contain more extraneous variance, a
+feature that reduces their reliability and therefore the overall magnitude of the validity correlations. This disadvantage, however, is
+offset by the reduced possibility that the results were affected by
+self-presentation or demand characteristics.
+Although SCC scores were reliably correlated with both criteria,
+the internal consistency and stability measures were only weakly
+correlated with one another (albeit in the appropriate direction).
+Although further investigation is required, we believe that the low
+correlations in this study probably reflect measurement factors. In
+addition to the weak reliability of unobtrusive measures, the tasks
+used here to assess the two criteria differed on many dimensions
+(e.g., different adjectives, binary decisions vs. rating scales). In another study (Campbell, 1995), in which participants were asked
+
+to make me-not-me decisions on the same adjectives on two occasions (2-day interval), correlations between internal consistency
+and temporal stability measures were much higher (average r —
+.42), It is also possible that these two facets of clarity are not highly
+related, because although self-uncertainty should cause inconsistent self-descriptions, "inconsistent" responses may also plausibly
+reflect self-concepts that are complex or flexible (I am lazy at
+home and hardworking in the office; see Campbell, 1990). Although inconsistency derived from uncertainty should be associated with instability, inconsistency that reflects complexity may
+not be.
+The correlations between the other personality variables and the
+criteria roughly paralleled the extent to which these other variables
+were correlated with the SCC Scale. The self-esteem correlations
+replicate earlier studies (Campbell, 1990, Studies 2 and 4), and the
+Neuroticism correlations are unsurprising given this dimension's
+overlap with both clarity and self-esteem. The correlations with
+the PRIV-SR and Public Self-Consciousness Scales are more interesting and suggest that two forms of dispositional self-attention—
+a tendency to engage in chronic self-analysis and attentiveness to
+the self as a social object—are associated with self-concepts that
+are inconsistent and unstable.
+The SCC Scale exhibited incremental validity in this study; it
+accounted for significant variance in the criteria after controlling
+for the impact of the other measured traits. Given the high levels
+of multicollinearity in the predictors (especially SCC, self-esteem,
+and Neuroticism), we view this outcome as somewhat fortuitous
+in that rather small changes in some of the zero-order correlations
+might have altered the outcome. Incremental criterion validity by
+itself, however, is neither a necessary nor a sufficient condition to
+establish the scale's validity.
+Study 3
+Self-concept clarity references a self-construal that is predominant in Western cultures; the self is viewed as an autonomous inviolate entity, containing a unique, clearly articulated
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+150
+
+CAMPBELL ET AL.
+
+set of internal attributes that remain stable across situations
+(Markus & Kitayama, 1991). Perhaps it is because the clarity
+construct captures the essential characteristics of the self that
+are normative in Western culture that it exhibits such substantial correlations with evaluative aspects of the self (e.g., selfesteem) in Canadian samples. The Eastern self, in contrast, is
+sustained and formed by its social environment (Markus & Kitayama, 1991), suggesting that situational changes would be associated with changes in the self. Inconsistency in the self, then,
+should not challenge the normative view of the Eastern self, suggesting that clarity and self-esteem would not be as strongly as-,
+sociated in Eastern samples. To examine this possibility, we
+conducted three studies in which we compared mean SCC
+scores and SCC-self-esteem correlations in samples of Westernized Canadian and Japanese students. We chose Japanese students as the comparison sample because Japan represents a prototypical Eastern culture (Markus & Kitayama, 1991).
+
+Method
+Participants
+We compared samples from Japan and Canada in each of three studies. In Study 3a, the Japanese sample consisted of 80 exchange students
+from Ritsumeikan University in Kyoto, Japan who had been studying
+at the University of British Columbia for approximately 6 months. In
+Study 3b, the Japanese data were collected in Japan from introductory
+psychology students at Nagasaki University in Nagasaki, Japan (n =
+112) and research methods students at Ritsumeikan University {n 84). Because these two samples exhibited similar SCC and self-esteem
+scores, they were combined. In Study 3c, the Japanese sample consisted
+of 100 exchange students from Ritsumeikan University who had been
+in Canada for less than 1 week at the time of testing. Aside from a few
+individuals born in other East Asian countries, the Japanese respondents had been born and raised in Japan.
+The Canadian data in all three studies were collected from introductory psychology and social psychology classes at the University of British
+Columbia. Because the cultural background of the Canadian students
+was quite heterogeneous, the samples were reduced to include only
+those participants who met all our criteria of a "Westernized Canadian"
+sample. The samples include only those participants who: a) were born
+in either Canada or the United States; b) had parents that had been born
+in Canada, the United States, or in a European country; c) declared
+their ethnic descent to be that of a European culture; and d) to keep the
+age range comparable to the Japanese samples, were under the age of
+25. In Studies 3a-3c, 112, 90, and 82 participants, respectively, met all
+these criteria and formed the Westernized Canadian samples, or "Canadians," for short.
+
+Materials
+Participants completed questionnaire packets that included the SCC
+Scale, Rosenberg's (1965) Self-Esteem Scale, and a number of other
+measures not included in the present report.5 The Japanese participants
+all completed a Japanese version of the questionnaire. The original English version was translated into Japanese and then back-translated into
+English by a second translator to ensure comparability and equivalence
+in meaning(Brislin, 1970).
+
+Results and Discussion
+We anticipated that (a) the Japanese would exhibit lower scores
+on the SCC Scale than their Canadian counterparts, and (b) the
+
+correlation between the SCC and Self-Esteem Scales would be
+lower among the Japanese. The average SCC, self-esteem scores,
+and the SCC-self-esteem correlations shown in Table 6 indicate
+that these expectations were realized in all three samples. The Japanese had lower SCC scores than the Canadians (all ps < .01) and,
+consistent with prior research (Bond & Cheung, 1983; Mahler,
+1976), they also had lower SE scores. The Canadian samples
+yielded substantial correlations between the SCC and Self-Esteem
+scales, comparable to those reported earlier in Study 1. The correlations in the Japanese samples were consistently smaller—tests
+comparing the correlations between the Japanese and Canadian
+samples were significant in Studies 3a and 3c (ps < .01) and marginal in Study 3b(p < .07).
+To explore these cultural differences in more detail, we combined the samples from the three studies and conducted comparable analyses on each of the 12 SCC Scale items. The results,
+shown in Table 7, indicated that every SCC item exhibited a
+more substantial correlation with self-esteem among the Canadians than the Japanese (allps < .05) and that the overall mean
+differences in SCC emerged on 10 of the 12 items. The other 2
+items showed a nonsignificant reversal, with Canadians exhibiting somewhat lower scores than the Japanese.
+The exceptions are informative. One of the reversals is Item
+5, which, along with Items 2, 8, and 9, taps the temporal stability of self-beliefs. Item 5 differs from the other stability items in
+that it inquires about continuity of the self over a relatively long
+time period, whereas the other three items focus on cross-situational consistency over relatively short time periods. Markus
+and Kitayama (1991) noted that the interdependent self tends
+to accommodate behavior to changing situations in order to
+achieve the cultural mandate of connection with others, thereby
+suggesting less cross-situational consistency among the Japanese. Situational variability, however, does not necessarily imply a past self that lacks continuity with the present self. It seems
+that although our Japanese participants perceived the self to be
+less consistent across situations, they did not view this accommodating self as being less continuous over time.
+The other item that exhibited a slight reversal was Item 7,
+an item that asks participants to compare how well they know
+themselves with how well they know other people. Although
+speculative, there are a couple of possible explanations for this
+reversal. First, it may be that this item reflects cultural differences in perceived knowledge about other people. On other general clarity items, Japanese participants professed to have less
+self-knowledge than the Canadians. For example, they were less
+likely to endorse the item "In general, I have a clear sense of who
+I am and what I am." Given this evidence for lower levels of
+perceived self-knowledge, it would seem that the relative reluctance of the Japanese participants to endorse Item 7 could derive from the fact that they also don't believe that they know
+other people very well. A second possible explanation for the
+reversal is that this item reflects cultural differences in modesty.
+Some participants might feel that knowing other people better
+than they know themselves is akin to knowing other people es5
+A small portion of the Study 3a data reported here is contained in
+Heine, Lehman, Okugawa, and Campbell (1992). In addition, the
+Study 3b data were derived from participant samples used in Heine and
+Lehman (1995).
+
+151
+
+SELF-CONCEPT CLARITY
+
+Table 6
+Self-Concept Clarity andSelf-Esteem in Three Samples of Canadian
+and Japanese Students: Study 3
+N
+
+AfSE
+
+MSCC
+
+CORR
+
+Study
+
+Cdn
+
+Jpn
+
+Cdn
+
+Jpn
+
+Cdn
+
+Jpn
+
+Cdn
+
+Jpn
+
+f| ^ T2
+
+3a
+3b
+3c
+
+112
+90
+81
+
+80
+188
+97
+
+41.72
+39.30
+38.02
+
+34.41**
+35.01**
+34.35**
+
+40.32**
+39.36**
+39.44**
+
+35.35
+32.26
+35.88
+
+.69**
+.63**
+.59**
+
+.37**
+.46**
+.08
+
+;><.001
+p < .07
+jJ<.001
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Note. Cdn = Canadians; Jpn = Japanese; SCC = Self-Concept Clarity Scale; SE = Rosenberg Self-Esteem
+Scale; CORR = correlation between SE and SCC.
+** Mean is less than other culture or correlation is different from 0, p < .01, two-tailed.
+
+pecially well. To the extent that this is true, Japanese may be
+hesitant to endorse this item because they are reluctant to believe that they know others so well.
+In sum, Study 3 provided consistent support for theoretically
+derived predictions about cultural differences in average levels
+of clarity and clarity's association with self-esteem. These studies, therefore, not only add to the growing literature documenting cultural variation in construal of self (e.g., Bond & Cheung,
+1983; Cousins, 1989; Heine & Lehman, 1995; Mahler, 1976;
+Markus & Kitayama, 1991) but also provide, along with Studies
+1 and 2, converging evidence for the validity of the SCC Scale.
+
+means of self-reports. To accomplish this goal, we developed
+the SCC Scale and examined its psychometric properties, its
+relations with measures of other traits, and its predictive associations with unobtrusive indicants of the clarity construct. We
+further aimed to expand the nomological network of the clarity
+construct, to explore the self-absorption paradox, and to examine clarity's cultural boundaries. We discuss each of these aims
+below (data relevant to the last three aims also address the SCC
+Scale's validity but to avoid redundancy are omitted from the
+first section).
+
+The SCC Scale
+General Discussion
+One of our aims was to ascertain if clarity can be viewed as a
+relatively stable trait that is amenable to measurement by
+
+Examination of the SCC Scale's psychometric properties
+yielded strong evidence of its reliability. Evidence of high internal consistency and factorial integrity together suggest that
+
+Table 7
+Item Analysisfor Combined Sample: Study 3
+M
+
+CORR
+
+Item
+
+Cdn
+
+Jpn
+
+Cdn
+
+Jpn
+
+fj i* r2
+
+1. My beliefs about myself often conflict with one another "
+2. On one day I might have one opinion of myself and on another day
+I might have a different opinion."
+3. I spend a lot of time wondering about what kind of person I really
+am.a
+4. Sometimes I feel that I am not really the person that I appear to be."
+5. When I think about the kind of person I have been in the past, I'm
+not sure what I was really like."
+6. I seldom experience conflict between the different aspects of my
+personality.
+7. Sometimes I think I know other people better than I know myself.8
+8. My beliefs about myself seem to change very frequently."
+9. If I were asked to describe my personality, my description might
+end up being different from one day to another day.8
+10. Even if 1 wanted to, I don't think I could tell someone what I'm
+really like."
+11. In general, 1 have a clear sense of who I am and what I am.
+12. It is often hard for me to make up my mind about things because I
+don't really know what I want."
+
+3.04
+
+2.48**
+
+0.49**
+
+0.07
+
+P<.OOI
+
+2.86
+
+2.16**
+
+0.50**
+
+0.06
+
+3.18
+3.11
+
+2.73**
+2.48**
+
+0.38**
+0.47**
+
+0.03
+0.24**
+
+p<.001
+p<.0\
+
+3.51
+
+3.61
+
+0.34**
+
+0.13*
+
+P<.O\
+
+3.01
+3.37
+3.66
+
+2.64*
+3.45
+3.31**
+
+0.29**
+0.35**
+0.46**
+
+0.04
+0.03
+0.15**
+
+p<.O0l
+p<.001
+
+3.42
+
+2.98**
+
+0.43**
+
+0.11*
+
+p<.OOl
+
+3.64
+3.69
+
+3.01**
+2.95**
+
+0.48**
+0.54**
+
+0.31**
+0.18**
+
+p<.05
+p<.O0l
+
+3.24
+
+2.79**
+
+0.44**
+
+0.26**
+
+Total SCC score
+
+39.89
+
+34.70**
+
+0.64
+
+0.28**
+
+Note, CORR = correlation between SE and SCC; Cdn = Canadians; Jpn - Japanese; SCC = Self-Concept Clarity Scale.
+" Reverse-keyed item.
+* Mean is less than that of the other culture, or correlation is different from 0, p < .05, two-tailed. ** p < .01, two-tailed.
+
+P<.O\
+
+p<.001
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+152
+
+CAMPBELL ET AL.
+
+the scale items tap a single, general factor measuring a unitary
+attribute (Briggs & Cheek, 1986). In addition, two tests examining test-retest reliability over 4- and 5-month intervals provided evidence for the scale's temporal stability.
+The strong relations between SCC and self-esteem scores, anticipated by prior theory (e.g., Erikson, 1959; Rosenberg, 1965)
+and research (e.g., Campbell, 1990), support the SCC Scale's
+construct validity. Other lines of evidence, however, also support the theoretical and empirical utility of distinguishing clarity from self-esteem. First, regression analyses (Study 1) demonstrated that the SCC Scale exhibited a consistent pattern of
+reliable relations with a number of other traits after controlling
+for its overlapping variance with self-esteem. Second, Study 2
+showed that the SCC Scale predicted unique variance in external criteria after controlling for self-esteem.6 Finally, Study 3
+demonstrated that the substantial correlations with self-esteem
+obtained in Western samples were greatly attenuated in Japanese samples, whose cultural mandate does not prescribe that
+individuals hold a clearly articulated set of invariant attributes.
+Taken together, then, the studies suggest that although clarity
+and self-esteem are strongly associated in Western samples, they
+are distinct constructs. Future research, however, should examine the extent to which clarity overlaps with characteristics of
+self-esteem other than its level (high vs. low). Because people
+with low clarity should be more susceptible to and dependent
+on the social environment (Campbell, 1990), clarity should
+overlap substantially with the lability (stability, certainty) of
+global self-esteem (e.g., Kernis & Waschull, 1995; Roberts &
+Monroe, 1992).
+Study 2 provided evidence for the scale's criterion validity.
+SCC scores, recorded 4 months prior to the study, reliably predicted the internal consistency and temporal stability of participants' self-descriptions. The study additionally tested the predictive utility of a number of other measures, including selfesteem, Neuroticism, Extraversion, and self-consciousness. The
+correlations between the validity criteria and these other traits
+roughly paralleled the magnitude of the associations between
+these traits and the SCC Scale. Finally, regression analyses
+showed that the SCC Scale predicted unique variance in the
+criteria after controlling for these other measures.
+
+Relations With the Big Five Dimensions
+SCC exhibited strong correlations with Neuroticism, moderate correlations with Extraversion, Agreeableness, and Conscientiousness, and was uncorrelated with Openness to Experience. Regression analyses, controlling for self-esteem, the other
+Big Five dimensions, and the self-focus variables, consistently
+revealed that SCC was independently related to Neuroticism
+and Conscientiousness and, to a lesser extent, to Agreeableness.
+This pattern is consistent with the theoretical definition of clarity and dovetails with prior researchfindingsfor trait adjectives
+and questionnaires conceptually related to clarity. For example,
+trait adjectives such as unsure, uncertain, and indecisive exhibit
+a pattern of Big Five associations similar to those obtained with
+the SCC Scale (e.g., Goldberg, 1990). A similar pattern of Big
+Five associations was reported for internal locus of control
+(Costa, McCrae, & Dye, 1991), an outcome consonant with the
+notion that high-clarity people are less susceptible to the social
+environment (Campbell, 1990).
+
+Neuroticism
+The Neuroticism association was expected given prior demonstrations of strong relations between self-esteem and variables related to the Neuroticism dimension (e.g., Watson et al.,
+1988). However, the fact that Neuroticism emerged as an independent concomitant of clarity suggests that facets of Neuroticism other than depression (low self-esteem) may be implicated
+in self-uncertainty. Indeed, there is evidence that clarity may be
+related to most facets of Neuroticism. For example, Costa and
+McCrae (1995) correlated self-ratings on the California Q-set
+(CQS; Block, 1961b) with facet scales of Neuroticism and
+found that the item "has a clearcut, consistent personality" was
+among the highest correlates of the anxiety, angry hostility, and
+impulsiveness facets of Neuroticism (see also McCrae & Costa,
+1992).
+
+Conscientiousness
+The relation with Conscientiousness was anticipated by theoretical writingson the self(e.g.,James, 1890; Murray, 1938, p.
+138) and by a broad range of empiricalfindingsfor clarity-related traits. In Goldberg's (1990) comprehensive factor analyses of trait adjectives, several clarity-related adjective clusters
+(e.g., inconsistency, indecisiveness) loaded most highly on a
+Conscientiousness factor. Similarly, Costa and McCrae (1995)
+found the CQS item "has a clearcut, consistent personality" to
+be among the strongest correlates of three facets of Conscientiousness: dutifulness, self-discipline, and deliberation. This
+same CQS item was also among the best predictors of a behavioral measure of delay of gratification (Funder & Block, 1989).
+Together, these findings suggest that both proactive (goaldirectedness) and inhibitive (impulse restraint) aspects of Conscientiousness may be implicated in developing and maintaining a stable, consistent, and clear self-image (or alternatively,
+that clarity may be important in the development of
+Conscientiousness).
+
+Extraversion
+Assertiveness is commonly considered a central facet of Extraversion (McCrae & Costa, 1983). One would expect that assertive individuals would report greater clarity in their self-beliefs than timid individuals, and the SCC Scale consistently exhibited moderate zero-order associations with measures of
+Extraversion. Extraversion, however, did not emerge as an independent concomitant of clarity in the regression analyses. This
+suggests that the component of Extraversion that overlaps with
+clarity also overlaps with some of the other predictors. Because
+the assertiveness facet is strongly related to Neuroticism and
+Conscientiousness (Goldberg, 1990; Trapnell & Wiggins,
+1990), it seems likely that this component accounts for the
+zero-order relation between clarity and Extraversion.
+
+6
+The regression analyses in Studies 1 and 2 also indicate that clarity
+is distinguishable from Neuroticism or NA, another trait that is strongly
+associated with clarity.
+
+153
+
+SELF-CONCEPT CLARITY
+
+Agreeableness
+Agreeableness was moderately correlated with clarity, an association that retained its significance in the regression analyses. These results corroborate some recent work by Donahue et
+al. (1993), who reported that an indirect measure of self-concept fragmentation was associated with low Agreeableness, in
+addition to poor adjustment and tow Conscientiousness. They
+further demonstrated that low socialization (a blend of low
+Conscientiousness and low Agreeableness) at age 21 predicted
+self-concept fragmentation more than 30 years later.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Openness to Experience
+The SCC Scale was uncorrelated with the FFI Openness
+Scale, but it was moderately associated (r = .20) with the
+NCOG Scale. A nearly identical correlation between the SCC
+and NCOG Scales was recently reported by Sadowski, Moore,
+and Sellers (1994),7 who argued that the association supports
+cognitive-experiential self-theory (Epstein, 1990). Our data
+suggest, however, that the correlation between the SCC and
+NCOG Scales may simply reflect shared variance with self-esteem or Neuroticism; the correlation between SCC and NCOG
+approached 0 after controlling for either self-esteem (r - .02)
+or Neuroticism (r = -.02).
+
+Relations With Self-Focused Attention
+The SCC Scale's associations with the various measures of
+private self-consciousness provide some clues relevant to the
+self-absorption paradox. Although the SCC Scale was moderately correlated with the Private Self-Consciousness Scale, its
+correlations with the two private subscales revealed a striking
+divergence. The PRIV-SR subscale, which taps the tendency to
+engage in chronic self-analysis, was substantially associated
+with low clarity, but the Internal State Awareness subscale was
+slightly associated with high clarity. The regression analyses further revealed that both of these subscales predicted unique variance in SCC scores. These results support Piliavin and Charng's
+(1988) claim that the two subscales may be associated in opposite directions with measures of identity seeking and represent
+a challenge to those who have based their argument for maintaining the unitary structure of the private scale on the fact that
+"there is no evidence for any criterion that is differentially predicted by the two subscales" (Bernstein et al., 1986, p. 473).
+Correlations with the RRQ, which assesses two postulated
+motives underlying private self-consciousness (curiosity and
+anxiety), revealed yet another divergence. SCC was strongly associated with the Rumination Scale but not with the Reflection
+Scale. People low in clarity seem to have no more desire to introspect (i.e., reflection) than high-clarity individuals, but they
+nonetheless report experiencing more (intrusive) self-relevant
+thoughts. Because the Rumination scale is substantially correlated with Neuroticism and the Reflection scale with Openness,
+one could argue that this pattern simply replicates the SCC correlations with these Big Five dimensions. However, the Rumination scale consistently emerged as an independent concomitant of (low) clarity, indicating that the self-attentional process
+assessed by the Rumination scale contributes unique variance
+to self-concept articulation.
+
+With respect to the self-absorption paradox, these results suggest that the relation between perceived self-knowledge and selffocused attention may depend critically on distinguishing between different forms of self-focused attention and different
+motives for attending to the self. It has been generally assumed
+that the frequency of self-focused attention is related to selfknowledge, but it is possible that the relation depends more on
+the motive for attending to the self than on the frequency of
+doing so.
+
+Cultural Boundaries ofthe SCC Construct
+Consistent with the recent cross-cultural literature (e.g.,
+Markus & Kitayama, 1991), Study 3 revealed differences in
+SCC scores between Canadians and Japanese. Canadians had
+higher SCC scores than Japanese, and Canadians' SCC scores
+were more closely associated with their reported self-esteem
+than they were for Japanese. The clarity construct was developed within the context of Western culture, in which the habitual point of focus is on the individual, and items were selected
+to reflect the clarity of individuals' self-beliefs. However, in Japanese culture, individuals look to the social environment to define the self (Cousins, 1989), suggesting that the apparent inconsistency and instability in Japanese self-concepts probably
+appear as a consequence of their interdependent and contextual
+nature. Indeed, asking questions about the clarity of the selfconcept in the abstract, without providing any contextual information, might appear odd to Japanese. Although it makes sense
+in Western cultures to label a self-concept that is inconsistent
+and unstable as low in clarity or confused, these labels are not
+appropriate within more contextual cultures such as Japan's.
+Here, elevated SCC scores most likely reflect self-concepts that
+are normatively prescribed to be contextually flexible or responsive. In support of this reasoning, the Japanese exhibited
+significantly lower relations between SCC and SE. We urge caution, then, in interpreting SCC scores in non-Western samples.
+Future efforts toward the development of a parallel scale that
+measures self-beliefs in cultures in which a contextual and dynamic sense of self is valued would likely prove fruitful.
+
+Summary and Conclusions
+We have presented evidence that SCC is a relatively stable trait
+that is reliably and validly measured with the SCC Scale. We also
+demonstrated the theoretical utility of the construct by showing
+that the structural integrity of self-beliefs is an important independent concomitant of self-esteem, Neuroticism, Conscientiousness,
+Agreeableness, chronic self-analysis, rumination, and internal
+state awareness. The theoretical benefits of the construct have also
+been demonstrated by investigators who have focused on other
+criteria. For example, Smith, Wethington, and Zhan (1994) recently showed that low clarity (see footnote 7) is uniquely related
+(controlling for self-esteem, depression, anxiety, and perceived social support) to a preference for passive coping styles. Similarly,
+Setterlund and Neidenthal (1993) reported that a manipulation
+of low clarity uniquely predicted (controlling for self-esteem) the
+7
+This study used the 20-item version of the SCC Scale (Campbell,
+Katz, Lavailee, & Trapnell, 1991).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+154
+
+CAMPBELL ET AL.
+
+Briggs, S. R., & Cheek, J. M. (1986). The role of factor analysis in the
+development and evaluation of personality scales. Journal of Personality, 60, 253-293.
+Brislin, R. W. (1970). Back-translation for cross-cultural research.
+Journal of Cross-Cultural Psychology; 1, 185-216.
+Britt, T. W. (1992). The Self-Consciousness Scale: On the stability of
+the three-factor structure. Personality and Social Psychology Bulletin. 18, 748-755Brockner, J. (1984). Low self-esteem and behavioral plasticity: Some
+implications for personality and social psychology. In L. Wheeler
+(Ed.), Review ofpersonality and social psychology (Vol. 4, pp. 237271). Beverly Hills, CA: Sage.
+Burnkrant, R-, & Page, T. (1984). A modification of the Fenigstein,
+Scheier, and Buss Self-Consciousness Scale. Journal of Personality
+Assessment, 48, 629-637.
+Buss, A. (1980). Self-consciousness and social anxiety. San Francisco:
+W. H. Freeman.
+Byrne, D. (1961). The Repression-Sensitization Scale: Rationale, reliability, and validity. Journal ofPersonality, 29, 334-349.
+Cacioppo, J. T, & Petty, R. E. (1982). The need for cognition. Journal
+ofPersonality and Social Psychology, 42, 116-131.
+Cacioppo, J. T, Petty, R. E., & FCao, C. F. (1984). The efficient assessment of need for cognition. Journal of Personality Assessment, 48,
+306-307.
+References
+Campbell, J. D. (1990). Self-esteem and clarity of the self-concept.
+Journal ofPersonality and Social Psychology, 59, 538-549.
+Adler, A. (1959), The practice and theory of individual psychology. ToCampbell, J. D. (1995). [Mood and self-concept clarity ]. Unpublished
+towa, NJ: Littlefield, Adams.
+raw data.
+Alloy, L. B., & Abramson, L. Y. (1982). Learned helplessness, desperation, and the illusion of control. Journal of Personality and Social Campbell, J. D., Chew, B., & Scratchley, L. S. (1991). Cognitive and
+Psychology, 36, 1114-1126.
+emotional reactions to daily events: The effects of self-esteem and
+Alloy, L. B., & Abramson, L. Y. (1988). Depressive realism: Four theoself-complexity. Journal ofPersonality, 59, 473-505.
+retical perspectives. In L. Alloy (Ed.), Cognitive processes in depres- Campbell, J. D., & Fehr, B. (1990). Self-esteem and perceptions of consion (pp. 223-265). New York: Guilford Press.
+veyed impressions: Is negative affectivity associated with greater realAllport, G. (1961). Patterns and growth in personality. New York: Holt,
+ism? Journal ofPersonality and Social Psychology, 58, 122-133.
+Rinehart & Winston.
+Campbell, J. D., Katz, I. M., Lavallee, L. E, & Trapnell, P. D. (1991,
+Baumeister, R. E (1986). Identity. New "Vbrk: Oxford University Press.
+August). Development and validation of a self-report scale ofself conBaumeister, R. F. (1993). Understanding the inner nature of low selfcept clarity. Paper presented at the annual conference of the Ameriesteem: Uncertain, fragile, protective, and conflicted. In Self-esteem:
+can Psychological Society, Washington, DC.
+The puzzle oflow self-regard (pp. 201 -218). New York: Plenum.
+Campbell, J. D., & Lavallee, L. F. (1993). Who am 1?: The role of selfBaumgardner, A. H. (1990). To know oneself is to like oneself: Selfconcept confusion in understanding the behavior of people with low
+certainty and self-affect. Journal of Personality and Social Psycholself-esteem. In R. F. Baumeister(Ed.), Self-esteem: The puzzle of low
+ogy, 58, 1062-1072.
+self-regard (pp. 3-20). New "York: Plenum.
+Beck, A. T. (1967). Depression: Clinical, experimental, and theoreticalConley, J. J. (1984). The hierarchy of consistency: A review and model
+aspects. New \fork: Harper & Row.
+of longitudinalfindingson adult individual differences in intelligence,
+Bell, P. A., & Byrne, D. (1978). Repression-sensitization. In H. London
+personality and self-opinion. Personality and Individual Differences,
+& J. E. Exner(EAs.), Dimensions of personality (pp. 449-485). New
+5,11-25.
+York: Wiley.
+Costa, P. T, Jr., & McCrae, R. R. (1985). The NEO Personality InvenBendig, A. W. (1956). The development of a short form of the Manifest
+tory manual. Odessa, FL: Psychological Assessment Resources.
+Anxiety Scale. Journal of Consulting Psychology, 20, 384.
+Costa, P. T, Jr., & McCrae, R. R. (1989). TheNEOPI/FFImanual
+Bernstein, I. H., Teng, G., & Garbin, C. P. (1986). A confirmatory facsupplement. Odessa, FL: Psychological Assessment Resources.
+toring of the Self-Consciousness Scale. Multivariate Behavioral ReCosta, P. T, Jr., & McCrae, R. R. (1995). Domains and facets: Hierarsearch, 21, 459-475.
+chical personality assessment using the Revised NEO Personality InBlaine, B., & Crocker, J. (1993). Self-esteem and self-serving biases in
+ventory. Journal ofPersonality Assessment, 64, 21-50.
+reactions to positive and negative events: An integrative review. In
+R. F. Baumeister (Ed.), Self-esteem: The puzzle of low self-regard Costa, P. T., Jr., McCrae, R. R., & Dye, D. A. (1991). Facet scales for
+Agreeableness and Conscientiousness: A revision of the NEO Person(pp. 55-86). New York: Plenum.
+ality Inventory. Personality and Individual Differences, 12, 887-898.
+Block, J. (1961a). Ego identity, role variability, and adjustment.
+Cousins, S. (1989). Culture and selfhood in Japan and the United
+Journal of Consulting Psychology, 25, 392-397.
+States. Journal ofPersonality and Social Psychology, 56, 124-131.
+Block, J. (1961b). The Q-sort method in personality assessment and
+Crowne, D. P.,&Marlowe, D. (1960). A new scale of social desirability
+psychiatric research. Springfield, IL: Charles C Thomas.
+independent of psychopathology. Journal of Consulting Psychology,
+Bond, M. H., & Cheung, T. (1983). College students' spontaneous selfconcept. Journal of Cross-Cultural Psychology, 14, 153-171.
+24, 349-354,
+Briggs, S. R. (1992). Assessing thefive-factormodel of personality deDonahue, E. M., Robins, R. W, Roberts, B. W., & John, O. P. (1993).
+scription. Journal ofPersonality, 60, 253-293.
+The divided self: Concurrent and longitudinal effects of psychological
+
+failure to use a decision-making strategy that involves the self to
+guide choice behavior (i.e., prototype matching). Also, although
+the present article focuses on dispositional clarity, Lavallee and
+Campbell (1995) recently documented the importance of state
+changes in self-concept clarity in understanding people's responses
+to daily negative events that are related and unrelated to their personal goals.
+All of these data, however, are mute with respect to the causal
+relations between clarity and its correlates. In discussing the clarity-self-esteem relation, Campbell and Lavallee (1993) provided
+plausible theoretical mechanisms and cited experimental data that
+supported both possibilities—that clarity causes self-esteem and
+vice versa. Because similar arguments (and some data) could be
+cited with respect to many of the other relations reported here, it
+seems probable that, at least among adults, the causal connections
+are reciprocal. Nonetheless, we are hopeful that ongoing research
+will eventually elucidate clarity's etiology. For example, the consistent evidence of moderate heritability for Neuroticism and Conscientiousness (see Loehlin, 1992) implies that these traits likely
+play a causal role in the development and maintenance of a stable
+self-concept.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+SELF-CONCEPT CLARITY
+
+155
+
+adjustment and social roles on self-concept differentiation. Journal
+(Ed.), Advances in experimental social psychology (Vol. 27, pp. 93ofPersonality and Social Psychology, 64,834-846.
+141). New York: Academic Press.
+Epstein, S. (1990). Cognitive-experiential self-theory: An integrative
+Kihlstrom, J. E, & Cantor, N. (1984). Mental representations of the
+theory of personality. In R. Curtis (Ed.), The self with others: Conself. In L. Berkowitz (Ed.), Advances in experimental social psycholvergences in psychoanalytic, social, and personality psychology (pp. ogyCVol. 17, pp. 1-47). San Diego, CA: Academic Press.
+111-137). New York: Guilford Press.
+Kihlstrom, J. F., Cantor, N., Albright, J. S., Chew, B. R., Klein, S. B., &
+Neidenthal, P. M. (1988). Information processing and the study of
+Erikson, E. (1959). Identity and the life cycle. In G. S. Klein (Ed.),
+the self. In L. Berkowitz (Ed.), Advances in experimental social psyPsychological issues {pp. 1-171). New York: International Universichology (Vol. 21, pp. 159-187). San Diego, CA: Academic Press.
+ties Press.
+Fenigstein, A., Scheier, M. E, &. Buss, A. (1975). Public and private
+Lavallee, L. F., & Campbell, J. D. (1995). Impact of personal goals on
+self-consciousness. Journal of Consulting and Clinical Psychology,
+self-regulation processes elicited by daily negative events. Journal of
+43, 522-527.
+Personality and Social Psychology, 69, 341-352.
+Frone, M. R-, & McFarlin D. B. (1989). Chronic occupational stresLennox, R., & Welch, L. (1987). Assessment of self-consciousness.
+Representative Research in Social Psychology, 17, 53-74.
+sors, self-focused attention, and well-being: Testing a cybernetic
+model of stress. Journal of Applied Psychology, 74, 876-883.
+Linville, P. W. (1985). Self-complexity and affective extremity: Don't
+put all of your eggs in one cognitive basket. Social Cognition, 3, 94Funder, D. C, & Block, J. (1989). The role of ego-control, ego-resil120.
+iency, and IQ in delay of gratification in adolescence. Journal of Personality and Social Psychology, 57, 1041-1050.
+Linville, P. W. (1987). Self-complexity as a cognitive buffer against
+stress-related illness and depression. Journal of Personality and SoGergen, K. J., & Morse, S. (1967). Self-consistency: Measurement and
+cial Psychology, 52,663-676.
+validation. Proceedings of the American Psychological Association,
+75, 207-208.
+Loehlin, J. C. (1992). Genes and environment in personality development. London: Sage.
+Goldberg, L. R. (1990). An alternative "description of personality":
+The Big-Five factor structure. Journal of Personality and Social Psy- Mahler, I. (1976). What is the self-concept in Japan? Psychologia, 19,
+127-132.
+chology, 59, 1216-1229.
+Goldberg, L. R. (1993). The structure of phenotypic personality traits.
+Marcia, J. E. (1980). Identity in adolescence. In J. Adelson (Ed.),
+American Psychologist, 48,26-34.
+Handbook ofadolescent psychology {pp. 159-187). New York: Wiley.
+Gordon, J. E. (1957). Interpersonal prediction of repressors and sensiMarkus, H. (1977). Self-schemata and processing information about
+tizers. Journal ofPersonality, 25.686-698.
+the self. Journal of Personality and Social Psychology, 35,63-78.
+Gould, S. J. (1986). The Self-Consciousness Scale: A confirmatory
+Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implicaanalysis. Psychological Reports, 59, 809-810.
+tions for cognition, emotion, and motivation. Psychological Review,
+98, 224-253.
+Greenwald, A. G., & Pratkanis, A. R. (1984). The self. In R. S. Wyer &
+T. K. Srull (Eds.), Handbook of social cognition (Vol. 3, pp. 129- Markus, H. R., & Wurf, E. (1987). The dynamic self-concept: A social
+178). Hillsdale, NJ: Erlbaum.
+psychological perspective. Annual Review ofPsychology, 38, 299-337.
+Hathaway, S. R., & McKinley, J. C (1951). MMPI manual. New York: McCrae, R. R., & Costa, P. T, Jr. (1983). Joint factors in self-reports
+Psychological Corporation.
+and ratings: Neuroticism, Extraversion, and Openness to Experience.
+Personality and Individual Differences, 4, 245-255.
+Heine, S. J., & Lehman, D. R. (1995). When the twain meet: Self-assessments and exposure to Western culture. Manuscript in
+McCrae, R. R., & Costa, P. T., Jr. (1987). Validation of the five-factor
+preparation.
+model of personality across instruments and observers. Journal of
+Personality and Social Psychology, 52, 81-90.
+Heine, "S. J., Lehman, D. R.( Okugawa, O., & Campbell, J. D. (1992).
+The effects of culture on self-implicated processes: A comparison of
+McCrae, R. R., & Costa, P. T, Jr. (1992). Discriminant validity of
+Canadians and Japanese. Ritsumeikan Review ofSocial Sciences, 74,
+NEO-PI-R facet scales. Educational and Psychological Measurement,
+52,229-237.
+29-38.
+Helmreich, R., Stapp, J., & Ervin, C. (1974). The Texas Social BehavMeyer, G. J., & Shack, J. R. (1989). The structural convergence of
+mood and personality: Evidence for old and new directions. Journal
+ior Inventory (TSBI): An objective measure of self-esteem or social
+ofPersonality and Social Psychology, 57, 81-90.
+competence. JSAS Catalog ofSelected Documents in Social PsycholMittal, B., & Balsubramanian, S. K. (1987). Testing the dimensionality
+ogy, 4.79(Ms. No. 681).
+of the self-consciousness scales. Journal of Personality Assessment,
+Hogan, R. (1986). Hogan Personality Inventory manual. Minneapolis,
+51, 53-68.
+MN: National Computer Systems.
+Mullen, B., & Suls, J. (1982). "Know Thyself": Stressful life changes
+Hull, J. G., Van Treuren, R. R., Ashford, S. J., Propsom, P., & Andrus,
+and the ameliorative effect of private self-consciousness. Journal of
+B. S. (1988). Self-consciousness and the processing of self-relevant
+information. Journal of Personality and Social Psychology, 54, 452- Experimental Social Psychology, 18, 43-55.
+Murray, H. A. (1938). Explorations in personality. New York: Oxford
+465.
+Ingram, R. (1990). Self-focused attention in clinical disorders: Review
+University Press.
+and a conceptual model. Psychological Bulletin, 107, 156-176.
+Nasby, W. (1985). Private self-consciousness, articulation of the selfschema, and recognition memory of trait adjectives. Journal of PerJackson, D. N. (1976). Jackson Personality Inventory manual. Goshen,
+sonality and Social Psychology, 49, 704-709.
+NY: Research Psychologists Press.
+James, W. (1890). The principles of psychology (Vol. 1). New York: Nasby, W. (1989). Private and public self-consciousness and articulation of the self-schema. Journal ofPersonality and Social Psychology,
+Holt.
+56, 117-123.
+Kernis, M. H., & Grannemann, B. D. (!988). Private self-consciousness and perceptions of self-consistency. Personality and Individual O'Brien, E. J., & Epstein, S. (1988). MSEI: The Multidimensional SelfEsteem Inventory. Odessa, FL: Psychological Assessment Resources.
+Differences, 9, 897-902.
+Paulhus, D. L. (1991). Measurement and control of response bias. In
+Kernis, M. H., & Waschull, S. B. (1995). The interactive roles of stabilJ. P. Robinson, P. R. Shaver, & L. S. Wrightsman (Eds.), Measures of
+ity and level of self-esteem: Research and theory. In M. P. Zanna
+
+156
+
+CAMPBELL ET AL.
+
+personality and social attitudes (pp. 17-59). San Diego, CA: Academic Press.
+Paulhus, D. L., & Levitt, K. (1983). A short version of the RepressionSensitization Scale: Themini-RS. Unpublished manuscript. University of British Columbia, Vancouver, British Columbia, Canada.
+Piliavin, J., & Charng, H. (1988). What is the factorial structure of the
+Private and Public Self-Consciousness Scales? Personality and Social
+Psychology Bulletin, 14, 587-595.
+Roberts, J. E., & Monroe, S. M. {1992). Vulnerable self-esteem and
+depressive symptoms: Prospective findings comparing three alternative conceptualizations. Journal of Personality and Social Psychology,
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+62,804-812.
+Rosenberg, M. (1965). Society and the adolescent self-image.
+Princeton, NJ: Princeton University Press.
+Sadowski, C. J., Moore, B. J., & Sellers, K. D. (1994, March). Need
+for cognition and self-concept clarity Paper presented at the annual
+conference of the Southeastern Psychological Association, New Orleans, LA.
+Salovey, P. (1992). Mood-induced self-focused attention. Journal of
+Personality and Social Psychology, 62, 699-707.
+Scheier, M. F., Buss, A. H., & Buss, D. M. {1978). Self-consciousness,
+self-report of aggressiveness and aggression. Journal of Research in
+Personality 12, 133-140.
+Schlenker, B. R. (1985). Identity and self-identification. In The self and
+social life (pp. 65-100). New York: McGraw-Hill.
+Setterlund, M. B., & Neidenthal, P. M. (1993). "Who am I? Why am I
+here?": Self-esteem, self-clarity, and prototype matching. Journal of
+Personality and Social Psychology, 65, 769-780.
+Showers, C. (1992). Compartmentalization of positive and negative
+self-knowledge: Keeping bad apples out of the bunch. Journal of Personality and Social Psychology, 62, 1036-1049.
+Smith, M., Wethington, E., & Zhan, G. (1994). Self-concept clarity and
+preferred coping styles. Unpublished manuscript, Cornell University.
+Suls, J., & Fletcher, B. (1985). Self-attention, life stress, and illness: A
+prospective study. Psychosomatic Medicine, 47, 469-481.
+Taylor, J. A. (1953). A personality scale of manifest anxiety. Journal of
+Abnormal and Social Psychology 48, 285-290.
+Tellegen, A. (1985). Structures of mood and personality and their relevance to assessing anxiety, with an emphasis on self-report. In
+A. H. Tuma& J. D. Masur(Eds.), Anxiety and the anxiety disorders
+(pp. 681-706). Hillsdale, NJ: Erlbaum.
+Tellegen, A., &. Waller, N. G. (in press). Exploring personality through
+
+test construction: Development of the Multidimensional Personality
+Questionnaire. In S. R. Briggs, J. M. Cheek, & E. Donahue (Eds.),
+Handbook of personality inventories. New York: Plenum.
+Tice, D. M. (1993). The social motivations of people with low selfesteem. In R. F. Baumeister(Ed.), Self-esteem: The puzzle of low selfregard(pp. 37-54). New York: Plenum.
+Trapnell, P. D., & Campbell, J. D. (1995). Self-consciousness and the
+five-factor model of personality: Distinguishing reflection from rumination. Manuscript submitted for publication.
+Trapnell, P. D., & Wiggins, J. S. (1990). Extension of the interpersonal
+adjective scales to include the Big Five dimensions of personality.
+Journal of Personality and Social Psychology, 59, 781 -790.
+Watson, D., & Clark, L. A. (1984). Negative affectivity: The disposition
+to experience aversive emotional states. Psychological Bulletin, 96,
+465-490.
+Watson, J. D., & Clark, L. A. (1992). On traits and temperament: General and specific factors of emotional experience and their relation to
+the Five-Factor model. Journal of Personality, 60, 441 -499.
+Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS
+scales. Journal of Personality and Social Psychology, 54, 1063-1070.
+Watson, D., & Tellegen, A. (1985). Toward a consensual structure of
+mood. Psychological Bulletin, 98,219-235.
+Wicklund, R. A., & Eckert, M. (1992). The self-knower: A hero under
+control. New York: Plenum.
+Wiggins, J. S. (1973). Personality and prediction: Principles of personality assessment. Reading, MA: Addison-Wesley.
+Wiggins, J. S. (1979). A psychological taxonomy of trait descriptive
+words: The interpersonal domain. Journal of Personality and Social
+Psychology, 37, 395-412.
+Wiggins, J. S., & Trapnell, P. D. (in press). Personality structure: The
+return of the Big Five. In R. Hogan, J. Johnson, & S. R. Briggs (Eds.),
+Handbook of personality psychology. New York: Academic Press.
+Wood, J. V., Saltzberg, J. A., & Goldsamt, L. A. (1990). Does affect
+induce self-focused attention? Journal of Personality and Social Psychology, 58, 899-908.
+Woods, W, Rhodes, M., & Whelan, N. (1989). Sex differences in positive well-being: A consideration of emotional style and marital status.
+Psychological Bulletin, 106, 249-264.
+
+Received August 22, 1994
+Revision received May 2, 1995
+Accepted May 3, 1995 •
+
+

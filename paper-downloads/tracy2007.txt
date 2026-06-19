@@ -1,0 +1,2217 @@
+PERSONALITY PROCESSES AND INDIVIDUAL DIFFERENCES
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+The Psychological Structure of Pride: A Tale of Two Facets
+Jessica L. Tracy
+
+Richard W. Robins
+
+University of British Columbia
+
+University of California, Davis
+
+To provide support for the theoretical distinction between 2 facets of pride, authentic and hubristic (J. L.
+Tracy & R. W. Robins, 2004a), the authors conducted 7 studies. Studies 1– 4 demonstrate that the 2 facets
+(a) emerge in analyses of the semantic meaning of pride-related words, the dispositional tendency to
+experience pride, and reports of actual pride experiences; (b) have divergent personality correlates and
+distinct antecedent causal attributions; and (c) do not simply reflect positively and negatively valenced,
+high- and low-activation, or state versus trait forms of pride. In Studies 5–7, the authors develop and
+demonstrate the reliability and validity of brief, 7-item scales that can be used to assess the facets of pride
+in future research.
+Keywords: pride, authentic pride, hubristic pride, self-conscious emotions
+
+self-esteem in turn influences a wide range of intrapsychic and
+interpersonal processes.
+Despite its centrality to social behavior, pride has received little
+attention in the social–personality literature, even relative to other
+self-conscious emotions such as shame and guilt. As a selfconscious emotion, pride traditionally has been viewed as belonging to a secondary class of emotions, separate from the so-called
+basic emotions that are thought to be biologically based and
+universal. However, recent research showing that pride has a
+distinct, cross-culturally recognized nonverbal expression that is
+accurately identified by children and adults (Tracy & Robins,
+2004b, 2006; Tracy, Robins, & Lagattuta, 2005) suggests that
+pride might meet the requisite criteria to be considered a basic
+emotion. In fact, pride may serve important adaptive functions.
+The expression of pride may communicate an individual’s success
+(which elicits the emotion) to others, thereby enhancing the individual’s social status; and the subjective experience of pride might
+reinforce the behaviors that generate proud feelings, boost selfesteem, and communicate to the individual that she or he merits
+increased status. Thus, following a socially valued success, pride
+might function to maintain and promote an individual’s social
+status and group acceptance (Leary, Tambor, Terdal, & Downs,
+1995), thereby helping to prevent group rejection. This evidence
+for the importance of pride in social life raises questions about
+what, exactly, pride is. How can we characterize its psychological
+structure?
+
+One must not confuse pride and self-love, two passions very different in their nature and in their effects. Self-love is a natural
+sentiment which prompts every animal to watch over its own conservation. . . Pride is only a relative, artificial sentiment born in society,
+a sentiment which prompts each individual to attach more importance
+to himself than to anyone else. . .
+—Rousseau (1754/1984, p. 167)
+
+Pride is an important emotion that plays a critical role in many
+domains of psychological functioning. In particular, feelings of
+pride reinforce prosocial behaviors such as altruism and adaptive
+behaviors such as achievement (Hart & Matsuba, in press; Weiner,
+1985). The loss of pride is part of what provokes aggression and
+other antisocial behaviors in response to ego threats (Bushman &
+Baumeister, 1998). The regulation of pride is intrinsically linked to
+self-esteem regulation and maintenance; many acts of selfenhancement are likely attempts to increase one’s feelings of pride.
+In fact, pride is the primary emotion (along with shame) that gives
+self-esteem its affective kick (J. D. Brown & Marshall, 2001), and
+
+Editor’s Note. Mark R. Leary served as the action editor for this article.—CSC
+
+Jessica L. Tracy, Department of Psychology, University of British Columbia, Vancouver, British Columbia, Canada; Richard W. Robins, Department of Psychology, University of California, Davis.
+This research was supported by National Institute of Aging Grant
+AG022057, Social Sciences and Humanities Research Council Grant 4102006-1593, and a predoctoral fellowship from Nation Institute of Mental
+Health Grant T32 MH2006. We thank June Tangney for helpful comments
+on a draft of this article.
+Correspondence concerning this article should be addressed to Jessica L.
+Tracy, Department of Psychology, University of British Columbia, 2136
+West Mall Vancouver, British Columbia, V6T 1Z4 Canada. E-mail:
+jltracy@psych.ubc.ca
+
+WHAT IS PRIDE?
+Several researchers have argued that pride is too broad a concept
+to be considered a single, unified construct and is better viewed as
+two or more distinct emotions (Ekman, 2003; M. Lewis, 2000).
+Consistent with this perspective, pride has been empirically and
+theoretically linked to highly divergent outcomes. On the one
+hand, pride in one’s successes might promote positive behaviors in
+
+Journal of Personality and Social Psychology, 2007, Vol. 92, No. 3, 506 –525
+Copyright 2007 by the American Psychological Association 0022-3514/07/$12.00
+DOI: 10.1037/0022-3514.92.3.506
+
+506
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRUCTURE OF PRIDE
+
+the achievement domain (Herrald & Tomaka, 2002) and contribute
+to the development of a genuine and deep-rooted sense of selfesteem. On the other hand, the hubristic pride theoretically associated with narcissism (M. Lewis, 2000), which has been labeled
+the deadliest of the Seven Deadly Sins (Dante, 1308 –1321/1937),
+might contribute to aggression and hostility, interpersonal problems, relationship conflict, and a host of maladaptive behaviors
+(Bushman & Baumeister, 1998; Campbell, 1999; Kernberg, 1975;
+Kohut, 1976; Morf & Rhodewalt, 2001; Paulhus, Robins, Trzesniewski, & Tracy, 2004). How can the same emotion serve such
+varied and, in many ways, antagonistic roles?
+This paradox can be resolved if we tease apart the prosocial,
+achievement-oriented form of the emotion from the selfaggrandizing, hubristic form and postulate two distinct facets of
+pride (M. Lewis, 2000). A large body of research indicates that
+shame and guilt are distinct, negative self-conscious emotions with
+divergent elicitors and outcomes (see Tangney & Dearing, 2002,
+for a review), and it might make sense to conceptualize pride in a
+similar manner (M. Lewis, 2000; Tangney, Wagner, & Gramzow,
+1989). Specifically, the pride that results from a specific achievement or prosocial behavior might be distinct from pride in one’s
+global self. This distinction parallels the conceptualization of guilt
+as derived from a focus on negative aspects of one’s behavior—the
+thing that was done or not done—and shame as derived from a
+focus on negative aspects of one’s self—the self who did or did not
+do it (H. B. Lewis, 1971; M. Lewis, 2000; Tangney & Dearing,
+2002). In numerous studies, Tangney and her colleagues (see
+Tangney & Dearing, 2002, for a review) have demonstrated that
+this distinction characterizes the key difference between shame
+and guilt and might be the source of the wide range of divergent
+outcomes associated with the two emotions (e.g., guilt and shame
+have divergent effects on variables ranging from self-esteem and
+optimism to depression, anxiety, and recidivism).
+Building on these ideas and findings, we recently developed a
+theoretical model of self-conscious emotions in which we hypothesized the existence of two distinct variants of pride, elicited by
+distinct cognitive processes (Tracy & Robins, 2004a). According
+to our model, self-conscious emotions (pride, shame, guilt, and
+embarrassment) are elicited when individuals direct attentional
+focus to the self, activating self-representations, and appraise an
+emotion-eliciting event as relevant to those representations. In the
+case of pride, the event also must be congruent with positive
+self-representations. Individuals then must make a series of causal
+attributions. Psychologists have long noted that pride occurs in
+response to internal attributions—that is, when the self is credited
+as the cause of the event (Ellsworth & Smith, 1988; M. Lewis,
+2000; Roseman, 1991; C. A. Smith & Lazarus, 1993; Weiner,
+1985). However, building on previous theoretical work, we have
+argued that two facets of pride can be distinguished by subsequent
+attributions. Specifically, authentic, or beta, pride (I’m proud of
+what I did) might result from attributions to internal, unstable,
+controllable causes (I won because I practiced), whereas pride in
+the global self (I’m proud of who I am), referred to as hubristic, or
+alpha, pride (M. Lewis, 2000; Tangney et al., 1989), might result
+from attributions to internal, stable, uncontrollable causes (I won
+because I’m always great).
+We have labeled the first facet authentic to emphasize that it is
+typically based on specific accomplishments and is likely accompanied by genuine feelings of self-worth. This label also connotes
+
+507
+
+the full range of academic, social, moral, and interpersonal accomplishments that might be important elicitors.1 However, we do not
+wish to imply that hubristic pride is not an authentic emotional
+experience. Rather, from a theoretical perspective at least, the
+elicitors of hubristic pride might be more loosely tied to actual
+accomplishments and might involve a self-evaluative process that
+reflects a less authentic sense of self (e.g., distorted and selfaggrandized self-views). Of note, our theoretical model specifies
+that there are two facets of pride, but it does not indicate whether
+these two facets constitute distinct emotions in the way that shame
+and guilt are generally conceptualized. We hope that the present
+findings provide insights into this issue, and we return to it in the
+General Discussion.
+In addition to explicating the nature of a complex emotion, the
+distinction between the two facets of pride might help resolve
+controversial questions about the ways in which individuals regulate self-esteem. Researchers have noted similarities and differences between high self-esteem and narcissism, two personality
+constructs that involve high levels of pride but that are associated
+with divergent cognitive and behavioral repertoires (e.g., Bushman
+& Baumeister, 1998; Paulhus, Robins, Trzesniewski, & Tracy,
+2004; Twenge & Campbell, 2003). One way to conceptualize the
+difference between the two personality dimensions is to postulate
+that each is driven by a different affective core—a different facet
+of pride. Specifically, authentic pride might accompany and fuel
+high self-esteem, whereas hubristic pride might be the basis of
+narcissists’ subjective feeling state (M. Lewis, 2000; Tracy &
+Robins, 2003).2 In fact, hubristic pride might be part of a dynamic
+regulatory pattern through which narcissists suppress feelings of
+shame, in part, by expressing and experiencing exaggerated feelings of (hubristic) pride (Tracy & Robins, 2003). According to this
+view, narcissists have highly dissociated positive and negative
+self-representations, such that the implicit self is more negative
+and the explicit self more positive and idealized. This dissociation
+seems likely to be associated with internal, stable, uncontrollable
+attributions for success at the explicit self-level (I am a perfect
+person, I’m always perfect), which, according to our model, would
+elicit hubristic pride.
+
+THE PRESENT RESEARCH
+In seven correlational and experimental studies, we test hypotheses derived from our theoretical model of the structure of pride
+and its associated processes (Tracy & Robins, 2004a) and develop
+scales for assessing the two facets of pride. In Study 1, we examine
+lay conceptions about the similarity among pride-related words
+and whether these words cluster into two distinct semantic-based
+groupings. If pride is constituted of two distinct facets, then lay
+conceptions should include two distinct semantic clusters, with
+content mapping onto the theoretical distinction between authentic
+and hubristic pride.
+1
+In a previous article, we labeled authentic pride with the somewhat
+more narrow descriptor, “achievement-oriented” (Tracy & Robins, 2004a).
+2
+Following this reasoning, authentic pride should be more closely
+linked to genuine, or “authentic,” self-esteem, whereas hubristic pride
+should be more closely linked to “fragile” self-esteem (Kernis, 2003; Tracy
+& Robins, 2003).
+
+TRACY AND ROBINS
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+508
+
+In Studies 2 and 3, we further test whether there are two facets
+of pride by asking participants to rate the extent to which they
+experience each of a comprehensive list of pride-related words,
+both chronically over time (Study 2) and in response to a single
+pride-eliciting event (Study 3). In Studies 2 and 3, we also examine
+personality correlates of the pride facets by testing whether each
+facet is correlated in a theoretically meaningful way with selfesteem, narcissism, shame-proneness, and the Big Five factors of
+personality. On the basis of previous research and theory, we
+expected authentic pride to be positively related to self-esteem and
+hubristic pride to be positively related to narcissism and shame.
+Although the lack of extant research prevents us from making any
+specific predictions about the Big Five, it seems reasonable to
+expect authentic pride to show a more socially adaptive personality
+profile than hubristic pride (i.e., to be positively associated with
+those traits previously found to be socially desirable—
+extraversion, agreeableness, conscientiousness, and emotional stability; John & Srivastava, 1999; Ozer & Benet-Martinez, 2006).
+Furthermore, to the extent that it is a prosocial, achievementmotivated emotion, authentic pride should be particularly strongly
+related to agreeableness and conscientiousness, the two personality
+traits that have been theoretically and empirically linked to
+achievement and a prosocial orientation (Digman, 1997; Graziano
+& Tobin, 2002; Roberts, Chernyshenko, Oleksandr, Stark, & Goldberg, 2005). In Studies 2 and 3, we also test several alternative
+interpretations of the facets, including the possibility that they
+might be better characterized as positive versus negative valence
+factors, high- versus low-activation factors, or state versus trait
+factors.
+In Studies 3 and 4, we test a specific prediction from our
+theoretical model (Tracy & Robins, 2004a), namely that the two
+facets of pride are elicited by distinct causal attributions, such that
+authentic pride is typically elicited by internal, unstable, controllable attributions for a positive event, whereas hubristic pride is
+typically elicited by internal, stable, uncontrollable attributions for
+the same positive event.3 Specifically, in Study 3, we examine
+correlations between participants’ pride feelings during a pride
+event and their attributions for that event, content coded from
+open-ended narrative descriptions; and, in Study 4, we manipulate
+participants’ attributions for a hypothetical pride-eliciting event
+and assesses their expected emotional responses.
+Finally, in Studies 5–7, we develop brief and reliable scales for
+assessing the two facets of pride. These studies refine the set of
+items that best represent each facet by using data collected on close
+to 2,000 participants from both trait and state assessments of pride.
+In Study 7, we provide preliminary support for the validity of these
+scales by examining their correlations with theoretically relevant
+variables. In addition, in Study 7, we further address the question
+of whether the two facets are associated with distinct causal
+attributions.
+Despite strong theoretical reasons to distinguish between the
+two facets of pride, there have been no systematic studies of the
+structure of pride; this research marks the first attempt to empirically distinguish between authentic and hubristic pride.
+
+Study 1
+In this study, we examine the structure of pride in terms of lay
+conceptions about its semantic domain; specifically, whether peo-
+
+ple conceptualize pride as having two distinct facets and, if so,
+whether the content of these facets maps onto the theoretical
+distinction between authentic and hubristic pride. To examine
+people’s ideas of pride, we assessed participants’ ratings of the
+semantic similarity among pride-related words. If there are two
+distinct facets of pride constructs, participants’ ratings of the
+similarity among pride-related words should reveal two clusters of
+words, and these clusters should correspond in meaning to the
+theoretical facets.
+
+Method
+Participants
+Undergraduate students enrolled in psychology courses (N ⫽
+99; 79% female, 21% male) completed a questionnaire in exchange for course credit.
+
+Measures
+Participants were shown 190 pairs of 20 pride-related words
+(each word paired one time with each other word) and were
+instructed to “rate the following pairs of words or phrases according to how similar in meaning you think they are to each other” on
+a scale ranging from 1 (not at all similar) to 5 (extremely similar).
+The 20 pride-related words were taken from a previous study
+that used an open-ended response method to assess recognition of
+the pride nonverbal expression (Tracy & Robins, 2004b, Study 2).
+In that study, participants viewed photographs of individuals posing expressions of pride and were asked, “Which emotion is being
+expressed in this photo?” To identify the most prototypical priderelated responses, eight expert coders rated the extent to which
+each response was prototypical of pride on a 5-point scale (␣
+reliability ⫽ .92) ranging from 1 (not at all prototypical) to 5
+(extremely prototypical). These coders were advanced undergraduate research assistants, trained to make prototypicality ratings by
+Jessica L. Tracy. To exclude irrelevant responses and to reduce the
+number of similarity ratings that participants needed to make, we
+included in the present study only those responses that had a mean
+prototypicality rating of 4 or greater. From this set, we removed
+two responses that pilot testing suggested would be difficult to rate
+(exulted and yes, I’m the greatest), leaving 20 pride-related words
+for inclusion in the present study.
+
+Results and Discussion
+We analyzed participants’ similarity ratings by using two clustering procedures. First, we used the pathfinder algorithm
+3
+
+The attributional dimension of stability concerns the extent to which
+the causes of events have permanence beyond the specific event caused.
+Controllability is a related dimension, and represents the extent to which
+the causes of events can be changed. Controllable causes tend to be
+unstable, and some have argued that the controllability dimension can be
+accounted for by the dimensions of stability and globality (Peterson, 1991).
+However, others have argued that controllability contributes additional
+variance to emotion outcomes beyond these other dimensions (Weiner,
+1991). Both dimensions are typically studied in terms of two specific
+causes—ability and effort—in which ability is viewed as a stable, uncontrollable cause, and effort as an unstable, controllable cause (Weiner,
+1985).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRUCTURE OF PRIDE
+
+(Schvaneveldt, 1990). This algorithm computes the average similarity between each construct in a network by combining participants’ ratings of similarity. The output of a pathfinder analysis is
+a network representation of the relations among constructs, with
+visible links indicating the strength of the association between any
+two constructs (i.e., shorter lengths indicate a closer association).
+Second, we analyzed the similarity ratings by using the more
+traditional method of hierarchical cluster analysis. The use of two
+clustering procedures allows us to be more confident in results that
+converge across methods. Furthermore, each procedure has unique
+advantages. The pathfinder program generates a fine-grained visual map of the direct and indirect connections among constructs,
+whereas the agglomeration coefficients that emerge from cluster
+analysis provide greater guidance about the number of clusters and
+subclusters that exist within a given content domain. Thus, the use
+of the two methods together might be the best approach for
+identifying the number of distinct, internally coherent conceptual
+clusters that exist in the pride domain and for reaching an understanding of the content of these clusters.
+The visual map generated by the pathfinder analysis is presented
+in Figure 1A. Given that the map is a descriptive portrait of the
+interrelations among terms, we cannot use it to formally test
+whether there are two distinct facets of pride, but we can examine
+whether its content is consistent with this perspective. Indeed, one
+plausible interpretation of the map is that there exist two distinct
+clusters of words. As can be seen from Figure 1, the two most
+apparent clusters are separated vertically and are linked to each
+other through the single word proud, which seems to fit in both
+clusters. Within each cluster, most words are linked indirectly
+through several other words, but the links are short enough to
+indicate that the words in each cluster are closely interrelated.
+We next took the mean of participants’ similarity ratings for
+each word pair and subjected these mean ratings to hierarchical
+cluster analysis by using Ward’s linkage method. The number of
+clusters was determined by examination of agglomeration coefficients at each stage of clustering. A large change in coefficient size
+(13.32 to 32.20) came at the break between one and two clusters
+(the final four coefficients were 32.20, 13.32, 10.06, and 7.50), so
+we adopted a two-cluster solution (see Figure 1B). Thus, both
+clustering methods suggested that pride-related words can be organized into two conceptual clusters.
+To determine whether the two clusters that emerged from these
+analyses correspond to the theoretical facets of authentic and
+hubristic pride, we examined the content of words in each cluster
+in the pathfinder output and in the dendrogram—the visual output
+of hierarchical links among words in the cluster analysis. As can be
+seen from both panels of Figure 1, the words in the first cluster
+seem to fall within the domain of authentic pride. These words
+describe feelings about a controllable, typically effort-driven
+achievement, such as accomplished, triumphant, and confident.
+Almost none of these words convey the stable, grandiose feelings
+associated with hubristic pride. In contrast, the second cluster in
+both panels includes words such as arrogant, cocky, and conceited,
+which connote feelings associated with narcissistic selfaggrandizement.
+In summary, Study 1 supports the claim that pride has two
+distinct facets, one of which is conceptually linked to achievement
+and other connotations of authentic pride (e.g., genuine selfesteem) and the other to general feelings of hubris and other
+
+509
+
+components of narcissism. However, these findings are based on
+individuals’ abstract conceptualizations of pride-related words,
+and we do not know whether the feelings uniquely associated with
+the words in each cluster tend to co-occur when people report on
+actual pride experiences. In fact, it is possible that there exist
+consensual ideas, or cultural scripts, about the conceptual structure
+of pride that are not rooted in actual emotional experience
+(Haslam, Bain, & Neal, 2004). We address this issue first in Study
+2 by assessing participants’ tendencies to experience a range of
+pride-related feelings and again in Study 3 by assessing participants’ reports of their actual emotional feelings during a prideeliciting event. In both studies, we examine whether pride-related
+emotional experiences cohere in the predicted two facets.
+
+Study 2
+In Study 2, we examine whether the two pride facets replicate in
+participants’ ratings of their tendency to experience a large set of
+pride-related feeling states. We further test the theoretical conception that hubristic pride is a grandiose form of pride relevant to
+narcissism, whereas authentic pride is a prosocial form of the
+emotion, more relevant to genuine self-esteem (M. Lewis, 2000;
+Tracy & Robins, 2004a). From this perspective, authentic pride
+should be linked to genuine high self-esteem, whereas hubristic
+pride should be linked to narcissism and shame. In addition, we
+attempt to further uncover the personality profile of individuals
+who tend to experience one facet of pride versus the other by
+examining correlations between the facets and the Big Five factors
+of personality. If authentic pride is the more prosocial facet, then
+it should show stronger positive correlations with agreeableness
+and conscientiousness, the two personality traits most closely
+related to prosocial behaviors and achievement (Digman, 1997;
+Graziano & Tobin, 2002; Roberts et al., 2005).
+We also test three alternative hypotheses for the finding that
+people conceptualize pride in terms of two facets. One possibility
+is that the distinction is accounted for by a distinction in evaluative
+valence. Like many emotions, pride might incorporate both positive (i.e., adaptive) and negative (i.e., maladaptive) elements such
+that the positive side of the emotion includes all the concepts and
+feelings associated with authentic pride, whereas the negative side
+includes concepts and feelings associated with hubristic pride.
+Another related possibility is that the distinction is due to differences in activation level among pride-related concepts. According to
+Feldman-Barrett and Russell (1998), the bipolar dimensions of activation and evaluative valence underlie the lexicon of all mood and
+affect terms (Feldman-Barrett & Russell, 1998). Thus, it is possible
+that one of the facets (e.g., authentic pride) includes all high-activation
+pride-related words, and the other (e.g., hubristic pride) includes all
+low-activation pride-related words. In fact, given that authentic pride
+is thought to occur in response to a specific achievement, it might
+frequently co-occur with a very high-activation emotion, excitement.
+Thus, it is possible that the distinction between the two facets can be
+explained as a distinction between a low-activation version of the
+emotion and a high-activation version that is, perhaps, a blend of pride
+and excitement.
+It is also possible that the distinction is a temporal one; hubristic
+pride might be pride when it takes the form of a stable, chronic
+disposition, whereas authentic pride is the state-like momentary
+response form of the emotion. In other words, people who tend to
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+510
+TRACY AND ROBINS
+
+Figure 1. A: Visual map of links among pride-related constructs produced by pathfinder analysis. B:
+Dendrogram of hierarchical structure of pride-related constructs, produced by cluster analysis.
+
+STRUCTURE OF PRIDE
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+experience the state of authentic pride frequently, or repeatedly
+over time, might be characterized by the trait of hubristic pride.
+Again, this conceptualization fits with findings on other emotions;
+for example, the state and trait forms of fear have divergent
+correlates. The state form is associated with quick action and
+escape behaviors (LeDoux, 1996), whereas the trait form—
+chronic anxiety—is associated with elaborate cognitive rumination
+(i.e., focusing on the emotion and elicitor rather than escaping it)
+and worry (Nolen-Hoeksema, 2000), behaviors that do not promote quick action or escape. In the present research, after seeking
+evidence for the two facets, we test whether such facets can be
+accounted for by these three alternative explanations.
+
+Method
+Participants
+Undergraduate students enrolled in psychology courses (N ⫽
+110; 90% female, 10% male) completed a questionnaire in exchange for course credit.
+
+Measures
+Ratings of proneness to pride-related feelings. Participants
+rated the extent to which they “generally feel this way” for 77
+pride-related words on a scale ranging from 1 (not at all) to 5
+(extremely). Pride-related words were derived from two sources.
+First, as in Study 1, words were taken from responses to photos of
+the pride nonverbal expression in a prior study (Tracy & Robins,
+2004b, Study 2). To include a more comprehensive set of priderelated words, we used the 45 responses with mean pride prototypicality ratings greater than 3 (the midpoint of the scale).
+Second, to ensure that we captured the full spectrum of the pride
+experience and not only aspects relevant to the pride nonverbal
+expression, we obtained a second set of words by instructing a new
+sample of undergraduate psychology students (N ⫽ 205; 79%
+female, 21% male) to do the following:
+Think about the emotion of PRIDE and how you feel when this
+emotion occurs. We would like you to generate a list of words that
+characterize what you think, feel, and do when you’re feeling pride.
+Keep in mind the thoughts that go through your head, the behaviors
+you might show, and the way you feel emotionally and physically.
+Now write as many words as you can think of that characterize pride.
+
+The number of responses listed by each participant ranged from 6
+to 24, producing a total of 795 different words or phrases. Of these
+responses, 65 were listed by at least 2% (n ⫽ 4) of the sample.
+Combining these 65 words with the 45 words derived from pride
+photos and removing all duplicates produced the final set of 77
+pride-related words.4
+Valence and activation. Participants rated the extent to which
+they “generally feel this way” for each of the words on FeldmanBarrett and Russell’s (1998) valence (e.g., happy, content, miserable, displeased) and activation (e.g., aroused, alert, quiet, still)
+mood measures on a scale ranging from 1 (not at all) to 5
+(extremely; ␣ reliability ⫽ .77 for valence and .60 for activation).
+State and trait ratings. Given that it is impossible to assess
+“stateness” or “traitedness” at the individual-difference level (it
+makes no sense to ask participants to rate the extent to which they
+tend to feel “state-like” or “trait-like”), we used a different method
+
+511
+
+to test whether the factors are simply state versus trait pride. We
+assessed stateness and traitedness at the word level and then
+conducted analyses across the pride-related words rather than
+across people. Eleven doctoral students in social–personality psychology rated the extent to which each of the 77 pride-related
+words is “a stable trait” (i.e., what a person is like in general) and
+a “temporary state” (i.e., transient thoughts and feelings; what a
+person is like at a particular moment) on a scale ranging from 1
+(not at all) to 7 (extremely). The alpha reliability was .82 for the
+state ratings and .92 for the trait ratings. The state and trait ratings
+correlated (⫺.70, p ⬍ .05) across the 77 words.
+Personality measures. Several weeks prior to participating in
+the study, participants completed the 10-item Rosenberg SelfEsteem Scale (RSE; Rosenberg, 1965; ␣ ⫽ .86); the 40-item
+Narcissistic Personality Inventory (NPI; Raskin & Terry, 1988;
+␣⫽ .83); the 44-item Big Five Inventory (BFI; John & Srivastava,
+1999), which assesses the Big Five factors of Extraversion (␣ ⫽
+.87), Agreeableness (␣ ⫽ .74), Conscientiousness (␣ ⫽ .82),
+Neuroticism (␣ ⫽ .82), and Openness to Experience (␣ ⫽ .74); and
+the 16-item Shame-Proneness subscale from the Test of SelfConscious Affect (TOSCA-3; Tangney & Dearing, 2002; ␣ ⫽
+.80). We also assessed guilt-proneness (␣ ⫽ .81) with the
+TOSCA-3 in order to compute a scale of guilt-free shame by
+saving the standardized residuals from a regression equation predicting shame from guilt.
+
+Results and Discussion
+To test whether there are two distinct dimensions underlying the
+tendency to experience pride, we conducted a factor analysis with
+oblimax rotation on participants’ ratings of the pride-related feeling states.5 Although the ratio of participants to variables was
+relatively small (110:77), the ratio of variables to factors was very
+high (77:2), making a sample size of 110 more than adequate
+(Goldberg & Velicer, 2004; Lee & Ashton, 2007; MacCallum,
+Widaman, Zhang, & Hong, 1999). Consistent with our hypothesis,
+a scree test indicated two factors; eigenvalues for the first six
+unrotated factors were 23.6, 5.8, 3.2, 2.8, 2.4, and 2.0, respectively,
+and the first two factors accounted for 38.7% of variance. Although the two-factor solution leaves a considerable amount of
+variance unexplained, this level of variance explained is typical of
+factors based on single-item ratings, which generally have low
+reliability (and therefore relatively little reliable variance to explain) and for factor analyses conducted on a large number of
+items that are highly heterogeneous. The two factors correlated
+(.36), suggesting that they are somewhat related.
+To test whether the data might be better characterized by a
+one-factor solution, we used confirmatory factor analysis with the
+two pride factors defined by parcels of 6 or 7 items (randomly
+selected from among the items defining each factor), as recom4
+We also removed two words, the exact meanings of which in this
+context might be unfamiliar to many undergraduate students (exulted,
+better), and three purely evaluative terms (good, great, and positive). The
+full set of 77 words used is available from Jessica L. Tracy upon request.
+5
+All analyses reported were replicated when varimax rotation was used
+instead. Given our theoretical perspective that authentic and hubristic pride are
+facets of a broader content domain (“pride”), we expected the factors to
+correlate slightly and thus chose to report findings based on oblimax rotation.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+512
+
+TRACY AND ROBINS
+
+mended by Kishton and Widaman (1994). The use of parcels also
+allowed us to test whether the factor structure would replicate with
+a higher participant-to-item ratio (110:12). The one-factor solution
+did not have an acceptable level of fit, ␹2(54, N ⫽ 105) ⫽ 307.78,
+comparative fit index (CFI) ⫽ .92, root-mean-square error of
+approximation (RMSEA) ⫽ .213, pclose fit ⫽ .000. In contrast, a
+confirmatory factor analysis with the parcels showed that the
+two-factor solution had an acceptable fit, ␹2(54, N ⫽ 105) ⫽
+97.56, CFI ⫽ .98, RMSEA ⫽ .088, pclose fit ⫽ .018, which was
+even better when we allowed the two factors to correlate, ␹2(52,
+N ⫽ 105) ⫽ 69.71, CFI ⫽ .99, RMSEA ⫽ .057, pclose fit ⫽ .349.
+The difference in fit between the one-factor and the two-factor
+solutions was significant, ␹2change(2, N ⫽ 105) ⫽ 238.07, p ⬍ .05.
+To examine whether the data might be better characterized by a
+three-factor solution, we conducted another factor analysis on
+participants’ pride-related word ratings, in which we extracted
+three factors and rotated them with oblimax rotation. The content
+of the first two factors remained the same but became more
+conceptually coherent (i.e., the best loading words on each factor
+seemed more relevant to the theoretical content of each factor and
+to the words that clustered together in Study 1), and the third factor
+was constituted of words that seemed more heterogeneous and less
+conceptually linked to pride (e.g., loving, stubborn, relieved). On
+the basis of these analyses, we concluded that a two-factor solution
+provided the best and most coherent fit to the data.
+To better interpret the two factors, we next examined the content
+of the words that loaded on each factor. The first factor was clearly
+identifiable as Authentic Pride; 8 of the 10 words from the authentic pride cluster in Study 1 had their highest loading on this
+factor (the two exceptions were victorious and superior).6 The
+second factor was clearly identifiable as Hubristic Pride; all 10 of
+the 10 words from the hubristic pride cluster in Study 1 had their
+highest loading on this factor. The remainder of items that loaded
+highly on the Authentic Pride factor related to achievement (e.g.,
+self-assured, like I have ability, successful) or to generalized
+positive affect (e.g., smiling, joyful). The remainder of items that
+loaded highly on the Hubristic Pride factor related to narcissistic
+self-enhancement (e.g., self-centered, snobbish, smug). The fact
+that generalized positive affect words loaded on the first factor
+suggests that authentic pride might be a more positive emotional
+experience than might be hubristic pride and/or that it is more
+socially desirable than is hubristic pride.7 Thus, both the confirmatory factor analyses and the pattern of factor loadings suggest
+that the data are best characterized by two factors that appear to be
+somewhat related and that correspond conceptually to authentic
+and hubristic pride.
+
+What Accounts for the Two Factors?
+Is it a distinction in evaluative valence? To test whether the
+two factors are simply based on distinctions in valence, we partialled valence out of every pride-related word and then conducted
+factor analyses on these residualized items. Specifically, we regressed participants’ ratings of valence words onto their ratings of
+each pride-related word and saved the standardized residuals for
+each word. If the two factors from the original analysis simply
+reflect groupings of pleasant and unpleasant words, then partialling
+out evaluative variance should prevent those same factors from
+emerging.
+
+However, a factor analysis with oblimax rotation of these residual ratings produced two factors with loadings essentially replicating those from the original analysis. To provide a quantitative
+index of the correspondence, we computed correlations between
+the profile of factor loadings on the original and the valence-free
+factors. These correlations (which are computed across the 77
+items, not across people) indicate the extent to which items that
+have a high (vs. low) loading on the original factor also have a high
+(vs. low) loading on the valence-free factor. These correlations
+were .88 for Authentic Pride and .97 for Hubristic Pride. We also
+examined correlations between factor scores, which are computed
+across people. The valence-free Authentic Pride factor correlated
+(.75) with the original Authentic Pride factor, and the valence-free
+Hubristic Pride factor correlated (.98) with the original Hubristic
+Pride factor. Thus, the original factors were generally unchanged
+by partialling out evaluative valence, suggesting that the two
+dimensions reflect more than just positive and negative sides of the
+emotion.
+Is it a distinction in activation? To test whether the two facets
+of pride are simply based on distinctions in activation, we partialled activation out of every pride-related word and then conducted factor analyses on these residualized items. Specifically, we
+regressed participants’ ratings of activation words onto their ratings of each pride-related word and saved the standardized residuals for each word. If the two factors from the original analysis
+simply reflect groupings of activated and deactivated words, then
+partialling out variance in activation should prevent those same
+factors from emerging.
+However, a factor analysis with oblique rotation of these residual ratings produced two factors with loadings essentially replicating those from the original analysis. As with valence, we
+computed correlations between the profile of factor loadings on the
+original and activation-free factors. These correlations were .94 for
+Authentic Pride and .99 for Hubristic Pride. We also examined
+correlations between factor scores, which are computed across
+people. The activation-free Authentic Pride factor correlated (.84)
+with the original Authentic Pride factor, and the activation-free
+Hubristic Pride factor correlated (.97) with the original Hubristic
+Pride factor. Thus, the original factors were generally unchanged
+by partialling out activation, suggesting that the two dimensions
+reflect more than just activated and deactivated forms of pride.
+6
+
+The disparity regarding the word victorious might be due to the
+difference between state and trait forms of the word. In Study 2, participants viewed each word specifically as a dispositional tendency, but in
+Study 1, in which participants were not given any temporal information
+about the words, the likely default perspective would be to view emotion
+words as emotions—that is, temporary states. The fact that victorious
+returned to the authentic pride factor in Study 3, in which participants rated
+words as states, supports this interpretation. In contrast, the word superior
+emerged as a hubristic pride item in all analyses in both Studies 2 and 3,
+so its location in the authentic cluster in Study 1 is likely an anomaly
+related to that study.
+7
+We also conducted the factor analyses separately on words derived
+from photos of the pride expression and words derived from descriptions of
+the pride experience. For both sets, the same two factors emerged, with
+content replicating the authentic and hubristic pride clusters. We also
+conducted these analyses separately in Study 3 and again found the same
+pattern; the two factors emerged regardless of which set of words was used.
+
+STRUCTURE OF PRIDE
+
+513
+
+Table 1
+Correlations of Authentic and Hubristic Pride With Self-Esteem, Narcissism, Shame-Proneness,
+and the Big Five Personality Factors (Studies 2 and 3)
+Study 2: Trait pridea
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Measure
+RSE
+NPI
+Shame-pronenessc
+Extraversion
+Agreeableness
+Conscientiousness
+Emotional Stability
+Openness
+
+Authentic
+*
+
+*
+
+.62 (.56 )
+.28* (.10)
+⫺.43*
+.47*
+.35*
+.34*
+.43*
+.18
+
+Study 3: State prideb
+
+Hubristic
+
+Authentic
+
+⫺.30 (⫺.36 )
+.14 (.25*)
+.29*
+.00
+⫺.38*
+⫺.23*
+⫺.14
+⫺.08
+*
+
+*
+
+*
+
+*
+
+.38 (.33 )
+.26* (.16)
+⫺.26*
+.29*
+.36*
+.34*
+.19
+.25*
+
+Hubristic
+⫺.28* (⫺.35*)
+.13 (.23*)
+.26*
+⫺.06
+⫺.29*
+⫺.22
+⫺.20
+⫺.17
+
+Note. Values in parentheses are partial correlations controlling for narcissism and self-esteem, respectively.
+RSE ⫽ Rosenberg Self-Esteem Scale; NPI ⫽ Narcissistic Personality Inventory.
+a
+N ⫽ 99. b N ⫽ 91. c Shame-proneness scale is “guilt-free” shame (i.e., shame-proneness controlling for
+guilt-proneness).
+*
+p ⬍ .05.
+
+Is it a temporal distinction (state vs. trait)? In contrast to
+valence and activation, the state–trait ratings are ratings of the
+words themselves and, therefore, do not vary across participants.
+Thus, the only way to examine the degree to which each factor is
+trait-like versus state-like is to compute correlations across the 77
+items. Specifically, we correlated the profile of loadings for the
+Authentic Pride and the Hubristic Pride factors with the mean trait
+and state ratings for each item. These correlations ranged in
+magnitude from .01 to .12 (all ns). Thus, the extent to which a
+word is trait-like and state-like is not related to the magnitude of its
+loading on either factor. We also conducted t tests comparing the
+mean state and trait ratings for words that had their highest loading
+on Authentic Pride with mean trait and state ratings for words that
+had their highest loading on Hubristic Pride. There were no significant differences between the factors, suggesting that neither
+factor should be interpreted as a trait or state factor.
+
+What is the Personality Profile of the Authentic Versus
+the Hubristic Pride-Prone Person?
+Factor scores on the two pride factors provide a way to assess
+individual differences in the extent to which participants generally
+experience hubristic or authentic pride. By correlating these factor
+scores with theoretically relevant variables, we can further examine whether the two factors fit with the theoretical distinction
+between authentic and hubristic pride. The goal of these correlational analyses was to provide a greater conceptual understanding
+of the pride factors rather than to determine whether the factors can
+be entirely accounted for by variance in constructs such as selfesteem, narcissism, and shame—which, of course, was the goal of
+the prior analyses examining valence, activation, and stateness
+versus traitedness. Following Tangney and her colleagues (Tangney & Dearing, 2002), we conducted these analyses after removing
+the variance shared between the two factors; specifically, we
+computed residual scores via multiple regression, in which we
+removed variance associated with hubristic pride from the Authentic Pride factor and variance associated with authentic pride from
+the Hubristic Pride factor. This data analytic procedure fits with
+our aim to examine the distinct correlates of the two factors, just
+
+as Tangney and her colleagues aimed to understand the distinct
+correlates of guilt and shame by controlling for their shared variance.8
+Results showed that Authentic Pride was positively correlated
+with self-esteem and narcissism. Hubristic Pride was also positively correlated with narcissism, but, in contrast to Authentic
+Pride, it was negatively correlated with self-esteem (see Table 1).
+In addition, when we partialled out shared variance between narcissism and self-esteem (r ⫽ .30, p ⬍ .05) from of these correlations, the relationship between authentic pride and narcissism was
+substantially reduced (r ⫽ .10, ns). This finding suggests that the
+relationship between authentic pride and narcissism was likely the
+result of shared variance in self-positivity (which was removed
+when we controlled for self-esteem). In contrast, Hubristic Pride
+was uniquely related to narcissistic self-aggrandizement, the variable that remains when self-esteem is statistically removed from
+narcissism. This variable—the NPI controlling for the RSE—
+might be more similar to traditional conceptualizations of narcissism (i.e., Kernberg, 1975; Kohut, 1976) than are raw scores on the
+NPI (Paulhus et al., 2004).
+We also found that Authentic Pride was negatively correlated
+with shame-proneness, suggesting that individuals who tend to
+experience authentic pride tend not to feel shame. In contrast,
+Hubristic Pride was positively correlated with shame-proneness
+(r ⫽ .29, p ⬍ .05), which is consistent with the idea that hubristic
+pride might, in part, be a defensive response to underlying feelings
+of shame.
+Finally, we examined correlations between the pride factors and
+the Big Five factors of personality. Although we had no formal
+predictions, we expected that Authentic Pride would be associated
+with a more adaptive personality profile than would Hubristic
+Pride and, in particular, would show stronger positive correlations
+with the most prosocial factor, Agreeableness, and with the factor
+that most closely represents achievement motivation, Conscientiousness. Results supported these expectations; Authentic Pride
+8
+
+All significant correlations reported in Studies 2 and 3 remained significant when varimax rotation was used instead.
+
+TRACY AND ROBINS
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+514
+
+was positively correlated with all of the adaptive personality
+factors, except for Openness (for which the correlation was in the
+positive direction but was not significant). In contrast, Hubristic
+Pride was significantly correlated with only Agreeableness and
+Conscientiousness, and the negative relations with these factors is
+consistent with the idea that hubristic pride is the less prosocial,
+achievement-oriented facet (Agreeableness and Conscientiousness
+have been interpreted by Digman, 1997, as reflecting a superordinate factor of Socialization). It is important to note that for each of
+the Big Five except Openness, the correlations with Authentic
+Pride and Hubristic Pride differed significantly ( p ⬍ .05). Thus,
+individuals who tend to experience authentic pride have a markedly divergent personality profile from those who tend to experience hubristic pride.8
+
+Summary
+Study 2 provides further evidence for the existence of two
+distinct facets of pride and for the theoretical interpretation that
+these facets represent authentic and hubristic pride. This study also
+allows us to rule out several alternative interpretations of the two
+facets, namely that they simply reflect differences in valence,
+activation, or the extent to which each is a state versus a trait form
+of the emotion.9
+One limitation of Study 2, however, is that it focuses on emotional dispositions, and previous research suggests that the structure of affect might differ for temporary mood ratings (Diener &
+Emmons, 1984). Thus, in Study 3, we assessed participants’ reports of pride-related feelings in the context of a specific emotional
+experience. Study 3 also begins to address the cognitive process
+that underlies pride and whether the two facets might be associated
+with distinct cognitive attributions.
+
+Study 3
+In Study 3, we had two primary aims: (a) to replicate the findings
+of Studies 1 and 2 for descriptions of a specific pride experience and
+(b) to test whether the two facets of pride are distinguished by the
+causal attributions participants make for pride-eliciting events. To
+address these aims, we asked participants to write about an actual
+pride experience and to rate the extent to which each of a set of
+pride-related words characterized their feelings during the experience.
+As in Study 2, we used confirmatory factor analysis to determine
+whether the structure of pride feelings is characterized by two distinct
+dimensions that fit with the theoretical distinction between authentic
+and hubristic pride. We also again tested whether differences in
+valence and the extent to which words are state-like versus trait-like
+can account for the emergence of the two pride factors, this time by
+using a different measure of valence. In addition, we attempted to
+replicate the correlations found in Study 2 among the tendency to
+experience each of the pride factors and self-esteem, narcissism,
+shame-proneness, and the Big Five personality dimensions to validate
+the characterological profiles of the authentic and the hubristic prideprone person that emerged in Study 2.
+Study 3 also provides the first empirical test of a central hypothesis from our theoretical model: Attributing positive events to
+internal, unstable, controllable causes leads to authentic pride,
+whereas attributing the same events to internal, stable, uncontrollable causes leads to hubristic pride (Tracy & Robins, 2004a). We
+
+tested this hypothesis by assessing causal attributions through
+content coding of participants’ narrative descriptions of their pride
+experience and by assessing the two dimensions of pride from
+participants’ self-reported ratings of their feelings during the experience. By assessing attributions and emotions from such different sources, we can minimize shared method variance in any
+correlations found.
+We also examined the alternative possibility that the two dimensions of pride are elicited not by distinct cognitive appraisals
+(or causal attributions) but by distinct kinds of events. Researchers
+have long debated whether guilt and shame are elicited by distinct
+kinds of events or distinct appraisals of the same events (e.g., Buss,
+1980; H. S. Smith, Webster, Parrott, & Eyre, 2002; Tangney,
+Miller, Flicker, & Barlow, 1996). Recent research suggests that it
+is not the event, but rather how that event is appraised that
+determines which emotion occurs (Keltner & Buswell, 1996;
+Tangney et al., 1996; Tracy & Robins, in press). On the basis of
+this evidence, it seems likely that, to the extent that the two facets
+of pride are distinct, they too will be elicited by distinct cognitive
+appraisals and not by distinct antecedent events.
+
+Method
+Participants
+Undergraduate students enrolled in psychology courses (N ⫽
+105; 69% female, 31% male) participated in the study in exchange
+for course credit.
+
+Measures
+Pride event. Participants were instructed to “think about a time
+when you felt very proud of yourself. . .describe the events that led
+up to your feeling this way in as much detail as you can remember.” This task is a version of the well-established relived emotion
+task (Ekman, Levenson, & Friesen, 1983), which has been shown
+to manipulate emotional experiences and to produce emotiontypical subjective feelings and physiology (Ekman et al., 1983;
+Levenson, 1992). After providing open-ended narrative responses
+(ranging in length from one paragraph to one page), participants
+rated the extent to which each of the 77 pride-related words used
+in Study 2 described their feelings during the event on a scale
+ranging from 1 (not at all) to 5 (extremely).
+Valence. Participants rated the extent to which two words
+describing pure positive evaluation (good and positive) described
+their feelings during the event on a scale ranging from 1 (not at all)
+to 5 (extremely); alpha reliability for the two items ⫽ .73.
+State and trait ratings. We used the state and trait ratings of
+the pride-related words derived in Study 2.
+Personality measures. Several weeks prior to participating in
+the study, participants completed the BFI (␣s ⫽ .84 for Extraver9
+We also examined whether the factors could be accounted for by
+differences in intensity by correlating intensity ratings for each priderelated word (computed from means ratings across three expert raters,
+interrater reliability ⫽ .72) with the factor loadings. The correlations were,
+for authentic and hubristic pride respectively, ⫺.06 and .11 (both ns) in
+Study 2 and ⫺.07 and .21 (both ns) in Study 3, suggesting that the intensity
+of the words was not related to their loading on either factor.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRUCTURE OF PRIDE
+
+sion, .70 for Agreeableness, .79 for Conscientiousness, .76 for
+Neuroticism, and .78 for Openness to Experience), the RSE (␣ ⫽
+.89), the NPI (␣ ⫽ .82), and the TOSCA-3 Shame-proneness (␣ ⫽
+.72) and Guilt-proneness (␣ ⫽ .76) scales.
+Content coding of causal attributions from pride descriptions.
+Eight expert judges (advanced undergraduate research assistants),
+who were blind to participants’ ratings of their feelings and the
+goals of the study, were trained to independently code all openended responses on the following dimensions: (a) stability (Is the
+cause of the event something stable about the participant, which is
+likely to be present again in the future and cause similar events?)
+on a scale ranging from 1 (unstable cause, might never be present
+again) to 5 (highly stable cause, definitely present again); (b) self
+versus behavior (To the extent that the participant thinks the cause
+is due to something about himself or herself, does he or she
+attribute it more to his or her personality and self or to his or her
+actions and behaviors?) on a scale ranging from 1 (completely
+attributes to actions, behaviors) to 5 (completely attributes to self,
+personality); (c) ability (To what extent does the participant believe that his or her ability was the cause of the event?) on a scale
+ranging from 1 (not at all) to 5 (very much); and (d) effort (To what
+extent does the participant believe that the amount of effort that he
+or she made was the cause of the event?) on a scale ranging from
+1 (not at all) to 5 (very much). For each dimension, we computed
+the mean rating across judges; interrater alpha reliabilities were .74
+(stability), .74 (self vs. behavior), .81 (ability), and .89 (effort).
+The self versus behavior item provided a second index of stability
+and controllability, given that the self and personality are typically
+viewed as stable and uncontrollable, whereas actions and behaviors are unstable and controllable.
+Content coding of types of events that elicited pride. The eight
+judges were also trained to content code the extent to which each
+of the following events was the “type of event that elicited the
+emotion”: achievement (involving school, grades, exams, workrelated events/behavior), relational (involving romantic relationships), familial (involving family members), personal (involving
+personal goals or morals), and athletic. Each narrative received a
+score for each event type on a scale ranging from 1 (not at all this
+type of event) to 5 (very much this type of event). There was not
+enough variance on the relational item to compute an interrater
+reliability alpha (almost all descriptions received a 1 from all eight
+coders on this item, suggesting that relationships are not a prototypical elicitor of pride for college students); but for the other
+items interrater alpha reliabilities were .87 (achievement), .98
+(familial), .80 (personal), and 1.00 (athletic).
+
+515
+
+each rather than by individual items. The one-factor solution did
+not have an acceptable level of fit, ␹2(54, N ⫽ 98) ⫽ 443.07,
+CFI ⫽ .837, RMSEA ⫽ .273, pclose fit ⫽ .000. In contrast, a
+confirmatory factor analysis with the parcels showed that the
+two-factor solution had an acceptable fit, ␹2(54, N ⫽ 98) ⫽
+104.36, CFI ⫽ .97, RMSEA ⫽ .098, pclose fit ⫽ .005, which was
+even better when we allowed the two factors to correlate, ␹2(52, N
+⫽ 98) ⫽ 69.54, CFI ⫽ .98, RMSEA ⫽ .094, pclose fit ⫽ .011. The
+difference in fit between the one-factor and the two-factor solution
+was significant, ␹2(2, N ⫽ 98) ⫽ 346.53, p ⬍ .05.
+To examine whether the data might be better characterized by a
+three-factor solution, we again conducted a factor analysis on
+participants’ ratings of the pride-related words, in which we extracted three factors and rotated them with oblimax rotation. As in
+Study 2, the content of the first two factors remained the same but
+became more conceptually coherent (i.e., highly loading words
+were more relevant to the theoretical content of each factor), and
+the third factor included words that seemed less conceptually
+linked to pride (e.g., friendly, loving, secure, courageous). Thus, as
+in Study 2, the data are best characterized by two factors that
+appear to be somewhat related (r ⫽ .30).
+Consistent with Study 2, the content of the words that loaded
+onto each factor fit with the distinction between authentic and
+hubristic pride. Specifically, the first factor was clearly identifiable
+as Authentic Pride; 9 of the 10 words from the authentic pride
+cluster in Study 1 had their highest loading on this factor. The
+second factor was clearly identifiable as Hubristic Pride; all 10 of
+the 10 words from the hubristic pride cluster had their highest
+loading on this factor. As in Study 2, the remainder of items that
+loaded highly on the Authentic Pride factor related to achievement
+or to generalized positive affect, and the remainder of items that
+loaded highly on the Hubristic Pride factor related to narcissistic
+self-enhancement.
+To statistically examine the extent to which these factors replicated those found in Study 2, we computed correlations between
+the profile of factor loadings obtained in Studies 2 and 3. These
+correlations (which were computed across the 77 items, not across
+people), indicate the extent which items that have a high (vs. low)
+loading on each factor in Study 2 also have a high (vs. low) loading
+on each factor in Study 3. Authentic Pride correlated (.70, p ⬍ .05)
+across studies, and Hubristic Pride correlated (.69, p ⬍ .05) across
+studies. Given that these correlations are based on ratings from
+different samples of participants, who reported on pride in different contexts (their chronic dispositional tendencies versus their
+response to a particular event), the strength of the correlations
+indicates the robustness of the factors.
+
+Results and Discussion
+What Accounts for the Two Dimensions?
+Are There Two Dimensions of the Pride Experience?
+To test whether there are two distinct dimensions underlying the
+pride experience, we conducted a factor analysis with oblimax
+rotation on participants’ ratings of the pride-related feeling states.
+Consistent with our expectations, a scree test indicated two factors;
+eigenvalues for the first six unrotated factors were 21.6, 8.8, 3.8,
+2.7, 2.4, and 2.2, and the first two factors accounted for 40.1% of
+variance. To test whether the data might be better characterized by
+a one-factor solution, we again used confirmatory factor analysis
+with the two pride factors defined by parcels of six or seven items
+
+Valence. A factor analysis of residual pride-word ratings, with
+ratings of the two pure positive evaluation words partialled out,
+produced two factors with loadings essentially replicating those
+from the original analysis. Correlations between the profile of
+factor loadings on the original and valence-free factors were .85
+for Authentic Pride and .98 for Hubristic Pride. Correlations between factors scores were .64 for Authentic Pride and .97 for
+Hubristic Pride. The comparatively lower correlation for Authentic
+Pride might reflect the fact, documented in Study 2, that authentic
+pride includes more positively valenced evaluative content than
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+516
+
+TRACY AND ROBINS
+
+does hubristic pride. Statistically removing this content thus has a
+relatively greater impact on authentic pride. Overall, though, the
+findings support the conclusion that the two facets reflect more
+than just positive and negative forms of pride.
+State versus trait. Authentic Pride was uncorrelated with the
+state ratings (r ⫽ .23, ns) but was negatively correlated with trait
+ratings (r ⫽ ⫺.26, p ⬍ .05); Hubristic Pride was negatively correlated
+with state ratings (r ⫽ ⫺.27, p ⬍ .05) and positively correlated with
+trait ratings (r ⫽ .25, p ⬍ .05). These correlations suggest that
+hubristic pride is more trait-like than is authentic pride. However, this
+effect did not hold when we classified words on the basis of a
+comparison of their loadings on each factor as belonging to one or the
+other. T tests showed no significant differences in stateness or traitedness ratings between authentic pride-related words and hubristic
+pride-related words. This finding, combined with the fact that there
+were no significant correlations between the factor loadings and the
+state and trait ratings in Study 2, suggests that the two factors are
+unlikely to be entirely due to the state–trait distinction, although this
+distinction seems to play some role in contributing to the differences
+between the factors.
+Personality correlates of authentic and hubristic pride. As in
+Study 2, we conducted correlational analyses with residualized factor
+scores on the basis of the standardized residuals from multiple regression equations predicting hubristic pride from authentic pride and vice
+versa. Replicating the findings of Study 2, Authentic Pride was
+positively correlated with self-esteem, whereas Hubristic Pride was
+negatively correlated with self-esteem (see Table 1). Also replicating
+the findings of Study 2, Authentic Pride was positively related to
+narcissism, but this relationship became nonsignificant when shared
+variance with self-esteem was removed. The opposite effect occurred
+for Hubristic Pride; it became more positively associated with narcissism when self-esteem was partialled out. This replicated suppressor
+situation further supports the view that hubristic pride is more strongly
+linked to narcissistic self-aggrandizement than is authentic pride.
+We also replicated the correlations with shame-proneness, which
+was again negatively correlated with Authentic Pride and positively
+correlated with Hubristic Pride. Finally, the correlations with the Big
+Five factors found in Study 2 were also generally replicated. The two
+facets of pride had significantly different ( p ⬍ .05) correlations with
+all five trait dimensions, and, again, Authentic Pride was related to the
+more socially desirable personality dimensions.
+In summary, individuals with genuine high self-esteem, who
+were extraverted, agreeable, conscientious, and open to experience
+tended to experience authentic pride in response to a pride-eliciting
+event, whereas self-aggrandizing, shame-prone, disagreeable individuals tended to experience hubristic pride in response to such an
+event. This pattern generally replicates the findings of Study 2 and
+is consistent with theoretical distinctions between the two facets.
+
+Do Stability and Controllability Attributions Distinguish
+Between Authentic and Hubristic Pride?
+We next examine whether authentic and hubristic pride are associated with distinct cognitive attributions by correlating the two residualized pride factors with participants’ causal attributions for prideeliciting events, which emerged from the content coding of their
+narratives. Although the effects were not particularly strong, the
+correlations were generally consistent with the predictions that
+emerged from our theoretical model (see Table 2). Individuals who
+
+Table 2
+Correlations of Authentic and Hubristic Pride Factor Scores
+With Attribution Dimensions (Study 3)
+Dimension
+
+Authentic
+
+Hubristic
+
+Unstable attributiona
+Attribution to self as opposed to behavior
+Attribution to effort
+Attribution to ability
+
+.21*
+.01
+.03
+.12
+
+⫺.02
+.21*
+⫺.18*
+.26*
+
+Note. N ⫽ 88.
+a
+Unstable attribution was assessed as attributions to stable causes, reverse
+scored.
+*
+p ⬍ .05.
+
+tended to attribute the pride-eliciting event to causes that were coded
+as internal and unstable tended to experience authentic pride in response to the event. In contrast, individuals who tended to attribute the
+event to their ability and to “the self” (as opposed to their presumably
+more unstable behaviors or actions) tended to experience hubristic
+pride. In addition, individuals who attributed the event to their effort
+tended not to experience hubristic pride. Thus, the results provide
+preliminary support for the prediction that internal, unstable attributions (i.e., to effort) for positive events are related to authentic pride,
+whereas internal, stable attributions (i.e., to ability) for positive events
+are related to hubristic pride.
+
+Are the Two Facets Associated With Distinct Antecedent
+Events?
+To determine the types of events that participants believed elicited
+their pride, we classified each narrative into the category that was
+rated as most descriptive of its eliciting event (i.e., the category that
+received the highest mean rating). Of the events, 69% were coded as
+primarily about achievement, 18% as primarily athletic, 12% as
+primarily about personal factors, and 1% as primarily familial. None
+of the events were coded as primarily about relationships. The specific
+mean ratings for each category showed a similar, but not identical,
+pattern: 3.90 (achievement), 2.56 (personal), 1.76 (athletic), 1.12
+(familial), and 1.06 (relational). These findings suggest that when
+college students are asked to write about a time when they felt proud,
+they tend to think of events related to academics, personal goals and
+morals, and athletics and not to their familial, affiliative, or romantic
+relationships.10
+To test for differences between authentic and hubristic pride in
+types of eliciting events, we classified each participant according
+to whether they had a higher factor score on the Authentic Pride or
+the Hubristic Pride factor—a rough measure of which facet they
+10
+
+It is interesting to note that we recently found the opposite pattern for
+shame and guilt: Participants in a similar experiment were least likely to
+write about shame and guilt occurring in response to academic achievement (in this case, failure; Tracy & Robins, 2006). It is thus possible that
+the achievement/work domain is a more prototypical elicitor of positive
+self-conscious emotions, whereas the relationship domain is a more prototypical elicitor of negative self-conscious emotions. However, it is also
+possible that participants are simply more willing to write about success in
+the achievement than in the relationship domain and more willing to write
+about failure in the relationship than in the achievement domain.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRUCTURE OF PRIDE
+
+experienced to a greater extent. We then compared mean ratings of
+event type between participants who experienced more authentic
+pride and those who experienced more hubristic pride. There were
+no significant differences, suggesting that both facets were fairly
+equally likely to occur in response to each type of event. We also
+addressed this issue by classifying each narrative into the eventtype category for which it received the highest rating. We then ran
+an analysis of variance (ANOVA) to test whether the four event
+types differed on Authentic Pride and Hubristic Pride factor scores.
+There were no significant differences for either factor, confirming
+the results of the previous analysis. However, converting the
+continuous factor scores and event-type ratings into discrete
+categories loses much of the relevant data (e.g., participants
+who are fairly high on both factors or whose narratives fall into
+more than one category), so we also correlated the factor scores
+with mean ratings on each event type. These correlations ranged
+in magnitude from .02 to .12, and none reached significance.
+Thus, the two facets of pride tend to be elicited by the same
+kinds of events, and it appears that the way these events are
+appraised is a more important predictor of a person’s emotional
+reaction.
+Overall, Study 3 is consistent with the findings of Studies 1 and
+2. Two distinct dimensions of pride emerged from reports of a
+single pride experience, and the content of these dimensions fit
+with the theoretical distinction between authentic and hubristic
+pride. Furthermore, correlations between the dimensions and relevant personality variables (self-esteem, narcissism, shameproneness, and the Big Five factors) also support the theoretical
+interpretation. In addition, the two facets showed a divergent
+pattern of correlations with causal attributions, such that authentic
+pride was associated with internal, unstable, controllable attributions, whereas hubristic pride was associated with internal, stable,
+uncontrollable attributions. For both facets of pride, these attributions were made for the same kinds of positive events—there was
+no difference in the type of event that elicited each emotion.
+One limitation of Study 3, however, is that we cannot rule out
+the possibility that the causal direction is reversed. For example,
+feeling hubristic pride might lead individuals to attribute their
+success to a stable, uncontrollable aspect of the self. In Study 4, we
+address this issue by manipulating attributions. We also test
+whether controllability, as opposed to stability, might be the attributional dimension that better distinguishes between the two facets
+(the specific causes of effort and ability differ on both controllability and stability).
+
+Study 4
+In Study 4, we manipulated participants’ causal attributions for
+a hypothetical event and assessed the extent to which they expected to feel authentic and hubristic pride in response.
+
+Method
+Participants
+Undergraduate students enrolled in psychology courses (N ⫽
+160; 76% female, 24% male) participated in exchange for course
+credit.
+
+517
+
+Procedure and Design
+Participants read two vignettes about a hypothetical college
+student succeeding on a final exam, a commonly experienced and
+emotionally evocative event for most college students. Before
+reading the vignettes, participants were instructed as follows:
+Below is a set of scenarios describing typical experiences that a
+student might have in college. As you read each scenario, think about
+how you would feel if you were actually living through this experience. Try to imagine the thoughts and feelings you would have if you
+were actually in this situation.
+
+Participants were randomly assigned to read two vignettes that
+described events varying in either the stability (stable vs. unstable)
+or controllability (controllable vs. uncontrollable) of causes. All
+vignettes involved an event that was internally caused. Each vignette was two to three sentences long and in the second-person
+singular (i.e., you) form. For example, the internal, controllable
+vignette read as follows: You recently had an important exam and
+you studied hard for it. You just found out that you did very well
+on the exam. In contrast, the internal, uncontrollable vignette read
+as follows: You’ve always been naturally talented (i.e., smart). You
+recently had an important exam and you didn’t bother studying
+much for it, but it still seemed very easy to you. You just found out
+that you did very well on the exam. By manipulating controllability
+and stability separately, we were able to test which, if either, of the
+two attributional dimensions played a larger role in distinguishing
+between the two facets of pride.
+All of the vignettes had been pretested to verify that they did, in
+fact, manipulate the appropriate attributions. On the basis of a
+sample of 57 undergraduate students (from the same population as
+the present sample) effort ratings for the stability vignettes were
+higher in the internal, unstable condition than in the internal, stable
+condition, t(56) ⫽ 6.75, p ⬍ .05, whereas ability ratings were
+higher in the internal, stable condition than in the internal, unstable
+condition, t(56) ⫽ 5.83, p ⬍ .05. For the controllability vignettes,
+effort ratings were higher in the internal, controllable condition
+than in the internal, uncontrollable condition, t(57) ⫽ 15.22, p ⬍
+.05, whereas ability ratings were higher in the internal, uncontrollable condition than the internal, controllable condition, t(57) ⫽
+5.28, p ⬍ .05. It is noteworthy that ability might be unstable for
+those who believe that they can improve their abilities, and effort
+might be stable when conceived of as a personality trait, such as
+laziness (Dweck, 1999; Weiner, 1985). Nonetheless, in the present
+research we conceptualize effort and ability in their most prototypical form, distinguished by the causal dimensions of stability
+and controllability, and the results of this manipulation check
+support our conceptualization.
+After reading each vignette, participants rated the extent to
+which they expected to feel each of a set of pride-related words in
+response to the event on a scale ranging from 0 (not at all) to 6
+(extremely). The selection of words was based on the results of
+Studies 2 and 3; only words that loaded on the same factor across
+studies were included. The 48 words that loaded consistently on
+the Authentic Pride factor were composited into an Authentic
+Pride scale (␣s ⫽ .96 –.98 across the four conditions); the 15 words
+that loaded consistently on the Hubristic Pride factor were composited into a Hubristic Pride scale (␣s ⫽ .92–.96 across the four
+conditions).
+
+TRACY AND ROBINS
+
+518
+Results and Discussion
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Do Authentic and Hubristic Pride Have Distinct
+Attributional Antecedents?
+Stability attributions. To test whether stability attributions differentiated between authentic and hubristic pride, we conducted a
+two-way ANOVA with emotion (authentic vs. hubristic pride) and
+stability (stable vs. unstable) as within-subject variables. We found
+the predicted two-way interaction, F(1, 79) ⫽ 28.49, p ⬍ .05.
+Internal, unstable attributions led to greater authentic pride (M ⫽
+4.30) than did internal, stable attributions (M ⫽ 3.78, d ⫽ .57, p ⬍
+.05), but these attributions did not have the same effect on hubristic
+pride; means were 2.30 for internal, unstable attributions and 2.36
+for internal, stable attributions (d ⫽ ⫺.05, ns).
+Controllability attributions. To test whether controllability attributions differentiated between authentic and hubristic pride, we
+conducted a two-way ANOVA with emotion (authentic vs. hubristic pride) and controllability (controllable vs. uncontrollable) as
+within-subjects variables. We found the predicted two-way interaction, F(1, 79) ⫽ 68.24, p ⬍ .05. Internal, controllable attributions led to greater authentic pride (M ⫽ 4.43) than did internal,
+uncontrollable attributions (M ⫽ 3.75, d ⫽ .58, p ⬍ .05); in
+contrast, internal, controllable attributions led to less hubristic
+pride (M ⫽ 2.13) than did internal, uncontrollable attributions
+(M ⫽ 2.44, d ⫽ ⫺.24, p ⬍ .05).
+Stability versus controllability. The Emotion ⫻ Controllability interaction (␩2 ⫽ 46%) was significantly larger than the Emotion ⫻ Stability interaction (␩2 ⫽ 26%), as indicated by a threeway interaction with vignette type (stability vs. controllability),
+F(1, 158) ⫽ 6.37, p ⬍ .05.
+
+research suggests that findings from appraisal manipulation studies,
+which make use of predicted responses to hypothetical events, tend to
+converge with findings from studies manipulating actual, on-line
+emotional experiences (Robinson & Clore, 2001). Regardless, the
+findings reported here should be replicated in future research examining actual emotional experiences.
+
+Study 5
+The findings from Studies 1– 4 provide strong evidence that
+pride has two distinct facets, which are associated with unique
+personality profiles, subjective feeling states, and causal attributions. To facilitate further research on these two facets, an important next step is to develop a psychometrically sound measure of
+authentic and hubristic pride.
+In Studies 5–7, we collected data on a total of 1,925 participants to
+develop reliable and valid scales of authentic and hubristic pride that
+can be used to assess both chronic, dispositional pride-prone tendencies and momentary on-line pride experiences evoked in a laboratory
+setting. Our strategy was to construct an initial item pool on the basis
+of the results of Studies 1–3 and then to refine the resulting scales on
+the basis of reliability and factor analyses, with particular attention
+paid to replicability across samples and methods (i.e., assessing state
+and trait pride). As a first step, Study 5 assessed chronic, dispositional
+tendencies to experience pride by using a larger sample of participants
+than was used previously and by following procedures aimed at
+identifying a set of authentic and hubristic pride-related words that are
+conceptually relevant, cohere together empirically, and show a clean
+factor structure, with high loadings on the primary factor and low
+loadings on the other factor.11
+
+Method
+Summary
+These results suggest that, although participants were generally
+more likely to report authentic than hubristic pride in response to
+a success, the attributions they made for the success influenced the
+extent to which they expected to experience each facet of pride.
+Authentic pride was a more typical response when success was
+attributed to internal, unstable, controllable causes (e.g., effort)
+than to internal, stable, uncontrollable causes (e.g., ability);
+whereas hubristic pride showed the opposite pattern. Combined
+with the findings of Study 3, this research provides the first
+empirical support for the hypothesis that the stability and controllability of internal attributions for success distinguish between
+authentic and hubristic pride. Furthermore, the experimental design of Study 4 allows us to make stronger inferences about the
+causal influence of attributions on the two facets of pride.
+However, it is important to note that these findings are limited by
+the fact that participants anticipated reactions to hypothetical events
+rather than reporting on actual emotional experiences. Parkinson and
+Manstead (1993) have argued that findings from similar appraisal
+manipulation studies might be the result of participants’ overfamiliarity with emotion stereotypes; that is, participants “know what
+the conventional depiction of sadness in a narrative is like” (p. 305).
+In the present case, this potential confound is not likely to be a
+problem; it is doubtful that many participants are familiar with the
+theory that attributions to effort produce authentic pride, whereas
+attributions to ability produce hubristic pride. Furthermore, other
+
+Participants
+Undergraduate students enrolled in psychology courses (N ⫽
+999; 70% female, 30% male) participated in exchange for course
+credit.
+
+Developing the Initial Item Pool
+We began with the 77 pride-related words identified in Studies
+2 and 3. To supplement this set, and to ensure that we were not
+missing any important pride-related content, we used a thesaurus
+to identify synonyms of words from the original set that had
+received a mean prototypicality score of 4 or greater on a 5-point
+scale. This procedure led to an expanded set of 104 words. Six
+raters (undergraduate research assistants who had been extensively
+trained to use the Pride Prototypicality scale) rated the pride
+prototypicality of all words that had not been previously rated on
+the same 5-point scale as was used in our previous research (Tracy
+& Robins, 2004b, Study 2); interrater reliability was .83. We next
+applied a prototypicality cut-off to the list of 104 words, retaining
+only words with a mean prototypicality rating above 3.5. This
+procedure reduced the set to 63 words. We then cut any remaining
+11
+It is worth noting that this strategy produces scales that are less
+strongly intercorrelated (i.e., more independent) than the original oblimaxrotated factors found in Studies 2 and 3.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRUCTURE OF PRIDE
+
+items that did not load more highly on the same factor across
+Studies 2 and 3, following the criterion we had used for inclusion
+in Study 4. This procedure reduced the set to 58 words.
+Given our goal to develop scales that can be utilized quickly and
+easily in a variety of samples, we next cut all multiword items
+(e.g., high and mighty, nose in the air) and words that seemed
+difficult for some undergraduate students to understand (e.g., hubristic, supercilious). We also cut positive evaluation words that
+had no substantive content (e.g., positive, great), the word pride
+(which should characterize both facets) and words that indicated
+behaviors or actions rather than feeling states (e.g., swaggering,
+smirking). These cuts reduced the total number of words to 40,
+which were included in the present study; 22 items were related to
+authentic pride, and 18 were related to hubristic pride.
+
+Procedure
+Participants rated the extent to which they “generally feel this
+way” for all 40 pride-related words on a scale ranging from 1 (not
+at all) to 5 (extremely).
+
+Results and Discussion
+We factor analyzed participants’ ratings of the 40 pride-related
+words with oblimax rotation. As expected, a scree test suggested
+two factors; eigenvalues for the first six factors were 14.3, 6.3, 1.3,
+1.2, 1.1, and 0.9. The first two factors accounted for 51.6% of the
+variance and correlated (.30). The first factor included all words
+with primary loadings on the Authentic Pride factor in Study 2, and
+the second factor included all words with primary loadings on the
+Hubristic Pride factor in Study 2.
+To determine which words to retain, we examined the pattern
+matrix, which most clearly expresses the simple structure achieved
+by an oblique rotation (Lee & Ashton, 2007). Given our goal of
+developing scales that assess distinct facets, we adopted a stringent
+criterion for retaining items: Each must load above .60 on its
+primary factor and below .20 on the other. This criterion led to the
+removal of 18 items, leaving 11 items related to authentic pride
+and 11 related to hubristic pride.
+We next computed alpha reliabilities on the two 11-item scales.
+Alphas were .92 for both scales and were not improved by the
+removal of any item. We thus retained these scales for the next
+study in which we continued to refine the scales by examining
+their factor structure and reliability in assessments of pride as a
+momentary state.
+
+Study 6
+Study 6 used the relived emotion task (Ekman et al., 1983) to
+invoke a pride experience and assessed resulting pride feelings
+with the 22 pride-related words that emerged from Study 5. The
+goal of the study was to further prune this set of words in order to
+develop shorter yet comparably reliable scales.
+
+Method
+Participants
+Undergraduate students enrolled in psychology courses (N ⫽
+216; 69% female, 31% male) participated in exchange for course
+credit.
+
+519
+
+Measures
+As in Study 3, participants were instructed to “think about a time
+when you felt very proud of yourself. . .describe the events that led
+up to your feeling this way, in as much detail as you can remember.” After providing open-ended narrative responses, participants
+rated the extent to which each of the 22 pride-related words that
+emerged from Study 5 described their feelings during the event on
+a scale ranging from 1 (not at all) to 5 (extremely).
+
+Results and Discussion
+We factor analyzed participants’ ratings with oblimax rotation.
+A scree test suggested two factors; eigenvalues for the first six
+factors were 6.3, 3.8, 1.2, 1.1, 1.0, and .9. The first two factors
+accounted for 45.6% of the variance and correlated (.23). Again,
+the two factors were clearly identified as Authentic Pride and
+Hubristic Pride, and all of the items loaded on the appropriate
+factor. However, in contrast to the typical order, Hubristic Pride
+emerged as the first factor and Authentic Pride as the second
+factor. This change in order suggests that the Hubristic Pride factor
+might be an equally important component of pride and that it
+emerged as a “second” factor in Studies 2, 3, and 5 because the
+majority of words included in the analyses were associated with
+authentic pride.
+To determine which words to retain, we examined the factor
+loadings in the pattern matrix. We retained the top seven loading
+items from each scale with one exception. For the Authentic Pride
+scale, we decided to retain the eighth highest loading item, productive, instead of the seventh highest loading item, self-confident,
+which is very similar to confident (the highest loading item). This
+decision was based on our goal of minimizing redundancy among
+the items and capturing the full content domain of the construct.
+The alpha reliabilities of the resultant 7-item scales were .84
+(Authentic Pride) and .87 (Hubristic Pride).
+
+Study 7
+In Study 7, we tested whether the 7-item scales developed in
+Studies 5 and 6 were reliable and showed the expected factor
+structure in two independent samples—that is, one that assessed
+pride as a trait and one that assessed pride as a state. We also
+sought preliminary evidence of the validity of the scales by examining their correlations with variables that are theoretically and
+empirically linked to pride. It is important to verify that the scales
+retain the conceptual meaning of the facets, in terms of their
+external correlates, despite our reduction of the original 77 items to
+14. Specifically, we tested whether the Authentic Pride scale was
+positively correlated with self-esteem, Extraversion, Agreeableness, Conscientiousness, and Emotional Stability; and whether the
+Hubristic Pride scale was positively correlated with selfaggrandizing narcissism (narcissism controlling for self-esteem)
+and shame-proneness and negatively with Agreeableness and Conscientiousness. Finally, we further address the question of whether
+the two facets of pride are associated with distinct causal attributions by examining the scales’ correlations with a measure of
+attributional style.
+
+TRACY AND ROBINS
+
+520
+Method
+
+Table 3
+Factor Loadings of Pride Scale Items (Study 7)
+
+Participants
+Sample A. Undergraduate students enrolled in psychology
+courses (n ⫽ 362; 65% female, 35% male) participated in exchange for course credit.
+Sample B. Undergraduate students enrolled in psychology
+courses (n ⫽ 348; 63% female, 37% male) participated in exchange for course credit.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Measures
+For Sample A, we used the trait pride procedure used in Study
+5. For Sample B, we used the state pride procedure used in Study
+6. In both samples, participants rated their level of pride on the two
+7-item scales developed in Study 6, with all 14 items intermixed in
+alphabetical order. The Authentic Pride scale included the words
+accomplished, achieving, confident, fulfilled, productive, selfworth, and successful; and the Hubristic Pride scale included the
+words arrogant, conceited, egotistical, pompous, smug, snobbish,
+and stuck-up. (Depending on the word, the item stem was “I feel
+like I am. . .,” “I feel like I have. . .,” or, for most words, “I
+feel.. . .”)
+Prior to participating in the study, participants in both samples
+completed the RSE, the NPI, and the TOSCA-3; alpha reliabilities
+were .90 and .90 for the RSE, .85 and .84 for the NPI, .79 and .79
+for TOSCA-3 Shame, and .81 and .79 for TOSCA-3 Guilt, respectively, for Samples A and B. After completing the pride portion of
+the study, participants completed the 48-item Multidimensional–
+Multiattributional Causality Scale (MMCS; Lefcourt, von Baeyer,
+Ware, & Cox, 1979). The MMCS assesses the tendency to attribute
+achievement and affiliation events to effort, ability, luck, and
+context. Alpha reliabilities for the two scales used here, Attributions to Effort and Attributions to Ability (across success and
+failure outcomes), were .67 and .68, which are comparable to
+values typically reported for the MMCS (Lefcourt, 1991).
+
+Results and Discussion
+Are the Scales Reliable?
+For Sample A (trait pride), the Authentic Pride scale had an alpha
+reliability of .88, and the Hubristic Pride scale had an alpha reliability
+of .90. For Sample B (state pride), the Authentic Pride scale had an
+alpha of .88, and the Hubristic Pride scale had an alpha of .90. These
+reliabilities suggest that the scales have an adequate internal consistency, regardless of whether pride is assessed as a trait or as a state and
+despite their relatively short length. Men scored higher than did
+women on the Hubristic Pride scale in both Sample A, t(347) ⫽ 3.21,
+p ⬍ .05 (Ms ⫽ 1.82 vs. 1.57), and Sample B, t(336) ⫽ 3.88, p ⬍ .05
+(Ms ⫽ 1.88 vs. 1.57); there were no gender differences in authentic
+pride in either sample (Ms ⫽ 3.21 and 3.11 for men and women,
+respectively, in Sample A, and 4.20 for 4.20 for men and women,
+respectively, in Sample B).
+
+Do the Scales Capture the Structure of Pride?
+To examine the structure of pride, we factor analyzed participants’ ratings of all 14 items with oblimax rotation. The scree test
+
+Item
+Snobbish
+Pompous
+Stuck-up
+Conceited
+Egotistical
+Arrogant
+Smug
+Accomplished
+Successful
+Achieving
+Fulfilled
+Self-worth
+Confident
+Productive
+
+Sample A (trait pride)a
+
+Sample B (state pride)b
+
+Authentic
+
+Authentic
+
+Hubristic
+.84
+.83
+.80
+.77
+.70
+.70
+.69
+
+.78
+.77
+.76
+.70
+.69
+.68
+.66
+
+Hubristic
+.88
+.75
+.84
+.76
+.70
+.72
+.63
+
+.79
+.78
+.78
+.71
+.70
+.71
+.61
+
+Note. Loadings below 0.15 are suppressed. Each word was preceded by
+the stem I generally feel. . . (Sample A) or I feel. . . (Sample B), except for
+achieving, which was preceded by I generally feel like I am. . . / I feel like
+I am. . ., and self-worth, which was preceded by I generally feel like I
+have. . . / I feel like I have. . .
+a
+N ⫽ 353. b N ⫽ 342.
+
+revealed two factors for both Sample A (eigenvalues for the first
+six unrotated factors were 4.7, 3.9, 0.8, 0.7 0.6, and 0.5) and
+Sample B (eigenvalues ⫽ 4.9, 3.8, 0.7, 0.7, 0.6, and 0.6). The first
+two factors accounted for 61.7% of the variance in Sample A and
+61.9% of the variance in Sample B; the correlation between the
+two rotated factors was .08 in Sample A and .14 in Sample B. As
+Table 3 demonstrates, the data from both samples show a clean
+two-factor structure; all items have high loadings on their primary
+factor and relatively low loadings on the secondary factor.12
+
+Correlates of Authentic Pride and Hubristic Pride
+We next examined the correlates of the scales to test whether
+they support our theoretical expectations and to replicate the
+findings of Studies 2 and 3. We computed unit-weighted scale
+scores by taking the mean of the seven items loading on each
+factor. The resulting scales were fairly independent (Sample A:
+r ⫽ .09, ns; Sample B: r ⫽ .14, p ⬍ .05).
+Table 4 shows correlations of Authentic Pride and Hubristic Pride
+with self-esteem, narcissism, shame-proneness, and the Big Five
+personality dimensions. Results from both samples replicated the
+findings of Studies 2 and 3. Specifically, regardless of whether pride
+was assessed as a trait or as a state, authentic pride was positively
+correlated with self-esteem, whereas hubristic pride was negatively
+correlated with self-esteem. In contrast, authentic pride was positively
+related to narcissism, but this relation was decreased when shared
+variance with self-esteem was removed. The removal of this shared
+12
+
+A confirmatory factor analysis also provided support for the twofactor structure. The 2-factor model provided a good fit to the data, for both
+Samples A and B, respectively: ␹2(75, N ⫽ 348) ⫽ 267.24, RMSEA ⫽
+.084, pclose fit ⫽ .000; ␹2(75, N ⫽ 334) ⫽ 239.11, RMSEA ⫽ .079,
+pclose fit ⫽ .000. In both samples, the two-factor model fit significantly
+better than did the one-factor model ( p ⬍ .05).
+
+STRUCTURE OF PRIDE
+
+521
+
+Table 4
+Correlations of Authentic and Hubristic Pride 7-Item Scales With Self-Esteem, Narcissism,
+Shame-Proneness, and the Big Five Factors (Study 7)
+Sample A (trait pride)a
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Measure
+RSE
+NPI
+Shame-pronenessc
+Extraversion
+Agreeableness
+Conscientiousness
+Emotional Stability
+Openness
+
+Authentic
+*
+
+*
+
+.50 (.44 )
+.32* (.20*)
+⫺.28*
+.39*
+.19*
+.38*
+.28*
+.29*
+
+Sample B (state pride)b
+
+Hubristic
+
+Authentic
+
+⫺.14 (⫺.20 )
+.22* (.27*)
+.09*
+.11
+⫺.26*
+⫺.25*
+⫺.05
+.01
+*
+
+*
+
+*
+
+Hubristic
+⫺.11 (⫺.18*)
+.21* (.26*)
+.17*
+.09
+⫺.17*
+⫺.14*
+⫺.10
+.03
+
+*
+
+.35 (.29 )
+.22* (.13*)
+⫺.15*
+.20*
+.19*
+.26*
+.06
+.14*
+
+Note. Values in parentheses are partial correlations controlling for narcissism and self-esteem, respectively.
+RSE ⫽ Rosenberg Self-Esteem Scale; NPI ⫽ Narcissistic Personality Inventory.
+a
+N ⫽ 348. b N ⫽ 334. c Shame-proneness scale is “guilt-free” shame (i.e., shame-proneness controlling for
+guilt-proneness).
+*
+p ⬍ .05.
+
+variance did not, however, decrease the positive correlation between
+hubristic pride and narcissism, consistent with the view that hubristic
+pride is positively related to the self-aggrandizing aspects of narcissism that remain when self-esteem is partialled out of the NPI. Also
+replicating Studies 2 and 3, authentic pride was negatively correlated
+with shame-proneness, whereas hubristic pride was positively correlated shame-proneness.
+The correlations with the Big Five dimensions also generally
+replicated the findings from Studies 2 and 3. As was found
+previously, authentic pride was positively related to the more
+adaptive and socially desirable traits, including Agreeableness and
+Conscientiousness, whereas hubristic pride tended to be negatively
+or not related to these same traits. The two facets also had significantly different ( p ⬍ .05) correlations with all five trait dimensions except for Emotional Stability and, in Sample B, Openness,
+which is consistent with the previous finding that the two facets are
+associated with divergent personality profiles.
+In summary, individuals with genuine high self-esteem, who
+were extraverted, agreeable, and conscientious, tended to experience authentic pride in response to a pride-eliciting event and were
+more likely to be prone to feelings of authentic pride in their
+everyday life. In contrast, self-aggrandizing, shame-prone, disagreeable, and nonconscientious individuals tended to experience
+hubristic pride in response to a pride-eliciting event and to be
+generally prone to feelings of hubristic pride in everyday life. This
+pattern of findings is consistent with those of Studies 2 and 3 and
+with theoretical accounts of the distinction between the facets.
+
+Are Authentic Pride and Hubristic Pride Associated With
+Distinct Attributional Styles?
+To further address the question of whether authentic pride and
+hubristic pride are associated with distinct causal attributions, we
+examined correlations between the two pride scales and the tendency
+to attribute success and failure to effort and ability. As was previously
+mentioned, effort is typically viewed as an internal, unstable, controllable cause, whereas ability is typically viewed as an internal, stable,
+uncontrollable cause (Lefcourt et al., 1979; Weiner, 1985). On the
+basis of our theoretical model, we expected authentic pride to be
+
+positively correlated with effort attributions and hubristic pride to be
+positively correlated with ability attributions.
+As shown in Table 5, results from both samples were generally
+consistent with these predictions. Across the two studies, small but
+significant correlations emerged for both scales, suggesting that
+individuals who tend to attribute a range of events to effort also
+tend to respond to events with authentic pride, whereas those who
+tend to attribute such events to ability are more likely to respond
+with hubristic pride.
+To supplement these correlational findings, we also reanalyzed
+the results of Study 4 with the newly developed 7-item scales as
+dependent variables (␣ reliabilities ⫽ .84 and .90 for authentic and
+hubristic pride in response to internal, stable attributions; .86 and
+.92 in response to internal, unstable attributions; .78 and .90 to
+internal, controllable attributions; and .91 and .94 to internal,
+uncontrollable attributions). All significant findings reported in
+Study 4 held with the new scales, including the predicted interactions between emotion and stability attributions, F(1, 79) ⫽ 22.36,
+p ⬍ .05, and emotion and controllability interactions, F(1, 79) ⫽
+59.80, p ⬍ .05, suggesting that individuals told to attribute success
+to internal, unstable, controllable causes were more likely to respond with authentic pride than were individuals told to attribute
+success to internal, stable, uncontrollable causes. Conversely, attributions to internal, uncontrollable causes led to greater hubristic
+pride than did attributions to internal, controllable causes.
+Table 5
+Correlations of Authentic and Hubristic Pride 7-Item Scales
+With Attributional Style (Study 7)
+Sample A
+(trait pride)a
+
+Sample B
+(state pride)b
+
+Style
+
+Authentic
+
+Hubristic
+
+Authentic
+
+Hubristic
+
+Effort attributions
+Ability attributions
+
+.17*
+.02
+
+⫺.10*
+.09*
+
+.25*
+.07
+
+.08
+.17*
+
+a
+*
+
+N ⫽ 356.
+p ⬍ .05.
+
+b
+
+N ⫽ 345.
+
+TRACY AND ROBINS
+
+522
+
+In summary, the findings of Study 7 provide preliminary support
+for the validity of our new measures of authentic pride and hubristic
+pride. The scales have high reliability and a clear two-factor structure
+for both trait-based and state-based assessments of pride and show a
+coherent pattern of relations with theoretically relevant variables.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+GENERAL DISCUSSION
+The findings from the present research provide the first empirical portrait of the structure of pride and are consistent with
+hypotheses derived from our theoretical model of self-conscious
+emotions (Tracy & Robins, 2004a). First, we found that people
+reliably distinguish between two dimensions of pride when they
+think about the semantic meaning of pride-related words and when
+they describe their pride feelings both over time and in response to
+a single pride-eliciting event. Second, the two empirically derived
+facets of pride fit with the theoretical distinction between authentic
+pride and hubristic pride that emerges from theories of narcissism
+and self-esteem (M. Lewis, 2000; Tracy & Robins, 2003). Each
+empirical facet includes words relevant to the theoretical facet’s
+meaning and shows predicted correlations with narcissism, selfesteem, and shame. In addition, the two facets are associated with
+divergent Big Five profiles, such that authentic pride is related to
+a more adaptive, prosocial, and achievement-motivated personality
+profile. These empirical facets cannot be accounted for by distinctions in evaluative valence, activation, or the degree to which each
+is perceived as a state versus a trait.
+Third, the two facets are associated with distinct causal attributions. People report greater authentic pride when they attribute
+their success to internal, unstable, and controllable causes than
+when they attribute the same success to internal, stable, uncontrollable causes; in contrast, they report greater hubristic pride when
+they attribute success to internal, stable, uncontrollable causes than
+to internal, unstable, controllable causes. This finding emerged
+from content-coded narratives of a real pride experience and from
+experimental manipulation of causal attributions for a hypothetical
+but ecologically valid success event. This finding also emerged
+from correlations between dispositional attributional style and
+pride; people who tend to make effort (unstable, controllable)
+attributions also tend to report experiencing authentic pride,
+whereas those who tend to make ability (stable, uncontrollable)
+attributions tend to report experiencing hubristic pride.
+The present research thus provides the first empirical evidence
+for the theoretical distinction between authentic pride and hubristic
+pride. The fact that the same two dimensions emerged from several
+studies that used different methodologies and were replicated
+across samples of words drawn from different sources (photos of
+the pride expression and descriptions of the pride experience)
+supports the robustness and conceptual meaningfulness of the
+distinction between the facets. Furthermore, the two-factor structure of pride is supported by several pieces of evidence: (a) scree
+tests from data collected in Studies 2, 3, 5, 6, and 7 suggest an
+“elbow,” or clear break in the plot between the second and third
+factor; (b) confirmatory factor analyses on data collected in Studies 2, 3, and 7 showed that a two-factor solution had a good fit to
+the data and was significantly better fitting than a one-factor
+solution; (c) the extraction and rotation of three factors in Studies
+2 and 3 produced a third factor that was difficult to interpret and
+included items that were not closely linked to pride; (d) the results
+
+from the pathfinder analysis and the hierarchical cluster analyses
+in Study 1 suggest a two-cluster structure; and (e) several different
+theoretical perspectives, summarized in the introductory paragraphs (M. Lewis, 2000; Tangney et al., 1996; Tracy & Robins,
+2004a), led us to predict two factors before collecting any data.
+The present findings also address questions about the causal antecedents of the two facets of pride. The results of Study 3 suggest that
+the two facets are not distinguished by the kinds of events that elicit
+them—we found no differences in the types of events (achievement,
+personal, familial, relationship, and athletic) that elicited each facet.
+Thus, as appraisal theories of emotion suggest, it is not the specific
+event, but rather how the event is appraised that determines which
+emotion is experienced (e.g., Lazarus, 1991). However, given that we
+coded participants’ descriptions only for broad-level categories, it
+remains possible that there are more subtle distinctions in the kinds of
+events that elicit the two facets. We hope that future research will
+address this important issue.
+The present research is also the first to inform about the appraisals
+that matter for the two facets of pride. Studies 3, 4, and 7 suggest that
+the type of internal attribution individuals make for a success is part
+of what determines which facet of pride occurs in response. In Study
+3, attributions about the stability of internal causes differentiated
+between authentic pride and hubristic pride, as did attributions to the
+specific causes of effort versus ability. In Study 4, both stability and
+controllability distinguished between the facets. In Study 7, these
+effects replicated with the newly developed 7-item scales measuring
+authentic pride and hubristic pride. Thus, it seems clear that attributions about the controllability and stability of internal causes distinguish between authentic pride and hubristic pride. On the basis of
+Study 4, stability attributions might play a somewhat less important
+role, but their relative impact (compared with controllability attributions) warrants further investigation.
+It is possible that the finding of a difference between the dimensions of stability and controllability was an artifact of the method
+used—perhaps the controllability manipulation was simply stronger
+than the stability manipulation, given that the controllability vignettes
+provided more information. In fact, in other research that used similar
+vignettes to manipulate shame and guilt, we found a similar effect of
+controllability versus stability attributions (Tracy & Robins, 2006). Of
+course, the parallel findings might also be due to the relatively greater
+power of feeling that one has no control over something about oneself
+versus feeling that a particular characteristic is a stable aspect of
+oneself. It is also possible that controllability and stability are so
+conceptually entwined that they cannot be easily disentangled experimentally or in people’s actual interpretations of the causes of events.
+Previous theorists have pointed to causal factors such as laziness as
+evidence that a cause can be controllable but stable (Dweck, 1999;
+Weiner, 1985), but, to the extent that people can control their laziness,
+it can change and is thus unstable. Laziness might therefore be seen as
+controllable but not actually controlled, which raises broader questions about the precise meaning of different causal attributions. It is
+unclear whether such fine-grained distinctions are relevant to the folk
+attribution process. Future research should examine both whether lay
+attributors distinguish between stable and uncontrollable causes and
+whether such distinctions play a role in distinguishing between authentic and hubristic pride. Another caveat to the findings of Study 4,
+in particular, is that the specific causes manipulated— effort versus
+ability—might not fully capture the attribution dimensions of stability
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRUCTURE OF PRIDE
+
+and controllability, so our conclusions might be restricted to these
+specific causes.
+It is also important to note that attributions to internal, stable, and
+uncontrollable causes are unlikely to be the only cognitive processes
+that distinguish between hubristic and authentic pride. In fact, the
+results of Study 4 suggest that participants do not frequently endorse
+hubristic pride items even in conjunction with this exact set of attributions. Furthermore, the content of the words that fell into the
+hubristic pride cluster (Study 1) and loaded highly onto the Hubristic
+Pride factors (Studies 2 and 3) connotes more than a stable belief in
+one’s perfection—the words also seem to convey a social comparison: that the self is better than others. Given that an individual could,
+conceivably, be proud of his stable abilities without experiencing this
+competitive aspect of hubristic pride, additional attributions might be
+needed to experience hubristic pride. Perhaps, in addition to attributing success to stable, uncontrollable aspects of the self, one must also
+attribute it to something about the self that others do not have. Future
+research should explore whether hubristic pride requires downward
+social comparisons or whether these comparisons produce a more
+complex emotional response, such as hubristic pride blended with
+contempt.
+Finally, the present research used data from four independent
+samples to develop new measures of authentic pride and hubristic
+pride. These measures are brief, relatively independent, highly
+reliable, and show a clear two-factor structure and theoretically
+coherent relations with a number of other individual-difference
+variables. These scales can be used to assess authentic pride and
+hubristic pride, both as momentary experiences and as chronic
+dispositional tendencies.
+
+Implications
+The present research provides the first empirical support for the
+claim that pride is not a unitary construct, and that, instead, there
+are unique authentic and hubristic facets. Our findings suggest that
+these two facets are related yet distinct. Their intercorrelations
+were fairly low in both Studies 2 and 3 (rs ⫽ .22 and .30), and they
+had divergent correlations with self-esteem, shame-proneness, and
+the Big Five dimensions of personality.
+In many ways, the relation between the two dimensions of pride
+seems similar to the relation between shame and guilt, the two major
+negative self-conscious emotions. The two emotions tend to be intercorrelated yet have divergent correlations with other relevant variables, indicating that each emotion has meaningful unique variance.
+Like shame and guilt, there are reliable and presumably measurable
+individual differences in people’s tendencies to experience each of the
+pride dimensions. Both pairs of self-conscious emotions are also
+distinguished by the same causal attributions; shame and hubristic
+pride tend to be elicited by internal, stable, uncontrollable attributions,
+whereas guilt and authentic pride tend to be elicited by internal,
+unstable, controllable attributions (Tracy & Robins, 2006). Finally,
+like shame and guilt, one facet of pride— hubristic—seems to have
+somewhat maladaptive correlates, whereas the other facet—
+authentic—seems to have adaptive correlates.
+These parallels raise the question: Are authentic pride and
+hubristic pride two distinct emotions, as shame and guilt are
+considered to be, or is it more accurate to view them as subfacets
+of the same overarching emotion, pride? The present research does
+not directly address this question, although it is fairly unusual for
+
+523
+
+a single emotion to include subfacets that have entirely opposite
+personality correlates and that are elicited by distinct causal attributions. Nonetheless, further research is needed to explore this
+question. Such research will need to address the ambiguity that
+exists within the field about the precise prerequisites for a particular state to be considered a distinct emotion. Several important
+directions, based on consensual definitions of emotion, might
+include examining the extent to which the two facets generalize
+across cultures (i.e., do individuals in non-Western cultures conceptualize and experience of pride in the same manner?) and are
+associated with distinct nonverbal expressions (Ekman, 1992). In
+one recent study, we found that the two facets are associated with
+the same nonverbal expression, suggesting that, at least from a
+behavioral perspective, it might be correct to consider them facets
+of a single emotion (Tracy & Robins, 2006).
+In general, the present findings point to the need for continued
+research and theory on both facets of pride. Given that pride has been
+classified as a “human universal” (D. E. Brown, 1991) and has
+recently been shown to have a cross-culturally recognized nonverbal
+expression (Tracy & Robins, 2006), it is likely that it is an evolved,
+functional emotion. In our view, pride might have evolved to serve
+two primary functions: (a) to reinforce prosocial behaviors and (b) to
+enhance social status by informing the individual and his or her social
+group of the individual’s success. To the extent that authentic and
+hubristic pride are distinct emotions, they are likely to have evolved
+somewhat separately in order to solve unique adaptive problems. For
+example, authentic pride might motivate behaviors geared toward the
+long-term attainment and maintenance of status, whereas hubristic
+pride might be a “short-cut” solution, proving status that is more
+immediate but fleeting. Alternatively, as is suggested by the correlations between the facets and the Big Five factors of personality,
+authentic pride might promote status through relationship-oriented,
+prosocial means (i.e., “getting along”), whereas hubristic pride might
+promote status more by obtaining the admiration, if not the liking, of
+others (i.e., “getting ahead”). In fact, this pattern of correlations, as
+well as the correlations with self-esteem and narcissism, suggests that
+hubristic pride might be associated with psychopathy or Machiavellianism—two personality dispositions that might have short-term
+adaptive benefits despite causing long-term interpersonal problems
+(Paulhus & Williams, 2002). More generally, the likely outcomes of
+hubristic pride (e.g., boastfulness, competitiveness) might be adaptive
+in situations in which it is advantageous to display one’s relative
+superiority in order to intimidate an opponent.
+Another possibility is that the two facets are associated with
+distinct motivational orientations. Specifically, authentic pride
+could be linked to mastery goals, whereas hubristic pride would be
+more linked to performance goals (Dweck, 1999). The correlations
+with narcissism are consistent with this interpretation, given previous findings that narcissists tend to be more motivated by performance than the mastery aspects of a task (Morf, Weir, &
+Davidov, 2000). Future research examining whether the two facets
+are associated with distinct behavioral outcomes (both for the
+individual and his/her onlookers) would help address this issue.
+The present findings are consistent with Rousseau’s (1754/
+1984) claim that pride is a complex emotion that includes two
+psychologically distinct facets. As the present research makes
+evident, these two facets correspond to the theoretical dimensions
+of authentic and hubristic pride.
+
+TRACY AND ROBINS
+
+524
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+References
+Brown, D. E. (1991). Human universals. Philadelphia: Temple University.
+Brown, J. D., & Marshall, M. A. (2001). Self-esteem and emotion: Some
+thoughts about feelings. Personality & Social Psychology Bulletin, 27,
+575–584.
+Bushman, B. J., & Baumeister, R. F. (1998). Threatened egotism, narcissism, self-esteem, and direct and displaced aggression: Does self-love or
+self-hate lead to violence? Journal of Personality and Social Psychology, 75, 219 –229.
+Buss, A. H. (1980). Self-consciousness and social anxiety. San Francisco:
+Freeman.
+Campbell, W. K. (1999). Narcissism and romantic attraction. Journal of
+Personality and Social Psychology, 77, 1254 –1270.
+Dante, A. (1937). The divine comedy. London: J. M. Dent. (Original work
+published 1308 –1321)
+Diener, E., & Emmons, R. A. (1984). The independence of positive and
+negative affect. Journal of Personality and Social Psychology, 47,
+1105–1117.
+Digman, J. M. (1997). Higher order factors of the Big Five. Journal of
+Personality and Social Psychology, 73, 1246 –1256.
+Dweck, C. S. (1999). Self-theories: Their role in motivation, personality,
+and development. Philadelphia: Psychology Press/Taylor & Francis.
+Ekman, P. (1992). An argument for basic emotions. Cognition & Emotion,
+6, 169 –200.
+Ekman, P. (2003). Emotions revealed. New York: Times Books.
+Ekman, P., Levenson, R. W., & Friesen, W. V. (1983, September). Autonomic nervous system activity distinguishes among emotions. Science,
+221, 1208 –1210.
+Ellsworth, P. C., & Smith, C. A. (1988). Shades of joy: Patterns of
+appraisal differentiating pleasant emotions. Cognition & Emotion, 2,
+301–331.
+Feldman-Barrett, L., & Russell, J. A. (1998). Independence and bipolarity
+in the structure of current affect. Journal of Personality and Social
+Psychology, 74, 967–984.
+Goldberg, L. R., & Velicer, W. F. (2004). Principles of exploratory factor
+analysis. In S. Strack (Ed.), Differentiating normal and abnormal personality (2nd ed., pp. 209 –237). New York: Springer.
+Graziano, W. G., & Tobin, R. M. (2002). Agreeableness: Dimension of
+personality or social desirability artifact? Journal of Personality, 70,
+695–727.
+Hart, D., & Matsuba, M. K. (in press). The development of pride and moral
+life. In J. L. Tracy, R. W. Robins, & J. P. Tangney (Eds.), The selfconscious emotions: Theory and research. New York: Guilford.
+Haslam, N., Bain, P., & Neal, D. (2004). The implicit structure of positive
+characteristics. Personality & Social Psychology Bulletin, 30, 529 –541.
+Herrald, M. M., & Tomaka, J. (2002). Patterns of emotion-specific appraisal,
+coping, and cardiovascular reactivity during an ongoing emotional episode.
+Journal of Personality and Social Psychology, 83, 434 – 450.
+John, O. P., & Srivastava, S. (1999). The Big Five trait taxonomy: History,
+measurement, and theoretical perspectives. In L. A. Pervin & O. P. John
+(Eds.), Handbook of personality: Theory and research (2nd ed., pp.
+102–138). New York: Guilford Press.
+Keltner, D., & Buswell, B. N. (1996). Evidence for the distinctness of
+embarrassment, shame, and guilt: A study of recalled antecedents and
+facial expressions of emotion. Cognition & Emotion, 10, 155–171.
+Kernberg, O. F. (1975). Borderline conditions and pathological narcissism. New York: Jason Aronson.
+Kernis, M. H. (2003). Toward a conceptualization of optimal self-esteem.
+Psychological Inquiry, 14, 1–26.
+Kishton, J. M., & Widaman, K. F. (1994). Unidimensional versus domain
+representative parceling of questionnaire items: An empirical example.
+Educational & Psychological Measurement, 54, 757–765.
+Kohut, H. (1976). The restoration of the self. New York: International
+Universities Press.
+
+Lazarus, R. S. (1991). Emotion and adaptation. New York: Oxford University Press.
+Leary, M. R., Tambor, E. S., Terdal, S. K., & Downs, D. L. (1995).
+Self-esteem as an interpersonal monitor: The sociometer hypothesis.
+Journal of Personality and Social Psychology, 68, 518 –530.
+LeDoux, J. E. (1996). The emotional brain: The mysterious underpinnings
+of emotional life. New York: Simon & Schuster.
+Lee, K., & Ashton, M. C. (2007). Factor analysis in personality research.
+In R. W. Robins, R. C. Fraley, & R. Krueger (Eds.), Handbook of
+research methods in personality psychology (pp. 424 – 443). New York:
+Guilford Press.
+Lefcourt, H. M. (1991). Locus of control. In J. P. Robinson, P. R. Shaver,
+& L. S. Wrightsman (Eds.), Measures of personality and psychosocial
+attitudes (pp. 413– 449). San Diego, CA: Academic Press.
+Lefcourt, H. M., von Baeyer, C. L., Ware, E. E., & Cox, D. J. (1979). The
+Multidimensional–Multiattributional Causality Scale: The development
+of a goal-specific Locus of Control Scale. Canadian Journal of Behavioral Science, 11, 286 –304.
+Levenson, R. W. (1992). Autonomic nervous system differences among
+emotions. Psychological Science, 3, 23–27.
+Lewis, H. B. (1971). Shame and guilt in neurosis. New York: International
+Universities Press.
+Lewis, M. (2000). Self-conscious emotions: Embarrassment, pride, shame,
+and guilt. In M. Lewis & J. M. Haviland-Jones (Eds.), Handbook of
+emotions (2nd ed., pp. 623– 636). New York: Guilford Press.
+MacCallum, R. C., Widaman, K. F., Zhang, S., & Hong, S. (1999). Sample
+size in factor analysis. Psychological Methods, 4, 84 –99.
+Morf, C. C., & Rhodewalt, F. (2001). Unraveling the paradoxes of narcissism: A dynamic self-regulatory processing model. Psychological Inquiry, 12, 177–196.
+Morf, C. C., Weir, C., & Davidov, M. (2000). Narcissism and intrinsic
+motivation: The role of goal congruence. Journal of Experimental Social
+Psychology, 36, 424 – 438.
+Nolen-Hoeksema, S. (2000). The role of rumination in depressive disorders
+and mixed anxiety/depressive symptoms. Journal of Abnormal Psychology, 109, 504 –511.
+Ozer, D. J., & Benet-Martinez, V. (2006). Personality and the prediction of
+consequential outcomes. Annual Review of Psychology, 57, 401– 421.
+Parkinson, B., & Manstead, A. S. (1993). Making sense of emotion in
+stories and social life. Cognition & Emotion, 7, 295–323.
+Paulhus, D. L., Robins, R. W., Trzesniewski, K. H., & Tracy, J. L. (2004).
+Two replicable suppressor situations in personality research. Multivariate Behavioral Research, 39, 301–326.
+Paulhus, D. L., & Williams, K. M. (2002). The dark triad of personality:
+Narcissism, Machiavellianism, and psychopathy. Journal of Research in
+Personality, 36, 556 –563.
+Peterson, C. (1991). The meaning and measurement of explanatory style.
+Psychological Inquiry, 2, 1–10.
+Raskin, R., & Terry, H. (1988). A principal-components analysis of the
+Narcissistic Personality Inventory and further evidence of its construct validity. Journal of Personality and Social Psychology, 54,
+890 –902.
+Roberts, B. W., Chernyshenko, O. S., Stark, S., & Goldberg, L. R. (2005). The
+structure of conscientiousness: An empirical investigation based on seven
+major personality questionnaires. Personnel Psychology, 58, 103–139.
+Robinson, M. D., & Clore, G. L. (2001). Simulation, scenarios, and
+emotional appraisal: Testing the convergence of real and imagined
+reactions to emotional stimuli. Personality & Social Psychology Bulletin, 27, 1520 –1532.
+Roseman, I. J. (1991). Appraisal determinants of discrete emotions. Cognition & Emotion, 5, 161–200.
+Rosenberg, M. (1965). Society and the adolescent self-image. Princeton,
+NJ: Princeton University Press.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRUCTURE OF PRIDE
+Rousseau, J. (1984). A discourse on inequality (M. Cranston, Trans.). New
+York: Viking. (Original work published 1754)
+Schvaneveldt, R. W. (Ed). (1990). Pathfinder associative networks: Studies
+in knowledge organization. Ablex series in computational sciences.
+Westport, CT: Ablex Publishing.
+Smith, C. A., & Lazarus, R. S. (1993). Appraisal components, core relational themes, and the emotions. Cognition & Emotion, 7, 233–269.
+Smith, H. S., Webster, J. M., Parrott, W. G., & Eyre, H. L. (2002). The role
+of public exposure in moral and nonmoral shame and guilt. Journal of
+Personality and Social Psychology, 83, 138 –159.
+Tangney, J. P., & Dearing, R. L. (2002). Shame and guilt. New York:
+Guilford Press.
+Tangney, J. P., Miller, R. S., Flicker, L., & Barlow, D. H. (1996). Are
+shame, guilt, and embarrassment distinct emotions? Journal of Personality and Social Psychology, 70, 1256 –1269.
+Tangney, J. P., Wagner, P., & Gramzow, R. (1989). The Test of SelfConscious Affect (TOSCA). Fairfax, VA: George Mason University.
+Tracy, J. L., & Robins, R. W. (2003). “Death of a (narcissistic) salesman”:
+An integrative model of fragile self-esteem. Psychological Inquiry, 14,
+57– 62.
+Tracy, J. L., & Robins, R. W. (2004a). Putting the self into self-conscious
+emotions: A theoretical model. Psychological Inquiry, 15, 103–125.
+
+525
+
+Tracy, J. L., & Robins, R. W. (2004b). Show your pride: Evidence for a
+discrete emotion expression. Psychological Science, 15, 194 –197.
+Tracy, J. L., & Robins, R. W. (2006). Appraisal antecedents of shame and
+guilt: Support for a theoretical model. Personality & Social Psychology
+Bulletin, 32, 1339 –1351.
+Tracy, J. L., & Robins, R. W. (2007). The nonverbal expression of pride:
+Evidence for cross-cultural recognition. Manuscript submitted for publication.
+Tracy, J. L., Robins, R. W., & Lagattuta, K. H. (2005). Can children
+recognize the pride expression? Emotion, 5, 251–257.
+Twenge, J. M., & Campbell, W. K. (2003). “Isn’t it fun to get the respect
+we’re going to deserve?” Narcissism, social rejection, and aggression.
+Personality & Social Psychology Bulletin, 29, 261–272.
+Weiner, B. (1985). An attributional theory of achievement motivation and
+emotion. Psychological Review, 92, 548 –573.
+Weiner, B. (1991). An attributional look at explanatory style. Psychological Inquiry, 2, 43– 44.
+
+Received August 12, 2005
+Revision received September 5, 2006
+Accepted October 23, 2006 䡲
+
+

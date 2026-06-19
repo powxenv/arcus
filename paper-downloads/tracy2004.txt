@@ -1,0 +1,2091 @@
+This article was downloaded by: [New York University]
+On: 25 June 2015, At: 04:28
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House,
+37-41 Mortimer Street, London W1T 3JH, UK
+
+Psychological Inquiry: An International Journal for the
+Advancement of Psychological Theory
+Publication details, including instructions for authors and subscription information:
+http://www.tandfonline.com/loi/hpli20
+
+TARGET ARTICLE: "Putting the Self Into Self-Conscious
+Emotions: A Theoretical Model"
+Jessica L. Tracy & Richard W. Robins
+Published online: 19 Nov 2009.
+
+To cite this article: Jessica L. Tracy & Richard W. Robins (2004) TARGET ARTICLE: "Putting the Self Into Self-Conscious
+Emotions: A Theoretical Model", Psychological Inquiry: An International Journal for the Advancement of Psychological Theory,
+15:2, 103-125, DOI: 10.1207/s15327965pli1502_01
+To link to this article: http://dx.doi.org/10.1207/s15327965pli1502_01
+
+PLEASE SCROLL DOWN FOR ARTICLE
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the “Content”) contained
+in the publications on our platform. However, Taylor & Francis, our agents, and our licensors make no
+representations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of the
+Content. Any opinions and views expressed in this publication are the opinions and views of the authors, and
+are not the views of or endorsed by Taylor & Francis. The accuracy of the Content should not be relied upon and
+should be independently verified with primary sources of information. Taylor and Francis shall not be liable for
+any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoever
+or howsoever caused arising directly or indirectly in connection with, in relation to or arising out of the use of
+the Content.
+This article may be used for research, teaching, and private study purposes. Any substantial or systematic
+reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any
+form to anyone is expressly forbidden. Terms & Conditions of access and use can be found at http://
+www.tandfonline.com/page/terms-and-conditions
+
+Psychological Inquiry
+2004, Vol. 15, No. 2, 103–125
+
+Copyright © 2004 by
+Lawrence Erlbaum Associates, Inc.
+
+TARGET ARTICLE
+
+Putting the Self Into Self-Conscious Emotions: A Theoretical Model
+Jessica L. Tracy and Richard W. Robins
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+Department of Psychology
+University of California, Davis
+Self-conscious emotions (e.g., shame, pride) are fundamentally important to a wide
+range of psychological processes, yet they have received relatively little attention
+compared to other, more “basic” emotions (e.g., sadness, joy). This article outlines
+the unique features that distinguish self-conscious from basic emotions and then explains why generally accepted models of basic emotions do not adequately capture the
+self-conscious emotion process. The authors present a new model of self-conscious
+emotions, specify a set of predictions derived from the model, and apply the model to
+narcissistic self-esteem regulation. Finally, the authors discuss the model’s broader
+implications for future research on self and emotion.
+Willy Loman, the protagonist of Arthur Miller’s
+Death of a Salesman, experiences such profound
+shame from failing to achieve the American dream that
+he commits suicide by the final act of the play. In William Shakespeare’s Macbeth, Lady Macbeth is so
+overwhelmed by guilt after murdering her king, she
+hallucinates spots of blood on her hands and takes her
+own life. Oedipus, the tragic hero of Sophocles’
+Oedipus Rex, is plunged into epic shame when he realizes that he killed his father and married his mother.
+Oedipus refrains from suicide but stabs out his eyes so
+he will never have to look himself, or others, in the face
+again. And in Ovid’s Metamorphoses, the infamous
+Narcissus is so consumed by pride that he chooses eternal self-reflection over the possibility of a meaningful
+romantic relationship.
+As these four stories illustrate, self-conscious emotions, such as shame, guilt, and pride, play a central
+role in motivating and regulating people’s thoughts,
+feelings, and behaviors (Campos, 1995; Fischer &
+Tangney, 1995). Self-conscious emotions drive people
+to work hard in achievement and task domains (Stipek,
+1995; Weiner, 1985), and to behave in moral, socially
+appropriate ways in their social interactions and intimate relationships (Baumeister, Stillwell, & Heatherton, 1994; Leith & Baumeister, 1998; Retzinger,
+1987). Most people spend a great deal of time avoiding
+social approbation, a strong elicitor of shame and embarrassment. We worry about losing social status in the
+eyes of others and, as Goffman (1955) noted, our every
+social act is influenced by even the slight chance of
+public shame or loss of face. In fact, according to the
+
+Cooley–Scheff Conjecture, we are “virtually always in
+a state of either pride or shame” (Scheff, 1988, p. 399).
+Researchers have linked self-conscious emotions to
+a wide variety of outcomes. Guilt, for example, has
+been found to be centrally involved in reparative and
+prosocial behaviors such as empathy, altruism, and
+caregiving (e.g., Batson, 1987; Baumeister et al., 1994;
+Tangney & Dearing, 2002). Shame has been shown to
+mediate the negative emotional and physical health
+consequences of social stigma; victims of physical
+abuse (Feiring, Taska, & Lewis, 2002) and HIV-positive men (Kemeny, 2002) suffer poorer emotional and
+physical health if they feel ashamed of their stigma.
+Shame is also associated with depression and chronic
+anger (Harder, Cutler, & Rockart, 1992; Lewis, 1971;
+Tangney, Miller, Flicker, & Barlow, 1996; Tangney,
+Wagner, & Gramzow, 1992) and is a core component
+of the narcissistic, antisocial, and borderline personality disorders (see Harder, 1995, for review).
+Despite their centrality to psychological functioning, self-conscious emotions have received considerably less attention from emotion researchers than the so
+called basic emotions such as joy, fear, and sadness
+1
+(Campos, 1995; Fischer & Tangney, 1995). Over the
+1
+
+Although Ortony and Turner (1990) argued against the usefulness of the basic emotion concept, their position was refuted by
+Ekman (1992a), Izard (1992), and Panksepp (1992), all of whom
+pointed to the extensive empirical evidence supporting the concept.
+Regardless of this debate, the underlying theoretical notion that a relatively small subset of emotions holds a special status because of
+their biological and psychological importance is unquestionably a
+central concept in the current emotion literature. Its continued impor-
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TRACY & ROBINS
+
+past couple of decades, the field of emotion research has
+expanded dramatically (Hébert, 2002), exemplified by
+the new area of “affective science” and the emergence of
+a new APA journal, Emotion, in 2001. However, the increase in emotion research as a whole has not been
+mirrored by a corresponding increase in research on
+self-conscious emotions, despite the call of psychologists such as Fischer and Tangney (1995). In fact, of the
+66 articles published to date in Emotion, only two have
+discussed self-conscious emotions, and in neither case
+are these emotions the focus of the article.
+There are both theoretical and methodological reasons for the lack of research on self-conscious emotions. In the emotion literature, researchers have
+focused on emotions that are biologically based,
+shared with other animals, pan-culturally experienced,
+and identifiable via discrete, universally recognized facial expressions—in other words, emotions that can be
+studied without reliance on verbal reports of internal
+experience (e.g., Davidson, 2001; Ekman, Levenson,
+& Friesen, 1983; LeDoux, 1996; Panksepp, 1998).
+From this perspective, only a small subset of the vast
+number of emotions represented in the natural language—anger, fear, disgust, sadness, happiness, and
+surprise—are considered important (Ekman, 1992b;
+Izard, 1971). These six have been labeled “basic” emotions because of their biological basis, evolved origins,
+universality, and location (in most cases) at the basic
+level in a hierarchical classification of emotion terms
+(Johnson-Laird & Oatley, 1989; Shaver, Schwartz,
+Kirson, & O’Connor, 1987). Self-conscious emotions,
+in contrast, show weaker evidence of universality:
+Their antecedents, phenomenological experience, and
+consequences differ across cultures (Eid & Diener,
+2001; Kitayama, Markus, & Matsumoto, 1995; Menon
+& Shweder, 1994), and there is less evidence that they
+have pan-culturally recognized facial expressions
+(Ekman, 1992b). Moreover, self-conscious emotions
+are subsumed by basic emotions in linguistic hierarchical classifications (e.g., sadness subsumes shame, joy
+subsumes pride; Shaver et al., 1987).
+Researchers interested in the self have also paid relatively little attention to self-conscious emotions, focusing instead on the broad dimensions of positive and
+negative affect. Although affective processes are invoked to explain a wide range of findings in the self literature, specific emotions—self-conscious or
+basic—are rarely assessed or incorporated into theoretical models. For example, in discussing self-esteem
+maintenance, Tesser (2001) argued that “many self-de-
+
+tance is exemplified by a recent debate in the APA journal Emotion
+about which emotional states should be included within the basic
+emotion category (e.g., Rozin & Cohen, 2003). In fact, Rozin and Cohen (2003) opened their target article with the statement, “There is
+much evidence suggesting that there is a set of basic emotions, as defined and evidenced by a number of investigators” (p. 68).
+
+104
+
+fense mechanisms are mediated by affect” (p. 68), but
+did not specify which particular emotions are involved.
+Carver and Scheier (1998) proposed that movement toward a self-regulatory goal (i.e., reduction of a discrepancy) produces a generalized feeling of positive affect
+whereas movement away from a self-regulatory goal
+produces negative affect. In our own research, we have
+argued that self-enhancement biases temporarily increase positive affect, but we also failed to specify the
+precise emotions experienced by self-enhancers
+(Robins & Beer, 2001). Given the lack of emphasis on
+any specific emotions, it is not surprising that self-conscious emotions have received so little attention in the
+self literature. Nonetheless, we believe that specific
+self-conscious emotions are critically involved in
+many of these findings. For example, self-enhancement processes may be driven by the desire to promote
+feelings of pride and avoid feelings of shame.
+Aside from these theoretical issues, methodological
+roadblocks have also hindered research on self-conscious emotions (Lewis, Sullivan, Stanger, & Weiss,
+1989). Self-conscious emotions (with the possible exception of embarrassment) may be more difficult to
+elicit in the laboratory than basic emotions, such as
+fear, disgust, and joy. Experimental procedures used to
+elicit basic emotions (e.g., photographs, film clips)
+seem less effective in eliciting self-conscious emotions. Indeed, it is difficult to imagine an ethical manipulation that would generate shame in all
+individuals, partly because self-conscious emotions require more psychologically complex and individualized elicitors. Furthermore, even if self-conscious
+emotions could be effectively elicited, it might be more
+difficult to measure the resultant emotional experiences. Tangney and her colleagues have developed reliable self-report measures of self-conscious emotional
+dispositions (e.g., the Test of Self-Conscious Affect-3;
+Tangney, Dearing, Wagner, & Gramzow, 2000), however standardized procedures for assessing on-line
+self-conscious emotions from nonverbal behaviors are
+only beginning to be developed (Keltner, 1995; Tracy
+& Robins, 2004b). In contrast, there are a variety of
+coding schemes for assessing dispositional and on-line
+basic emotions through verbal and nonverbal behaviors, such as the Emotion-Facial Action Coding System (EM-FACS) for coding facial expressions (Ekman
+& Rosenberg, 1997).
+Although the historical emphasis on basic emotions
+is understandable, we believe the time is ripe to devote
+greater attention to self-conscious emotions. The theoretical and methodological lessons learned from the
+study of basic emotions can be applied in research on
+the more psychologically complex self-conscious
+emotions. A better understanding of the antecedents
+and dynamics of self-conscious emotions will provide
+insights into the mechanisms underlying a wide range
+of psychological phenomena. Moreover, regardless of
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TARGET ARTICLE
+
+whether self-conscious emotions are universal and
+have clear-cut neurobiological bases, if an individual
+subjectively feels ashamed, guilty, embarrassed, or
+proud, then that, in itself, is an important psychological
+event with implications for future behavior, decisions,
+and mental and physical health. Finally, the methodological impediments to the study of self-conscious
+emotions are not intractable. Indeed, similar issues
+were raised several decades ago, when many psychologists argued that emotions in general could not be studied scientifically. A handful of emotion researchers
+questioned this claim and struggled against the zeitgeist to develop the field of affective science. We believe it is time to approach the study of self-conscious
+emotions in the same systematic and comprehensive
+manner.
+In fact, it is already clear from the extant research
+that the study of self-conscious emotions can be fruitful. The few researchers who have studied self-conscious emotions have made great progress toward
+understanding their development, expressions, functions, and consequences (e.g., Fischer & Tangney,
+1995; Keltner & Buswell, 1997; Lewis, 2000;
+Lindsay-Hartz, 1984; Miller, 1995; Stipek, 1983;
+Tangney & Dearing, 2002). However, there is little
+empirical research on the antecedent cognitive processes that generate self-conscious emotions (but see
+Keltner & Buswell, 1996; Tangney et al., 1996;
+Weiner, 1985). Appraisal theorists, who have extensively tested their models of the cognitive processes
+thought to elicit the whole range of emotions, typically
+pay little attention to the family of self-conscious emotions in particular (e.g., Lazarus, 1991; Roseman,
+1991; Scherer, 2001).
+In our view, self-conscious emotions need to be
+treated as a special class of emotions. As cognition-dependent emotions (Izard, Ackerman, & Schultz, 1999),
+self-conscious emotions require a distinct theoretical
+model specifying their antecedent cognitions. The absence of such a model may have impeded self-conscious emotion research and contributed to the relative
+neglect of these emotions. As Levenson (1999) noted,
+“What is needed is not a single theory of emotion, but
+rather a set of emotion theories for different families of
+emotions [including] one for the self-conscious emotions” (p. 493).
+In the following section, we describe the unique set
+of features that distinguish self-conscious from basic
+emotions. We then explain why generally accepted
+models of basic emotions do not adequately capture
+the self-conscious emotion process. We next present a
+new appraisal-based model of self-conscious emotions
+and demonstrate the model’s utility by applying it to
+narcissistic self-esteem regulation. Finally, we conclude by discussing the model’s broader implications
+for research on self and emotion. We hope this article
+will stimulate theory and research on self-conscious
+
+emotions and will remind psychologists that when it
+comes to motivating complex human behaviors,
+self-conscious emotions are perhaps the most basic.
+
+Distinctive Features of Self-Conscious
+Emotions
+
+Self-Conscious Emotions Require
+Self-Awareness and Self-Representations
+First and foremost, self-conscious emotions differ
+from basic emotions because they require self-awareness and self-representations. Although basic emotions such as fear and sadness can and often do involve
+self-evaluative processes, only self-conscious emotions must involve these processes (Buss, 2001; Lewis
+et al., 1989; Tangney & Dearing, 2002). A sense of
+self, as conceived by self theorists since James (1890),
+includes an ongoing sense of self-awareness (the “I”
+self) and the capacity for complex self-representations
+(the “me” self, or the mental representations that constitute one’s identity). Together, these self-processes
+make it possible for self-evaluations, and therefore
+self-conscious emotions, to occur.
+As we will explain in greater detail below, people
+tend to experience self-conscious emotions, such as
+pride and shame, only when they become aware that
+they have lived up to, or failed to live up to, some actual or ideal self-representation. Events that do not activate self-evaluative processes may generate basic,
+but not self-conscious, emotions. For example, a person may feel great happiness after winning either the
+lottery or an athletic event. Presumably, the former
+event would not involve any self-evaluation, whereas
+the latter would elicit a self-evaluative process (e.g.,
+“What does my athletic achievement mean for my talents and abilities?”). As a result, only the latter
+event—success in athletics—would also generate a
+self-conscious emotion, such as pride (unless the person takes personal credit for having chosen the winning lottery numbers). Consistent with this account,
+comparative studies suggest that animals who likely
+lack the capacity for self-awareness do not experience
+self-conscious emotions, whereas animals who may be
+self-aware (e.g., chimpanzees and orangutans) display
+emotional reactions that can be interpreted as pride,
+shame, and embarrassment (Hart & Karmel, 1996;
+Hayes, 1951; Russon & Galdikas, 1993; Yerkes &
+Yerkes, 1929). Thus, the primary distinctive characteristic of self-conscious emotions is that their elicitation
+requires the ability to form stable self-representations
+(me), to focus attention on those representations (i.e.,
+to self-reflect; I), and to put it all together to generate a
+self-evaluation.
+Importantly,
+these
+same
+self-evaluative processes can also lead to the experi105
+
+TRACY & ROBINS
+
+ence of basic emotions; however, unlike self-conscious emotions, basic emotions can also be elicited in
+the absence of self-evaluation.
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+Self-Conscious Emotions Emerge
+Later in Childhood Than Basic
+Emotions
+A second distinctive feature of self-conscious emotions is that they develop later than basic emotions
+(Izard, 1971). Previous research suggests that most basic emotions emerge within the first 9 months of life
+(e.g., Campos, Barrett, Lamb, Goldsmith, & Stenberg,
+1983); in fact, the primacy of these emotions in ontogeny is one reason for their classification as basic (Izard,
+1992). In contrast, even generalized feelings of
+self-consciousness (typically labeled as an early form
+of embarrassment) do not develop until around 18 to
+24 months (Lewis, 1995). More complex self-conscious emotions, such as shame, guilt, and pride,
+emerge even later, possibly by the end of the child’s
+third year of life (Izard et al., 1999; Lewis, 1995;
+Lewis, Alessandri, & Sullivan, 1992; Stipek, 1995).2
+One explanation that researchers have proffered for
+the later development of self-conscious emotions is
+that they require the capacity for self-awareness and
+the formation of stable self-representations (Lewis,
+1995; Tangney & Dearing, 2002). Supporting this assumption, self-awareness develops around 18 to 24
+months, the same age that the first self-conscious emotion makes its appearance (Hart & Karmel, 1996;
+Lewis et al., 1992). Moreover, Kochanska, Gross, Lin,
+and Nichols (2002) found that children who showed
+early “signs of self” (including mirror self-recognition
+and verbal self-description) at 18 months were more
+likely to show behavioral displays of a self-conscious
+emotion (guilt) following a mishap (e.g., breaking a
+toy) at 33 months.
+Self-conscious emotions may also emerge later because children must first come to understand that particular rules and standards determine what is
+appropriate social behavior, and that their own behavior will be evaluated by others according to these standards (Lewis, 2000; Lewis et al., 1989; Stipek, 1983).
+Eventually, as children come to develop an elaborated
+theory of mind, they learn that significant others, most
+often parents or caregivers, view them from an exter2
+
+Of course such studies are complicated by the difficulty of assessing discrete emotions in infants and young children, and it is possible
+that the apparent age difference in the emergence of basic versus
+self-conscious emotions reflects the inability of researchers to assess
+self-conscious emotions at an early age. However, in these developmental studies, self-conscious emotions are assessed through behaviors such as gaze aversion (e.g., shame) and expanded posture and
+raised arms (pride; Lewis et al., 1992), which are relatively easy to
+code in young children.
+
+106
+
+nal, evaluative perspective (Cooley, 1902; Wellman &
+Lagattuta, 2000). External evaluations (e.g., “Mommy
+gets mad when I spill milk”) can be internalized when
+the child develops the capacity for self-awareness and
+then transformed into the stable self-evaluations (e.g.,
+“I am bad when I spill milk”) essential for self-conscious emotions (Retzinger, 1987; Schore, 1998). Consistent with this developmental account, as children
+grow older they come to depend less on external standards and more on their own, internalized norms for
+judging behavior. For example, when younger children discuss their shame and guilt experiences they focus on the reactions of others (e.g., “I am afraid that
+others won’t like me anymore”), but older children
+tend to use their own standards to make self-evaluations (e.g., “I feel stupid”; Ferguson, Stegge, &
+Damhuis, 1991).
+
+Self-Conscious Emotions Serve
+Primarily Socialized Needs
+Emotions are likely to have evolved through natural
+selection to serve two primary kinds of functions—promoting the direct attainment of survival and
+reproductive goals (which we will refer to as survival
+goals) and promoting the attainment of social goals
+(e.g., getting along and getting ahead), which are more
+distally related to survival and reproduction. As social
+creatures, social goals are probably essential for our
+survival, but their attainment represents a more intermediary step toward adaptive fitness than the direct attainment of survival goals; for example, the social goal
+of befriending a future ally is a more intermediary step
+toward survival than fleeing a predator. Basic emotions clearly serve survival and social functions. For
+example, fear may cause an individual to run away
+from danger, thereby enhancing his or her chances for
+survival; but fear (e.g., of social scorn) may also cause
+an individual to act in a socially appropriate manner,
+thereby enhancing his or her ability to meet social
+goals of getting along with others.
+In contrast, self-conscious emotions seem to promote the attainment of specifically social goals
+(Keltner & Buswell, 1997). Humans evolved to navigate within a social structure that has complex layers of
+multiple, overlapping, and sometimes nontransitive
+social hierarchies (e.g., the highest status hunters were
+not always the highest status warriors). Consistent with
+this account, self-conscious emotions seem to be present only in humans and other species (e.g., great apes)
+with highly complex and frequently shifting social hierarchies (de Waal, 1989; Keltner & Buswell, 1997).
+Survival and reproduction have depended on overcoming numerous complicated social problems, including
+“dyadic, triadic, or group-level cooperation; smooth
+group functioning; cheating; detection of cheaters;
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TARGET ARTICLE
+
+intragroup (and, particularly, intrasexual) competition,
+and intergroup competition” (Sedikides &
+Skowronski, 1997, p. 92). Self-conscious emotions
+may have evolved in species with complex self-representations and self-awareness to coordinate and motivate behaviors essential to these social dynamics.
+Collectively, the self-conscious emotions are assumed
+to promote behaviors that increase the stability of social hierarchies and affirm status roles. For example,
+researchers have argued that embarrassment and
+shame evolved for purposes of appeasement, guilt for
+encouraging communal relationships, and pride for establishing dominance (Baumeister et al., 1994; Gilbert,
+1998; Keltner & Buswell, 1997; Tracy & Robins,
+2003c). More specifically, the expression of shame
+may draw forgiveness and sympathy from onlookers
+(Keltner & Harker, 1998), and the expression of pride
+may promote social status by increasing the individual’s visibility to others following a socially valued
+achievement (Tracy & Robins, 2003c).3
+In addition to serving these communicative and interpersonal functions, self-conscious emotions may
+also serve intrapsychic functions. Self-conscious emotions guide individual behavior by compelling us to do
+things that are socially valued and to avoid doing
+things that lead to social approbation (Tangney &
+Dearing, 2002). We strive to achieve, to be a “good
+person,” or to treat others well because doing so makes
+us proud of ourselves, and failing to do so makes us
+feel guilty or ashamed of ourselves.4 Put simply, society tells us what kind of person we should be; we internalize these beliefs in the form of actual and ideal
+self-representations; and self-conscious emotions motivate behavioral action toward the goals embodied in
+these self-representations. Thus, although we might
+3
+
+We do not mean to imply that only those animals who experience
+self-conscious emotions show appeasement or dominance behaviors.
+We believe that in humans self-conscious emotions are the mechanisms that motivate these behaviors, and it is likely that emotions
+have certain advantages as behavioral motivators (for a brief discussion of these advantages, see Scherer, 1994). In animals who do not
+experience self-conscious emotions, the motivational system for appeasement, dominance, and other social behaviors may be based in
+more primitive stimulus-response mechanisms.
+4
+Interestingly, this motivational function of self-conscious emotions may develop later than the subjective experience of the emotions. Graham (1988) examined relations among causal attributions,
+guilt and pride feelings, and behaviors in children of various ages.
+She found that controlling for reported feelings of guilt and pride removed any relation between attributions and behaviors in older children but had no effect on the relation between attributions and behaviors in younger children (ages 5 and 6). This suggests that young
+children need to think through appropriate behavioral responses to
+guilt-provoking events, rather than be automatically motivated by
+their feelings. For older children and adults, self-conscious emotions
+may save precious cognitive resources; we do not need to cognize
+moral responses to our bad behavior because we are motivated to act
+by our feelings alone (and, as the partial correlations suggest, if we
+did not feel guilt there would be no relation between the event and our
+responsive behavior).
+
+know cognitively that we should help others in need, it
+takes the psychological force of an emotion such as
+guilt to make us act in altruistic ways. By reinforcing
+prosocial behaviors—encouraging us to act in ways
+that promote social acceptance—self-conscious emotions facilitate interpersonal reciprocity, a social arrangement that is highly beneficial in the long term
+(Trivers, 1971).
+
+Self-Conscious Emotions Do Not Have
+Discrete, Universally Recognized
+Facial Expressions
+All six of the basic emotions have a discrete, universally recognized facial expression (Ekman, 2003). In
+contrast, researchers have failed to find a distinct facial
+expression for any self-conscious emotion. They have,
+however, found a distinct expression that includes
+bodily posture or head movement combined with facial expressions for embarrassment, pride, and possibly shame (Heckhausen, 1984; Keltner, 1995; Lewis et
+al., 1992; Tracy & Robins, 2004b). As Lewis (2000)
+noted, “Self-conscious emotions cannot be described
+solely by examining a particular set of facial movements; they necessitate the observation of bodily action more than facial cues” (p. 623). In fact, pride can
+be reliably identified from a postural display involving
+the full upper body (revealing an expanded posture),
+but it cannot be recognized when observers are shown
+the face alone (Tracy & Robins, 2004b).
+A number of theorists have argued that emotions
+necessarily have universal, discrete nonverbal expressions (e.g., Darwin, 1872; Ekman, 1992b). According
+to this perspective, emotions evolved to communicate
+needs to an individual’s conspecifics, so every emotion
+should have an expressive signal reflecting its evolutionary origins (Ekman, 1992b). This argument has
+been used to exclude self-conscious emotions from the
+category of basic emotions, or to include them only as
+potential emotions until a discrete expression is uncovered (Ekman, 1994). However, there are several reasons why self-conscious emotions may not have a
+discrete facial signal. First, they may be effectively
+communicated through more complex nonverbal behaviors than a simple, immediate facial muscle movement (Barrett & Campos, 1987). As mentioned earlier,
+at least a few of the self-conscious emotions are communicated through postural changes or bodily movement, which may be as effective in communication as
+facial expressions (Keltner, 1995; Tracy & Robins,
+2004b). These signals may be more complex than facial expressions but this fits with their more complex
+messages. In other words, a quick facial expression
+may be adequate for telling conspecifics, “Run!”, but a
+more complex bodily expression may better convey
+107
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TRACY & ROBINS
+
+the message, “I just did something that makes me deserve high status.”
+Second, self-conscious emotions may be expressed
+more frequently through language than through nonverbal expressions. Self-conscious emotions may have
+evolved more recently than basic emotions, as social
+groups and social interactions became more complex
+and varied forms of communication, including linguistic communication, became possible (P. Ekman, personal communication, March 2002). In other words, at
+the point in our evolutionary history when self-conscious emotions emerged, linguistic and gestural forms
+of communication may have been available to be
+co-opted for verbal expression of emotions. Although
+facial expressions have the advantage of being automatic and immediate, self-conscious emotions communicate messages that are typically less urgent than
+basic emotions and perhaps allow for more deliberate
+processing and the production of linguistic forms of
+communication. For example, conveying one’s guilt
+over a social transgression is important, but it is important over a longer time frame than conveying one’s fear
+about the presence of a predator.
+A third possible explanation for the absence of facial signals in self-conscious emotions is that expressing these emotions may sometimes be
+maladaptive, making it more important that they can
+be regulated. Facial expressions are more difficult to
+regulate than body movements and posture because
+many of the facial muscle contractions involved are
+involuntary responses. Although in contemporary society we may wish we could control the expression of
+all our emotions (e.g., avoid showing fear in front of
+our boss), in our evolutionary history it was clearly
+more adaptive that our (basic) emotions be automatically expressed. The expression of self-conscious
+emotions, however, may be less directly essential to
+survival and, in some cases, may be detrimental to
+fitness. For example, in many cultures it is considered unacceptable to openly display pride, and such
+displays may lower a person’s likeability or spur the
+formation of coalitions against the person (Eid &
+Diener, 2001; Mosquera, Manstead, & Fischer, 2000;
+Paulhus, 1998; Zammuner, 1996). Furthermore, individuals regulate not only the expression but also the
+experience of self-conscious emotions. Shame is such
+a self-damaging and painful emotion that its experience may be automatically suppressed through elaborate cognitive reappraisals. Clinicians have discussed
+“bypassed shame”—shame that has been transformed
+through regulation into some other emotion, usually
+anger or hostility (Lewis, 1971; Scheff, Retzinger, &
+Ryan, 1989). If regulation is the norm for self-conscious emotions, we may not expect a reliably associated discrete expression for each.
+In summary, there are several possible explanations
+for the absence of facial expressions in self-conscious
+108
+
+emotions, all of which suggest that these emotions are,
+as a group, distinct from basic emotions.
+
+Self-Conscious Emotions Are
+Cognitively Complex
+A fifth distinctive feature of self-conscious emotions
+is that they are more cognitively complex than basic
+emotions (Izard et al., 1999; Lewis, 2000). Izard and his
+colleagues labeled shame, guilt, and pride “cognition-dependent” emotions, in comparison with the relatively “cognition-independent” basic emotions (Izard et
+al., 1999, p. 92). To experience fear, individuals need
+very few cognitive capacities; they must simply appraise an event as threatening survival goals (e.g., Lazarus, 1991). To experience shame, however, an individual must have the capacity to form stable
+self-representations; internalize an external, societal, or
+parental perspective on those self-representations; and
+reflect on the discrepancy between his or her own behavior, external evaluations of that behavior, and various self-representations. In other words, the individual
+must take into account goals far beyond survival: goals
+related to identity and ideal-self-representations. In addition, self-conscious emotions require additional appraisals beyond goal relevance and congruence; they require complex causal attributions (Graham & Weiner,
+1986). As we will explain when we describe our process
+model, self-conscious emotions cannot occur unless the
+eliciting event is attributed to internal causes—the self.
+We also explain how further causal attributions about
+the stability and globality of causes may distinguish
+among different self-conscious emotions. Basic emotions can involve these kinds of complex cognitive processes, but, unlike self-conscious emotions, they also
+can (and often do) occur with much simpler appraisals
+(Le Doux, 1996).
+Given the previous set of distinctive features, it becomes apparent that self-conscious emotions need to
+be conceptualized in a somewhat different manner
+than basic emotions. In the next section, we briefly explain why existing theories and models of emotions do
+not fully capture the self-conscious emotion process.
+We then present a new model tailored to the psychological processes governing the elicitation of self-conscious emotions.
+Process Model of Self-Conscious
+Emotions
+Background
+According to most emotion theorists, emotions are
+initiated by the perception of a stimulus, which is evaluated (appraised) either consciously or unconsciously,
+setting off an “affect program” (e.g., Ekman, 1992b).
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TARGET ARTICLE
+
+The affect program is assumed to be a discrete neural
+pattern that produces a coordinated set of responses,
+including action readiness and associated behaviors,
+physiological changes, a discrete facial expression,
+and a subjective feeling state. This model provides an
+adequate account of basic emotions. For example, anger occurs when a particular stimulus is appraised as
+thwarting a survival goal (Lazarus, 1991), generating
+an affect program that leads to a coordinated set of responses including the behavioral impulse to oppose or
+resist (Frijda, 1987), autonomic nervous system activity related to the flight-or-fight response (Levenson,
+Carstensen, Friesen, & Ekman, 1991), a discrete facial
+expression characterized by narrowed eyes, lowered
+eyebrows, and tightened lips (Ekman & Friesen,
+1975), and the subjective feeling of anger.
+The central limitation of this model is that it assumes a very simple appraisal process focused on survival goals, which may not be appropriate for
+self-conscious emotions. It is unlikely that any quick
+and simple cognitive process will generate shame in all
+individuals. Thus, we turned to a second body of research, on appraisal theories of emotion, to revise and
+extend the generic model.
+Appraisal theories were developed specifically to
+describe the cognitive appraisals that distinguish
+among emotions (e.g., Lazarus, 1991; Roseman, 1991;
+Scherer, 2001; Smith & Ellsworth, 1985). The two
+most essential appraisals in almost all these theories involve evaluations of whether the eliciting event is (a)
+relevant to and (b) congruent with the individual’s
+goals and needs (e.g., Lazarus, 1991). The goals at
+stake are generally viewed as survival and reproduction; most appraisal theorists agree that emotions
+evolved to serve adaptive functions. Events that are
+congruent with survival goals (e.g., escaping from a
+predator) generate positive emotions such as joy and
+relief; those that are incongruent (e.g., being caught by
+a predator) generate negative emotions such as fear
+and anger. Beyond appraisals of relevance and congruence, there is little consensus about which other appraisals generate and differentiate among specific
+emotions. A number of theories have been advanced
+(e.g., Lazarus, 1991; Roseman, 1991; Scherer, 2001;
+Smith & Ellsworth, 1985; Smith & Lazarus, 1993), but
+their exact components, stimulus checks, or core-relational themes vary (Frijda, 1987).
+Several of these theories include appraisals related
+to self-conscious emotions; for example, most include
+an appraisal of self-relevance or self-compatibility.
+However, appraisals of self-relevance are sometimes
+conflated with appraisals of general goal relevance
+(e.g., Frijda, 1987). In addition, the theories that mention self-relevance tend not to explicate what it means
+and seem to imply a very rudimentary notion of
+self—the ability to distinguish between self and
+other—which is very different from the elaborate
+
+self-awareness and self-representations that we think
+are essential to self-conscious emotions. Other theorists include appraisals about whether the cause of the
+eliciting event is located within the self, and have proposed appraisal dimensions such as agency, accountability, and responsibility (e.g., Ellsworth & Smith,
+1988; Gehm & Scherer, 1988; Roseman, 1991; Smith
+& Ellsworth, 1985; Smith & Lazarus, 1993; Weiner,
+1985). These appraisals about causal locus are believed to distinguish between self-conscious and
+non-self-conscious emotions (e.g., shame vs. anger),
+however they do not distinguish among different
+self-conscious emotions, such as shame vs. guilt (e.g.,
+Ellsworth & Smith, 1988; Gehm & Scherer, 1988;
+Russell & McAuley, 1986; Smith & Ellsworth, 1985).
+Furthermore, these various notions of causal locus
+(e.g., responsibility vs. agency) are conceptually different, however there is no clear model of which are
+most relevant to self-conscious emotions. Thus, although existing appraisal theories suggest some potentially relevant appraisal dimensions, they do not
+provide a clear, consensual picture of the precise set of
+appraisals that generate self-conscious emotions, or
+provide a model that links the relevant set of appraisals
+in a theoretically coherent manner.
+A final limitation of extant models of basic emotions,
+when applied to self-conscious emotions, is that they do
+not fully incorporate self-evaluative processes. For example, there is little discussion of the role of more complex self-processes, such as self-focused attention, the
+activation of stable self-representations, and the process
+of reflecting on discrepancies between a current
+self-state and some evaluative standard relevant to
+one’s identity (e.g., an ideal self-representation). A
+complete process model of self-conscious emotions requires the inclusion of these elements, as was made clear
+by our discussion of the distinctive features.
+
+Overview of Model
+Figure 1 shows a proposed model of the self-conscious emotion process. The model builds on previous
+theory and research on causal attributions and emotions (e.g., Covington & Omelich, 1981; Jagacinski &
+Nicholls, 1984; Weiner, 1985); cognitive appraisals
+and emotions (e.g., Lazarus, 1991, Scherer, 2001;
+Roseman, 2001; Ellsworth & Smith, 1988); the cognitive antecedents of shame, guilt, and pride (e.g., H. B.
+Lewis, 1971; M. Lewis, 2000; Tangney, 1991); and
+self-evaluative processes (e.g., Brown, 1998; Carver &
+Scheier, 1998; Cooley, 1902; Duval & Wicklund,
+1972; Higgins, 1987).
+One benefit of the proposed model is that it generates specific, testable hypotheses. In each following
+section, we state a prediction derived from the model
+109
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TRACY & ROBINS
+
+Figure 1. Process model of self-conscious emotions. The dotted arrow connecting “Locus Attribution” and “Embarrassment” indicates that a
+public self-representation must be activated in order for embarrassment to occur. “A-O Pride” signifies achievement-oriented pride, discussed in
+a later section.
+
+and then describe the theoretical and empirical rationale for it.
+
+Survival Goal-Relevance: Is the Event
+Relevant to Survival and
+Reproduction?
+Prediction 1: Events appraised as relevant to survival goals will lead to one of the basic emotions.
+As shown in Figure 1, the first appraisal in the proposed model is the same as that in most other appraisal
+theories: an evaluation of whether the eliciting event is
+relevant to survival and reproduction (e.g., Lazarus,
+1991).5 Events appraised as survival-goal relevant include those that immediately affect fitness, such as the
+sudden approach of a poisonous snake; as well as those
+5
+
+Figure 1 implies a clear order and a serial, step-by-step sequence
+of conscious appraisals. However, the actual process presumably includes numerous feedback loops and may work bidirectionally and in
+parallel. Moreover, many of the appraisal processes are likely to occur implicitly (Bargh & Chartrand, 1999). Nonetheless, to simplify
+explanation of the model, we discuss the emotion process described
+in Figure 1 as if it occurred in a simple serial order. Appraisal theorists have argued that representational models such as this usefully
+elucidate appraisal theories of emotions (Kappas, 2001), and several
+theorists have proposed models that seem to work in a clear sequential order (e.g., Scherer, 2001). Furthermore, even if the processes described in Figure 1 actually occur simultaneously or in parallel, our
+model can elucidate the mental algorithms through which these processes are integrated to determine which particular self-conscious
+emotion is produced.
+
+110
+
+that influence fitness much more slowly, such as waiting for the results of an important medical test. Events
+appraised as relevant to an individual’s survival goals
+will lead to one of the basic emotions, according to appraisal and functionalist theories of the basic emotion
+process (e.g., Lazarus, 1991; Nesse, 1990; Roseman,
+2001; Scherer, 2001; Smith & Kirby, 2001). If an event
+is appraised as irrelevant to survival goals, it will elicit
+no emotion—unless it is appraised as relevant to identity goals (see below).6
+
+Attentional Focus on the Self:
+Activation of Self-Representations
+Prediction 2: Self-conscious emotions require
+attentional focus directed toward the objective,
+“me” self, activating self-representations.
+As shown in Figure 1, the next cognitive process
+in the model involves attentional focus. Many events
+direct attention toward the self rather than toward
+the external environment. The resultant state of
+attentional focus has been labeled objective
+self-awareness (Duval & Wicklund, 1972) or self-focused attention (Carver & Scheier, 1998); it is defined
+as a particular form of consciousness in which atten6
+
+It is possible, however, that there exists a small class of eliciting
+events that can produce emotions without appraisals of goal relevance. For example, viewing a work of art or a beautiful landscape
+might elicit joy or awe with no cognitive mediation.
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TARGET ARTICLE
+
+tion (I) is focused on one’s stable self-representations
+(me) (Buss, 1980; Carver & Scheier, 1998). This state
+of self-focused attention and corresponding activated
+self-representations allows individuals to make reflexive self-evaluations.
+An individual’s stable self-representations may include actual or current self-representations (“I am independent”), ideal or hoped-for self-representations
+(“I want to become more independent”), and ought
+self-representations about fulfilling important obligations and duties (“My parents think I should become
+more independent”) (Higgins, 1987). These self-representations may concern past, present, and future selves
+(Markus & Nurius, 1986; Wilson & Ross, 2001) and
+may refer to private (personal) and public (relational,
+social, and collective) aspects of the self (Robins,
+Norem, & Cheek, 1999). Collectively, these various
+forms of self-representations constitute a person’s
+identity.
+According to our theoretical model, self-representations must be activated (either explicitly or implicitly)
+for self-conscious emotions to occur. When attention is
+directed toward the self, activating self-representations, the individual can make comparisons between
+these representations and the external emotion-eliciting event. These comparisons are a necessary causal
+element of self-conscious emotions. In contrast, we believe that individuals cannot experience self-conscious
+emotions when their attention is directed exclusively
+outward toward the external environment, preventing
+the activation of self-representations. For example,
+when individuals are absorbed in a state of “flow,” in
+which all attention is focused on a particular, often
+challenging, activity, they tend not to become self-conscious (Csikszentmihalyi, 1990).
+What causes attentional focus to be placed on the
+self? Self-focused attention may be evoked automatically by events that have a prior history of relevance to
+self-representations (e.g., achievement situations for
+students), or by events that naturally draw attention to
+the self, such as seeing one’s reflection in a mirror. Indeed, much experimental research on self-awareness
+has used mirror placement to induce self-focused attention (Buss, 1980; Duval & Wicklund, 1972; Scheier
+& Carver, 1977). Furthermore, because the “me” self
+may be activated at an implicit level, self-conscious
+emotions may still be generated even when individuals
+are highly motivated to avoid them. For example, a student who fails an exam may avoid thinking explicitly
+about what this event means for her or his self-representations. At an implicit level, however, her or his
+goals and self-representations may well be activated,
+eventually generating shame or guilt despite her or his
+attempt to defend against these emotions.
+Our emphasis on the importance of self-focused attention is supported by previous research showing that
+self-focus intensifies emotional experiences. Studies
+
+have shown that objective self-awareness can lead to
+emotional discomfort and negative affect regarding the
+self, presumably because attentional focus on the self
+often promotes the recognition of self-flaws (e.g.,
+Duval & Wicklund, 1972). Consistent with these findings, Carver and Scheier (1998) argued that individuals must place attentional focus on the self to recognize
+the discrepancies between current self-states and goal
+states (e.g., ideal-self standards) that produce positive
+or negative emotional experiences. They have shown
+that experimentally induced self-focused attention accentuates the intensity of positive or negative emotions
+(e.g., Scheier & Carver, 1977). In a rare study that examined the role of self-focused attention in the generation of specifically self-conscious emotions, Beer et al.
+(2002) found that patients with a brain lesion in their
+orbital-frontal cortex did not experience embarrassment after behaving in a socially inappropriate manner
+unless they viewed a videotape of their behavior, presumably enhancing self-focused attention in patients
+who lack the capacity to become automatically
+self-aware.
+
+Identity Goal-Relevance: Does it
+Matter For How I See Myself?
+Prediction 3: Appraisals of identity-goal relevance are necessary for the elicitation of self-conscious emotions.
+When attentional focus is directed toward self-representations, events can be appraised for their relevance to identity goals (see Figure 1). This appraisal
+concerns whether particular events are important or
+meaningful for who a person is and who he or she
+would like to be (i.e., for one’s identity). In general,
+any event relevant to an important self-representation
+is likely to be appraised as relevant to an identity goal.
+In contrast, an event that is relevant to an individual’s
+proximal adaptive fitness will be appraised as survival-goal relevant. For example, if a man camping in
+the woods sees a bear, he is likely to appraise this event
+as relevant to his survival goals and feel fear—a basic
+emotion. However, if he is camping with his girlfriend,
+and his awareness of her presence activates self-focused attention on his self-representations regarding
+gender-stereotypical camping behavior, seeing a bear
+may also be appraised as relevant to his identity goals.
+In this case, the event would also generate self-conscious emotions. He may valiantly attempt to fight the
+bear, which could generate pride if he scares the bear
+away. Alternatively, he may run and scream in terror,
+which could generate shame or guilt because he has
+failed to live up to his “boyfriend as protector” identity, particularly if he leaves his girlfriend behind to become bear food. As a result, at times, survival and
+identity goals may come into conflict and promote
+111
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TRACY & ROBINS
+
+seemingly maladaptive human behavior if identity
+goals prevail. For example, the camper’s attempt to
+fight the bear is consistent with his identity goals but
+not with his survival goals. Similarly, a battered wife
+may choose to remain in a maladaptive abusive relationship, in part because it meets her identity goals
+about marriage and motherhood.
+According to our model, events appraised as relevant to identity goals will generate self-conscious
+emotions, assuming subsequent appraisals (described
+later) occur. (Importantly, events appraised as relevant
+to identity goals can also generate basic emotions, as
+we discuss later.) As shown in Figure 1, events appraised as irrelevant to identity goals will not generate
+self-conscious emotions.7
+There is little research specifically examining how
+appraisals of identity-goal relevance influence the
+self-conscious emotion process. By distinguishing between survival and identity goals, our model thus provides an important direction for future studies. Another
+novel aspect of our model is that it articulates the full
+range of self-representations that may be involved in
+the appraisal of identity-goal relevance. An event may
+be appraised as identity-goal relevant because it activates an actual, ideal, or ought self (Higgins, 1987); a
+past, present, or future self (Markus & Nurius, 1986);
+and a private or public aspect of the self (Buss, 1980).
+These various representations are likely to influence
+the self-conscious emotion process in complex ways
+that are beyond the scope of this article but that could
+be fruitfully explored in future research. For example,
+it seems possible that guilt more frequently stems from
+activation of a past self-representation (“Why didn’t I
+study enough last quarter?”) whereas pride is often
+linked to a future self-representation (“I would like to
+become an ‘A’ student”).
+
+Identity-Goal Congruence: Is This
+Event Congruent With My Goals For
+Who I Am and Who I Want to Be?
+Prediction 4: Positive self-conscious emotions
+(e.g., pride) are elicited by appraisals of identity-goal
+congruence, and negative self-conscious emotions
+(e.g., shame, guilt, embarrassment) are elicited by appraisals of identity-goal incongruence.
+When an event has been appraised as relevant to
+identity goals, the next step in our model is for it to be
+appraised as congruent or incongruent with these goals
+(see Figure 1). This appraisal determines the valence of
+
+the outcome emotion; positive or pleasurable emotions
+are elicited by goal-congruent events, and negative or
+displeasureable emotions are elicited by goal-incongruent events (Lazarus, 1991).8
+How do individuals decide whether an event is congruent or incongruent with identity goals? As noted
+previously, appraisals of identity relevance activate
+current self-representations, which may be linked to
+multiple aspects of an individual’s stable identity (i.e.,
+actual, ideal, ought self; past, present, or future self;
+private or public self). For example, the event of failing
+an exam might activate the current self-representation
+“failing student.” To determine goal congruence, this
+current self-representation is compared with the individual’s stable, long-term self-representations, including actual self-representations (“I am a successful
+student”), ideal self-representations (“I want to be a
+successful student”), and so on (e.g., Higgins, 1987).
+In this case, the student may notice a discrepancy between the current self-representation (failing student)
+and actual and ideal self-representations, and would
+thus appraise the event as identity-goal incongruent.
+As shown in Figure 1, this appraisal will eventually
+elicit a negative self-conscious emotion such as shame
+or guilt. Conversely, performing well on an exam
+would activate the current self-representation “succeeding student,” which would be congruent with the
+student’s actual and ideal self-representations and
+would thus generate a positive self-conscious emotion
+such as pride.
+As can be seen from this example, appraisals of
+identity-goal congruence may be highly complex because events can be congruent or incongruent with a
+wide range of often-conflicting self-representations.
+For example, performing well on an exam could be
+congruent with a private actual self-representation, “I
+am a successful student” but incongruent with a public
+actual self-representation “I am a fun-loving bohemian
+who doesn’t care about school.” Similarly, this event
+could be congruent with a relational ought self-representation, “My parents want me to be a successful student,” but incongruent with a social ought
+self-representation, “My friends think I should be a
+fun-loving bohemian who doesn’t care about school.”
+Although our model incorporates various self-representations into its conceptualization of identity-goal
+relevance and congruence, it does not predict whether
+the self-conscious emotion process works differently
+when different types of self-representations are activated. Although it seems likely that any form of con8
+
+7
+
+It is quite possible for an event to be appraised as relevant to survival and identity goals, in which case the person might experience a
+combination of basic and self-conscious emotions. For example, the
+bear-encountering camper will likely experience fear and pride,
+should he choose to fight the bear.
+
+112
+
+Although not shown in Figure 1, the appraisal of goal-congruence would lead to two separate paths, depending on congruency or
+incongruency. The subsequent series of appraisals are identical, however the outcome emotions are either positive or negative. To simplify the figure, we combine the two paths and show the specific positive and negative emotions at the end of the model.
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TARGET ARTICLE
+
+gruence will produce a positive emotional experience
+and any form of incongruence a negative one, the particular self-representations activated may influence the
+subsequent processes specified by the model and ultimately elicit different emotions. In fact, Higgins
+(1987) theorized that discrepancies between different
+types of self-representations (actual self vs. ought self
+vs. ideal self) generate different forms of negative affect (dejection vs. agitation emotions). However, Higgins did not specify which processes distinguish
+between a dejection-related self-conscious emotion
+such as shame and a dejection-related non-self-conscious emotion such as sadness. Furthermore, Higgins
+argued that a discrepancy between one’s actual and
+ideal self produces shame but not guilt, whereas a discrepancy between one’s actual and ought self produces
+the opposite pattern. Contrary to this prediction,
+Tangney, Niedenthal, Covert, and Barlow (1998)
+found that actual-ought and actual-ideal discrepancies
+were related to shame proneness, however neither
+form of discrepancy was related to guilt proneness.
+Thus, the distinction between these different forms of
+self-discrepancies may be less important than are other
+subsequent appraisals, elaborated later, in determining
+whether a self-conscious or non-self-conscious emotion will occur, and, if self-conscious, which particular
+emotion will occur.
+Our emphasis on the role of discrepancies between
+current self-representations and more stable self-representations is based on earlier conceptualizations of self
+and emotions. Cooley (1902) and James (1890), for example, discussed the affective consequences of comparisons between actual and ideal self-states. Carver
+and Scheier (1998) proposed that positive and negative
+affect are the output of a cybernetic self-regulation
+process. According to their model, awareness of a discrepancy between a current self-state and some
+evaluative standard (e.g., an ideal self-representation)
+generates negative affect, whereas reduction of such a
+discrepancy generates positive affect. Our model
+builds on this view by specifying the distinct types of
+negative and positive emotions that are generated by
+these discrepancies.
+Internality Attributions: Did the Event
+Occur Because of Something About
+Me?
+Prediction 5: Self-conscious emotions require attributions to internal causes, whereas basic emotions
+do not.
+When an event has been appraised as either congruent or incongruent with identity goals, the next step is
+to determine the cause of the event (see Figure 1). This
+decision involves a set of appraisals, the most important of which concerns the causal locus of the eliciting
+event: Is the event due to an internal (within the indi-
+
+vidual) or external (outside the individual) cause?9
+This question can be phrased as “Am I responsible for
+the event?” or, because it need not imply intentionality,
+“Did it occur because of something about me?” This
+distinction is particularly important in the case of embarrassment, where internal appraisals are often made
+about events for which the individual had no responsibility or intentionality (e.g., being the recipient of
+spilled soup). Appraisals of causal locus may occur
+spontaneously for events ranging from failure on an
+important exam to receiving an angry glare from a
+stranger in the street. In appraisal theories of emotion,
+this judgment is referred to as credit or blame to oneself (Lazarus, 1991), accountability (Smith & Lazarus,
+1993), agency (Ellsworth & Smith, 1988; Roseman,
+1991), responsibility (Frijda, 1987), or “causal attribution check” (Scherer, 2001).
+The appraisal of causal locus has been studied extensively by attribution researchers, and a large body
+of empirical and theoretical work has demonstrated the
+importance of internality attributions in determining
+behavioral, cognitive, and emotional reactions to
+achievement and interpersonal situations (e.g., Heider,
+1958; Peterson, 1991; Weiner, 1985). In particular,
+self-attributions are critically involved in self-esteem
+regulation: To maintain self-esteem, individuals take
+credit for success and externalize blame for failure
+(Greenwald, 1980; Harvey & Weary, 1984). Thus,
+self-attributions influence and are influenced by
+self-evaluative processes and consequently play a central role in the generation of self-conscious emotions.
+As shown in Figure 1, self-conscious emotions occur when individuals attribute the eliciting event to internal causes (Lewis, 2000; Tangney & Dearing, 2002;
+Weiner, 1985).10 Supporting this claim, studies have
+shown that internal attributions for failure tend to produce guilt and shame, and internal attributions for success tend to produce pride (Weiner, 1985; Weiner,
+Graham, & Chandler, 1982). Research by emotion theorists on the appraisal dimensions of agency and
+self-accountability also supports this distinction: Both
+appraisals are associated with the experience of
+self-conscious emotions (Ellsworth & Smith, 1988;
+Roseman, 1991; Smith & Lazarus, 1993).
+9
+
+People can attribute an event to both internal and external causes
+(Robins, Spranca, & Mendelsohn, 1996). In this case, our model
+would predict that the person would experience basic and self-conscious emotions (e.g., anger and shame).
+10
+Of note, the self-focused attentional state that sets in motion the
+self-conscious emotion process tends to promote appraisals about
+causal locus (because self-focused attention leads to questioning
+about why a self-impacting event happened) and also encourages
+making internal attributions. Studies have shown increased self-focused attention leads to increased self-blame for events (Cohen,
+Dowling, Bishop, & Maney, 1985; Duval & Wicklund, 1973;
+Fenigstein & Levine, 1984). This illustrates one way in which the
+various appraisal processes are intricately entwined.
+
+113
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TRACY & ROBINS
+
+In contrast, attributing events to external causes
+leads to basic emotions instead. Thus, our model predicts, and studies have shown (Russell & McAuley,
+1986), that basic emotions such as anger can be elicited
+by identity-goal relevant events (e.g., exam failure) if
+they are blamed on external rather than internal causes.
+In fact, in contemporary society, this causal pathway
+may be the most typical route for the elicitation of basic emotions, given how rarely threats to survival occur. People are more likely to become angry or fearful
+because they have made an external attribution for a
+threat to their identity, such as an insult from a
+coworker or friend, than from a direct threat to their
+survival. Supporting this argument, Markus and
+Kitayama (1991) asserted that most emotions are elicited by self-oriented concerns. Nonetheless, basic
+emotions can be elicited by appraisals about survival
+and reproductive goals alone, and it is likely that they
+evolved primarily to help individuals in achieving
+these goals.
+In summary, our model extends previous research on the relation between internality attributions and self-conscious emotions by suggesting
+that these attributions (a) mediate the relation between self-representations or identity goals and
+outcome emotions and (b) determine which class of
+emotions (basic vs. self-conscious) results from appraisals of identity-goal relevance.
+
+Stability and Globality Attributions: Is
+it Something I Always Do? Is it
+Something About Who I Am?
+Two other causal attributions, beyond causal locus,
+may be important for the elicitation of self-conscious
+emotions and, more specifically, for differentiating
+among self-conscious emotions (see Figure 1). These
+two attributions concern the stability, or permanence,
+of causes, and the globality, or generality, of causes.
+Central to the attribution process, these two causal factors have been empirically linked to various emotional
+states (e.g., Brown & Weiner, 1984; Covington &
+Omelich, 1981; Niedenthal, Tangney, & Gavanski,
+1994; Tangney et al., 1992; Weiner et al., 1982;
+Weiner & Kukla, 1970).
+When an internal attribution has been made, appraisals about stability become questions about
+whether the event was caused by something stable and
+unchanging about the person, such as ability, or by
+something unstable, such as effort in a particular situation. For example, a student who makes an internal attribution for failing a math exam might blame her lack
+of intelligence (a stable cause), or she might blame her
+lack of studying for this particular exam (an unstable
+cause).
+114
+
+Appraisals about the globality of internal causes become questions of whether the event was caused by
+something about the individual as a whole or by something specific about the person. To use the same example, the exam-failing student might blame her failure
+on being globally unintelligent, or on her lack of specific skills in mathematics. Although these two attribution dimensions are theoretically independent, in
+everyday causal attributions the two are frequently
+conflated and highly correlated; that is, stable causes
+are more likely to be global, and unstable causes are
+more likely to be specific (Peterson, 1991).
+According to the model, globality and stability attributions influence which particular self-conscious emotion is elicited. As shown in Figure 1, shame and hubris
+(a globalized form of pride discussed in greater detail
+later) are caused by global, stable attributions; guilt
+and a more achievement-oriented pride are caused by
+specific, unstable attributions. In the next section, we
+discuss in detail the precise appraisal process that produce each of the main self-conscious emotions (shame,
+guilt, pride, and embarrassment) and present specific
+predictions concerning globability and stability.11
+
+Cognitive Antecedents That
+Distinguish Among Self-Conscious
+Emotions
+Prediction 6: Shame requires attributions to stable,
+global aspects of the self.
+Prediction 7: Guilt requires attributions to unstable, specific aspects of the self.
+Prediction 8: Embarrassment requires appraisals
+of identity-goal relevance and incongruence regarding
+a public identity, and attributions to internal causes.
+Prediction 9: Hubristic pride requires attributions
+to stable, global aspects of the self.
+Prediction 10: Achievement-oriented pride requires attributions to unstable, specific aspects of the
+self.
+
+11
+
+Another possible self-conscious emotion is humiliation. There is
+little previous empirical research on humiliation, outside of the clinical literature. In fact, in Tangney and Fischer’s (1995) volume on
+self-conscious emotions, the index includes only two mentions of humiliation. In both of these mentions, humiliation is referred to as a
+variant of shame. Others have emphasized that humiliation cannot
+occur in absence of a humiliating other; that, unlike shame, it is dependent on a dyadic relationship (e.g., Gilbert, 1997; Miller, 1988).
+We believe that humiliation occurs when attentional focus is directed
+specifically toward the “public” self (as in the case of embarrassment) and is blamed on internal, stable, global causes (as in the case
+of shame). In general, further research is needed before any clear conclusions can be made regarding humiliation, and we hope that the
+model proposed here can help generate testable hypotheses about the
+causal antecedents of this emotion.
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TARGET ARTICLE
+
+Shame and guilt. According to our model, shame
+and guilt are elicited by a common set of cognitive processes. For both emotions, an individual must focus attention on some aspect of the self, activating public and/or
+private self-representations; appraise the event as relevant
+to and incongruent with identity goals; and attribute the
+cause of the event to some internal factor, blaming the self
+for the situation. Thus, as a number of emotion theorists
+have argued (e.g., Lazarus, 1991; Tomkins, 1963), shame
+and guilt have similar elicitors. What distinguishes the
+causal antecedents of the two emotions, however, are stability and globality attributions: Shame involves negative
+feelings about the stable, global self, whereas guilt involves negative feelings about a specific behavior or action taken by the self (Lewis, 1971; Lewis, 2000; Tangney
+& Dearing, 2002). Following this theoretical conception,
+our model specifies that internal, stable, global attributions (“I’m a dumb person”) lead to shame, whereas internal, unstable, specific attributions (“I didn’t try hard
+enough”) lead to guilt. To take a typical example from the
+interpersonal domain, an individual who cheats on his relationship partner will likely feel guilt if he blames his
+cheating on a one-time, specific behavior but will feel
+shame if he blames it on his stable inability to be a generally good boyfriend.
+Several lines of research support this distinction between shame and guilt. In particular, research on achievement attributions has shown that individuals who blame
+poor performances on ability (an internal, stable factor)
+are more likely to feel shame, whereas individuals who
+blame poor performance on effort (an internal, unstable
+factor) are more likely to feel guilt (Brown & Weiner,
+1984; Covington & Omelich, 1981; Jagacinski &
+Nicholls, 1984; Tracy & Robins, 2002). Examining attributions and emotions in a more general sense (beyond
+achievement events only), Tangney et al. (1992) found
+that shame-prone individuals tend to make internal,
+global attributions for negative events, although they
+failed to find the corresponding positive correlation between internal, specific attributions and guilt.
+Using an innovative approach, Niedenthal et al.
+(1994) found that participants who were instructed to
+make counterfactual statements about changing a stable, global aspect of their self-concept (e.g., “If only I
+were a better friend”) reported greater shame and less
+guilt in response to a hypothetical scenario than did
+those told to make counterfactuals changing their specific behavior (e.g., “If only I had not flirted with his
+date”). In a separate line of research, studies on behavioral outcomes of emotions have shown that shame often leads to escapist or hiding behaviors, suggesting
+irremediable impact to the stable, global self (see
+Tangney, Burggraf, & Wagner, 1995). In contrast,
+guilt has been associated with reparative behaviors,
+suggesting impact to aspects of the self that can be
+changed (Barrett, 1995; Doosje, Branscombe, Spears,
+& Manstead, 1998).
+
+Embarrassment. Similar to shame and guilt,
+embarrassment requires an appraisal of identity-goal
+relevance and identity-goal incongruence, and attributions to internal causes. However, unlike shame and
+guilt, embarrassment does not seem to require any further attributions, and as conceptualized in our model,
+embarrassment can occur only when attentional focus
+is directed toward the public self, activating corresponding public self-representations. That is, an individual can become embarrassed by events blamed on
+internal, stable, and global aspects of the public self,
+such as repeatedly being publicly exposed as incompetent; or by events blamed on internal, unstable, and specific aspects of the public self, such as spilling soup on
+one’s boss.
+This account implies that embarrassment is less
+cognition dependent than shame or guilt, both of which
+seem to depend on additional appraisal dimensions.
+Supporting this claim, embarrassment emerges earlier
+in childhood than shame or guilt (Lewis et al., 1989).
+This finding led Lewis et al. (1989) to place embarrassment within a first class of self-conscious emotions,
+and guilt and shame within a second class of self-conscious emotions that “require more cognitive capacity”
+(p. 148). Similarly, Izard et al. (1999) included shame,
+guilt, and pride but not embarrassment within the category of cognition-dependent self-conscious emotions.
+According to our model, if the two additional, more
+complex appraisals (stability and globality) are made
+in cases when public self-representations are activated,
+then shame or guilt will co-occur with embarrassment.
+Thus, the key distinctive features of embarrassment
+are its relative cognitive simplicity and the fact that
+attentional focus must be specifically directed toward
+the public self (Edelmann, 1987; Keltner & Buswell,
+1997; Miller, 1995). To feel embarrassed an individual
+must become aware of a discrepancy between public
+aspects of the self, such as one’s appearance, and others’ evaluations (Edelmann, 1985; Miller, 1995). The
+relevant identity goals concern one’s externally presented identity. Consistent with this theoretical conception, individual differences in the tendency to
+become embarrassed correlates with public self-consciousness (Edelmann, 1985); in addition, in one
+study, participants only reported feeling embarrassed
+in the presence of real or imagined others (Tangney et
+al., 1996). It is noteworthy that traditional accounts
+used this public-private distinction to differentiate between shame and guilt, viewing shame as a public
+emotion and guilt as a private one (e.g., Buss, 1980;
+Darwin, 1872). However, researchers have asked participants to report the actual antecedents of their shame
+and guilt experiences and discovered that both shame
+and guilt can occur in response to public or private
+elicitors (Tangney et al., 1996), although shame is
+more commonly elicited in public contexts (Smith,
+Webster, Parrott, & Eyre, 2002). Thus, we believe that
+115
+
+TRACY & ROBINS
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+shame and guilt can result from the activation of a public or private self-representation, whereas embarrassment is linked exclusively to the public self.12
+Existing theories of embarrassment provide somewhat conflicting accounts of its precise cognitive antecedents (Edelmann, 1985; Keltner & Buswell, 1997;
+Miller, 1995; Parrott & Smith, 1991; Sabini, Garvey,
+& Hall, 2001; Tangney et al., 1996). Given the limited
+consensus, our model restricts its claims to the few areas where there is agreement: Embarrassment requires
+attentional focus on the public self, appraisals of identity-goal relevance and incongruence, and internal attributions. Our more controversial claim, that
+embarrassment is less cognitively elaborated than guilt
+or shame, requires further empirical support.
+Two forms of pride: Achievement-oriented and
+hubristic. According to our model, people feel pride
+when their attention is focused on themselves, activating
+public and/or private self-representations; when they appraise events as relevant to and congruent with identity
+goals; and when they attribute the cause of events to
+some internal factor, taking credit for the situation.13 Paralleling shame and guilt, stability and globality attributions differentiate between two forms of pride. Global
+12
+
+Lewis (2000) distinguished between embarrassment as conceptualized here and a form of embarrassment he labeled “embarrassment as
+exposure,” which occurs in response to praise or any public attention.
+Lewis noted that this latter form of embarrassment does not require any
+negative evaluation of self, and unlike the former, it is not associated
+with increases in cortisol levels (Lewis & Ramsay, 2002). We believe
+that embarrassment as exposure may be better conceptualized as a generalized form of self-consciousness than as a form of embarrassment.
+Consistent with this view, Miller (1995) argued that “awareness of
+one’s social self alone does not cause [embarrassment] to occur. Instead, mature embarrassment seems to result from the acute realization
+that one’s social self is imperiled and that others maybe judging one
+negatively” (p. 326). Thus, we distinguish generalized self-consciousness from embarrassment, the latter of which seems to be an evolved
+mechanism for appeasement following a social transgression and requires a comparatively complex self-evaluative process.
+13
+One seemingly contradictory example is the experience of vicarious pride. Consider the case of a person who feels pride while watching someone else win an athletic event. This could generate pride,
+first, because the individual experiencing pride directly takes credit
+for the outcome (e.g., as might the athlete’s coach). Second, the individual could experience pride because he or she includes the other
+within his or her self-representations. For example, if the athlete represents the individual’s country in the Olympics, then the individual
+might experience national pride because the event is congruent with
+his or her ideal collective self-representations (e.g., “My nation is
+good at sports”). Similarly, if the individual is the athlete’s parent, he
+or she might experience pride because the event is congruent with his
+or her ideal relational self-representations (e.g., “I’m a good father”).
+Finally, the event could elicit pride because the individual has an empathic response toward the athlete (e.g., “That could have been me”),
+which could occur even when the individual has no prior psychological connection to the athlete. These processes are likely to occur for
+other self-conscious emotions such as embarrassment (e.g., the individual could feel embarrassed watching the athlete trip on the way to
+picking up her medal).
+
+116
+
+pride in the self (“I’m proud of who I am”), which Lewis
+(2000) referred to as hubris and Tangney et al. (1992) referred to as “alpha pride,” may result from attributions to
+internal, stable causes. Conversely, a feeling of pride
+based on specific achievements (“I’m proud of what I
+did”) may result from attributions to internal, unstable
+causes (Lewis, 2000; Tangney et al., 1992).
+The conceptual distinction between these two forms
+of pride is supported by evidence that the same emotion (pride) can lead to highly divergent outcomes. On
+one hand, narcissistic hubris may contribute to aggression and hostility, interpersonal problems, relationship
+conflict, and a host of self-destructive behaviors
+(Bushman & Baumeister, 1998; Campbell, 1999;
+Kernberg, 1975; Kohut, 1977; Morf & Rhodewalt,
+2001; Wink, 1991). On the other hand, pride in one’s
+achievements may promote positive behaviors in the
+achievement domain (Weiner, 1985) and contribute to
+prosocial investments and the development of a genuine and deep-rooted sense of self-esteem (Herrald &
+Tomaka, 2002; Lazarus, 1991).
+We have conducted several studies that provide empirical support for the distinction between achievement-oriented and hubristic pride. In one study, we
+found that the two variants of pride have distinct
+elicitors; attributing a hypothetical success to ability (a
+global, stable cause) leads to greater feelings of superiority (i.e., hubristic pride) than does attributing the
+same success to effort (a specific, unstable cause)
+(Tracy & Robins, 2002). In another study, we analyzed
+the semantic similarity among words that participants
+used to label photos of individuals displaying the pride
+expression. We found two distinct clusters, one reflecting achievement-oriented pride (including words such
+as triumphant and achieving) and the other reflecting
+hubristic words (e.g., haughty, egotistic, arrogant). In
+a third study, participants wrote about actual pride experiences and rated the extent to which each of a set of
+pride-related words described their feelings. A factor
+analysis of their ratings revealed two independent factors: one included achievement-oriented pride words
+such as confident, triumphant, and achieving, and the
+other included hubristic words such as arrogant, superior, and cocky (Tracy & Robins, 2003b). Thus, there
+is preliminary evidence for two forms of pride that are
+semantically and experientially distinct.
+In summary, our model integrates previous research
+and theory to formulate a separate causal pathway
+leading to each self-conscious emotion and explains
+how these pathways fit within the broader set of cognitive processes necessary for the elicitation of the family of self-conscious emotions. In addition, our model
+extends previous conceptions of shame and guilt to the
+domain of positive self-conscious emotions by specifying separate causal pathways to two parallel forms of
+pride (achievement oriented and hubristic). Finally,
+the proposed model integrates theory and research on
+
+TARGET ARTICLE
+
+self-representations, self-focused attention, and
+self-discrepancies with theory and research on appraisal models of emotion and the causal attribution
+process. As a result, our model generates testable predictions about the cognitive antecedents of self-conscious emotions. In the next section, we demonstrate
+how our model can be used to better understand a particular personality process, namely, narcissistic
+self-esteem regulation.
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+An Application of the Model: The Case
+of Narcissism
+Prediction 11: Narcissistic individuals will engage
+in appraisal processes that promote feelings of
+hubristic pride and minimize shame. These processes
+include a tendency to chronically focus attention on the
+self; appraise positive events as identity-goal relevant
+and congruent and negative events as identity-goal irrelevant and incongruent; and make internal, stable,
+global attributions for success and external attributions
+for failure.
+Self-conscious emotions such as shame and
+hubristic pride are assumed to fuel narcissistic self-esteem regulation (Robins, Tracy, & Shaver, 2001;
+Wright, O’Leary, & Balkin, 1989). Thus, our model of
+these emotions should provide a unique, process-oriented perspective on the self-regulatory system governing narcissistic personality processes. Our model’s
+utility can be demonstrated by using it to gain insight
+into an important personality dimension, narcissism
+which has received considerable attention from self researchers (e.g., Morf & Rhodewalt, 2001).
+Individuals with narcissistic tendencies report high
+self-esteem but are thought to hold implicit negative
+self-representations (e.g., Broucek, 1991; Kernberg,
+1975; Morrison, 1989; Tracy & Robins, 2003a; Watson, Hickman, & Morris, 1996). In addition, these individuals are highly motivated to self-enhance and
+self-aggrandize (John & Robins, 1994; Morf &
+Rhodewalt, 2001), presumably because maintaining
+biased self-representations allows them to prevent
+their implicit low self-esteem from becoming explicit.
+The coexistence of explicit positive and implicit negative self-representations, combined with a strong
+self-enhancement motive, has important implications
+for the self-conscious emotion process.
+Narcissists, like to all individuals, regulate self-esteem by striving to increase pride and avoid shame.
+Our model points to the reappraisals that likely facilitate this regulatory process. For example, to avoid
+shame, individuals may appraise negative events as
+identity-goal incongruent, externally caused, or internally caused but due to an unstable, specific aspect of
+the self. Conversely, to increase pride individuals may
+appraise positive events as identity-goal relevant and
+
+internally caused. In fact, these regulation processes
+may be the same cognitive mechanisms through which
+self-enhancement processes take effect. The experience of both forms of pride enhances self-esteem, the
+experience of shame diminishes self-esteem (Tangney
+& Dearing, 2002), and one accepted definition of
+self-esteem is “the balance between pride and shame
+states in a person’s life, taking into account both duration and intensity” (Scheff, 1988, p. 399). Thus, our
+model describes the mechanisms behind self-esteem
+regulation. For narcissistic individuals, this regulatory
+process functions in an extreme, even pathological,
+manner. Regardless of the actual eliciting event and
+circumstances, a narcissist will rigidly follow the regulatory pathways in the model that lead to hubristic
+pride and away from shame.
+From this perspective, narcissism should have a
+powerful effect on each of the pathways in the model.
+First, narcissism may promote excessive attentional
+focus on the self. In fact, narcissists score higher on
+projective measures of chronic self-focus (Emmons,
+1987) and use more first-person singular pronouns (I,
+me) in their speech (Raskin & Shaw, 1988). Chronic
+self-focused attention will increase the narcissist’s vulnerability to all self-conscious emotions, making regulation (of shame and guilt) all the more important.
+Second, narcissism may influence appraisals of
+identity-goal relevance. Those who actively seek
+self-enhancement opportunities may be prone to finding identity-relevant meaning in many positive events
+and, consequently, experience frequent pride. For example, the narcissistic premed student might feel positive self-conscious emotions not only from a high score
+on an exam but also from speaking in her class, talking to
+a professor after class, proving herself smarter than a fellow classmate, and countless other events that can easily
+be appraised as identity-goal relevant and congruent to a
+self-enhancer. Narcissism may also influence the tendency to regulate self-conscious emotions through reappraisals. Narcissists may reappraise negative events
+as irrelevant to identity goals by, for example, shifting
+the importance of various identity goals (e.g., “It’s ok
+that I failed my exam because I don’t want to be a doctor
+anyway—I’d rather look cool to my friends”).
+Third, narcissistic self-enhancement biases may
+promote external attributions for failure. The narcissistic premed student is more likely to blame her professor than herself for failing an exam, and studies
+suggest she may become angry and possibly even aggressive as a result (Bushman & Baumeister, 1998).
+The “shame-rage spiral” observed in clinical research
+has been noted to be particularly characteristic of narcissists (Lewis, 1971; Scheff, 1998). At an implicit
+level, narcissists may be very similar to other individuals with low self-esteem, who tend to globalize failure (Brown & Dutton, 1995), which, in our model,
+means experiencing shame. Thus, for a narcissist, in117
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TRACY & ROBINS
+
+ternalization of failure would be internalization of
+global failure, leading to shame without any possibility of guilt. The only regulatory solution for these individuals is to externalize blame, and experience
+anger and rage instead.14
+Conversely, narcissists may be vigilant of opportunities to internalize positive events, taking credit for
+successes whenever possible. Furthermore, their globalizing tendencies may encourage not only internal attributions but stable and global ones as well. For
+example, after receiving a high score on her math
+exam, the narcissist may think, “I’m smart and talented
+at everything I do,” whereas a non-narcissistic person
+may also make an internal attribution but think, “I’m
+pretty good at math,” or even “I’m learning the material in this math class very well.” Interestingly, narcissists may make self-serving attributions even when
+positive events are not actually internally
+caused—narcissists tend to take credit for events that
+may be caused by others (Farwell & Wohlwend-Lloyd,
+1998). Part of the reason for these excessively global
+and stable internal attributions may be that positive
+self-representations are too essential to the narcissist to
+be left to the whim of actual accomplishments. Indeed,
+without these representations, narcissists would be
+overwhelmed by shame and low self-esteem
+(Kernberg, 1975). Thus, narcissists may regulate both
+to avoid shame and to experience conscious feelings of
+hubristic pride. If this is the case, we can surmise that
+whereas achievement-oriented pride may enhance authentic self-esteem, hubristic pride may enhance narcissistic, inflated self-esteem.
+In summary, the proposed model helps us conceptualize personality tendencies in terms of processes,
+rather than by simply linking an individual-difference
+construct to an outcome. For example, we have preliminary data showing that narcissistic individuals tend to
+be prone to experiencing both forms of pride (Tracy &
+Robins, 2004a), however few theories have outlined
+the mechanisms that produce this emotional disposition. Our model suggests several possible,
+nonmutually exclusive paths: Narcissism might promote chronic self-focused attention; it might promote
+evaluations of identity-goal relevance and congruence
+for positive events; or it might generate internal attributions for positive events. Any one, or all, of these
+mediating mechanisms could account for the empirical
+link. In this way, the model moves beyond predicting
+simple correlations by also presenting a host of mediat14
+
+The idea that implicit shame is the cause of narcissistic rage is
+supported by studies of “Type A” coronary heart disease survivors.
+These patients have been found to “harbor insecurities and in most
+cases insufficient self-esteem … not immediately apparent to the
+therapists or the participants themselves” (Friedman & Ulmer, 1984,
+p. 167). Other research supports the idea that these hostile patients are
+narcissistic: They tend to frequently use the words, I, me, and my in
+conversations (Williams, 1988).
+
+118
+
+ing processes that might explain why some individuals
+are prone to experience particular emotions. Similarly,
+when a personality tendency does not show theoretically predicted links to emotion—for example, individuals who score high on measures of narcissism tend
+not to report experiencing shame despite clinical theories that shame underlies the disorder—the model
+points to several possible explanations. Narcissists
+may not focus attention on the self when negative
+events occur; they might deny that an event is incongruent with or even relevant to identity goals; or they
+might make external attributions for negative events
+and feel anger instead of shame.
+
+Implications for Research on Self and
+Emotion
+In this article, we presented a comprehensive theoretical model of self-conscious emotions. This model
+describes the cognitive processes that generate on-line,
+momentary emotions and provides a framework for
+conceptualizing how narcissism—a broad individual-difference variable—influences several aspects of
+the self-conscious emotion process. We conclude by
+discussing several implications of this model for research on the role of affect in self-processes.
+Traditionally, research on the self and research on
+emotion have been disconnected, stemming, perhaps,
+from their divergent theoretical roots. Self researchers
+began including affect in their models only within the
+past few decades and even now rarely move beyond
+noting that self-processes may be affect driven. These
+researchers tend not to identify the specific emotions
+that drive particular self-processes. Meanwhile, emotion researchers have focused on the biological underpinnings of basic emotions, causing them to downplay
+complex psychological processes and to devote less attention to emotions that require an understanding of
+the self—self-conscious emotions. As a whole, this divide has hurt research on the self, research on emotions, and most notably, research on topics that exist at
+the interface between the two areas (e.g., self-esteem
+regulation). The theoretical model proposed here attempts to integrate these two areas of research, and to
+provide a potentially fruitful synthesis that suggests
+several major directions for future research.
+Our model generates testable hypotheses about the
+on-line process of self-conscious emotion activation
+and thus has important implications for future and extant research. Our model also can facilitate reinterpretation of previous research findings.
+To better understand the functions and outcomes of
+the emotions that mediate self-processes, researchers
+must specify the exact emotions involved in these processes. For example, if self-enhancement increases
+positive affect, is this because it causes people to feel
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TARGET ARTICLE
+
+joy, achievement-oriented pride, hubristic pride, or
+some other positive emotion? From a discrete emotions perspective, these emotions will produce divergent behaviors, thoughts, and feelings, so
+differentiating among them is meaningful and necessary. Using our model, self-enhancement researchers
+could trace the process to a particular outcome emotion
+and then empirically test whether that emotion is more
+likely to be experienced than others. For example, do
+people self-enhance to feel pride or a generalized positive affective state? To test this question empirically,
+researchers need to move beyond assessing only broad
+affective dimensions.
+If researchers do begin to identify and assess specific emotions rather than rely on global categories
+such as negative affect, the precision and predictive
+power of our models may be increased. If we can focus
+on the particular emotion that accounts for the relation
+between two variables, the resultant correlation will be
+stronger than one found using a composite of different
+emotions, some relevant and some irrelevant. For example, if anger is the specific emotion that accounts for
+the relation between a manipulated ego threat and outcome aggression, anger feelings may be a significant
+mediator of this relation whereas negative affect averaged across a set of emotions may not be. In a recent
+study on this effect, Twenge, Baumeister, Tice, and
+Stucke (2001) linked ego threats to aggression but
+failed to find a mediation effect of generalized negative affect. Our model specifies a more precise prediction: Shame externalized into anger will significantly
+mediate the threat-aggression relation.
+Indeed, our model has other implications for the
+large body of experimental research on reactions to
+feedback. Numerous studies have shown that, following an ego threat, low self-esteem individuals tend to
+experience negative affect and withdraw from the task
+(Baumeister, Tice, & Hutton, 1989; Brown & Dutton,
+1995). From a functionalist perspective, this withdrawal can be interpreted as a behavioral outcome of
+shame (Lewis, 1971; Lindsay-Hartz, 1984). Thus, the
+negative affect reported by individuals with low
+self-esteem may more specifically reflect feelings of
+shame, and the outcome behaviors may be part of a coordinated functional response. If failure represents a
+stable, global, shortcoming of the self, the adaptive solution is to withdraw and avoid repeated attempts at
+success or social contact, which might further reveal
+the self’s inadequacies. Supporting this account,
+Brown and Marshall (2001) found that most of the
+shared variance between self-esteem and affect is accounted for by self-conscious emotions, specifically
+shame and pride.
+Individuals with defensive or contingent self-esteem, however, react very differently to negative feedback. As previously mentioned, rather than quietly
+disengage, these individuals become angry, hostile,
+
+and even aggressive following failure (Bushman &
+Baumeister, 1998; Kernis, Cornell, Sun, Berry, &
+Harlow, 1993). Although researchers rarely question
+the mechanism behind this outcome, it certainly warrants attention. Individuals with contingent self-esteem are those who base feelings of self-worth entirely
+on feedback from others, so negative feedback should
+reduce self-esteem and promote shame, not anger. The
+fact that anger occurs instead implies a regulatory process, demanding further explanation. Earlier, we argued that instead of blaming themselves for failure and
+consciously experiencing shame, narcissists (who tend
+to have contingent self-esteem) blame others and feel
+the anger and hostility that follow from an external attribution. This regulatory process may be the explanation for the angry and aggressive response seen in these
+studies. Thus, by specifying separate causal pathways
+for different emotions, our model explains why stable
+individual differences (e.g., low self-esteem vs. narcissistic self-esteem) promote different reactions to the
+same negative feedback, and how distinct emotions
+mediate these processes.
+To take another prominent example from the self
+literature, our model has important implications for
+dominant accounts of the role of affect in self-regulatory processes. As we explained earlier, Carver and
+Scheier (1998) have argued that a discrepancy between
+a current self-state and a goal state results in negative
+affect. We have built on their model to argue that discrepancies between current and ideal states generate
+specifically shame or guilt; in other words, distinct
+negative self-conscious emotions. This more precise
+prediction is possible because, in our model, the locus
+attribution is critical: Internal attributions are the appraisals that determine whether basic or self-conscious
+emotions occur. Even in Carver’s (2001) most recent
+model, there is no distinction made between internal
+and external attributions. As a result, movement toward a self-regulatory goal (i.e., reduction of a discrepancy) is assumed to produce a set of high-activation
+positive emotions, including elation, excitement, and
+joy, regardless of whether the discrepancy reduction is
+attributed to internal or external causes. In contrast, our
+model specifies that internal attributions for achievement generate achievement-oriented or hubristic pride
+(depending on the globality and stability of the internal
+attribution), but external attributions for the same outcome produce joy instead. Thus, our model generates
+predictions with a high degree of fidelity when individuals self-regulate to achieve identity-relevant goals.
+As with our reinterpretation of the findings of feedback manipulation studies, this reinterpretation may
+improve our understanding of the behavioral outcomes
+of self-regulation. Carver and Scheier (1998) argued
+that discrepancies motivate behaviors that produce
+faster progress toward a goal state (i.e., increased effort
+to achieve goals). When we view the negative affect
+119
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TRACY & ROBINS
+
+that is generated by these discrepancies as guilt, we can
+integrate functionalist theories of emotions into our interpretation and explain why discrepancies motivate
+progress-oriented behaviors: Guilt functions to promote reparative action (Barrett, 1995; Lindsay-Hartz,
+1984; Tangney, 1991). Furthermore, when discrepancies motivate withdrawal and avoidance rather than increased effort toward reducing the discrepancy, we can
+make predictions about why this might be the case.
+From a functionalist perspective, we need not assume
+that the overarching theory is wrong; instead, we can
+hypothesize that shame, rather than guilt (and rather
+than overly broad negative affect), is the mediating
+emotion in such cases.
+One notable exception to the general absence of a
+discrete emotions perspective in self research is Higgins’ (1987) theoretical work on self-discrepancies.
+As mentioned earlier, Higgins articulated distinct sets
+of negative emotions that result from discrepancies
+between different self-schemas. For example, a discrepancy between one’s actual self and ought self was
+hypothesized to produce specifically anxiety-related
+emotions, such as fear and guilt, rather than broad
+negative affect. More recently, Higgins argued that
+researchers must now ask the “second-generation
+question” stemming from his work: Under what conditions do self-discrepancies lead to predicted distinctive emotional patterns (Higgins, 1999)? Our
+proposed model builds on Higgins’ original conception that different emotions are related to different
+self-processes and responds to his second-generation
+call by providing a deeper understanding of the processes involved.
+Finally, our model can provide an explanatory
+framework for conceptualizing cultural differences in
+emotion. A large body of research suggests that culture has a profound influence on emotions. The impact of culture is likely to be particularly pronounced
+for self-conscious emotions, which require evaluations of a self that is, at least in part, shaped by culture. Research suggests that a wide range of
+self-evaluative processes vary in important ways
+across cultures (Heine, Lehman, Markus, &
+Kitayama, 1999). For example, Markus and
+Kitayama (1991) argued that individuals from
+collectivistic cultures tend to hold interdependent
+self-construals, viewing the self as embedded within
+and dependent on a larger social context, whereas
+those from individualistic cultures tend to hold more
+independent self-construals, viewing the self as primarily separate from the social context. According to
+Markus and Kitayama, these cultural differences in
+self-construals lead to cultural differences in emotion. Specifically, “other-focused” emotions such as
+shame may be more commonly experienced and lead
+to greater positive outcomes in individuals with interdependent views of self, whereas “ego-focused” emo120
+
+tions such as pride may be more commonly experienced and self-enhancing for those with independent
+views of self (see also, Eid & Diener, 2001; Menon &
+Shweder, 1994; Scherer & Wallbott, 1994).
+However, despite these important cultural differences, we believe that the basic processes described
+by our model—the particular antecedent appraisals
+that elicit different emotions—generalize across cultures. In other words, although a person from a
+collectivistic culture may feel shame more frequently
+than a person from an individualistic culture, our
+model predicts that the same set of appraisals and attributions elicits shame in both people. Supporting
+this idea, Scherer and Wallbott (1994) studied 37 cultures and found considerable cross-cultural similarities in the appraisal processes that generated and
+distinguished among emotions. Nonetheless, culture
+may exert a strong influence on the way that individuals appraise emotion-eliciting events, and these cultural differences in appraisal can account for
+differences in the prevalence of particular emotions
+(Mesquita, 2001).
+Our model provides the basis for making predictions about the appraisal processes that mediate cultural differences in emotion. A person from a
+collectivistic culture, who presumably has an interdependent self-construal, may not appraise an individual achievement as identity-goal congruent unless
+this achievement reflects well on his family, too. As a
+result, the same event—for example, making an intelligent comment in class that draws attention from others—may lead to divergent emotions depending on
+culture. For a person from an individualistic culture,
+who presumably has an independent self-construal,
+this event will likely be appraised as congruent with
+the culturally determined identity goal of appearing
+smart to those around her. If she also appraises the
+event as internally caused, she will experience pride.
+In contrast, an individual with a more interdependent
+self-construal may feel shame instead of pride, because he might appraise this event as relevant to the
+culturally determined identity goal of fitting in with
+those around him, and as incongruent with this goal.
+Other cultural differences in appraisal processes—such as the tendency for people from individualistic cultures to make more self-serving
+attributions for success and failure than people from
+collectivistic cultures (Heine et al., 1999; Kitayama,
+Takagi, & Matsumoto, 1995)—will produce similar
+differences in emotions. Thus, culture may affect how
+frequently particular emotions occur, by influencing
+individuals’ propensity to make particular appraisals
+(Mesquita & Frijda, 1992). In summary, our model
+predicts that cultures differ in the prevalence and consequences of self-conscious emotions, but not in the
+cognitive processes that generate and distinguish
+among them.
+
+TARGET ARTICLE
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+Conclusion
+Although all emotions can involve the self, only
+self-conscious emotions cannot occur independently
+of elaborate self-processes. Using the proposed model,
+we can ask new questions about the causes of self-conscious emotions in various individuals. For example,
+did Willy Loman succumb to suicide because he could
+no longer distract himself from attentional focus on the
+self? Did Lady Macbeth see spots of blood after realizing that murder was incongruent with her identity goal
+to be a good person? Was Oedipus’ shame the result of
+an internal, stable, and global attribution for his father’s death and his incestuous relationship with his
+mother? Did Narcissus appraise his current public
+self-representation as congruent with ideal public
+self-representations? We leave these questions to literary scholars, but we hope similar ones will be asked of
+the emotional and self-processes studied in psychological research.
+
+Notes
+Jessica L. Tracy was supported by a predoctoral fellowship from National Institute of Mental Health
+Grant T32 MH2006. We thank Jennifer Beer, Robin
+Edelstein, Simona Ghetti, Erik Noftle, Jennifer Pals,
+Phil Shaver, Gina Sutin, and Kali Trzesniewski for
+their helpful comments on this article.
+Jessica L. Tracy, University of California, Department of Psychology, Davis, CA 95616–8686. E-mail:
+jltracy@ucdavis.edu
+
+References
+Bargh, J. A., & Chartrand, T. L. (1999). The unbearable automaticity
+of being. American Psychologist, 54, 462–479.
+Barrett, K. C. (1995). A functionalist approach to shame and guilt. In
+J. P. Tangney & K. W. Fischer (Eds.), Self-conscious emotions:
+The psychology of shame, guilt, embarrassment, and pride (pp.
+25–63). New York: Guilford.
+Barrett, K. C., & Campos, J. (1987). Perspectives on emotional development II: A functionalist approach to emotions. In J. D.
+Osofsky (Ed.), Handbook of infant development (2nd ed., pp.
+555–578). New York: Wiley.
+Batson, C. D. (1987). Prosocial motivation: Is it ever truly altruistic?
+In L. Berkowitz (Ed.), Advances in experimental social psychology (Vol. 20, pp. 65–122). New York: Academic Press.
+Baumeister, R. F., Stillwell, A. M., & Heatherton, T. F. (1994). Guilt:
+An interpersonal approach. Psychological Bulletin, 115,
+243–267.
+Baumeister, R. F., Tice, D. M., & Hutton, D. G. (1989). Self-presentational motivations and personality differences in self-esteem.
+Journal of Personality, 57, 547–579.
+Beer, J. S., Roberts, N. A., Werner, K. H., Scabini, D., Levenson, R.
+W., & Knight, R. T. (2002, February). The role of self-conscious
+emotion in self-regulation. Paper presented at the annual convention of the Society for Personality and Social Psychology,
+Savannah, GA.
+
+Broucek, F. J. (1991). Shame and the self. New York: Guilford.
+Brown, J., & Weiner, B. (1984). Affective consequences of ability
+versus effort ascriptions: Controversies, resolutions, and quandaries. Journal of Educational Psychology, 76, 146–158.
+Brown, J. D. (1998). The self. New York: McGraw-Hill.
+Brown, J. D., & Dutton, K. A. (1995). The thrill of victory, the complexity of defeat: Self-esteem and people’s emotional reactions
+to success and failure. Journal of Personality and Social Psychology, 68, 712–722.
+Brown, J. D., & Marshall, M. A. (2001). Self-esteem and emotion:
+Some thoughts about feelings. Personality and Social Psychology Bulletin, 27, 575–584.
+Bushman, B. J., & Baumeister, R. F. (1998). Threatened egotism,
+narcissism, self-esteem, and direct and displaced aggression:
+Does self-love or self-hate lead to violence? Journal of Personality and Social Psychology, 75, 219–229.
+Buss, A. H. (1980). Self-consciousness and social anxiety. San Francisco: Freeman.
+Buss, A. H. (2001). Psychological dimensions of the self. Thousand
+Oaks, CA: Sage.
+Campbell, W. K. (1999). Narcissism and romantic attraction. Journal
+of Personality and Social Psychology, 77, 1254–1270.
+Campos, J. J. (1995). Foreword. In J. P. Tangney & K. W. Fischer
+(Eds.), Self-conscious emotions: The psychology of shame,
+guilt, embarrassment, and pride (pp. ix–xi). New York:
+Guilford.
+Campos, J. J., Barrett, K. C., Lamb, M. E., Goldsmith, H. H., &
+Stenberg, C. (1983). Socioemotional development. In M. M.
+Haith & J. J. Campos (Eds.), Handbook of child psychology:
+Vol. 2. Infancy and developmental psychobiology (4th ed., pp.
+783–915). New York: Wiley.
+Carver, C. S. (2001). Affect and the functional bases of behavior: On
+the dimensional structure of affective experience. Personality
+and Social Psychology Review, 5, 345–356.
+Carver, C. S., & Scheier, M. F. (1998). On the self-regulation of behavior. New York: Cambridge University Press.
+Cohen, J. L., Dowling, N., Bishop, G., & Maney, W. J. (1985). Causal
+attributions: Effects of self-focused attentiveness and self-esteem feedback. Personality and Social Psychology Bulletin, 11,
+369–378.
+Cooley, C. H. (1902). Human nature and the social order. New York:
+Scribner’s.
+Covington, M. V., & Omelich, C. L. (1981). As failures mount: Affective and cognitive consequences of ability demotion in the
+classroom. Journal of Educational Psychology, 73, 796–808.
+Csikszentmihalyi, M. (1990). Flow: The psychology of optimal experience. New York: Harper & Row.
+Darwin, C. (1872). The expression of the emotions in man and animals (3rd ed.). New York: Oxford University Press.
+Davidson, R. J. (2001). The neural circuitry of emotion and affective
+style: Prefrontal cortex and amygdala contributions. Social Science Information, 40, 11–37.
+de Waal, F. B. M. (1989). Chimpanzee politics: Power and sex
+among apes. Baltimore: Johns Hopkins University Press.
+Doosje, B., Branscombe, N. R., Spears, R., & Manstead, A. S. R.
+(1998). Guilty by association: When one’s group has a negative
+history. Journal of Personality and Social Psychology, 75,
+872–886.
+Duval, S., & Wicklund, R. A. (1972). A theory of objective
+self-awareness. New York: Academic.
+Duval, S., & Wicklund, R. A. (1973). Effects of objective self-awareness on attribution of causality. Journal of Experimental Social
+Psychology, 9, 17–31.
+Edelmann, R. J. (1985). Individual differences in embarrassment:
+Self-consciousness, self-monitoring, and embarrassability.
+Personality and Individual Differences, 6, 223–230.
+Edelmann, R. J. (1987). The psychology of embarrassment.
+Chichester, England: Wiley.
+
+121
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TRACY & ROBINS
+Eid, M., & Diener, E. (2001). Norms for experiencing emotions
+in different cultures: Inter- and intranational differences.
+Journal of Personality and Social Psychology, 81,
+869–885.
+Ekman, P. (1992a). Are there basic emotions? Psychological Review,
+99, 550–553.
+Ekman, P. (1992b). An argument for basic emotions. Cognition and
+Emotion, 6, 169–200.
+Ekman, P. (1994). All emotions are basic. In P. Ekman & R. J.
+Davidson (Eds.), The nature of emotion: Fundamental questions (pp. 15–19). New York: Oxford University Press.
+Ekman, P. (2003). Emotions revealed. New York: Times Books.
+Ekman, P., & Friesen, W. V. (1975). Unmasking the face: A guide to
+recognizing emotions from facial clues. New York: Prentice
+Hall.
+Ekman, P., Levenson, R. W., & Friesen, W. V. (1983). Autonomic
+nervous system activity distinguishes among emotions. Science, 221, 1208–1210.
+Ekman, P., & Rosenberg, E. L. (1997). What the face reveals: Basic
+and applied studies of spontaneous expression using the Facial
+Action Coding System (FACS). New York: Oxford University
+Press.
+Ellsworth, P. C., & Smith, C. A. (1988). Shades of joy: Patterns of appraisal differentiating pleasant emotions. Cognition and Emotion, 2, 301–331.
+Emmons, R. A. (1987). Narcissism: Theory and measurement. Journal of Personality and Social Psychology, 52, 11–17.
+Farwell, L., & Wohlwend-Lloyd, R. (1998). Narcissistic processes:
+Optimistic expectations, favorable self-evaluations, and
+self-enhancing attributions. Journal of Personality, 66, 65–84.
+Feiring, C., Taska, L., & Lewis, M. (2002). Adjustment following
+sexual abuse discovery: The role of shame and attributional
+style. Developmental Psychology, 38, 79–92.
+Fenigstein, A., & Levine, M. P. (1984). Self-attention, concept activation, and the causal self. Journal of Experimental Social Psychology, 20, 231–245.
+Ferguson, T. J., Stegge, H., & Damhuis, I. (1991). Children’s understanding of guilt and shame. Child Development, 62, 827–839.
+Fischer, K. W., & Tangney, J. P. (1995). Self-conscious emotions and
+the affect revolution: Framework and overview. In J. P.
+Tangney & K. W. Fischer (Eds.), Self-conscious emotions: The
+psychology of shame, guilt, embarrassment, and pride (pp.
+3–24). New York: Guilford.
+Friedman, M., & Ulmer, D. (1984). Treating Type A behavior and
+your heart. New York: Knopf.
+Frijda, N. H. (1987). Emotion, cognitive structure, and action tendency. Cognition and Emotion, 1, 115–143.
+Gehm, T., & Scherer, K. R. (1988). Relating situation evaluation to
+emotion differentiation: Nonmetric analysis of cross-cultural
+questionnaire data. In K. R. Scherer (Ed.), Facets of emotion:
+Recent research (pp. 61–77). Hillsdale, NJ: Lawrence Erlbaum
+Associates, Inc.
+Gilbert, P. (1997). The evolution of social attractiveness and its role
+in shame, humiliation, guilt and therapy. British Journal of
+Medical Psychology, 70, 113–147.
+Gilbert, P. (1998). What is shame? Some core issues and controversies. In P. Gilbert & B. Andrews (Eds.), Shame: Interpersonal
+behavior, psychopathology, and culture (pp. 3–38). Oxford,
+England: Oxford University Press.
+Goffman, E. (1955). On face-work: An analysis of ritual elements in
+social interaction. Psychiatry: Journal for the Study of Interpersonal Processes, 18, 213–231.
+Graham, S. (1988). Children’s developing understanding of the motivational role of affect: An attributional analysis. Cognitive Development, 3, 71–88.
+Graham, S., & Weiner, B. (1986). From an attributional theory of
+emotion to developmental psychology: A round-trip ticket? Social Cognition, 4, 152–179.
+
+122
+
+Greenwald, A. G. (1980). The totalitarian ego: Fabrication and revision of personal history. American Psychologist, 35,
+603–618.
+Harder, D. W. (1995). Shame and guilt assessment, and relationships
+of shame- and guilt-proneness to psychopathology. In J. P.
+Tangney & K. W. Fischer (Eds.), Self-conscious emotions: The
+psychology of shame, guilt, embarrassment, and pride (pp.
+368–392). New York: Guilford.
+Harder, D. W., Cutler, L., & Rockart, L. (1992). Assessment of
+shame and guilt and their relationships to psychopathology.
+Journal of Personality Assessment, 59, 584–604.
+Hart, D., & Karmel, M. P. (1996). Self-awareness and self-knowledge in humans, apes, and monkeys. In A. E. Russon, K. A.
+Bard, & S. T. Parker (Eds.), Reaching into thought: The minds of
+the great apes (pp. 325–347). Cambridge, England: Cambridge
+University Press.
+Harvey, J. H., & Weary, G. (1984). Current issues in attribution theory and research. Annual Review of Psychology, 35, 427–459.
+Hayes, C. (1951). The ape in our house. New York: Harper &
+Brothers.
+Hébert, R. (2002, April). The future is here: Innovative training for
+emotion researchers. APS Observer, 15, 1–18.
+Heckhausen, H. (1984). Emergent achievement behavior: Some
+early developments. In J. Nicholls (Ed.), Advances in motivation and achievement: Vol. 3. The development of achievement
+motivation (pp. 1–32). Greenwich, CT: JAI.
+Heider, F. (1958). The psychology of interpersonal relations. New
+York: Wiley.
+Heine, S. J., Lehman, D. R., Markus, H. R., & Kitayama, S. (1999). Is
+there a universal need for positive self-regard? Psychological
+Review, 106, 766–794.
+Herrald, M. M., & Tomaka, J. (2002). Patterns of emotion-specific
+appraisal, coping, and cardiovascular reactivity during an ongoing emotional episode. Journal of Personality and Social Psychology, 83, 434–450.
+Higgins, E. T. (1987). Self-discrepancy: A theory relating self and affect. Psychological Review, 94, 319–340.
+Higgins, E. T. (1999). When do self-discrepancies have specific relations to emotions? The second-generation question of Tangney,
+Niedenthal, Covert, and Barlow (1998). Journal of Personality
+and Social Psychology, 77, 1313–1317.
+Izard, C. E. (1971). The face of emotion. East Norwalk, CT:
+Appleton-Century-Crofts.
+Izard, C. E. (1992). Basic emotions, relations among emotions, and
+emotion-cognition relations. Psychological Review, 99,
+561–565.
+Izard, C. E., Ackerman, B. P., & Schultz, D. (1999). Independent
+emotions and consciousness: Self-consciousness and dependent
+emotions. In J. A. Singer & P. Singer (Eds.), At play in the fields
+of consciousness: Essays in honor of Jerome L. Singer (pp.
+83–102). Mahwah, NJ: Lawrence Erlbaum Associates, Inc.
+Jagacinski, C. M., & Nicholls, J. G. (1984). Conceptions of ability
+and related affects in task involvement and ego involvement.
+Journal of Educational Psychology, 76, 909–919.
+James, W. (1890). The principles of psychology. Cambridge, MA:
+Harvard University Press.
+John, O. P., & Robins, R. W. (1994). Accuracy and bias in self-perception: Individual differences in self-enhancement and the role
+of narcissism. Journal of Personality and Social Psychology,
+66, 206–219.
+Johnson-Laird, P. N., & Oatley, K. (1989). The language of emotions: An analysis of a semantic field. Cognition and Emotion, 3,
+81–123.
+Kappas, A. (2001). A metaphor is a metaphor is a metaphor: Exorcising the homunculus from appraisal theory. In K. R. Scherer,
+A. Schorr, & T. Johnstone (Eds.), Appraisal processes in emotion: Theory, methods, research (pp. 157–172). New York: Oxford University Press.
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TARGET ARTICLE
+Keltner, D. (1995). Signs of appeasement: Evidence for the distinct
+displays of embarrassment, amusement, and shame. Journal of
+Personality and Social Psychology, 68, 441–454.
+Keltner, D., & Buswell, B. N. (1996). Evidence for the distinctness of
+embarrassment, shame, and guilt: A study of recalled antecedents and facial expressions of emotion. Cognition and Emotion,
+10, 155–171.
+Keltner, D., & Buswell, B. N. (1997). Embarrassment: Its distinct
+form and appeasement functions. Psychological Bulletin, 122,
+250–270.
+Keltner, D., & Harker, L. (1998). The forms and functions of the nonverbal signal of shame. In P. Gilbert & B. Andrews (Eds.),
+Shame: Interpersonal behavior, psychopathology, and culture
+(pp. 78–98). Oxford, England: Oxford University Press.
+Kemeny, M. E. (2002, March). The impact of threats to social self on
+cognition, emotion, physiology and health. Paper presented at
+the Department of Psychology, University of California, Davis.
+Kernis, M. H., Cornell, D. P., Sun, C., Berry, A., & Harlow, T.
+(1993). There’s more to self-esteem than whether it is high or
+low: The importance of stability of self-esteem. Journal of Personality and Social Psychology, 65, 1190–1204.
+Kernberg, O. F. (1975). Borderline conditions and pathological narcissism. New York: Aronson.
+Kitayama, S., Markus, H. R., & Matsumoto, H. (1995). Culture, self,
+and emotion: A cultural perspective on “self-conscious” emotions. In J. P. Tangney & K. W. Fischer (Eds.), Self-conscious
+emotions: The psychology of shame, guilt, embarrassment, and
+pride (pp. 439–464). New York: Guilford.
+Kitayama, S., Takagi, H., & Matsumoto, H. (1995). Causal attribution of success and failure: Cultural psychology of the Japanese
+self. Japanese Psychological Review, 38, 247–280.
+Kochanska, G., Gross, J. N., Lin, M., & Nichols, K. E. (2002). Guilt
+in young children: Development, determinants, and relations
+with a broader system of standards. Child Development, 73,
+461–482.
+Kohut, H. (1977). The restoration of the self. New York: International Universities Press.
+Lazarus, R. S. (1991). Emotion and adaptation. New York: Oxford
+University Press.
+LeDoux, J. E. (1996). The emotional brain: The mysterious underpinnings of emotional life. New York: Simon & Schuster.
+Leith, K. P., & Baumeister, R. F. (1998). Empathy, shame, guilt,
+and narratives of interpersonal conflicts: Guilt-prone people
+are better at perspective taking. Journal of Personality, 66,
+1–37.
+Lewis, H. B. (1971). Shame and guilt in neurosis. New York: International Universities Press.
+Lewis, M. (1995). Embarrassment: The emotion of self-exposure and
+evaluation. In J. P. Tangney & K. W. Fischer (Eds.), Self-conscious emotions: The psychology of shame, guilt, embarrassment, and pride (pp. 198–218). New York: Guilford.
+Lewis, M. (2000). Self-conscious emotions: Embarrassment, pride,
+shame, and guilt. In M. Lewis & J. M. Haviland-Jones (Eds.),
+Handbook of emotions (2nd ed., pp. 623–636). New York:
+Guilford.
+Lewis, M., Alessandri, S. M., & Sullivan, M. W. (1992). Differences
+in shame and pride as a function of children’s gender and task
+difficulty. Child Development, 63, 630–638.
+Lewis, M., & Ramsay, D. (2002). Cortisol response to embarrassment and shame. Child Development, 73, 1034–1045.
+Lewis, M., Sullivan, M. W., Stanger, C., & Weiss, M. (1989). Self development and self-conscious emotions. Child Development,
+60, 146–156.
+Levenson, R. W. (1999). The intrapersonal functions of emotion.
+Cognition and Emotion, 13(5), 481–504.
+Levenson, R. W., Carstensen, L. L., Friesen, W. V., & Ekman, P.
+(1991). Emotion, physiology, and expression in old age. Psychology and Aging, 6, 28–35.
+
+Lindsay-Hartz, J. (1984). Contrasting experiences of shame and
+guilt. American Behavioral Scientist, 27, 689–704.
+Markus, H., & Nurius, P. (1986). Possible selves. American Psychologist, 41, 954–969.
+Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. Psychological Review, 98, 224–253.
+Menon, U., & Shweder, R. A. (1994). Kali’s tongue: Cultural psychology and the power of shame in Orissa, India. In S. Kitayama
+& H. R. Markus (Eds.), Emotion and culture: Empirical studies
+of mutual influence (pp. 241–282). Washington, DC: American
+Psychological Association.
+Mesquita, B. (2001). Emotions in collectivistic and individualistic
+contexts. Journal of Personality and Social Psychology, 80,
+68–74.
+Mesquita, B., & Frijda, N. H. (1992). Cultural variations in emotions: A review. Psychological Bulletin, 112, 179–204.
+Miller, R. S. (1995). Embarrassment and social behavior. In J. P.
+Tangney & K. W. Fischer (Eds.), Self-conscious emotions: The
+psychology of shame, guilt, embarrassment, and pride (pp.
+322-339). New York: Guilford.
+Miller, S. B. (1988). Humiliation and shame: Comparing two affect
+states as indicators of narcissistic stress. Bulletin of the
+Menninger Clinic, 52, 40–51.
+Morf, C. C., & Rhodewalt, F. (2001). Unraveling the paradoxes of
+narcissism: A dynamic self-regulatory processing model. Psychological Inquiry, 12, 177–196.
+Morrison, A. P. (1989). Shame: The underside of narcissism.
+Hillsdale, NJ: Analytic.
+Mosquera, P. M., Manstead, A. S. R., & Fischer, A. H. (2000). The
+role of honor-related values in the elicitation, experience, and
+communication of pride, shame, and anger: Spain and the Netherlands compared. Personality & Social Psychology Bulletin,
+26, 833–844.
+Nesse, R. M. (1990). Evolutionary explanations of emotions. Human
+Nature, 1, 261–289.
+Niedenthal, P. M., Tangney, J. P., & Gavanski, I. (1994). “If only I
+weren’t” versus “If only I hadn’t”: Distinguishing shame and
+guilt in conterfactual thinking. Journal of Personality and Social Psychology, 67, 585–595.
+Ortony, A., & Turner, T. J. (1990). What’s basic about basic emotions? Psychological Review, 97, 315–331.
+Panksepp, J. (1992). A critical role for “affective neuroscience” in resolving what is basic about basic emotions. Psychological Review, 99, 554–560.
+Panksepp, J. (1998). Affective neuroscience: The foundations of human and animal emotions. New York: Oxford University Press.
+Parrott, W. G., & Smith, S. F. (1991). Embarrassment: Actual vs. typical cases, classical vs. prototypical representations. Cognition
+and Emotion, 5, 467–488.
+Paulhus, D. L. (1998). Interpersonal and intrapsychic adaptiveness of
+trait self-enhancement: A mixed blessing? Journal of Personality and Social Psychology, 74, 1197–1208.
+Peterson, C. (1991). The meaning and measurement of explanatory
+style. Psychological Inquiry, 2, 1–10.
+Raskin, R., & Shaw, R. (1988). Narcissism and the use of personal
+pronouns. Journal of Personality, 56, 393–404.
+Retzinger, S. M. (1987). Resentment and laughter: Video studies of
+the shame-rage spiral. In H. B. Lewis (Ed.), The role of shame in
+symptom formation (pp. 151–181). Hillsdale, NJ: Lawrence
+Erlbaum Associates, Inc.
+Robins, R. W., & Beer, J. S. (2001). Positive illusions about the self:
+Short-term benefits and long-term costs. Journal of Personality
+and Social Psychology, 80, 340–352.
+Robins, R. W., Norem, J. K., & Cheek, J. M. (1999). Naturalizing the
+self. In L. A. Pervin & O. P. John (Eds.), Handbook of personality: Theory and research (2nd ed., pp. 443–477). New York:
+Guilford.
+
+123
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+TRACY & ROBINS
+Robins, R. W., Spranca, M. D., & Mendelsohn, G. A. (1996). The actor-observer effect revisited: Effects of individual differences and
+repeated social interactions on actor and observer attributions.
+Journal of Personality and Social Psychology, 71, 375–389.
+Robins, R. W., Tracy, J. L., & Shaver, P. R. (2001). Shamed into
+self-love: Dynamics, roots, and functions of narcissism. Psychological Inquiry, 12, 230–236.
+Roseman, I. J. (1991). Appraisal determinants of discrete emotions.
+Cognition and Emotion, 5, 161–200.
+Roseman, I. J. (2001). A model of appraisal in the emotion system:
+Integrating theory, research, and applications. In K. R. Scherer
+& A. Schorr (Eds.), Appraisal processes in emotion: Theory,
+methods, research (pp. 68–91). New York: Oxford University
+Press.
+Rozin, P., & Cohen, A. B. (2003). High frequency of facial expressions corresponding to confusion, concentration, and worry in
+an analysis of naturally occurring facial expressions of Americans. Emotion, 3, 68–75.
+Russell, D., & McAuley, E. (1986). Causal attributions, causal dimensions, and affective reactions to success and failure. Journal
+of Personality and Social Psychology, 50, 1174–1185.
+Russon, A. E., & Galdikas, B. M. F. (1993). Imitation in free-ranging
+rehabilitant orangutans (Pongo pygmaeus). Journal of Comparative Psychology, 107, 147–161.
+Sabini, J., Garvey, B., & Hall, A. L. (2001). Shame and embarrassment revisited. Personality and Social Psychology Bulletin, 27,
+104–117.
+Scheff, T. J. (1988). Shame and conformity: The deference-emotion
+system. American Sociological Review, 53, 395–406.
+Scheff, T. J. (1998). Shame in the labeling of mental illness. In P.
+Gilbert & B. Andrews (Eds.), Shame: Interpersonal behavior,
+psychopathology, and culture (pp. 191–205). Oxford, England:
+Oxford University Press.
+Scheff, T. J., Retzinger, S. M., & Ryan, M. T. (1989). Crime, violence, and
+self-esteem: Review and proposals. In A. M. Mecca, N. J. Smelser,
+& J. Vasconcellos (Eds.), The social importance of self-esteem (pp.
+165–199). Berkeley: University of California Press.
+Scheier, M. F., & Carver, C. S. (1977). Self-focused attention and the
+experience of emotion: Attraction, repulsion, elation, and depression. Journal of Personality and Social Psychology, 35, 625–636.
+Scherer, K. R. (1994). Emotion serves to decouple stimulus and response. In P. Ekman & R. J. Davidson (Eds.), The nature of emotions: Fundamental questions (pp. 127–130). New York: Oxford University Press.
+Scherer, K. R. (2001). Appraisal considered as a process of multilevel sequential checking. In K. R. Scherer, A. Schorr, & T.
+Johnstone (Eds.), Appraisal processes in emotion: Theory,
+methods, research (pp. 92–120). New York: Oxford University Press.
+Scherer, K. R. & Wallbott, H. G. (1994). Evidence for university and
+cultural variation of differential emotion response pattern. Journal of Personality and Social Psychology, 66, 310–328.
+Schore, A. N. (1998). Early shame experiences and infant brain development. In P. Gilbert & B. Andrews (Eds.), Shame: Interpersonal behavior, psychopathology, and culture (pp. 57–77). Oxford, England: Oxford University Press.
+Sedikides, C., & Skowronski, J. J. (1997). The symbolic self in evolutionary context. Personality and Social Psychology Review, 1,
+80–102.
+Shaver, P., Schwartz, J., Kirson, D., & O’Connor, C. (1987). Emotion
+knowledge: Further exploration of a prototype approach. Journal of Personality and Social Psychology, 52, 1061–1086.
+Smith, C. A., & Ellsworth, P. C. (1985). Patterns of cognitive appraisal in emotion. Journal of Personality and Social Psychology, 48, 813–838.
+Smith, C. A., & Kirby, L. D. (2001). Toward delivering on the promise of appraisal theory. In K. R. Scherer & A. Schorr (Eds.), Ap-
+
+124
+
+praisal processes in emotion: Theory, methods, research (pp.
+121–138). New York: Oxford University.
+Smith, C. A., & Lazarus, R. S. (1993). Appraisal components, core
+relational themes, and the emotions. Cognition and Emotion, 7,
+233–269.
+Smith, H. S., Webster, J. M., Parrott, W. G., & Eyre, H. L. (2002). The
+role of public exposure in moral and nonmoral shame and guilt.
+Journal of Personality and Social Psychology, 83, 138–159.
+Stipek, D. (1995). The development of pride and shame in toddlers.
+In J. P. Tangney & K. W. Fischer (Eds.), Self-conscious emotions: The psychology of shame, guilt, embarrassment, and
+pride (pp. 237–254). New York: Guilford.
+Stipek, D. J. (1983). A developmental analysis of pride and shame.
+Human Development, 26, 42–54.
+Tangney, J. P. (1991). Moral affect: The good, the bad, and the ugly.
+Journal of Personality and Social Psychology, 61, 598–607.
+Tangney, J. P., Burggraf, S. A., & Wagner, P. E. (1995).
+Shame-proneness, guilt-proneness, and psychological symptoms. In J. P. Tangney & K. W. Fischer (Eds.), Self-conscious
+emotions: The psychology of shame, guilt, embarrassment, and
+pride (pp. 343–367). New York: Guilford.
+Tangney, J. P., & Dearing, R. L. (2002). Shame and guilt. New York:
+Guilford.
+Tangney, J. P., Dearing, R. L., Wagner, P. E., & Gramzow, R. (2000).
+The Test of Self-Conscious Affect (TOSCA-3). Fairfax, VA:
+George Mason University.
+Tangney, J. P., & Fischer, K. W. (Eds.). (1995). Self-conscious emotions: The psychology of shame, guilt, embarrassment, and
+pride. New York: Guilford.
+Tangney, J. P., Miller, R. S., Flicker, L., & Barlow, D. H. (1996). Are
+shame, guilt, and embarrassment distinct emotions? Journal of
+Personality and Social Psychology, 70, 1256–1269.
+Tangney, J. P., Niedenthal, P. M., Covert, M. V., & Barlow, D. H.
+(1998). Are shame and guilt related to distinct self-discrepancies? A test of Higgins’s (1987) hypotheses. Journal of Personality and Social Psychology, 75, 256–268.
+Tangney, J. P., Wagner, P., & Gramzow, R. (1992). Proneness to
+shame, proneness to guilt, and psychopathology. Journal of Abnormal Psychology, 101, 469–478.
+Tesser, A. (2001). On the plasticity of self-defense. Current Directions in Psychological Science, 10, 66–69.
+Tomkins, S. S. (1963). Affects, imagery, consciousness. New York:
+Springer.
+Tracy, J. L., & Robins, R. W. (2002, February). Shame, guilt, and
+pride: An appraisal-theory perspective. Poster presented at the
+3rd Annual meeting of the Society for Personality and Social
+Psychology, Savannah, GA.
+Tracy, J. L., & Robins, R. W. (2003a). “Death of a (narcissistic) salesman”: An integrative model of fragile self-esteem. Psychological Inquiry, 14, 57–62.
+Tracy, J. L., & Robins, R. W. (2003b). Does pride belong in the pantheon? Emotion Researcher: Newsletter for the International
+Society for Research on Emotions, 18, 7–8.
+Tracy, J. L., & Robins, R. W. (2003c). Does pride have a recognizable expression? In P. Ekman (Ed.), Emotions inside out: 130
+years after Darwin’s The expression of emotions in man and animals (Vol. 1000, pp. 313–315). New York: New York Academy of Sciences.
+Tracy, J. L., & Robins, R. W. (2004a). Pride and narcissism. Unpublished
+raw data. Department of Psychology, University of California, Davis.
+Tracy, J. L., & Robins, R. W. (2004b). Show your pride: Evidence for
+a discrete emotion expression. Psychological Science, 15,
+194–197.
+Trivers, R. L. (1971). The evolution of reciprocal altruism. Quarterly
+Review of Biology, 46, 35–57.
+Twenge, J. M., Baumeister, R. F., Tice, D. M., & Stucke, T. S. (2001).
+If you can’t join them, beat them: Effects of social exclusion on
+
+TARGET ARTICLE
+velopmental cognitive neuroscience (2nd ed., pp. 21–49)
+Oxford, England: Oxford University Press.
+Williams, G., III. (1988, November). The selfish heart. Longevity, 24.
+Wilson, A. E., & Ross, M. (2001). From chump to champ: People’s
+appraisals of their earlier and present selves. Journal of Personality and Social Psychology, 80, 572–584.
+Wink, P. (1991). Two faces of narcissism. Journal of Personality and
+Social Psychology, 61, 590–597.
+Wright, F., O’Leary, J., & Balkin, J. (1989). Shame, guilt, narcissism,
+and depression: Correlates and sex differences. Psychoanalytic
+Psychology, 6, 217–230.
+Yerkes, R. M., & Yerkes, A. W. (1929). The great apes: A study of
+anthropoid life. New Haven, CT: Yale University Press.
+Zammuner, V. L. (1996). Felt emotions, and verbally communicated
+emotions: The case of pride. European Journal of Social Psychology, 26, 233–245.
+
+Downloaded by [New York University] at 04:28 25 June 2015
+
+aggressive behavior. Journal of Personality and Social Psychology, 81, 1058–1069.
+Watson, P. J., Hickman, S. E., & Morris, R. J. (1996). Self-reported
+narcissism and shame: Testing the defensive self-esteem and
+continuum hypotheses. Personality and Individual Differences,
+21, 253–259.
+Weiner, B. (1985). An attributional theory of achievement motivation and emotion. Psychological Review, 92, 548–573.
+Weiner, B., Graham, S., & Chandler, C. (1982). Pity, anger, and guilt:
+An attributional analysis. Personality and Social Psychology
+Bulletin, 8, 226–232.
+Weiner, B., & Kukla, A. (1970). An attributional analysis of achievement motivation. Journal of Personality and Social Psychology,
+15, 1–20.
+Wellman, H. M., & Lagattuta, K. H. (2000). Developing understandings of mind. In S. Baron-Cohen, H. Tager-Flusberg, & D. Cohen (Eds.), Understanding other minds: Perspectives from de-
+
+125
+
+
