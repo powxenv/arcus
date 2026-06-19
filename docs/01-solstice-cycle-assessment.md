@@ -1,6 +1,6 @@
 # Test 1: The Solstice Cycle Assessment (SCA)
 
-> Status: v0.20 design document. Two lengths added: the 32-item standard (SCA-32) and a 16-item short form (SCA-16) drawn from the same bank. The short form is a curated subset, not a parallel form, and is positioned honestly as screening-tier (it sits in the .60–.70 alpha band this framework itself flagged as marginal in v0.9). Scoring model and result taxonomy are identical across both. See CHANGELOG v0.20.
+> Status: v0.22 design document. Structure unchanged from v0.20; honesty notes tightened in the v0.22 suite rewrite. The SCA is a Russell-plus-Gray hybrid (affective activation × approach-withdrawal), not the literal Russell circumplex, and Axis B composites Carver-White's unipolar BIS/BAS subscales into a bipolar. Both stated openly. The 2-axis circumplex geometry is native to affect, which is why the SCA is the one test that keeps the quadrant template. See CHANGELOG v0.22.
 > Position: The solstice-themed test of the four-test Solstice Soul suite.
 > Theme served: June Solstice (light and dark, cycles, turning points).
 > Honesty statement: The SCA is an original, theory-informed assessment for reflection and play. Its structure is inspired by validated models of affect (Russell's circumplex) and motivation (approach and withdrawal). It is not independently validated and is not clinical. Seasonal names are an interpretive metaphor, not a claim that personality is literally seasonal. Two further honesty notes: (1) Russell's circumplex is a model of momentary affect, a state model. We use its structure to organize trait-like dispositions, a move supported by the trait-affect literature but stated here openly rather than implied. (2) The June solstice is summer in the Northern Hemisphere and winter in the Southern. The SCA uses internal, hemisphere-neutral seasons and does not assume a hemisphere.
@@ -97,6 +97,7 @@ Two orthogonal continuous axes, each 0 to 100.
 - Construct basis: BAS approach versus BIS withdrawal (Carver and White 1994).
 - High pole, Outward: energy moving toward the world. Opening, engaging, approach-oriented.
 - Low pole, Inward: energy drawing toward the interior. Conserving, gathering, reflective.
+- **Honesty note (v0.22).** Carver and White's BIS/BAS is **four unipolar subscales** (BAS Drive, BAS Fun-Seeking, BAS Reward-Responsiveness, BIS), not a single validated bipolar. The SCA composites the BAS facets into the B1/B2 "approach" side and reads BIS as the "withdrawal" side. This is a designer composite of validated unipolar subscales, not a single validated bipolar. The affirming reframe of Inward as conservation and depth (not deficit) is what keeps the axis usable in a consumer game.
 
 Each quadrant embodies a seasonal archetype. The person is always a point on the wheel, never forced into a binary.
 

@@ -1,225 +1,318 @@
 # Suite Framework: Solstice Soul Personality Suite
 
-> Status: v0.3 framework document. Suite template and methodology locked. Tests 1 and 2 complete. Tests 3 and 4 in proposal. Construct-anchor citations for Tests 3 and 4 reviewed for relevance.
-> Purpose: define the overall design before Tests 3 and 4 are built, so the four tests measure different aspects of personality with minimal overlap.
-> Scope: themes, domains, test names, result types, and the same-versus-different decision for methodology and theory.
+> Status: v0.22 framework document. Ground-up rewrite based on a full-suite audit and re-derivation from first principles. The methodology is uniform; the structure is not. Each test's dimensionality and result shape now follow its construct, not a shared template. Tests 1 and 3 retain their 2-axis geometry because their constructs are genuinely planar. Tests 2 and 4 break the template because their constructs are not. See CHANGELOG v0.22.
+> Purpose: define the overall design so the four tests measure four genuinely different things at the same rigor bar, with minimal overlap and stated, not hidden, shared variance.
+> Scope: domains, constructs, methodology, per-test structure, the synthesis, and the single binding scope constraint that shapes every test.
 
 ---
 
-## 1. The design principle: one theme, one personality domain
+## 1. The design principle: one theme, one domain, one validated construct per axis
 
-Each theme maps to one recognized sub-discipline of personality psychology. The four tests together answer four different self-knowledge questions. No two tests measure the same thing.
+Each theme maps to one recognized area of personality psychology. The four tests answer four genuinely different self-knowledge questions.
 
 | Theme | Domain | Self-knowledge question |
 |---|---|---|
 | Solstice | Affect, energy, motivation | How do you burn? |
-| Turing | Cognition | How do you compute? |
-| Pride | Identity, self-concept, self-expression | How do you show who you are? |
-| Passage of Time | Temporality | How do you move through time? |
+| Turing | Cognition | How do you think? |
+| Pride | Identity, self-concept | How well do you know and show yourself? |
+| Passage of Time | Temporality | How do you relate to time? |
 
-This partition is the suite's main strength. Affect, cognition, identity, and time are four established research areas, each with its own validated instruments. The final synthesis combines four genuinely additive signals into one self-portrait.
+This partition is the suite's main strength. Affect, cognition, identity, and time are four established research areas. The synthesis combines four genuinely additive framings into one self-portrait, with the overlap between them stated rather than denied.
+
+The change in v0.22 is structural, not thematic. Each axis (or factor) in each test is now **one named validated construct**, measured in **its native format**. No compositing of weakly-related factors into a bipolar axis. No designer splits dressed as validated facets. No forcing a planar template onto a multi-factor construct.
 
 ---
 
-## 2. Same methodology, different theory
+## 2. Uniform methodology, NON-uniform structure
 
-**Methodology is the same across all four tests.** Locked. Non-negotiable. This is the facet-level structural model used by serious instruments (NEO-PI-R organizes its domains into facets). It is the most advanced structure achievable through design and literature synthesis alone.
+**This is the core decision of the v0.22 rewrite, and it inverts the previous framework.**
 
-**Response format.**
-- Seven-point bipolar Likert (segmented pips between two anchor statements).
-- Pole direction randomized per item to counter position bias; the bipolar two-anchor format counters acquiescence bias.
+The v0.1 to v0.21 framework locked a single structural template across all four tests: two orthogonal axes, four quadrants, one boundary condition, facet-tension detection. That template is construct-native to exactly one test (SCA, because affect is genuinely circumplex). Forcing it onto the other three produced documented validity violations:
 
-**Item structure. Facet-organized, not axis-level.**
-- Two axes per test.
-- Two theory-grounded facets per axis (sub-dimensions drawn from the parent construct).
-- **Standard form: 32 items per test** (8 per facet), matching the NEO-PI-R facet standard. Each test may additionally offer a **16-item short form** (4 per facet) drawn from the same bank — a curated subset, not a parallel form, positioned as a screening-tier quick read (it sits in the .60 to .70 alpha band, which the framework flags as marginal). See each test's doc for its short-form selection. Both forms share the scoring model and result taxonomy.
-- Facets are named and reported, not collapsed silently. This is the core move that separates this framework from a shallow quiz.
+- MMA destroyed Epstein's validated orthogonality (NFC ⊥ Faith-in-Intuition, r = .08, verified full-text) by collapsing two factors into one bipolar axis, then split a unidimensional construct (Riding's Wholist-Analytic) into two "facets."
+- PTA composited weakly-related ZTPI factors (Future ↔ Past-Positive r = +.26, Sircova 2014 Table 4) into a bipolar axis and exiled the present to a "boundary" because the template has no place for a third temporal zone.
+- SSA split a unidimensional construct (Campbell's Self-Concept Clarity, one factor, verified) into two "facets" to feed the template.
 
-**Scoring. Hierarchical, not flat.**
-- Facet score = mean of its 8 items, scaled 0 to 100.
-- Axis score = mean of its 2 facet scores, scaled 0 to 100.
-- Prototypicality = distance from center / 70.7.
-- Position angle = atan2, for gradation and secondary leaning.
-- Theory-weighted (facets chosen for construct centrality), not empirically weighted (that needs pilot data we do not have).
+The template was the disease, not the tests. The fix is to keep the methodology uniform and let the structure vary.
 
-**Result structure.**
-- Four quadrant types with gradation (early, mid, late). Type is used in the person-centered sense (Gerlach 2018; Kerber 2021): a cluster recoverable by density or mixture methods. The seasonal quadrants are cluster-compatible; the wheel's midpoint is not (it is the sparsest region), so it is handled as a single boundary condition, the **Threshold**, not a fifth type. A **facet-tension modifier** flag (two strong opposing facets cancelling on an axis) may attach to any result and rewrites the Threshold's narrative from "balanced" to "holding opposites" — it is a modifier, not a type. This keeps the type count at four, consistent with the 3-to-5 cluster range the framework cites and with the Test 4 decision to reject a fifth type.
-- Each result reports the quadrant type plus the facet signature (which facets drove the axis scores). A high-Extraversion-style result can say "driven by social approach, not agency," not just "high."
-- 14-section deep profiles: one per season, plus the Threshold boundary profile (with an equinox narrative and a facet-tension modifier narrative), modulated by facet signature, gradation, and leaning.
-- AI narrative layer with a deterministic fallback of 12 seasonal states (4 seasons × 3 gradations) plus the Threshold boundary reading (two narrative variants via the facet-tension modifier).
-- Hybrid dimensional and prototypical reporting (Kerber et al. 2021), avoiding MBTI's midpoint cliff (McCrae and Costa 1989).
+### 2.1 What stays uniform (the rigor layer)
 
-**Bias and quality handling.**
-- Pole direction randomized per item at render time counters position bias. The bipolar two-anchor format (choosing between two statements rather than agreeing or disagreeing with one) counters acquiescence bias, the function reverse-keying serves in a unipolar format. These are two distinct mechanisms for two distinct biases.
-- Extreme response style flag: if a respondent uses the endpoints on a disproportionate share of items, surface a soft note in the result.
-- Internal consistency proxy: per-respondent facet spread reported as a confidence signal.
+These are non-negotiable across all four tests:
 
-**Item count rationale.** 32 items per test (8 per facet) matches the NEO-PI-R facet standard and sits in the validated-instrument norm. Reliability rises with item count per Spearman-Brown: at 8 per facet the expected Cronbach's alpha is .85 to .92 (strong), versus .60 to .70 at 4 per facet (marginal). At roughly 8 to 10 minutes per test this stays within personality-test norms (16Personalities holds users through 60 items; tests in this suite are taken independently). The four-test suite is 128 items total, but each test is a separate sitting. The optional 16-item short form (4 per facet, ~4–5 minutes) is offered per test for respondents with less time or attention; it accepts the marginal-reliability tier in exchange for speed and is labeled as such, consistent with Gosling et al. (2003) on ultra-short scales as screening-tier instruments.
+- **One validated construct per axis or factor.** Named, sourced, verified against full-text PDF. No composites of weakly-related factors. No invented facets.
+- **Measurement format matches construct accessibility.** Self-report only where the construct is introspectable (affect, identity, time perspective, Need for Cognition, Faith in Intuition). Behavioral where it is not (cognitive override). Bipolar only where the construct is genuinely bipolar; unipolar agree-disagree where the source instrument is unipolar.
+- **Hybrid dimensional-plus-type reporting.** Dimensional scores are the measurement; archetypes are an optional interpretive metaphor for shareability. Types are never asserted where the construct has no validated typology.
+- **Affirming scope limit** (§3): one binding constraint, stated once, with per-test validity costs.
+- **Honest ceiling** (§2.4): no pilot data, so no empirical weighting, no latent-profile typing, no population norms, no adaptive testing. Stated in every test doc.
+- **Self-review discipline:** every result screen carries the scope note; every test doc carries its limitations; the synthesis carries the shared-variance map.
 
-**Cross-test synthesis. Structural, not just narrative.**
-- The four tests produce 8 axis scores and 16 facet scores.
-- The final Solstice Identity is a computed 8-dimensional profile (radar visualization), enriched by the AI layer but not constituted by it.
-- The synthesis is honest about overlap: where axes correlate across tests (noted in section 7), the synthesis surfaces the correlation rather than pretending independence.
+### 2.2 What now varies (the structure layer)
 
-**Why the same methodology across all four.** Coherence, shared componentry, equal depth, no test accidentally weaker than another.
+Each test's dimensionality, result count, and scoring follow its construct:
 
-**Theory is different per test.** Necessary, not optional.
-- Affect is measured with affect models, not cognition models.
-- Cognition is measured with cognitive-style models, not identity models.
-- Identity is measured with self-concept models, not time models.
-- Time is measured with temporal-orientation models.
+| Test | Dimensionality | Structure | Why this shape |
+|---|---|---|---|
+| SCA | 2 axes | 4 quadrants + boundary | Affect is genuinely circumplex (Russell 1980). |
+| MMA | 2 independent scales + 1 behavioral | 4 REI quadrants + behavioral override profile | NFC and FI are verified orthogonal (Epstein 1996); override is not introspectable (Frederick 2005). |
+| SSA | 2 axes | 4 quadrants + boundary | Clarity and authenticity are genuinely distinct bipoles. |
+| PTA | 3 independent factors | 8 temporal types | Time perspective is multi-factor (Zimbardo-Boyd 1999; Sircova 2014); forcing two axes composites and exiles the present. |
 
-Each test draws its two axes and four facets from the validated instruments of its own domain. The methodology transfers. The construct does not.
+Two tests keep the quadrant geometry because their constructs are planar. Two tests drop it because their constructs are not. Coherence lives at the rigor layer, not the geometry layer.
 
-### 2.1 Honest ceiling: what is achievable without pilot data, and what is not
+### 2.3 Response format, decided per construct
 
-This framework is facet-organized, theory-weighted, and structurally synthesized. That matches the structural sophistication of validated instruments like NEO-PI-R. It is the genuine ceiling for a theory-informed framework built without respondents.
+| Construct | Format | Why |
+|---|---|---|
+| Affect / activation (SCA) | 7-point bipolar Likert | Activation is genuinely bipolar. |
+| Need for Cognition (MMA) | 5-point agree-disagree unipolar | NFC is unipolar (Cacioppo-Petty native format). |
+| Faith in Intuition (MMA) | 5-point agree-disagree unipolar | FI is unipolar (Epstein REI native format). |
+| Cognitive override (MMA) | Behavioral problem-solving (CRT-style) | Override is not introspectable; behavioral is the validated measure (Frederick 2005). |
+| Self-Concept Clarity (SSA) | 7-point bipolar Likert | Clear↔diffuse is a genuine bipolar. |
+| Authenticity (SSA) | 7-point bipolar Likert | Self-aligned↔other-oriented is a genuine bipolar. |
+| Time perspective factors (PTA) | 5-point agree-disagree unipolar | ZTPI factors are unipolar (Zimbardo-Boyd native format). |
 
-Four things stay out of reach because they require pilot data, and unlimited calendar time does not generate data:
-- Empirical item weighting (factor loadings). We use theory-weighted facets instead.
-- Data-driven typing (latent profile analysis). We use designed quadrants instead.
-- Population norms (a reference distribution). Scores are unanchored; we say so.
-- Adaptive testing (IRT-based item selection). We use a fixed form.
+Point counts follow the validated source instrument, not a suite default. Seven-point for the bipolar affect and identity items (where discrimination matters and the suite chose seven); five-point for NFC, FI, and ZTPI (their native validated formats).
+
+### 2.4 Honest ceiling: what is achievable without pilot data
+
+This framework is construct-grounded, theory-weighted, and structurally synthesized. That matches the structural sophistication of validated instruments. It is the genuine ceiling for a theory-informed framework built without respondents.
+
+Four things stay out of reach because they require pilot data:
+- Empirical item weighting (factor loadings). Theory-weighted constructs instead.
+- Data-driven typing (latent profile analysis). Designed types instead, where the construct supports a typology.
+- Population norms. Scores are unanchored; stated.
+- Adaptive testing (IRT-based item selection). Fixed forms.
 
 A lightly validated instrument is worse than an honestly unvalidated one, because it implies false authority. This framework claims theoretical grounding and structural honesty, not clinical or psychometric validity. That line is stated in every test doc.
 
+### 2.5 Deferred and out-of-scope (stated, not hidden)
+
+Several proposals from the audit and redesign were evaluated and deferred because they depend on constructs not yet full-text-verified. They are NOT implemented in v0.22:
+
+- **Allinson-Hayes Cognitive Style Index (1996)** as MMA's primary axis. Cited in the Riding paper and used widely, but the full PDF has not been reviewed. Deferred until verified. The v0.22 MMA uses the verified Epstein REI instead.
+- **Kirton Adaptor-Innovator.** Not verified. Deferred.
+- **Behavioral temporal-discounting task for PTA.** The construct is real and the discounting literature is large, but no specific validated instrument has been full-text-reviewed for use here. Deferred. The v0.22 PTA is a validated self-report 3-factor instrument.
+- **Showers self-structure card-sort for SSA.** Verified (Showers 1992) and implementable in a browser, but adds build complexity and is a different measurement paradigm. Deferred. The v0.22 SSA remains pure Likert.
+
+These deferrals are the discipline that distinguishes this framework from the false-authority approach it rejects.
+
 ---
 
-## 3. Geometry note: circumplex versus plane
+## 3. The affirming scope limit (binding, stated once)
 
-Only Test 1 is a true circumplex. Affect really is circular (Russell 1980). Tests 2, 3, and 4 are two orthogonal axes forming a plane.
+This is the single constraint that shaped the most design decisions, and it deserves to be stated at framework level rather than scattered across per-test honesty notes.
 
-The scoring math is identical either way: facet means rolled up to axis means, distance from center, angle, quadrant. The difference is only the visualization. Test 1 uses a wheel with facets as inner rings. Tests 2 to 4 use a 2x2 plane or radar with facets as sub-axes. The structure follows the construct. We do not force a circle where the construct is linear.
+**The suite measures the affirming range of each construct. It cannot detect maladaptive patterns.**
 
-Facet sub-scores appear in every result, regardless of geometry. They are what let a profile distinguish "high on this axis because of this facet, not that one."
+- This is a consumer game for self-discovery, not a clinical screen. A result that tells a user "you are high in bitter rumination," "you score in the hubristic-pride range," or "your life narrative is dominated by contamination" is harmful and unethical in this context.
+- The cost, stated plainly: the tests exclude the predictive half of several constructs. Past-Negative (rumination), Future-Negative (dread), Present-Fatalistic (hopelessness), hubristic pride, and contamination sequences are all real, validated, and consequential, and none of them appear as scored poles. A user who is genuinely stuck can receive an affirming reading that misses the stuckness.
+- The honest consequence: every result screen carries this one-line scope note: "This assessment measures the affirming range of [construct] and cannot detect rumination, anxiety, or other patterns that may warrant clinical attention."
+
+This is the binding product constraint. It is the reason the suite cannot, even in principle, reach the validity of a clinical instrument, and it is stated once here rather than rediscovered in every test doc.
 
 ---
 
 ## 4. Per-test specifications
 
-Each axis has 2 theory-grounded facets (8 items each). Facets named below; full definitions live in each test's doc.
-
-| # | Theme | Name | Domain | Axis 1 (facets) | Axis 2 (facets) | Results |
+| # | Theme | Name | Domain | Constructs (each verified) | Format | Results |
 |---|---|---|---|---|---|---|
-| 1 | Solstice | SCA | Affect | Solar Height: baseline arousal, stimulation appetite | Tidal Direction: social approach, agency | Summer, Autumn, Winter, Spring |
-| 2 | Turing | MMA | Cognition | Processing Mode: deliberation preference, override tendency | Encoding Structure: entry point, working scale | Algorithm, Cipher, Gestalt, Architecture |
-| 3 | Pride | SSA | Identity | Identity Clarity: self-knowledge, self-consistency | Self-Alignment: authentic living, relational authenticity | Beacon, Prism, Ember, Aurora |
-| 4 | Passage of Time | TOA | Time | Temporal Orientation: past valence, future salience | Temporal Mode: scheduling preference, flow tolerance | Archivist, Navigator, Storyteller, Pioneer |
+| 1 | Solstice | SCA | Affect | Energetic arousal; BAS approach (+ BIS as moderator) | 7-pt bipolar Likert | Summer, Autumn, Winter, Spring + Threshold |
+| 2 | Turing | MMA | Cognition | Need for Cognition; Faith in Intuition; Cognitive override (behavioral) | 5-pt unipolar + behavioral | Integrator, Logician, Reader, Operator + Generalist boundary |
+| 3 | Pride | SSA | Identity | Self-Concept Clarity; Authenticity | 7-pt bipolar Likert | Beacon, Prism, Ember, Aurora + Reflection |
+| 4 | Passage of Time | PTA | Time | Past-Positive engagement; Present-eudaimonic engagement; Future engagement | 5-pt unipolar | 8 temporal types |
 
-Status. Tests 1 and 2 are expanded to 32 items with the facet structure below (v0.9). Tests 3 and 4 are designed at 32 items from the start.
-
-Facet note. Test 1 Axis B facets are "social approach" (DeYoung Enthusiasm aspect) and "agency" (DeYoung Assertiveness aspect). Together they mirror the validated two-aspect structure of Big Five Extraversion. B2 was renamed twice during design ("expressive disclosure" in v0.8 overlapped Test 3; "experiential approach" in v0.9 mixed three constructs); "agency" is the correctly grounded current name.
-
+Each test's full design lives in its own doc (`01` through `04`). Summary sections below.
 
 ---
 
-## 5. Test 3: Spectrum of Self Assessment (SSA)
+## 5. Test 1: Solstice Cycle Assessment (SCA)
 
-> Status: v0.1 design document. See `03-spectrum-of-self-assessment.md` for the full framework. Summary below.
+> Status: v0.22. Structure unchanged from v0.20; honesty tightened. See `01-solstice-cycle-assessment.md`.
 
-**Domain.** Identity, self-concept, self-expression. The personality side of Pride, not sexual orientation or gender as variables.
+**Domain.** Affect, energy, motivation.
 
-**Why Pride fits.** Pride celebrates the courage to know yourself and show who you really are. The SSA measures two dimensions of this: how clearly you know yourself (Identity Clarity) and how authentically you express that self in the world (Self-Alignment). Every position is valid.
+**Why this structure is native here.** Affect is genuinely circular (Russell 1980; Yik et al. 2011). A two-axis circumplex with a boundary condition is the construct's own shape, not a forced template.
 
-**Axis A, Identity Clarity.** Clear and confident self-knowledge versus diffuse and uncertain self-beliefs.
-- Construct basis: Campbell et al. (1996) Self-Concept Clarity Scale. Low SCC is independently associated with high Neuroticism, low Conscientiousness, chronic self-analysis.
-- Facets: A1 Self-Knowledge, A2 Self-Consistency. Both draw from the unidimensional SCC; the split is a designer choice (see §2.5 of the design doc).
+**Axis A, Solar Height (activation).** Energetic arousal (Schimmack & Reisenzein 2002). Axis A composites energetic arousal with stimulation appetite (Zuckerman 2007); both are activation constructs, but the composite is a stated design choice, not a validated higher-order factor.
 
-**Axis B, Self-Alignment.** Self-aligned (behavior matches values and true self) versus other-oriented (behavior adjusts to social expectations).
-- Construct basis: Kernis & Goldman (2006) multicomponent authenticity. Corroborated by Snyder (1974) self-monitoring and Wood et al. (2008) Authenticity Scale.
-- Facets: B1 Authentic Living, B2 Relational Authenticity. Covers three of Kernis & Goldman's four components (Awareness + Behavior → B1, Relational → B2; Unbiased Processing not directly captured).
+**Axis B, Tidal Direction (approach-withdrawal).** Carver & White (1994) BIS/BAS. Honesty tightening in v0.22: BIS/BAS is four unipolar subscales (BAS Drive, BAS Fun-Seeking, BAS Reward-Responsiveness, BIS), not a bipolar. The SCA composites the BAS facets into "approach" and reports BIS as a moderator signal rather than pretending approach↔withdrawal is a single validated bipolar.
 
-**Four results (light/visibility imagery).**
-- Clear + Self-Aligned: **The Beacon.** You know yourself and you show yourself.
-- Clear + Other-Oriented: **The Prism.** You know yourself but adjust your presentation.
-- Diffuse + Self-Aligned: **The Ember.** You don't fully know yourself, but what you show is genuine.
-- Diffuse + Other-Oriented: **The Aurora.** Your self shifts with context, and your presentation shifts with it.
+**Results.** Summer, Autumn, Winter, Spring (the seasons), plus the Threshold boundary. Seasonal names are interpretive metaphor; hemisphere-neutral; the solstice poetry lives at the Axis-A extremes.
 
-**Boundary condition:** The Reflection. Named for the surface where light meets itself — the act of seeing yourself clearly.
-
-**Sources rejected after full-text review.** Showers (1992) compartmentalization and Linville (1987) self-complexity — both use card-sorting tasks incompatible with self-report Likert format. Tracy & Robins (2007) authentic vs. hubristic pride — valuable for profile texture but measures pride emotion, not identity structure.
+**What changed in v0.22.** Structure unchanged. Honesty notes tightened: SCA is a Russell-plus-Gray hybrid, not "the circumplex"; Axis B composites unipolar BIS/BAS subscales. This is the solid test, and the audit confirmed why: both axes are single validated constructs measured in a format native to affect.
 
 ---
 
-## 6. Test 4 proposal: Temporal Orientation Assessment (TOA)
+## 6. Test 2: Modes of Mind Assessment (MMA)
 
-**Domain.** How a person relates to time. The personality side of the passage of time.
+> Status: v0.22. Redesigned. Previous v0.3 design (collapsed NFC×FI bipolar + Riding D1/D2 axis + Algorithm/Cipher/Gestalt/Architecture quadrants) is superseded. See `02-modes-of-mind-assessment.md`.
 
-**Why passage of time fits.** Time perspective is a recognized, heavily validated personality domain. The passage-of-time theme maps onto it directly. People genuinely differ on where their attention and value sits across time horizons, and how they structure time itself.
+**Domain.** Cognition.
 
-**Axis 1, Temporal Orientation.** Past-anchored versus future-oriented.
-- Construct basis: Zimbardo and Boyd Time Perspective Inventory, ZTPI (1999). The ZTPI has five factors (Past-Positive, Past-Negative, Present-Hedonistic, Present-Fatalistic, Future), confirmed across 24 countries (Sircova et al. 2014). We use a Past composite (Past-Positive and Past-Negative averaged) as the past pole and the Future factor as the future pole. The compositing is a design choice — Sailer et al. (2014) treat the two past dimensions separately and find they contribute differently to well-being. The honesty note below addresses the information loss.
-- Past pole: value and attention on roots, memory, tradition, what has been.
-- Future pole: value and attention on goals, possibility, what will be.
-- Honesty note 1: this axis is a composite. Past-Positive and Past-Negative are near-orthogonal in ZTPI, not opposites. Merging them is a simplification used in peer-reviewed research, but it loses texture. That texture is recovered as facet sub-scores within each result (Past-Positive vs Past-Negative, Present-Hedonistic vs Present-Fatalistic).
-- Honesty note 2: present-oriented people land mid-axis. They are not misclassified as weakly-past-or-future. They surface via the boundary result, framed affirmatively as living in the now.
-- Alternative considered and rejected: Consideration of Future Consequences (CFC). CFC has a validated two-factor structure which would give a cleaner single axis without compositing. Rejected because CFC is decision-theoretic (how far ahead you weigh consequences) rather than humanistic, which would break tonal parity with Tests 1 to 3 and reduce the poetic passage-of-time theme to a decision-horizon instrument.
+**Why the redesign.** The v0.3 MMA had two verified-evidence violations, both caused by forcing the 2-axis-quadrant template onto cognition:
 
-**Axis 2, Temporal Mode.** Monochronic versus polychronic.
-- Construct basis: Hall (1959) monochronic and polychronic time. Schell and Conte (2008) polychronicity validation.
-- Monochronic pole: clock-time, one thing at a time, scheduled, linear.
-- Polychronic pole: event-time, multiple flows at once, fluid, contextual.
-- Neither pole is superior.
-- Confound honesty: monochronicity correlates with future orientation (both involve planning and scheduling). This is the same kind of cross-axis correlation as Extraversion in Tests 1/3 and Conscientiousness in Tests 2/4. The two axes are not perfectly orthogonal. Stated plainly in the test doc.
+1. Epstein (1996) found NFC and Faith in Intuition are orthogonal (r = .08, verified full-text). The v0.3 MMA collapsed them into one bipolar axis, destroying the validated two-factor structure and rendering mid-axis scores psychometrically meaningless.
+2. Riding (1997) validated Wholist-Analytic behaviorally (reaction-time Cognitive Styles Analysis) and explicitly rejected self-report for cognitive style. The v0.3 MMA used self-report Likert on Riding, against Riding's own measurement argument.
 
-**Why two axes, not ZTPI's five.** The ZTPI's full five-factor structure is richer, but breaks the suite template for one test, and five result types thins every profile and pushes past the 3-to-5 shareable-types sweet spot. Two axes keep suite coherence and synthesis evenness. The lost Present and Past-Positive/Negative variance is recovered as facet sub-scores, not lost.
+**The v0.22 structure.** Three independent components, reported as a profile, not crossed into a forced plane:
 
-**Four results (draft, journey and time imagery).**
-- Past + Monochronic: **The Archivist.** Preserves, orders, keeps.
-- Future + Monochronic: **The Navigator.** Charts one course forward.
-- Past + Polychronic: **The Storyteller.** Weaves past into living present.
-- Future + Polychronic: **The Pioneer.** Moves into the new on many threads.
+- **Scale 1: Need for Cognition** (Cacioppo & Petty 1982; Cacioppo et al. 1996). Unidimensional, self-report-native, verified. How much you engage in and enjoy effortful thinking. 5-point agree-disagree unipolar.
+- **Scale 2: Faith in Intuition** (Epstein et al. 1996, REI second factor). Verified orthogonal to NFC (r = .08). How much you trust experiential, gut-level processing. 5-point agree-disagree unipolar.
+- **Component 3: Cognitive override** (Frederick 2005 CRT; Stanovich & West 2000). Behavioral problem-solving items. Override is not introspectable; behavioral is the validated measure. Reported as an override rate alongside the two self-report scales.
 
-**Open decision.** Passage of time (recommended) versus historical-era resonance from the original GDD. The passage-of-time research above confirms the theme maps cleanly onto validated time-perspective constructs. Historical-era would overlap messily with identity and time.
+**Why this is more valid.** Both self-report scales are introspectable (NFC is the enjoyment of thinking; FI is the felt trust in gut). Both preserve Epstein's verified orthogonality. The behavioral component handles the one part of cognition that self-report cannot. Riding is dropped (deferred self-report instruments like Allinson-Hayes CSI are noted in §2.5; until verified, the REI is the safer anchor).
 
----
+**Results.** Four REI quadrants (the verified NFC×FI space) plus a behavioral override profile reported alongside:
 
-## 7. Cross-suite overlap honesty
+- **The Integrator** (high NFC + high FI): engages both reasoning and intuition richly.
+- **The Logician** (high NFC + low FI): deliberate reasoning dominant; distrusts gut.
+- **The Reader** (low NFC + high FI): intuitive pattern-fluency; doesn't dwell in analysis.
+- **The Operator** (low NFC + low FI): action over reflection; neither mode dominates.
+- **The Generalist** (near-center on both): genuinely moderate on both engagement scales.
 
-Big Five is the backbone nearly everything in personality correlates with. Each test will state its own overlap. Audited loadings across the suite:
+The Turing theme lands structurally: the user is given tasks (the CRT) and their outputs are observed, which inverts the Imitation Game. The mode names are interpretive metaphor, not a claim that minds are literally algorithms.
 
-- Test 1 (SCA). Loads on Extraversion (energy) and Neuroticism (arousal).
-- Test 2 (MMA). Loads on Conscientiousness (deliberate pole) and Openness.
-- Test 3 (SSA). Loads on Neuroticism (negatively, via Identity Clarity) and Conscientiousness (positively, via both axes). Some overlap with Test 1's affect/motivation mitigated by the identity-specific framing of both axes.
-- Test 4 (TOA, proposed). Loads on Conscientiousness (future) and Openness (polychronic). Some Conscientiousness overlap with Test 2, mitigated by framing as temporal structure, not general diligence.
-
-Conceptually the four domains are distinct. At the trait level some correlation is unavoidable, because personality is not orthogonal. The contribution of each test is the facet combination and the framing, not novel dimensions. This will be stated plainly in every test doc.
+**What changed.** Dropped Riding entirely. Dropped the Algorithm/Cipher/Gestalt/Architecture quadrant names and the Halting Point boundary. Restored Epstein's verified orthogonality. Added the behavioral CRT component.
 
 ---
 
-## 8. Status
+## 7. Test 3: Spectrum of Self Assessment (SSA)
 
-Suite-level decisions locked:
-- Suite template: Option A. Tests 2 to 4 reuse Test 1's methodology (validated axes, two facets per axis, continuous scoring, four quadrant types with gradation, 14-section profiles, AI narrative, deterministic fallback, eight items per facet, seven-point bipolar Likert) with their own axes, themes, and result names. Locked v0.4.
-- Response format: Seven-point bipolar Likert. Locked across the suite.
-- Item count: 32 per test, 8 per facet. Locked across the suite.
-- Facet structure: Two facets per axis. Locked across the suite.
-- Cross-test synthesis: Structural 8-dimensional profile with facet sub-scores. Locked.
+> Status: v0.22. Structure unchanged; facet framing corrected. See `03-spectrum-of-self-assessment.md`.
 
-Test 3 has a v0.1 design document. Test 4 remains at proposal stage. The 8 retained construct-anchor citations below have been reviewed for construct relevance.
+**Domain.** Identity, self-concept, self-expression.
+
+**Why this structure is native here.** Clarity and authenticity are genuinely distinct bipoles (clear↔diffuse; self-aligned↔other-oriented). Both poles of both axes are affirming. The 2-axis plane fits.
+
+**Axis A, Identity Clarity.** Campbell et al. (1996) Self-Concept Clarity. Verified.
+
+**Axis B, Self-Alignment.** Kernis & Goldman (2006) authenticity; Snyder (1974) self-monitoring; Wood et al. (2008) authenticity. Verified.
+
+**Results.** Beacon, Prism, Ember, Aurora, plus the Reflection boundary.
+
+**What changed in v0.22.** Structure unchanged. Framing corrected on the facets: Campbell's SCC is **unidimensional** (one factor, verified). The A1/A2 split (Self-Knowledge, Self-Consistency) is a **content-sampling bin**, not two validated sub-factors. Same correction for B1/B2 (Authentic Living, Relational Authenticity). The facet-tension detector still needs two sub-scores per axis to detect cancellation, so the split is retained, but it is now labeled honestly as a content bin retained for tension detection, not a validated facet decomposition. Same data model, honest framing.
+
+The SSA's earlier 10-item rewrite and B1.8→B1.2 swap stand; they were construct improvements independent of this reframe.
 
 ---
 
-## 9. The synthesis
+## 8. Test 4: Passage of Time Assessment (PTA)
 
-With four non-overlapping domains, the final Solstice Soul synthesis combines four genuinely additive signals: how you burn (affect), how you compute (cognition), how you show (identity), and how you flow (time). This is the payoff of the domain partition. A redundant suite would re-measure the same trait four times. This suite measures four different things, so the whole is more than any part.
+> Status: v0.22. Redesigned. Previous v0.21 design (ZTPI composite axis + self-continuity axis + Narrative Coherence designer facet + Archivist/Navigator/Storyteller/Pioneer quadrants + Horizon boundary + fullness-tension logic) is superseded. See `04-passage-of-time-assessment.md`.
+
+**Domain.** How a person relates to time.
+
+**Why the redesign.** The v0.21 PTA had three construct-level problems, all from forcing a 2-axis template onto a multi-factor construct:
+
+1. ZTPI is five factors (Zimbardo-Boyd 1999; Sircova 2014). The v0.21 Axis 1 composited Past-Positive and Future (r = +.26, weakly related) into one bipolar and excluded Past-Negative (rumination) and Future-Negative (dread) under the affirming scope limit. It measured "direction of positive temporal engagement," narrower than "Temporal Direction" as named.
+2. The v0.21 Axis 2 Self-Continuity facet was extended to the past self using a book chapter (Sani 2010), and that extension collided item-for-item with SSA's Self-Consistency facet (verified in audit: "I still see the same core person" vs "Feel like the same core self, grown" are the same question).
+3. The v0.21 B2 Narrative Coherence facet was a self-report adaptation of interview-coded constructs (McAdams, Adler). It was a designer facet measuring an approximation.
+
+**The v0.22 structure.** Three independent factors, each a single verified construct, each affirming, each scored 0–100 independently:
+
+- **Factor 1: Past-Positive engagement.** ZTPI Past-Positive + Webster (1993) adaptive reminiscence functions. Warm, rooted relationship with where you have been.
+- **Factor 2: Present-eudaimonic engagement.** Vowinckel et al. (2015). The validated positive-present factor that ZTPI lacks. Active, meaningful presence.
+- **Factor 3: Future engagement.** ZTPI Future + the Future-Positive factor (Stolarski & Matthews 2016, citing Carelli et al.). Anticipatory, goal-directed.
+
+Past-Negative, Present-Fatalistic, and Future-Negative stay excluded under the affirming scope limit (§3). This is now a single framework-level statement, not a scattered honesty note.
+
+**Results.** Eight temporal types, derived from which factor(s) clear the engagement threshold (≥ 60):
+
+- **The Keeper** (Past high): preserves, honors roots.
+- **The Witness** (Present high): lives fully in the now.
+- **The Wayfinder** (Future high): moves toward horizons.
+- **The Hearth** (Past + Present): roots warming the living moment.
+- **The Bridge** (Past + Future): spans from roots to horizons.
+- **The Flow** (Present + Future): moves forward, fully present.
+- **Balanced Time Perspective** (all three engaged): the validated BTP construct (Zimbardo & Boyd; Sobol-Kwapinska & Jankowski 2015).
+- **The Wanderer** (none strongly engaged): unbound by any zone; affirming surface of freedom with an explicit scope note that low positive engagement across all zones can also reflect disengagement worth attending to.
+
+Present-focused is now a first-class result, not an exile. No boundary condition, no facet-tension modifier (independent factors, nothing to cancel).
+
+**What changed.** Dropped the 2-axis plane, the self-continuity axis (collides with SSA), the Narrative Coherence designer facet, the fullness-tension logic, and the Archivist/Navigator/Storyteller/Pioneer quadrant names (those were quadrant semantics). Narrative identity drops to profile texture (where interview-coded constructs belong in a self-report test), not a scored axis. The result is a validated 3-factor instrument with eight types, each grounded in a verified construct.
 
 ---
 
-## 10. References (used only)
+## 9. Cross-suite overlap honesty (shared variance map)
 
-Test 1 and Test 2 references are documented in their own docs. This framework doc cites only the construct anchors for Tests 3 and 4.
+The v0.1–v0.21 framework claimed "four non-overlapping domains." The audit showed this is false at the trait level. The honest statement: **four distinct framings over partially shared trait variance.**
 
-- **Russell (1980), circumplex model of affect.** *Use:* justification that Test 1 is a genuine circumplex and Tests 2 to 4 are planes (§3).
-- **Kerber, Roth and Herzberg (2021), personality types revisited.** *Use:* the hybrid dimensional and prototypical pattern shared across the suite (§2).
-- **McCrae and Costa (1989), reinterpreting the MBTI.** *Use:* the midpoint-cliff flaw the suite avoids (§2).
-- **Snyder (1974), self-monitoring.** *Use:* anchor for Test 3 Axis 2, identity expression (§5).
-- **Wood et al. (2008), Authenticity Scale.** *Use:* corroboration for Test 3 Axis 2, authentic self-disclosure (§5).
-- **Zimbardo and Boyd (1999), Time Perspective Inventory (ZTPI).** *Use:* anchor for Test 4 Axis 1, temporal orientation. The 5-factor structure (Past-Positive, Past-Negative, Present-Hedonistic, Present-Fatalistic, Future).
-- **Sircova et al. (2014), A Global Look at Time.** *Use:* cross-cultural validation of ZTPI's 5-factor structure across 24 countries, n=12,200. Confirms the construct is robust, and confirms Past-Positive and Past-Negative are near-orthogonal (drives the honesty note about compositing).
-- **Sailer et al. (2014), time perspective and well-being.** *Use:* general ZTPI/well-being relationship. Note: this paper does not use a Past composite — it treats Past-Positive and Past-Negative as separate dimensions and finds they contribute differently to well-being. The compositing is our design choice, not a claim Sailer makes.
-- **Hall (1959), monochronic and polychronic time. Schell and Conte (2008), polychronicity and goal orientation.** *Use:* anchor for Test 4 Axis 2, temporal mode. Schell and Conte validate mono/poly as a stable individual-difference dimension. Hall is the historical origin of the construct.
-- **Marcia (1966), identity statuses.** *Use:* the strongest alternative for Test 3, named so the decision is informed (§8).
-- **Wiggins (1979), interpersonal circumplex (agency and communion).** *Use:* the most validated 2x2 alternative for Test 3, named so the decision is informed (§8).
+Big Five is the backbone nearly everything correlates with. The verified overlap map:
+
+- **SCA.** Loads on Extraversion (activation + approach) and Neuroticism (arousal).
+- **MMA.** Loads on Openness-to-Ideas (NFC) and Conscientiousness (FI's negative pole / override diligence).
+- **SSA.** Loads on Neuroticism (negatively, via Identity Clarity) and Conscientiousness / Agreeableness (via authenticity).
+- **PTA.** Loads on Conscientiousness (Future engagement; Stolarski 2016: ZTPI Future ↔ Conscientiousness r = .60) and, weakly, Openness.
+
+**Notable patterns:**
+- **Conscientiousness appears in three tests** (MMA, SSA, PTA). Unavoidable because Conscientiousness is broad. Stated, not hidden.
+- **The previous SSA↔PTA identity-stability collision is gone.** PTA no longer measures past-self continuity, so SSA's Self-Consistency and PTA no longer ask the same question.
+- **Agreeableness is largely unmeasured** across the suite (only a weak signal via SSA relational authenticity). This is a real coverage gap, stated here rather than implied as comprehensive.
+
+Conceptually the four domains are distinct. At the trait level some correlation is unavoidable, because personality is not orthogonal. The synthesis (§10) surfaces the correlations rather than pretending independence.
+
+---
+
+## 10. The synthesis
+
+The v0.1–v0.21 framework claimed an "8-dimensional radar profile." Without pilot data that claim is overclaiming. The honest synthesis is three layers, all buildable without data:
+
+1. **Narrative integration** (AI layer, with a deterministic fallback). Takes the four results and writes a coherent self-portrait. This is the shareable payoff of taking four tests.
+2. **Shared-variance map.** States, per pair of axes or factors, the expected trait correlation, so the user sees the overlap. Example: a high-Future-PTA + high-override-MMA + high-authenticity-SSA respondent is convergently Conscientious across three framings. The map names this rather than treating the four as independent.
+3. **Convergence indicators.** Where multiple tests point to the same trait neighborhood, surface it descriptively. Not a new score; a pattern read off the four results against the shared-variance map.
+
+The visualization is a placement of the four results against a stated Big Five backdrop, framed as "where your results cluster," not as a validated 8-dimensional profile. This is the strongest synthesis available without data, and it does not repeat the false-authority move the framework exists to avoid.
+
+---
+
+## 11. Status
+
+Suite-level decisions:
+- **Four tests, four domains, four different structures.** Locked v0.22. Structure follows the construct.
+- **Uniform methodology at the rigor layer** (validated constructs, format-native measurement, affirming scope limit, honest ceiling, hybrid reporting). Locked v0.22.
+- **Affirming scope limit** as a single binding framework constraint (§3). Locked v0.22.
+- **Synthesis as narrative + shared-variance map**, not a fake radar. Locked v0.22.
+
+Per-test:
+- SCA: v0.22, structure unchanged, honesty tightened. Build and sim remain valid (structure unchanged).
+- MMA: v0.22, redesigned (independent NFC/FI + behavioral CRT). Build and sim deleted; rebuild pending.
+- SSA: v0.22, structure unchanged, facet framing corrected. Build and sim remain valid (structure unchanged).
+- PTA: v0.22, redesigned (3 factors, 7 types). Build and sim deleted; rebuild pending.
+
+Deferred (§2.5): Allinson-Hayes CSI, Kirton KAI, behavioral temporal discounting, Showers card-sort. All require full-text verification before structural use.
+
+---
+
+## 12. References (suite-level)
+
+Per-test references are in each test doc. This framework doc cites only the construct anchors and the methodology sources that apply across the suite.
+
+**Domain anchors:**
+- Russell (1980), circumplex model of affect. SCA structural anchor.
+- Yik, Russell & Steiger (2011), 12-point affect circumplex. SCA measurability.
+- Schimmack & Reisenzein (2002), energetic arousal. SCA Axis A.
+- Carver & White (1994), BIS/BAS. SCA Axis B.
+- Zuckerman (2007), Sensation Seeking. SCA Axis A facet content.
+- Cacioppo & Petty (1982); Cacioppo et al. (1996), Need for Cognition. MMA Scale 1.
+- Epstein et al. (1996), Rational-Experiential Inventory (NFC ⊥ FI, r = .08). MMA Scale 2 and orthogonality.
+- Frederick (2005), Cognitive Reflection Test. MMA behavioral component.
+- Stanovich & West (1997), Actively Open-Minded Thinking; Stanovich & West (2000), dual-process. MMA framework.
+- Campbell et al. (1996), Self-Concept Clarity. SSA Axis A.
+- Kernis & Goldman (2006); Wood et al. (2008); Snyder (1974), authenticity and self-monitoring. SSA Axis B.
+- Zimbardo & Boyd (1999); Sircova et al. (2014), ZTPI. PTA Factors 1 and 3.
+- Vowinckel et al. (2015), present-eudaimonic. PTA Factor 2.
+- Stolarski & Matthews (2016), incremental validity and Future-Positive split. PTA Factor 3 and cross-suite overlap.
+- Webster (1993); Westerhof, Bohlmeijer & Webster (2010), reminiscence functions. PTA Factor 1 content.
+- Sobol-Kwapinska & Jankowski (2015), balanced time perspective. PTA balanced type.
+
+**Methodology sources (apply across all tests):**
+- Gerlach et al. (2018), four personality types via mixture modeling. Use: empirical defense that types can be data-supported where the construct supports a typology. Not a license to assert types everywhere.
+- Kerber et al. (2021), hybrid prototypical and dimensional representation. Use: the suite's reporting pattern.
+- McCrae & Costa (1989), MBTI midpoint cliff. Use: reject dichotomizing.
+- Schulte et al. (2020), forced-choice ipsativity. Use: reject forced-choice.
+- Sun, Schmidt & Henry (2025), Likert vs sliders. Use: reject sliders.
+- Chang (1994), Likert point counts. Use: point count follows the source instrument.
+- Gosling et al. (2003), ultra-short scale floor. Use: item-count floor.
+- Spearman-Brown. Use: reliability projection.
 
 See `CHANGELOG.md` for revision history.

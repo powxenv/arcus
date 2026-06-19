@@ -1,199 +1,165 @@
 # The Modes of Mind Assessment
 
-## How do you compute? A cognitive-style framework built on how minds process and structure information
+## How do you think? A framework built on two independent engagement scales and a behavioral override check
 
 ---
 
-Alan Turing showed that there are many valid ways a mind can compute. The Turing Machine formalized one: a sequence of exact operations, each step justified by the one before it. But Turing also broke codes by pattern recognition, explained how zebra stripes emerge from simple chemical rules, and designed one of the first stored-program computers from the architecture up. He did not compute in only one way — and neither does anyone else.
+There are many valid ways a mind can think. Some people enjoy effortful reasoning and seek it out; others find thinking a tool to use when needed, not a pleasure. Some trust their gut and follow it; others distrust gut feelings and prefer explicit reasoning. And these are independent: you can enjoy thinking and trust your gut, enjoy thinking and distrust your gut, dislike thinking and trust your gut, or dislike thinking and distrust your gut. None of these is a defect. Each is a different, valid relationship between your rational and experiential modes.
 
-The Modes of Mind Assessment maps you onto two dimensions of how you think: how you arrive at answers (processing mode — deliberate or intuitive), and how you structure information (encoding structure — sequential or holistic). From those two coordinates, it places you in one of four cognitive modes, each pointing at a real piece of Turing's work. Every mode is valid. There is no bad way to compute. The test is built on specific, full-text-verified research on individual differences in reasoning, cognitive style, and thinking dispositions. This article explains what the test measures, why it was designed the way it was, what each result means, and what the research actually says about each piece of the framework.
+The Modes of Mind Assessment measures two things about how you think: how much you engage in and enjoy effortful thinking (Need for Cognition), and how much you trust your experiential, gut-level processing (Faith in Intuition). These two are genuinely independent, a fact established in the research literature and central to why the test is designed the way it is. A third component, a behavioral check of whether you actually override your intuitive wrong answers, is measured not by asking you but by giving you problems to solve. From these, the assessment places you in one of four cognitive modes (or a fifth, genuinely-moderate, boundary). Every mode is valid. The test is built on specific, full-text-verified research on cognitive engagement and reflection, and this article explains what it measures, why it was designed this way, and what the research actually says.
 
 ---
 
 ## What the test measures
 
-Two dimensions, each scored from 0 to 100. Neither is better than the other. Together they place you somewhere on a plane.
+Two independent self-report scales, each scored from 0 to 100, plus one behavioral component.
 
-**Processing Mode** is how you arrive at answers — deliberate or intuitive. The deliberate pole draws from Need for Cognition (Cacioppo & Petty, 1982): the tendency to engage in and enjoy effortful, analytical thinking. Cacioppo and Petty found this is a stable individual difference, distinct from intelligence, and measured through a self-report scale that yields one major factor. The intuitive pole corresponds to what Epstein, Pacini, Denes-Raj, and Heier (1996) called Faith in Intuition — the tendency to trust rapid, automatic, pattern-based processing. The key finding from Epstein et al. is that these two poles are **not opposites**: they are orthogonal dimensions. A person can be high in both rational and intuitive thinking, or low in both. The MMA treats them as opposite ends of a single axis for placement purposes, and the facet scores unpack which component is doing the work.
+**Need for Cognition** is how much you engage in and enjoy effortful thinking. The construct comes from John Cacioppo and Richard Petty's (1982) Need for Cognition Scale, developed across four studies. NFC is unidimensional: one major factor. The items are entirely about enjoyment and engagement ("I prefer complex to simple problems," "thinking is not my idea of fun" reversed), not about speed or ability. Cacioppo, Petty, Diane Feinstein and Blair Jarvis (1996) confirmed in a meta-analysis that NFC is a stable disposition, distinct from intelligence: people differ systematically in how much they enjoy thinking, and that difference is not the same as how smart they are. People high in NFC seek out intellectual challenges; people low in NFC treat thinking as a tool they use when a task requires it, not a pleasure.
 
-**Encoding Structure** is how you take in and organize information — whether you start with the parts and build up, or grasp the whole and work down. This dimension draws from Riding's (1997) Cognitive Styles Analysis. Riding found that people consistently differ in whether they process information in parts or wholes, that this difference is independent of intelligence (correlations near zero) and independent of personality, and that it predicts learning preferences, task performance, and subject-matter choices. Nisbett, Peng, Choi, and Norenzayan (2001) independently validated the same parts/wholes distinction across cultures, finding that East Asian populations tend toward holistic processing while Western populations tend toward analytic processing.
+**Faith in Intuition** is how much you trust your experiential, gut-level processing. The construct comes from Seymour Epstein, Velichko Pacini, Veronika Denes-Raj and Sandra Heier's (1996) Rational-Experiential Inventory, which factor-analyzed into two factors: NFC (rational) and Faith in Intuition (experiential). The crucial finding for this test is that the two factors are **orthogonal**, with a correlation of r = .08, essentially zero. You can be high in both, low in both, or anywhere in between. They are not opposites, and a test that treats them as opposite ends of one axis (as an earlier version of this test did) destroys the validated two-factor structure and produces mid-scores that could mean anything. The MMA reports them as two independent scales, exactly as Epstein validated them.
 
-Because these two dimensions come from different research traditions, their combination into a 2×2 framework is not arbitrary. The MMA uses one axis from the cognitive-style literature and one from the individual-differences-in-reasoning literature, places them orthogonally, and maps a person's position on the resulting plane. The four quadrants are the four modes. Each points to a real piece of Turing's work.
+The independence of NFC and FI is not a footnote. It is the central structural fact of the test. It means the four combinations are genuine: you can be a person who thinks hard and trusts your gut (both engaged), thinks hard and distrusts your gut (deliberate-only), doesn't dwell on thinking but trusts your gut (intuitive-only), or doesn't dwell on thinking and doesn't particularly trust your gut (neither dominant). Each is a real, recognizable cognitive mode.
+
+**Cognitive override** is whether you actually check your intuitions before trusting them. This is the one part of cognition that the test does not ask you about, because asking would not work. The construct comes from Shane Frederick's (2005) Cognitive Reflection Test, three deceptively simple problems (the bat-and-ball, the widget machines, the lily pad) each with an intuitive-but-wrong answer that requires deliberate effort to override. CRT scores predict decision-making biases above IQ. The key measurement point: you cannot ask someone whether they override their intuitions and trust the answer, because the intuitive system answers the question. The behavioral format, giving problems and observing whether the wrong intuitive answer is overridden, is the validated measure. The MMA includes a behavioral CRT component for exactly this reason.
+
+Keith Stanovich and Richard West (2000) provide the overarching framework linking these: they established that thinking dispositions predict reasoning performance above and beyond cognitive ability, and introduced the dual-process framework of System 1 (fast, intuitive, automatic) and System 2 (slow, analytical, deliberate). NFC is about engaging System 2 because you enjoy it; the CRT is about using System 2 to check System 1's outputs.
+
+---
+
+## Why a behavioral component, and only this one
+
+The cognitive override component is the only behavioral measure in the entire suite of tests. The other three tests measure constructs that are introspectable: affect (you know how energized you feel), identity (you know how clearly you see yourself), time perspective (you know how you relate to time). Self-report is a reasonable format for those.
+
+Cognition is different. Cognitive processes are often unconscious. System 1 is automatic by definition; people have limited introspective access to their own cognitive style. Richard Riding (1997), who developed the leading cognitive-style measure, built it as a behavioral reaction-time test precisely because he rejected self-report for this domain: introspective self-report measures, he wrote, have "inherent weaknesses... inability to report accurately... unwillingness to make the necessary effort... social desirability bias." Frederick's CRT is likewise behavioral. You cannot ask.
+
+So the MMA is mixed-methods. NFC and Faith in Intuition are self-report, because engagement and felt trust in gut are introspectable (you know whether you enjoy thinking and whether you trust your gut). Cognitive override is behavioral, because it is not. This is the format matching the construct, deliberately.
+
+---
+
+## Sources rejected
+
+**Riding's (1997) Wholist-Analytic cognitive style** was the structural anchor of an earlier version of this test. It is a real, validated construct with two independent dimensions. It was rejected because Riding validated it behaviorally (reaction-time Cognitive Styles Analysis) and explicitly rejected self-report for cognitive style. Using self-report Likert on Riding, as the earlier version did, goes against Riding's own measurement argument. The verified-evidence discipline of the suite requires either using the construct in its validated format or not using it. Riding was dropped. (Riding cites Allinson and Hayes' 1996 self-report Cognitive Style Index as a validated alternative; that instrument is deferred pending full-text verification and not used here.)
+
+**Collapsing NFC and Faith in Intuition into one bipolar axis** is the error the earlier version of this test made. The verified evidence (Epstein and colleagues, 1996, r = .08) is that they are orthogonal. The current test restores that orthogonality.
+
+**Actively Open-Minded Thinking** (Stanovich & West, 1997) is a validated composite that predicts argument evaluation above cognitive ability. It substantially overlaps with Big Five Openness (two of its six subscales are NEO-PI-R facets). It is used as profile texture, not as a structural axis, to avoid re-measuring Openness.
 
 ---
 
 ## The four modes
 
-Each mode is a specific combination of processing preference and encoding structure. The profiles are archetypes — patterns that emerge from the axis geometry — not empirical clusters discovered by fitting a model to data. But the literature independently supports that a small number of cognitive style types is replicable. The test reports continuous scores and a type label; the type is the interpretation, not the measurement.
+Two scales, each scored 0 to 100. A scale is "engaged" at or above a threshold (60 in the current design, tunable with pilot data). The combination selects one of four modes.
 
-### ⚙️ The Algorithm (Sequential + Deliberate)
+**🧬 The Integrator** (NFC high + FI high). You engage both reasoning and intuition richly, and you trust both. Where others treat rational and experiential as opposite teams, you field both. This is the rarest and most cognitively flexible mode, and it is possible precisely because NFC and FI are independent.
 
-Formal, exact, stepwise. You think in proofs and procedures.
+**🔬 The Logician** (NFC high + FI low). You think deliberately and distrust gut feelings. Reasoning is your native mode. You would rather work something out than feel your way to it. The risk is mistaking reasoning for the whole of cognition.
 
-**The archetype.** You build your thinking from the ground up, one verified step at a time. Where others guess and check, you derive. Your mind runs like a well-formed algorithm: deterministic, transparent, each operation justified by the one before it. You trust what you can show, and you can usually show it.
+**🎯 The Reader** (NFC low + FI high). You are pattern-fluent and intuitive. You read situations, people, and problems fast, by feel, and you trust what you sense. This is not laziness; it is a genuine cognitive mode. The risk is trusting a gut that is wrong on problems that look intuitive but are not.
 
-This is the mode Turing himself formalized in his 1936 paper "On Computable Numbers." The Turing Machine — a sequence of exact operations on a tape, halting only when the answer is proven — is the purest expression of this mode. Your gift is rigor. You are the person who can be trusted with the load-bearing logic because you do not skip steps and you do not hand-wave.
+**⚙️ The Operator** (NFC low + FI low). You act over reflection. Neither deliberate analysis nor gut feeling dominates your mode; you move on what is in front of you and what needs doing. This is a valid and underappreciated mode. The affirming-framing risk is that low engagement with both modes can also reflect disengagement, which the test cannot distinguish from genuine pragmatism.
 
-**Strengths.** Rigor, correctness, reproducibility. Your work holds up under inspection. Strong at formal reasoning, deduction, and verification. Reliable on tasks where errors are costly.
+**The Generalist** (near-center on both scales). Genuinely moderate on both engagement scales, without strong preference for either mode.
 
-**Blind spots.** Over-engineering. Building the perfect procedure when a fast answer would do. Getting stuck before you start, waiting for full specifications. Undervaluing intuition you cannot yet justify.
-
-**Growth.** Ship before it is proven perfect. Treat strong intuition as a hypothesis worth testing, not as noise. Learn to estimate when rigor is unaffordable.
-
-**The complementary mode:** 🔮 The Gestalt. Rigor without intuition is slow. The Gestalt's ability to see the whole form before the parts are named is the shortcut your procedures are trying to formalize.
-
----
-
-### 🕸️ The Cipher (Sequential + Intuitive)
-
-Pattern-fluent. You read sequences and signatures by feel, fast.
-
-**The archetype.** You move through information in order, but you do not deliberate over each piece — you read it. Patterns resolve themselves in your hands the way a cipher yields to a practiced cryptanalyst. You see the next move before you can explain why it is right, and you are usually right.
-
-This is the mode Turing called on at Bletchley Park. The Bombe was a machine, but the breakthroughs belonged to minds that could hold a sequence of characters and frequencies and feel where the pattern broke. The mapping is to the cognitive mode of the activity rather than to Turing's personal style — the weakest of the four mappings, stated openly. Your gift is fluency. Where The Algorithm derives, you recognize.
-
-**Strengths.** Speed and pattern recognition in familiar domains. Diagnostic fluency — you sense what is wrong before you can name it. Efficiency — you do not re-derive what you already recognize.
-
-**Blind spots.** Hard to teach, because your method is recognition, not procedure. Over-trusting fluency in domains where it has not been earned. Struggling to justify a call when challenged, even when it is right.
-
-**Growth.** Build the vocabulary to explain your recognition. Calibrate confidence to actual exposure. When stakes are high, slow down and verify the hunch.
-
-**The complementary mode:** 🏗️ The Architecture. Fluency without structure is brittle at scale. Structure is what lets your pattern sense survive new domains.
-
----
-
-### 🔮 The Gestalt (Holistic + Intuitive)
-
-You see wholes and emergent forms before anyone has named the parts.
-
-**The archetype.** You take in the whole before the parts register. A situation, a room, a problem, a person — you grasp the shape of it immediately, and the shape is usually right. You do not assemble understanding piece by piece. You receive it whole, and only later, if pressed, do you work backward into the components.
-
-This is the mode Turing reached for in his last great work, on morphogenesis (1952). He wanted to understand how patterns emerge in nature — how a zebra's stripes or a spiral shell arises from interacting parts without anyone designing it. Your gift is exactly that: perceiving emergence. You see the form others are still trying to build toward, and you see it before it can be explained.
-
-**Strengths.** Rapid, accurate whole-field perception. Comfort with ambiguity, paradox, and unfinished forms. Strong aesthetic and structural intuition. Creative synthesis across unrelated domains.
-
-**Blind spots.** Hard to explain, because the form came before the parts. Leaping to the whole when the parts actually matter here. Underestimating the work of verification.
-
-**Growth.** Learn to decompose your perception into checkable parts. Treat the whole as a hypothesis, not a verdict, when stakes are high. Respect the people who need the steps — they are building what you already see.
-
-**The complementary mode:** ⚙️ The Algorithm. Perception without verification is fragile. Rigor is how your insights survive contact with skepticism.
-
----
-
-### 🏗️ The Architecture (Holistic + Deliberate)
-
-Systems-level, structured. You design and reason about whole systems on purpose.
-
-**The archetype.** You think in systems, and you do it deliberately. Where The Gestalt perceives a whole by intuition, you construct one through considered design. You hold the entire architecture in mind, understand how the parts interact, and reason about the whole with rigor. You are the person who can explain not just how a system works, but why it is built that way.
-
-This is the mode Turing reached for in designing the ACE (Automatic Computing Engine, 1945), one of the first stored-program computers. The work was not solving one equation — it was designing an entire architecture, reasoning about storage, control, and instruction flow as a coherent system. Your gift is structural intelligence. You do not just live in systems. You understand them, and you can build new ones.
-
-**Strengths.** Systems thinking with rigor. Strong at architecture, design, and long-horizon planning. The ability to reason about trade-offs across an entire system. Building things that scale and endure.
-
-**Blind spots.** Over-designing — building the system for eventualities that never come. Slow to act because the architecture must be right first. Missing emergent behavior your model did not predict.
-
-**Growth.** Ship the good-enough architecture and iterate. Make room for the empirical, including results that surprise your model. Learn when to stop designing and start building.
-
-**The complementary mode:** 🕸️ The Cipher. Architecture without fluency is slow. Fluency is what lets you move inside the systems you design.
+The behavioral override rate is reported alongside each type as a modifier: a Logician with high override checks their gut rigorously; a Logician with low override thinks hard but tends to trust first conclusions. This gives each result texture beyond the quadrant.
 
 ---
 
 ## How the questions were designed
 
-The MMA has 32 questions, 8 for each of four facets — two facets under each axis. This is not an arbitrary number. The NEO-PI-R uses 8 items per facet. The Big Five Aspect Scales (DeYoung, Quilty, and Peterson, 2007) use 10. Gosling, Rentfrow, and Swann (2003) showed that 2 items per dimension is the operational floor, adequate for screening, but with "diminished psychometric properties." The MMA's 8 items per facet sits at the validated-instrument norm. Under the Spearman-Brown prophecy formula, 8 items per facet gives expected reliability in the .85 to .92 range.
+The MMA has 16 self-report items (8 NFC + 8 FI) plus 5 behavioral CRT-style items. Eight items per scale gives expected reliability in the .85 to .92 range under Spearman-Brown. A short form (4 items per scale plus the behavioral component) is offered, landing the self-report portion in the .60 to .70 screening tier.
 
-A 16-item short form (MMA-16) is also offered, drawing a curated 4 items per facet from the same bank. At 4 per facet, reliability falls to the .60–.70 range — the screening-tier, marginal band. This tradeoff is stated openly on the result screen.
+### The two self-report scales
 
-### The four facets
+NFC and FI use 5-point agree-disagree unipolar Likert, the native format of the Cacioppo-Petty NFC and the Epstein REI. This is a deliberate departure from the seven-point bipolar format used elsewhere in the suite, because those constructs are genuinely bipolar whereas NFC and FI are unipolar engagement scales.
 
-**Axis C — Processing Mode. C1 Deliberation Preference** measures enjoyment of effortful thinking. It draws from Need for Cognition (Cacioppo & Petty, 1982), which is unidimensional — one major factor, confirmed in four studies. Items ask about enjoyment, not speed or ability. **C2 Override Tendency** measures the disposition to check and verify intuitions rather than trust them. It draws from the Cognitive Reflection Test's behavioral pattern (Frederick, 2005) as a dispositional proxy. The two facets share a "System 2 engagement" interpretation but are not a validated two-factor decomposition — NFC items alone do not measure verification. The full-text papers confirm this: Cacioppo and Petty's NFC is entirely about enjoyment; Frederick's CRT is a behavioral test, not a self-report scale. Our C2 items are designed as dispositional proxies for the tendency to verify.
+**Need for Cognition** items sample enjoyment and engagement with effortful thinking: "I enjoy thinking hard about problems, even when I don't have to," "I prefer complex problems over simple ones," "Thinking deeply about something is its own reward for me."
 
-**Axis D — Encoding Structure. D1 Entry Point** measures what registers first when you encounter new information — the parts or the whole. **D2 Decomposition Habit** measures the ongoing tendency to break down or synthesize information once you have it. Both draw from Riding's (1997) Wholist-Analytic dimension, which Riding treats as unidimensional and assesses behaviorally (reaction-time tasks), not via self-report. Our D1/D2 split is a designer decomposition. Our conversion from behavioral to self-report Likert is a design choice — Riding himself flagged self-report weaknesses for cognitive style. Both choices are transparently disclosed.
+**Faith in Intuition** items sample trust in experiential processing: "I often make decisions based on gut feeling," "I rely on my intuition to guide me," "I trust the part of me that just knows, without needing reasons."
 
-All 32 items use behavioral-scenario framing ("what do you do in this situation?") rather than trait endorsement ("what are you like?"). This is consistent with the measurement philosophy of Riding (1997) and Frederick (2005): for cognitive processing, demonstrated preference is a more valid signal than self-assessed identity. The items were audited through multiple passes against the full-text papers, and ten items were replaced for construct alignment, content-area spread, and scenario conversion.
+All items are engagement-positive; disagreement reads as "this isn't how I engage," not as deficit.
 
-### The format
+### The behavioral component
 
-Each question presents a short scenario and two opposing anchor statements on a seven-point scale. The poles alternate randomly so you cannot default to one side. The bipolar format itself handles acquiescence bias. Every validated cognitive-style instrument (REI, NFC, CSA) uses Likert; none use sliders. Seven points gives enough precision without overwhelming you.
+The CRT component uses Frederick-style problems, each with an intuitive wrong answer and a deliberative right answer. The canonical Frederick three items are public, which creates a real limitation: a user who has seen them recognizes the trick and gets them right for the wrong reason, inflating their override score. A launch implementation should use a refreshed or rotated item bank. The component structure (5 behavioral override items, scored on correctness) is the design; the specific items are a launch decision.
 
 ---
 
 ## How scoring works
 
-Scoring is hierarchical. Your eight responses within each facet are averaged and scaled to 0–100. Your two facet scores on each axis are then averaged to produce your axis score. For Axis C (Processing Mode), 0 is Intuitive and 100 is Deliberate. For Axis D (Encoding Structure), 0 is Holistic and 100 is Sequential.
+Within each self-report scale, your responses are averaged and scaled to 0 to 100. The two scales are reported independently. The behavioral override rate is the fraction of CRT items answered correctly, scaled to 0 to 100.
 
-Your position is plotted on a two-dimensional plane with center at (50, 50). The four quadrants determine your mode. Your exact position within your quadrant determines your gradation: early, mid, or late. The phase angle maps you to a specific angular position, and the angle within the quadrant is binned into three 30-degree bands. "Early Algorithm" means you are building toward full rigor; "Late Architecture" means you are nearing fluent systems-thinking.
+Type assignment applies the engagement threshold (60) to NFC and FI independently. The high/low pattern selects one of the four modes. Near-center on both yields The Generalist.
 
-Your distance from center — prototypicality — tells you how clearly you embody your mode. Far from center means you are strongly that mode. Close to center means you are between types. If your prototypicality falls below 0.28, the test reports **The Halting Point**, named for Turing's proof that no algorithm can determine in general whether a program will halt. Similarly, your responses don't strongly favor any one mode — not a failure, just an honest answer.
+Prototypicality measures how clearly you fit your mode: the distance of your (NFC, FI) point from the center (50, 50). The override rate is a separate reported score that modulates the type narrative rather than selecting a different type.
 
-An additional check runs before the boundary is reported: **facet-tension detection.** For each axis, if its two facets sit on opposite sides of 50 and both are strongly extreme, the axis is tense — its mean lands near center because two strong facets cancel, not because you are moderate. When this happens on the Halting Point, the narrative changes from "you are balanced" to "you are near center from cancellation — read the facet signature." The modifier flag also fires on clear modes with an internal tension.
-
-The facet signature is reported alongside the type, distinguishing which facet drove which axis score. A high-Deliberate result might be driven mostly by Override Tendency rather than Deliberation Preference. A high-Sequential result might be sequential at entry but synthesizes once engaged. This is the depth that separates the MMA from a single-number quiz.
+There is no facet-tension modifier, because the two scales are independent and cannot cancel.
 
 ---
 
 ## The research in one place
 
-The MMA draws on a specific body of work, verified against full-text PDFs:
+The MMA draws on a specific body of work, verified against full-text PDFs.
 
-**Cacioppo and Petty (1982)** developed and validated the Need for Cognition scale, finding one major factor. NFC is a stable disposition — enjoyment of thinking, measured through self-report, distinct from intelligence.
+**Cacioppo and Petty (1982)** developed the Need for Cognition Scale across four studies, establishing NFC as a unidimensional individual difference about the enjoyment and engagement of thinking, distinct from intelligence.
 
-**Cacioppo, Petty, Feinstein, and Jarvis (1996)** conducted a meta-analysis confirming NFC as a dispositional variable independent of cognitive ability.
+**Cacioppo, Petty, Feinstein, and Jarvis (1996)** confirmed in a meta-analysis that NFC is a stable disposition distinct from cognitive ability.
 
-**Epstein, Pacini, Denes-Raj, and Heier (1996)** developed the Rational-Experiential Inventory and found two orthogonal factors: NFC (rational) and Faith in Intuition (experiential). The correlation between them is r = .08 — practically zero. A person can be high in both or low in both.
+**Epstein, Pacini, Denes-Raj, and Heier (1996)** developed the Rational-Experiential Inventory and found it factor-analyzes into two orthogonal factors: NFC and Faith in Intuition (r = .08). This orthogonality is the central structural fact of the MMA and the reason the two scales are reported independently rather than collapsed into a bipolar axis.
 
-**Frederick (2005)** created the Cognitive Reflection Test, a three-item behavioral measure of the ability to override intuitive wrong answers with reflective correct ones. CRT predicts decision-making biases above IQ and is related to but distinct from NFC.
+**Frederick (2005)** developed the Cognitive Reflection Test, three problems with intuitive wrong answers that require deliberate override. CRT scores predict decision-making biases above IQ, and the test cannot be self-reported. This is the anchor for the behavioral override component.
 
-**Stanovich and West (2000)** established the individual-differences-in-reasoning framework: thinking dispositions predict reasoning performance above and beyond cognitive ability. Introduced the dual-process model (System 1 vs. System 2) and the concept of cognitive decontextualization.
+**Stanovich and West (2000)** established that thinking dispositions predict reasoning performance above cognitive ability and introduced the dual-process framework (System 1 vs System 2) that links NFC (engaging System 2) to the CRT (using System 2 to check System 1).
 
-**Riding (1997)** reviewed the Cognitive Styles Analysis, confirming the Wholist-Analytic dimension is independent of intelligence (r ≈ 0.00–0.04) and personality. Riding assessed it behaviorally via reaction-time tasks and explicitly criticized self-report measures for cognitive style.
+**Stanovich and West (1997)** developed Actively Open-Minded Thinking, a composite that overlaps substantially with Big Five Openness. Used as profile texture, not a structural axis.
 
-**Nisbett, Peng, Choi, and Norenzayan (2001)** provided cross-cultural validation of the holistic/analytic distinction, confirming the parts/wholes divide as a genuine, stable cognitive dimension across cultures.
+Other sources were reviewed and rejected. Riding's (1997) Wholist-Analytic cognitive style was rejected because it is validated behaviorally and Riding explicitly rejected self-report for cognitive style. The Allinson-Hayes (1996) self-report Cognitive Style Index is cited by Riding as a validated alternative but is deferred pending full-text verification.
 
-**Stanovich and West (1997)** developed the Actively Open-Minded Thinking composite (α = .88), confirming that individual differences in cognitive processing exist above ability. AOT overlaps substantially with Big Five Openness and is used for profile shading, not as a structural axis.
-
-Other sources (Sternberg, Sowden) contribute vocabulary to the result profiles but are not structural anchors and are flagged as unverified against full-text.
-
-Gosling, Rentfrow, and Swann (2003), Chang (1994), Spearman-Brown, Sun, Schmidt, and Henry (2025), McCrae and Costa (1989), and Schulte et al. (2020) ground the response-format decisions, inherited from Test 1.
+Response-format sources (Chang, 1994; Gosling and colleagues, 2003; Spearman-Brown; Sun, Schmidt, & Henry, 2025; McCrae & Costa, 1989; Schulte and colleagues, 2020) ground the format decisions, with point counts following the source instrument.
 
 ---
 
 ## The test in practice
 
-The MMA takes about 8 to 10 minutes (32 items) or 4 to 5 minutes (16-item short form). Results are immediate: your mode, your phase within that mode, your prototypicality, and your facet signature. The short form places you reliably in a mode, but facet-level detail is rougher — four items per facet lands in the .60–.70 alpha band, which is stated on the result screen.
+The MMA takes about 5 to 7 minutes for the standard form (16 self-report + 5 behavioral) or 3 to 4 minutes for the short form. Results are immediate: your mode, your two scale scores, your override rate, and your narrative. The short form places you reliably in a mode, but the self-report scale detail is rougher (4 items per scale).
 
-The test is designed for reflective self-discovery. It is not a clinical instrument. It cannot diagnose anything. It should not be used for hiring, employment, or any high-stakes real-world application. A short disclaimer stating this accompanies every result.
+The test is designed for reflective self-discovery. It is not a clinical instrument. It cannot diagnose anything. It does not assess IQ, aptitude, or competence. It does not make claims about learning styles or instructional consequences. It should not be used for hiring, employment, or performance decisions. A short disclaimer accompanies every result.
 
-A domain-specific honesty note applies: cognitive processes are often unconscious, and self-report is a weaker measurement format here than for the affective constructs in Test 1. Riding (1997) and Frederick (2005) both use behavioral assessments for this reason. The MMA uses self-report because the validated instruments exist (NFC, REI) and a behavioral test is impractical in a game context, but the measurement error is genuinely higher than for Test 1. This tradeoff is stated explicitly.
+Four limitations deserve explicit mention.
 
-The MMA has not been validated through factor analysis, test-retest reliability assessment, or convergent and discriminant validity studies. Its scores have no population norms. A companion simulation script verifies scoring-engine self-consistency against synthetic respondents, but this is not validation — synthetic respondents have no psychology.
+First, the test measures the affirming range of cognitive engagement only. The Operator quadrant in particular is framed as pragmatic and action-oriented, and the test cannot detect cognitive disengagement that may warrant attention. This is the binding scope limit of the suite, stated at framework level.
+
+Second, self-report is a compromise even for the introspectable cognitive-engagement scales. NFC and FI carry more measurement error than self-reports of felt states. The behavioral CRT component mitigates this for the override signal specifically.
+
+Third, the behavioral CRT has a prior-exposure problem. The canonical items are public; a user who has seen them gets them right for the wrong reason. A launch item bank must account for this.
+
+Fourth, NFC overlaps with Big Five Openness-to-Ideas, and FI's low pole overlaps with low Conscientiousness-diligence. The cross-suite overlap is real and stated, not eliminable.
+
+The MMA has not been validated through factor analysis, test-retest reliability assessment, or convergent and discriminant validity studies. Its scores have no population norms.
 
 ---
 
 ## References
 
-Cacioppo, J. T., & Petty, R. E. (1982). The need for cognition. *Journal of Personality and Social Psychology,* 42(1), 116–131.
+Cacioppo, J. T., & Petty, R. E. (1982). The need for cognition. *Journal of Personality and Social Psychology, 42*(1), 116–131.
 
-Cacioppo, J. T., Petty, R. E., Feinstein, J., & Jarvis, W. (1996). Dispositional differences in cognitive motivation: The life and times of individuals varying in need for cognition. *Psychological Bulletin,* 119, 197–253.
+Cacioppo, J. T., Petty, R. E., Feinstein, J. A., & Jarvis, W. B. G. (1996). Dispositional differences in cognitive motivation: The life and times of individuals varying in need for cognition. *Psychological Bulletin, 119*(2), 197–253.
 
-Chang, L. (1994). A psychometric evaluation of 4-point and 6-point Likert-type scales in relation to reliability and validity. *Applied Psychological Measurement,* 18(3), 205–215.
+Chang, L. (1994). A psychometric evaluation of 4-point and 6-point Likert-type scales in relation to reliability and validity. *Applied Psychological Measurement, 18*(3), 205–215.
 
-Epstein, S., Pacini, R., Denes-Raj, V., & Heier, H. (1996). Individual differences in intuitive-experiential and analytical-rational thinking styles. *Journal of Personality and Social Psychology,* 71(2), 390–405.
+Epstein, S., Pacini, R., Denes-Raj, V., & Heier, H. (1996). Individual differences in intuitive-experiential and analytical-rational thinking styles. *Journal of Personality and Social Psychology, 71*(2), 390–405.
 
-Frederick, S. (2005). Cognitive reflection and decision making. *Journal of Economic Perspectives,* 19(4), 25–42.
+Frederick, S. (2005). Cognitive reflection and decision making. *Journal of Economic Perspectives, 19*(4), 25–42.
 
-Gosling, S. D., Rentfrow, P. J., & Swann, W. B. (2003). A very brief measure of the Big-Five personality domains. *Journal of Research in Personality,* 37(6), 504–528.
+Gosling, S. D., Rentfrow, P. J., & Swann, W. B. (2003). A very brief measure of the Big-Five personality domains. *Journal of Research in Personality, 37*(6), 504–528.
 
-McCrae, R. R., & Costa, P. T. (1989). Reinterpreting the Myers-Briggs Type Indicator from the perspective of the five-factor model of personality. *Journal of Personality,* 57(1), 17–40.
+McCrae, R. R., & Costa, P. T. (1989). Reinterpreting the Myers-Briggs Type Indicator from the perspective of the five-factor model of personality. *Journal of Personality, 57*(1), 17–40.
 
-Nisbett, R. E., Peng, K., Choi, I., & Norenzayan, A. (2001). Culture and systems of thought: Holistic versus analytic cognition. *Psychological Review,* 108(2), 291–310.
-
-Riding, R. J. (1997). On the nature of cognitive style. *Educational Psychology,* 17(1-2), 29–49.
+Riding, R. (1997). On the nature of cognitive style. *Educational Psychology, 17*(1-2), 29–49. [Reviewed and rejected: behavioral construct, self-report mismatch.]
 
 Schulte, N., Holling, H., & Bürkner, P.-C. (2020). Can high-dimensional questionnaires resolve the ipsativity issue of forced-choice response formats? *Educational and Psychological Measurement.*
 
-Stanovich, K. E., & West, R. F. (1997). Reasoning independently of prior belief and individual differences in actively open-minded thinking. *Journal of Educational Psychology,* 89, 342–357.
+Stanovich, K. E., & West, R. F. (1997). Reasoning independently of prior belief and individual differences in actively open-minded thinking. *Journal of Educational Psychology, 89*(2), 342–357.
 
-Stanovich, K. E., & West, R. F. (2000). Individual differences in reasoning: Implications for the rationality debate? *Behavioral and Brain Sciences,* 23(5), 645–726.
+Stanovich, K. E., & West, R. F. (2000). Individual differences in reasoning: Implications for the rationality debate. *Behavioral and Brain Sciences, 23*(5), 645–726.
 
 Sun, S., Schmidt, K. M., & Henry, T. R. (2025). Don't let your Likert scales grow up to be visual analog scales. arXiv:2502.02846.

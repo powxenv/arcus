@@ -2,6 +2,75 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.22 (2026-06-19): Ground-up suite rewrite — uniform methodology, NON-uniform structure
+
+Why: a full-suite audit found that the locked structural template (two orthogonal axes, four quadrants, one boundary, applied to every test) was construct-native to only one test (SCA, because affect is genuinely circumplex) and was producing documented validity violations in the other three. MMA destroyed Epstein's verified orthogonality (NFC ⊥ Faith-in-Intuition, r = .08) by collapsing two factors into one bipolar axis, then split a unidimensional construct (Riding) into two "facets." PTA composited weakly-related ZTPI factors (Future ↔ Past-Positive r = +.26) into a bipolar axis and exiled the present to a boundary because the template had no place for a third temporal zone. SSA split a unidimensional construct (Campbell SCC) into two "facets" to feed the template. The template was the disease, not the tests.
+
+The v0.22 rewrite keeps the methodology uniform and lets the structure vary. Each axis or factor is now one named validated construct, measured in its native format, with no composites and no designer splits dressed as validated facets.
+
+### What is uniform (the rigor layer)
+
+- One validated construct per axis or factor, sourced and verified against full-text PDF.
+- Measurement format matches construct accessibility: self-report where introspectable, behavioral where not, bipolar only where the construct is genuinely bipolar, unipolar where the source instrument is unipolar.
+- Hybrid dimensional-plus-type reporting; types never asserted where the construct has no validated typology.
+- Affirming scope limit (§3 of 00) stated once as a binding framework constraint with per-test validity costs.
+- Honest ceiling (no pilot data → no empirical weighting, latent-profile typing, norms, or adaptive testing).
+
+### What now varies (the structure layer)
+
+- SCA: 2-axis circumplex (native to affect). Unchanged.
+- MMA: 2 independent self-report scales (NFC, FI, verified orthogonal) + 1 behavioral CRT component. 4 quadrant types + Generalist boundary. Rebuilt.
+- SSA: 2-axis plane (native to identity clarity × authenticity). Unchanged structurally; facet framing corrected.
+- PTA: 3 independent factors (Past-Positive, Present-eudaimonic, Future). 8 temporal types. Rebuilt.
+
+### Per-test changes
+
+**Test 1 (SCA).** Structure unchanged. Honesty tightened: SCA is a Russell-plus-Gray hybrid, not the literal Russell circumplex; Axis B composites Carver-White's four unipolar BIS/BAS subscales into a bipolar approach-withdrawal axis (designer composite of validated unipolar subscales, stated). Build and sim retained (structure unchanged).
+
+**Test 2 (MMA).** Redesigned. Dropped the Riding D1/D2 axis (self-report on a behavioral construct, against Riding's own measurement argument). Restored Epstein's verified orthogonality: NFC and FI are now two independent self-report scales, not a collapsed bipolar. Added a behavioral CRT component (Frederick 2005) for the override signal self-report cannot capture. New quadrant types: Integrator (hi-hi), Logician (hi-lo), Reader (lo-hi), Operator (lo-lo), plus the Generalist boundary. Old Algorithm/Cipher/Gestalt/Architecture and Halting Point superseded. Format: 5-pt unipolar agree-disagree (NFC and FI native) + behavioral. Old build and sim deleted (implemented v0.3 framework); rebuild pending.
+
+**Test 3 (SSA).** Structure unchanged. Facet framing corrected: Campbell's SCC is unidimensional, so A1/A2 are content-sampling bins retained for facet-tension detection, not validated sub-factors. Same correction for B1/B2. Same data model, honest framing. Build and sim retained (structure unchanged).
+
+**Test 4 (PTA).** Redesigned. Dropped the ZTPI-composite axis (composited weakly-related factors and excluded the affirming-half predictive variance). Dropped the self-continuity axis (its past-self extension collided item-for-item with SSA's Self-Consistency). Dropped the Narrative Coherence designer facet (self-report adaptation of interview-coded constructs). Dropped the fullness-tension logic. New structure: three independent factors (Past-Positive from ZTPI + Webster; Present-eudaimonic from Vowinckel; Future from ZTPI + Future-Positive per Stolarski-Matthews), each a single verified construct in native 5-pt unipolar format. Eight temporal types: Keeper (Past), Witness (Present), Wayfinder (Future), Hearth (Past+Present), Bridge (Past+Future), Flow (Present+Future), Balanced Time Perspective (all three), Wanderer (none). Old Archivist/Navigator/Storyteller/Pioneer and Horizon superseded. Present-focus is now a first-class result, not an exile. Old build and sim deleted (implemented v0.21 framework); rebuild pending.
+
+### Framework (00) rewrite
+
+Ground-up rewrite around uniform-methodology-non-uniform-structure. New §3 elevates the affirming scope limit to a single binding framework constraint with stated validity costs (replaces scattered honesty notes). New §9 shared-variance map replaces the false "four non-overlapping domains" claim: Conscientiousness appears in three tests (MMA, SSA, PTA); the SSA↔PTA identity-stability collision is gone; Agreeableness is largely unmeasured (stated gap). New §10 synthesis: narrative integration + shared-variance map, not the unbuildable 8-dimensional radar. New §2.5 explicitly defers constructs not full-text-verified (Allinson-Hayes CSI, Kirton KAI, behavioral temporal discounting, Showers card-sort) so the framework never builds on unverified sources.
+
+### Deferred and out-of-scope (stated, not hidden)
+
+- Allinson-Hayes Cognitive Style Index (1996) as an MMA axis. Cited in Riding, not full-text verified. Deferred.
+- Kirton Adaptor-Innovator. Not verified. Deferred.
+- Behavioral temporal-discounting task for PTA. Construct real, no specific validated instrument full-text-reviewed. Deferred.
+- Showers self-structure card-sort for SSA. Verified and implementable, adds build complexity and a different measurement paradigm. Deferred.
+
+These deferrals are the discipline that distinguishes this framework from the false-authority approach it rejects.
+
+### Documents updated
+
+- `00-suite-framework.md`: full rewrite (v0.22).
+- `01-solstice-cycle-assessment.md`: v0.22 status + BIS/BAS honesty note added.
+- `02-modes-of-mind-assessment.md`: full rewrite for independent NFC/FI + behavioral CRT (v0.22).
+- `02b-modes-result-profiles.md`: full rewrite for 4 REI quadrants + Generalist (v0.22).
+- `03-spectrum-of-self-assessment.md`: v0.22 status + A1/A2 and B1/B2 reframed as content-sampling bins.
+- `04-passage-of-time-assessment.md`: full rewrite for 3 factors + 8 types (v0.22).
+- `04b-ptoa-result-profiles.md`: full rewrite for 8 temporal types (v0.22).
+- `MMA-research-paper.md`: full rewrite (v0.22).
+- `PTA-research-paper.md`: full rewrite (v0.22).
+- `SCA-research-paper.md`: v0.22 honesty points added to limitations.
+- `SSA-research-paper.md`: v0.22 content-bin reframe added to limitations.
+
+### Code
+
+- Deleted: `mma-debug.html`, `mma-simulate.ts`, `mma-sim-results.csv`, `mma-sim-results-16.csv` (implemented v0.3 MMA; superseded).
+- Deleted: `ptoa-debug.html`, `ptoa-simulate.ts`, `ptoa-sim-results.csv`, `ptoa-sim-results-16.csv` (implemented v0.21 PTA; superseded).
+- Retained: `sca-debug.html`, `sca-simulate.ts`, `ssa-debug.html`, `ssa-simulate.ts` (SCA and SSA structures unchanged in v0.22).
+- Rebuild pending: MMA build/sim and PTA build/sim against v0.22.
+
+### Documents NOT updated this pass (flagged for follow-up)
+
+- `01b-solstice-result-profiles.md` and `03b-ssa-result-profiles.md`: profile content unchanged in v0.22 (no structural change to SCA or SSA). Light review for any v0.22-honesty phrasing in their facet-reporting sections would be a polish pass, not a required update.
+
 ## v0.21 (2026-06-19): Test 4 — Passage of Time Assessment (PTA) design based on full-text time/temporality literature
 
 Why: build the Passage-of-Time-themed test from first principles, grounded in full-text reviewed papers rather than the prior proposal's assumptions. Sixteen time/temporality PDFs were reviewed, the proposal's Axis 2 (mono/polychronic) was rejected on construct grounds, and the framework was rebuilt around the two constructs the evidence actually supports.

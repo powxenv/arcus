@@ -1,442 +1,308 @@
 # MMA Result Profiles
 
 > Companion to `02-modes-of-mind-assessment.md`.
-> Full-depth profiles for each MMA result, using the same 14-section schema as Test 1 so the two tests are directly comparable.
-> These are the deterministic fallback narratives. The Gemini layer enriches the Archetype and Halting Point sections from the player's answer pattern. It never overrides the structured sections, which keep results consistent and shareable.
-> Honesty note: profiles describe tendencies associated with a combination of two measured cognitive dimensions, processing mode and encoding structure. They are affirming, non-clinical, and avoid deficit framing. Every intuitive result is described as fluency and speed, never laziness or error.
+> Profiles for the four MMA quadrant types plus The Generalist boundary, using an 11-section schema adapted to the two-independent-scale structure (NFC × FI, verified orthogonal). The behavioral override component is reported alongside each type as a profile modifier, not a separate type.
+> These are the deterministic fallback narratives. The Gemini layer enriches the Archetype and Reflection sections from the player's answer pattern. It never overrides the structured sections.
+> Honesty note: profiles describe tendencies associated with a pattern of cognitive engagement. They are affirming, non-clinical, and avoid deficit framing. The affirming scope limit (00 §3) applies: the Operator quadrant, in particular, is framed as pragmatic and action-oriented and cannot detect cognitive disengagement that may warrant attention.
 
 ---
 
 ## Canonical schema (every type)
 
-1. **Essence.** One-line core plus the two axis scores.
+1. **Essence.** One-line core plus the two scale scores and override rate.
 2. **The Archetype.** Two short narrative paragraphs.
-3. **Core Motivations.** What drives this mode.
-4. **Behavioral Patterns.** Observable tendencies.
-5. **Strengths.**
-6. **Blind Spots.** Honest, non-shaming.
-7. **Growth Edges.** Specific development.
-8. **In Relationships.** What they offer, need, and risk.
-9. **Work Style.** Ideal conditions, contributions, pitfalls.
-10. **Decision-Making.** Tendencies and traps.
-11. **Under Stress.** Stress signature and recovery.
-12. **Communication.** Style and growth.
-13. **The Complementary Mode.** The opposite quadrant they can learn from.
-14. **Your Halting Line.** The poetic closing line, Turing-flavored. AI-personalized in-game.
+3. **Core Engagement.** How this mode thinks.
+4. **Strengths.**
+5. **Blind Spots.** Honest, non-shaming.
+6. **Growth Edges.**
+7. **In Relationships.** What they offer, need, and risk.
+8. **Work Style.** Ideal conditions and pitfalls.
+9. **Under Stress.** Stress signature and recovery.
+10. **The Counterweight Type.** The opposite quadrant, as a learning edge.
+11. **Your Reflection.** The poetic closing line.
 
-Note: "The Halting Point" is the name of the boundary condition (near-center result). Each mode's section 14 is called "Your Halting Line" to avoid confusing the poetic closing with the boundary result.
+The **override rate** (Component 3) modulates each type: "high override" means the type checks its intuitions rigorously; "low override" means it tends to trust first conclusions. This is reported as a modifier on the type, not a separate type.
 
 ---
 
-## ⚙️ The Algorithm  (Sequential + Deliberate)
+## 🧬 The Integrator  (NFC high + FI high)
 
-**Essence.** Formal, exact, stepwise. You think in proofs and procedures.
+**Essence.** You engage both reasoning and intuition richly, and you trust both. You think hard and you listen to your gut, and you do not see these as enemies.
 
 ### The Archetype
-You build your thinking from the ground up, one verified step at a time. Where others guess and check, you derive. Your mind runs like a well-formed algorithm: deterministic, transparent, each operation justified by the one before it. You trust what you can show, and you can usually show it.
 
-This is the mode Turing himself formalized. The Turing Machine is the purest expression of your kind of mind: a sequence of exact operations on a tape, halting only when the answer is proven. Your gift is rigor. You are the person who can be trusted with the load-bearing logic, because you do not skip steps and you do not hand-wave.
+You live in both modes at once. You enjoy thinking hard, working through a difficult idea, sitting with a complex problem until it yields, and you also trust your gut, your first impressions, the part of you that just knows without needing reasons. Where others treat rational and experiential as opposite teams, you field both.
 
-### Core Motivations
-- To get it right, not just done.
-- To make your reasoning explicit and inspectable.
-- To find the exact procedure that solves the problem.
-- To eliminate ambiguity through structure.
+This is the rarest and most cognitively flexible of the modes. The verified orthogonality of NFC and FI (Epstein 1996, r = .08) is exactly what makes this possible: you can be high in both because they are independent, not opposed. Your risk is not that you lack a mode, but that you have too many and must choose between them under pressure. Integration is a practice, not a default.
 
-### Behavioral Patterns
-- You work in ordered stages and dislike skipping ahead.
-- You verify before you trust.
-- You prefer formal methods (proofs, specs, checklists, test suites).
-- You can explain your reasoning on demand, in order.
-- You slow down under uncertainty rather than guessing.
+### Core Engagement
+- Both deliberate reasoning and intuitive reading, in dialogue.
+- Holding analysis and gut as partners, not rivals.
+- Switching modes as the problem demands.
 
 ### Strengths
-- Rigor and correctness. Your work holds up under inspection.
-- Reproducibility. Others can follow and retrace your path.
-- Strong at formal reasoning, deduction, and verification.
-- Reliability on load-bearing tasks where errors are costly.
-- The ability to find the bug, because you do not assume.
+- Cognitive range. You can meet analytic and intuitive problems both.
+- Flexibility under complexity.
+- The ability to articulate gut feelings in reasoned terms (and to check reasoning against gut).
+- Comfort with ambiguity and paradox.
 
 ### Blind Spots
-- Over-engineering. Building the perfect procedure when a fast answer would do.
-- Getting stuck before you start, waiting for full specifications.
-- Undervaluing intuition that you cannot yet justify.
-- Impatience with people who leap to answers they cannot defend.
-- Missing the forest because the trees each need checking.
+- Decision paralysis when both modes point different ways and you cannot tell which to trust.
+- Over-confidence in integration; sometimes one mode really is wrong.
+- Others may find you hard to predict, because you shift modes fluidly.
 
 ### Growth Edges
-- Ship before it is proven perfect. Iterate in the world.
-- Treat strong intuition as a hypothesis worth testing, not as noise.
-- Learn to estimate when rigor is unaffordable.
-- Practice trusting a partial answer long enough to act on it.
+- Learn when to let one mode lead. Integration does not mean always using both.
+- Meet The Operator's decisiveness. Sometimes acting is better than integrating.
 
 ### In Relationships
-- You offer reliability, honesty, and clear reasoning. People know where they stand with you.
-- You may frustrate partners who want faster, warmer responses.
-- You need people who respect your need to think things through.
-- Growth: not every feeling needs a justification before it counts.
+- You offer cognitive range and the ability to meet people in whatever mode they think in.
+- You may over-explain or over-intuit, depending on your audience.
+- Growth: name which mode a conversation needs, and lead with it.
 
 ### Work Style
-- Thrive in roles requiring formal rigor: engineering, science, law, finance, verification.
-- You shine at architecture, code review, proof, audit, and any task where correctness is the product.
-- Risk: analysis paralysis. Perfectionism as procrastination.
-- Ideal: environments that reward correctness and protect deep-focus time.
-
-### Decision-Making
-- Deliberate, sequential, evidence-led.
-- You decide once the case is proven.
-- Risk: deciding too slowly for time-sensitive contexts.
-- Strength: your decisions rarely need to be walked back.
+- Thrive in integrative roles: research, strategy, design, therapy, any work bridging analysis and intuition.
+- Risk: spending effort on integration when one mode would suffice.
+- Ideal: environments that value cognitive range.
 
 ### Under Stress
-- Signature: loop the procedure. Re-check, re-verify, escalate rigor.
-- You may freeze when the inputs are ambiguous.
-- Recovery: name what you actually know versus what you assume. Then act on the delta.
-- Watch: refusing to ship because certainty is unreachable.
+- Signature: run both modes harder. Analyze more, intuit more, try to integrate under pressure.
+- Risk: paralysis between modes.
+- Recovery: pick one mode for the immediate problem; integrate later.
 
-### Communication
-- Precise, structured, often written better than spoken.
-- You lay out your case in order and invite inspection.
-- Growth: lead with the conclusion, then the proof. Not everyone wants the derivation first.
-- Your precision is a gift. Use it to clarify, not to intimidate.
+### The Counterweight Type: ⚙️ The Operator
+Your wholeness lives in decisive action. The Operator's low-dwelling pragmatism is the decisiveness your integration sometimes needs. Both-modes-on can stall; the Operator shows you that acting well does not always require thinking it through first.
 
-### The Complementary Mode: 🔮 The Gestalt
-Your wholeness lives in the part of thinking you tend to skip. The Gestalt's ability to see the whole form before the parts are named. Rigor without intuition is slow. Intuition is the shortcut your procedures are trying to formalize.
-
-### Your Halting Line
-"You are the mind that halts only when the answer is proven. Your freedom is learning that some truths arrive whole, before the proof, and are still true."
+### Your Reflection
+"You are the one who thinks hard and trusts your gut, for whom the two modes are partners. Your gift is range, and your growth is knowing when to let one mode lead."
 
 ---
 
-## 🕸️ The Cipher  (Sequential + Intuitive)
+## 🔬 The Logician  (NFC high + FI low)
 
-**Essence.** Pattern-fluent. You read sequences and signatures by feel, fast.
+**Essence.** You think deliberately and you distrust gut feelings. Reasoning is your native mode, and you would rather work something out than feel your way to it.
 
 ### The Archetype
-You move through information in order, but you do not deliberate over each piece. You read it. Patterns resolve themselves in your hands the way a cipher yields to a practiced cryptanalyst. You see the next move before you can explain why it is right, and you are usually right.
 
-This is the mode Turing called on at Bletchley Park. The Bombe was a machine, but the breakthroughs belonged to minds that could hold a sequence of characters and frequencies and feel where the pattern broke. Your gift is fluency. Where The Algorithm derives, you recognize. You are fast on problems others would grind through.
+You live in deliberate thought. Complex problems are satisfying to you, not draining. You work through ideas step by step, you check your conclusions, and you are suspicious of answers that arrive without reasons. Gut feelings, for you, are data to be interrogated, not authorities to be trusted.
 
-### Core Motivations
-- To read the pattern, not prove it.
-- To move quickly through sequences and signals.
-- To trust the fluency you have earned through exposure.
-- To find the break in the code.
+This is a powerful mode for anything that rewards rigor: proof, analysis, design, verification. The risk is that you mistake reasoning for the whole of cognition. Some knowledge is genuinely pre-verbal, and some problems yield to intuition faster than to analysis. A Logician who is healthy reasons well and knows where reasoning stops.
 
-### Behavioral Patterns
-- You make fast calls on patterns others miss.
-- You work sequentially but skip the explicit justification.
-- You are strongest in domains you have deep exposure to.
-- You can show your work after the fact, but not always in the moment.
-- You get hunches about what is off, and you are often correct.
+### Core Engagement
+- Deliberate, effortful, structured thinking.
+- Verification and checking.
+- Suspicion of unexamined intuition.
 
 ### Strengths
-- Speed and pattern recognition in familiar domains.
-- Diagnostic fluency. You sense what is wrong before you can name it.
-- Efficiency. You do not re-derive what you already recognize.
-- Practical intelligence. You ship answers that work.
-- The ability to operate where formal methods are too slow.
+- Rigor and depth of analysis.
+- Resistance to cognitive bias (especially when override is high).
+- The ability to follow a long chain of reasoning to a defensible conclusion.
+- Trustworthiness on analytic tasks.
 
 ### Blind Spots
-- Hard to teach, because your method is recognition, not procedure.
-- Over-trusting fluency in domains where it has not been earned.
-- Struggling to justify a call when challenged, even when it is right.
-- Missing rare cases where the pattern is genuinely misleading.
-- Impatience with people who need the derivation.
+- Distrusting gut that is actually right; over-ruling valid intuition.
+- Analysis paralysis; thinking past the point of decision.
+- Missing pattern-level signals that intuition catches faster.
+- Others may find you slow, cold, or overly skeptical.
 
 ### Growth Edges
-- Build the vocabulary to explain your recognition, not just perform it.
-- Calibrate confidence to actual exposure. Fluency is domain-specific.
-- When stakes are high, slow down and verify the hunch.
-- Respect the people who need your reasoning, not just your answer.
+- Learn when to trust a gut you cannot yet justify.
+- Meet The Reader's intuitive fluency. Not every answer needs a derivation.
 
 ### In Relationships
-- You offer quick reads, good instincts, and responsiveness.
-- You may frustrate partners who need reasons, not just calls.
-- You need people who trust your pattern sense without always demanding proof.
-- Growth: learn to say how you know, not just what you know.
+- You offer clarity, fairness, and well-reasoned positions.
+- You may under-attune to emotional and intuitive signals.
+- Growth: let some things be felt before they are understood.
 
 ### Work Style
-- Thrive in domains requiring fast pattern work: debugging, diagnostics, trading, investigation, design critique.
-- You shine where experience compounds into instinct.
-- Risk: reaching for a familiar pattern that does not actually fit.
-- Ideal: high-trust environments that value speed and calibrated instinct.
-
-### Decision-Making
-- Fast, pattern-based, often correct in familiar territory.
-- You decide by recognition.
-- Risk: applying a learned pattern to a superficially similar but different problem.
-- Strength: you free up cognitive budget that others spend on derivation.
+- Thrive in analytic roles: science, engineering, law, mathematics, philosophy, formal verification.
+- Risk: analysis paralysis; over-engineering.
+- Ideal: environments that reward depth and rigor.
 
 ### Under Stress
-- Signature: reach for the strongest pattern you know and commit to it.
-- You may double down on a hunch when challenged.
-- Recovery: slow down, surface the recognition, test it against one counter-example.
-- Watch: confidence outrunning competence in unfamiliar terrain.
+- Signature: analyze harder. Gather more data, run more checks, distrust faster answers.
+- Risk: paralysis and exhaustion.
+- Recovery: set a decision deadline; commit to acting on current best reasoning.
 
-### Communication
-- Direct, confident, often decisive in few words.
-- You give the answer and move on.
-- Growth: include the why. People follow calls they can retrace.
-- Your speed is a gift. Pair it with a sentence of reasoning and it becomes leadership.
+### The Counterweight Type: 🎯 The Reader
+Your wholeness lives in intuition. The Reader's pattern-fluency is the speed your rigor sometimes needs. Reasoning without intuition can be slow and brittle; the Reader shows you that some answers arrive whole, and that trusting them is not a failure of thought.
 
-### The Complementary Mode: 🏗️ The Architecture
-Your wholeness lives in the part of thinking you tend to skip. The Architecture's ability to design the whole system on purpose, not just read it by feel. Fluency without structure is brittle at scale. Structure is what lets your pattern sense survive new domains.
-
-### Your Halting Line
-"You are the mind that reads the code before the proof exists. Your gift is fluency, and your growth is learning to teach what only you can see."
+### Your Reflection
+"You are the one who thinks deliberately and distrusts the unexamined gut, for whom reasoning is native. Your gift is rigor, and your growth is knowing where reasoning stops and intuition begins."
 
 ---
 
-## 🔮 The Gestalt  (Holistic + Intuitive)
+## 🎯 The Reader  (NFC low + FI high)
 
-**Essence.** You see wholes and emergent forms before anyone has named the parts.
+**Essence.** You are pattern-fluent and intuitive. You read situations, people, and problems fast, by feel, and you trust what you sense.
 
 ### The Archetype
-You take in the whole before the parts register. A situation, a room, a problem, a person: you grasp the shape of it immediately, and the shape is usually right. You do not assemble understanding piece by piece. You receive it whole, and only later, if pressed, do you work backward into the components.
 
-This is the mode Turing reached for in his last great work, on morphogenesis. He wanted to understand how patterns emerge in nature, how a whole form arises from interacting parts without anyone designing it. Your gift is exactly that: perceiving emergence. You see the form others are still trying to build toward, and you see it before it can be explained.
+You read the world. Patterns, signals, the shape of a situation, the feel of a person, all of it registers in you quickly and largely without effortful analysis. You trust this. You make decisions on gut, you sense things you cannot put into words, and you are usually right.
 
-### Core Motivations
-- To perceive the whole, the form, the field.
-- To trust what is seen before it is named.
-- To sense emergence, how parts become a new whole.
-- To work from meaning rather than mechanism.
+This is not laziness or anti-intellect. It is a genuine cognitive mode, validated (Epstein 1996) and independent of how much you enjoy deliberate thinking. The risk is the inverse of the Logician's: you may trust a gut that is wrong, especially on problems that look intuitive but are not. A Reader who is healthy trusts the gut and knows when to slow down and check.
 
-### Behavioral Patterns
-- You size up situations instantly and accurately.
-- You skip the build-up and start from the form.
-- You are good with ambiguity, because form tolerates it.
-- You struggle to produce ordered step-by-step explanations.
-- You often know the answer and the feeling of the answer before the words.
+### Core Engagement
+- Fast, pattern-based, largely automatic processing.
+- Trust in felt sense and first impressions.
+- Reading people, situations, and problems by feel.
 
 ### Strengths
-- Rapid, accurate whole-field perception.
-- Comfort with ambiguity, paradox, and unfinished forms.
-- Strong aesthetic and structural intuition.
-- The ability to see what is emerging before others do.
-- Creative synthesis across unrelated domains.
+- Speed. You arrive at answers faster than analysis allows.
+- Pattern recognition across people, markets, situations, designs.
+- Social and emotional attunement.
+- The ability to act on partial information.
 
 ### Blind Spots
-- Hard to explain, because the form came before the parts.
-- Dismissing valid sequential procedures as missing the point.
-- Leaping to the whole when the parts actually matter here.
-- Underestimating the work of verification.
-- Frustrating people who need decomposition to trust you.
+- Trusting gut on problems that look intuitive but require analysis.
+- Difficulty justifying or explaining your conclusions to others.
+- Discounting deliberate thinking as slow or unnecessary.
+- Others may find your conclusions untraceable.
 
 ### Growth Edges
-- Learn to decompose your perception into checkable parts.
-- Treat the whole as a hypothesis, not a verdict, when stakes are high.
-- Respect the people who need the steps. They are not missing your point, they are building it.
-- Develop the patience to verify what you already see.
+- Learn when to slow down and check, even when the gut feels certain.
+- Meet The Logician's rigor. Some intuitions need to be interrogated.
 
 ### In Relationships
-- You offer insight, presence, and the feeling of being truly seen.
-- You may overwhelm people with conclusions they cannot follow.
-- You need people who can hold space for your pre-verbal knowing.
-- Growth: translate the form into words the other person can enter.
+- You offer attunement, speed, and the sense of being read.
+- You may jump to conclusions about people without checking.
+- Growth: articulate what you sense, so others can follow.
 
 ### Work Style
-- Thrive in domains requiring whole-field perception: design, strategy, therapy, art, research, forecasting.
-- You shine at spotting the pattern no one else sees yet.
-- Risk: ungrounded leaps. Brilliant direction, weak execution.
-- Ideal: paired with someone who can decompose and verify your vision.
-
-### Decision-Making
-- Holistic, intuitive, often correct on the gestalt level.
-- You decide by perception of the whole.
-- Risk: missing a critical detail that breaks the form.
-- Strength: you decide well under ambiguity where others freeze.
+- Thrive in roles rewarding pattern-fluency: clinical intuition, trading, design, negotiation, performance, any work reading people or situations.
+- Risk: errors on problems that masquerade as intuitive.
+- Ideal: environments that value fast, attuned judgment.
 
 ### Under Stress
-- Signature: grip tighter on the whole. Trust the perception harder.
-- You may become opaque, certain without being able to show why.
-- Recovery: write or sketch the form. Externalize it so it can be inspected.
-- Watch: mistaking a strong perception for a verified one.
+- Signature: read faster, trust harder. Lean more on gut under pressure.
+- Risk: confident errors on non-intuitive problems.
+- Recovery: pick one conclusion and deliberately check it before acting.
 
-### Communication
-- Metaphoric, image-rich, often nonlinear.
-- You convey the shape of things beautifully.
-- Growth: include the path into the form, not just the form itself.
-- Your perception is a gift. Make it transferable and it becomes influence.
+### The Counterweight Type: 🔬 The Logician
+Your wholeness lives in rigor. The Logician's deliberate checking is the brake your speed sometimes needs. Intuition without verification can be confidently wrong; the Logician shows you that trusting the gut and checking it are not opposites, but partners.
 
-### The Complementary Mode: ⚙️ The Algorithm
-Your wholeness lives in the part of thinking you tend to skip. The Algorithm's ability to verify, step by step, what you already see. Perception without verification is fragile. Rigor is how your insights survive contact with skepticism.
-
-### Your Halting Line
-"You are the mind that sees the form before the parts are named. Your gift is emergence, and your growth is learning to build the bridge back, so others can arrive where you already are."
+### Your Reflection
+"You are the one who reads the world fast and trusts what you sense, for whom intuition is native. Your gift is pattern-fluency, and your growth is knowing when to slow down and check."
 
 ---
 
-## 🏗️ The Architecture  (Holistic + Deliberate)
+## ⚙️ The Operator  (NFC low + FI low)
 
-**Essence.** Systems-level, structured. You design and reason about whole systems on purpose.
+**Essence.** You act over reflection. Neither deliberate analysis nor gut feeling dominates your mode; you move on what is in front of you and what needs doing.
 
 ### The Archetype
-You think in systems, and you do it deliberately. Where The Gestalt perceives a whole by intuition, you construct one through considered design. You hold the entire architecture in mind, understand how the parts interact, and reason about the whole with rigor. You are the person who can explain not just how a system works, but why it is built that way.
 
-This is the mode Turing reached for in designing the ACE, one of the first stored-program computers. The work was not solving one equation. It was designing an entire architecture, reasoning about storage, control, and instruction flow as a coherent system. Your gift is structural intelligence. You do not just live in systems. You understand them, and you can build new ones.
+You are not a dweller. You do not especially enjoy thinking for its own sake, and you do not especially trust gut feelings as a guide. You act. You meet what is in front of you, you do what needs doing, and you move on. Thinking and intuition are tools you pick up when a task requires them, not modes you live in.
 
-### Core Motivations
-- To understand and design coherent wholes.
-- To reason about systems, not just components.
-- To make structure explicit and defensible.
-- To build things that work at scale and hold under load.
+This is a valid and underappreciated cognitive mode. The world needs people who act, who are not paralyzed by analysis or seduced by intuition. The risk, honestly named, is that low engagement with both modes can also reflect disengagement, fatigue, or a context that has stopped rewarding thought. This assessment cannot tell those apart. It frames the surface as pragmatism and flags the underneath.
 
-### Behavioral Patterns
-- You start from the overall structure and reason down.
-- You hold multiple interacting parts in mind at once.
-- You design before you build, and you build to the design.
-- You can explain the why of a system, not just the how.
-- You are deliberate even about large-scale, holistic decisions.
+### Core Engagement
+- Action and doing over reflection.
+- Pragmatic response to what is in front of you.
+- Thinking and intuition as tools, not homes.
 
 ### Strengths
-- Systems thinking with rigor. You see the whole and can defend it.
-- Strong at architecture, design, and long-horizon planning.
-- The ability to reason about trade-offs across an entire system.
-- Building things that scale and endure.
-- Bridging strategy and execution.
+- Decisiveness. You act where others deliberate.
+- Freedom from analysis paralysis and from intuitive over-confidence.
+- Practical adaptability.
+- The ability to get things done without dwelling.
 
 ### Blind Spots
-- Over-designing. Building the system for eventualities that never come.
-- Slow to act because the architecture must be right first.
-- Undervaluing fast, local fixes that do not fit the design.
-- Frustration with people who cannot hold the whole system in mind.
-- Missing emergent behavior your model did not predict.
+- Acting without enough thought on problems that require it.
+- Missing both analytic depth and intuitive signals.
+- The same pattern can reflect genuine pragmatism or genuine disengagement; you and others should not assume which.
 
 ### Growth Edges
-- Ship the good-enough architecture and iterate. Do not optimize before launch.
-- Make room for the empirical, including results that surprise your model.
-- Respect local expertise. The person on the ground sees things the architecture hides.
-- Learn when to stop designing and start building.
+- Notice when a problem is asking for more thought or more intuition than you are giving it.
+- If this mode feels like flatness or disconnection rather than pragmatism, that is worth attending to. This assessment cannot tell, and will not pretend to.
+- Visit the Integrator occasionally. Engagement is a practice you can choose.
 
 ### In Relationships
-- You offer stability, foresight, and the ability to hold the whole picture.
-- You may seem distant or controlling when you are optimizing the system.
-- You need people who can engage with you at the level of design.
-- Growth: hold the system loosely enough to let people surprise it.
+- You offer steadiness, action, and low drama.
+- You may under-attune to both reasoned discussion and felt signals.
+- Growth: name what you are thinking and sensing, even briefly.
 
 ### Work Style
-- Thrive in systems-level roles: architecture, product, urban planning, operations, research programs.
-- You shine at designing coherent wholes and reasoning about trade-offs.
-- Risk: analysis and design cycles that delay shipping.
-- Ideal: environments that value architectural thinking and give you latitude to design.
-
-### Decision-Making
-- Deliberate, holistic, trade-off-aware.
-- You decide by reasoning about the whole system.
-- Risk: deciding too slowly when the system is still being understood.
-- Strength: your decisions tend to be robust across scenarios.
+- Thrive in execution-oriented roles: operations, craft, hands-on work, any role where doing is the deliverable.
+- Risk: errors on problems that required more thought.
+- Ideal: environments that value action and practical judgment.
 
 ### Under Stress
-- Signature: re-architect. Redesign the whole to remove the flaw.
-- You may withdraw into the model, optimizing instead of acting.
-- Recovery: name the smallest decision that can be made now. Make it.
-- Watch: rebuilding the system when a patch would do.
+- Signature: act faster. Meet the immediate, do the next thing.
+- Risk: acting through problems that needed reflection.
+- Recovery: pause once before the next action; ask whether this one needs thought.
 
-### Communication
-- Structured, comprehensive, context-rich.
-- You convey the whole system and the reasoning behind it.
-- Growth: lead with the decision, then the architecture. Not everyone needs the blueprint first.
-- Your structural intelligence is a gift. Use it to empower, not to dominate.
+### The Counterweight Type: 🧬 The Integrator
+Your wholeness lives in engagement. The Integrator's two-mode richness is a picture of what full cognitive participation can look like. You do not have to maximize both modes. But if the operating ever feels like flatness rather than pragmatism, the Integrator is a map of rooms you can choose to enter.
 
-### The Complementary Mode: 🕸️ The Cipher
-Your wholeness lives in the part of thinking you tend to skip. The Cipher's ability to read the system by feel, fast, without designing it first. Architecture without fluency is slow. Fluency is what lets you move inside the systems you design.
+### Your Reflection
+"You are the one who acts over reflection, for whom thought and intuition are tools rather than homes. If that pragmatism is freedom, tend it. If it ever feels like flatness, let someone help you look. Your gift is decisiveness, and your growth is noticing when a moment is asking for more."
 
-### Your Halting Line
-"You are the mind that designs the whole on purpose, and reasons about it with rigor. Your gift is structure, and your growth is knowing when to trust the system that is already alive under your hands."
+---
+
+## The Generalist  (near-center on both scales)
+
+**Essence.** You are genuinely moderate on both cognitive engagement scales. You enjoy thinking when it serves, and you trust your gut when it serves, without strongly preferring either.
+
+### The Archetype
+
+You sit in the middle of both scales. You can think hard when a problem calls for it, and you can trust your gut when it points clearly, but neither mode pulls you strongly. You are not high-engagement in either direction, and you are not low-engagement in either direction. You are moderate.
+
+This is a real pattern, not a non-result. Some people genuinely do not strongly prefer deliberation or intuition, and meet problems with whichever mode the moment seems to call for, without strong native lean. The Generalist's strength is flexibility without strong preference; the risk is that without a strong native mode, you may under-develop both.
+
+### Core Engagement
+- Flexible use of both modes without strong preference.
+- Meeting problems as they come.
+- Moderate engagement on both scales.
+
+### Strengths
+- Flexibility. You can lean either way as needed.
+- Low dogmatism about how to think.
+- Adaptability across cognitive contexts.
+
+### Blind Spots
+- Without a strong native mode, neither mode may be well-developed.
+- Difficulty describing your own cognitive style, because it is not strongly marked.
+- Risk of drift toward whichever mode is loudest in your environment.
+
+### Growth Edges
+- Choose one mode to develop deliberately. Flexibility is good; capability is better.
+- Notice which mode you actually use most, even if neither feels native.
+
+### In Relationships
+- You offer cognitive flexibility and low insistence.
+- You may be hard for others to read cognitively.
+- Growth: name your preferences even when they are soft.
+
+### Work Style
+- Thrive across a wide range; flexibility is broadly adaptive.
+- Risk: under-developed specialization.
+- Ideal: environments that value adaptability.
+
+### Under Stress
+- Signature: meet the problem with whatever seems called for.
+- Risk: drifting to the mode your context rewards, not the mode the problem needs.
+- Recovery: name which mode this problem actually needs, and lead with it.
+
+### Your Reflection
+"You are the one who meets thinking and intuition both, without strong preference for either. Your gift is flexibility, and your growth is developing capability, not just range."
 
 ---
 
 ## How scores modulate these profiles
 
-The base profile above is the quadrant archetype. A player's exact position on the plane modulates it.
-
 | Signal | Meaning | Effect on the profile |
 |---|---|---|
-| Low prototypicality (near center), no facet tension | Genuinely balanced | Report **The Halting Point** boundary (see profile below). Pull one or two lines from each adjacent mode for additional texture. |
-| Low prototypicality (near center), with facet tension | Near center from cancellation, not balance | Same Halting Point boundary, but with the facet-tension modifier narrative. Lead with the facet signature. |
-| Season result, with facet tension on one axis | A mode pulled in two directions internally | Report the mode as normal, then surface the facet-tension modifier as a secondary note led by the facet signature. |
+| High prototypicality (both scales far from 50 in their quadrant direction) | Strongly that type | Report the archetype at full strength. |
+| Near a threshold (a scale within ±5 of 60) | Between types | Surface the dimensional scores and the near-miss. |
+| Override rate high | Checks gut rigorously | Add the "high override" modifier; emphasize verification. |
+| Override rate low | Tends to trust first conclusions | Add the "low override" modifier; emphasize the risk of confident errors. |
+| Near-center on both scales | Generalist | Report The Generalist. |
 
-This is the hybrid dimensional and prototypical structure (Kerber et al. 2021). A memorable type plus honest gradation. The opposite of MBTI's cliff at the midpoint.
-
----
-
-## ⏸️ The Halting Point  (near-center boundary)
-
-**Essence.** The Halting Point. Your responses don't strongly favor any one mode. The name references Turing's Halting Problem: no algorithm can determine in general whether a program will halt, and similarly, your thinking mode resists algorithmic placement. This is not a failure — it is its own position.
-
-### The Archetype
-You sit at the boundary where the four modes meet. You are not strongly Algorithm, Cipher, Gestalt, or Architecture — but you can see what each of them sees. Your mind moves across modes rather than settling into one. This is not a lack of definition. It is flexibility, range, and the ability to deploy different modes as different problems demand.
-
-When facet tension fires on this boundary, the narrative changes: you are not balanced because you are moderate, but because two strong facets pull opposite ways and cancel. Your near-center position is real, but the balance is not. The facet signature, not the mode, tells your story.
-
-### Core Motivations
-- To understand problems from multiple angles without committing prematurely.
-- To remain flexible and responsive rather than settling into one approach.
-- To see the truth in different cognitive modes and move between them.
-- To be accurately placed — not forced into a mode that doesn't fit.
-
-### Behavioral Patterns
-- You shift your thinking approach depending on the problem.
-- Others may find you hard to categorize because your cognitive signals are mixed.
-- You are often the translator between very different thinkers.
-- You can appreciate and deploy intuitive, deliberate, sequential, and holistic approaches.
-
-### Strengths
-- Flexibility and range across cognitive modes.
-- The ability to bridge between different thinking styles.
-- Comfort with ambiguity and resistance to premature closure.
-- Low dogmatism. You do not need to arrive at a single answer to feel satisfied.
-
-### Blind Spots
-- Indecision. Seeing all sides can make it hard to commit to one.
-- Drift. Without a strong pull toward any mode, you may not develop deep expertise in any one.
-- Being underestimated. Your flexibility is real, but others may read it as lacking conviction.
-- Difficulty explaining your process, because it changes with context.
-
-### Growth Edges
-- Practice choosing. Not every decision needs to hold every perspective.
-- Develop depth in at least one mode. Flexibility is stronger when it has a home to return to.
-- Own your position. The center is not a void — it has its own kind of power.
-
-### In Relationships
-- You offer understanding, flexibility, and genuine presence across different contexts.
-- Partners may feel you are hard to read or too accommodating.
-- You thrive with people who value range over intensity.
-- Growth: let yourself be wanted for who you are, not just useful for what you can see.
-
-### Work Style
-- Thrive in roles requiring integration, translation, diplomacy, and multi-perspective thinking.
-- Risk: being overlooked because your value is quiet and structural.
-- Ideal: environments that reward range and wisdom over single-mode intensity.
-
-### Decision-Making
-- Multi-perspective, considered, rarely rash.
-- Risk: prolonged deliberation. The center can become a holding pattern.
-- Strength: your decisions tend to be fair and durable because you've already considered the alternatives.
-
-### Under Stress
-- Signature: withdraw into observation. Go quiet, wait, watch.
-- You may disappear from view while carrying real weight.
-- Recovery: gentle re-engagement. Small, chosen actions.
-- Watch: passivity disguised as patience.
-
-### Communication
-- Measured, diplomatic, inclusive. You hear everyone.
-- Growth: say what YOU think, not just what you see others thinking.
-- Your ability to translate between modes is rare. Name it.
-
-### Your Halting Line
-"You are the pause between computations, the point where the four modes meet. Your clarity is not in choosing one architecture but in knowing that all of them pass through you."
+There is no facet-tension modifier. The two scales are independent and cannot cancel.
 
 ---
 
-## Facet reporting (core, not optional)
+## Scale reporting (core, not optional)
 
-The MMA is facet-organized. Every result reports the two axis scores and their four facet sub-scores. The facet signature lets a profile distinguish *which facet drove the axis score*.
-
-- Axis C, Processing Mode: C1 Deliberation Preference, C2 Override Tendency.
-- Axis D, Encoding Structure: D1 Entry Point, D2 Decomposition Habit.
-
-A high-Deliberate result can now read "deliberate mostly through override tendency, less through enjoying effortful thought." A high-Sequential result can read "sequential at entry, but synthesizes once engaged." This is the depth that separates the MMA from a flat axis quiz. Facets are theory-grounded sub-dimensions of validated constructs, not independently validated facets; that line is stated on the results screen.
+The MMA reports two independent scale scores on every result: Need for Cognition and Faith in Intuition. The type is the interpretive label; the two scores are the measurement. A Logician result reads "NFC 82, FI 31"; the type follows from that pattern. The override rate (Component 3) is reported alongside as a behavioral modifier. The scales are validated constructs (Cacioppo-Petty NFC, Epstein REI FI), verified orthogonal (r = .08), not a collapsed bipolar; that line is stated on the results screen, along with the affirming-scope note for the Operator quadrant.
