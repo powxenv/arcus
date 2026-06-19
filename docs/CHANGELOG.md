@@ -2,6 +2,54 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.20 (2026-06-19): two lengths — SCA-32 standard + SCA-16 short form
+
+Why: offer a quicker assessment for respondents with less time or attention, without compromising the framework's honesty stance.
+
+### Decision: same questions, not different ones
+
+SCA-16 is a **curated subset of the 32**, not a parallel form. This follows the standard short-from-long-form method (NEO-FFI⊂NEO-PI-R, HEXACO-60⊂HEXACO-200, BFI-2-S⊂BFI-2). A subset preserves construct fidelity (same instrument, administered shorter), inherits the long form's content-validity argument, and uniquely enables an upgrade path — a respondent can finish the 16, then answer the remaining 16 to get the full result, with no re-testing. A parallel form would be a different instrument needing its own defense, for no gain.
+
+### The 16-item selection (4 per facet, content-driven)
+
+No pilot data exists, so selection cannot use factor loadings or item-total correlations. The cut is content-driven: most construct-central items, maximally spread across each facet's content areas, avoiding items flagged as judgment calls or confounded in earlier audits.
+
+- A1: A1.1, A1.2, A1.4, A1.6 (dropped A1.3 overlap, A1.5 A1↔B2 confound, A1.7 capacity drift, A1.8 meta-cognitive)
+- A2: A2.1, A2.2, A2.3, A2.6 (dropped A2.4/A2.7 redundant, A2.5 circumstance-driven, A2.8 meta-cognitive)
+- B1: B1.2, B1.3, B1.5, B1.6 (dropped B1.1 state-framed, B1.4 narrow, B1.7 transparent giveaway, B1.8 overlap)
+- B2: B2.1, B2.2, B2.3, B2.6 (dropped B2.4 influence≠agency, B2.5/B2.7 overlap, B2.8 receptive-pole overlap with B1)
+
+SCA-16 = {A1.1, A1.2, A1.4, A1.6, A2.1, A2.2, A2.3, A2.6, B1.2, B1.3, B1.5, B1.6, B2.1, B2.2, B2.3, B2.6}. Balanced 4-4-4-4 across facets, 8 per axis.
+
+### Scoring and results: identical across both lengths
+
+Same axes, facets, hierarchical scoring (facet mean → axis mean → distance/prototypicality/angle/quadrant/gradation), same 0.28 Threshold boundary, same facet-tension modifier. The only difference is items-per-facet (4 vs 8) feeding each facet mean. Result taxonomy is unchanged: 4 seasonal types + Threshold boundary + facet-tension modifier (per v0.19).
+
+### Reliability — the honesty tier (load-bearing)
+
+This is the part that had to be handled explicitly, not glossed. Per Spearman-Brown, 4 items per facet lands in the .60 to .70 alpha band — "marginal" in the very terms this framework used in v0.9 to justify going from 16 to 32. SCA-16 does not escape that band; it sits in it. Gosling et al. (2003), the source the framework already cites for the item-count floor, describes ultra-short scales as screening-tier with "diminished psychometric properties."
+
+SCA-16 is therefore positioned and labeled as a **screening-tier quick read**, not an equivalent-strength result:
+- Seasonal placement and the Threshold boundary remain the reliable output of SCA-16.
+- Facet-level signals (facet signature, facet-tension modifier) are noisier and surfaced as **provisional**. The facet-tension modifier in particular may fire on sampling noise more readily, because fewer items give each extreme response more leverage.
+- A short-form caveat appears on SCA-16 result screens. Offering SCA-16 without this caveat would imply equal authority to SCA-32, which the reliability math says it does not have — the exact false-authority move the framework exists to avoid (00 §2.1).
+
+SCA-32 remains the recommended default.
+
+### Files modified
+- docs/01-solstice-cycle-assessment.md (v0.19 → v0.20; §8 retitled "Item bank and lengths"; new §8.1 short-form selection + reliability tier; status header)
+- docs/SCA-research-paper.md (two-lengths paragraph; SCA-16 reliability discussion with NEO-FFI/HEXACO-60/BFI-2-S precedent and Gosling floor)
+- docs/00-suite-framework.md (suite-level: each test may offer a 32 standard + 16 short form; item-count rationale updated)
+- docs/CHANGELOG.md (this entry)
+
+### Not in this pass (deferred)
+- Wiring a length toggle into sca-debug.html and sca-simulate.ts (both currently hardcode the 32-item bank). The selection and scoring are fully specified in §8.1; the build work is mechanical and offered as a follow-up.
+- Re-running the simulation against SCA-16 to characterize its Threshold/tension rates empirically (expected: noisier facet signals).
+
+### Consistency check against prior decisions
+
+This pass is deliberately consistent with the framework's existing evidence standard: it cites the same short-form precedent (NEO-FFI/HEXACO-60/BFI-2-S) and the same item-count floor (Gosling TIPI) the framework already uses, and it states SCA-16's reliability tier in the same (.60–.70 "marginal") terms v0.9 used. It does not claim SCA-16 is validated, equivalent to SCA-32, or outside the marginal band.
+
 ## v0.19 (2026-06-19): result taxonomy corrected to the typology literature — Counterpoint demoted from type to modifier
 
 Why: v0.18 added facet-tension detection (a correct validity fix) but framed its output as a sixth result type, the Counterpoint. That framing does not survive contact with the literature the framework cites. Re-examining the full-text Kerber et al. (2021) and the Gerlach et al. (2018) account corroborated inside it, the operational definition of a personality "type" in the person-centered tradition is explicit: a cluster recovered by density-based or mixture methods (latent profile analysis, k-means, Gaussian mixture models, DBSCAN/EM). "Determining the number of clusters" is a formal validity-indexed step, and the empirical range across large samples is three to five.
