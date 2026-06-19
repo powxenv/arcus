@@ -183,18 +183,18 @@ Every validated cognitive-style instrument uses Likert — the REI, NFC, and CSA
 
 ### Facet C1: Deliberation Preference (8 items)
 
-All items vary enjoyment of and preference for effortful thinking. No encoding-structure language, no speed/ability framing. Content areas drawn from NFC items (Cacioppo & Petty, 1982; Epstein et al., 1996): problem enjoyment, understanding vs. efficiency, thinking as fulfillment, thinking as default mode.
+All items vary enjoyment of and preference for effortful thinking. Each item uses a behavioral scenario — asking what you would do in a specific situation, not what you claim to be in general. This is consistent with the measurement philosophy of Riding (1997) and Frederick (2005): for cognitive processing, demonstrated preference is a more valid signal than self-assessed identity. Content areas: free-time choice, learning approach, thinking endurance, problem impulse, seeking thinking, post-effort experience, complexity approach, and engaging with ideas when depleted.
 
 | # | Scenario stem | Deliberate pole (System 2) | Intuitive pole (System 1) |
 |---|---|---|---|
-| C1.1 | How often do you enjoy effortful, slow thinking for its own sake? | "Often. I like grinding through a hard problem." | "Rarely. I'd rather get to the answer and move on." |
+| C1.1 | A Sunday afternoon with nothing scheduled. You find yourself… | "Reading something challenging, working on a puzzle, or exploring an idea." | "Relaxing with something that doesn't require much thought." |
 | C1.2 | When you're learning something new, you prefer to… | "Understand the principles first, deliberately." | "Pick it up by doing, before I have the theory." |
 | C1.3 | When a problem makes you think hard for an extended time, you feel… | "Energized. This is why I'm here." | "Drained. I'd rather be done." |
 | C1.4 | A hard problem lands on you. Your impulse is to… | "Sit with it and work it through." | "Find the quickest path to an answer." |
 | C1.5 | When you have free time and nothing pressing, you're likely to… | "Pick up something mentally challenging." | "Do something that doesn't require much thought." |
-| C1.6 | Thinking hard feels… | "Satisfying. I seek it out." | "Costly. I'd rather avoid it." |
+| C1.6 | After spending an hour working through a genuinely hard problem, you feel… | "Satisfied. That was a good use of time." | "Drained. I need to recover." |
 | C1.7 | When something is complex… | "I want to map it fully before acting." | "I want to get the gist and act." |
-| C1.8 | Effortful reasoning is… | "My natural mode." | "Something I use only when I must." |
+| C1.8 | You've just finished a long day. A friend asks you a genuinely interesting but difficult question. You… | "Engage fully — a good question pulls me back in." | "Give a brief answer — I'm done thinking for now." |
 
 
 ### Facet C2: Override Tendency (8 items)
@@ -245,8 +245,8 @@ All items vary how you work with information once you have it — ongoing proces
 | D2.8 | Understanding, for you, comes from… | "Assembling parts into wholes." | "Grasping wholes that contain their parts." |
 
 
-**Notes.** All 32 items are gender-neutral and identity-agnostic. Both poles of every item are affirming. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75. Seven items were replaced in v0.3 (C1.3, C1.5, C2.5, C2.6, D1.6, D2.3, D2.7) for construct alignment and content-area spread; none have been pilot-tested.
-op
+**Notes.** All 32 items use behavioral-scenario framing ("what do you do") rather than trait endorsement ("what are you like"), consistent with the measurement philosophy of Riding's (1997) CSA and Frederick's (2005) CRT — for cognitive processing, demonstrated preference is a more valid signal than self-assessed identity. Both poles of every item are affirming. A launch pass should run an internal-consistency check per facet and drop or replace the weakest 1 to 2 items if any facet alpha falls below .75. Ten items were replaced in v0.3 (C1.1, C1.3, C1.5, C1.6, C1.8, C2.5, C2.6, D1.6, D2.3, D2.7) for construct alignment and behavioral-scenario conversion; none have been pilot-tested.
+
 
 **Overlap honesty.** Axis C (Processing Mode) overlaps with Big Five Openness-to-Ideas (via C1, confirmed in Stanovich & West, 1997) and Conscientiousness (via C2's deliberation/responsibility shading). Axis D (Encoding Structure) overlaps weakly with Openness. These are validated constructs we build on, not inventions. The MMA's contribution is the combination, the facet structure, and the cognitive (not personality) framing.
 
@@ -260,7 +260,7 @@ Same subset approach as SCA-16: curated selection of 4 items per facet from the 
 
 | Facet | Retained (4) | Dropped (4) | Why |
 |---|---|---|---|
-| C1 Deliberation Pref. | C1.1, C1.4, C1.6, C1.8 | C1.2, C1.3, C1.5, C1.7 | Four most direct NFC items: enjoyment, default impulse, satisfaction, self-label. Dropped C1.2 (learning — narrow), C1.3/C1.5/C1.7 (overlap retained). |
+| C1 Deliberation Pref. | C1.1, C1.4, C1.6, C1.8 | C1.2, C1.3, C1.5, C1.7 | Four NFC items using behavioral scenarios: free-time choice, problem impulse, post-effort feeling, social endurance. Dropped C1.2 (learning — narrow), C1.3/C1.5/C1.7 (overlap retained). |
 | C2 Override Tendency | C2.1, C2.2, C2.5, C2.7 | C2.3, C2.4, C2.6, C2.8 | Four distinct verification contexts: self-generated intuition, internal conflict, claims from others, and doubt as epistemic signal. Dropped C2.3/C2.4 (narrower overlaps), C2.6 (replaced), C2.8 (partially context-dependent). |
 | D1 Entry Point | D1.1, D1.4, D1.5, D1.6 | D1.2, D1.3, D1.7, D1.8 | Four broad entry contexts: problem, learning, situation, skill. Dropped D1.2 (overlaps D1.1), D1.3 (reading — narrow), D1.7/D1.8 (overlap retained / too generic). |
 | D2 Decomposition | D2.2, D2.5, D2.7, D2.8 | D2.1, D2.3, D2.4, D2.6 | Span approach, conflict, collaboration, and foundational understanding. Dropped D2.1 (output — narrow), D2.3 (replaced), D2.4/D2.6 (overlap retained). |
@@ -324,11 +324,17 @@ A short, plain-language disclaimer appears with every result.
 - Result naming: mode-primary with archetype subtitle (`⚙️ The Algorithm`).
 - Boundary: The Halting Point.
 - Scoring: matches Test 1's v0.19 model (facet-tension detection, gradation convention, tension modifier). Inherits the suite template.
-- Item bank: 32 items (4 facets, 8 per facet). Four items replaced in v0.3 from full-text paper findings. The remaining 28 need a full multi-cycle audit — noted here, not hidden.
+- Item bank: 32 items (4 facets, 8 per facet). 10 items replaced in v0.3. None pilot-tested.
 - Short form: MMA-16 selected and documented in §8.1.
 - Citations: 9 structural sources verified against full-text PDFs; 2 textural sources flagged as unverified.
-- Profiles: `02b-modes-result-profiles.md` contains 14-section profiles. Not yet re-audited.
-- Build and simulation: not yet implemented.
+
+- Build: `mma-debug.html` implemented (debug build, length toggle, scoring engine, debug panel).
+- Simulation: `mma-simulate.ts` implemented (length-aware scoring, cross-length agreement, full audit suite).
+- Research paper: `docs/MMA-research-paper.md` created.
+- Profiles: `02b` re-audited, Halting Point boundary profile added, closing-line name conflict resolved.
+
+
+
 
 See `CHANGELOG.md` for revision history.
 

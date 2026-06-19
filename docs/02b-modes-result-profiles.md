@@ -22,7 +22,9 @@
 11. **Under Stress.** Stress signature and recovery.
 12. **Communication.** Style and growth.
 13. **The Complementary Mode.** The opposite quadrant they can learn from.
-14. **Your Halting Point.** The poetic closing line, Turing-flavored. AI-personalized in-game.
+14. **Your Halting Line.** The poetic closing line, Turing-flavored. AI-personalized in-game.
+
+Note: "The Halting Point" is the name of the boundary condition (near-center result). Each mode's section 14 is called "Your Halting Line" to avoid confusing the poetic closing with the boundary result.
 
 ---
 
@@ -101,7 +103,7 @@ This is the mode Turing himself formalized. The Turing Machine is the purest exp
 ### The Complementary Mode: 🔮 The Gestalt
 Your wholeness lives in the part of thinking you tend to skip. The Gestalt's ability to see the whole form before the parts are named. Rigor without intuition is slow. Intuition is the shortcut your procedures are trying to formalize.
 
-### Your Halting Point
+### Your Halting Line
 "You are the mind that halts only when the answer is proven. Your freedom is learning that some truths arrive whole, before the proof, and are still true."
 
 ---
@@ -181,7 +183,7 @@ This is the mode Turing called on at Bletchley Park. The Bombe was a machine, bu
 ### The Complementary Mode: 🏗️ The Architecture
 Your wholeness lives in the part of thinking you tend to skip. The Architecture's ability to design the whole system on purpose, not just read it by feel. Fluency without structure is brittle at scale. Structure is what lets your pattern sense survive new domains.
 
-### Your Halting Point
+### Your Halting Line
 "You are the mind that reads the code before the proof exists. Your gift is fluency, and your growth is learning to teach what only you can see."
 
 ---
@@ -261,7 +263,7 @@ This is the mode Turing reached for in his last great work, on morphogenesis. He
 ### The Complementary Mode: ⚙️ The Algorithm
 Your wholeness lives in the part of thinking you tend to skip. The Algorithm's ability to verify, step by step, what you already see. Perception without verification is fragile. Rigor is how your insights survive contact with skepticism.
 
-### Your Halting Point
+### Your Halting Line
 "You are the mind that sees the form before the parts are named. Your gift is emergence, and your growth is learning to build the bridge back, so others can arrive where you already are."
 
 ---
@@ -341,7 +343,7 @@ This is the mode Turing reached for in designing the ACE, one of the first store
 ### The Complementary Mode: 🕸️ The Cipher
 Your wholeness lives in the part of thinking you tend to skip. The Cipher's ability to read the system by feel, fast, without designing it first. Architecture without fluency is slow. Fluency is what lets you move inside the systems you design.
 
-### Your Halting Point
+### Your Halting Line
 "You are the mind that designs the whole on purpose, and reasons about it with rigor. Your gift is structure, and your growth is knowing when to trust the system that is already alive under your hands."
 
 ---
@@ -352,12 +354,81 @@ The base profile above is the quadrant archetype. A player's exact position on t
 
 | Signal | Meaning | Effect on the profile |
 |---|---|---|
-| High prototypicality (far from center) | Strongly that mode | Report the archetype at full strength. |
-| Low prototypicality (near center) | Between modes | Report **The Halting Point** boundary reading (named for Turing's formal undecidability result). "You run close to the boundary between modes — no algorithm can definitively place you, and that is a structurally honest answer, not a failure." Pull one or two lines from each adjacent mode. When facet tension fires, the modifier rewrites the narrative from "balanced" to "holding opposites, led by the facet signature." |
-| Near an axis boundary | Strong on one axis, neutral on the other | Emphasize the dominant axis. Soften the secondary. |
-| Angle maps to early, mid, or late | Position along the quadrant arc | Shift tone. "Early Algorithm" is building toward full rigor. "Late Architecture" is nearing fluent systems-thinking. |
+| Low prototypicality (near center), no facet tension | Genuinely balanced | Report **The Halting Point** boundary (see profile below). Pull one or two lines from each adjacent mode for additional texture. |
+| Low prototypicality (near center), with facet tension | Near center from cancellation, not balance | Same Halting Point boundary, but with the facet-tension modifier narrative. Lead with the facet signature. |
+| Season result, with facet tension on one axis | A mode pulled in two directions internally | Report the mode as normal, then surface the facet-tension modifier as a secondary note led by the facet signature. |
 
 This is the hybrid dimensional and prototypical structure (Kerber et al. 2021). A memorable type plus honest gradation. The opposite of MBTI's cliff at the midpoint.
+
+---
+
+## ⏸️ The Halting Point  (near-center boundary)
+
+**Essence.** The Halting Point. Your responses don't strongly favor any one mode. The name references Turing's Halting Problem: no algorithm can determine in general whether a program will halt, and similarly, your thinking mode resists algorithmic placement. This is not a failure — it is its own position.
+
+### The Archetype
+You sit at the boundary where the four modes meet. You are not strongly Algorithm, Cipher, Gestalt, or Architecture — but you can see what each of them sees. Your mind moves across modes rather than settling into one. This is not a lack of definition. It is flexibility, range, and the ability to deploy different modes as different problems demand.
+
+When facet tension fires on this boundary, the narrative changes: you are not balanced because you are moderate, but because two strong facets pull opposite ways and cancel. Your near-center position is real, but the balance is not. The facet signature, not the mode, tells your story.
+
+### Core Motivations
+- To understand problems from multiple angles without committing prematurely.
+- To remain flexible and responsive rather than settling into one approach.
+- To see the truth in different cognitive modes and move between them.
+- To be accurately placed — not forced into a mode that doesn't fit.
+
+### Behavioral Patterns
+- You shift your thinking approach depending on the problem.
+- Others may find you hard to categorize because your cognitive signals are mixed.
+- You are often the translator between very different thinkers.
+- You can appreciate and deploy intuitive, deliberate, sequential, and holistic approaches.
+
+### Strengths
+- Flexibility and range across cognitive modes.
+- The ability to bridge between different thinking styles.
+- Comfort with ambiguity and resistance to premature closure.
+- Low dogmatism. You do not need to arrive at a single answer to feel satisfied.
+
+### Blind Spots
+- Indecision. Seeing all sides can make it hard to commit to one.
+- Drift. Without a strong pull toward any mode, you may not develop deep expertise in any one.
+- Being underestimated. Your flexibility is real, but others may read it as lacking conviction.
+- Difficulty explaining your process, because it changes with context.
+
+### Growth Edges
+- Practice choosing. Not every decision needs to hold every perspective.
+- Develop depth in at least one mode. Flexibility is stronger when it has a home to return to.
+- Own your position. The center is not a void — it has its own kind of power.
+
+### In Relationships
+- You offer understanding, flexibility, and genuine presence across different contexts.
+- Partners may feel you are hard to read or too accommodating.
+- You thrive with people who value range over intensity.
+- Growth: let yourself be wanted for who you are, not just useful for what you can see.
+
+### Work Style
+- Thrive in roles requiring integration, translation, diplomacy, and multi-perspective thinking.
+- Risk: being overlooked because your value is quiet and structural.
+- Ideal: environments that reward range and wisdom over single-mode intensity.
+
+### Decision-Making
+- Multi-perspective, considered, rarely rash.
+- Risk: prolonged deliberation. The center can become a holding pattern.
+- Strength: your decisions tend to be fair and durable because you've already considered the alternatives.
+
+### Under Stress
+- Signature: withdraw into observation. Go quiet, wait, watch.
+- You may disappear from view while carrying real weight.
+- Recovery: gentle re-engagement. Small, chosen actions.
+- Watch: passivity disguised as patience.
+
+### Communication
+- Measured, diplomatic, inclusive. You hear everyone.
+- Growth: say what YOU think, not just what you see others thinking.
+- Your ability to translate between modes is rare. Name it.
+
+### Your Halting Line
+"You are the pause between computations, the point where the four modes meet. Your clarity is not in choosing one architecture but in knowing that all of them pass through you."
 
 ---
 

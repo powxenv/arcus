@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Modes of Mind Assessment — Debug Build v0.3</title>
+<style>
+  :root {
+    --bg: #0d0d12;
+    --surface: #1a1a24;
+    --text: #e0e0e8;
+    --muted: #8888a0;
+    --accent: #60c0c0;
+    --algorithm: #60a0c0;
+    --cipher: #a060c0;
+    --gestalt: #c0a060;
+    --architecture: #60c060;
+    --threshold: #9070b0;
+    --pip: #3a3a50;
+    --pip-active: #60c0c0;
+    --debug-bg: #0a0a10;
+    --debug-text: #88cc88;
+    --debug-label: #66aadd;
+    --debug-value: #ffcc66;
+    --debug-formula: #888;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; display: flex; justify-content: center; }
+  #app { max-width: 800px; width: 100%; padding: 2rem 1.5rem; }
+  h1 { font-size: 1.6rem; margin-bottom: 0.5rem; color: var(--accent); }
+  h2 { font-size: 1.2rem; margin: 1.5rem 0 0.75rem; color: var(--text); }
+  h3 { font-size: 0.95rem; margin: 1rem 0 0.5rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  p { line-height: 1.6; margin-bottom: 0.75rem; color: var(--muted); }
+
+  .length-card { flex:1; min-width:240px; background:var(--surface); border-radius:12px; padding:1.25rem; }
+  .length-card .title { font-weight:700; color:var(--accent); }
+  .length-card .desc { font-size:0.82rem; color:var(--muted); margin:0.4rem 0 0.75rem; }
+
+  #progress-bar { height: 4px; background: var(--pip); border-radius: 2px; margin: 1rem 0 1.5rem; }
+  #progress-fill { height: 100%; background: var(--accent); border-radius: 2px; transition: width 0.3s; }
+  #progress-text { font-size: 0.8rem; color: var(--muted); text-align: right; }
+
+  .question-block { background: var(--surface); border-radius: 12px; padding: 1.5rem; margin-bottom: 1rem; }
+  .question-stem { font-size: 1.05rem; margin-bottom: 1.25rem; line-height: 1.5; }
+  .facet-badge { display: inline-block; font-size: 0.7rem; padding: 2px 8px; border-radius: 4px; background: rgba(96,192,192,0.15); color: var(--accent); margin-bottom: 0.75rem; }
+
+  .scale-container { display: flex; align-items: center; gap: 0; width: 100%; }
+  .pole-label { flex: 0 0 120px; font-size: 0.82rem; color: var(--muted); line-height: 1.3; }
+  .pole-label.left { text-align: right; padding-right: 8px; }
+  .pole-label.right { text-align: left; padding-left: 8px; }
+  .pips { display: flex; gap: 6px; justify-content: center; flex: 1; }
+  .pip-radio { display: none; }
+  .pip-label { width: 36px; height: 36px; border-radius: 50%; background: var(--pip); cursor: pointer; transition: all 0.15s; display: flex; align-items: center; justify-content: center; font-size: 0.7rem; color: transparent; user-select: none; }
+  .pip-label:hover { background: #305050; transform: scale(1.1); }
+  .pip-radio:checked + .pip-label { background: var(--pip-active); color: #1a1a24; font-weight: 700; transform: scale(1.15); box-shadow: 0 0 12px rgba(96,192,192,0.4); }
+
+  .btn { display: inline-block; padding: 0.6rem 1.5rem; border-radius: 8px; border: none; cursor: pointer; font-size: 0.95rem; font-weight: 600; transition: all 0.15s; }
+  .btn-primary { background: var(--accent); color: #1a1a24; }
+  .btn-primary:hover { background: #80e0e0; }
+  .btn-secondary { background: var(--pip); color: var(--text); }
+  .btn-secondary:hover { background: #4a4a60; }
+  .btn:disabled { opacity: 0.4; cursor: default; }
+  .nav-row { display: flex; justify-content: space-between; margin-top: 1rem; }
+
+  .result-card { background: var(--surface); border-radius: 16px; padding: 2rem; text-align: center; margin-bottom: 1.5rem; }
+  .result-icon { font-size: 3.5rem; margin-bottom: 0.5rem; }
+  .result-mode { font-size: 2.2rem; font-weight: 700; margin-bottom: 0.25rem; }
+  .result-archetype { font-size: 1.1rem; color: var(--muted); margin-bottom: 0.25rem; }
+  .result-gradation { font-size: 0.9rem; color: var(--accent); margin-bottom: 1rem; }
+  .result-scores { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin: 1rem 0; }
+  .score-box { background: rgba(255,255,255,0.04); border-radius: 8px; padding: 0.75rem; }
+  .score-label { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; }
+  .score-value { font-size: 1.4rem; font-weight: 700; }
+  .score-bar { height: 6px; border-radius: 3px; margin-top: 4px; background: var(--pip); position: relative; overflow: hidden; }
+  .score-bar-fill { height: 100%; border-radius: 3px; transition: width 0.5s; }
+
+  .facet-detail { text-align: left; font-size: 0.85rem; color: var(--muted); margin-top: 0.75rem; line-height: 1.5; }
+  .caveat-box { background:rgba(96,192,192,0.08); border:1px solid rgba(96,192,192,0.25); border-radius:8px; padding:0.75rem 1rem; margin:0.5rem 0 1rem; font-size:0.82rem; color:var(--accent); }
+
+  .algorithm { color: var(--algorithm); }
+  .cipher { color: var(--cipher); }
+  .gestalt { color: var(--gestalt); }
+  .architecture { color: var(--architecture); }
+  .threshold-c { color: var(--threshold); }
+
+  #debug-toggle { position: fixed; bottom: 1rem; right: 1rem; z-index: 100; background: var(--surface); border: 1px solid var(--pip); border-radius: 8px; padding: 0.5rem 1rem; cursor: pointer; font-size: 0.8rem; color: var(--muted); }
+  #debug-toggle:hover { border-color: var(--accent); color: var(--accent); }
+  #debug-panel { display: none; position: fixed; top: 0; right: 0; width: 520px; height: 100vh; background: var(--debug-bg); border-left: 1px solid #333; overflow-y: auto; z-index: 99; padding: 1.5rem; font-family: 'SF Mono', 'Menlo', 'Monaco', monospace; font-size: 0.78rem; line-height: 1.5; }
+  #debug-panel.visible { display: block; }
+  .debug-section { margin-bottom: 1.25rem; }
+  .debug-h2 { color: var(--debug-label); font-size: 0.9rem; font-weight: 700; margin-bottom: 0.5rem; border-bottom: 1px solid #333; padding-bottom: 4px; }
+  .debug-h3 { color: #7799bb; font-size: 0.82rem; margin: 0.5rem 0 0.25rem; }
+  .debug-row { display: flex; justify-content: space-between; padding: 1px 0; }
+  .debug-label { color: var(--debug-label); }
+  .debug-value { color: var(--debug-value); }
+  .debug-formula { color: var(--debug-formula); font-style: italic; font-size: 0.7rem; }
+  .debug-good { color: #88cc88; }
+  .debug-warn { color: #cc8844; }
+
+  @media (max-width: 600px) {
+    .pole-label { flex: 0 0 90px; font-size: 0.72rem; }
+    .pip-label { width: 30px; height: 30px; }
+    .pips { gap: 4px; }
+    #debug-panel { width: 100%; }
+  }
+</style>
+</head>
+<body>
+
+<div id="app">
+  <div id="screen-intro">
+    <h1>⚙️ Modes of Mind Assessment</h1>
+    <p>Two dimensions. One architecture of mind. Choose a length.</p>
+    <p style="font-size:0.9rem">This is a <strong>debug build</strong>. After you finish, a panel will show every calculation step.</p>
+    <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:1.25rem">
+      <div class="length-card">
+        <div class="title">MMA-32 · Standard</div>
+        <div class="desc">32 questions · ~8–10 min. Full facet-level detail at full confidence.</div>
+        <button class="btn btn-primary" onclick="start(32)">Begin MMA-32</button>
+      </div>
+      <div class="length-card">
+        <div class="title">MMA-16 · Quick read</div>
+        <div class="desc">16 questions · ~4–5 min. Screening-tier: reliable mode placement, <strong>provisional</strong> facet detail.</div>
+        <button class="btn btn-secondary" onclick="start(16)">Begin MMA-16</button>
+      </div>
+    </div>
+    <p style="font-size:0.78rem;color:var(--muted);margin-top:1rem">Both forms use the same item bank, scoring model, and result types. MMA-16 is a curated subset of MMA-32. At 4 items per facet it sits in the .60–.70 alpha band, so facet-level signals are surfaced as provisional.</p>
+  </div>
+
+  <div id="screen-quiz" style="display:none">
+    <div id="progress-bar"><div id="progress-fill" style="width:0%"></div></div>
+    <div id="progress-text">0 / 32</div>
+    <div id="question-container"></div>
+    <div class="nav-row">
+      <button id="btn-prev" class="btn btn-secondary" onclick="prev()" disabled>← Back</button>
+      <button id="btn-next" class="btn btn-primary" onclick="next()" disabled>Next →</button>
+    </div>
+  </div>
+
+  <div id="screen-results" style="display:none">
+    <div id="result-content"></div>
+    <button class="btn btn-secondary" style="margin-top:1rem" onclick="resetAll()">Take again</button>
+  </div>
+</div>
+
+<button id="debug-toggle" onclick="toggleDebug()">🔍 Debug</button>
+<div id="debug-panel">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem;padding-bottom:0.5rem;border-bottom:1px solid #333">
+    <span style="color:var(--debug-label);font-weight:700;font-size:0.85rem">🔍 Debug Output</span>
+    <button id="btn-copy-debug" class="btn btn-secondary" style="font-size:0.72rem;padding:0.35rem 0.75rem" onclick="copyDebug()">📋 Copy All</button>
+  </div>
+  <div id="debug-content">Run the assessment to see debug output.</div>
+</div>
+
+<script>
+// ═══════════════════════════════════════════════════════════
+// ITEM BANK — 32 items across 4 facets
+// Axis C = Processing Mode: C1 Deliberation Preference, C2 Override Tendency
+// Axis D = Encoding Structure: D1 Entry Point, D2 Decomposition Habit
+// ═══════════════════════════════════════════════════════════
+const ITEMS = [
+  // C1 — Deliberation Preference (8)
+  { id:'C1.1', facet:'C1', stem:'A Sunday afternoon with nothing scheduled. You find yourself…', poleA:'Reading something challenging, working on a puzzle, or exploring an idea.', poleB:'Relaxing with something that doesn\'t require much thought.' },
+  { id:'C1.2', facet:'C1', stem:'When you\'re learning something new, you prefer to…', poleA:'Understand the principles first, deliberately.', poleB:'Pick it up by doing, before I have the theory.' },
+  { id:'C1.3', facet:'C1', stem:'When a problem makes you think hard for an extended time, you feel…', poleA:'Energized. This is why I\'m here.', poleB:'Drained. I\'d rather be done.' },
+  { id:'C1.4', facet:'C1', stem:'A hard problem lands on you. Your impulse is to…', poleA:'Sit with it and work it through.', poleB:'Find the quickest path to an answer.' },
+  { id:'C1.5', facet:'C1', stem:'When you have free time and nothing pressing, you\'re likely to…', poleA:'Pick up something mentally challenging.', poleB:'Do something that doesn\'t require much thought.' },
+  { id:'C1.6', facet:'C1', stem:'After spending an hour working through a genuinely hard problem, you feel…', poleA:'Satisfied. That was a good use of time.', poleB:'Drained. I need to recover.' },
+  { id:'C1.7', facet:'C1', stem:'When something is complex…', poleA:'I want to map it fully before acting.', poleB:'I want to get the gist and act.' },
+  { id:'C1.8', facet:'C1', stem:'You\'ve just finished a long day. A friend asks you a genuinely interesting but difficult question. You…', poleA:'Engage fully — a good question pulls me back in.', poleB:'Give a brief answer — I\'m done thinking for now.' },
+
+  // C2 — Override Tendency (8)
+  { id:'C2.1', facet:'C2', stem:'You get an answer quickly and it feels right. What do you do?', poleA:'Slow down and verify it before trusting it.', poleB:'Trust it, then move on.' },
+  { id:'C2.2', facet:'C2', stem:'A gut feeling conflicts with your analysis. You tend to…', poleA:'Follow the analysis.', poleB:'Follow the gut, even if I can\'t justify it yet.' },
+  { id:'C2.3', facet:'C2', stem:'When you can\'t explain how you know something, you…', poleA:'Don\'t fully trust it until I can.', poleB:'Trust it anyway. Some knowledge is pre-verbal.' },
+  { id:'C2.4', facet:'C2', stem:'Your first instinct on a question is usually…', poleA:'A hypothesis I then check.', poleB:'Something I trust and run with.' },
+  { id:'C2.5', facet:'C2', stem:'Someone tells you something surprising. Before you accept it, you…', poleA:'Try to verify it from another source.', poleB:'Accept it if the person seems credible.' },
+  { id:'C2.6', facet:'C2', stem:'When you make a snap judgment…', poleA:'I usually circle back and check it later.', poleB:'I trust it and move on.' },
+  { id:'C2.7', facet:'C2', stem:'Doubt, for you, is…', poleA:'A signal to dig deeper.', poleB:'A drag I\'d rather skip.' },
+  { id:'C2.8', facet:'C2', stem:'When the stakes are real…', poleA:'I override instinct with analysis.', poleB:'I trust instinct and analyze after.' },
+
+  // D1 — Entry Point (8)
+  { id:'D1.1', facet:'D1', stem:'You\'re handed a problem you\'ve never seen before. First move?', poleA:'Break it into steps and solve each one.', poleB:'Get the overall shape of it, then fill in.' },
+  { id:'D1.2', facet:'D1', stem:'How do you usually grasp a new idea?', poleA:'Component by component, until the whole assembles.', poleB:'Whole first, then I learn what the parts are.' },
+  { id:'D1.3', facet:'D1', stem:'When you read, your eye moves…', poleA:'Line by line, in order.', poleB:'Around the page, grabbing the shape of it first.' },
+  { id:'D1.4', facet:'D1', stem:'A new subject. You start with…', poleA:'The basics, the building blocks.', poleB:'The big picture, what it\'s about.' },
+  { id:'D1.5', facet:'D1', stem:'Entering a new situation…', poleA:'I notice the pieces first.', poleB:'I get the overall feel first.' },
+  { id:'D1.6', facet:'D1', stem:'When learning a new skill, you start with…', poleA:'The individual techniques, one at a time.', poleB:'Understanding what the skill feels like as a whole.' },
+  { id:'D1.7', facet:'D1', stem:'When information arrives…', poleA:'I take it in piece by piece.', poleB:'I take in the whole pattern.' },
+  { id:'D1.8', facet:'D1', stem:'Your entry point into anything new is…', poleA:'The parts.', poleB:'The whole.' },
+
+  // D2 — Decomposition Habit (8)
+  { id:'D2.1', facet:'D2', stem:'You\'re explaining something you understand well. You tend to…', poleA:'Build it up piece by piece for the listener.', poleB:'Give the whole picture first, then refine.' },
+  { id:'D2.2', facet:'D2', stem:'A complex system is in front of you. Where do you start?', poleA:'With the individual components and how each works.', poleB:'With the overall structure and what it\'s doing.' },
+  { id:'D2.3', facet:'D2', stem:'You\'re designing something from scratch. You…', poleA:'Work through the components in sequence.', poleB:'Hold the complete vision in mind, then realize it.' },
+  { id:'D2.4', facet:'D2', stem:'A pile of details lands on you. You prefer to…', poleA:'Order them into a sequence and work through it.', poleB:'Stand back and find the pattern they form.' },
+  { id:'D2.5', facet:'D2', stem:'When the details don\'t add up to a sensible whole, you…', poleA:'Keep working the parts until they do.', poleB:'Step back and reconsider the shape of the whole.' },
+  { id:'D2.6', facet:'D2', stem:'Faced with complexity…', poleA:'I decompose it into manageable units.', poleB:'I look for the unifying pattern.' },
+  { id:'D2.7', facet:'D2', stem:'You\'re working on a complex project with a team. Your natural role is…', poleA:'Breaking the work into clear parts and sequences.', poleB:'Keeping the overall picture clear while others handle the details.' },
+  { id:'D2.8', facet:'D2', stem:'Understanding, for you, comes from…', poleA:'Assembling parts into wholes.', poleB:'Grasping wholes that contain their parts.' },
+];
+
+// ══════════════════════════════════════════════════
+// CONSTANTS
+// ══════════════════════════════════════════════════
+const FACETS = ['C1','C2','D1','D2'];
+const FACET_NAMES = { C1:'Deliberation Preference', C2:'Override Tendency', D1:'Entry Point', D2:'Decomposition Habit' };
+const AXIS_OF = { C1:'C', C2:'C', D1:'D', D2:'D' };
+const AXIS_NAMES = { C:'Processing Mode', D:'Encoding Structure' };
+const POLE_HIGH = { C:'Deliberate', D:'Sequential' };
+const POLE_LOW = { C:'Intuitive', D:'Holistic' };
+const QUADRANT_NAMES = ['Algorithm','Architecture','Gestalt','Cipher'];
+const QUADRANT_ARCHETYPES = ['The Algorithm','The Architecture','The Gestalt','The Cipher'];
+const QUADRANT_EMOJI = ['⚙️','🏗️','🔮','🕸️'];
+const QUADRANT_COLORS = ['algorithm','architecture','gestalt','cipher'];
+// SCA-16 equivalent: curated 16-item subset (4 per facet)
+const MMA16_IDS = new Set(['C1.1','C1.4','C1.6','C1.8','C2.1','C2.2','C2.5','C2.7','D1.1','D1.4','D1.5','D1.6','D2.2','D2.5','D2.7','D2.8']);
+const FACET_POLES = {
+  C1: ['high deliberation preference', 'low deliberation preference'],
+  C2: ['high override tendency', 'low override tendency'],
+  D1: ['sequential entry', 'holistic entry'],
+  D2: ['sequential decomposition', 'holistic synthesis'],
+};
+const TENSION_MARGIN = 20;
+const QUAD_ENTRY_EDGE = [90, 0, 270, 180]; // Algorithm, Cipher, Gestalt, Architecture
+// For MMA, the quadrant order: C>50,D>50 = Algorithm, C<50,D>50 = Cipher, C<50,D<50 = Gestalt, C>50,D<50 = Architecture
+// This matches SCA's quadrant angle order precisely when mapped C→A, D→B.
+
+let activeLength = 32;
+let activeBank = ITEMS;
+let responses = new Array(32).fill(null);
+let orientations = new Array(32);
+let debugLog = null;
+let currentIdx = 0;
+
+// ══════════════════════════════════════════════════
+// FACET MAP & LENGTH SETUP
+// ══════════════════════════════════════════════════
+const FACET_ITEMS = {};
+function rebuildFacetMap() {
+  for (const k of Object.keys(FACET_ITEMS)) delete FACET_ITEMS[k];
+  activeBank.forEach((item, i) => {
+    if (!FACET_ITEMS[item.facet]) FACET_ITEMS[item.facet] = [];
+    FACET_ITEMS[item.facet].push(i);
+  });
+}
+rebuildFacetMap();
+
+function randomizeOrientations() {
+  orientations = new Array(activeBank.length);
+  for (let i = 0; i < activeBank.length; i++) orientations[i] = Math.random() < 0.5 ? 1 : -1;
+}
+
+function setLength(len) {
+  activeLength = len;
+  activeBank = (len === 16) ? ITEMS.filter(it => MMA16_IDS.has(it.id)) : ITEMS;
+  responses = new Array(activeBank.length).fill(null);
+  randomizeOrientations();
+  rebuildFacetMap();
+}
+
+// ══════════════════════════════════════════════════
+// QUIZ FLOW
+// ══════════════════════════════════════════════════
+function start(len) {
+  setLength(len);
+  debugLog = null; currentIdx = 0;
+  document.getElementById('screen-intro').style.display = 'none';
+  document.getElementById('screen-results').style.display = 'none';
+  document.getElementById('screen-quiz').style.display = 'block';
+  renderQuestion();
+}
+
+function renderQuestion() {
+  const item = activeBank[currentIdx];
+  const ori = orientations[currentIdx];
+  const resp = responses[currentIdx];
+  let html = `<div class="question-block">`;
+  html += `<div class="facet-badge">${item.id} — ${FACET_NAMES[item.facet]} (${AXIS_NAMES[AXIS_OF[item.facet]]})</div>`;
+  html += `<div class="question-stem">${item.stem}</div>`;
+  html += `<div class="scale-container">`;
+  const leftPole = ori === 1 ? item.poleB : item.poleA;
+  const rightPole = ori === 1 ? item.poleA : item.poleB;
+  html += `<div class="pole-label left">${leftPole}</div>`;
+  html += `<div class="pips">`;
+  for (let v = 1; v <= 7; v++) {
+    const checked = resp === v ? 'checked' : '';
+    html += `<input type="radio" name="q${currentIdx}" value="${v}" id="q${currentIdx}_${v}" class="pip-radio" ${checked} onchange="selectAnswer(${v})">`;
+    html += `<label for="q${currentIdx}_${v}" class="pip-label">${v}</label>`;
+  }
+  html += `</div>`;
+  html += `<div class="pole-label right">${rightPole}</div>`;
+  html += `</div></div>`;
+  document.getElementById('question-container').innerHTML = html;
+  const answered = responses.filter(r => r !== null).length;
+  const total = activeBank.length;
+  document.getElementById('progress-fill').style.width = (answered / total * 100) + '%';
+  document.getElementById('progress-text').textContent = `${answered} / ${total}${activeLength===16?' (MMA-16)':''}`;
+  document.getElementById('btn-prev').disabled = currentIdx === 0;
+  document.getElementById('btn-next').disabled = responses[currentIdx] === null;
+}
+
+function selectAnswer(value) { responses[currentIdx] = value; document.getElementById('btn-next').disabled = false; }
+function next() { if (currentIdx < activeBank.length - 1) { currentIdx++; renderQuestion(); } else { showResults(); } }
+function prev() { if (currentIdx > 0) { currentIdx--; renderQuestion(); } }
+
+// ══════════════════════════════════════════════════
+// SCORING ENGINE (same 13-step model as SCA)
+// ══════════════════════════════════════════════════
+function score() {
+  const d = {};
+  d.rawAnswers = [];
+  activeBank.forEach((item, i) => {
+    d.rawAnswers.push({ id: item.id, facet: item.facet, raw: responses[i], orientation: orientations[i], poleADesc: item.poleA, poleBDesc: item.poleB });
+  });
+  d.normalized = d.rawAnswers.map(a => { const norm = a.orientation === 1 ? a.raw : (8 - a.raw); return { ...a, normalized: norm }; });
+  d.facets = {};
+  FACETS.forEach(facet => {
+    const idxs = FACET_ITEMS[facet];
+    const norms = idxs.map(i => d.normalized[i].normalized);
+    const sum = norms.reduce((a,b) => a + b, 0);
+    const n = idxs.length;
+    const mean = sum / n;
+    const scoreVal = (mean - 1) / 6 * 100;
+    d.facets[facet] = { items: idxs.map(i => ({ id: activeBank[i].id, raw: responses[i], norm: d.normalized[i].normalized })), sum, mean, score: scoreVal, formula: `(${norms.map(x=>x.toFixed(0)).join(' + ')}) / ${n} = ${mean.toFixed(3)}; (${mean.toFixed(3)} - 1) / 6 × 100 = ${scoreVal.toFixed(2)}` };
+  });
+  d.axis = {};
+  ['C','D'].forEach(axis => {
+    const facets = axis === 'C' ? ['C1','C2'] : ['D1','D2'];
+    const fA = d.facets[facets[0]].score, fB = d.facets[facets[1]].score;
+    const scoreVal = (fA + fB) / 2;
+    d.axis[axis] = { score: scoreVal, facetScores: { [facets[0]]: fA, [facets[1]]: fB }, formula: `(${fA.toFixed(2)} + ${fB.toFixed(2)}) / 2 = ${scoreVal.toFixed(2)}` };
+  });
+  const cOff = d.axis.C.score - 50, dOff = d.axis.D.score - 50;
+  d.position = { cOff, dOff };
+  const distance = Math.sqrt(cOff * cOff + dOff * dOff);
+  const MAX_DIST = 70.71;
+  const prototypicality = distance / MAX_DIST;
+  d.distance = { distance, maxDist: MAX_DIST, prototypicality, formula: `√((${cOff.toFixed(2)})² + (${dOff.toFixed(2)})²) = ${distance.toFixed(3)};  ${distance.toFixed(3)} / ${MAX_DIST} = ${prototypicality.toFixed(4)}` };
+  const angleRad = Math.atan2(dOff, cOff);
+  let angleDeg = angleRad * 180 / Math.PI;
+  if (angleDeg < 0) angleDeg += 360;
+  d.angle = { rad: angleRad, deg: angleDeg, formula: `atan2(${dOff.toFixed(2)}, ${cOff.toFixed(2)}) = ${angleRad.toFixed(4)} rad = ${angleDeg.toFixed(2)}°` };
+  let quadrant;
+  if (cOff >= 0 && dOff >= 0) quadrant = 0;
+  else if (cOff >= 0 && dOff < 0) quadrant = 1;
+  else if (cOff < 0 && dOff < 0) quadrant = 2;
+  else quadrant = 3;
+  d.quadrant = { index: quadrant, name: QUADRANT_NAMES[quadrant], archetype: QUADRANT_ARCHETYPES[quadrant], rule: `C${cOff>=0?'≥':'<'}50, D${dOff>=0?'≥':'<'}50 → ${QUADRANT_NAMES[quadrant]}` };
+  const entryEdge = QUAD_ENTRY_EDGE[quadrant];
+  const progress = (entryEdge - angleDeg + 360) % 360;
+  let gradation;
+  if (progress < 30) gradation = 'Early';
+  else if (progress < 60) gradation = 'Mid';
+  else gradation = 'Late';
+  d.gradation = { entryEdge, progress, band: gradation, rule: `Cycle entry edge for ${QUADRANT_NAMES[quadrant]} = ${entryEdge}°; progress = (${entryEdge} − ${angleDeg.toFixed(2)} + 360) mod 360 = ${progress.toFixed(2)}° → ${gradation}` };
+
+  const isNearCenter = prototypicality < 0.28;
+  d.tension = {};
+  ['C','D'].forEach(axis => {
+    const facets = axis === 'C' ? ['C1','C2'] : ['D1','D2'];
+    const s1 = d.facets[facets[0]].score, s2 = d.facets[facets[1]].score;
+    const o1 = s1 - 50, o2 = s2 - 50;
+    const opposite = (o1 * o2) < 0;
+    const strong = Math.abs(o1) >= TENSION_MARGIN && Math.abs(o2) >= TENSION_MARGIN;
+    const tense = opposite && strong;
+    let label;
+    if (tense) { const hi = o1 > 0 ? facets[0] : facets[1]; const lo = o1 > 0 ? facets[1] : facets[0]; label = `tense — pulled between ${FACET_POLES[hi][0]} and ${FACET_POLES[lo][1]}`; }
+    else label = 'coherent';
+    d.tension[axis] = { s1, s2, opposite, strong, tense, label, rule: `${FACET_NAMES[facets[0]]}=${s1.toFixed(1)} (${o1>=0?'+':''}${o1.toFixed(1)}), ${FACET_NAMES[facets[1]]}=${s2.toFixed(1)} (${o2>=0?'+':''}${o2.toFixed(1)}); opposite=${opposite}, both≥${TENSION_MARGIN}=${strong} → ${tense?'TENSION':'coherent'}` };
+  });
+  const hasTension = d.tension.C.tense || d.tension.D.tense;
+  let resultType, resultLabel, resultColor;
+  if (!isNearCenter) {
+    resultType = QUADRANT_NAMES[quadrant];
+    resultLabel = `${gradation} ${QUADRANT_NAMES[quadrant]}`;
+    resultColor = QUADRANT_COLORS[quadrant];
+  } else {
+    resultType = 'HaltingPoint';
+    resultLabel = hasTension ? '⏸️ The Halting Point · facet tension' : '⏸️ The Halting Point';
+    resultColor = 'threshold-c';
+  }
+  d.classify = { isNearCenter, hasTension, resultType, rule: `proto ${prototypicality.toFixed(4)} ${isNearCenter?'<':'≥'} 0.28 → ${isNearCenter ? 'HALTING POINT (boundary)'+(hasTension?' + tension MODIFIER':'') : 'CLEAR MODE — ' + QUADRANT_NAMES[quadrant]}` };
+
+  d.facetContrib = {};
+  ['C','D'].forEach(axis => {
+    const facets = axis === 'C' ? ['C1','C2'] : ['D1','D2'];
+    const t = d.tension[axis];
+    const s1 = t.s1, s2 = t.s2;
+    const d1 = Math.abs(s1 - 50), d2 = Math.abs(s2 - 50);
+    let dominant, dominantLabel;
+    if (t.tense) { const hi = s1 > s2 ? facets[0] : facets[1]; const lo = s1 > s2 ? facets[1] : facets[0]; dominant = 'tense'; dominantLabel = `pulled between ${FACET_POLES[hi][0]} and ${FACET_POLES[lo][1]}`; }
+    else if (Math.abs(s1 - s2) < 0.5) { dominant = 'equal'; dominantLabel = (d1 < 5 && d2 < 5) ? 'no strong driver' : 'balanced contribution'; }
+    else { dominant = d1 > d2 ? facets[0] : facets[1]; dominantLabel = `driven more by ${FACET_NAMES[dominant]}`; }
+    d.facetContrib[axis] = { s1, s2, d1, d2, dominant, dominantLabel, rule: `${FACET_NAMES[facets[0]]}: ${s1.toFixed(1)} (off ${d1.toFixed(1)}), ${FACET_NAMES[facets[1]]}: ${s2.toFixed(1)} (off ${d2.toFixed(1)}) → ${dominantLabel}` };
+  });
+  d.result = { type: resultType, label: resultLabel, color: resultColor, hasTension };
+  return d;
+}
+
+// ══════════════════════════════════════════════════
+// RESULTS DISPLAY
+// ══════════════════════════════════════════════════
+function showResults() {
+  document.getElementById('screen-quiz').style.display = 'none';
+  const d = score();
+  debugLog = d;
+  const r = d.result, cl = d.classify, q = d.quadrant;
+  const tenseAxes = ['C','D'].filter(ax => d.tension[ax].tense);
+  let html = `<div class="result-card">`;
+
+  if (cl.resultType === 'HaltingPoint' && !cl.hasTension) {
+    html += `<div class="result-icon">⏸️</div>`;
+    html += `<div class="result-mode threshold-c">The Halting Point</div>`;
+    html += `<div class="result-archetype">Genuinely balanced</div>`;
+    html += `<div class="result-gradation">Prototypicality ${d.distance.prototypicality.toFixed(3)} (below 0.28) · no facet tension</div>`;
+    html += `<p style="margin-top:1rem">Your responses don't strongly favor any one mode — not a failure, just an honest answer. The Halting Point is named for Turing's proof that no algorithm can determine in general whether a program will halt. Similarly, your mode resists algorithmic placement, and that is its own kind of truth.</p>`;
+  } else if (cl.resultType === 'HaltingPoint' && cl.hasTension) {
+    html += `<div class="result-icon">⏸️</div>`;
+    html += `<div class="result-mode threshold-c">The Halting Point</div>`;
+    html += `<div class="result-archetype">facet tension · two strong voices</div>`;
+    html += `<div class="result-gradation">Prototypicality ${d.distance.prototypicality.toFixed(3)} · facet tension on ${tenseAxes.map(ax=>AXIS_NAMES[ax]).join(' & ')} — near center from cancellation, not balance</div>`;
+    const lines = tenseAxes.map(ax => `<li>${AXIS_NAMES[ax]}: ${d.facetContrib[ax].dominantLabel}</li>`).join('');
+    html += `<p style="margin-top:1rem">Your point lands near the center — but <strong>not because you are balanced</strong>. ${tenseAxes.length>1?'On both axes, two':'On one axis, two'} of your facets pull hard in opposite directions and cancel. The center is real; the balance is not.</p>`;
+    html += `<ul style="text-align:left;margin:0.75rem 1.5rem;font-size:0.88rem;color:var(--muted)">${lines}</ul>`;
+    html += `<p style="margin-top:0.5rem">This is still the Halting Point — the wheel's boundary region. Read the facet signature, not the axis mean.</p>`;
+  } else {
+    html += `<div class="result-icon">${QUADRANT_EMOJI[q.index]}</div>`;
+    html += `<div class="result-mode ${QUADRANT_COLORS[q.index]}">${q.name}</div>`;
+    html += `<div class="result-archetype">${q.archetype}</div>`;
+    html += `<div class="result-gradation">${d.gradation.band} ${q.name} — angle ${d.angle.deg.toFixed(1)}°${tenseAxes.length?` · <span style="color:var(--threshold)">facet tension: ${tenseAxes.map(ax=>AXIS_NAMES[ax]).join(', ')}</span>`:''}</div>`;
+  }
+
+  html += `<div class="result-scores">`;
+  ['C','D'].forEach(axis => {
+    const scoreV = d.axis[axis].score;
+    const barColor = axis === 'C' ? 'var(--accent)' : '#88aacc';
+    html += `<div class="score-box">`;
+    html += `<div class="score-label">${AXIS_NAMES[axis]} (0–100)</div>`;
+    html += `<div class="score-value">${scoreV.toFixed(1)}</div>`;
+    html += `<div class="score-bar"><div class="score-bar-fill" style="width:${scoreV}%;background:${barColor}"></div></div>`;
+    html += `<div style="display:flex;justify-content:space-between;font-size:0.7rem;color:var(--muted);margin-top:2px"><span>${POLE_LOW[axis]}</span><span>${POLE_HIGH[axis]}</span></div>`;
+    html += `</div>`;
+  });
+  html += `</div>`;
+  html += `<div class="facet-detail">`;
+  ['C','D'].forEach(axis => {
+    const facets = axis === 'C' ? ['C1','C2'] : ['D1','D2'];
+    const fc = d.facetContrib[axis];
+    html += `<strong>${AXIS_NAMES[axis]}:</strong> ${FACET_NAMES[facets[0]]} ${d.facets[facets[0]].score.toFixed(1)}, ${FACET_NAMES[facets[1]]} ${d.facets[facets[1]].score.toFixed(1)}<br>`;
+    html += `<span style="font-size:0.8rem;color:var(--accent)">→ ${fc.dominantLabel}</span><br><br>`;
+  });
+  html += `<strong>Prototypicality:</strong> ${d.distance.prototypicality.toFixed(3)} (distance ${d.distance.distance.toFixed(1)} / ${d.distance.maxDist})<br>`;
+  html += `</div>`;
+  if (activeLength === 16) {
+    html += `<div class="caveat-box"><strong>MMA-16 — screening-tier read.</strong> Mode placement and the Halting Point are reliable. Facet-level detail is <strong>provisional</strong>: at 4 items per facet, each answer carries twice the leverage. Treat the facet breakdown as a rough read.</div>`;
+  }
+  html += `</div>`;
+  document.getElementById('result-content').innerHTML = html;
+  document.getElementById('screen-results').style.display = 'block';
+  renderDebug(d);
+}
+
+// ══════════════════════════════════════════════════
+// DEBUG PANEL
+// ══════════════════════════════════════════════════
+function generateDebugText(d) {
+  const L = '\n'; let t = '';
+  const h = (s) => { t += L + '═══ ' + s + ' ═══' + L; };
+  t += 'MODES OF MIND ASSESSMENT — DEBUG REPORT' + L;
+  t += '=========================================' + L;
+  t += 'Generated: ' + new Date().toISOString() + L;
+  h('STEP 1 — Raw Answers'); d.rawAnswers.forEach(a => { t += '  ' + a.id + ' [' + a.facet + ']'.padEnd(8) + ' raw=' + a.raw + '  ori=' + (a.orientation>0?'+1':'-1') + L; });
+  h('STEP 2 — Normalization'); t += 'Rule: if ori=-1 → norm = 8 − raw. Higher norm = more Deliberate/Sequential.' + L + L;
+  d.normalized.forEach(a => { t += '  ' + a.id.padEnd(6) + ' raw=' + a.raw + ' → norm=' + a.normalized + (a.raw!==a.normalized?' ← FLIPPED':'') + L; });
+  h('STEP 3 — Facet Scores'); t += 'Formula: facet score = (mean(normalized) − 1) / 6 × 100. Range 0–100.' + L;
+  FACETS.forEach(f => { const ff = d.facets[f]; t += '  ' + f + ': ' + ff.formula + L; });
+  h('STEP 4 — Axis Scores'); t += 'Axis C: ' + d.axis.C.formula + L; t += 'Axis D: ' + d.axis.D.formula + L;
+  h('STEP 5 — Position'); t += 'C offset: ' + d.position.cOff.toFixed(2) + L + 'D offset: ' + d.position.dOff.toFixed(2) + L;
+  h('STEP 6 — Distance & Prototypicality'); t += d.distance.formula + L;
+  h('STEP 7 — Angle'); t += d.angle.formula + L;
+  h('STEP 8 — Quadrant'); t += d.quadrant.rule + L;
+  h('STEP 9 — Gradation'); t += d.gradation.rule + L;
+  h('STEP 10 — Tension & Classification'); t += 'Has tension: ' + d.classify.hasTension + L + 'Rule: ' + d.classify.rule + L;
+  h('SUMMARY'); t += 'C1='+d.facets.C1.score.toFixed(1).padEnd(6)+'C2='+d.facets.C2.score.toFixed(1).padEnd(6)+'C='+d.axis.C.score.toFixed(1).padEnd(6)+'D1='+d.facets.D1.score.toFixed(1).padEnd(6)+'D2='+d.facets.D2.score.toFixed(1).padEnd(6)+'D='+d.axis.D.score.toFixed(1).padEnd(6)+'Proto='+d.distance.prototypicality.toFixed(3)+'  Angle='+d.angle.deg.toFixed(1)+'°  '+d.quadrant.name+' '+d.gradation.band+' → '+d.result.type + L;
+  t += L + 'END OF REPORT' + L;
+  return t;
+}
+
+function copyDebug() {
+  if (!debugLog) { alert('No results to copy.'); return; }
+  const text = generateDebugText(debugLog);
+  navigator.clipboard.writeText(text).then(() => { const b = document.getElementById('btn-copy-debug'); b.textContent = '✓ Copied!'; b.style.background='#3a5a3a'; setTimeout(()=>{b.textContent='📋 Copy All'; b.style.background='';},1500); }).catch(()=>{ const ta=document.createElement('textarea'); ta.value=text; ta.style.position='fixed'; ta.style.left='-9999px'; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); });
+}
+
+function renderDebug(d) {
+  let html = '';
+  const s = (title, content) => { html += `<div class="debug-section"><div class="debug-h2">${title}</div>${content}</div>`; };
+  const row = (label, val) => `<div class="debug-row"><span class="debug-label">${label}</span><span>${val}</span></div>`;
+  s('📋 STEP 1 — Raw Answers', '<table style="width:100%;border-collapse:collapse;font-size:0.72rem;margin-top:0.5rem"><tr style="color:var(--debug-label)"><th style="text-align:left">ID</th><th>Facet</th><th>Raw</th><th>Ori</th></tr>'+d.rawAnswers.map(a=>'<tr><td>'+a.id+'</td><td>'+a.facet+'</td><td style="text-align:center;color:var(--debug-value)">'+a.raw+'</td><td style="text-align:center">'+(a.orientation>0?'+1':'-1')+'</td></tr>').join('')+'</table>');
+  s('🔄 STEP 2 — Normalization', d.normalized.map(a=>row(a.id+' ('+a.facet+')', 'raw='+a.raw+' ori='+(a.orientation>0?'+1':'-1')+' → <span class="debug-value">norm='+a.normalized+'</span>'+(a.raw!==a.normalized?' <span class="debug-warn">(FLIPPED)</span>':''))).join(''));
+  s('📐 STEP 3 — Facet Scores', FACETS.map(f=>{const ff=d.facets[f];return '<div class="debug-h3">'+f+' — '+FACET_NAMES[f]+'</div>'+row('Score','<span class="debug-value">'+ff.score.toFixed(2)+'</span>')+'<div class="debug-formula">'+ff.formula+'</div>';}).join(''));
+  s('📏 STEP 4 — Axis Scores', row('Processing Mode (C)','<span class="debug-value">'+d.axis.C.score.toFixed(2)+'</span>')+row('Encoding Structure (D)','<span class="debug-value">'+d.axis.D.score.toFixed(2)+'</span>'));
+  s('📍 STEP 5 — Position', row('C − 50','<span class="debug-value">'+d.position.cOff.toFixed(2)+'</span>')+row('D − 50','<span class="debug-value">'+d.position.dOff.toFixed(2)+'</span>'));
+  s('📏 STEP 6 — Distance & Prototypicality', row('Distance','<span class="debug-value">'+d.distance.distance.toFixed(3)+'</span>')+row('Prototypicality','<span class="debug-value">'+d.distance.prototypicality.toFixed(4)+'</span>')+'<div class="debug-formula">'+d.distance.formula+'</div>');
+  s('🧭 STEP 7 — Angle', row('Degrees','<span class="debug-value">'+d.angle.deg.toFixed(2)+'°</span>')+'<div class="debug-formula">'+d.angle.formula+'</div>');
+  s('🧩 STEP 8 — Quadrant', row('Rule',d.quadrant.rule)+row('Quadrant','<span class="debug-value">'+d.quadrant.name+' — '+d.quadrant.archetype+'</span>'));
+  s('📐 STEP 9 — Gradation', row('Entry edge',d.gradation.entryEdge+'°')+row('Progress','<span class="debug-value">'+d.gradation.progress.toFixed(2)+'°</span>')+row('Band','<span class="debug-value">'+d.gradation.band+'</span>'));
+  s('⚖️ STEP 10 — Tension & Classification', row('Classification','<span class="debug-value">'+d.classify.rule+'</span>')+row('Result','<span class="debug-value">'+d.result.label+'</span>'));
+  document.getElementById('debug-content').innerHTML = html;
+  document.getElementById('debug-panel').classList.add('visible');
+}
+
+function toggleDebug() { document.getElementById('debug-panel').classList.toggle('visible'); }
+function resetAll() {
+  document.getElementById('screen-results').style.display = 'none';
+  document.getElementById('screen-intro').style.display = 'block';
+  document.getElementById('debug-panel').classList.remove('visible');
+  document.getElementById('debug-content').innerHTML = 'Run the assessment to see debug output.';
+  debugLog = null;
+}
+</script>
+</body>
+</html>

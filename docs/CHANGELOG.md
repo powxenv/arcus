@@ -73,11 +73,33 @@ Reconsidered whether Test 2 should use the same methodology as Test 1. Riding's 
 
 Removed duplicate sections, simplified academic language, stripped implementation artifacts from the design doc.
 
-### Deferred
-- Profile re-audit (`02b-modes-result-profiles.md`).
-- Build (`mma-debug.html`) and simulation (`mma-simulate.ts`).
-- Behavioral enrichment module (optional CRT-style puzzles — explored in methodology evaluation, deferred as separate scope).
+### Second audit pass — item-bank construct-purity review
 
+After the initial paper audit, a full end-to-end re-read found three additional overlap issues: C1.5, C2.5, D2.7 replaced. MMA-16 selection updated accordingly.
+
+### Methodology evaluation
+
+Reconsidered whether Test 2 should use the same methodology as Test 1. Riding's (1997) CSA and Frederick's (2005) CRT are behavioral. Decision: keep the methodology, add a domain-specific honesty note (self-report is weaker for cognition than affect).
+
+### Behavioral-scenario conversion
+
+Three C1 trait-endorsement items converted to behavioral scenarios. All 32 items now use "what do you do?" framing.
+
+### Documentation cleanup
+
+Removed duplicate sections, simplified academic language, stripped implementation artifacts.
+
+### Profiles re-audited, research paper, build
+
+- `02b-modes-result-profiles.md` re-audited. Halting Point boundary profile added. "Your Halting Point" closing line renamed to "Your Halting Line".
+- `mma-debug.html` implemented (debug build, MMA-32/MMA-16 toggle, scoring engine, debug panel). All four quadrants verified.
+- `docs/MMA-research-paper.md` created (public-facing companion, following SCA's format).
+
+Total items replaced in v0.3: 10.
+
+### Deferred
+- Simulation (`mma-simulate.ts`).
+- Behavioral enrichment module (optional CRT-style puzzles at end).
 ## v0.20 (2026-06-19): two lengths — SCA-32 standard + SCA-16 short form
 
 Why: offer a quicker assessment for respondents with less time or attention, without compromising the framework's honesty stance.
