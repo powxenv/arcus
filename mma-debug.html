@@ -71,7 +71,7 @@
 </div>
 <div id="screen-heuristics" style="display:none">
 <h2>🧩 Decision Strategy</h2>
-<p>A few quick choices. There are no right answers — pick what you would actually do.</p>
+<p>A few quick choices. There are no right answers. Pick what you would actually do.</p>
 <div id="heuristics-container"></div>
 <div class="nav-row"><button class="btn btn-secondary" onclick="prevHeuristics()">← Back</button><button class="btn btn-primary" onclick="nextToCRT()">Continue →</button></div>
 </div>
@@ -119,12 +119,16 @@ const CRT_ITEMS = [
   { id:'CRT5', q:'A farmer has 17 sheep. All but 9 die. How many are left?', a:'9', unit:'' },
 ];
 const HEURISTIC_ITEMS = [
-  { id:'H1', scenario:'Two job offers. Offer A: 20% higher salary, but longer commute, smaller team, less growth. Offer B: lower salary, but short commute, larger team, more growth. Which do you choose?', optA:'Offer A (one strong reason)', optB:'Offer B (many good reasons)' },
-  { id:'H2', scenario:'Two apartments. Apartment A: best location, but smaller, noisier, older. Apartment B: further away, but spacious, quiet, modern. Which do you choose?', optA:'Apartment A (one strong reason)', optB:'Apartment B (many good reasons)' },
-  { id:'H3', scenario:'Two phones. Phone A: best camera by far, but shorter battery, heavier, pricier. Phone B: decent camera, but long battery, lightweight, cheaper. Which do you choose?', optA:'Phone A (one strong reason)', optB:'Phone B (many good reasons)' },
-  { id:'H4', scenario:'Two restaurants. Restaurant A: highest-rated, but far, expensive, long wait. Restaurant B: decent rating, but nearby, affordable, no wait. Which do you choose?', optA:'Restaurant A (one strong reason)', optB:'Restaurant B (many good reasons)' },
-  { id:'H5', scenario:'Two vacation spots. Spot A: most beautiful, but expensive, long flight, crowded. Spot B: pleasant, but affordable, short drive, uncrowded. Which do you choose?', optA:'Spot A (one strong reason)', optB:'Spot B (many good reasons)' },
-  { id:'H6', scenario:'Two courses. Course A: best professor, but hard grading, early schedule, more work. Course B: decent professor, but easy grading, flexible schedule, less work. Which do you choose?', optA:'Course A (one strong reason)', optB:'Course B (many good reasons)' },
+  { id:'H1', scenario:'Two job offers. Offer A: 20% higher salary, but longer commute, smaller team, less growth. Offer B: lower salary, but short commute, larger team, more growth.', optA:'Offer A', optB:'Offer B' },
+  { id:'H2', scenario:'Two apartments. Apartment A: best location, but smaller, noisier, older. Apartment B: further away, but spacious, quiet, modern.', optA:'Apartment A', optB:'Apartment B' },
+  { id:'H3', scenario:'Two phones. Phone A: best camera by far, but shorter battery, heavier, pricier. Phone B: decent camera, but long battery, lightweight, cheaper.', optA:'Phone A', optB:'Phone B' },
+  { id:'H4', scenario:'Two restaurants. Restaurant A: highest-rated, but far, expensive, long wait. Restaurant B: decent rating, but nearby, affordable, no wait.', optA:'Restaurant A', optB:'Restaurant B' },
+  { id:'H5', scenario:'Two vacation spots. Spot A: most beautiful, but expensive, long flight, crowded. Spot B: pleasant, but affordable, short drive, uncrowded.', optA:'Spot A', optB:'Spot B' },
+  { id:'H6', scenario:'Two courses. Course A: best professor, but hard grading, early schedule, more work. Course B: decent professor, but easy grading, flexible schedule, less work.', optA:'Course A', optB:'Course B' },
+  { id:'H7', scenario:'Two laptops. Laptop A: fastest processor, but heavy, short battery, expensive. Laptop B: adequate processor, but lightweight, long battery, affordable.', optA:'Laptop A', optB:'Laptop B' },
+  { id:'H8', scenario:'Two cities to move to. City A: best career opportunities, but high cost, far from family, cold climate. City B: decent opportunities, but affordable, near family, mild climate.', optA:'City A', optB:'City B' },
+  { id:'H9', scenario:'Two cars. Car A: best safety rating, but expensive, large, fuel-hungry. Car B: adequate safety, but affordable, compact, fuel-efficient.', optA:'Car A', optB:'Car B' },
+  { id:'H10', scenario:'Two streaming services. Service A: best original content, but pricier, ads, fewer movies. Service B: decent originals, but cheaper, ad-free, huge movie library.', optA:'Service A', optB:'Service B' },
 ];
 const THRESHOLD = 60;
 const TYPE_DATA = [

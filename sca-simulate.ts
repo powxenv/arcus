@@ -10,7 +10,7 @@
  *
  * WHAT THIS IS NOT: pilot data, validation, or evidence of reliability, construct
  * validity, or population norms. The "expected vs actual" checks are tautological
- * by construction — the same centers generate the respondents and define the
+ * by construction : the same centers generate the respondents and define the
  * expectations; synthetic respondents have no psychology. Per the framework's
  * honest-ceiling rule (00 §2.1), nothing here moves the SCA from "theory-informed"
  * toward "validated". Do not cite it as such.
@@ -78,7 +78,7 @@ interface ScoreResult {
 
 // ── ITEM BANK ──────────────────────────────────────────
 const ITEMS: Item[] = [
-  // A1 — Baseline Arousal (8)
+  // A1 : Baseline Arousal (8)
   { id: "A1.1", facet: "A1", poleA: "Already at full charge.", poleB: "Still coming online, quietly." },
   { id: "A1.2", facet: "A1", poleA: "Stays active.", poleB: "Settles into quiet." },
   { id: "A1.3", facet: "A1", poleA: "A steady current running.", poleB: "A stillness." },
@@ -87,7 +87,7 @@ const ITEMS: Item[] = [
   { id: "A1.6", facet: "A1", poleA: "Primed.", poleB: "Deeply still." },
   { id: "A1.7", facet: "A1", poleA: "Still humming.", poleB: "Winding down." },
   { id: "A1.8", facet: "A1", poleA: "Hotter.", poleB: "Cooler." },
-  // A2 — Stimulation Appetite (8)
+  // A2 : Stimulation Appetite (8)
   { id: "A2.1", facet: "A2", poleA: "Intense.", poleB: "Gentle." },
   { id: "A2.2", facet: "A2", poleA: "Busy and full.", poleB: "Sparse and open." },
   { id: "A2.3", facet: "A2", poleA: "Fast.", poleB: "Slow." },
@@ -96,7 +96,7 @@ const ITEMS: Item[] = [
   { id: "A2.6", facet: "A2", poleA: "Restless. You want more.", poleB: "Content. The quiet is fine." },
   { id: "A2.7", facet: "A2", poleA: "Changing and varied.", poleB: "Steady and uniform." },
   { id: "A2.8", facet: "A2", poleA: "More stimulation.", poleB: "Less stimulation." },
-  // B1 — Social Approach (8)
+  // B1 : Social Approach (8)
   { id: "B1.1", facet: "B1", poleA: "Talk it out with someone.", poleB: "Sit with it alone." },
   { id: "B1.2", facet: "B1", poleA: "Move toward.", poleB: "Let come to you." },
   { id: "B1.3", facet: "B1", poleA: "The center.", poleB: "The edges." },
@@ -105,7 +105,7 @@ const ITEMS: Item[] = [
   { id: "B1.6", facet: "B1", poleA: "People.", poleB: "Your own world." },
   { id: "B1.7", facet: "B1", poleA: "Other people.", poleB: "Solitude." },
   { id: "B1.8", facet: "B1", poleA: "Actively pursue.", poleB: "Let find you." },
-  // B2 — Agency (8)
+  // B2 : Agency (8)
   { id: "B2.1", facet: "B2", poleA: "Make it and move.", poleB: "Sit with it before acting." },
   { id: "B2.2", facet: "B2", poleA: "Step forward and lead.", poleB: "Support whoever steps forward." },
   { id: "B2.3", facet: "B2", poleA: "Shape.", poleB: "Let unfold." },
@@ -219,7 +219,7 @@ function score(rawResponses: number[], orientations?: number[], activeIdxs?: num
   else if (a_off < 0 && b_off < 0) quadrant = 2;
   else quadrant = 3;
 
-  // Step 9: Gradation — progress through the season along the cycle
+  // Step 9: Gradation : progress through the season along the cycle
   // Cycle order: Spring → Summer → Autumn → Winter → Spring.
   // "Early" = just entered from the previous season; "Late" = about to exit.
   // Entry edge = angle of the boundary with the PREVIOUS season in cycle order:
@@ -257,7 +257,7 @@ function score(rawResponses: number[], orientations?: number[], activeIdxs?: num
   //     axes is cluster-compatible.
   //   - BOUNDARY CONDITION: the near-center / low-prototypicality region. It is
   //     the sparsest part of any circumplex, so no density method would return
-  //     it as a cluster — it is not a type. We call it the Threshold.
+  //     it as a cluster : it is not a type. We call it the Threshold.
   //   - MODIFIER: facet tension. A within-person score pattern, not a between-
   //     person cluster, so it cannot be a type either. It attaches to whatever
   //     result applies and, on the Threshold, rewrites the narrative from
@@ -405,7 +405,7 @@ Math.random = seededRandom;
 
 const respondents: [string, number[], number[]][] = [];
 
-// Core archetypes — each quadrant
+// Core archetypes : each quadrant
 respondents.push(genExtreme("Summer-Pure", 6.5, 6.5));
 respondents.push(genExtreme("Autumn-Pure", 6.5, 1.5));
 respondents.push(genExtreme("Winter-Pure", 1.5, 1.5));
@@ -417,7 +417,7 @@ respondents.push(genExtreme("Autumn-Mild", 5.5, 2.5));
 respondents.push(genExtreme("Winter-Mild", 2.5, 2.5));
 respondents.push(genExtreme("Spring-Mild", 2.5, 5.5));
 
-// Gradation variants — same quadrant, different angles
+// Gradation variants : same quadrant, different angles
 respondents.push(genExtreme("Summer-Early", 5.8, 5.2));
 respondents.push(genExtreme("Summer-Mid", 5.5, 5.5));
 respondents.push(genExtreme("Summer-Late", 5.2, 5.8));
@@ -469,8 +469,8 @@ respondents.push(gen("Split-AxisB-Fifty", 6.0, 6.0, 4.0, 4.0, 0.15));
 Math.random = _origRandom; // restore
 
 // ── RUN SCORING (both lengths) ───────────────────────
-// Each synthetic respondent is scored twice — once as SCA-32 (full bank) and once
-// as SCA-16 (subset) — from the SAME raw answers. Comparing the two quantifies the
+// Each synthetic respondent is scored twice : once as SCA-32 (full bank) and once
+// as SCA-16 (subset) : from the SAME raw answers. Comparing the two quantifies the
 // information loss the short form trades for speed. This is a self-consistency
 // harness (see header); it does not validate either form.
 const results: ScoreResult[] = [];
@@ -490,7 +490,7 @@ for (const [name, raw, orient] of respondents) {
 // directional agreement = same dominant facet per axis (the noisier signal).
 function crossLengthAnalysis(r32: ScoreResult[], r16: ScoreResult[]): void {
   console.log("=".repeat(78));
-  console.log("CROSS-LENGTH AGREEMENT — SCA-32 vs SCA-16 (same synthetic respondents)");
+  console.log("CROSS-LENGTH AGREEMENT : SCA-32 vs SCA-16 (same synthetic respondents)");
   console.log("=".repeat(78));
   const n = r32.length;
   let seasonAgree = 0, seasonDisagree = [] as string[];
@@ -536,7 +536,7 @@ function pad(s: string, n: number): string { return s.padEnd(n); }
 
 function analyze(res: ScoreResult[]): void {
   console.log("=".repeat(78));
-  console.log("SCA SIMULATION ANALYSIS — 30+ DIVERSE RESPONDENTS");
+  console.log("SCA SIMULATION ANALYSIS : 30+ DIVERSE RESPONDENTS");
   console.log("=".repeat(78));
 
   // 1. Result distribution
@@ -562,7 +562,7 @@ function analyze(res: ScoreResult[]): void {
   const total = res.length;
   console.log(`\n  Total respondents: ${total}`);
   console.log(`  Types (seasonal clusters): ${total - threshCount} (${((total-threshCount)/total*100).toFixed(1)}%)`);
-  console.log(`  Threshold (boundary, not a type): ${threshCount} (${(threshCount/total*100).toFixed(1)}%) — of which ${threshTenseCount} carry the facet-tension modifier`);
+  console.log(`  Threshold (boundary, not a type): ${threshCount} (${(threshCount/total*100).toFixed(1)}%) : of which ${threshTenseCount} carry the facet-tension modifier`);
   console.log(`\n  Quadrant distribution:`);
   for (const q of QUADRANT_NAMES) {
     const c = quadCounts.get(q) ?? 0;
@@ -610,7 +610,7 @@ function analyze(res: ScoreResult[]): void {
     const mean = scores.reduce((a, b) => a + b, 0) / scores.length;
     const std = Math.sqrt(scores.reduce((a, s) => a + (s - mean) ** 2, 0) / scores.length);
     const avgVar = variances.reduce((a, b) => a + b, 0) / variances.length;
-    console.log(`\n  ${facet} — ${FACET_NAMES[facet]}:`);
+    console.log(`\n  ${facet} : ${FACET_NAMES[facet]}:`);
     console.log(`    Score range: ${Math.min(...scores).toFixed(1)} – ${Math.max(...scores).toFixed(1)}  `
       + `Mean: ${mean.toFixed(1)}  StdDev: ${std.toFixed(1)}`);
     console.log(`    Within-facet variance (consistency): mean=${avgVar.toFixed(1)}  `
@@ -635,7 +635,7 @@ function analyze(res: ScoreResult[]): void {
 
   const nearCenter = res.filter(r => r.is_near_center);
   console.log(`\n  Near-center cases (proto < 0.28), all reported as the Threshold boundary: ${nearCenter.length}`);
-  console.log(`  [calm = equinox/balanced narrative; tense = facet-tension modifier narrative — same result, different framing]`);
+  console.log(`  [calm = equinox/balanced narrative; tense = facet-tension modifier narrative : same result, different framing]`);
   for (const r of nearCenter) {
     const sub = r.has_tension ? "Threshold+tension" : "Threshold (calm)";
     const tA = r.contrib.A.dominant === "tense" ? " A-tense" : "";
@@ -794,7 +794,7 @@ function analyze(res: ScoreResult[]): void {
 
   // 11. Scoring sensitivity
   console.log("\n" + "─".repeat(78));
-  console.log("11. SCORING SENSITIVITY — ONE-POINT PERTURBATION");
+  console.log("11. SCORING SENSITIVITY : ONE-POINT PERTURBATION");
   console.log("─".repeat(78));
   const summer = res.find(r => r.name === "Summer-Pure")!;
   console.log(`\n  Baseline: Summer-Pure → A=${summer.axis.A.score.toFixed(1)} B=${summer.axis.B.score.toFixed(1)} `
@@ -824,7 +824,7 @@ function analyze(res: ScoreResult[]): void {
   console.log("─".repeat(78));
   for (const facet of FACETS) {
     const idxs = FACET_ITEMS[facet];
-    console.log(`\n  ${facet} — ${FACET_NAMES[facet]}:`);
+    console.log(`\n  ${facet} : ${FACET_NAMES[facet]}:`);
     const itemMeans: { id: string; mean: number; std: number }[] = [];
     for (const i of idxs) {
       const vals = res.map(r => r.normalized[i]);
@@ -838,7 +838,7 @@ function analyze(res: ScoreResult[]): void {
       console.log(`    ${pad(im.id, 6)} mean=${im.mean.toFixed(2).padStart(5)}  std=${im.std.toFixed(2)}  ${bar}`);
     }
     const spread = itemMeans[0].mean - itemMeans[itemMeans.length-1].mean;
-    const flag = spread > 2.5 ? " ⚠️ LARGE SPREAD — items may differ in difficulty" : "";
+    const flag = spread > 2.5 ? " ⚠️ LARGE SPREAD : items may differ in difficulty" : "";
     console.log(`    Spread: ${spread.toFixed(2)}${flag}`);
   }
 
@@ -875,7 +875,7 @@ function analyze(res: ScoreResult[]): void {
   };
   for (const r of res) {
     if (tensionExpected[r.name] && !r.has_tension) {
-      issues.push(`Validity-fix regression: ${r.name} is divergent but has_tension=false — it would be reported as balanced.`);
+      issues.push(`Validity-fix regression: ${r.name} is divergent but has_tension=false : it would be reported as balanced.`);
     }
   }
 

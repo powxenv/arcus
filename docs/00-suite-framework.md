@@ -84,7 +84,7 @@ The suite measures the affirming range of each construct and cannot detect malad
 
 **Evidence vs synthesis.** NFC, FI (Epstein 1996, verified), and heuristics use (Gigerenzer 2011, Luan 2011, verified) are each validated. **The stated-vs-observed gap as the interpretive lead is our synthesis and is unvalidated.** It is conservative because the gap is a transparent computation over two validated measurements, but no study has validated the gap as a construct.
 
-**Results.** The quadrant type (Integrator/Logician/Reader/Operator from NFC×FI) is reported alongside an observed-strategy read (recognition/take-the-best/deliberate-comparison) and the signed gap between stated and observed. The result reads as a Turing signature: "you say X; your choices show Y."
+**Results.** The quadrant type (Integrator/Logician/Reader/Operator from NFC×FI) is reported alongside an observed-strategy read (take-the-best/tallying/adaptive) and the signed gap between stated and observed. The result reads as a Turing signature: "you say X; your choices show Y."
 
 **Build requirement.** The heuristics battery is a behavioral decision task with a prior-exposure problem (strategies are teachable). It requires a refreshed/rotated item bank at launch. This is beyond a single-session static form and is flagged as a build feature.
 

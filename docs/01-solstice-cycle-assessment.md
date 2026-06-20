@@ -80,7 +80,7 @@ A note on the metaphor. The solstices are the cycle's extremes (most and least l
 | Longest and shortest day | Summer (Bright) and Winter (Dim) are the high and low poles of the self's cycle |
 | Balance and transition | The near-center result is the equinox position, a threshold between seasons, not the solstice |
 
-Honesty note on Spring and Autumn. They are the transitional seasons, and we place them by current activation state, not trajectory: Spring is low-activation (energy still gathering), Autumn is high-activation (energy still abundant). Their trajectory (rising or falling) is captured by the angle gradation, not the axis. This is a designer reading grounded in the activation construct.
+Honesty note on Spring and Autumn. They are the transitional seasons, and we place them by current activation state: Spring is low-activation (energy still gathering), Autumn is high-activation (energy still abundant). Their direction (rising or falling) is captured by the v0.23 trajectory component, not the axis. This is a designer reading grounded in the activation construct.
 
 ---
 

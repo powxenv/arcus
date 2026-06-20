@@ -15,7 +15,7 @@ type Strategy = "take-the-best" | "tallying" | "adaptive";
 type GapLabel = "congruent" | "divergent" | "neutral";
 type Stance = string;
 
-const NFC_ITEMS_N = 8, FI_ITEMS_N = 8, HEURISTIC_ITEMS_N = 6, CRT_ITEMS_N = 5;
+const NFC_ITEMS_N = 8, FI_ITEMS_N = 8, HEURISTIC_ITEMS_N = 10, CRT_ITEMS_N = 5;
 const THRESHOLD = 60;
 const TYPE_NAMES = ["Integrator", "Logician", "Reader", "Operator"];
 

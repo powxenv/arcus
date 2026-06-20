@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Solstice Cycle Assessment — Debug Build v0.17</title>
+<title>Solstice Cycle Assessment : Debug Build v0.17</title>
 <style>
   :root {
     --bg: #0d0d12;
@@ -165,7 +165,7 @@
   <div id="screen-intro">
     <h1>☀️ Solstice Cycle Assessment</h1>
     <p>Two dimensions. One place on the cycle of light. Choose a length.</p>
-    <p style="font-size:0.9rem">This is a <strong>debug build</strong>. After you finish, a panel will show every calculation step — raw answers, normalization, facet scoring, axis derivation, prototypicality, angle, gradation, and result selection logic.</p>
+    <p style="font-size:0.9rem">This is a <strong>debug build</strong>. After you finish, a panel will show every calculation step : raw answers, normalization, facet scoring, axis derivation, prototypicality, angle, gradation, and result selection logic.</p>
     <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:1.25rem">
       <div class="length-card" style="flex:1;min-width:240px;background:var(--surface);border-radius:12px;padding:1.25rem">
         <div style="font-weight:700;color:var(--accent)">SCA-32 · Standard</div>
@@ -208,13 +208,13 @@
 
 <script>
 // ──────────────────────────────────────────────
-// ITEM BANK — 32 items across 4 facets
+// ITEM BANK : 32 items across 4 facets
 // Each item: { id, facet, stem, poleA (Bright/Outward), poleB (Dim/Inward) }
 // For Axis A: Bright = high activation, Dim = low
 // For Axis B: Outward = approach/agentic, Inward = withdrawal/receptive
 // ──────────────────────────────────────────────
 const ITEMS = [
-  // A1 — Baseline Arousal (8 items)
+  // A1 : Baseline Arousal (8 items)
   { id:'A1.1', facet:'A1', stem:'When you wake, you\'re…', poleA:'Already at full charge.', poleB:'Still coming online, quietly.' },
   { id:'A1.2', facet:'A1', stem:'When nothing demands your attention, your mind…', poleA:'Stays active.', poleB:'Settles into quiet.' },
   { id:'A1.3', facet:'A1', stem:'Inside you, there\'s…', poleA:'A steady current running.', poleB:'A stillness.' },
@@ -224,7 +224,7 @@ const ITEMS = [
   { id:'A1.7', facet:'A1', stem:'At the end of a full day, you\'re…', poleA:'Still humming.', poleB:'Winding down.' },
   { id:'A1.8', facet:'A1', stem:'Compared to most people, you run…', poleA:'Hotter.', poleB:'Cooler.' },
 
-  // A2 — Stimulation Appetite (8 items)
+  // A2 : Stimulation Appetite (8 items)
   { id:'A2.1', facet:'A2', stem:'The sensory intensity you prefer is…', poleA:'Intense.', poleB:'Gentle.' },
   { id:'A2.2', facet:'A2', stem:'You prefer your environment…', poleA:'Busy and full.', poleB:'Sparse and open.' },
   { id:'A2.3', facet:'A2', stem:'The pace you prefer is…', poleA:'Fast.', poleB:'Slow.' },
@@ -234,7 +234,7 @@ const ITEMS = [
   { id:'A2.7', facet:'A2', stem:'You prefer things…', poleA:'Changing and varied.', poleB:'Steady and uniform.' },
   { id:'A2.8', facet:'A2', stem:'Compared to most people, you run on…', poleA:'More stimulation.', poleB:'Less stimulation.' },
 
-  // B1 — Social Approach (8 items)
+  // B1 : Social Approach (8 items)
   { id:'B1.1', facet:'B1', stem:'When something\'s on your mind, you want to…', poleA:'Talk it out with someone.', poleB:'Sit with it alone.' },
   { id:'B1.2', facet:'B1', stem:'Meeting new people is something you…', poleA:'Move toward.', poleB:'Let come to you.' },
   { id:'B1.3', facet:'B1', stem:'In a group, you move toward…', poleA:'The center.', poleB:'The edges.' },
@@ -244,7 +244,7 @@ const ITEMS = [
   { id:'B1.7', facet:'B1', stem:'Your primary energy source is…', poleA:'Other people.', poleB:'Solitude.' },
   { id:'B1.8', facet:'B1', stem:'Connection with others is something you…', poleA:'Actively pursue.', poleB:'Let find you.' },
 
-  // B2 — Agency (8 items)
+  // B2 : Agency (8 items)
   { id:'B2.1', facet:'B2', stem:'When a decision is yours, you…', poleA:'Make it and move.', poleB:'Sit with it before acting.' },
   { id:'B2.2', facet:'B2', stem:'In groups, you tend to…', poleA:'Step forward and lead.', poleB:'Support whoever steps forward.' },
   { id:'B2.3', facet:'B2', stem:'You want to ___ how things turn out.', poleA:'Shape.', poleB:'Let unfold.' },
@@ -349,7 +349,7 @@ function renderQuestion() {
 
   // Build HTML
   let html = `<div class="question-block">`;
-  html += `<div class="facet-badge">${item.id} — ${FACET_NAMES[item.facet]} (${AXIS_NAMES[AXIS_OF[item.facet]]})</div>`;
+  html += `<div class="facet-badge">${item.id} : ${FACET_NAMES[item.facet]} (${AXIS_NAMES[AXIS_OF[item.facet]]})</div>`;
   html += `<div class="question-stem">${item.stem}</div>`;
   html += `<div class="scale-container">`;
 
@@ -392,7 +392,7 @@ function next() {
     currentIdx++;
     renderQuestion();
   } else {
-    // All done — score
+    // All done : score
     showResults();
   }
 }
@@ -514,7 +514,7 @@ function score() {
   // ── Step 10: Facet tension detection (per axis) ──
   // An axis is "tense" when its two facets sit on OPPOSITE sides of 50 AND both
   // are ≥ TENSION_MARGIN from 50. That is the signature of cancellation: the axis
-  // mean lands near 50 because two strong facets pull opposite ways — not because
+  // mean lands near 50 because two strong facets pull opposite ways : not because
   // the person is moderate. Without this, a divergent profile (e.g. A1=77, A2=21)
   // is misreported as "balanced / Threshold".
   const isNearCenter = prototypicality < 0.28;
@@ -531,7 +531,7 @@ function score() {
     if (tense) {
       const hi = o1 > 0 ? facets[0] : facets[1];
       const lo = o1 > 0 ? facets[1] : facets[0];
-      label = `tense — pulled between ${FACET_POLES[hi][0]} and ${FACET_POLES[lo][1]}`;
+      label = `tense : pulled between ${FACET_POLES[hi][0]} and ${FACET_POLES[lo][1]}`;
     } else {
       label = 'coherent';
     }
@@ -544,7 +544,7 @@ function score() {
   // ── Step 11: Classify ──
   // Types = the four seasonal quadrants (cluster-compatible 2×2 on two validated
   // axes; the kind of structure Gerlach 2018 and Kerber 2021 recover as clusters).
-  // The near-center region is NOT a type — it is the sparsest part of any
+  // The near-center region is NOT a type : it is the sparsest part of any
   // circumplex, so no density-based method would return it as a cluster. It is a
   // single boundary condition, the Threshold. Facet tension is a diagnostic
   // modifier flag that may attach to any result; when it co-occurs with the
@@ -561,7 +561,7 @@ function score() {
     resultColor = 'threshold-c';
   }
   d.classify = { isNearCenter, hasTension, resultType,
-    rule: `proto ${prototypicality.toFixed(4)} ${isNearCenter?'<':'≥'} 0.28 → ${isNearCenter ? 'THRESHOLD (boundary; only type-countable result here)' : 'CLEAR SEASON — ' + QUADRANT_NAMES[quadrant]}` + (hasTension ? ' + facet-tension MODIFIER' : '')
+    rule: `proto ${prototypicality.toFixed(4)} ${isNearCenter?'<':'≥'} 0.28 → ${isNearCenter ? 'THRESHOLD (boundary; only type-countable result here)' : 'CLEAR SEASON : ' + QUADRANT_NAMES[quadrant]}` + (hasTension ? ' + facet-tension MODIFIER' : '')
   };
 
   // ── Step 12: Facet contribution (tension-aware) ──
@@ -635,25 +635,25 @@ function showResults() {
     html += `<div class="result-season threshold-c">The Threshold</div>`;
     html += `<div class="result-archetype">The Equinox</div>`;
     html += `<div class="result-gradation">Prototypicality ${d.distance.prototypicality.toFixed(3)} (below 0.28) · no facet tension</div>`;
-    html += `<p style="margin-top:1rem">You sit at the equinox — the balance point where outward and inward, bright and dim, are in equipoise. This is not a lack of definition; it is its own position. You see what the extremes cannot: both sides clearly, at once. You are the bridge between seasons, belonging to all of them without being claimed by any.</p>`;
+    html += `<p style="margin-top:1rem">You sit at the equinox : the balance point where outward and inward, bright and dim, are in equipoise. This is not a lack of definition; it is its own position. You see what the extremes cannot: both sides clearly, at once. You are the bridge between seasons, belonging to all of them without being claimed by any.</p>`;
   } else if (cl.resultType === 'Threshold' && cl.hasTension) {
-    // Same boundary result (Threshold) — the near-center region is one boundary,
+    // Same boundary result (Threshold) : the near-center region is one boundary,
     // not a second type. But the tension modifier rewrites the narrative: this
     // respondent is NOT balanced, and must not be told they are. The facet
     // signature leads.
     html += `<div class="result-icon">⚖️</div>`;
     html += `<div class="result-season threshold-c">The Threshold</div>`;
     html += `<div class="result-archetype">facet tension · two strong voices</div>`;
-    html += `<div class="result-gradation">Prototypicality ${d.distance.prototypicality.toFixed(3)} · facet tension on ${tenseAxes.map(ax=>AXIS_NAMES[ax]).join(' & ')} — near center from cancellation, not balance</div>`;
+    html += `<div class="result-gradation">Prototypicality ${d.distance.prototypicality.toFixed(3)} · facet tension on ${tenseAxes.map(ax=>AXIS_NAMES[ax]).join(' & ')} : near center from cancellation, not balance</div>`;
     const lines = tenseAxes.map(ax => `<li>${AXIS_NAMES[ax]}: ${d.facetContrib[ax].dominantLabel}</li>`).join('');
-    html += `<p style="margin-top:1rem">Your point lands near the center of the wheel — but <strong>not because you are balanced</strong>. ${tenseAxes.length>1?'On both axes, two':'On one axis, two'} of your facets pull hard in opposite directions and cancel at the axis level. The center is real; the balance is not. You hold strong opposing pulls at once.</p>`;
+    html += `<p style="margin-top:1rem">Your point lands near the center of the wheel : but <strong>not because you are balanced</strong>. ${tenseAxes.length>1?'On both axes, two':'On one axis, two'} of your facets pull hard in opposite directions and cancel at the axis level. The center is real; the balance is not. You hold strong opposing pulls at once.</p>`;
     html += `<ul style="text-align:left;margin:0.75rem 1.5rem;font-size:0.88rem;color:var(--muted)">${lines}</ul>`;
-    html += `<p style="margin-top:0.5rem">This is still the Threshold — the wheel's boundary region, not a season of its own. But read the facet signature, not the axis mean: that is where your result actually lives.</p>`;
+    html += `<p style="margin-top:0.5rem">This is still the Threshold : the wheel's boundary region, not a season of its own. But read the facet signature, not the axis mean: that is where your result actually lives.</p>`;
   } else {
     html += `<div class="result-icon">${QUADRANT_EMOJI[q.index]}</div>`;
     html += `<div class="result-season ${QUADRANT_COLORS[q.index]}">${q.name}</div>`;
     html += `<div class="result-archetype">${q.archetype}</div>`;
-    html += `<div class="result-gradation">${d.gradation.band} ${q.name} — angle ${d.angle.deg.toFixed(1)}°${tenseAxes.length?` · <span style="color:var(--threshold)">facet tension: ${tenseAxes.map(ax=>AXIS_NAMES[ax]).join(', ')}</span>`:''}</div>`;
+    html += `<div class="result-gradation">${d.gradation.band} ${q.name} : angle ${d.angle.deg.toFixed(1)}°${tenseAxes.length?` · <span style="color:var(--threshold)">facet tension: ${tenseAxes.map(ax=>AXIS_NAMES[ax]).join(', ')}</span>`:''}</div>`;
   }
 
   // v0.23: Trajectory direction modifier
@@ -679,7 +679,7 @@ function showResults() {
 
   // Short-form caveat: SCA-16 facet detail is provisional. Stated up front, per §8.1 honesty tier.
   if (activeLength === 16) {
-    html += `<div style="background:rgba(240,192,96,0.08);border:1px solid rgba(240,192,96,0.25);border-radius:8px;padding:0.75rem 1rem;margin:0.5rem 0 1rem;font-size:0.82rem;color:var(--accent)"><strong>SCA-16 — screening-tier read.</strong> Season placement and the Threshold are reliable. Facet-level detail (signature, tension modifier) is <strong>provisional</strong>: at 4 items per facet, each extreme answer carries twice the leverage it does in SCA-32. Treat the facet breakdown as a rough read, not a precise one.</div>`;
+    html += `<div style="background:rgba(240,192,96,0.08);border:1px solid rgba(240,192,96,0.25);border-radius:8px;padding:0.75rem 1rem;margin:0.5rem 0 1rem;font-size:0.82rem;color:var(--accent)"><strong>SCA-16 : screening-tier read.</strong> Season placement and the Threshold are reliable. Facet-level detail (signature, tension modifier) is <strong>provisional</strong>: at 4 items per facet, each extreme answer carries twice the leverage it does in SCA-32. Treat the facet breakdown as a rough read, not a precise one.</div>`;
   }
 
   // Facet detail
@@ -712,29 +712,29 @@ function generateDebugText(d) {
   const s = (label, val) => { t += label + ': ' + val + L; };
   const f = (label, val) => { t += '  ' + label + ' = ' + val + L; };
 
-  t += 'SOLSTICE CYCLE ASSESSMENT — DEBUG REPORT' + L;
+  t += 'SOLSTICE CYCLE ASSESSMENT : DEBUG REPORT' + L;
   t += '=========================================' + L;
   t += 'Generated: ' + new Date().toISOString() + L;
 
-  h('STEP 1 — Raw Answers (32 items)');
+  h('STEP 1 : Raw Answers (32 items)');
   t += 'Orientation: +1 = Bright/Outward pole on RIGHT (raw 7 = max). -1 = flipped in normalization.' + L + L;
   d.rawAnswers.forEach(a => {
     t += '  ' + a.id + ' [' + a.facet + ']'.padEnd(8) + ' raw=' + a.raw + '  ori=' + (a.orientation>0?'+1':'-1').padEnd(3);
     t += '  A="' + a.poleADesc + '"  B="' + a.poleBDesc + '"' + L;
   });
 
-  h('STEP 2 — Normalization');
+  h('STEP 2 : Normalization');
   t += 'Rule: if ori=-1 → norm = 8 − raw. Higher norm = more Bright/Outward.' + L + L;
   d.normalized.forEach(a => {
     const flipped = a.raw !== a.normalized ? ' ← FLIPPED' : '';
     t += '  ' + a.id.padEnd(6) + ' raw=' + a.raw + ' → norm=' + a.normalized + flipped + L;
   });
 
-  h('STEP 3 — Facet Scores');
+  h('STEP 3 : Facet Scores');
   t += 'Formula: facet score = (mean(normalized) − 1) / 6 × 100. Range 0–100.' + L;
   FACETS.forEach(facet => {
     const f = d.facets[facet];
-    t += L + '  ' + facet + ' — ' + FACET_NAMES[facet] + ' (' + AXIS_NAMES[AXIS_OF[facet]] + ')' + L;
+    t += L + '  ' + facet + ' : ' + FACET_NAMES[facet] + ' (' + AXIS_NAMES[AXIS_OF[facet]] + ')' + L;
     f.items.forEach(it => { t += '    ' + it.id + ' norm=' + it.norm + L; });
     t += '    Sum = ' + f.sum + L;
     t += '    Mean = ' + f.mean.toFixed(4) + L;
@@ -742,69 +742,69 @@ function generateDebugText(d) {
     t += '    Formula: (' + f.items.map(it=>it.norm).join('+') + ') / 8 = ' + f.mean.toFixed(4) + '; (' + f.mean.toFixed(4) + ' − 1) / 6 × 100 = ' + f.score.toFixed(2) + L;
   });
 
-  h('STEP 4 — Axis Scores');
+  h('STEP 4 : Axis Scores');
   t += 'Formula: axis score = mean of its 2 facet scores (both already 0–100).' + L;
   ['A','B'].forEach(axis => {
     const a = d.axis[axis];
     const fA = axis === 'A' ? 'A1' : 'B1';
     const fB = axis === 'A' ? 'A2' : 'B2';
-    t += L + '  Axis ' + axis + ' — ' + AXIS_NAMES[axis] + L;
+    t += L + '  Axis ' + axis + ' : ' + AXIS_NAMES[axis] + L;
     t += '    ' + fA + ' = ' + a.facetScores[fA].toFixed(4) + L;
     t += '    ' + fB + ' = ' + a.facetScores[fB].toFixed(4) + L;
     t += '    Score = ' + a.score.toFixed(4) + L;
   });
 
-  h('STEP 5 — Position Relative to Center (50, 50)');
+  h('STEP 5 : Position Relative to Center (50, 50)');
   t += '  A − 50 = ' + d.position.aOff.toFixed(4) + L;
   t += '  B − 50 = ' + d.position.bOff.toFixed(4) + L;
 
-  h('STEP 6 — Distance & Prototypicality');
+  h('STEP 6 : Distance & Prototypicality');
   t += 'Formula: distance = √(A_off² + B_off²). max = √(50² + 50²) = 70.71. proto = distance / 70.71.' + L;
   t += '  Distance = ' + d.distance.distance.toFixed(4) + L;
   t += '  Max = ' + d.distance.maxDist + L;
   t += '  Prototypicality = ' + d.distance.prototypicality.toFixed(4) + L;
   t += '  Calculation: √((' + d.position.aOff.toFixed(2) + ')² + (' + d.position.bOff.toFixed(2) + ')²) = ' + d.distance.distance.toFixed(3) + ' / 70.71 = ' + d.distance.prototypicality.toFixed(4) + L;
 
-  h('STEP 7 — Angle');
+  h('STEP 7 : Angle');
   t += 'Formula: angle = atan2(B_off, A_off). 0°=right (A>50,B=50), CCW. Summer 0–90°, Spring 90–180°, Winter 180–270°, Autumn 270–360°.' + L;
   t += '  Radians = ' + d.angle.rad.toFixed(4) + L;
   t += '  Degrees = ' + d.angle.deg.toFixed(4) + '°' + L;
   t += '  Calculation: atan2(' + d.position.bOff.toFixed(2) + ', ' + d.position.aOff.toFixed(2) + ') = ' + d.angle.rad.toFixed(4) + ' rad = ' + d.angle.deg.toFixed(2) + '°' + L;
 
-  h('STEP 8 — Quadrant Determination');
+  h('STEP 8 : Quadrant Determination');
   t += 'Rule: A≥50,B≥50=Summer | A≥50,B<50=Autumn | A<50,B<50=Winter | A<50,B≥50=Spring' + L;
   t += '  ' + d.quadrant.rule + L;
-  t += '  Result: ' + d.quadrant.name + ' — ' + d.quadrant.archetype + L;
+  t += '  Result: ' + d.quadrant.name + ' : ' + d.quadrant.archetype + L;
 
-  h('STEP 9 — Gradation Band');
+  h('STEP 9 : Gradation Band');
   t += 'Rule: progress through the season along the cycle (Spring→Summer→Autumn→Winter). Early = just entered from previous season; Late = about to exit into next.' + L;
   t += '  Entry edge = ' + d.gradation.entryEdge + '°' + L;
   t += '  Progress = ' + d.gradation.progress.toFixed(4) + '° (0 at entry, →90 at exit)' + L;
   t += '  Band = ' + d.gradation.band + L;
 
-  h('STEP 10 — Facet Tension & Classification');
+  h('STEP 10 : Facet Tension & Classification');
   t += 'Tension rule: axis tense if its two facets are on opposite sides of 50 AND both ≥ ' + TENSION_MARGIN + ' from 50.' + L;
   ['A','B'].forEach(axis => {
-    t += '  Axis ' + axis + ' (' + AXIS_NAMES[axis] + '): ' + d.tension[axis].label + ' — ' + d.tension[axis].rule + L;
+    t += '  Axis ' + axis + ' (' + AXIS_NAMES[axis] + '): ' + d.tension[axis].label + ' : ' + d.tension[axis].rule + L;
   });
   t += '  Classification: ' + d.classify.rule + L;
   t += '  → ' + (d.classify.resultType === 'Threshold'
-       ? 'THRESHOLD (boundary condition, NOT a type) — ' + (d.classify.hasTension ? 'with facet-tension modifier (NOT balanced; read facet signature)' : 'genuinely balanced / equinox')
-       : 'CLEAR SEASON — ' + d.quadrant.name + (d.classify.hasTension ? ' (with facet-tension modifier)' : '')) + L;
+       ? 'THRESHOLD (boundary condition, NOT a type) : ' + (d.classify.hasTension ? 'with facet-tension modifier (NOT balanced; read facet signature)' : 'genuinely balanced / equinox')
+       : 'CLEAR SEASON : ' + d.quadrant.name + (d.classify.hasTension ? ' (with facet-tension modifier)' : '')) + L;
   t += '  Type count is unchanged: 4 seasonal types (clusters). Threshold is a boundary; tension is a modifier.' + L;
 
-  h('STEP 11 — Facet Contribution Analysis');
+  h('STEP 11 : Facet Contribution Analysis');
   t += 'Rule: which facet\'s score is further from 50? That facet drove the axis.' + L;
   ['A','B'].forEach(axis => {
     const fc = d.facetContrib[axis];
     const facets = axis === 'A' ? ['A1','A2'] : ['B1','B2'];
-    t += L + '  Axis ' + axis + ' — ' + AXIS_NAMES[axis] + L;
+    t += L + '  Axis ' + axis + ' : ' + AXIS_NAMES[axis] + L;
     t += '    ' + FACET_NAMES[facets[0]] + ' = ' + fc.s1.toFixed(4) + ' (offset from 50: ' + fc.d1.toFixed(4) + ')' + L;
     t += '    ' + FACET_NAMES[facets[1]] + ' = ' + fc.s2.toFixed(4) + ' (offset from 50: ' + fc.d2.toFixed(4) + ')' + L;
     t += '    Dominant: ' + fc.dominantLabel + L;
   });
 
-  h('STEP 12 — Final Result');
+  h('STEP 12 : Final Result');
   t += '  Result type: ' + d.result.label + L;
   t += '  Color class: ' + d.result.color + L;
 
@@ -872,7 +872,7 @@ function renderDebug(d) {
   let html = '';
 
   // ── Section 1: Raw Answers ──
-  html += `<div class="debug-section"><div class="debug-h2">📋 STEP 1 — Raw Answers (32 items)</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">📋 STEP 1 : Raw Answers (32 items)</div>`;
   html += `<div class="debug-formula">Orientation: +1 = Bright/Outward pole on RIGHT (raw 7 = max Bright/Outward). -1 = Bright/Outward pole on LEFT (raw 1 = max Bright/Outward, will be flipped in normalization).</div>`;
   html += `<table style="width:100%;border-collapse:collapse;font-size:0.72rem;margin-top:0.5rem">`;
   html += `<tr style="color:var(--debug-label)"><th style="text-align:left">ID</th><th>Facet</th><th>Raw</th><th>Ori</th><th>Pole A (Bright/Out)</th><th>Pole B (Dim/In)</th></tr>`;
@@ -887,7 +887,7 @@ function renderDebug(d) {
   html += `</table></div>`;
 
   // ── Section 2: Normalization ──
-  html += `<div class="debug-section"><div class="debug-h2">🔄 STEP 2 — Normalization</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">🔄 STEP 2 : Normalization</div>`;
   html += `<div class="debug-formula">If orientation = -1: normalized = 8 - raw (so higher normalized value always = more Bright/Outward). If orientation = +1: normalized = raw.</div>`;
   d.normalized.forEach(a => {
     const changed = a.raw !== a.normalized;
@@ -899,11 +899,11 @@ function renderDebug(d) {
   html += `</div>`;
 
   // ── Section 3: Facet Scores ──
-  html += `<div class="debug-section"><div class="debug-h2">📐 STEP 3 — Facet Scores</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">📐 STEP 3 : Facet Scores</div>`;
   html += `<div class="debug-formula">Facet score = (mean(normalized) - 1) / 6 × 100. Range 0–100. Center = 50.</div>`;
   FACETS.forEach(facet => {
     const f = d.facets[facet];
-    html += `<div class="debug-h3">${facet} — ${FACET_NAMES[facet]} (${AXIS_NAMES[AXIS_OF[facet]]})</div>`;
+    html += `<div class="debug-h3">${facet} : ${FACET_NAMES[facet]} (${AXIS_NAMES[AXIS_OF[facet]]})</div>`;
     html += `<div class="debug-row"><span class="debug-label">Normalized values</span><span>${f.items.map(it => `${it.id}=${it.norm}`).join(', ')}</span></div>`;
     html += `<div class="debug-row"><span class="debug-label">Sum</span><span class="debug-value">${f.sum}</span></div>`;
     html += `<div class="debug-row"><span class="debug-label">Mean</span><span class="debug-value">${f.mean.toFixed(3)}</span></div>`;
@@ -913,11 +913,11 @@ function renderDebug(d) {
   html += `</div>`;
 
   // ── Section 4: Axis Scores ──
-  html += `<div class="debug-section"><div class="debug-h2">📏 STEP 4 — Axis Scores</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">📏 STEP 4 : Axis Scores</div>`;
   html += `<div class="debug-formula">Axis score = mean of its 2 facet scores (both already 0–100).</div>`;
   ['A','B'].forEach(axis => {
     const a = d.axis[axis];
-    html += `<div class="debug-h3">Axis ${axis} — ${AXIS_NAMES[axis]}</div>`;
+    html += `<div class="debug-h3">Axis ${axis} : ${AXIS_NAMES[axis]}</div>`;
     html += `<div class="debug-row"><span class="debug-label">${axis === 'A' ? 'A1' : 'B1'} score</span><span>${a.facetScores[axis === 'A' ? 'A1' : 'B1'].toFixed(2)}</span></div>`;
     html += `<div class="debug-row"><span class="debug-label">${axis === 'A' ? 'A2' : 'B2'} score</span><span>${a.facetScores[axis === 'A' ? 'A2' : 'B2'].toFixed(2)}</span></div>`;
     html += `<div class="debug-row"><span class="debug-label">Axis score (0–100)</span><span class="debug-value">${a.score.toFixed(2)}</span></div>`;
@@ -926,13 +926,13 @@ function renderDebug(d) {
   html += `</div>`;
 
   // ── Section 5: Position ──
-  html += `<div class="debug-section"><div class="debug-h2">📍 STEP 5 — Position Relative to Center (50, 50)</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">📍 STEP 5 : Position Relative to Center (50, 50)</div>`;
   html += `<div class="debug-row"><span class="debug-label">A − 50 (Solar Height offset)</span><span class="debug-value">${d.position.aOff.toFixed(2)}</span></div>`;
   html += `<div class="debug-row"><span class="debug-label">B − 50 (Tidal Direction offset)</span><span class="debug-value">${d.position.bOff.toFixed(2)}</span></div>`;
   html += `</div>`;
 
   // ── Section 6: Distance & Prototypicality ──
-  html += `<div class="debug-section"><div class="debug-h2">📏 STEP 6 — Distance & Prototypicality</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">📏 STEP 6 : Distance & Prototypicality</div>`;
   html += `<div class="debug-formula">distance = √(A_off² + B_off²). max = √(50² + 50²) = 70.71. prototypicality = distance / 70.71.</div>`;
   html += `<div class="debug-row"><span class="debug-label">Distance from center</span><span class="debug-value">${d.distance.distance.toFixed(3)}</span></div>`;
   html += `<div class="debug-row"><span class="debug-label">Max possible distance</span><span>${d.distance.maxDist}</span></div>`;
@@ -941,7 +941,7 @@ function renderDebug(d) {
   html += `</div>`;
 
   // ── Section 7: Angle ──
-  html += `<div class="debug-section"><div class="debug-h2">🧭 STEP 7 — Angle</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">🧭 STEP 7 : Angle</div>`;
   html += `<div class="debug-formula">angle = atan2(B_off, A_off). 0° = right (A>50, B=50), CCW. Summer 0–90°, Spring 90–180°, Winter 180–270°, Autumn 270–360°.</div>`;
   html += `<div class="debug-row"><span class="debug-label">Angle (radians)</span><span>${d.angle.rad.toFixed(4)}</span></div>`;
   html += `<div class="debug-row"><span class="debug-label">Angle (degrees)</span><span class="debug-value">${d.angle.deg.toFixed(2)}°</span></div>`;
@@ -949,14 +949,14 @@ function renderDebug(d) {
   html += `</div>`;
 
   // ── Section 8: Quadrant ──
-  html += `<div class="debug-section"><div class="debug-h2">🧩 STEP 8 — Quadrant Determination</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">🧩 STEP 8 : Quadrant Determination</div>`;
   html += `<div class="debug-formula">A≥50,B≥50=Summer | A≥50,B&lt;50=Autumn | A&lt;50,B&lt;50=Winter | A&lt;50,B≥50=Spring</div>`;
   html += `<div class="debug-row"><span class="debug-label">Rule</span><span>${d.quadrant.rule}</span></div>`;
-  html += `<div class="debug-row"><span class="debug-label">Quadrant</span><span class="debug-value">${d.quadrant.name} — ${d.quadrant.archetype}</span></div>`;
+  html += `<div class="debug-row"><span class="debug-label">Quadrant</span><span class="debug-value">${d.quadrant.name} : ${d.quadrant.archetype}</span></div>`;
   html += `</div>`;
 
   // ── Section 9: Gradation ──
-  html += `<div class="debug-section"><div class="debug-h2">📐 STEP 9 — Gradation Band</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">📐 STEP 9 : Gradation Band</div>`;
   html += `<div class="debug-formula">Progress through the season along the cycle (Spring→Summer→Autumn→Winter). Early = just entered from the previous season; Late = about to exit. progress = (entry_edge − angle) mod 360.</div>`;
   html += `<div class="debug-row"><span class="debug-label">Entry edge (prev-season boundary)</span><span>${d.gradation.entryEdge}°</span></div>`;
   html += `<div class="debug-row"><span class="debug-label">Progress through season</span><span class="debug-value">${d.gradation.progress.toFixed(2)}°</span></div>`;
@@ -965,8 +965,8 @@ function renderDebug(d) {
   html += `</div>`;
 
   // ── Section 10: Facet Tension & Classification ──
-  html += `<div class="debug-section"><div class="debug-h2">⚖️ STEP 10 — Facet Tension & Classification</div>`;
-  html += `<div class="debug-formula">Axis tense if facets on opposite sides of 50 AND both ≥ ${TENSION_MARGIN} from 50. Tension is a MODIFIER flag on whatever result applies — it never creates a new type. Near-center is always the single Threshold boundary; tension rewrites its narrative from "balanced" to "holding opposites".</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">⚖️ STEP 10 : Facet Tension & Classification</div>`;
+  html += `<div class="debug-formula">Axis tense if facets on opposite sides of 50 AND both ≥ ${TENSION_MARGIN} from 50. Tension is a MODIFIER flag on whatever result applies : it never creates a new type. Near-center is always the single Threshold boundary; tension rewrites its narrative from "balanced" to "holding opposites".</div>`;
   ['A','B'].forEach(axis => {
     const tn = d.tension[axis];
     html += `<div class="debug-row"><span class="debug-label">Axis ${axis} (${AXIS_NAMES[axis]})</span><span class="${tn.tense?'debug-warn':'debug-good'}">${tn.label}</span></div>`;
@@ -976,12 +976,12 @@ function renderDebug(d) {
   html += `</div>`;
 
   // ── Section 11: Facet Contribution ──
-  html += `<div class="debug-section"><div class="debug-h2">🔍 STEP 11 — Facet Contribution Analysis</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">🔍 STEP 11 : Facet Contribution Analysis</div>`;
   html += `<div class="debug-formula">Which facet drove each axis score? Measured by absolute distance from 50.</div>`;
   ['A','B'].forEach(axis => {
     const fc = d.facetContrib[axis];
     const facets = axis === 'A' ? ['A1','A2'] : ['B1','B2'];
-    html += `<div class="debug-h3">Axis ${axis} — ${AXIS_NAMES[axis]}</div>`;
+    html += `<div class="debug-h3">Axis ${axis} : ${AXIS_NAMES[axis]}</div>`;
     html += `<div class="debug-row"><span class="debug-label">${FACET_NAMES[facets[0]]} score</span><span class="debug-value">${fc.s1.toFixed(2)}</span><span class="debug-formula"> (offset from 50: ${fc.d1.toFixed(2)})</span></div>`;
     html += `<div class="debug-row"><span class="debug-label">${FACET_NAMES[facets[1]]} score</span><span class="debug-value">${fc.s2.toFixed(2)}</span><span class="debug-formula"> (offset from 50: ${fc.d2.toFixed(2)})</span></div>`;
     html += `<div class="debug-row"><span class="debug-label">Dominant</span><span class="debug-value">${fc.dominantLabel}</span></div>`;
@@ -990,7 +990,7 @@ function renderDebug(d) {
   html += `</div>`;
 
   // ── Section 12: Final Result ──
-  html += `<div class="debug-section"><div class="debug-h2">✅ STEP 12 — Final Result</div>`;
+  html += `<div class="debug-section"><div class="debug-h2">✅ STEP 12 : Final Result</div>`;
   html += `<div class="debug-row"><span class="debug-label">Result type</span><span class="debug-value" style="font-size:1rem">${d.result.label}</span></div>`;
   html += `<div class="debug-row"><span class="debug-label">Color class</span><span>${d.result.color}</span></div>`;
 

@@ -60,6 +60,16 @@ v0.23 framework doc rewritten around depth-over-convenience: each test now measu
 
 All core docs (00 framework, 01–04 design, 01b–04b profiles, all four research papers, CHANGELOG) are now v0.23-current. Builds/sims remain pending rebuild against v0.23.
 
+### Final improvement pass (post-audit)
+
+After the comprehensive audit, three improvements applied:
+
+**Em dash cleanup.** SCA build (57→0), SCA sim (20→0), SSA build (1→0), SSA sim (14→0), MMA build (1→0). All builds and sims now have zero em dashes. The SSA sim's item-pole em dashes (conversational speech like "Struggle to find the right words: I'm still figuring it out.") were replaced with colons or periods.
+
+**MMA heuristics battery expanded from 6 to 10 items.** The 6-item battery had a 1-item-wide adaptive band (aRatio 0.4-0.6 = 2 of 6 items). The 10-item battery gives a 3-item adaptive band (4-6 of 10 items), which is meaningfully more robust. Strategy classification improved from 4/5 to 5/5 in the sim. Added 4 new decision scenarios (laptops, cities, cars, streaming services) with the same one-strong-reason vs many-good-reasons structure. Total MMA items: 31 (8 NFC + 8 FI + 5 CRT + 10 heuristics).
+
+**Two contradictions fixed.** (1) SCA design doc §3 said trajectory "is captured by the angle gradation, not the axis" — contradicted the v0.23 trajectory component. Fixed. (2) Framework 00 listed MMA strategies as "recognition/take-the-best/deliberate-comparison" but the build and sim use "take-the-best/tallying/adaptive". Fixed to match implementation.
+
 ### Simulation review (v0.23 pass)
 
 A critical simulation review found that the v0.23 depth components were not being properly tested by the sims. Three issues found and fixed:
