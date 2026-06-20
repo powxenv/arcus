@@ -60,6 +60,16 @@ v0.23 framework doc rewritten around depth-over-convenience: each test now measu
 
 All core docs (00 framework, 01–04 design, 01b–04b profiles, all four research papers, CHANGELOG) are now v0.23-current. Builds/sims remain pending rebuild against v0.23.
 
+### Claim-narrowing pass (post-confidence-check)
+
+After the final confidence check identified three overclaims, all three narrowed to match the evidence:
+
+**1. MMA heuristics: "strategy classification" → "decision-style preference."** The binary A/B battery measures preference for single-attribute vs multi-attribute decisions, not the full heuristic deployment that Gigerenzer and Luan study (which requires multi-cue tasks with observable cue search). Fixed across 00, 02, 02b, MMA research paper, and the MMA build.
+
+**2. Self-congruence synthesis: "suite payoff" → "exploratory integration layer."** No study has examined whether cross-test internal-gap agreement predicts anything. The synthesis is now labeled speculative and exploratory, not the primary suite payoff. Fixed across 00 (status line, §4, §6).
+
+**3. SSA commitment-clarity overlap: now explicitly stated.** The commitment items (C1, C3) overlap conceptually with clarity items (A1.1). Honesty note 5 added to the SSA design doc and research paper: "the practical separation between the two may be smaller than the four-component framing implies. Pilot data is needed."
+
 ### Final improvement pass (post-audit)
 
 After the comprehensive audit, three improvements applied:

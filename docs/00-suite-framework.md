@@ -84,7 +84,7 @@ The suite measures the affirming range of each construct and cannot detect malad
 
 **Evidence vs synthesis.** NFC, FI (Epstein 1996, verified), and heuristics use (Gigerenzer 2011, Luan 2011, verified) are each validated. **The stated-vs-observed gap as the interpretive lead is our synthesis and is unvalidated.** It is conservative because the gap is a transparent computation over two validated measurements, but no study has validated the gap as a construct.
 
-**Results.** The quadrant type (Integrator/Logician/Reader/Operator from NFC×FI) is reported alongside an observed-strategy read (take-the-best/tallying/adaptive) and the signed gap between stated and observed. The result reads as a Turing signature: "you say X; your choices show Y."
+**Results.** The quadrant type (Integrator/Logician/Reader/Operator from NFC×FI) is reported alongside a decision-style preference read (take-the-best/tallying/adaptive) and the signed gap between stated and observed. The result reads as a Turing signature: "you say X; your choices show Y."
 
 **Build requirement.** The heuristics battery is a behavioral decision task with a prior-exposure problem (strategies are teachable). It requires a refreshed/rotated item bank at launch. This is beyond a single-session static form and is flagged as a build feature.
 
@@ -124,7 +124,7 @@ The suite measures the affirming range of each construct and cannot detect malad
 
 ## 4. The synthesis: self-congruence across four methodologies
 
-This is where the v0.23 depth re-derivation pays off. Once each test measures *two things in tension* (position vs direction, stated vs observed, self vs other, engagement vs stance), the suite-level synthesis reads the **internal gaps** as the richest signal.
+This is where the v0.23 depth re-derivation aims. Once each test measures *two things in tension* (position vs direction, stated vs observed, self vs other, engagement vs stance), the suite-level synthesis reads the **internal gaps** as an exploratory integration layer.
 
 | Test | Internal gap the synthesis reads |
 |---|---|
@@ -133,9 +133,9 @@ This is where the v0.23 depth re-derivation pays off. Once each test measures *t
 | SSA | Self-ratings vs informant ratings on the same items (does what I know and claim about myself match what others see?) |
 | PTA | Zone engagement vs temporal stance (does how I spend my time match how I feel about time passing?) |
 
-A user with small gaps across all four tests is *self-congruent* in a measurable sense. A user with large gaps everywhere is *divergent* : their stated self, their behavior, their informants' view, and their felt direction all disagree. The synthesis reports this as a **self-congruence profile**, alongside the narrative integration and the shared-variance map from v0.22.
+A user with small gaps across all four tests is *self-congruent* in a descriptive sense. A user with large gaps everywhere is *divergent* : their stated self, their behavior, their informants' view, and their felt direction all disagree. The synthesis reports this as an **exploratory self-congruence profile**, alongside the narrative integration and the shared-variance map from v0.22.
 
-**Evidence vs synthesis.** The four internal gaps are transparent computations over the validated component measurements. **Reading their cross-test agreement as a self-congruence profile is our synthesis and is unvalidated.** It is conservative because it claims no new construct, only a computed pattern. Stated as such.
+**Evidence vs synthesis.** The four internal gaps are transparent computations over the component measurements. **Reading their cross-test agreement as a self-congruence profile is our synthesis, is speculative, and is unvalidated.** No study has examined whether cross-test internal-gap agreement predicts anything. The synthesis is exploratory, not a validated construct. It should not be presented as the suite's primary payoff but as an additional integration layer for users who want to see the pattern across their four results.
 
 ---
 
@@ -158,7 +158,7 @@ The four domains are distinct framings over partially shared trait variance. The
 
 Suite-level decisions (v0.23):
 - Each test measures the tension inside its theme, in the construct's native format. Locked v0.23.
-- Self-congruence synthesis (four internal gaps) as the suite payoff. Locked v0.23.
+- Self-congruence synthesis (four internal gaps) as an exploratory integration layer. Locked v0.23.
 - Affirming scope limit as binding framework constraint. Locked (v0.22, restated).
 - Uniform methodology at the rigor layer; non-uniform structure; non-uniform depth. Locked (v0.22 + v0.23).
 
@@ -169,10 +169,10 @@ Per-test:
 - PTA v0.23: zone engagement + temporal stance.
 
 Build status:
-- SCA build exists for position; trajectory component is a v0.23 spec addition (build pending).
-- MMA build deleted in v0.22; rebuild pending against v0.23 (includes behavioral heuristics battery).
-- SSA build exists for clarity + authenticity; commitment and informant path are v0.23 additions (build pending).
-- PTA build deleted in v0.22; rebuild pending against v0.23 (includes stance layer).
+- SCA build (`sca-debug.html`): 36 items (32 position + 4 trajectory). Parses, trajectory scored. v0.23 current.
+- MMA build (`mma-debug.html`): 31 items (8 NFC + 8 FI + 5 CRT + 10 heuristics). Parses, gap computed. v0.23 current.
+- SSA build (`ssa-debug.html`): 36 items (32 clarity/authenticity + 4 commitment). Parses, commitment scored. v0.23 current. Informant path deferred (requires backend).
+- PTA build (`ptoa-debug.html`): 28 items (24 zone factors + 4 stance). Parses, stance scored. v0.23 current.
 
 Deferred / out-of-scope (stated, not hidden):
 - Lee & Cummins (2004) and Nosofsky & Bergert (2007) primary heuristics individual-difference studies : cited by the verified Gigerenzer review, not full-text-reviewed. The verified review is sufficient to build on.

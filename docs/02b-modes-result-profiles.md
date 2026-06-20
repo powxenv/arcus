@@ -293,7 +293,7 @@ This is a real pattern, not a non-result. Some people genuinely do not strongly 
 
 The v0.22 profile describes your stated cognitive engagement (NFC, FI self-report) and your behavioral override rate (CRT). v0.23 adds a **stated-vs-observed gap** from the behavioral heuristics battery (Gigerenzer & Gaissmaier 2011; Luan et al. 2011).
 
-The battery measures your actual decision strategy under uncertainty (recognition-based, take-the-best, tallying, deliberate-comparison) and compares it to your stated NFC/FI engagement. The gap is the theme-native signal:
+The battery measures your decision-style preference under uncertainty (preference for one strong reason vs many good reasons) and compares it to your stated NFC/FI engagement. The gap is the theme-native signal:
 
 - **Congruent**: stated preference and observed strategy align. E.g., high NFC + FI with deliberate-comparison behavior.
 - **Divergent**: stated preference and observed strategy disagree. E.g., stated intuition-dominant but behavioral take-the-best. The gap is itself information.

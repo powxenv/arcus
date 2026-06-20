@@ -177,7 +177,7 @@ The CRT (v0.22 Component 3) is retained as a narrower override measure within th
 
 ### 7.4 How the gap modulates the result
 
-The quadrant type (Integrator/Logician/Reader/Operator from NFC×FI) is reported alongside the observed-strategy read and the signed gap between stated and observed. The result reads as a Turing signature:
+The quadrant type (Integrator/Logician/Reader/Operator from NFC×FI) is reported alongside a decision-style preference read and the signed gap between stated and observed. The result reads as a Turing signature:
 
 - **Congruent**: "You say you think deliberately, and your choices confirm a deliberate-comparison strategy."
 - **Divergent**: "You say you trust your gut, but your choices show take-the-best deliberation. The gap is itself information."
@@ -189,7 +189,7 @@ The gap is the theme-native signal. Neither the stated nor the observed score al
 - The heuristics battery has a prior-exposure problem: strategies are teachable, and users who know the literature will game it. A launch implementation must use a refreshed or rotated item bank.
 - Stated-vs-observed congruence is itself subject to self-presentation: a user can knowingly report what they will do.
 - The gap construct is novel; treat as experimental.
-- This is the largest build in the suite: a behavioral decision battery with per-item strategy classification.
+- This is the largest build in the suite: a behavioral decision battery with per-item decision-style classification.
 
 ---
 

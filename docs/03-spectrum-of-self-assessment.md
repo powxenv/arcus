@@ -72,6 +72,8 @@ Decisions apply unchanged from Test 1. Full argument in `01-solstice-cycle-asses
 
 **Honesty note 4: Overlap with personality.** Identity Clarity (Axis A) is negatively correlated with Neuroticism and positively with Conscientiousness (Campbell et al., 1996). Self-Alignment (Axis B) is positively correlated with Agreeableness and negatively with Neuroticism. These are validated constructs we build on. The SSA's contribution is the combination of the two axes and the identity, not personality-trait, framing.
 
+**Honesty note 5: Commitment may share substantial variance with clarity (v0.23).** The commitment items (C1: "I know, and I've claimed it"; C3: "I can answer without hesitation") overlap conceptually with clarity items (A1.1: "Can give a clear and confident answer"). A user high on identity clarity will likely score high on commitment, because both tap a settled, confident sense of self. Whether these are genuinely distinct constructs in this item set is uncertain without pilot data. The commitment component adds the claim-act dimension ("this is who I am" vs "I'm still exploring") that clarity alone does not measure, but the practical separation between the two may be smaller than the four-component framing implies. Stated as a measurement ceiling.
+
 ---
 
 ## 3. Why the framework fits the Pride theme

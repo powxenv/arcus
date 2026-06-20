@@ -275,10 +275,10 @@ function showResults() {
   html += '<div class="score-box"><div class="score-label">Override</div><div class="score-value">' + d.override.toFixed(0) + '</div><div class="score-bar"><div class="score-bar-fill" style="width:' + d.override + '%;background:#5fb878"></div></div></div>';
   html += '</div>';
   html += '<div class="gap-box"><strong>CRT Override Rate:</strong> ' + d.override.toFixed(0) + '% (' + Math.round(d.override/20) + '/5 correct). ' + (d.override >= 60 ? 'You tend to check your intuitions.' : d.override >= 40 ? 'You check sometimes, trust sometimes.' : 'You tend to trust your first answers.') + '</div>';
-  html += '<div class="gap-box"><strong>Decision Strategy (heuristics battery):</strong> ' + d.strategy.name + '. ' + d.strategy.desc + '</div>';
+  html += '<div class="gap-box"><strong>Decision-style preference:</strong> ' + d.strategy.name + '. ' + d.strategy.desc + '</div>';
   html += '<div class="gap-box" style="border:1px solid ' + (d.gap.label==='congruent'?'#5fb878':d.gap.label==='divergent'?'#e08868':'var(--pip)') + '"><strong>Stated-vs-observed gap:</strong> ' + d.gap.label + '. ' + d.gap.desc + '</div>';
   if (activeLength === 8) html += '<div class="caveat-box"><strong>MMA-13 · screening-tier read.</strong> Mode placement is reliable. Scale detail is provisional at 4 items per scale.</div>';
-  html += '<div class="caveat-box" style="font-size:0.72rem"><strong>Scope note.</strong> This assessment measures the affirming range of cognitive engagement. The heuristics battery has a prior-exposure problem and the stated-vs-observed gap is our synthesis (v0.23).</div>';
+  html += '<div class="caveat-box" style="font-size:0.72rem"><strong>Scope note.</strong> This assessment measures the affirming range of cognitive engagement. The decision-style preference battery measures preference for single-attribute vs multi-attribute decisions, not the full heuristic-deployment that Gigerenzer and Luan study. The stated-vs-observed gap is our synthesis (v0.23) and is exploratory.</div>';
   html += '</div>';
   document.getElementById('result-content').innerHTML = html;
   document.getElementById('screen-results').style.display = 'block';
