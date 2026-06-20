@@ -1,6 +1,6 @@
 # Test 1: The Solstice Cycle Assessment (SCA)
 
-> Status: v0.22 design document. Structure unchanged from v0.20; honesty notes tightened in the v0.22 suite rewrite. The SCA is a Russell-plus-Gray hybrid (affective activation × approach-withdrawal), not the literal Russell circumplex, and Axis B composites Carver-White's unipolar BIS/BAS subscales into a bipolar. Both stated openly. The 2-axis circumplex geometry is native to affect, which is why the SCA is the one test that keeps the quadrant template. See CHANGELOG v0.22.
+> Status: v0.23 design document. Adds a perceived-trajectory component on top of the v0.22 position model, so the solstice is measured as a turning point with direction (its defining feature), not just a static position on the circumplex. The trajectory construct is grounded in Carver-Scheier self-regulation (the same research program as the verified Carver-White BIS/BAS). The position-plus-trajectory combination is our synthesis and is unvalidated. See CHANGELOG v0.23.
 > Position: The solstice-themed test of the four-test Solstice Soul suite.
 > Theme served: June Solstice (light and dark, cycles, turning points).
 > Honesty statement: The SCA is an original, theory-informed assessment for reflection and play. Its structure is inspired by validated models of affect (Russell's circumplex) and motivation (approach and withdrawal). It is not independently validated and is not clinical. Seasonal names are an interpretive metaphor, not a claim that personality is literally seasonal. Two further honesty notes: (1) Russell's circumplex is a model of momentary affect, a state model. We use its structure to organize trait-like dispositions, a move supported by the trait-affect literature but stated here openly rather than implied. (2) The June solstice is summer in the Northern Hemisphere and winter in the Southern. The SCA uses internal, hemisphere-neutral seasons and does not assume a hemisphere.
@@ -187,16 +187,63 @@ Explicitly avoided: binary A/B forced choice (no bimodality, discards informatio
 
 ---
 
+## 7. Perceived-trajectory component (v0.23)
+
+A solstice is not a position. It is the moment a cycle reverses. Summer solstice: light has peaked and turns toward decline. Winter solstice: dark has peaked and turns toward renewal. Two things are essential: the cycle (recurrence), and the **direction of travel at the turning point** (waxing or waning). Strip either and it is not a solstice.
+
+The v0.22 SCA measures position only (where you sit on the circumplex right now). It cannot measure direction, because direction requires change over time, and the validated affect-dynamics tradition (Kuppens, Allen & Sheeber 2010; Hamaker et al. 2015) requires intensive longitudinal data over days and weeks that a single-session consumer test cannot administer.
+
+### 7.1 The trajectory construct
+
+**Perceived cyclical trajectory**: not "how energetic are you" (state) and not "how does your affect move over weeks" (trait dynamics : unmeasurable here), but "in the arc you actually live, do you feel you are in a waxing phase (gathering, rising, becoming more) or a waning phase (consolidating, releasing, integrating) on each axis?"
+
+**Grounding.** Carver & Scheier's self-regulation theory (the same Carver of the verified BIS/BAS in Axis B) is built on feedback processes with goal gradients: people perceive their rate of progress toward or away from desired and undesired end-states, and that perceived trajectory is a validated driver of affect and behavior. The perceived-discrepancy-rate signal : am I closing the gap to who I want to be, or watching it widen : is precisely the waxing-vs-waning the solstice names.
+
+### 7.2 Evidence vs synthesis
+
+- Circumplex position: validated (Russell; Carver-White).
+- Perceived goal-gradient progress as a mechanism: validated (Carver-Scheier self-regulation).
+- **Combining the two into a position-plus-trajectory result is our synthesis and is unvalidated.** Stated as such.
+
+### 7.3 Trajectory items (design)
+
+A small set of items (target 4: two per axis) measuring perceived direction-of-travel on the SCA axes. Each asks the felt direction, not the felt level. Examples (full items in the build spec):
+
+- Activation trajectory: "Thinking about your energy right now, do you feel you are gathering toward more, or settling toward less?"
+- Approach trajectory: "In your current season, do you feel yourself opening toward the world, or drawing inward?"
+
+The trajectory items are scored on the same 7-point bipolar scale, with "gathering/opening" and "settling/drawing-inward" as the poles.
+
+### 7.4 How trajectory modulates the result
+
+The season (from position) gains a direction modifier:
+
+- **Summer, waxing**: arrived at the peak, still climbing.
+- **Summer, waning**: at the peak, feeling it turn toward Autumn.
+- **Winter, waxing**: at the low, feeling the first turn toward Spring.
+- **Winter, waning**: at the low and still descending.
+
+The solstice poetry (reversal) finally has a measured referent. A Summer-waning result reads differently from a Summer-waxing result in a way the v0.22 SCA could not express.
+
+### 7.5 Limitations
+
+- Perceived trajectory is subject to current-mood contamination more than position is.
+- Position and trajectory must be reported as two things, not merged into one muddy score.
+- The trajectory construct has less direct validation than circumplex position; Carver-Scheier grounds the *mechanism*, not a published trajectory self-report scale.
+- The trajectory items are an addition to the SCA item count; the build spec determines whether they fold into the standard form or appear as a short add-on.
+
+---
+
 ## 8. Item bank and lengths
 
 **Two lengths, one item bank.** The SCA is offered as a 32-item standard form (**SCA-32**) and a 16-item short form (**SCA-16**) drawn from the same bank. Both share the same axes, facets, scoring model, and result taxonomy (§6). SCA-32 is the default; SCA-16 is a quicker, screening-tier read (see §8.1).
 
-**Why 32 is the standard.** 2 axes, 2 facets per axis, 8 items per facet. Matches the NEO-PI-R facet standard. Reliability rises with items-per-facet per Spearman-Brown: at 8 per facet the expected Cronbach's alpha is .85 to .92 (strong), versus .60 to .70 at 4 per facet (marginal) — which is exactly the band SCA-16 sits in, stated openly in §8.1. SCA-32 takes roughly 8 to 10 minutes, within personality-test norms. Tests in the suite are taken independently, so per-test length is what matters per sitting.
+**Why 32 is the standard.** 2 axes, 2 facets per axis, 8 items per facet. Matches the NEO-PI-R facet standard. Reliability rises with items-per-facet per Spearman-Brown: at 8 per facet the expected Cronbach's alpha is .85 to .92 (strong), versus .60 to .70 at 4 per facet (marginal) : which is exactly the band SCA-16 sits in, stated openly in §8.1. SCA-32 takes roughly 8 to 10 minutes, within personality-test norms. Tests in the suite are taken independently, so per-test length is what matters per sitting.
 
 **Facet structure.**
 - Axis A, Solar Height: A1 Baseline Arousal (tonic activation, your default energy set-point), A2 Stimulation Appetite (preferred input and activity level).
 
-Honesty note. Unlike Axis B, whose two facets sit within a single validated domain (DeYoung's two-aspect Extraversion), Axis A composites two constructs from different research traditions — energetic arousal and sensation seeking — without a jointly validated higher-order activation factor. The compositing is a design choice. The facet signature recovers lost texture by reporting which sub-component drove the axis score; when the two facets cancel outright (Step 6 facet-tension modifier), that recovery becomes the result's lead, not just a footnote.
+Honesty note. Unlike Axis B, whose two facets sit within a single validated domain (DeYoung's two-aspect Extraversion), Axis A composites two constructs from different research traditions : energetic arousal and sensation seeking : without a jointly validated higher-order activation factor. The compositing is a design choice. The facet signature recovers lost texture by reporting which sub-component drove the axis score; when the two facets cancel outright (Step 6 facet-tension modifier), that recovery becomes the result's lead, not just a footnote.
 - Axis B, Tidal Direction: B1 Social Approach (toward or away from people, DeYoung Enthusiasm aspect), B2 Agency (proactive action and initiation versus receptive response, DeYoung Assertiveness aspect). B2 was renamed from "experiential approach" (v0.9) and from "expressive disclosure" (v0.8); both earlier names were either off-construct or overlapping with Test 3. The two facets now map exactly to DeYoung's validated two-aspect structure of Extraversion.
 
 **Item-writing rules applied.** Vary exactly one facet per item. True antonym poles on a single dimension. Neutral language (behavior, not virtue). No transparent giveaways. Gender-neutral and identity-agnostic. Both poles affirming. Two bias controls: pole direction randomized at render time (counters position bias), and the bipolar two-anchor format where respondents choose between two statements rather than agreeing or disagreeing with one (counters acquiescence bias, the function reverse-keying serves in a unipolar format).
@@ -269,7 +316,7 @@ All items vary proactive agency and action-initiation versus receptive, responsi
 
 The SCA is offered in two lengths sharing one item bank, one scoring model, and one result taxonomy.
 
-**Same questions, not different ones. The 16-item form is a curated subset of the 32, not a parallel form.** This follows the standard short-form method: NEO-FFI (60) is drawn from NEO-PI-R (240); HEXACO-60 from HEXACO-200; BFI-2-S (30) from BFI-2 (60). A subset preserves construct fidelity — it is the same instrument, administered shorter — and whatever content-validity argument supports the 32 carries to the 16. A separate parallel form would be a different instrument requiring its own defense, for no gain. The subset also enables an **upgrade path**: a respondent who finishes the 16 can go deeper by answering the remaining 16 items, producing the full 32-item result with no re-testing. That path exists only because the 16 is a subset.
+**Same questions, not different ones. The 16-item form is a curated subset of the 32, not a parallel form.** This follows the standard short-form method: NEO-FFI (60) is drawn from NEO-PI-R (240); HEXACO-60 from HEXACO-200; BFI-2-S (30) from BFI-2 (60). A subset preserves construct fidelity : it is the same instrument, administered shorter : and whatever content-validity argument supports the 32 carries to the 16. A separate parallel form would be a different instrument requiring its own defense, for no gain. The subset also enables an **upgrade path**: a respondent who finishes the 16 can go deeper by answering the remaining 16 items, producing the full 32-item result with no re-testing. That path exists only because the 16 is a subset.
 
 **Selection (4 items per facet).** Without pilot data we cannot select on factor loadings or item-total correlations, so selection is content-driven: retain the most construct-central items, maximally spread across each facet's content areas, and avoid items flagged as judgment calls or confounded in earlier audits.
 
@@ -277,29 +324,29 @@ The SCA is offered in two lengths sharing one item bank, one scoring model, and 
 |---|---|---|---|
 | A1 Baseline Arousal | A1.1 waking · A1.2 default attention · A1.4 default readiness · A1.6 somatic | A1.3 · A1.5 · A1.7 · A1.8 | Four pure tonic-set-point items spanning mind/body and morning/idle. Dropped A1.5 (mild A1↔B2 confound flagged v0.17), A1.7 (energy-depletion, drifts toward capacity not set-point), A1.8 (meta-cognitive comparative), A1.3 (overlaps A1.2 phenomenologically). |
 | A2 Stimulation Appetite | A2.1 sensory intensity · A2.2 environmental density · A2.3 pace · A2.6 boredom susceptibility | A2.4 · A2.5 · A2.7 · A2.8 | Core sensation-seeking signals: intensity, richness, pace, intolerance of low stimulation (a named Zuckerman subscale). Dropped A2.4/A2.7 (redundant with retained), A2.5 (behavioral, circumstance-driven), A2.8 (meta-cognitive comparative). |
-| B1 Social Approach | B1.2 new-people · B1.3 group position · B1.5 daily density · B1.6 default orientation | B1.1 · B1.4 · B1.7 · B1.8 | Four trait-stable behavioral items (strangers, group, daily, default). Dropped B1.1 (state-framed), B1.4 (narrow domain), B1.7 (transparent introvert/extravert giveaway — our item-writing rules discourage transparent giveaways, so it is excluded despite high face validity), B1.8 (overlaps B1.2). |
+| B1 Social Approach | B1.2 new-people · B1.3 group position · B1.5 daily density · B1.6 default orientation | B1.1 · B1.4 · B1.7 · B1.8 | Four trait-stable behavioral items (strangers, group, daily, default). Dropped B1.1 (state-framed), B1.4 (narrow domain), B1.7 (transparent introvert/extravert giveaway : our item-writing rules discourage transparent giveaways, so it is excluded despite high face validity), B1.8 (overlaps B1.2). |
 | B2 Agency | B2.1 decision tempo · B2.2 leadership · B2.3 shape/let unfold · B2.6 initiative | B2.4 · B2.5 · B2.7 · B2.8 | Four clean DeYoung-Assertiveness items: tempo, lead, control-of-outcome, proactive initiation. Dropped B2.5/B2.7 (overlap B2.3), B2.4 (influence ≠ agency), B2.8 (receptive pole overlaps B1 wording, flagged v0.17). |
 
 Result: 16 items, balanced 4-4-4-4 across facets, 8 per axis. The retained set is **SCA-16 = {A1.1, A1.2, A1.4, A1.6, A2.1, A2.2, A2.3, A2.6, B1.2, B1.3, B1.5, B1.6, B2.1, B2.2, B2.3, B2.6}**.
 
 **Scoring is identical to the 32.** Facet score = mean of its (now 4) normalized items, scaled 0–100. Axis score = mean of its two facet scores. Distance, prototypicality, angle, quadrant, gradation, the 0.28 Threshold boundary, and the facet-tension modifier are all computed by the same formulas (§6). The only thing that changes is the number of items feeding each facet mean.
 
-**Reliability — the honest tier.** This is the load-bearing caveat. Per Spearman-Brown, 4 items per facet lands in the .60 to .70 alpha band — "marginal" in the very terms this framework used in v0.9 to justify going from 16 to 32. SCA-16 does not escape that band; it sits in it. Gosling, Rentfrow and Swann (2003), the source this framework already cites for the item-count floor, describe ultra-short scales as adequate for screening but with "diminished psychometric properties." SCA-16 is therefore positioned and labeled as a **screening-tier quick read**, not an equivalent-strength result:
+**Reliability : the honest tier.** This is the load-bearing caveat. Per Spearman-Brown, 4 items per facet lands in the .60 to .70 alpha band : "marginal" in the very terms this framework used in v0.9 to justify going from 16 to 32. SCA-16 does not escape that band; it sits in it. Gosling, Rentfrow and Swann (2003), the source this framework already cites for the item-count floor, describe ultra-short scales as adequate for screening but with "diminished psychometric properties." SCA-16 is therefore positioned and labeled as a **screening-tier quick read**, not an equivalent-strength result:
 
 - SCA-32 is the standard. Its facet-level detail (facet signature, facet-tension modifier) is reported at full confidence.
 - SCA-16 reliably places a respondent in a season or the Threshold, but its facet-level signals are noisier. The facet-tension modifier in particular may fire on sampling noise more readily, because fewer items give each extreme response more leverage. SCA-16 results therefore surface facet detail as **provisional** and display a short-form caveat on the result screen.
 - Offering SCA-16 without this caveat would imply equal authority to SCA-32, which the reliability math says it does not have. That would repeat exactly the false-authority move this framework exists to avoid (§2.1 of the framework doc).
 
-**Which to default to.** SCA-32 is the recommended default. SCA-16 is offered where time or attention budget requires it, with the explicit tradeoff stated at the point of choice (roughly half the time, at the cost of precision in the facet detail — not in the seasonal placement, which remains the reliable output).
+**Which to default to.** SCA-32 is the recommended default. SCA-16 is offered where time or attention budget requires it, with the explicit tradeoff stated at the point of choice (roughly half the time, at the cost of precision in the facet detail : not in the seasonal placement, which remains the reliable output).
 
-**Validation note.** Both forms are theory-informed, not validated. If pilot data is ever gathered, the item-total correlations and factor loadings it yields should re-order this short-form selection — the present cut is the best content-driven choice in the absence of data, not the empirically optimal one. This is the same authority line the rest of the framework carries.
+**Validation note.** Both forms are theory-informed, not validated. If pilot data is ever gathered, the item-total correlations and factor loadings it yields should re-order this short-form selection : the present cut is the best content-driven choice in the absence of data, not the empirically optimal one. This is the same authority line the rest of the framework carries.
 
 ## 9. Interpretation and reporting
 
 A result has four layers, surfaced in order:
 1. **Your season** (quadrant). The shareable label.
 2. **Your phase** (angle). Gradation and secondary leaning.
-3. **Your prototypicality** (radius). Strongly versus with nuance. Near-center yields the **Threshold** boundary reading — not a type, just the honest handling of the midpoint. Its narrative is either equinox (balanced) or, when a facet-tension modifier fires, the "holding opposites" reading led by the facet signature.
+3. **Your prototypicality** (radius). Strongly versus with nuance. Near-center yields the **Threshold** boundary reading : not a type, just the honest handling of the midpoint. Its narrative is either equinox (balanced) or, when a facet-tension modifier fires, the "holding opposites" reading led by the facet signature.
 4. **Your narrative.** Two to three personalized paragraphs from the full answer pattern, ending with a "your moment on the cycle" line. Gemini layer per the GDD. Consumes the numeric profile and the per-item answers.
 
 **Deterministic fallback (no-API path).** 5 full base profiles (4 seasons + Threshold), modulated by gradation (early, mid, late) and the facet-tension modifier per `01b-solstice-result-profiles.md`. That yields 12 seasonal states (4 seasons × {early, mid, late}) plus the Threshold boundary reading, which itself has two narrative variants (equinox, or facet-tension when the modifier fires). The type count is four. The game is fully playable without the API. The API only enriches the narrative.

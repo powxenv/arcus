@@ -1,6 +1,6 @@
 # Test 3: The Spectrum of Self Assessment (SSA)
 
-> Status: v0.22 design document. Structure unchanged from v0.1; facet framing corrected in the v0.22 suite rewrite. Campbell's Self-Concept Clarity is unidimensional (one factor, verified), so A1/A2 are content-sampling bins retained for facet-tension detection, not validated sub-factors. Same correction for B1/B2. The 2-axis plane is native to identity clarity × authenticity, which is why the SSA keeps the quadrant template. See CHANGELOG v0.22.
+> Status: v0.23 design document. Adds a Marcia commitment component (the Pride claim-act) and an opt-in informant path for real SOKA visibility, so the test measures Pride as multi-act (knowing, claiming, showing, being-seen). All component sources are verified (Campbell 1996; Kernis-Goldman 2006; Wood 2008; Snyder 1974; Marcia 1966; Vazire 2010; Beer & Vazire 2017; Carlson et al. 2013). The four-component combination as a Pride profile is our synthesis and is unvalidated. The informant path is a real product feature (consent, privacy, async invitations) and degrades gracefully to self-only when declined. See CHANGELOG v0.23.
 > Position: The Pride-themed test of the four-test Solstice Soul suite.
 > Theme served: Pride (authentic identity, self-knowledge, the courage to show who you are).
 > Honesty statement: The SSA is an original, theory-informed assessment for reflection and play. Its two axes are grounded in full-text-verified constructs: Identity Clarity draws from the Self-Concept Clarity Scale (Campbell et al., 1996); Self-Alignment draws from the multicomponent authenticity model (Kernis & Goldman, 2006), the Authenticity Scale (Wood et al., 2008), and the Self-Monitoring Scale (Snyder, 1974). It is not independently validated and is not clinical. The four result names are an interpretive metaphor drawn from light and visibility: how brightly and genuinely your true self shines through. Self-report is the measurement format; the limitations of self-report for identity constructs are similar to those for cognitive style (stated in §10).
@@ -148,7 +148,51 @@ Prototypicality, angle, gradation, facet-tension detection, and the boundary cla
 
 ---
 
-## 7. Question format and response scale
+## 7. Commitment component and opt-in informant path (v0.23)
+
+Pride, in the affirming existential sense the suite uses, is **the courage to know yourself and stand in it openly.** Two acts: knowing (interior), and standing-in-openly (relational, visible). The v0.22 SSA measured knowing (Campbell SCC) and showing (Kernis-Wood authenticity). It asserted the claim and the relational half. The depth instruction forces building them.
+
+### 7.1 The commitment component (Marcia)
+
+Marcia's (1966) identity statuses distinguish **commitment** (identity is claimed: "this is who I am") from **exploration** (identity is provisional: "I'm still finding out"). The suite rejected Marcia wholesale in earlier versions as developmental. That was wrong, because the *commitment* dimension specifically is the Pride claim-act and is meaningful in adults: pride is a claim act, and whether the claimed identity is committed or provisional is structurally part of Pride.
+
+**Evidence vs synthesis.** Marcia's commitment dimension is validated (verified). Using it as a third SSA axis-component in adults is our synthesis, not the original developmental use.
+
+### 7.2 The visibility component (real SOKA, via informant path)
+
+Vazire's (2010) Self-Other Knowledge Asymmetry model establishes that some traits are more accurately judged by others (observable behavior : extraversion, dominance; exactly what "showing yourself" is about) and the self-other agreement gap is itself a meaningful individual difference. **Real SOKA requires real informants** (Vazire 2010 used friends and strangers; Beer & Vazire 2017 call behavioral predictive validity "preliminary" even with informants).
+
+A paired self/"how-would-others-see-you" item format measures *perceived* asymmetry, not SOKA : a different construct (meta-insight) subject to its own biases. The depth answer is the **opt-in informant path**: after the user completes SSA, they may invite 1–2 friends to rate them on the same clarity and authenticity items. The self-other agreement gap is then computed per the SOKA design.
+
+**Evidence vs synthesis.** SOKA with real informants is validated (Vazire 2010; Beer & Vazire 2017). The opt-in, asynchronous, game-integrated instantiation is our synthesis and is unvalidated as a consumer instrument.
+
+### 7.3 How the components combine
+
+- **Clarity** (validated) : Campbell SCC self-report.
+- **Authenticity** (validated) : Kernis-Wood self-report.
+- **Commitment** (validated) : Marcia commitment items, self-report.
+- **Visibility** (validated *if* informant data present) : the same clarity/authenticity items rated by invited friends; the self-other agreement gap is computed.
+
+**The four-component combination as a structural definition of Pride is our synthesis and is unvalidated.** Each component is validated; the synthesis as a unitary Pride profile is not.
+
+### 7.4 Results with and without informants
+
+- **With informants**: a four-component Pride profile including the real visibility gap. Reads like: "You know yourself clearly, you claim your identity with commitment, and there is a [small/large] gap between how you see yourself and how your friends see you on authenticity."
+- **Without informants** (user declines): a three-component self-only read with an explicit note: "Visibility is not measured. The relational half of Pride is inferred from self-report only."
+
+The test degrades gracefully. The informant path is voluntary and never blocks a result.
+
+### 7.5 Limitations and build requirements
+
+- The informant path is a real product feature: consent, privacy, asynchronous invitations, voluntary, low completion rate.
+- Without informants, SSA is missing the theme's relational core.
+- The four-component synthesis is unvalidated as a unit.
+- Marcia's commitment dimension was designed for adolescents/young adults; its adult-dispositional reading is a reasonable extension, not the original use.
+- Large self-other gaps can indicate low insight, which is hard to frame affirmatively (Carlson, Vazire & Oltmanns 2013 shows the gap is most diagnostic in personality pathology). The scope note carries this.
+
+---
+
+## 8. Item bank, facets, and lengths
 
 Format, response scale, and rationale are identical to Test 1. Summarized here, see `01-solstice-cycle-assessment.md` §7.
 

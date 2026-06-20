@@ -1,0 +1,430 @@
+915861
+research-article2020
+                       CDPXXX10.1177/0963721420915861Todd, HillsForaging in Mind
+
+
+
+
+                                                                                                                                                             ASSOCIATION FOR
+                                                                                                                                               PSYCHOLOGICAL SCIENCE
+                                                                                                                                               Current Directions in Psychological
+
+                               Foraging in Mind                                                                                                Science
+                                                                                                                                               ﻿1­–7
+                                                                                                                                                © The Author(s) 2020
+                                                                                                                                                Article reuse guidelines:
+                                                                                                                                                sagepub.com/journals-permissions
+                                                                                                                                                DOI:    10.1177/0963721420915861
+                                                                                                                                                https://doi.org/10.1177/0963721420915861
+                                                                                                                                                www.psychologicalscience.org/CDPS
+                               Peter M. Todd1,2                                    and Thomas T. Hills3
+                               1
+                                Cognitive Science Program, Indiana University Bloomington; 2Department of Psychological
+                               and Brain Sciences, Indiana University Bloomington; and 3Department of Psychology,
+                               University of Warwick
+
+
+
+
+                               Abstract
+                               People and other animals can search for information inside their heads. Where does this ability come from, and what
+                               does it enable cognitive systems to do? In this article, we address the behavioral and cognitive similarities between
+                               search in external environments and internal environments (e.g., memory). These require both maplike representations
+                               and the means to navigate them, and the latter involves modulation between exploitation and exploration analogous
+                               to a foraging process called area-restricted search. These findings have implications for understanding a number of
+                               cognitive abilities commonly considered to be hallmarks of the human species, such as well-developed executive
+                               control and goal-directed cognition, autonoetic consciousness (i.e., self-awareness), deliberation, and free will.
+                               Moreover, this research extends our conception of what organisms may share these abilities and how they evolved.
+
+                               Keywords
+                               search, foraging, memory, executive function, verbal fluency task, cognitive map, episodic future thinking, self-projection
+
+
+                               A friend asks you what animals you saw while visiting                      key insight is that resource distributions matter. Envi-
+                               Tanzania. A lawyer asks about your memories of a crimi-                    ronments are commonly structured with rewarding
+                               nal incident. A coworker asks what you might do on the                     resource items near each other (e.g., in patches or
+                               coming weekend. And perhaps you ask yourself where                         clusters). Given this structure, a search strategy that
+                               you would like to be in 10 years. Do similar cognitive                     works well to achieve high overall levels of reward is
+                               processes underlie these various questions? Some can be                    switching between exploiting local resources near
+                               answered by external information search, such as going                     where other resources have been found in the past and
+                               back to Tanzania, watching video footage of the crime                      exploring farther afield when the local resources are
+                               scene, or looking online for weekend events. But these                     depleted. In the ecological literature, this strategy is
+                               could also all be addressed by internal information                        called area-restricted search, and the current evidence
+                               search, that is, looking through cognitive representations                 suggests that most every organism that moves uses it,
+                               to recall and reconstruct information from memory, both                    from bacteria to people (Hills, 2006; Hills, Kalff, &
+                               for retrospective and prospective purposes. In this article,               Wiener, 2013; Pacheco-Cobos et al., 2019).
+                               we argue that both of these types of search involve simi-                      Area-restricted search can exploit patchy (autocor-
+                               lar underlying cognitive processes that are likely to have                 related) structures in the environment by controlling
+                               common evolutionary origins. Furthermore, being able                       when and where one should look next on the basis of
+                               to search internally, rather than having to move and                       memory of recent experience (Hills, Kalff, & Wiener,
+                               search around in the external world, has enabled striking                  2013; Plank & James, 2008). Consequently, it outperforms
+                               evolutionary innovations in cognitive abilities, such as                   other memoryless strategies such as random walks
+                               self-projection and self-awareness. Such abilities are com-                (including Lévy flights) in environments with patchy dis-
+                               monly seen as unique aspects of the human intellect, but                   tributions because the latter do not incorporate informa-
+                               from this evolutionary perspective, they emerge as part                    tion from recent resource encounters. Patchy distributions
+                               of a continuum across species.
+                                                                                                          Corresponding Author:
+                               Foraging in External Spaces                                                Peter M. Todd, Indiana University Bloomington, Department of
+                                                                                                          Psychological and Brain Sciences, 1101 E. 10th St., Bloomington, IN
+                               To understand internal search, it is first important to                    47405
+                               ask how organisms search in external environments. A                       E-mail: pmtodd@indiana.edu
+2                                                                                                                      Todd, Hills
+
+are common for useful resources (e.g., conspecifics,                              Travel Time (15 s)
+food) in the world (Wilke et al., 2018), and people both
+expect (Wilke & Barrett, 2009) and create (Wilke et al.,                                                                        …
+                                                                   BLNTAO              NSBDOE               YSTCEA
+2015) such patches.
+   Moreover, humans create patches not only in physical
+space (supermarkets full of food, cities full of people)            Boat                  Nose                …
+but also in information space: We build autocorrelated              Bolt                  Bode
+structures into our libraries, offices, the World Wide              Bloat                 Bed
+Web, and communities of like-minded individuals,                                          Does
+which results in rewarding information items often
+                                                                                          Doe
+being found near each other. If you find a bookshelf,
+or a colleague, or a website that contains useful ideas                                   Send
+or data you are seeking, the chances are good that you                                    …
+will find other pieces of related useful information on       Fig. 1. Internally foraging for words in a memory-based word puzzle
+the same shelf, in the same head, or on a linked web          (Wilke, Hutchinson, Todd, & Czienskowski, 2009). Participants were
+page. Consequently, a mechanism that switches adap-           presented with a letter set (inside boxes) and tasked with finding
+tively between local exploitation and global exploration      words that could be produced from that letter set (example responses
+                                                              are shown below each box). At any point, a participant could give up
+will enable people to effectively engage in information       on the current letter set and move to another one (after a 15-s “travel
+foraging in those environments (Pirolli, 2007). As one        time”). This process was repeated for an hour, after which partici-
+example, people switch from locally searching a patch         pants were paid for the total number of words found across all letter
+                                                              sets. Each letter set corresponds to a resource patch, and participants
+of linked websites to globally searching for a new part
+                                                              controlled their exploration/exploitation balance by deciding when
+of the Web when the expected reward from continued            to switch between patches. Wilke et al. found that the switching
+search in the first patch falls too low (Pirolli, 2007).      decision was based on the time it took participants to find the most
+Given this patchy structure in many environments, it is       recent word and how long it had been since that word was found
+                                                              (analogous to the time between and since the occurrence of words
+not surprising that so many organisms, including humans,      in external patches in the memory model of Anderson & Schooler,
+use area-restricted search in a variety of contexts.          1991): The more time these took, the more likely participants were
+   Perhaps more surprisingly, the neural mechanisms that      to move to a new letter set in which they could expect to start find-
+modulate the transition between exploitative and explor-      ing words more quickly.
+atory search share many common features across animal
+species (Hills et al., 2015; Todd, Hills, & Robbins, 2012).   information in memory, and a set of concepts can all
+The cross-species conservation of search-modulating           be near to each other and far from other sets, making
+neural architecture provides evidence that this innova-       patches. This means that foraging strategies similar to
+tion originated in the service of foraging before the         those we use in external environments can also be
+invertebrate–vertebrate divergence (~600 million years        effective when applied to searching in structured inter-
+ago). Furthermore, the presence of a similar architec-        nal environments, such as when solving problems or
+ture underlying goal-directed attention supports a            recalling concepts from memory. Is there evidence for
+search-based evolutionary account of the origins of           a cognitive equivalent of area-restricted search over
+executive function and one that may underlie capacities       internal information landscapes, switching between
+for internal foraging in cognitive representations (Hills,    exploiting clusters of related items and exploring for
+2006).                                                        new clusters when the previous one is depleted?
+                                                                 Some of the earliest work examining this question
+                                                              investigated intermediate environments in which inter-
+Foraging in Internal Spaces
+                                                              nal and external search constraints are combined. For
+The internal world of our memory reflects properties          example, Wilke, Hutchinson, Todd, and Czienskowski
+of the external world. For instance, we encode patchi-        (2009) developed a task that bridged problem solving
+ness in time (Anderson & Schooler, 1991), associations        and (internal) memory search using a word puzzle in
+in semantic space (Raaijmakers & Shiffrin, 1981), and         which participants had to find all the words they could
+maps of physical space (Tolman, 1948) on the basis of         create using sets of random letters (corresponding to
+our experiences with external information. Therefore,         externally defined word patches; see Fig. 1). Partici-
+our internal information space is likely to share struc-      pants could switch as desired between sets, but doing
+tural similarity with our external physical space. Specifi-   so would result in a costly delay. In this internal search
+cally, like locations on a spatial map—but in higher          for anagram solutions and in an analogous external
+dimensions ( Jones, Kintsch, & Mewhort, 2006)—                search task for fish in virtual ponds, people used the
+information in memory can be near or far from other           same type of foraging rule (a variation of area-restricted
+Foraging in Mind                                                                                                                    3
+
+                                Cow                                      Todd, 2015). Currently, functional MRI studies are
+                                                                         underway to compare these models at the level of brain
+                   Horse
+                                                                         mechanisms.
+                                 Pig
+                                                                             Do internal and external searches use similar cogni-
+                                                                         tive mechanisms? Evolutionary and empirical evidence
+                             Duck                                        suggest that they do, under the common function of
+                                                                         goal-directed behavior or executive control (Hills, Todd,
+                                                                         & Goldstone, 2010). Measures of executive function
+                                                                         correlate with numerous internal and external search
+                                                                         tasks (Longstaffe, Hood, & Gilchrist, 2014; Rosen &
+                                                                         Engle, 1997). For example, individuals with higher mea-
+                                              Lion
+                               Cheetah                                   sures of executive control are both better able to iden-
+                                                                         tify visual targets in the face of distraction in an external
+                                                                         visual search task (Poole & Kane, 2009) and to persist
+                                    Zebra                                longer in local search in internal search tasks (Hills,
+Fig. 2. Internal foraging in the verbal fluency task (Hills, Jones, &    Mata, Wilke, & Samanez-Larkin, 2013; Hills & Pachur,
+Todd, 2012). In the animal fluency task shown here, participants         2012). Individual differences may also be preserved
+are asked to “name all the animals you can think of.” Behavior fol-      across both visual (external) and semantic (internal)
+lows a pattern of local search within clusters of semantically similar
+items (solid arrows) and then global search for new clusters, which
+                                                                         search tasks (Van den Driessche, Chevrier, Cleeremans,
+are typically found by starting with a high-frequency word (dotted       & Sackur, 2019). Hills, Todd, and Goldstone (2008,
+arrow). Figure adapted from Hills and Butterfill (2015).                 2010) also found evidence for a common underlying
+                                                                         process by demonstrating that search strategies could
+                                                                         be primed from spatial environments (with resources
+search called an incremental rule) to decide when to                     distributed either diffusely or in clusters) to apply to
+switch from exploitation to exploration (Hutchinson,                     letter sets (Fig. 3).
+Wilke, & Todd, 2008).                                                        Do insights from foraging extend to behavior in still
+   To study internal foraging in the absence of external                 more abstract environments, such as culture? There is
+structure, we asked participants in another study to                     reason to expect so. If cultural innovation involves
+name all the animals they could think of in 3 min (Hills,                exploration of patchy information environments (Hills
+Jones, & Todd, 2012). In this commonly used verbal                       et al., 2015), then this may help explain processes of
+fluency task, we found that memory recall was best                       cultural evolution that resemble punctuated equilibrium
+described as switching back and forth between local                      as stable bouts of exploitation followed by bursts of
+search (producing a cluster of semantically similar                      exploration (Kolodny, Creanza, & Feldman, 2015). Peo-
+words) and global search (seeking a new high-frequency                   ple searching for new innovations in a creative space
+word to start a new cluster; see Fig. 2). Individuals                    of two-dimensional images showed regular transitions
+switched to new clusters in a manner that matched the                    between bouts of exploitation of related designs and
+central prediction of optimal-foraging theory, the mar-                  exploration for new designs, and they left a cluster to
+ginal value theorem (Charnov, 1976), leaving the current                 explore more when the novelty of exploited designs in
+word cluster when their rate of producing words in that                  the previous cluster fell (Hart et al., 2018). Search for
+cluster fell below their overall mean rate. As in spatial-               other people’s cultural creations also appears to move
+patch foraging, individuals who followed this area-                      between local exploitation of familiar styles and explo-
+restricted search strategy—modulating between local                      ration for new things to try (e.g., for music: Lorince,
+exploration and global exploration on the basis of                       2016).
+recent resource encounters—had higher overall mem-
+ory production rates.
+   Random-walk models of search can mimic some
+                                                                         Implications of the Foraging Mind
+behaviors produced by area-restricted search in par-                     The prevalence across species of area-restricted search
+ticular contexts, including verbal fluency and spatial                   and the shared neuromolecular architectures that
+foraging (Abbott, Austerweil, & Griffiths, 2015; Hills,                  underpin it are evolution’s answers to the exploration/
+Kalff, & Wiener, 2013). However, recent research using                   exploitation trade-off that must be navigated in a wide
+model comparisons has found evidence for the adaptive                    variety of external environments (Hills et al., 2015).
+transitions predicted by area-restricted search, and not                 Ongoing research on the use of these foraging mecha-
+by random walks, between exploratory and exploitative                    nisms to search internally has led to numerous insights
+search in memory (Avery & Jones, 2018; Jones, Hills, &                   regarding the possible evolution of minds such as ours.
+4                                                                                                                                   Todd, Hills
+
+
+                    a                                        b
+                                                                                             Clustered         Diffuse
+                              BLNTAO
+
+                                Boat
+                                Bolt
+                                 …
+
+
+                    c                                        d
+                                                                                              30
+
+
+
+                                                                 Difference in Letter-Set
+                                                                                              20
+                              HMEVLA
+                                                                                              10
+                                                                                               0
+                                Vale
+
+                                                                 Time (Posttest – Pretest)
+                                Helm                                                         −10
+                                 …                                                           −20
+                                                                                             −30   Clustered   Diffuse
+
+                    Fig. 3. Evidence for a connection between external and internal search from a priming study
+                    incorporating both types of search (Hills, Todd, & Goldstone, 2008, 2010). Participants first
+                    played a word puzzle (a; as in Fig. 1) to establish baseline performance. They then played a
+                    spatial search game (b) in which they looked for resources hidden in a two-dimensional land-
+                    scape on a computer screen. For half of the participants, the resources came in clusters (left,
+                    shown here in black, although they were invisible to participants until they passed over them).
+                    For the rest of the participants, the resources were distributed diffusely (right). Red lines are
+                    example mouse trajectories. (Numbers shown are game scores.) Finally (c), participants searched
+                    for word-puzzle solutions again. The graph (d) shows the mean difference between the length
+                    of time participants searched for letter clusters in the second word-puzzle task and the first,
+                    separately for those who saw clustered resources and who saw diffuse resources. Those who
+                    searched in the clustered spatial environment stayed significantly longer in word patches after-
+                    ward, which suggests that increased use of exploitation in the spatial search strategy primed
+                    increased exploitation in the internal word search, possibly through a linked dopaminergic
+                    mechanism. Portions of this figure adapted from Hills et al. (2008).
+
+
+These include capacities for deliberation and self-                                    shown preemptive internal foraging of choices of direc-
+projection, self-awareness, and free will. Researchers con-                            tions to take when navigating a maze, with hippocam-
+tinue to debate the existence of many of these faculties                               pal activation being followed by activation in striatal
+in nonhuman animals, but the internal-foraging literature                              reward centers, allowing the valuing of possible future
+suggests that the differences may be—as Darwin (1871)                                  actions (Pezzulo, van der Meer, Lansink, & Pennartz,
+suggested—“one of degree and not of kind” (p. 105).                                    2014; see Redish, 2016, for a review). This is called
+                                                                                       episodic future thinking, and alongside the increasing
+                                                                                       evidence for episodic memory in nonhuman animals
+Deliberation and self-projection                                                       (reviewed by Crystal, 2018), it suggests that internal
+Deliberation can be defined as the ability to consider                                 foraging allows human and nonhuman animals to con-
+alternative courses of action. This can be instantiated                                sider multiple courses of actions before initiating a
+as a form of internal foraging and is sometimes associ-                                choice. Perhaps most importantly for establishing
+ated with the capacity for self-projection, imagining                                  humanlike abilities in other species (Suddendorf et al.,
+oneself adopting each considered course of action (or                                  2009), internal foraging in nonhuman animals demon-
+mental time travel; see Suddendorf, Addis, & Corballis,                                strates the capacity for generativity, producing novel
+2009). Studies with nonhuman animals have demon-                                       goal-directed solutions that the animal has never expe-
+strated phenomenological properties of deliberation.                                   rienced before (Gupta, van der Meer, Touretzky, &
+Recordings from hippocampal place cells in rats have                                   Redish, 2010; Pfeiffer & Foster, 2013).
+Foraging in Mind                                                                                                             5
+
+Self-awareness and autonoetic consciousness                    satisfy what many philosophers have characterized as
+                                                               these design features of compatibilist free will.
+Internal search requires two closely linked processes             In particular, capacities for self-projection and gen-
+( Jones et al., 2015): (a) a representation of the informa-    eration of novelty in episodic future thinking lead to
+tion to be searched along with some instantiation of           the possibility of generative self-construction (Hills,
+nearness and farness, what Tolman (1948) referred to           2019). This involves a cognitive system, consciously
+as a cognitive map, and (b) an attentional search pro-         aware of its own internal foraging, that experiences
+cess that controls or guides progress through the inter-       future versions of itself via constructive memory pro-
+nal map. The goal-directed search process is associated        cesses that sample from and recombine past experi-
+with executive function and goal maintenance (Hills            ences, chooses among them on the basis of the expected
+et al., 2010) and is synonymous with effortful con-            values associated with those experiences, and then acts
+sciousness, the kind of thinking associated with focused       to bring the chosen one about. This generative self-
+attention, one-thing-at-a-time processing, the ability to      construction is a pragmatic and computational concep-
+produce novelty, and self-report (e.g., Baddeley, 2007).       tualization of free will because it is built from the
+    But internal search may also require another kind of       evolutionarily adaptive components underlying internal
+consciousness. Any computational system (animal,               foraging mechanisms.
+robotic, or extraterrestrial) that develops an information
+representation and the capacity to search over it should
+also be able to tell the difference between internally         Conclusions
+imagined “experiences” (generated by episodic future           In this article, we have proposed a pathway of search
+thinking) and real experiences, or the individual will         evolving over time from dealing with problems of find-
+likely suffer from false memories and hallucinations.          ing physical resources in space to seeking information
+Hills and Butterfill (2015) argued that the need for this      resources in the external environment to finding and
+discriminative ability between internal and external           creating concepts, ideas, and plans internally in the
+foraging provides an evolutionary foothold for self-           mind. This pathway should apply to any evolved organ-
+awareness, similar to what Tulving (1985) described as         isms, helping us understand the thought and behavior
+autonoetic consciousness.                                      not only of humans but also of other terrestrial animals
+    Debates about self-awareness in animals are ongoing        and even of organisms that evolved on other worlds
+and have often relied on mirror self-recognition tasks         (Todd & Miller, 2018). Further research on these com-
+using the mark test. Researchers have now observed that        mon foraging mechanisms could provide insights to aid
+this task can be solved by primates, dolphins, elephants,      our interactions with other species, near and far. If
+chimpanzees, corvids, and more recently, fish. The pre-        these organisms live in environments with clustered
+diction from internal-foraging research is that self-          resource distributions, then they will likely have evolved
+awareness, whether signaled by self-recognition or not,        capacities for mediating the exploration/exploitation
+should be found in animals with the capacity to forage         trade-off through some means of cognitive control. And
+in mind as part of the mechanism that distinguishes            in doing so, they will have gained the foundation for
+between internal and external foraging events and              using an internal map and differentiating that use in
+thereby prevents memory errors and associated costly           their imagined plans from their actual movement in the
+behaviors. (The presence of self-recognition could be an       external world—steps on the way to consciousness and
+indication that a species engages in internal foraging, but    free will. Wherever cognition arises, it may march along
+this is not necessarily the case given that self-recognition   the same evolutionary pathway that connects every-
+may have evolved for other purposes.)                          thing from the bacteria seeking food in their tiny micro-
+                                                               cosm to wildebeests grazing on the Serengeti to humans
+Free will and generative self-construction                     searching for ways to understand the universe.
+
+Free will may at first seem beyond the scope of natu-          Recommended Reading
+ralistic accounts of cognitive capacities. But among
+                                                               Hills, T. T., Todd, P. M., Lazer, D., Redish, A. D., & Couzin,
+compatibilists—people allowing for free will in a
+                                                                   I. D., & The Cognitive Search Research Group. (2015).
+deterministic universe—standard requirements for                   (See References). A multiperspective, interdisciplinary
+free will include the capacity to “do otherwise” (to               discussion of the exploration/exploitation trade-off and
+take alternative courses of action), to maintain goals,            the mechanisms used to mediate it.
+to deliberate over alternatives (internal foraging) in         Mehlhorn, K., Newell, B. R., Todd, P. M., Lee, M. D., Morgan,
+pursuit of said goals, and in the end, to be able to               K., Braithwaite, V. A., . . . Gonzalez, C. (2015). Unpacking
+say “I did it” (Dennett, 2015). As our arguments above             the exploration–exploitation tradeoff: A synthesis of
+indicate, internal search and its required processes               human and animal literatures. Decision, 2, 191–215.
+6                                                                                                                          Todd, Hills
+
+    doi:10.1037/dec0000033. A review of aspects of the                Dennett, D. C. (2015). Elbow room: The varieties of free will
+    exploration/exploitation trade-off in learning and deci-               worth wanting. Cambridge, MA: MIT Press.
+    sion-making, arguing for a continuum between the two.             Gupta, A. S., van der Meer, M. A., Touretzky, D. S., & Redish,
+Pirolli, P. (2007). (See References). A thorough review of the             A. D. (2010). Hippocampal replay is not a simple function
+    research and models of how people organize their infor-                of experience. Neuron, 65, 695–705.
+    mation environments and forage through them effectively.          Hart, Y., Goldberg, H., Striem-Amit, E., Mayo, A. E., Noy, L., &
+Redish, A. D. (2016). (See References). A thorough review                  Alon, U. (2018). Creative exploration as a scale-invariant
+    of research on neural mechanisms underlying possible                   search on a meaning landscape. Nature Communications,
+    mental search over decision options in rats, connecting                9(1), Article 5411. doi:10.1038/s41467-018-07715-8
+    to deliberative thinking and mental time travel in humans         Hills, T. T. (2006). Animal foraging and the evolution of
+    and providing extensive references.                                    goal-directed cognition. Cognitive Science, 30, 3–41. doi:
+Todd, P. M., Hills, T. T., & Robbins, T. W. (Eds.) (2012).                 10.1207/s15516709cog0000_50
+    (See References). An edited book with chapters reviewing          Hills, T. T. (2019). Neurocognitive free will. Proceedings of
+    research on search in animal behavior, human psychol-                  the Royal Society B: Biological Sciences, 286(1908), Article
+    ogy, neuroscience, and computer science, along with                    20190510. doi:10.1098/rspb.2019.0510
+    interdisciplinary chapters making connections between             Hills, T. T., & Butterfill, S. (2015). From foraging to autono-
+    fields, all written for nonspecialists.                                etic consciousness: The primal self as a consequence
+                                                                           of embodied prospective foraging. Current Zoology, 61,
+Transparency                                                               368–381. doi:10.1093/czoolo/61.2.368
+                                                                      Hills, T. T., Jones, M. N., & Todd, P. M. (2012). Optimal for-
+Action Editor: Randall W. Engle
+                                                                           aging in semantic memory. Psychological Review, 119,
+Editor: Randall W. Engle
+                                                                           431–440.
+Declaration of Conflicting Interests
+                                                                      Hills, T. T., Kalff, C., & Wiener, J. M. (2013). Adaptive Lévy
+   The author(s) declared that there were no conflicts of
+                                                                           processes and area-restricted search in human forag-
+   interest with respect to the authorship or the publication
+                                                                           ing. PLOS ONE, 8(4), Article e60488. doi:10.1371/journal
+   of this article.
+                                                                           .pone.0060488
+Funding
+                                                                      Hills, T. T., Mata, R., Wilke, A., & Samanez-Larkin, G. R. (2013).
+   Part of this work was supported by a John Templeton
+                                                                           Mechanisms of age-related decline in memory search
+   Foundation grant, “What Drives Human Cognitive Evolu-
+                                                                           across the adult life span. Developmental Psychology, 49,
+   tion,” to P. M. Todd.
+                                                                           2396–2404.
+                                                                      Hills, T. T., & Pachur, T. (2012). Dynamic search and work-
+ORCID iD                                                                   ing memory in social recall. Journal of Experimental Psy­
+Peter M. Todd       https://orcid.org/0000-0003-0231-513X                  chology: Learning, Memory, and Cognition, 38, 218–228.
+                                                                      Hills, T. T., Todd, P. M., & Goldstone, R. L. (2008). Search
+Acknowledgments                                                            in external and internal spaces: Evidence for generalized
+                                                                           cognitive search processes. Psychological Science, 19,
+We thank Ehren Newman, Nancy Lundin, and Calvin Isch for
+                                                                           802–808. doi:10.1111/j.1467-9280.2008.02160.x
+helpful input on this manuscript.
+                                                                      Hills, T. T., Todd, P. M., & Goldstone, R. L. (2010). The cen-
+                                                                           tral executive as a search process: Priming exploration
+References                                                                 and exploitation across domains. Journal of Experimental
+Abbott, J. T., Austerweil, J. L., & Griffiths, T. L. (2015). Random        Psychology: General, 139, 590–609. doi:10.1037/a0020666
+    walks on semantic networks can resemble optimal forag-            Hills, T. T., Todd, P. M., Lazer, D., Redish, A. D., & Couzin,
+    ing. Psychological Review, 122, 558–569.                               I. D., & The Cognitive Search Research Group. (2015).
+Anderson, J. R., & Schooler, L. J. (1991). Reflections of the              Exploration versus exploitation in space, mind, and soci-
+    environment in memory. Psychological Science, 2, 396–408.              ety. Trends in Cognitive Sciences, 19, 46–54.
+Avery, J. E., & Jones, M. N. (2018). Comparing models of              Hutchinson, J. M. C., Wilke, A., & Todd, P. M. (2008). Patch
+    semantic fluency: Do humans forage optimally or walk                   leaving in humans: Can a generalist adapt its rules to
+    randomly? In T. T. Rogers, M. Rau, X. Zhu, & C. W.                     dispersal of items across patches? Animal Behaviour, 75,
+    Kalish (Eds.), Proceedings of the 40th Annual Meeting of               1331–1349. doi:10.1016/j.anbehav.2007.09.006
+    the Cognitive Science Society (pp. 118–123). Austin, TX:          Jones, M. N., Hills, T. T., & Todd, P. M. (2015). Hidden
+    Cognitive Science Society.                                             processes in structural representations: Reply to Abbott,
+Baddeley, A. (2007). Working memory, thought, and action.                  Austerweil, & Griffiths (2015). Psychological Review, 122,
+    Oxford, England: Oxford University Press.                              570–574.
+Charnov, E. L. (1976). Optimal foraging, the marginal value           Jones, M. N., Kintsch, W., & Mewhort, D. J. (2006). High-
+    theorem. Theoretical Population Biology, 9, 129–136.                   dimensional semantic space accounts of priming. Journal
+    doi:10.1016/0040-5809(76)90040-x                                       of Memory and Language, 55, 534–552.
+Crystal, J. D. (2018). Animal models of episodic memory.              Kolodny, O., Creanza, N., & Feldman, M. W. (2015). Punctuated
+    Comparative Cognition & Behavior Reviews, 13, 105–122.                 accumulation of cultural innovations. Proceedings of
+Darwin, C. (1871). The descent of man, and selection in rela-              the National Academy of Sciences, 112, E6762–E6769.
+    tion to sex. London, England: John Murray.                             doi:10.1073/pnas.1520492112
+Foraging in Mind                                                                                                                    7
+
+Longstaffe, K. A., Hood, B. M., & Gilchrist, I. D. (2014). The       Suddendorf, T., Addis, D. R., & Corballis, M. C. (2009).
+    influence of cognitive load on spatial search performance.           Mental time travel and the shaping of the human
+    Attention, Perception, & Psychophysics, 76, 49–63.                   mind. Philosophical Transactions of the Royal Society B:
+Lorince, J. (2016). Consumption of content on the Web: An                Biological Sciences, 364, 1317–1324.
+    ecologically inspired perspective (Unpublished doctoral          Todd, P. M., Hills, T. T., & Robbins, T. W. (Eds.) (2012).
+    dissertation). Indiana University Bloomington.                       Cognitive search: Evolution, algorithms, and the brain.
+Pacheco-Cobos, L., Winterhalder, B., Cuatianquiz-Lima, C.,               Cambridge, MA: MIT Press.
+    Rosetti, M. F., Hudson, R., & Ross, C. T. (2019). Nahua mush-    Todd, P. M., & Miller, G. F. (2018). The evolutionary psychol-
+    room gatherers use area-restricted search strategies that con-       ogy of extraterrestrial intelligence: Are there universal
+    form to marginal value theorem predictions. Proceedings of           adaptations in search, aversion, and signaling? Biological
+    the National Academy of Sciences, USA, 116, 10339–10347.             Theory, 13, 131–141.
+Pezzulo, G., van der Meer, M. A., Lansink, C. S., & Pennartz,        Tolman, E. C. (1948). Cognitive maps in rats and men.
+    C. M. (2014). Internally generated sequences in learning             Psychological Review, 55, 189–208.
+    and executing goal-directed behavior. Trends in Cognitive        Tulving, E. (1985). Memory and consciousness. Canadian
+    Sciences, 18, 647–657.                                               Psychology, 26, 1–12.
+Pfeiffer, B. E., & Foster, D. J. (2013). Hippocampal place-          Van den Driessche, C., Chevrier, F., Cleeremans, A., & Sackur, J.
+    cell sequences depict future paths to remembered goals.              (2019). Lower attentional skills predict increased explor-
+    Nature, 497, 74–79.                                                  atory foraging patterns. Scientific Reports, 9(1), Article
+Pirolli, P. (2007). Information foraging theory: Adaptive inter-         10948. doi:10.1038/s41598-019-46761-0
+    action with information. New York, NY: Oxford University         Wilke, A., & Barrett, H. C. (2009). The hot hand phenomenon
+    Press.                                                               as a cognitive adaptation to clumped resources. Evolution
+Plank, M., & James, A. (2008). Optimal foraging: Lévy pat-               and Human Behavior, 30, 161–169.
+    tern or process? Journal of the Royal Society Interface, 5,      Wilke, A., Bedell, V., Lydick, J., Treat, J., Dawley, T.,
+    1077–1086.                                                           Pedersen, S., & Langen, T. (2018). Spatial dependency
+Poole, B. J., & Kane, M. J. (2009). Working-memory capacity              in local resource distributions. Evolutionary Behavioral
+    predicts the executive control of visual search among distrac-       Sciences, 12, 163–172.
+    tors: The influences of sustained and selective attention. The   Wilke, A., Hutchinson, J. M. C., Todd, P. M., & Czienskowski, U.
+    Quarterly Journal of Experimental Psychology, 62, 1430–1454.         (2009). Fishing for the right words: Decision rules for
+Raaijmakers, J. G., & Shiffrin, R. M. (1981). Search of associa-         human foraging behavior in internal search tasks. Cog­
+    tive memory. Psychological Review, 88, 93–134.                       nitive Science, 33, 497–529.
+Redish, A. D. (2016). Vicarious trial and error. Nature Reviews      Wilke, A., Minich, S., Panis, M., Langen, T. A., Skufca, J., &
+    Neuroscience, 17, 147–159.                                           Todd, P. M. (2015). A game of hide and seek: Expectations
+Rosen, V. M., & Engle, R. W. (1997). The role of working                 of clumpy resources influence hiding and searching pat-
+    memory capacity in retrieval. Journal of Experimental                terns. PLOS ONE, 10(7), Article e0130976. doi:10.1371/
+    Psychology: General, 126, 211–227.                                   journal.pone.0130976
+

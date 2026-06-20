@@ -3,7 +3,7 @@
 > Companion to `04-passage-of-time-assessment.md`.
 > Profiles for all eight PTA temporal types, using an 11-section schema adapted to the three-factor structure (the full 14-section schema from SCA/MMA/SSA is reduced because independent factors do not produce the same quadrant-dynamic structure; "The Complementary Mode" becomes "The Counterweight Type").
 > These are the deterministic fallback narratives. The Gemini layer enriches the Archetype and Reflection sections from the player's answer pattern. It never overrides the structured sections.
-> Honesty note: profiles describe tendencies associated with a pattern of temporal engagement. They are affirming, non-clinical, and avoid deficit framing. The affirming scope limit (00 §3) applies: these profiles describe the affirming surface of each pattern and cannot detect rumination, hopelessness, or dread.
+> Honesty note: profiles describe tendencies associated with a pattern of temporal engagement. They are affirming, non-clinical, and avoid deficit framing. The affirming scope limit (00 §3) applies: these profiles describe the affirming surface of each pattern and cannot detect rumination, hopelessness, or dread. v0.23: the type gains a temporal-stance modifier (resource/weight/gift/mystery) from the added stance layer, grounded in Carstensen (2021).
 
 ---
 
@@ -450,6 +450,19 @@ Your wholeness lives in what you might hold. The Balanced profile's engagement a
 "You are the one who moves through time lightly, unheld by any zone. If that lightness is freedom, tend it. If it ever feels like flatness, let someone help you look. Your gift is non-attachment, and your growth is choosing, sometimes, to be held."
 
 ---
+
+## Temporal stance modifier (v0.23)
+
+The v0.22 profile describes which temporal zones you engage (the three factors). v0.23 adds a **temporal-stance modifier** that describes your relationship to the passage of time itself, grounded in Carstensen (2021) on perceived time horizons.
+
+Four stances, reported alongside the zone type:
+
+- **Resource**: time is something to be used well. A Keeper-as-Resource preserves roots as a steward. A Wayfinder-as-Resource plans and builds.
+- **Weight**: time is something you carry. Reframed as "a weight you carry with dignity." The affirming scope limit note carries the clinical caveat: sustained passage-as-burden may warrant attention that this assessment cannot provide.
+- **Gift**: time is something you receive. A Witness-as-Gift is present to the moment as something given. A Balanced Time Perspective with gift stance experiences all three zones as received.
+- **Mystery**: time is something you dwell in. The Wanderer with mystery stance floats in time as a contemplative, not a drifter.
+
+The stance modifier changes the texture of the type without changing the zone factors. The four-stance typology is our synthesis and is unvalidated; the underlying perceived-time-horizons mechanism is validated (Carstensen). The stance layer is a forced-ranking or best-fit format, a departure from the zone factors' Likert format.
 
 ## How scores modulate these profiles
 

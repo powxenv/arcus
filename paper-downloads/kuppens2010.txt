@@ -1,0 +1,471 @@
+Research Article
+
+                                                                                                                                   Psychological Science
+
+Emotional Inertia and Psychological                                                                                                21(7) 984­–991
+                                                                                                                                   © The Author(s) 2010
+                                                                                                                                   Reprints and permission:
+Maladjustment                                                                                                                      sagepub.com/journalsPermissions.nav
+                                                                                                                                   DOI: 10.1177/0956797610372634
+                                                                                                                                   http://pss.sagepub.com
+
+
+
+
+Peter Kuppens1,2, Nicholas B. Allen2,3, and Lisa B. Sheeber4
+1
+  University of Leuven; 2University of Melbourne; 3Orygen Youth Health Research Centre, Parkville, Australia;
+and 4Oregon Research Institute, Eugene, Oregon
+
+
+Abstract
+In this article, we examine the concept of emotional inertia as a fundamental property of the emotion dynamics that characterize
+psychological maladjustment. Emotional inertia refers to the degree to which emotional states are resistant to change. Because
+psychological maladjustment has been associated with both emotional underreactivity and ineffective emotion-regulation skills,
+we hypothesized that its overall emotion dynamics would be characterized by high levels of inertia. We provide evidence from
+two naturalistic studies that, using different methods, showed that the emotional fluctuations of individuals who exhibited low
+self-esteem (Study 1) and depression (Study 2) were characterized by higher levels of inertia in both positive and negative
+emotions than the emotional fluctuations of people who did not exhibit low self-esteem and depression. We also discuss the
+usefulness of the concept of emotional inertia as a hallmark of maladaptive emotion dynamics.
+
+Keywords
+emotion, psychological adjustment, emotional inertia, emotional variability
+Received 7/8/09; Revision accepted 10/22/09
+
+
+
+
+Feelings change. People’s emotional lives are characterized by                            organism as it copes with the demands and threats in the environ-
+ups and downs, changes and fluctuations following the ebb                                 ment (Frijda, 2007; Izard, 2009). Anger motivates antagonism
+and flow of daily life. Studying the patterns and characteristics                         and the removal of the object of frustration, fear motivates avoid-
+of these changes gives researchers insight into the dynamics of                           ing or fleeing a threatening environment, and happiness signals
+emotions and how people regulate their emotions, for better or                            that things are going well and encourages further engagement in
+for worse. In this article, we examine the concept of emotional                           the current situation. In sum, the adaptive value of emotions lies
+inertia as a fundamental feature of the dynamics of emotional                             in their capacity to mobilize the individual in response to internal
+experience and discuss its relationship to psychological                                  or external events. It therefore seems contradictory that emo-
+maladjustment.                                                                            tional reactivity per se would be maladaptive. Experiencing
+                                                                                          changing emotions should be generally functional and adaptive,
+                                                                                          depending on how attuned these emotional changes are to envi-
+Emotional Variability and Adjustment                                                      ronmental contingencies. Lack of emotional responsiveness,
+One of the most common findings in the study of emotion                                   instead, may be a sign that such responses have become decou-
+dynamics is that high levels of emotional variability are asso-                           pled from environmental or psychological demands and, thus,
+ciated with maladaptive psychological functioning. For                                    may be indicative of maladjustment.
+instance, individuals who display larger emotional variability
+over time (expressed, for instance, as the standard deviation of
+repeated emotion assessments across time) are characterized                               Emotional Inertia and Adjustment
+by higher levels of depression and neuroticism as well as                                 On closer inspection, emotional variability, as it has been
+lower levels of self-esteem (e.g., Eid & Diener, 1999; Kup-                               measured in studies on its association with psychological
+pens, Van Mechelen, Nezlek, Dossche, & Timmermans, 2007).
+   This line of research could be interpreted as showing that
+                                                                                          Corresponding Author:
+psychological maladjustment is characterized by large emo-                                Peter Kuppens, Department of Psychology, University of Leuven,
+tional reactivity (Kuppens et al., 2008). Yet emotions are gener-                         Tiensestraat 102, 3000 Leuven, Belgium
+ally considered to be adaptive responses that aid and motivate an                         E-mail: peter.kuppens@psy.kuleuven.be
+
+
+                                                     Downloaded from pss.sagepub.com at Purdue University on June 15, 2015
+Emotional Inertia                                                                                                                               985
+
+
+maladjustment, may not reflect emotional reactivity as much                       central to emotion context insensitivity, as well as the
+as the range and extremity of emotional experiences (Larsen &                     decreased ability to change moods and emotions that reflects
+Diener, 1987). Extremely intense emotions are very disruptive                     deficient emotion-regulation skills. Emotional inertia may
+and characteristic of many emotional disorders (e.g., anxiety                     therefore prove to be a hallmark of the emotion dynamics that
+disorder, mania, depression). Experiencing a broad range of                       are tied to psychological maladjustment.
+intense emotions is not, however, the same thing as being                             Before research explores the boundary conditions and
+emotionally reactive. In fact, maladjustment may be character-                    underlying processes of emotional inertia, it is crucial to estab-
+ized by reduced emotional reactivity. A recent meta-analysis                      lish that increased inertia indeed characterizes the emotion
+(Bylsma, Morris, & Rottenberg, 2008) provided evidence that                       dynamics of individuals who show signs of psychological
+depressive disorder is characterized by what Rottenberg                           maladjustment (see Rozin, 2009). So far, the concept of emo-
+(2005) has labeled emotion context insensitivity, or reduced                      tional inertia has not been frequently researched. A notable
+emotional reactivity to the environment, with regard to both                      exception is the study by Suls et al. (1998) that introduced the
+positive and negative emotions. This lower responsiveness                         concept of affective inertia and demonstrated that neuroticism
+may typify not just the onset but also the maintenance of emo-                    increases the likelihood that a negative mood at one moment
+tions. In general, psychological maladjustment is related to                      will carry over to the next moment. Yet additional evidence is
+impaired emotion-regulation skills (Gross, 2007). Specifically,                   needed to establish the potential role of emotional inertia as a
+research has shown that indicators of low psychological well-                     feature of maladaptive emotion dynamics. Also, it is important
+being, such as neuroticism and low self-esteem, are related to                    to examine whether maladjustment is associated with inertia
+impairments in affect repair (e.g., Heimpel, Wood, Marschall, &                   solely of negative emotional states, or whether both positive
+Brown, 2002; Hemenover, 2003), and evidence suggests that                         and negative emotions display higher levels of inertia in mal-
+depressed individuals are characterized by a longer duration of                   adjusted individuals compared to better-adjusted individuals.
+negative moods and emotional states than nondepressed indi-                           Our aim in the present study was to examine the usefulness
+viduals are (Peeters, Nicolson, Berkhof, Delespaul, & deVries,                    of the concept of emotional inertia by examining its relationship
+2003; Sheeber, Allen, Davis, & Sorensen, 2000; Silk, Steinberg,                   with indicators of psychological adjustment. We chose to focus
+& Morris, 2003).                                                                  on two central indicators of psychological adjustment: self-
+    Taken together, these findings suggest that the emotion                       esteem, which is widely considered to be crucial to psychologi-
+dynamics observed in psychological maladjustment might be                         cal functioning and well-being (Kernis, 2006), and major
+characterized by what has been labeled emotional inertia                          depression, a mood disorder that affects close to one sixth of the
+(Suls, Green, & Hillis, 1998). Emotional inertia can be defined                   general population and that is projected to become the primary
+as resistance to emotional change, formalized as the degree to                    mental-health threat in the coming decades (Kessler, 2002). To
+which a person’s current emotional state can be predicted by                      examine the hypothesis that low self-esteem and depression
+his or her emotional state at a previous moment (with high                        (which are themselves highly related; Neiss, Stevenson,
+predictability reflecting high inertia). High emotional inertia                   Legrand, Iacono, & Sedikides, 2009) are associated with
+means that a person’s emotional state is likely to persist from                   increased emotional inertia, we conducted two studies that
+one moment to the next, which suggests that it may be highly                      relied on different methodologies and focused separately on
+resistant to external influences (e.g., changes in the environ-                   these two indicators of psychological adjustment. In Study 1,
+ment) or internal influences (e.g., regulation efforts). High                     we examined the relationship between self-esteem and inertia in
+inertia may thus signal a slowing down of emotional experi-                       people’s naturally occurring emotional experiences throughout
+ences, reflecting a decoupling of emotions from their adaptive                    their daily life. In Study 2, we examined the relationship
+function. In turn, low emotional inertia means that a person’s                    between major depression and inertia in emotional behavior
+emotional state is more susceptible to change, which suggests                     during emotionally evocative family interactions.
+that emotions are more likely to be influenced by environmen-
+tal or psychological demands and more responsive to regula-
+tory control.                                                                     Study 1
+    It is important to underscore that emotional inertia is dis-                  An experience-sampling study (Csikszentmihalyi & Larsen,
+tinct from emotional variability (e.g., Jahng, Wood, & Trull,                     1987) was conducted to collect data on the emotional changes
+2008). A person can display both high emotional inertia and                       and fluctuations that naturally occur during daily life. Because
+high emotional variability (e.g., slow but large mood shifts),                    experience-sampling techniques capture data from life “as it is
+high inertia but low variability (e.g., slow but small mood                       lived” (Bolger, Davis, & Rafaeli, 2003, p. 579), they benefit
+shifts), low inertia and high variability (e.g., frequent but large               from high ecological validity and are less subject to recall biases
+mood shifts), and both low inertia and low variability (e.g.,                     than other self-report methodologies. In our study, participants
+frequent but small mood shifts).                                                  recorded their momentary emotional experiences over the course
+    The concept of emotional inertia has implications for                         of 2 weeks. Multilevel analyses were used to examine the
+understanding both emotion generation and emotion control                         hypothesis that low self-esteem, as an indicator of psychological
+(cf. Koole, 2009). It captures the decreased reactivity that is                   maladjustment, is related to elevated levels of emotional inertia.
+
+
+                                              Downloaded from pss.sagepub.com at Purdue University on June 15, 2015
+986		                                                                                                                              Kuppens et al.
+
+
+Method                                                                              Table 1 summarizes our findings. At Level 1, the signifi-
+                                                                                cant intercept values indicate that participants experienced
+Participants. Eighty university students took part in the study.                higher-than-zero levels on average for all emotions. The inter-
+One participant ended the study after 1 day, which resulted                     cept values also reveal that participants experienced more
+in a final sample of 79 participants (50 females, 29 males;                     positive than negative emotions on average, a pattern in line
+mean age = 24 years). Participants were paid €40 for their                      with previous findings (Kahneman, Krueger, Schkade,
+participation.                                                                  Schwarz, & Stone, 2004; Zelenski & Larsen, 2000). All slope
+                                                                                values were significant at Level 1. Thus, on average, all emo-
+Materials and procedure. In a first session, each participant                   tions displayed positive significant autocorrelations (i.e., par-
+received a palmtop computer along with instructions for its                     ticipants’ emotional states at time t were significantly predicted
+use. Each computer was programmed to beep 10 times a day                        by their states at time t – 1). This suggests that some degree of
+for 14 consecutive days during the participant’s waking hours.                  emotional inertia is normative. At Level 2, self-esteem was a
+The beeps were programmed according to a stratified random-                     significant positive predictor of individual differences in inter-
+interval scheme: Participants’ waking hours were divided into                   cept values for happy, excited, relaxed, and satisfied emotion;
+10 equal intervals, and one beep was programmed to sound                        a significant negative predictor for intercept values for anx-
+randomly within each interval. At each beep, the computer                       ious, depressed, and sad emotion; and a marginally significant
+prompted participants to rate (in randomized order) how                         predictor for anger. These results indicate that participants
+happy, excited, relaxed, satisfied, angry, anxious, depressed,                  with higher self-esteem on average felt more positive emo-
+and sad they felt at the moment of the beep, using a continuous                 tions, and they also felt less anxious, depressed, sad, and angry
+slider scale that ranged from 0 (not at all) to 100 (very much).                compared with participants who had lower self-esteem. These
+These emotion terms were selected because they represented                      results replicate previous findings (Diener & Diener, 1995).
+all quadrants of the affective circumplex (Russell, 2003). For                      Finally, in findings central to our hypothesis, the slopes at
+the next 2 weeks, participants carried the computer during                      Level 2 reflect how self-esteem was associated with individual
+their normal activities and responded to the questions when                     differences in autocorrelation (or inertia) for the different emo-
+signaled. Compliance was good: Overall, participants                            tions. The results show that self-esteem was significantly related
+responded to 82% of the programmed beeps. (Response fre-                        to the autocorrelation slopes for the majority of the studied emo-
+quency ranged between 55% and 99% for individual partici-                       tions. As predicted, lower levels of self-esteem were associated
+pants.) After 2 weeks, participants attended a second session                   with higher inertia for happy, excited, angry, anxious, and
+and were paid for participation. In addition, each participant                  depressed emotion. Self-esteem was not significantly related to
+filled out the Rosenberg (1965) Self-Esteem scale (either                       inertia for relaxed, satisfied, or sad emotion, although the asso-
+before or after the sampling procedure, as determined by ran-                   ciations for these emotions were in the predicted direction.
+dom assignment).                                                                    Consistent with our hypothesis, evidence from Study 1
+                                                                                shows that low self-esteem is related to higher inertia across a
+                                                                                variety of emotions in daily life. This means that relative to the
+Results                                                                         emotional states of individuals with higher self-esteem, the
+Following a process approach to examine time as a facet of                      emotional states of individuals with low self-esteem are more
+data (Larsen, Augustine, & Prizmic, 2009), we examined                          resistant to change. Our findings also show that the association
+within-person emotion autocorrelations and their between-                       between self-esteem and inertia holds for both positive and
+persons association with self-esteem in a multilevel frame-                     negative emotions, indicating that emotional inertia extends
+work. An autocorrelation (i.e., the correlation of a variable                   across hedonic boundaries.
+with itself at a time-lagged interval; Box & Jenkins, 1970)
+expresses the extent to which a currently observed variable
+can be predicted from the value of that variable at a previous                  Study 2
+point in time; autocorrelation can therefore be considered a                    Contemporary research on depression suggests that the emo-
+direct operationalization of the concept of emotional inertia.                  tional life of depressed individuals is not characterized by
+We used multilevel techniques to take into account the nested                   increased emotional reactivity, but rather is characterized by
+data structure and resulting dependencies (e.g., Bryk &                         increased emotional insensitivity (Rottenberg, 2005). In addi-
+Raudenbush, 1992) and to examine the moderating role of                         tion, depression is associated with impaired emotion-regulation
+self-esteem in individual differences in the emotions’ autocor-                 skills (Gross & Muñoz, 1995) and ruminative thought (Wat-
+relations. Specifically, at Level 1, we predicted each emotion                  kins, 2008), which suggests a decreased capacity to change
+at a given time (t) from the previous assessment of that same                   one’s emotions and thoughts. Together, these observations
+emotion (t – 1). At Level 2, the intercept and slope values of                  suggest that the emotional changes exhibited by depressed
+the emotion were allowed to vary across participants and were                   individuals may be more inert than the emotional changes
+predicted by the level of participants’ self-esteem.                            exhibited by nondepressed individuals.
+
+
+
+                                            Downloaded from pss.sagepub.com at Purdue University on June 15, 2015
+Emotional Inertia                                                                                                                             987
+
+
+                        Table 1. Multilevel Autocorrelation Analyses Predicting Emotion in Study 1
+
+                                                                         Level 1                              Level 2 (self-esteem)
+                        Emotion and parameter                b              SE               p               b          SE            p
+
+                        Happy
+                          Intercept                       58.58            1.48           .000            7.45         2.52       .005
+                          Slope                            0.30            0.02           .000           –0.07         0.03       .032
+                        Excited
+                          Intercept                       55.53            1.58           .000            8.54         2.52       .001
+                          Slope                            0.33            0.02           .000           –0.08         0.03       .025
+                        Relaxed
+                          Intercept                       61.53            1.42           .000            8.12         2.43       .002
+                          Slope                            0.27            0.02           .000           –0.04         0.04       .304
+                        Satisfied
+                          Intercept                       59.96            1.30           .000            9.29         2.38       .000
+                          Slope                            0.29            0.02           .000           –0.06         0.04       .123
+                        Angry
+                          Intercept                         6.63           0.70           .000           –2.57         1.46       .082
+                          Slope                             0.20           0.03           .000           –0.09         0.05       .051
+                        Anxious
+                          Intercept                         7.38           1.11           .000           –8.84         2.80       .003
+                          Slope                             0.22           0.02           .000           –0.14         0.04       .002
+                        Depressed
+                          Intercept                         6.70           0.75           .000           –7.11         1.79       .000
+                          Slope                             0.22           0.03           .000           –0.11         0.05       .025
+                        Sad
+                          Intercept                         8.58           0.87           .000           –5.20         1.80       .005
+                          Slope                             0.27           0.03           .000           –0.06         0.05       .297
+                        Note: In each analysis, the lagged predictor was group-mean-centered at Level 1. To remove
+                        previous-day effects, we replaced the first measurement of each day for the lagged variables
+                        with a missing value. At Level 1, the intercept reflects the average emotion rating, and the slope
+                        reflects the average autocorrelation (inertia). At Level 2, self-esteem was grand-centered. At this
+                        level, the intercept reflects the association between self-esteem and the average emotion level
+                        across participants, and the slope reflects the association between self-esteem and the autocor-
+                        relation (inertia) across participants.
+
+
+
+
+   In Study 2, we examined this hypothesis using data on the                       Method
+emotional behavior of depressed and nondepressed adoles-
+cents during laboratory-based interactions with their parents.                     Participants. Participants were 141 adolescents (94 females,
+Because interpersonal relationships are strong elicitors of                        47 males; mean age = 16 years) recruited using a two-gate
+emotional states, and family relations are arguably the most                       procedure consisting of a school-based screening of depres-
+salient interpersonal predictor of depressive symptomatology                       sive symptoms (Center for Epidemiologic Studies Depression
+in adolescents (Sheeber, Hops, & Davis, 2001), family interac-                     Scale, CES-D; Radloff, 1977) followed by diagnostic inter-
+tions provide an especially appropriate context for observing                      views with selected youth (Kiddie-Schedule for Affective Dis-
+affective behavior. In addition, this study enabled us to exam-                    orders and Schizophrenia, K-SADS; Orvaschel & Puig-Antich,
+ine emotional inertia on a much shorter time scale than in                         1994). Depressed adolescents (n = 72) had elevated scores on
+Study 1. Whereas the former study concerned inertia across                         the CES-D (> 31 for males and > 38 for females) during the
+relatively large time periods (hours), the current study allowed                   screening and subsequently met the diagnostic criteria for cur-
+us to examine emotional inertia at the time scale of seconds.                      rent major depressive disorder in the fourth edition of the
+As in the previous study, multilevel analyses were used to                         Diagnostic and Statistical Manual of Mental Disorders
+examine the hypothesis that psychological maladjustment (in                        (DSM–IV; American Psychiatric Association, 1994). Nonde-
+this case operationalized by the presence of depressive disor-                     pressed adolescents (n = 69) scored below an adolescent-
+der) is related to elevated levels of emotional inertia.                           appropriate cutoff on the CES-D (< 21 for males and < 24 for
+
+
+
+
+                                               Downloaded from pss.sagepub.com at Purdue University on June 15, 2015
+988		                                                                                                                                  Kuppens et al.
+
+
+females) and did not meet criteria for depressive or other dis-                     cheerful nonverbal actions or statements. This procedure
+orders at the subsequent interview.                                                 yielded second-by-second time-series information on the
+                                                                                    happy, angry, and dysphoric behavior of both depressed and
+Materials and procedure. Families of the selected adoles-                           nondepressed adolescents during several different interaction
+cents participated in three family-interaction tasks in the labo-                   tasks with their parents.
+ratory. Each task consisted of two discussions that lasted 9 min
+each. In the first two discussions, families were instructed to
+plan a vacation and then to talk about a fun time they had                          Results
+experienced together (positive discussions). The second task                        The data consisted of binary behavioral codes (e.g., happy/not
+consisted of two problem-solving interactions in which fami-                        happy) nested within interaction task discussion, nested in per-
+lies were asked to discuss and resolve areas of conflict (con-                      sons, and were accordingly analyzed using three-level logistic
+flict discussions). In the third task, families were asked to                       autocorrelation regression models. In a first series of analyses,
+discuss two areas of family life. One discussion focused on                         adolescents’ behavior (e.g., happy behavior) at time t was pre-
+identifying and describing the best and most difficult years the                    dicted by their behavior at time t – 5 s at Level 1 of the model,
+adolescent had experienced, and the other focused on the most                       with the intercept and slope values being nested in the six
+challenging and most rewarding aspects of parenting the ado-                        interaction task discussions at Level 2. Person-specific inter-
+lescent (reminiscence discussions). We have found that these                        cept and slope values were predicted by the presence or
+tasks elicit differential levels of happy, angry, and dysphoric                     absence of depression at Level 3. The results are presented in
+affect. During the interactions, family members were video-                         Table 2. At Level 1, participants displayed significant degrees
+taped for subsequent behavioral coding.                                             of happy, angry, and dysphoric behavior, and each of these
+    The Living in Family Environments (LIFE) coding system                          behaviors demonstrated a significant degree of autocorrelation
+(Hops, Biglan, Tolman, Arthur, & Longoria, 1995) was used to                        (inertia). At Level 3, examination of the intercepts showed that
+code the adolescents’ behavior during the family interactions.                      depressed participants displayed significantly more angry (but
+The validity of the LIFE system has been established in numer-                      not dysphoric or happy) behavior than nondepressed partici-
+ous studies of adolescent depression (e.g., Katz & Hunter,                          pants did. In confirmation of our hypothesis, the results
+2007; Sheeber, Davis, Leve, Hops, & Tildesley, 2007). Observ-                       showed that depressed participants overall differed signifi-
+ers, who were blind to participants’ diagnostic status and our                      cantly from nondepressed adolescents in their autocorrelation,
+hypotheses, coded the adolescents’ nonverbal affect and ver-                        or inertia. Also consistent with our hypothesis, the findings
+bal content in real time. Three constructs indicating angry,                        indicated that depressed participants displayed greater inertia
+dysphoric, and happy behavior were derived from the indi-                           for happy, angry, and dysphoric emotional behavior.
+vidual affect and content codes. Angry behavior included                               In a second series of analyses, we explored how the
+aggressive or contemptuous nonverbal actions and cruel or                           observed difference in emotional inertia varied as a function of
+provoking statements. Dysphoric behavior was defined by sad                         the interaction task. Emotional demands may be higher in
+nonverbal actions or statements. Happy behavior reflected                           tasks that require focus on areas of disagreement (conflict
+
+
+
+                            Table 2. Logistic Multilevel Autocorrelation Analyses Predicting Emotional
+                            Behavior in Study 2
+
+                                                                           Level 1                          Level 3 (depression)
+                            Behavior and parameter               b            SE              p              b         SE      p
+
+                            Happy
+                              Intercept                       –1.60          0.09           .000          –0.16        0.15   .279
+                              Slope                            1.63          0.05           .000           0.21        0.07   .005
+                            Angry
+                              Intercept                       –3.89          0.16           .000            0.83       0.21   .000
+                              Slope                            1.79          0.09           .000            0.26       2.28   .024
+                            Dysphoric
+                              Intercept                       –2.37          0.10           .000            0.16       0.14   .387
+                              Slope                            1.84          0.06           .000            0.24       0.09   .010
+                            Note: At Level 1, the intercept reflects the log odds ratio of the average probability to
+                            display emotional behavior for nondepressed participants, and the slope reflects the
+                            average autocorrelation (inertia) for nondepressed participants. At Level 3, the inter-
+                            cept reflects the deviation from these average intercept and slope values for depressed
+                            participants.
+
+
+                                               Downloaded from pss.sagepub.com at Purdue University on June 15, 2015
+Emotional Inertia                                                                                                                              989
+
+
+discussions) or challenge (reminiscence discussions), as                          fluctuations of individuals who were less maladjusted. Find-
+opposed to pleasurable tasks (positive discussions), so it is                     ings from these two studies supported this hypothesis by
+plausible that differences in inertia may be particularly salient                 showing that the emotions experienced by individuals with
+in the former tasks. We therefore examined whether the differ-                    low self-esteem display higher autocorrelations throughout
+ence between depressed and nondepressed participants in                           daily life compared with the emotions of individuals with high
+emotional inertia was larger in the conflict and reminiscence                     self-esteem (Study 1) and that the emotional behavior of
+discussions than in the positive discussions. We estimated                        depressed adolescents displays higher autocorrelations during
+multilevel models in which emotional behavior at time t was                       emotionally evocative interactions with their parents relative
+predicted by emotional behavior at time t – 5 s at Level 1; at                    to the emotional behavior of nondepressed adolescents (Study
+Level 2 of the model, the intercept and slope values of this                      2). The higher levels of inertia we observed may therefore
+prediction were modeled separately as a function of interac-                      reveal a fundamental feature of the emotion dynamics charac-
+tion task (either positive, conflict, or reminiscence),1 which                    teristic of low self-esteem and depression, as indicators of psy-
+were then predicted by depression at Level 3. For parsimony,                      chological maladjustment: Changes are less sudden, states are
+we limit ourselves here to reporting the results relevant to dif-                 more pervasive, and responsiveness is diminished or slowed.
+ferences in inertia between depressed and nondepressed par-                       In other words, emotional inertia “flattens the emotional land-
+ticipants as a function of interaction type.                                      scape” (Rottenberg, 2005, p. 169).
+    Regarding happy behavior, the findings showed that                                Of note is the finding from Study 2 indicating that differ-
+depressed adolescents evidenced significantly higher autocor-                     ences in emotional inertia were particularly evident during
+relations in both the conflict task (b = 0.40, SE = 0.12, p = .002)               emotionally taxing circumstances. This finding suggests that
+and the reminiscence task (b = 0.33, SE = 0.11, p = .005), but                    emotional inertia may not be a persistent traitlike disposition,
+not in the positive task (b = –0.03, SE = 0.08, p = .745). The                    but instead might be especially prominent in particular cir-
+results were similar for dysphoric behavior: Depressed partici-                   cumstances. An important direction for future research is to
+pants displayed higher autocorrelations in both the conflict task                 study the nature of situations in which emotional inertia is dis-
+(b = 0.26, SE = 0.13, p = .048) and the reminiscence task (b =                    played, as well as the impact of emotional inertia on individu-
+0.30, SE = 0.12, p = .014), but not in the positive task (b = 0.16,               als’ ability to successfully navigate those situations.
+SE = 0.14 p = .256). Although the results trended in the same                         A striking finding in these two studies was that low self-
+direction for angry behavior, the differences were not signifi-                   esteem and depression were associated with higher inertia for
+cant (conflict: b = 0.28, SE = 0.17, p = .111; reminiscence: b =                  both positive and negative emotions. Whereas it is intuitively
+0.27, SE = 0.16, p = .085; positive: b = 0.13, SE = 0.17 p =                      understandable that psychological maladjustment is character-
+.438). Taken together, these results suggest that depressed par-                  ized by lowered positive reactivity, it seems less straightfor-
+ticipants displayed increased emotional inertia specifically dur-                 ward that it is also associated with persistence of positive
+ing tasks that were more conflictual or challenging.                              emotions and mood. Yet our findings suggest that the resistance
+    Study 2 differed in several notable respects from Study 1.                    to change applies to both positive and negative emotions. To be
+First, in Study 1 we examined self-esteem, whereas in Study 2                     sure, individuals characterized by low psychological adjust-
+we focused on major depression as an indicator of psychologi-                     ment experience lower levels of positive emotions than indi-
+cal maladjustment. Second, we examined self-reported emo-                         viduals characterized by normal psychological adjustment do.
+tions throughout daily life in Study 1, and we directly observed                  Yet once they experience positive emotions, these states may
+emotional behavior in Study 2. Finally, Study 1 allowed us to                     be slow to change. Emotional inertia therefore seems to have a
+examine emotional inertia over the course of hours, whereas                       profound impact on the dynamics of emotions, affecting emo-
+Study 2 enabled us to examine it across seconds. Despite these                    tions irrespective of their hedonic value.
+differences, both studies supported the conclusion that indi-                         Our study does not speak to the mechanisms that underlie
+viduals evidencing poorer psychological adjustment manifest                       emotional inertia. We offer the hypothesis that emotional iner-
+markedly higher levels of inertia in both positive and negative                   tia results from reductions in responsiveness to internal and
+emotions. Moreover, Study 2 provided additional evidence                          external stimuli, as well as from failures of emotion-regulation
+that this is particularly the case in contexts that are stressful or              processes aimed at altering emotional states. Emotions are
+involve negative interactions with significant others.                            thought to be adaptive largely because of their ability to pre-
+                                                                                  pare and motivate an organism to respond to personally rele-
+                                                                                  vant threats and challenges. Emotion regulation, in turn, alters
+Discussion                                                                        the experience or expression of these emotions as a function of
+In these studies, we explored emotional inertia as a poten-                       the constraints placed by the individual or society on hedonis-
+tially fundamental feature of the emotion dynamics associated                     tic or instrumental motives (Tamir, 2009). Increased emotional
+with psychological maladjustment. We hypothesized that                            inertia may reflect what happens when the adaptive processes
+the emotional fluctuations of individuals experiencing more                       of emotion responding and control are dampened. In addition,
+psychological maladjustment would show a greater resistance                       it is likely that inertia is affected by interpersonal processes
+to change and thus display higher inertia than the emotional                      that may arise from maladaptive ways of eliciting social
+
+
+                                              Downloaded from pss.sagepub.com at Purdue University on June 15, 2015
+990		                                                                                                                                      Kuppens et al.
+
+
+information from, and reciprocating it with, other people.                          Csikszentmihalyi, M., & Larsen, R. (1987). Validity and reliability of
+Moreover, the fact that emotional inertia was observed across                           the experience sampling method. Journal of Nervous and Mental
+different time scales does not necessarily imply that similar                           Disease, 175, 526–536.
+mechanisms are at work in emotional inertia observed across                         Diener, E., & Diener, M. (1995). Cross-cultural correlates of life sat-
+seconds, minutes, and hours. Clarifying the meaning of differ-                          isfaction and self-esteem. Journal of Personality and Social Psy-
+ent inertia time scales and the underlying intrapsychic and                             chology, 68, 653–663.
+interpersonal processes will be an important task for future                        Eid, M., & Diener, E. (1999). Intraindividual variability in affect:
+research.                                                                               Reliability, validity, and personality characteristics. Journal of
+    In conclusion, emotional inertia appears to be a useful, but                        Personality and Social Psychology, 76, 662–676.
+understudied, unifying concept that captures a fundamental                          Frijda, N.H. (2007). The laws of emotion. Mahwah, NJ: Erlbaum.
+feature of how emotions unfold over time and that is charac-                        Gross, J.J. (Ed.). (2007). Handbook of emotion regulation. New York:
+teristic of the emotion dynamics that are tied to psychological                         Guilford Press.
+maladjustment. Further research is needed, however, to pin-                         Gross, J.J., & Muñoz, R.F. (1995). Emotion regulation and mental
+point the underlying processes and determinants of emotional                            health. Clinical Psychology: Science and Practice, 2, 151–164.
+inertia, to examine its occurrence in other manifestations of                       Heimpel, S.A., Wood, J.V., Marschall, M.A., & Brown, J.D. (2002).
+psychological maladjustment (e.g., it may feature in the emo-                           Do people with low self-esteem really want to feel better? Self-
+tional numbing that is characteristic of post traumatic stress                          esteem differences in motivation to repair negative moods. Jour-
+disorder symptoms), and to determine its impact on subse-                               nal of Personality and Social Psychology, 82, 128–147.
+quent functioning and social interactions.                                          Hemenover, S.H. (2003). Individual differences in rate of affect
+                                                                                        change: Studies in affective chronometry. Journal of Personality
+Acknowledgments                                                                         and Social Psychology, 85, 121–131.
+The first author is a Postdoctoral Research Fellow with the Fund for                Hops, H., Biglan, A., Tolman, A., Arthur, J., & Longoria, N. (1995).
+Scientific Research-Flanders. We gratefully acknowledge Stephen                         Living in Family Environments (LIFE) coding system: Manual
+Loughnan and Zita Oravecz for providing comments on an earlier                          for coders (revised). Eugene: Oregon Research Institute.
+version of this article.                                                            Izard, C.E. (2009). Emotion theory and research: Highlights, unan-
+                                                                                        swered questions, and emerging issues. Annual Review of Psy-
+Declaration of Conflicting Interests                                                    chology, 60, 1–25.
+The authors declared that they had no conflicts of interest with                    Jahng, S., Wood, P.K., & Trull, T.J. (2008). Analysis of affective
+respect to their authorship or the publication of this article.                         instability in EMA: Indices using successive difference and
+                                                                                        group comparison via multilevel modeling. Psychological Meth-
+Funding                                                                                 ods, 13, 345–375.
+This research was supported by KULeuven Research Council Grant                      Kahneman, D., Krueger, A.B., Schkade, D.A., Schwarz, N., & Stone,
+GOA/05/04 and National Institute of Mental Health Grant R01                             A.A. (2004). A survey method for characterizing daily life experi-
+MH65340 (Lisa Sheeber, principal investigator). Nicholas Allen is                       ence: The day reconstruction method. Science, 306, 1776–1780.
+supported by a grant from the Colonial Foundation.                                  Katz, L.F., & Hunter, E.C. (2007). Maternal meta-emotion philoso-
+                                                                                        phy and adolescent depressive symptomatology. Social Develop-
+Note                                                                                    ment, 16, 343–360.
+1. To this end, dummy variables indicating the three types of interac-              Kernis, M.H. (2006). Self-esteem issues and answers: A sourcebook
+tion tasks were added at Level 2 of the models, and the intercept term                  of current perspectives. New York: Psychology Press.
+was omitted at this level.                                                          Kessler, R.C. (2002). Epidemiology of depression. In I.H. Gotlib &
+                                                                                        C.L. Hammen (Eds.), Handbook of depression (pp. 23–42). New
+References                                                                              York: Guilford Press.
+American Psychiatric Association. (1994). Diagnostic and statistical                Koole, S.L. (2009). The psychology of emotion regulation: An inte-
+   manual of mental disorders (4th ed.). Washington, DC: Author.                        grative review. Cognition & Emotion, 23, 4–41.
+Bolger, N., Davis, A., & Rafaeli, E. (2003). Diary methods: Captur-                 Kuppens, P., Van Mechelen, I., Nezlek, J.B., Dossche, D., & Timmer-
+   ing life as it is lived. Annual Review of Psychology, 54, 579–616.                   mans, T. (2007). Individual differences in core affect variability
+Box, G.E.P., & Jenkins, G.M. (1970). Time series analysis, forecast-                    and their relationship to personality and adjustment. Emotion, 7,
+   ing and control. San Francisco: Holden-Day.                                          262–274.
+Bryk, A.S., & Raudenbush, S.W. (1992). Hierarchical linear mod-                     Larsen, R.J., Augustine, A.A., & Prizmic, Z. (2009). A process
+   els for social and behavioural research: Applications and data                       approach to emotion and personality: Using time as a facet of
+   analysis methods. Newbury Park, CA: Sage.                                            data. Cognition & Emotion, 23, 1407–1426.
+Bylsma, L.M., Morris, B.H., & Rottenberg, J. (2008). A meta-analysis                Larsen, R.J., & Diener, E. (1987). Affect intensity as an individual
+   of emotional reactivity in major depressive disorder. Clinical                       difference characteristic: A review. Journal of Research in Per-
+   Psychology Review, 28, 676–691.                                                      sonality, 21, 1–39.
+
+
+
+                                                Downloaded from pss.sagepub.com at Purdue University on June 15, 2015
+Emotional Inertia                                                                                                                                     991
+
+
+Neiss, M.B., Stevenson, J., Legrand, L.N., Iacono, W.G., & Sedikides,              Sheeber, L.B., Allen, N., Davis, B., & Sorensen, E.D. (2000). Regu-
+   C. (2009). Self-esteem, negative emotionality, and depression as                    lation of negative affect during mother-child problem-solving
+   a common temperamental core: A study of mid-adolescent twin                         interactions: Adolescent depressive status and family processes.
+   girls. Journal of Personality, 77, 327–346.                                         Journal of Abnormal Child Psychology, 28, 467–479.
+Orvaschel, H., & Puig-Antich, J. (1994). Schedule for Affec-                       Sheeber, L.B., Davis, B., Leve, C., Hops, H., & Tildesley, E. (2007).
+   tive Disorders and Schizophrenia for School-Age Children-                           Adolescents’ relationships with their mothers and fathers: Asso-
+   Epidemiologic Version-5 (K-SADS-E-5). Fort Lauderdale, FL:                          ciations with depressive disorder and subdiagnostic symptom-
+   Nova Southeastern University.                                                       atology. Journal of Abnormal Psychology, 116, 144–154.
+Peeters, F., Nicolson, N.A., Berkhof, J., Delespaul, P., &                         Sheeber, L.B., Hops, H., & Davis, B. (2001). Family processes in
+   deVries, M. (2003). Effects of daily events on mood states in                       adolescent depression. Clinical Child and Family Psychology
+   major depressive disorder. Journal of Abnormal Psychology, 112,                     Review, 4, 19–35.
+   203–211.                                                                        Silk, J.S., Steinberg, L., & Morris, A.S. (2003). Adolescents’ emotion
+Radloff, L.S. (1977). The CES-D scale: A self-report depression scale                  regulation in daily life: Links to depressive symptoms and prob-
+   for research in the general population. Applied Psychological                       lem behavior. Child Development, 74, 1869–1880.
+   Measurement, 1, 385–401.                                                        Suls, J., Green, P., & Hillis, S. (1998). Emotional reactivity to every-
+Rosenberg, M. (1965). Society and the adolescent self-image. Prince-                   day problems, affective inertia, and neuroticism. Personality and
+   ton, NJ: Princeton University Press.                                                Social Psychology Bulletin, 24, 127–136.
+Rottenberg, J. (2005). Mood and emotion in major depression. Cur-                  Tamir, M. (2009). What do people want to feel and why? Current
+   rent Directions in Psychological Science, 14, 167–170.                              Directions in Psychological Science, 18, 101–105.
+Rozin, P. (2009). What kind of empirical research should we publish,               Watkins, E.R. (2008). Constructive and unconstructive repetitive
+   fund, and reward? A different perspective. Perspectives on Psy-                     thought. Psychological Bulletin, 134, 163–206.
+   chological Science, 4, 435–439.                                                 Zelenski, J.M., & Larsen, R.J. (2000). The distribution of emotions
+Russell, J.A. (2003). Core affect and the psychological construction                   in everyday life: A state and trait perspective from experience
+   of emotion. Psychological Review, 110, 145–172.                                     sampling data. Journal of Research in Personality, 34, 178–197.
+
+
+
+
+                                               Downloaded from pss.sagepub.com at Purdue University on June 15, 2015
+

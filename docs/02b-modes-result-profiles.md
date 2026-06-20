@@ -3,7 +3,7 @@
 > Companion to `02-modes-of-mind-assessment.md`.
 > Profiles for the four MMA quadrant types plus The Generalist boundary, using an 11-section schema adapted to the two-independent-scale structure (NFC × FI, verified orthogonal). The behavioral override component is reported alongside each type as a profile modifier, not a separate type.
 > These are the deterministic fallback narratives. The Gemini layer enriches the Archetype and Reflection sections from the player's answer pattern. It never overrides the structured sections.
-> Honesty note: profiles describe tendencies associated with a pattern of cognitive engagement. They are affirming, non-clinical, and avoid deficit framing. The affirming scope limit (00 §3) applies: the Operator quadrant, in particular, is framed as pragmatic and action-oriented and cannot detect cognitive disengagement that may warrant attention.
+> Honesty note: profiles describe tendencies associated with a pattern of cognitive engagement. They are affirming, non-clinical, and avoid deficit framing. The affirming scope limit (00 §3) applies: the Operator quadrant, in particular, is framed as pragmatic and action-oriented and cannot detect cognitive disengagement that may warrant attention. v0.23: the result gains a stated-vs-observed gap modifier from the added behavioral heuristics battery, which is the Turing theme signature (does what you say about your mind match what your choices show).
 
 ---
 
@@ -288,6 +288,17 @@ This is a real pattern, not a non-result. Some people genuinely do not strongly 
 "You are the one who meets thinking and intuition both, without strong preference for either. Your gift is flexibility, and your growth is developing capability, not just range."
 
 ---
+
+## Stated-vs-observed gap modifier (v0.23)
+
+The v0.22 profile describes your stated cognitive engagement (NFC, FI self-report) and your behavioral override rate (CRT). v0.23 adds a **stated-vs-observed gap** from the behavioral heuristics battery (Gigerenzer & Gaissmaier 2011; Luan et al. 2011).
+
+The battery measures your actual decision strategy under uncertainty (recognition-based, take-the-best, tallying, deliberate-comparison) and compares it to your stated NFC/FI engagement. The gap is the theme-native signal:
+
+- **Congruent**: stated preference and observed strategy align. E.g., high NFC + FI with deliberate-comparison behavior.
+- **Divergent**: stated preference and observed strategy disagree. E.g., stated intuition-dominant but behavioral take-the-best. The gap is itself information.
+
+A congruent result reads the base profile with a confirmation note. A divergent result reads the base profile with a tension note that highlights the gap as the lead interpretive insight. This is the Imitation Game inverted: the hidden mind is identified from its outputs and compared to its self-description. The gap construct is our synthesis and is unvalidated; the underlying heuristics individual-difference claim is validated (Gigerenzer 2011).
 
 ## How scores modulate these profiles
 

@@ -1,0 +1,868 @@
+                                                                                                          Journal of Personality 81:2, April 2013
+
+Self-Other Knowledge Asymmetries in                                                                       © 2012 The Authors
+                                                                                                          Journal of Personality © 2012,
+                                                                                                          Wiley Periodicals, Inc.
+Personality Pathology                                                                                     DOI: 10.1111/j.1467-6494.2012.00794.x
+
+
+
+
+Erika N. Carlson, Simine Vazire, and Thomas F. Oltmanns
+Washington University in St. Louis
+
+
+Abstract
+Objective: Self-reports of personality provide valid information about personality disorders (PDs). However, informant
+reports provide information about PDs that self-reports alone do not provide.The current article examines whether and when
+one perspective is more valid than the other in identifying PDs.
+Method: Using a representative sample of adults 55 to 65 years of age (N = 991; 45% males), we compared the validity of self-
+and informant (e.g., spouse, family, or friend) reports of the Five-Factor Model traits in predicting PD scores (i.e., composite of
+interviewer, self-, and informant reports of PDs).
+Results: Self-reports (particularly of Neuroticism) were more valid than informant reports for most internalizing PDs (i.e., PDs
+defined by high Neuroticism). Informant reports (particularly of Agreeableness and Conscientiousness) were more valid than
+self-reports for externalizing and/or antagonistic PDs (i.e., PDs defined by low Agreeableness and Conscientiousness). Neither
+report was consistently more valid for thought disorder PDs (i.e., PDs defined by low Extraversion). However, informant
+reports (particularly of Agreeableness) were more valid than self-reports for PDs that were both internalizing and externalizing
+(i.e., PDs defined by high Neuroticism and low Agreeableness).
+Conclusions: The intrapersonal and interpersonal manifestations of PDs differ, and these differences influence who knows
+more about pathology.
+Keywords: self-knowledge, accuracy, personality disorder, assessment, personality traits
+
+
+We have all met someone who does not seem to understand the          personality pathology might inform the development of the PD
+negative impact his personality has on others. Of course, we         classification system under consideration for the new Diagnos-
+have also probably met someone whose personality affects her         tic and Statistical Manual of Mental Disorders (DSM-5).
+in ways that we do not see or understand. Who knows the most         Second, the current study extends past work on asymmetries in
+about a person’s level of personality pathology—the self or          self- and other knowledge of personality by revealing whether
+others? The main goal of this article is to answer this question.    these asymmetries also exist for PDs (e.g., Vazire, 2010; Vazire
+With a representative sample of middle-aged adults, we               & Carlson, 2011; Vazire & Mehl, 2008). In fact, the current
+compare self-reports to informant reports (e.g., spouse, family,     study provides a strong test of self-other knowledge asymme-
+or friend) of Five-Factor Model (FFM) personality traits to          tries because the informants in our sample have known the
+determine which perspective is a more valid predictor of per-        targets for approximately 30 years. Thus, they are likely to
+sonality disorders (PDs).                                            have accurate perceptions of them but are also likely to see
+   The current investigation will reveal whose perception is a       the targets in ways that are similar to how the targets see
+better predictor of PDs as well as who knows more about              themselves (Furr, Dougherty, Marsh, & Mathias, 2007; South,
+specific aspects of PDs. That is, we compare the validity of         Oltmanns, Johnson, & Turkheimer, 2011; Watson, Hubbard, &
+self- and informant reports as predictors of PDs by taking both      Wiese, 2000).
+an idiographic (i.e., a profile of traits) and a nomothetic (i.e.,
+each FFM trait individually) approach. Such an investigation is
+needed for at least two reasons. First, research and clinical        This research was supported by the National Institute of Mental Health
+assessments of PDs are often based exclusively on self-report        (NIMH: Grant No. 1RO1-MH077840-01; Thomas Oltmanns) and the
+measures (Oltmanns & Turkheimer, 2009). A clear demonstra-           National Science Foundation (NSF: Grant No. BCS-1025330; Simine Vazire).
+                                                                     We would also like to thank Andrew Erhart, Amber Graham, Sarah
+tion that self-reports are not always more valid or informative
+                                                                     Heuckeroth, John Slochower, and Latoya Smith for their helpful comments.
+when it comes to identifying PDs might encourage the use of             Correspondence concerning this article should be addressed to Erika
+informant reports in research and in practice. In particular, an     N. Carlson, Department of Psychology, Campus Box 1125, One Brookings
+investigation of who knows the most about specific aspects of        Drive, St. Louis, MO 63130-4899. Email: erikancarlson@gmail.com.
+156                                                                                                          Carlson, Vazire, & Oltmanns
+
+
+    The following sections outline evidence that self-reports do     provide about personality pathology above and beyond self-
+not tell the whole story when it comes to identifying person-        reports (Miller, Pilkonis, & Clifton, 2005; Miller, Pilkonis, &
+ality pathology. First, we review evidence that the self             Morse, 2004). For example, Miller and his colleagues (2004)
+and others perceive unique, but valid, aspects of personality.       found that a close other’s perception of the FFM traits pro-
+Next, we review research that outlines self-other knowledge          vided incremental validity over a psychiatric patient’s self-
+asymmetries in normal personality. Based on these findings,          report of the FFM when predicting PD scores. Similarly, recent
+we make predictions about which perspective—the self or              work suggests that peer reports of pathology provide incre-
+other—is a more valid predictor of specific PDs and then test        mental validity in predicting important life outcomes, such as
+those predictions in a large, representative sample.                 occupational success (e.g., Fiedler et al., 2004), health (e.g.,
+                                                                     Kneip et al., 1993), and psychopathology (e.g., Klein, 2003).
+                                                                     In fact, research in health psychology shows that close others’
+                                                                     reports of personality problems (e.g., hostility) are better pre-
+The Self and Others Perceive Different
+                                                                     dictors of health problems (e.g., coronary artery disease) than
+Aspects of Personality Pathology                                     are self-reports (Smith et al., 2008). Thus, others perceive
+Self-other agreement for normal personality is strong (e.g.,         aspects of personality pathology that the self does not perceive,
+mean r = .40; Vazire & Carlson, 2010; see also Connelly &            or will not report.
+Ones, 2010) but “moderate at best” for personality pathology             In sum, self-other agreement for personality pathology
+(e.g., mean r = .26; Oltmanns & Turkheimer, 2009). Why is            traits tends to be lower than for normal traits due to the fact that
+self-other agreement for pathological traits lower than for          the self and others perceive different aspects of personality
+normal traits? Intuitively, the most likely explanation is that      pathology. Given that both perspectives provide unique infor-
+self-reports are more biased for pathological traits than for        mation about pathology, some researchers have encouraged
+normal traits (e.g., self-enhancement drives the disagreement;       the inclusion of informant reports in research and assessment
+John & Robins, 1993). Also, PDs are generally ego-syntonic           (e.g., Ganellen, 2007; Oltmanns & Turkheimer, 2009). One
+(Hirchfeld, 1993), meaning people with personality pathology         such example is a study by Mosterman and Hendriks (2011)
+believe that their pathological characteristics are acceptable or    that explored the role of self-other agreement in pathology.
+even desirable; thus, they may not describe themselves in nega-      Results suggested that higher self-other agreement on FFM
+tive ways (Carlson, 2012). However, self-reports of pathologi-       traits between psychiatric outpatients in therapy and close
+cal characteristics do sometimes provide valid information and       others was associated with having less personality pathology
+are not always overly positive (Carlson, Vazire, & Oltmanns,         (e.g., less hostility). Yet, such work does not address an impor-
+2011; Klonsky, Oltmanns, & Turkheimer, 2002). Another pos-           tant question: Given discrepancies between self- and informant
+sibility is that informants’ perceptions are especially biased for   reports, whose perception should we trust?
+pathological traits (Leising, Erbs, & Fritz, 2010; Oltmanns &
+Turkheimer, 2006). Yet informants’ ratings have been shown to
+                                                                     Asymmetries in Self- and Other Knowledge
+be quite valid, making it unlikely that low self-other agreement
+is due purely to informants’ biases (e.g., Carlson et al., 2011;     of Personality
+Furr et al., 2007; South, Oltmanns, & Turkheimer, 2005;              Despite the fact that the self witnesses thoughts, feelings, and
+Vazire, 2006, 2010).                                                 behavior across time and contexts, others often know more
+    A more compelling explanation for low self-other agree-          than the self knows about normal personality traits (Hofstee,
+ment is that the experience of personality pathology is different    1994; Hogan, 1998; Vazire, 2010; Vazire & Carlson, 2010,
+for the self than it is for others (Achenbach, Krukowski,            2011; Vazire & Mehl, 2008). The self-other knowledge asym-
+Dumenci, & Ivanova, 2005; Fiedler, Oltmanns, & Turkheimer,           metry (SOKA) model (Vazire, 2010) proposes that the self and
+2004; Mosterman & Hendriks, 2011). Evidence for this expla-          others know about different aspects of personality and that
+nation comes from work showing that self- and other reports          these asymmetries in knowledge are based on asymmetries in
+reflect different aspects of the same pathological trait (Clifton,   information and motivation. In terms of informational asym-
+Turkheimer, & Oltmanns, 2004, 2005). For example, Clifton            metries, the self has privileged access to thoughts and feelings,
+and his colleagues (2004) found that the way people described        whereas others are better able to observe patterns of behavior.
+themselves on a paranoid PD scale corresponded weakly to             Consequently, the self should be more accurate about traits
+peers’ descriptions of paranoid traits (r = .11), but this was       that describe unobservable thoughts and feelings, and others
+because paranoid individuals described themselves as angry           should be more accurate about traits that describe observable
+and hostile, whereas their peers described them as cold and          aspects of personality. In terms of motivational asymmetries,
+detached. Thus, personality pathology manifests itself in dif-       the self is motivated to distort potentially evaluative informa-
+ferent ways for the self than for others.                            tion (e.g., self-enhance, self-verify; Robins & John, 1997;
+    More evidence that the self and others perceive distinct         Swann, 1997), whereas others are less motivated to distort
+aspects of personality pathology comes from research that            evaluative information. Consequently, the self should be less
+measures how much unique information informant reports               accurate than others about evaluative traits.
+Self-Other Knowledge Asymmetries                                                                                                                                     157
+
+
+    In a preliminary test of the SOKA model, Vazire (2010)                            atric Association, 2000) groups the 10 PDs into three clusters:
+found that, as predicted, (a) self and others are equally accurate                    Cluster A, which includes odd or eccentric PDs (paranoid,
+about external, nonevaluative traits (e.g., talkative, domi-                          schizoid, and schizotypal PDs); Cluster B, which includes dra-
+nance), (b) the self is more accurate about internal, nonevalu-                       matic, emotional, or erratic PDs (antisocial, borderline, histri-
+ative traits (e.g., anxiety, self-esteem), and (c) others are more                    onic, and narcissistic PDs); and Cluster C, which includes
+accurate about internal, evaluative traits (e.g., creativity, intel-                  anxious or fearful PDs (avoidant, dependent, and obsessive-
+ligence). Although Vazire did not examine self- versus other-                         compulsive PDs). However, this classification scheme was
+knowledge of external, evaluative traits (e.g., Agreeableness,                        based on clinicians’ intuitive judgments instead of on empiri-
+Conscientiousness; John & Robins, 1993), past work has                                cal data. Thus, the cluster classification has been criticized for
+shown that people’s self-knowledge of their agreeable behav-                          its lack of empirical support and for other practical issues, such
+ior is poor (Gosling, John, Craik, & Robins, 1998), suggesting                        as comorbidity of PDs across clusters (i.e., individuals diag-
+that self-knowledge for this domain of personality is weak as                         nosed with multiple PDs from different clusters; Livesley &
+well. Thus, in terms of normal traits, people seem to have                            Jang, 2000; South & DeYoung, 2012; Widiger, 2007).
+self-knowledge about internal and external, nonevaluative                                 In an effort to better classify pathology, recent work
+traits, such as Neuroticism and Extraversion, but there are                           has investigated alternative, empirically based classification
+considerable blind spots in self-knowledge for internal and                           schemes. One approach bases classification of PDs on their
+external, evaluative traits such as intellect, Agreeableness, and                     shared features as well as on pathological features shared with
+Conscientiousness.                                                                    other forms of psychopathology (e.g., mood, anxiety, and sub-
+                                                                                      stance abuse disorders; Røysamb et al., 2011). One of the most
+                                                                                      recent empirically supported classification models groups
+Asymmetries in Self- and Other Knowledge of                                           the 10 PDs into four categories: internalizing (i.e., negative
+Personality Pathology                                                                 affect), externalizing (i.e., poor inhibition), antagonistic (i.e.,
+Vazire’s (2010) SOKA model was tested on normal personal-                             callousness or antipathy), and thought disorder (i.e., odd or
+ity traits, but the model has implications about self-other                           eccentric thinking and behaving; Kotov et al., 2011). Table 1
+knowledge asymmetries in personality pathology as well. Spe-                          shows how each of the 10 PDs was classified within these
+cifically, the self should be more accurate about PDs defined by                      categories. Notably, PDs within the DSM clusters do seem to
+low observability and low evaluativeness, others should be                            belong to the same categories. Cluster A PDs were classified as
+more accurate about PDs defined by high observability and                             thought disorders, Cluster B PDs were classified as external-
+high evaluativeness, and both perspectives should be equally                          izing and/or antagonistic PDs, and Cluster C PDs were classi-
+accurate about PDs defined by high observability and low                              fied as internalizing PDs. However, Kotov and colleagues did
+evaluativeness.                                                                       find that borderline PD was classified as an antagonistic and
+    How can PDs be described in terms of observability and                            internalizing PD and paranoid PD was classified as an inter-
+evaluativeness? Currently, the DSM-IV-TR (American Psychi-                            nalizing, antagonistic, and thought disorder PD.
+
+
+Table 1 Self-Other Knowledge Asymmetry Model–Based Predictions About the Relative Validity of Self- and Informant Reports of Personality
+Disorders
+
+                                                                                                            Observability         Evaluativeness
+                            Psychopathology                                                                                                                Accuracy
+PDs                             category                            Common FFM features                     Low       High        Low       High          predictions
+
+Avoidant             Internalizing                         High                                              ✓                     ✓                   Self > informant
+Dependent                                                  Neuroticism                                       ✓                     ✓
+Obsessive-                                                                                                   ✓                     ✓
+  compulsive
+Antisocial           Externalizing/antagonistic            Low agreeableness/conscientiousness                          ✓                     ✓         Informant > self
+Histrionic                                                                                                              ✓                     ✓
+Narcissistic                                                                                                            ✓                     ✓
+Schizoid             Thought disorder                      Low                                               ✓          ✓          ✓                   Self = informant
+Schizotypal                                                Extraversion                                      ✓          ✓          ✓
+Paranoid             Internalizing and antagonistic        High neuroticism                                  ✓          ✓          ✓          ✓        Self = informant
+Borderline                                                 Low agreeableness                                 ✓          ✓          ✓          ✓
+Note. PDs = personality disorders; FFM = Five-Factor Model. Antisocial PD was categorized as externalizing and antagonistic (histrionic and narcissistic PDs were
+antagonistic only). Paranoid PD was classified as a thought disorder PD as well as internalizing and antagonistic. Kotov et al. ( 2011) excluded avoidant PD from analyses
+due to high comorbidity with social phobia, which loaded strongly onto the internalizing category.We have grouped avoidant PD among internalizing PDs for prediction
+purposes.The FFM descriptions are based on prototypes developed by Lynam and Widiger (2001),Trull and Widiger (1997), and Widiger et al. (2002). Categories can be
+both high and low in observability if some of the PDs within that category are high and others are low (the same is true for evaluativeness).
+158                                                                                                        Carlson, Vazire, & Oltmanns
+
+
+    As shown in Table 1, these four categories of psychopathol-          We will also take a nomothetic approach by comparing the
+ogy can be described in terms of observability and evaluative-       relative validity of self- and informant reports of each FFM
+ness, which allows for clear predictions about who knows the         trait as predictors of the 10 PDs. For example, we will predict
+most about each PD. Specifically, the internalizing category         avoidant PD from both self- and informant reports of the
+includes PDs that are low in observability and evaluativeness        Neuroticism facet Anxiety. Using this approach, we examine
+(e.g., anxiety), the externalizing and antagonistic categories       whose perceptions across all 30 FFM facets are generally more
+include PDs that are high in observability and evaluativeness        valid predictors of PDs. We predict that the pattern across
+(e.g., irresponsible, disagreeable), and the thought disorder        the PDs will reflect the predictions outlined in Table 1. For
+category includes PDs that are not particularly evaluative but       example, for avoidant PD, we predict that self-reports of the 30
+are both low (i.e., odd thinking) and high (i.e., odd behavior) in   facets will be more valid than informant reports.
+observability. Based on these principles, we make four broad             We also predict that self-other knowledge asymmetries will
+predictions that are outlined in Table 1. We predict that (a)        be especially salient for defining features of each PD. Concep-
+self-reports will be more valid than informant reports for inter-    tual and empirical work linking FFM traits to PDs suggests
+nalizing PDs, (b) informant reports will be more valid than          that the four categories of PDs outlined in Table 1 share defin-
+self-reports for PDs that are externalizing and/or antagonistic      ing FFM traits. As shown in Table 1, internalizing PDs are
+PDs, (c) self- and informant reports will be equally valid for       defined by high Neuroticism, externalizing and/or antagonistic
+thought disorder PDs, and (d) self- and informant reports            PDs are defined by low Agreeableness and/or Conscientious-
+will be equally valid for PDs that are both internalizing and        ness, thought disorder PDs are defined by low Extraversion,
+antagonistic.                                                        and borderline and paranoid PDs (i.e., PDs that are both inter-
+    We will test our four predictions by examining the relative      nalizing and antagonistic) are defined by high Neuroticism
+validity of self- and informant reports of FFM traits as predic-     and low Agreeableness (Lynam & Widiger, 2001; Samuel &
+tors of personality pathology. Many lines of work have dem-          Widiger, 2008; Trull & Widiger, 1997; Widiger, Trull, Clarkin,
+onstrated that PDs can be described in terms of extremely high       Sanderson, & Costa, 2002). Thus, we predict that the relative
+or low scores on various FFM traits (Bagby, Sellborn, Costa,         validity of self- and informant reports of defining FFM traits
+& Widiger, 2008; Lynam & Widiger, 2001; Miller, Lynam,               will show the same pattern outlined in Table 1. For example,
+Widiger, & Leukefeld, 2001; Miller et al., 2010; Samuel &            self-reports of Neuroticism will be stronger predictors than
+Widiger, 2008; 2010; Trull, Widiger, & Burr, 2001; Widiger,          informant reports for internalizing PDs, whereas other reports
+2011; Widiger & Mullins-Sweatt, 2010). For example,                  of Agreeableness will be stronger predictors than self-reports
+avoidant PD is characterized by extremely high Neuroticism           for antagonistic PDs.
+and very low Extraversion (Lynam & Widiger, 2001). Using
+the FFM conceptualization of PDs, we will investigate the
+relative validity of self- and informant reports by taking both      METHOD
+an idiographic, or profile-based, approach and a nomothetic, or
+                                                                     This study is part of the ongoing St. Louis Personality and
+trait-based, approach. Similar to past work (e.g., Miller et al.,
+                                                                     Aging Network (SPAN) study, a representative, prospective
+2004), we compute profile similarity indices, or prototype
+                                                                     cohort study of adults between the ages of 55 and 65 living in
+similarity scores, between Lynam and Widiger’s (2001)
+                                                                     the St. Louis area (see Oltmanns & Gleason, 2011). Potential
+expert-generated PD prototype profiles and self-report and
+                                                                     participants were excluded if they were psychotic at the time of
+informant-report profiles. The self- and informant profile cor-
+                                                                     the study, reported life-threatening illnesses, were unable to
+relations will be used as measures of self- and informant per-
+                                                                     read the informed consent statement aloud, or were planning to
+ceptions of each PD, respectively (e.g., a self-profile consistent
+                                                                     relocate outside of the St. Louis area.
+with avoidant PD is used as a self-rating of avoidant PD).
+Lynam and Widiger developed these prototypes by asking PD
+experts to describe the prototypical case of a person with a
+given PD using several descriptors for each of the 30 FFM            Participants
+facets (i.e., facet labels from the NEO PI-R manual; Costa &         Target participants (N = 991; 45% males) were paid $60 for
+McCrae, 1992). For each item, experts described the prototypi-       their time. Approximately 63.1% of targets were Caucasian,
+cal person on a 1 (extremely lower than the average person) to       30.1% were Black or African American, .4% were Middle
+5 (extremely higher than the average person) scale. A total          Eastern, .4% were biracial, .2% were Native American, .1%
+of 120 experts provided ratings, which were compiled into            were East Asian or Pacific Islander, and 5.7% did not specify
+10 FFM prototype profiles. Thus, a self-report prototype simi-       their ethnicity. Targets were asked to identify someone who
+larity score for paranoid PD will indicate the extent to which a     knew them well enough to provide an accurate description of
+person’s self-report across the FFM facets reflects the proto-       their personality, preferably someone who lived with them (or
+typical individual with paranoid PD. Using these prototype           someone they spoke to at least once a month and saw face-to-
+similarity scores, we will compare self- and informant report        face at least once a year). Ninety percent of targets provided an
+profiles for each PD to test our predictions outlined in Table 1.    informant who completed the personality assessment. Current
+Self-Other Knowledge Asymmetries                                                                                                 159
+
+
+analyses include results for targets whose informant did           by another member of the team who provided a second diag-
+respond (N = 991; 28% males). Approximately 47.8% of infor-        nosis. The overall rater reliability was .67 and ranged from .53
+mants were spouses or romantic partners, 27.5% were family         for paranoid PD to .86 for avoidant PD, which is similar to
+members (e.g., siblings, children), 22.4% were friends, and the    reliability estimates for PD diagnoses in other studies (e.g.,
+rest (2.3%) were neighbors, coworkers, or identified them-         Clark, 2007). Based on these interviews, 9.5% of participants
+selves as “other.” On average, targets knew informants for         met criteria for at least one form of PD and 1.8% met threshold
+more than 30 years (M = 31.92, SD = 15.17).                        criteria for personality disorder not otherwise specified, which
+                                                                   is consistent with epidemiological studies (e.g., Lenzenweger,
+                                                                   2008). Among these participants, 80% met criteria for one PD,
+Measures                                                           17% met criteria for two PDs, and 3% met criteria for three
+                                                                   PDs. SIDP mean scores were computed to create a dimen-
+NEO Personality Inventory-Revised (NEO PI-R). Targets
+                                                                   sional scale. The reliabilities of the SIDP scales were accept-
+and informants described the target person’s personality using
+                                                                   able (average a = .67).
+the NEO PI-R, a 240-item measure of the FFM that measures
+the five major domains of personality and the six facets that
+                                                                   Personality Disorder Composite (PDC) Scores. Our crite-
+define each domain (Costa & McCrae, 1992). Targets rated the
+                                                                   rion measure for each of the 10 DSM-IV PDs was a composite
+extent to which each item described their own personality, and
+                                                                   of standardized MAPP self- and informant report scores and
+informants rated the extent to which each item described the
+                                                                   SIDP-IV interview scores. This approach recognizes that each
+target’s personality. Items were rated on a scale ranging from
+                                                                   source (i.e., interviewers’ ratings, self- and informant reports)
+1 (Strongly Disagree) to 5 (Strongly Agree) scale. The internal
+                                                                   has its own strengths and weaknesses and is akin to “best
+consistency reliabilities were acceptable (average a = .72 self;
+                                                                   estimate” diagnoses that are based on information combined
+.78 informants). Self-other agreement was in the expected
+                                                                   across several sources (Bucholz et al., 2006; Pilkonis, Heape,
+range (r = .37 to .57).
+                                                                   Ruddy, & Serrao, 1991). The reliabilities of PDC scales were
+                                                                   acceptable (average a = .78).
+Multisource Assessment of Personality Pathology
+(MAPP). Targets and informants described pathological
+aspects of the target’s personality using the MAPP, which is       Analyses
+composed of 79 items based on the features of the 10 PDs           We examined the relative validity of self- and informant per-
+listed in the DSM-IV (Okada & Oltmanns, 2009). Items were          ceptions in two ways. First, we compared how much unique
+constructed by translating the DSM-IV criteria into lay lan-       information self- and informant reports provided about each
+guage by removing psychopathological jargon. Targets rated         PD by simultaneously entering self- and informant reports as
+their own personality, whereas informants rated the target’s       predictors of PDC scores in multiple regressions (separately
+personality using a scale ranging from 0 (“I am [He/She is]        for each PD). Squared semi-partial correlations (i.e., DR2) for
+never like this (0% of the time)”) to 4 (“I am [He/She             each perception reveal how much unique variance each per-
+is] always like this (100% of the time)”). The internal consis-    ception explained in PDC scores, and the standardized beta-
+tency reliabilities were acceptable (average a = .68 self; .74     weights reveal the strength and direction of this relationship.
+informants).                                                       Second, we examined which perception was more strongly
+                                                                   associated with each PDC score by statistically comparing the
+Semi-Structured Interview for DSM-IV Personality                   Pearson correlations between self-reports and PDC scores to
+(SIDP-IV). Targets completed the SIDP-IV (Pfohl, Blum, &           the correlations between informant reports and PDC scores
+Zimmerman, 1997), a semistructured clinical interview that         separately for each PD (i.e., Kenny, Kashy, & Cook, 2006, p.
+examines pathological behavior and traits using 101 open-          124). For example, self-reports are more valid predictors of
+ended questions that correspond to the diagnostic criteria for     paranoid PD if the correlation between self-reports and para-
+10 forms of PD. The person’s score is based heavily on the         noid PDC scores is stronger than the correlation between infor-
+content of the person’s answers and, in part, on the inter-        mant reports and PDC scores. This analysis is a statistically
+viewer’s observation of the interviewee’s behavior (e.g., facial   rigorous test and essentially answers the question, whose per-
+expressions, posture). Notably, for some personality problems,     ception is best?
+the interviewer will not detect the presence of the PD if the         Using these two analytic procedures, we examined the rela-
+interviewee does not acknowledge symptoms of that disorder.        tive validity of self- and informant reports using both an idio-
+For this reason, interview scores are probably more similar to     graphic (i.e., profile-based) and a nomothetic (i.e., trait-based)
+self-report than to informant reports (Oltmanns & Turkheimer,      approach. The profile-based approach measures the match
+2006).                                                             between personality perceptions (i.e., a 30-facet profile) and a
+   Interviews were conducted by trained research assistants        prototype that describes the “typical” person with a given PD,
+and clinical graduate students. Interviews were video-             and then correlates these profile scores with the criterion
+recorded, and 265 tapes were randomly selected to be viewed        measure for each PD (i.e., the PDC score). These correlations
+160                                                                                                                                            Carlson, Vazire, & Oltmanns
+
+
+reveal which profile score, self or informant, is best at predict-                         weights and pairs of correlations. For example, for paranoid
+ing each PDC score. The trait-based approach examines the                                  PD, we compared the absolute value of the 30 self-report
+direct relationship between personality perceptions of each                                beta-weights to the corresponding informant report beta-
+facet and each PDC score, which reveals whose perception of                                weights to determine which perspective provided more infor-
+each trait is more informative and valid for each PD. Thus,                                mation overall. To test our predictions about which perspective
+these two approaches are conceptually different tests of self-                             was more informative and valid for defining PD features, we
+other knowledge asymmetries in personality pathology.                                      also examined each trait separately. For example, we examined
+   For the idiographic approach, we computed self- and infor-                              whether self- or informant reports of the factor Neuroticism
+mant profile prototype similarity (PPS) scores for each PD.                                were more informative for avoidant PD, and we statistically
+PPS scores reflect the intraclass correlation (i.e., double-entry)                         compared the self PDC score correlation with the informant
+between a rater’s 30 FFM facet profile and Lynam and Widi-                                 PDC score correlation to see whether one was significantly
+ger’s (2001) expert-generated PD profiles. We computed 10                                  stronger than the other.
+self- and 10 informant PPS scores for each participant that
+ranged from –1 to 1. For further analyses, scores were trans-
+formed using Fisher’s r-to-z transformation. We examined the                               RESULTS
+predictions outlined in Table 1 by predicting PDC scores
+(separately for each PD) from self PPS and informant
+                                                                                           Prediction 1: Self-Reports Are More Valid Than
+PPS scores to compare how much unique information each                                     Informant Reports for Internalizing PDs
+perspective provided, and by statistically comparing the raw                               As predicted, Table 2 shows that self PPS scores were
+correlations between self PPS and PDC scores to the raw                                    descriptively more informative and that self PPS scores
+correlations between informant PPS and PDC scores.                                         were a better predictor of (i.e., more strongly associated
+   For the nomothetic approach, we predicted PDC scores                                    with) avoidant and dependent PDs, t(988) = 3.40, p < .001;
+(separately for each PD) from self- and informant reports                                  t(988) = 2.69, p < .01, two-tailed, than were informant PPS
+of each FFM factor and facet. For example, we predicted                                    scores. Self and informant PPS scores together only explained
+paranoid PDC scores from self- and informant reports of Neu-                               2% of the variance in obsessive-compulsive PDC scores,
+roticism. We also compared the strength of the correlation                                 suggesting that neither PPS score was a particularly valid
+between PDC scores and self-reports of traits to the correlation                           predictor.
+between PDC scores and informant reports of traits. To test the                               Table 3 shows the relative validity of self- and informant
+predictions outlined in Table 1, we used a Wilcoxon Signed                                 reports of the FFM facets for internalizing PDs. Were self-
+Ranks Test to compare the self and informant pairs of beta-                                reports of the 30 facets generally more informative and more
+
+
+Table 2 Self- and Informant Profile Prototype Similarity Scores as Predictors of Personality Disorder Composite Scores
+
+                                                  Correlations among self PPS,                                                    Multiple regression
+                                                Informant PPS, and PDC scores                                                     (DV: PDC Scores)
+
+                                      Self PPS           Informant PPS           Self-informant          Self        Informant           Self          Informant          Overall
+                                    r With PDC            r With PDC                   PPS              PPS b          PPS b           PPS DR2          PPS DR2             R2
+Internalizing
+   Avoidant                              .57*                  .49*                    .59*              .44*            .23*             .12*             .04*             .36*
+   Dependent                             .31*                  .23*                    .52*              .26*            .09†             .05*             .01†             .10*
+   Obsessive-compulsive                  .13*                  .09*                    .53*              .11*             .03             .01*              .00             .02*
+Externalizing/antagonistic
+   Antisocial                            .43*                  .49*                    .53*              .23*            .37*             .04*             .10*             .28*
+   Histrionic                            .41*                  .38*                    .58*              .28*            .22*             .05*             .03*             .20*
+   Narcissistic                          .47*                  .49*                    .53*              .29*            .33*             .06*             .08*             .30*
+Thought disorder
+   Schizoid                              .40*                  .31*                    .58*              .33*            .13*             .07*             .01*             .17*
+   Schizotypal                           .38*                  .36*                    .55*              .26*            .22*             .05*             .03*             .18*
+Internalizing/antagonistic
+   Paranoid                              .45*                  .48*                    .46*              .30*            .34*             .07*             .10*             .30*
+   Borderline                            .56*                  .58*                    .49*              .37*            .40*             .10*             .12*             .43*
+Note. N = 991. PPS = profile prototype similarity; PDC = personality disorder composite; DV = dependent variable; Self-Informant PPS = correlation between self PPS and
+informant PPS scores. Boldfaced and italicized self PPS correlations were significantly stronger than informant PPS correlations: avoidant, t(988) = 3.40, p < .001; dependent,
+t(988) = 2.69, p = .007; schizoid, t(988) = 3.36, p < .001, two-tailed. Italicized-only informant PPS correlations were marginally stronger than self PPS correlations: antisocial,
+t(988) = –2.25, p = .03, two-tailed.
+†p < .05. *p < .01.
+Self-Other Knowledge Asymmetries                                                                                                                                     161
+
+
+Table 3 Self- and Informant Reports of FFM Facets as Predictors of Internalizing Personality Disorders
+
+                             Avoidant                                                Dependent                                      Obsessive-compulsive
+          r With PDC              Multiple regression            r With PDC              Multiple regression             r With PDC             Multiple regression
+
+         Self r     Inf. r     Self b      Inf. b      R 2
+                                                                Self r      Inf. r     Self b     Inf. b      R 2
+                                                                                                                       Self r      Inf. r     Self b      Inf. b      R2
+N1        .45*       .41*       .33*        .26*      .25*       .42*        .40*       .30*       .27*      .23*       .25*        .21*       .20*        .12*      .07*
+N2        .39*       .26*       .34*        .13*      .16*       .36*        .27*       .30*       .15*      .15*       .29*        .27*       .22*        .19*      .11*
+N3        .55*       .46*       .42*        .25*      .35*       .47*        .44*       .34*       .28*      .28*       .24*        .18*       .20*        .09*      .06*
+N4        .64*       .52*       .52*        .33*      .50*       .43*        .40*       .34*       .28*      .26*       .20*        .16*       .17*        .10*      .05*
+N5        .25*       .16*       .22*        .08†      .06*       .27*        .28*       .19*       .21*      .11*       .10*        .06        .09*        .02       .01*
+N6        .47*       .40*       .37*        .26*      .27*       .50*        .49*       .36*       .35*      .35*       .16*        .20*       .10*        .17*      .05*
+E1      –.35*       –.32*      –.26*       –.20*      .15*      –.08†      –.08†       –.05       –.05       .01†      –.15*      –.22*       –.06       –.19*       .05*
+E2      –.35*       –.30*      –.26*       –.16*      .14*      –.06        .01        –.09†       .06       .00†      –.22*      –.25*       –.12*      –.18*       .07*
+E3      –.45*       –.42*      –.32*       –.25*      .25*      –.28*      –.29*       –.18*      –.19*      .11*      –.01       –.02         .00       –.02        .00
+E4      –.29*       –.25*      –.22*       –.15*      .10*      –.15*      –.19*       –.08†      –.15*      .04*       .03       –.03         .05       –.05        .00
+E5      –.11*       –.18*      –.03        –.17*      .03*      –.02       –.03         .00       –.03       .00       –.01       –.06         .02       –.07        .00
+E6      –.36*       –.32*      –.27*       –.21*      .16*      –.12*      –.17*       –.07       –.14*      .03*      –.16*      –.23*       –.07†      –.20*       .06*
+O1      –.01        –.01       –.01         .00       .00        .11*       .12*        .07†       .10*      .02*      –.01       –.06         .01       –.06        .00
+O2      –.13*       –.10*      –.10*       –.04       .02*       .01       –.01         .02       –.02       .00*      –.02       –.06         .02       –.07        .00
+O3      –.03        –.09*       .00        –.09†      .01†       .12*       .09*        .11*       .05       .02*       .07†      –.11*        .12*      –.15*       .02*
+O4      –.27*       –.24*      –.20*       –.15*      .09*      –.22*      –.19*       –.17*      –.12*      .06*      –.27*      –.26*       –.19*      –.18*       .10*
+O5      –.22*       –.16*      –.18*       –.07       .05*      –.17*      –.12*       –.14*      –.04       .03*       .04        .06         .02        .05        .00
+O6      –.11*       –.04       –.12*        .02       .01*      –.04        .00        –.06        .04       .00       –.18*      –.18*       –.11*      –.12*       .04*
+A1      –.28*       –.28*      –.20*       –.20*      .11*      –.13*      –.15*       –.09*      –.11*      .03*      –.23*      –.32*       –.13*      –.27*       .12*
+A2      –.07†       –.05       –.06        –.03       .00       –.10*      –.12*       –.07†      –.11*      .02*      –.09*      –.16*       –.05       –.14*       .03*
+A3      –.21*       –.16*      –.19*       –.12*      .06*      –.08†      –.09*       –.06       –.08*      .01*      –.13*      –.21*       –.09*      –.19*       .05*
+A4      –.05        –.06       –.03        –.05       .00       –.04       –.09*       –.01       –.09       .01†      –.24*      –.23*       –.18*      –.16*       .08*
+A5       .12*        .05        .12*        .01       .01*       .01       –.07†        .03       –.08†      .00       –.09*      –.14*       –.05       –.13*       .02*
+A6      –.01        –.08†       .02        –.09†      .00        .05       –.02         .07       –.05       .00       –.12*      –.21*       –.04       –.20*       .05*
+C1      –.38*       –.25*      –.33*       –.12*      .15*      –.35*      –.33*       –.26*      –.24*      .17*      –.08†      –.03        –.08†       .00        .00
+C2      –.14*       –.12*      –.11*       –.06       .02*      –.19*      –.21*       –.11*      –.15*      .05*       .05       –.01         .09†      –.06        .00
+C3      –.20*       –.14*      –.17*       –.09*      .05*      –.25*      –.24*       –.19*      –.18*      .09*       .01        .00         .02        .00        .00
+C4      –.25*       –.25*      –.17*       –.17*      .09*      –.25*      –.29*       –.16*      –.22*      .10*       .15*       .08†        .14*       .02        .02*
+C5      –.38*       –.24*      –.34*       –.09*      .15*      –.40*      –.36*       –.30*      –.23*      .20*      –.12*      –.11*       –.08†      –.07†       .02*
+C6      –.11*       –.14*      –.08†       –.11*      .02*      –.22*      –.30*       –.14*      –.26*      .11*       .03        .01         .03        .00        .00
+Note. N = 991. FFM = Five-Factor Model; PDC = personality disorder composite. Boldfaced and italicized correlations between self-reports (informant reports) and PDC
+scores are significantly stronger than informant reports (self-reports), p < .01. Italicized-only correlations between self-reports (informant reports) and PDC scores are
+marginally stronger than informant reports (self-reports), p < .05, two-tailed.
+†p < .05. *p < .01.
+
+
+strongly associated with PDC scores than were informant                                cism facets for avoidant PD. Figure 1 also shows that together,
+reports? Wilcoxon Signed Ranks Tests of the difference                                 self- and informant reports of Neuroticism were less informa-
+between self and informant beta-weights and correlations with                          tive for obsessive-compulsive PD (R2 = .09) than for other PDs
+PDC scores across facets showed that self-reports were gener-                          (e.g., avoidant R2 = .39). Thus, Neuroticism may be less defin-
+ally more informative (Z = –3.34, p < .01) and valid (Z =                              ing for this PD, which might explain why self-reports of
+–3.16, p < .01) for avoidant PD, but neither perspective was                           Neuroticism were not more valid than informant reports.
+more informative or valid for dependent PD (Z = –.10, p = .92;
+Z = –.53, p = .60) or for obsessive-compulsive PD (Z = –1.16,                          Prediction 2: Informant Reports Are More
+p = .25; Z = –1.38, p = .17).
+    Were self-reports of Neuroticism (i.e., the defining FFM
+                                                                                       Valid Than Self-Reports for Externalizing
+trait for internalizing PDs) more valid than informant reports?                        and/or Antagonistic PDs
+The left panel of Figure 1 suggests that self-reports of the                           Table 2 shows that across the three PDs in the externalizing
+factor Neuroticism were generally more informative than were                           and/or antagonistic category, informant PPS scores were
+informant reports for internalizing PDs, and the right panel                           not generally more informative than were self PPS scores.
+shows that self-reports of Neuroticism were significantly more                         However, informant PPS scores were a better predictor of
+strongly associated with avoidant PDC scores than were infor-                          antisocial PDC scores than were self PPS scores, t(988) =
+mant reports. Table 3 shows a similar pattern among Neuroti-                           –2.25, p = .03, two-tailed.
+162                                                                                                                         Carlson, Vazire, & Oltmanns
+
+
+
+
+Figure 1 The amount of unique information (i.e., DR2) self- and informant reports of the FFM factors explain in internalizing PDs and the relative strength
+of the correlations between PDC scores and self- and informant reports of FFM factors.The left panel shows results from multiple regression analyses where
+self- and informant reports of a given FFM factor were simultaneously entered as predictors of PDC scores.The right panel shows the correlations between
+PDC scores and self- and informant reports of a given FFM facet. Asterisks reflect a significant difference between correlations (p < .01, two-tailed)
+
+
+
+   Table 4 shows the relative validity of self- and informant                  (i.e., larger informant DR2) than self-reports, and the right
+reports of the FFM facets for predicting PDs in the                            panel suggests that informant reports were also generally more
+externalizing/antagonistic category. Were informant reports of                 strongly associated with PDC scores than were self-reports.
+the 30 facets generally more informative and more strongly                     Table 4 shows that these differences were observed at the facet
+associated with PDC scores than were self-reports? Wilcoxon                    level for all three PDs.
+Signed Ranks Tests showed that, indeed, informant reports
+were generally more informative (i.e., stronger standardized
+beta-weights) and valid (i.e., stronger correlations) for antiso-              Prediction 3: Self- and Informant Reports
+cial (Z = –4.09, p < .001; Z = –3.91, p < .001), histrionic
+(Z = –2.20, p = .03; Z = –2.10, p = .04), and narcissistic (Z =
+                                                                               Are Equally Valid Predictors of Thought
+–2.37, p = .02; Z = –2.63, p < .01) PDs.                                       Disorder PDs
+   Were informant reports of Agreeableness and Conscien-                       Table 2 shows that, in contrast to our prediction, self PPS
+tiousness (i.e., the defining FFM traits for externalizing/                    scores were more strongly associated with schizoid PDC
+antagonistic PDs) more valid than self-reports? The left panel                 scores than were informant PPS scores, t(988) = 3.36,
+of Figure 2 suggests that informant reports of the factors                     p < .001, two-tailed. However, as predicted, there were no dif-
+Agreeableness and Conscientiousness were more informative                      ferences for schizotypal PD.
+Self-Other Knowledge Asymmetries                                                                                                                                     163
+
+
+Table 4 Self- and Informant Reports of FFM Facets as Predictors of Externalizing/Antagonistic Personality Disorders
+
+                             Antisocial                                              Histrionic                                             Narcissistic
+          r With PDC              Multiple regression            r With PDC               Multiple regression            r With PDC               Multiple regression
+
+        Self r      Inf. r     Self b      Inf. b      R2
+                                                                Self r      Inf. r     Self b     Inf. b      R 2
+                                                                                                                       Self r      Inf. r      Self b      Inf. b     R2
+N1        .10*       .09*        .08†       .06       .01*       .17*       .21*         .09*      .17*      .05*       .11*        .12*        .07†        .08†     .02*
+N2        .30*       .39*        .18*       .32*      .17*       .28*       .38*         .16*      .32*      .16*       .27*        .35*        .16*        .28*     .14*
+N3        .22*       .24*        .14*       .18*      .07*       .22*       .28*         .11*      .23*      .09*       .10*        .15*        .04         .13*     .02*
+N4        .08†       .08†        .06        .06       .01*       .09*       .18*         .03       .17*      .03*       .02         .07†       –.01         .07†     .00
+N5        .28*       .36*        .16*       .30*      .15*       .27*       .37*         .15*      .31*      .15*       .15*        .25*        .06         .22*     .06*
+N6        .16*       .24*        .07†       .21*      .06*       .14*       .33*         .02       .32*      .11*       .01         .19*       –.08†        .22*     .04*
+E1      –.11*      –.20*       –.03        –.19*      .04*       .16*      –.02          .21*     –.11*      .03*      –.10*      –.22*          .00       –.23*     .05*
+E2      –.02       –.05         .02        –.06       .00        .15*       .13*         .11*      .07       .02*       .00       –.03           .02       –.04      .00
+E3       .10*       .03         .12*       –.03       .01*       .23*       .11*         .24*     –.02       .05*       .28*       .19*          .25*       .07      .08*
+E4       .03       –.02         .05        –.05       .00        .18*       .08†         .19*     –.01       .03*       .19*       .10*          .19*       .01      .04*
+E5       .27*       .29*        .17*        .22*      .11*       .25*       .29*         .15*      .22*      .10*       .21*       .22*          .14*       .16*     .06*
+E6      –.03       –.16*        .05        –.18*      .02*       .17*       .03          .20*     –.06       .03*       .00       –.16*          .08†      –.20*     .03*
+O1       .15*       .19*         .09*       .16*      .04*       .22*       .27*         .14*      .22*      .09*       .15*       .15*          .11*       .11*     .03*
+O2      –.01       –.06          .05       –.09†      .00        .16*       .13*         .13*      .05       .03*       .04        .00           .05       –.03      .00
+O3       .09*       .00          .10*      –.04       .01*       .38*       .23*         .34*      .12*      .15*       .17*      –.03           .20*      –.10*     .03*
+O4       .01       –.04          .04       –.06       .00        .03       –.02          .05      –.05       .00       –.03       –.09*          .01       –.09†     .01†
+O5       .04        .03          .03        .02       .00        .08†       .01          .10*     –.04       .01†       .18*       .09*          .18*       .00      .03*
+O6       .01       –.04          .04       –.07       .00        .05       –.06          .12*     –.12*      .01*       .01       –.08†          .07†      –.12*     .01*
+A1      –.22*      –.29*       –.13*       –.24*      .10*      –.06       –.16*         .00      –.16*      .03*      –.19*      –.28*        –.10*       –.24*     .09*
+A2      –.37*      –.44*       –.27*       –.37*      .26*      –.28*      –.35*        –.20*     –.30*      .16*      –.39*      –.44*        –.29*       –.36*     .27*
+A3      –.24*      –.34*       –.17*       –.30*      .14*      –.06       –.26*         .00      –.26*      .07*      –.25*      –.41*        –.17*       –.37*     .19*
+A4      –.31*      –.42*       –.18*       –.35*      .20*      –.22*      –.38*        –.09*     –.35*      .15*      –.32*      –.41*        –.19*       –.34*     .20*
+A5      –.22*      –.34*       –.13*       –.30*      .13*      –.25*      –.35*        –.15*     –.30*      .14*      –.48*      –.55*        –.34*       –.44*     .41*
+A6      –.13*      –.23*       –.04        –.21*      .05*       .04       –.11*         .11*     –.16*      .02*      –.18*      –.32*        –.06        –.29*     .10*
+C1      –.19*      –.28*       –.10*       –.24*      .09*      –.08†      –.25*         .01      –.25*      .06*       .05       –.09*         .10*       –.13*     .02*
+C2      –.16*      –.20*       –.07        –.17*      .04*      –.04       –.09*         .02      –.10*      .01†       .05       –.05          .11*       –.10*     .01*
+C3      –.23*      –.36*       –.13*       –.32*      .14*      –.14*      –.28*        –.06      –.26*      .08*      –.04       –.21*         .03        –.22*     .04*
+C4      –.10*      –.21*       –.01        –.20*      .04*       .04       –.08†         .10*     –.12*      .01*       .19*       .04          .22*       –.06      .04*
+C5      –.27*      –.33*       –.15*       –.26*      .12*      –.15*      –.22*        –.07†     –.18*      .05*      –.05       –.15*         .02        –.15*     .02*
+C6      –.31*      –.43*       –.19*       –.37*      .22*      –.30*      –.41*        –.19*     –.35*      .20*      –.14*      –.29*        –.06        –.27*     .08*
+Note. N = 991. FFM = Five-Factor Model; PDC = personality disorder composite. Boldfaced and italicized correlations between self-reports (informant reports) and PDC
+scores are significantly stronger than informant reports (self-reports), p < .01. Italicized-only correlations between self-reports (informant reports) and PDC scores are
+marginally stronger than informant reports (self-reports), p < .05, two-tailed.
+†p < .05. *p < .01.
+
+
+    Table 5 shows the relative validity of self- and informant                         Prediction 4: Self- and Informant Reports Are
+reports of the FFM facets. Wilcoxon Signed Ranks Tests across                          Equally Valid Predictors of PDs That Are
+the facets showed that for schizoid PD, neither perspective was
+                                                                                       Internalizing and Antagonistic
+more informative or valid (Z = –.09, p = .93; Z = –.11, p = .91)
+but that for schizotypal PD, informant reports were more                               Table 2 shows that, as predicted, neither PPS score was more
+informative and valid than self-reports (Z = –2.84, p < .01;                           informative or more strongly associated with PDC scores for
+Z = –2.69, p < .01).                                                                   PDs in the internalizing and antagonistic category.
+    Were self- and informant reports of Extraversion (i.e., the                           Table 6 shows the relative validity of self- and informant
+defining FFM trait for thought disorder PDs) equally valid? The                        reports of the FFM facets for PDs in this category. In contrast
+left panel of Figure 3 suggests that, indeed, self- and informant                      to our prediction, Wilcoxon Signed Ranks Tests across the
+perceptions of the factor Extraversion were equally informa-                           facets showed that informant reports were more informative
+tive, and the right panel suggests that neither perspective of                         and valid than self-reports for both paranoid PD (Z = –3.17,
+Extraversion was more valid. Table 5 shows the same pattern of                         p < .01; Z = –3.10, p < .01) and borderline PD (Z = –3.58,
+results at the facet level. Notably, Table 5 suggests that the                         p < .001; Z = –3.61, p < .001).
+major differences between self- and informant reports for                                 Were self-reports of Neuroticism more valid than informant
+schizotypal PD (i.e., significant Wilcoxon Signed Ranks Tests)                         perceptions for these PDs, and were informant reports of
+were perceptions of Agreeableness and Conscientiousness.                               Agreeableness more valid than self-reports (i.e., the defining
+164                                                                                                                           Carlson, Vazire, & Oltmanns
+
+
+
+
+Figure 2 The amount of unique information (i.e., DR2) self- and informant reports of the FFM factors explain in externalizing and antagonistic PDs and the
+relative strength of the correlations between PDC scores and self- and informant reports of FFM factors.The left panel shows results from multiple regression
+analyses where self- and informant reports of a given FFM factor were simultaneously entered as predictors of PDC scores. The right panel shows the
+correlations between PDC scores and self- and informant reports of a given FFM facet.Asterisks reflect a significant difference between correlations (p < .01,
+two-tailed).
+
+
+
+FFM traits for these PDs)? Figure 4 suggests that self- and                     reports for externalizing and antagonistic PDs, particularly
+informant reports of the factor Neuroticism were equally valid,                 informant reports of Agreeableness and Conscientiousness.
+but that informant reports of the factor Agreeableness were                     These results were especially robust for antisocial PD. Third,
+generally more valid than self-reports for both PDs. Table 6                    results were inconsistent with respect to the prediction that
+shows that these results were observed at the facet level as well.              self- and informant reports were equally valid for thought
+                                                                                disorder PDs. Specifically, nomothetic, but not idiographic,
+                                                                                results supported our prediction for schizoid PD, and idio-
+DISCUSSION                                                                      graphic (but not nomothetic) results supported our prediction
+Who knows more about personality pathology—the self or                          for schizotypal PD. Fourth, idiographic results, but not nomo-
+others? Taken together, these results provide some support for                  thetic results, supported our prediction that self- and informant
+our four hypotheses. First, as predicted, self-reports were more                reports were equally valid for PDs that were both internalizing
+valid than informant reports for most internalizing PDs (i.e.,                  and externalizing. Moreover, in contrast to our prediction, both
+avoidant, dependent), particularly self-reports of Neuroticism.                 perspectives of Neuroticism were equally valid; however, as
+These results were especially robust for avoidant PD. Second,                   predicted, informant reports of Agreeableness were more valid
+as predicted, informant reports were more valid than self-                      than self-reports for these PDs. In sum, the results provided
+Self-Other Knowledge Asymmetries                                                                                                                                     165
+
+
+Table 5 Self- and Informant Reports of FFM Facets as Predictors of Thought Disorder PDs
+
+                                             Schizoid                                                                          Schizotypal
+                  Correlations                                Multiple                               Correlations                                Multiple
+                   With PDC                                  regression                               With PDC                                  regression
+
+              Self r            Inf. r          Self b           Inf. b            R2            Self r            Inf. r          Self b           Inf. b            R2
+N1             .20*             .13*              .18*            .05             .04*             .31*            .24*              .25*             .13*           .11*
+N2             .20*             .22*              .14*            .17*            .06*             .33*            .37*              .22*             .28*           .17*
+N3             .26*             .19*              .21*            .09*            .07*             .36*            .35*              .25*             .23*           .17*
+N4             .20*             .16*              .17*            .10*            .05*             .27*            .28*              .20*             .21*           .11*
+N5             .06              .04               .05             .02             .00              .17*            .23*              .10*             .19*           .06*
+N6             .21*             .20*              .15*            .14*            .06*             .27*            .33*              .17*             .26*           .13*
+E1            –.53*            –.48*            –.39             –.30*            .35*           –.30*            –.29*            –.21*            –.20*            .12*
+E2            –.46*            –.45*            –.31*            –.28*            .27*           –.24*            –.24*            –.16*            –.16*            .07*
+E3            –.26*            –.19*            –.21*            –.08†            .07*           –.12*            –.15*            –.06             –.12*            .02*
+E4            –.26*            –.23*            –.20*            –.13*            .08*           –.13*            –.14*            –.08†            –.10*            .02*
+E5            –.10*            –.16*            –.04             –.14*            .02*            .08†             .06              .06              .03             .00†
+E6            –.43*            –.38*            –.32*            –.24*            .23*           –.18*            –.19*            –.12*            –.14*            .05*
+O1            –.12*            –.13*            –.08†            –.10*            .02*            .10*             .13*             .05              .11*            .02*
+O2            –.19*            –.24*            –.08†            –.20*            .06*            .05             –.03              .10*            –.09†            .01†
+O3            –.23*            –.33*            –.13*            –.28*            .12*            .08†            –.02              .10*            –.06             .01†
+O4            –.25*            –.29*            –.16*            –.22*            .10*           –.11*            –.15*            –.06             –.12*            .02*
+O5            –.17*            –.13*            –.14*            –.06             .03*            .01              .02              .00              .02             .00
+O6            –.20*            –.15*            –.16*            –.06             .04*           –.14*            –.11*            –.12*            –.05             .02*
+A1            –.39*            –.40*            –.28*            –.30*            .23*           –.43*            –.42*            –.32*            –.29*            .26*
+A2            –.08†            –.16*            –.04             –.15*            .02*           –.13*            –.23*            –.08†            –.21*            .06*
+A3            –.31*            –.33*            –.25*            –.27*            .16*           –.23*            –.29*            –.17*            –.26*            .11*
+A4            –.11*            –.17*            –.05             –.15*            .03*           –.18*            –.29*            –.08†            –.26*            .09*
+A5             .03             –.09*             .07†            –.11*            .01*           –.08†            –.22*            –.01             –.21*            .05*
+A6            –.18*            –.25*            –.10*            –.22*            .07*           –.06             –.13*            –.01             –.13*            .02*
+C1            –.27*            –.18*            –.23*            –.10*            .08*           –.27*            –.28*            –.19*            –.21*            .11*
+C2            –.03             –.07†             .01             –.07             .00            –.13*            –.14*            –.08†            –.10*            .02*
+C3            –.16*            –.17*            –.12*            –.13*            .04*           –.21*            –.25*            –.14*            –.21*            .08*
+C4            –.09*            –.15*            –.03             –.13*            .02*           –.04             –.14*             .03             –.15*            .02*
+C5            –.15*            –.15*            –.10*            –.11*            .03*           –.23*            –.25*            –.15*            –.19*            .08*
+C6             .04             –.05              .06             –.07†            .00            –.10*            –.24*            –.03             –.23*            .06*
+Note. N = 991. FFM = Five-Factor Model; PDC = personality disorder composite. Boldfaced and italicized correlations between self-reports (informant reports) and PDC
+scores are significantly stronger than informant reports (self-reports), p < .01. Italicized-only correlations between self-reports (informant reports) and PDC scores are
+marginally stronger than informant reports (self-reports), p < .05, two-tailed.
+†p < .05. *p < .01.
+
+
+some support for the predicted self-other knowledge asymme-                             yet both are matched to the same prototype profile. Future
+tries in personality pathology outlined in Table 1.                                     research might investigate whether results replicate with dif-
+    Notably, idiographic and nomothetic results revealed                                ferent prototype-matching methods.
+different patterns of findings for some PDs. These approaches                              Interestingly, while we did identify self-other knowledge
+answered conceptually independent questions—the idio-                                   asymmetries in personality pathology, we also found that when
+graphic, or profile-based, approach measured which “match”                              considering pathology overall, both perspectives were equally
+between a PD prototype and self- or informant reports pre-                              valid. For example, averaged across the 10 PDs, self and infor-
+dicted PDC scores best, whereas the nomothetic, or trait-based,                         mant PPS scores provided roughly the same amount of unique
+approach measured which perspective predicted PDC scores                                information (mean self PPS DR2 = .06; informant PPS DR2 =
+best for each FFM trait. One explanation for the different                              .05) and were equally valid (mean self PPS r = .42; informant
+pattern of results is that the prototypes attempt to capture a                          PPS r = .40) predictors of PDs. Thus, self- and informant
+fairly heterogeneous construct with a single profile, which                             reports provided information that the other perspective did not
+limits the validity of the prototypical profile for all individuals.                    provide and neither perspective was better overall. Similarly, at
+For instance, one individual with borderline PD might exhibit                           the factor level, Figure 5 shows that self- and informant reports
+identity and self-harm symptoms whereas another borderline                              of Neuroticism, Extraversion, and Openness also provided
+individual might exhibit interpersonal problems (e.g., anger),                          equal amounts of unique information about PDs overall (e.g.,
+166                                                                                                                            Carlson, Vazire, & Oltmanns
+
+
+
+
+Figure 3 The amount of unique information (i.e., DR2) self- and informant reports of the FFM factors explain in thought disorder PDs and the relative strength
+of the correlations between PDC scores and self- and informant reports of FFM factors.The left panel shows results from multiple regression analyses where
+self- and informant reports of a given FFM factor were simultaneously entered as predictors of PDC scores.The right panel shows the correlations between
+PDC scores and self- and informant reports of a given FFM facet. Asterisks reflect a significant difference between correlations (p < .01, two-tailed).
+
+
+
+
+Figure 4 The amount of unique information (i.e., DR2) self- and informant reports of the FFM factors explain in internalizing/antagonistic PDs and the relative
+strength of the correlations between PDC scores and self- and informant reports of FFM factors.The left panel shows results from multiple regression analyses
+where self- and informant reports of a given FFM factor were simultaneously entered as predictors of PDC scores. The right panel shows the correlations
+between PDC scores and self- and informant reports of a given FFM facet.Asterisks reflect a significant difference between correlations (p < .01, two-tailed).
+Self-Other Knowledge Asymmetries                                                                                                                                     167
+
+
+Table 6 Self- and Informant Reports of FFM Facets as Predictors of Internalizing and Antagonistic Personality Disorders
+
+                                             Paranoid                                                                          Borderline
+                  Correlations                                Multiple                               Correlations                                Multiple
+                   With PDC                                  regression                               With PDC                                  regression
+
+              Self r            Inf. r          Self b           Inf. b            R2            Self r            Inf. r          Self b           Inf. b            R2
+N1             .37*             .29*              .30*            .15*            .15*             .42*             .38*             .31*             .25*           .22*
+N2             .42*             .46*              .28*            .36*            .28*             .52*             .53*             .36*             .39*           .39*
+N3             .36*             .32*              .27*            .19*            .16*             .55*             .54*             .38*             .35*           .40*
+N4             .32*             .30*              .24*            .21*            .14*             .35*             .36*             .26*             .27*           .19*
+N5             .18*             .19*              .12*            .14*            .05*             .35*             .41*             .23*             .31*           .21*
+N6             .25*             .32*              .15*            .26*            .12*             .44*             .51*             .29*             .40*           .33*
+E1            –.31*            –.35*            –.19*            –.27*            .15*           –.16*            –.23*            –.07†            –.20*            .06*
+E2            –.24*            –.25*            –.14*            –.17*            .08*           –.12*            –.12*            –.08†            –.07†            .02*
+E3            –.10*            –.11*            –.06             –.08†            .01*           –.08†            –.15*            –.01             –.15*            .02*
+E4            –.09*            –.09*            –.06             –.06             .01*           –.09*            –.12*            –.04             –.10*            .01*
+E5             .05              .01              .06             –.02             .00             .13*             .13*             .10*             .08†            .02*
+E6            –.21*            –.29*            –.11*            –.25*            .09*           –.18*            –.25*            –.09†            –.21*            .07*
+O1             .02              .00              .02              .00             .00             .11*             .16*             .06              .14*            .03*
+O2            –.04             –.10*             .03             –.11*            .01*           –.01             –.03              .01             –.03             .00
+O3             .07†            –.05              .10*            –.08†            .01*            .18*             .08              .17*             .03             .03*
+O4            –.18*            –.22*            –.11*            –.18*            .06*           –.15*            –.18*            –.10*            –.13*            .04*
+O5            –.06             –.09*            –.02             –.08†            .01†           –.08†            –.06             –.06             –.03             .00†
+O6            –.16*            –.19*            –.08†            –.15*            .04*           –.06             –.07†            –.03             –.05             .00
+A1            –.51*            –.54*            –.35*            –.40*            .39*           –.31*            –.36*            –.20*            –.29*            .17*
+A2            –.19*            –.30*            –.12*            –.27*            .10*           –.22*            –.29*            –.15*            –.25*            .10*
+A3            –.23*            –.37*            –.16*            –.33*            .16*           –.18*            –.29*            –.12*            –.26*            .10*
+A4            –.31*            –.40*            –.19*            –.33*            .19*           –.31*            –.40*            –.19*            –.33*            .19*
+A5            –.10*            –.23*            –.03             –.22*            .05*           –.05             –.22*             .02             –.23*            .05*
+A6            –.12*            –.26*            –.02             –.25*            .07*           –.05             –.17*             .03             –.18*            .03*
+C1            –.22*            –.20*            –.17*            –.14*            .06*           –.35*            –.39*            –.24*            –.30*            .20*
+C2            –.02             –.05              .01             –.05             .00            –.15*            –.17*            –.09†            –.12*            .03*
+C3            –.17*            –.22*            –.12*            –.18*            .06*           –.27*            –.35*            –.18*            –.30*            .15*
+C4             .01             –.08†             .05             –.10*            .01†           –.11*            –.22*            –.01             –.22*            .05*
+C5            –.18*            –.20*            –.11*            –.15*            .05*           –.34*            –.38*            –.22*            –.28*            .18*
+C6            –.08†            –.17*            –.03             –.16*            .03*           –.31*            –.43*            –.19*            –.37*            .22*
+Note. N = 991. FFM = Five-Factor Model; PDC = personality disorder composite. Boldfaced and italicized correlations between self-reports (informant reports) and PDC
+scores are significantly stronger than informant reports (self-reports), p < .01. Italicized-only correlations between self-reports (informant reports) and PDC scores are
+marginally stronger than informant reports (self-reports), p < .05, two-tailed.
+†p < .05. *p < .01.
+
+
+Neuroticism: mean self and informant DR2 = .06). However,                                  We believe that these findings have at least three important
+this figure also shows that informant reports of Agreeableness                          implications. First, researchers and practitioners have much to
+and Conscientiousness were more informative than were self-                             learn from informants when it comes to identifying personality
+reports (e.g., Agreeableness: mean self DR2 = .03, informant                            pathology. In particular, informant reports of Agreeableness
+DR2 = .08). Similar results were found with respect to the raw                          and Conscientiousness (i.e., communal traits) tend to provide a
+correlations between PDC scores and self- and informant                                 great deal of information about PDs that self-reports alone do
+reports of FFM trait. For example, across the 60 facet pairs of                         not provide. We hope that future research explores self-other
+correlations between PDC scores and self- and informant                                 asymmetries in personality pathology based on other aspects
+reports of a given FFM trait (i.e., six facet pairs per trait, across                   of personality, such as behavior (e.g., Jones & Miller, 2012;
+10 PDs) the correlations between PDC scores and informant                               Vazire & Mehl, 2008) or explicitly pathological traits. Second,
+reports of Agreeableness (Z = –6.22, p < .001) and Conscien-                            our findings are especially relevant for the development of the
+tiousness (Z = –3.44, p = .001) were stronger than the corre-                           DSM-5. In particular, these findings add to the growing body
+sponding self-correlations. Thus, in addition to identifying                            of evidence that the dimensional approach (i.e., FFM) can
+self-other knowledge asymmetries for specific PDs, we also                              adequately describe categorical PDs (e.g., Miller et al., 2010).
+found self-other knowledge asymmetries for aspects of per-                              In terms of the FFM, our results replicate past work showing
+sonality pathology overall.                                                             that perceptions of Neuroticism (mean R2 = .21), Extraversion
+168                                                                                                                                                                            Carlson, Vazire, & Oltmanns
+
+
+                                     0.25
+                                            Average Variance Explained in Personality Disorders by Self- and                          References
+                                                        Informant-Perceptions of FFM Factors
+
+
+
+
+Variance explained in PD composite
+                                     0.20                   R2            ΔR2               ΔR2                                       Achenbach, T. M., Krukowski, R., Dumenci, L., & Ivanova, M.
+                                                                          Self              Informant
+                                                                                                                                          (2005). Assessment of adult psychopathology: Meta-analyses and
+                                     0.15                                                                                                 implications of cross-informant correlations. Psychological Bul-
+                                                                                                                                          letin, 131, 361–382.
+                                     0.10
+                                                                                                                                      American Psychiatric Association. (2000). Diagnostic and statistical
+                                                                                                                                          manual of mental disorders (4th ed., text rev.). Washington, DC:
+                                                                                                                                          American Psychiatric Association.
+                                     0.05
+                                                                                                                                      Bagby, R. M., Sellborn, M., Costa, P. T., Jr., & Widiger, T. A. (2008).
+                                                                                                                                          Predicting Diagnostic and Statistical Manual of Mental
+                                     0.00
+                                            Neuroticism    Extraversion          Openness         Agreeableness   Conscientiousness       Disorder-IV personality disorder with the five-factor model of
+                                                                                                                                          personality and the personality psychopathology five. Personality
+Figure 5 Average amount of variance explained by self- and informant                                                                      and Mental Health, 2, 55–69.
+reports of the FFM factors across the 10 PDs. R2 = the average amount of                                                              Bucholz, K. K., Nurnberger, J. I., Kramer, J. R., Hesselbrock, V. M.,
+variance self- and informant reports of a given FFM factor explain together in
+                                                                                                                                          Schuckit, M., & Bierut, L. J. (2006). Comparison of psychiatric
+PDs. DR2 Self = the average amount of unique variance self-reports of a given
+FFM factor explain in PDC scores. DR2 Informant = the average amount of                                                                   diagnoses from interview reports with those from best-estimate
+unique variance informant reports of a given FFM factor explain in PDC                                                                    procedures. Journal of Studies on Alcohol, 67, 157–168.
+scores.                                                                                                                               Carlson, E. N. (2012). Honestly arrogant or simply misunderstood?
+                                                                                                                                          Narcissists’ awareness of their narcissism. Self and Identity,
+                                                                                                                                          DOI:10.1080/15298868.2012.659427.
+(mean R2 = .09), Agreeableness (mean R2 = .16), and Consci-                                                                           Carlson, E. N., Vazire, S., & Oltmanns, T. F. (2011). You probably
+entiousness (mean R2 = .09) are informative predictors of PDs,                                                                            think this paper’s about you: Narcissists’ perceptions of their
+whereas perceptions of Openness (mean R2 = .02) are not par-                                                                              personality and reputation. Journal of Personality and Social Psy-
+ticularly informative (Lynam & Widiger, 2001; Samuel &                                                                                    chology, 101, 185–201.
+Widiger, 2008). Perhaps more importantly, Figures 1–5 high-                                                                           Clark, L. A. (2007). Assessment and diagnosis of personality
+light the utility of including informant reports in the develop-                                                                          disorder: Perennial issues and an emerging reconceptualization.
+ment of diagnostic criteria and assessment tools (e.g., Huprich,                                                                          Annual Review of Psychology, 58, 227–257.
+Bornstein, & Schmitt, 2011). Third, the current findings extend                                                                       Clifton, A., Turkheimer, E., & Oltmanns, T. F. (2004). Contrasting
+research regarding asymmetries in self-other knowledge of                                                                                 perspectives on personality problems: Descriptions from the self
+personality traits. Given that informant reports are inexpensive                                                                          and other. Personality and Individual Differences, 36, 1499–1514.
+and easy to obtain (Vazire, 2006), we hope that future research                                                                       Clifton, A., Turkheimer, E., & Oltmanns, T. F. (2005). Self- and peer
+explores informant reports in the context of personality pathol-                                                                          perspectives on pathological personality traits and interpersonal
+ogy further. For example, future work could compare infor-                                                                                problems. Psychological Assessment, 17, 123–131.
+mants across contexts (e.g., friends, family members, romantic                                                                        Connelly, B. S., & Ones, D. S. (2010). An other perspective on
+partners) or compare self-selected versus nonselected infor-                                                                              personality: Meta-analytic integration of observers’ accuracy and
+mants (Leising et al., 2010). Unfortunately, one important                                                                                predictive validity. Psychological Bulletin, 136, 1092–1122.
+limitation of the current study is the use of a single informant                                                                      Costa, P. T., & McCrae, R. R. (1992). Professional manual for the
+who did not provide self-ratings. Thus, we know little about the                                                                          NEO Personality Inventory (NEO-PI–R) and NEO Five Factor
+unique biases each informant may have had (i.e., perceiver                                                                                Inventory (NEO-FFI). Odessa, FL: Psychological Assessment
+effects; Ready, Clark, Watson, & Westerhouse, 2000; Srivas-                                                                               Resources.
+tava, Guglielmo, & Beer, 2010; Wood, Harms, & Vazire,                                                                                 Fiedler, E. R., Oltmanns, T. F., & Turkheimer, E. (2004). Traits
+2010). Ideally, researchers and practitioners should collect and                                                                          associated with personality disorders and adjustment to military
+average multiple informant reports in order to reduce the influ-                                                                          life: Predictive validity of self and peer reports. Military Medi-
+ence of each informant’s idiosyncratic biases (Hofstee, 1994).                                                                            cine, 169, 207–211.
+However, the same criticism can be leveled against self-                                                                              Furr, R. M., Dougherty, D. M., Marsh, D. M., & Mathias, C. W.
+reports, and there is no easy fix for self-reports.                                                                                       (2007). Personality judgment and personality pathology: Self-
+    In sum, self and others perceive unique aspects of person-                                                                            other agreement in adolescents with conduct disorder. Journal of
+ality pathology, suggesting that a more complete understand-                                                                              Personality, 75, 629–662.
+ing of personality pathology must take into account both                                                                              Ganellen, R. J. (2007). Assessing normal and abnormal personality
+perspectives. Furthermore, understanding how and why these                                                                                functioning: Strengths and weakness of self-report, observer, and
+self-other knowledge asymmetries emerge will have important                                                                               performance-based methods. Journal of Personality Assessment,
+implications for personality assessment and for self-                                                                                     89, 30–40.
+knowledge. We hope that future research and practice explore                                                                          Gosling, S. D., John, O. P., Craik, K. H., & Robins, R. W. (1998). Do
+these asymmetries further.                                                                                                                people know how they behave? Self-reported act frequencies
+Self-Other Knowledge Asymmetries                                                                                                                169
+
+
+   compared with on-line codings by observers. Journal of Person-              to score the DSM-IV personality disorders. Journal of Personality
+   ality and Social Psychology, 74, 1337–1349.                                 Assessment, 92, 296–305.
+Hirchfeld, R. M. (1993). Personality disorders: Definition and diag-       Miller, J. D., Pilkonis, P. A., & Clifton, A. (2005). Self- and
+   nosis. Journal of Personality Disorder (Suppl. 1), 9–17.                    other-reports of traits from the five-factor model: Relations to
+Hofstee, W. K. B. (1994). Who should own the definition of person-             personality disorders. Journal of Personality Disorders, 19, 400–
+   ality? European Journal of Personality, 8, 149–162.                         419.
+Hogan, R. (1998). Reinventing personality. Journal of Social and           Miller, J. D., Pilkonis, P. A., & Morse, J. Q. (2004). Five-factor model
+   Clinical Psychology, 17, 1–10.                                              prototypes for personality disorders: The utility of self-reports and
+Huprich, S. K., Bornstein, R. F., & Schmitt, T. A. (2011). Self-report         observer ratings. Assessment, 11, 127–138.
+   methodology is insufficient for improving the assessment and            Mosterman, R. M., & Hendriks, A. A. J. (2011). Self–other disagree-
+   classification of Axis II personality disorders. Journal of Person-         ment in personality assessment: Significance and prognostic
+   ality Disorders, 25, 557–570.                                               value. Clinical Psychology & Psychotherapy, 18, 159–171.
+John, O. P., & Robins, R. W. (1993). Determinants of interjudge            Okada, M., & Oltmanns, T. F. (2009). Comparison of three self-report
+   agreement on personality traits: The FFM domains, observability,            measures of personality pathology. Journal of Psychopathology
+   evaluativeness, and the unique perspective of the self. Journal of          and Behavioral Assessment, 31, 358–367.
+   Personality, 61, 521–551.                                               Oltmanns, T. F., & Gleason, M. E. J. (2011). Personality, health, and
+Jones, S., & Miller, J. D. (2012). Psychopathic traits and externalizing       social adjustment in later life. In L. B. Cottler (Ed.), Mental health
+   behaviors: A comparison of self- and informant reports in the               in public health: The next 100 years (pp. 151–179). New York:
+   statistical prediction of externalizing behaviors. Psychological            Oxford University Press.
+   Assessment, 24, 255–260.                                                Oltmanns, T. F., & Turkheimer, E. (2006). Perceptions of self and
+Kenny, D. A., Kashy, D. A., & Cook, W. L. (2006). Dyadic data                  other regarding pathological personality traits. In R. F. Krueger
+   analysis. New York: Guilford Press.                                         & J. L. Tackett (Eds.), Personality and psychopathology (pp.
+Klein, D. N. (2003). Patients’ versus informants’ reports of personal-         71–111). New York: Guilford Press.
+   ity disorders in predicting 7 1/2-year outcome in outpatients           Oltmanns, T. F., & Turkheimer, E. (2009). Person perception and
+   with depressive disorder. Psychological Assessment, 15, 216–                personality pathology. Current Directions in Psychological
+   222.                                                                        Science, 18, 32–36.
+Klonsky, E. D., Oltmanns, T. F., & Turkheimer, E. (2002). Informant-       Pfohl, B., Blum, N., & Zimmerman, M. (1997). Structured Interview
+   reports of personality disorders: Relation to self-reports and              for DSM–IV Personality (SIDP-IV). Washington, DC: American
+   future research directions. Clinical Psychology: Science and                Psychiatric Association Press.
+   Practice, 9, 300–311.                                                   Pilkonis, P., Heape, C. L., Ruddy, J., & Serrao, P. (1991). Validity in
+Kneip, R. C., Delamater, A. M., Ismond, T., Milford, C., Salvia, L., &         the diagnosis of personality disorder: The use of the LEAD stan-
+   Schwartz, D. (1993). Self- and spouse ratings of anger and hos-             dard. Psychological Assessment, 3, 46–54.
+   tility as predictor of coronary heart disease. Health Psychology,       Ready, R. E., Clark, L. A., Watson, D., & Westerhouse, K. (2000).
+   12, 301–307.                                                                Self- and peer-related personality: Agreement, trait ratability, and
+Kotov, R., Ruggero, C. J., Krueger, R. F., Watson, D., Yuan, Q., &             the “self-based heuristic.” Journal of Research in Personality, 34,
+   Zimmerman, M. (2011). New dimensions in the quantitative clas-              208–224.
+   sification of mental illness. Archives of General Psychiatry, 68,       Robins, R. W., & John, O. P. (1997). The quest for self-insight: Theory
+   1003–1011.                                                                  and research on accuracy and bias in self-report. In R. T. Hogan,
+Leising, D., Erbs, J., & Fritz, U. (2010). The letter of recommendation        J. A. Johnson, & S. R. Briggs (Eds.), Handbook of personality
+   effect in informant ratings of personality. Journal of Personality          psychology (pp. 649–679). New York: Academic Press.
+   and Social Psychology, 98, 668–682.                                     Røysamb, E., Kendler, K. S., Tambs, K., Ørstavik, R. E., Neale, M.
+Lenzenweger, M. F. (2008). Epidemiology of personality disorders.              C., Aggen, S. H., et al. (2011). The joint structure of DSM-IV
+   Psychiatric Clinics of North America, 31, 395–403.                          Axis I and Axis II disorders. Journal of Abnormal Psychology,
+Livesley, W. J., & Jang, K. L. (2000). Toward an empirically based             120, 198–209.
+   classification of personality disorder. Journal of Personality Dis-     Samuel, D. B., & Widiger, T. A. (2008). A meta-analytic review of the
+   orders, 14, 137–151.                                                        relationships between the five-factor model and DSM-IV-TR per-
+Lynam, D. R., & Widiger, T. A. (2001). Using the five-factor model to          sonality disorders: A facet level analysis. Clinical Psychology
+   represent the DSM-IV personality disorders: An expert consensus             Review, 28, 1326–1342.
+   approach. Journal of Abnormal Psychology, 110, 401–412.                 Samuel, D. B., & Widiger, T. W. (2010). Comparing personality
+Miller, J. D., Lynam, D. R., Widiger, T., & Leukefeld, C. (2001).              disorder models: Cross-method assessment of the FFM and DSM-
+   Personality disorders as extreme variants of common personality             IV-TR. Journal of Personality Disorders, 24, 721–745.
+   dimensions: Can the five factor model adequately represent psy-         Smith, T. W., Uchino, B. N., Berg, C. A., Florsheim, P., Pearce, G.,
+   chopathy? Journal of Personality, 69, 253–276.                              Hawkins, M., et al. (2008). Associations of self-reports versus
+Miller, J. D., Maples, J., Few, L. R., Morse, J. Q., Yaggi, K. E., &           spouse ratings of negative affectivity, dominance, and affiliation
+   Pilkonis, P. A. (2010). Using clinician-rated five-factor model data        with coronary artery disease: Where should we look and who
+170                                                                                                                       Carlson, Vazire, & Oltmanns
+
+
+    should we ask when studying personality and health? Health                Vazire, S., & Carlson, E. N. (2010). Self-knowledge of personality:
+    Psychology, 27, 676–684.                                                     Do people know themselves? Social and Personality Psychology
+South, S. C., & DeYoung, N. J. (2012). Behavior genetics of person-              Compass, 4, 605–620.
+    ality disorders: Informing classification and conceptualization in        Vazire, S., & Carlson, E. N. (2011). Others sometimes know us better
+    DSM-5. Personality Disorders: Theory, Research, and Treatment,               than we know ourselves. Current Directions in Psychological
+    DOI:10.1037/a0026255.                                                        Science, 20, 104–108.
+South, S. C., Oltmanns, T. F., Johnson, J., & Turkheimer, E. (2011).          Vazire, S., & Mehl, M. R. (2008). Knowing me, knowing you: The
+    Level of agreement between self and spouse in the assessment of              accuracy and unique predictive validity of self-ratings and other-
+    personality pathology. Assessment, 18, 217–226.                              ratings of daily behavior. Journal of Personality and Social Psy-
+South, S. C., Oltmanns, T. F., & Turkheimer, E. (2005). Interpersonal            chology, 95, 1202–1216.
+    perception and pathological personality features: Consistency             Watson, D., Hubbard, B., & Wiese, D. (2000). Self–other agreement
+    across peer groups. Journal of Personality, 73, 675–691.                     in personality and affectivity: The role of acquaintanceship, trait
+Srivastava, S., Guglielmo, S., & Beer, J. S. (2010). Perceiving other’s          visibility, and assumed similarity. Journal of Personality and
+    personalities: Examining the dimensionality, assumed similarity              Social Psychology, 78, 546–558.
+    to the self, and stability of perceiver effects. Journal of Personality   Widiger, T. A. (2007). An empirically based classification of person-
+    and Social Psychology, 98, 520–534.                                          ality pathology: Where we are now and where do we go. Clinical
+Swann, W. B., Jr. (1997). The trouble with change: Self-verification             Psychology: Science and Practice, 14, 94–98.
+    and allegiance to the self. Psychological Science, 8, 177–                Widiger, T. A. (2011). Integrating normal and abnormal personality
+    180.                                                                         structure: A proposal for DSM-5. Journal of Personality Disor-
+Trull, T. J., & Widiger, T. A. (1997). SIFFM: Structured Interview               ders, 25, 338–363.
+    for the Five-Factor Model of personality, professional manual.            Widiger, T. A., & Mullins-Sweatt, S. N. (2010). Clinical utility of a
+    Odessa, FL: Psychological Assessment Resources.                              dimensional model of personality disorder. Professional Psychol-
+Trull, T. J., Widiger, T. A., & Burr, R. (2001). A structured interview          ogy: Research and Practice, 41, 488–494.
+    for the assessment of the five-factor model of personality: Facet-        Widiger, T. A., Trull, T. J., Clarkin, J. F., Sanderson, C., & Costa, P. T.,
+    level relations to the Axis II personality disorders. Journal of             Jr. (2002). A description of the DSM-IV personality disorders
+    Personality, 69, 175–198.                                                    with the five-factor model of personality. In P. T. Costa, Jr., & T. A.
+Vazire, S. (2006). Informant reports: A cheap, fast, and easy method             Widiger (Eds.), Personality disorders and the five-factor model of
+    for personality assessment. Journal of Research in Personality,              personality (2nd ed., pp. 9–99). Washington, DC: American Psy-
+    40, 472–481.                                                                 chological Association.
+Vazire, S. (2010). Who knows what about a person? The self-other              Wood, D., Harms, P., & Vazire, S. (2010). Perceiver effects as pro-
+    knowledge asymmetry (SOKA) model. Journal of Personality                     jective tests: What your perceptions of others say about you.
+    and Social Psychology, 98, 281–300.                                          Journal of Personality and Social Psychology, 99, 174–190.
+

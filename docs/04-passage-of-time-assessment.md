@@ -1,6 +1,6 @@
 # Test 4: The Passage of Time Assessment (PTA)
 
-> Status: v0.22 design document. Redesigned from the v0.21 2-axis plane. The previous ZTPI-composite axis, the self-continuity axis (which collided with SSA's Self-Consistency), the Narrative Coherence designer facet, the fullness-tension logic, and the Archivist/Navigator/Storyteller/Pioneer quadrant names are all superseded. The v0.22 PTA is a validated 3-factor instrument with 8 temporal types. Each factor is one full-text-verified construct in its native unipolar agree-disagree format. See CHANGELOG v0.22.
+> Status: v0.23 design document. Adds a temporal-stance layer on top of the v0.22 three-zone-engagement factors, so the test measures both *which* temporal zones you engage and *how you relate to the passage itself*. The stance layer is grounded in Carstensen (2021, verified) on perceived time horizons. The four-stance typology (resource/weight/gift/mystery) and its combination with the zone factors are our synthesis and are unvalidated. See CHANGELOG v0.23.
 > Position: The passage-of-time-themed test of the four-test Solstice Soul suite.
 > Theme served: Passage of Time (how a person relates to time passing).
 > Honesty statement: The PTA is an original, theory-informed assessment for reflection and play. Its three factors are grounded in full-text-verified constructs: Past-Positive engagement draws from ZTPI Past-Positive (Zimbardo & Boyd, 1999) and Webster's (1993) adaptive reminiscence functions; Present-eudaimonic engagement draws from Vowinckel et al. (2015); Future engagement draws from ZTPI Future and the Future-Positive factor (Stolarski & Matthews, 2016). It is not independently validated and is not clinical. It measures the affirming range of time perspective only; Past-Negative (rumination), Present-Fatalistic (hopelessness), and Future-Negative (dread) are excluded by the suite's binding affirming scope limit (see `00-suite-framework.md` §3) and cannot be detected.
@@ -136,7 +136,47 @@ There is no facet-tension modifier and no boundary condition. Independent factor
 
 ---
 
-## 7. Question format and response scale
+## 7. Temporal-stance layer (v0.23)
+
+The three zone factors (Past-Positive, Present-eudaimonic, Future) measure *which* temporal zones you engage. The theme : the passage of time : is also about your relationship to the passage *itself*, independent of which room you are in. Time is the one medium you cannot opt out of; the deepest PTA question is how you relate to that fact.
+
+### 7.1 The stance construct
+
+A higher-order **temporal stance**: do you experience the passage of time as *resource* (something to use), *weight* (something that weighs), *gift* (something received), or *mystery* (something to dwell in)? This is not a zone; it is a stance toward the medium itself.
+
+**Grounding.** Carstensen (2021, verified, gnab116) shows perceived time horizons (expansive vs limited) reshape motivation : the perception of time is a validated individual difference and is part of the stance construct.
+
+### 7.2 Evidence vs synthesis
+
+- The three zone factors are validated (Zimbardo-Boyd 1999; Sircova 2014; Vowinckel 2015; verified).
+- Carstensen's perceived-horizon mechanism is validated.
+- **The four-stance typology (resource/weight/gift/mystery) and its combination with the zone factors are our synthesis and are unvalidated.**
+
+### 7.3 Stance items (design)
+
+A small set of items (target 4) measuring stance toward passage. The poles are the four stances, scored via forced ranking or best-fit selection:
+
+- **Resource**: "Time is something to be used well."
+- **Weight**: "Time is something I carry."
+- **Gift**: "Time is something I receive."
+- **Mystery**: "Time is something I dwell in."
+
+### 7.4 How stance modulates the result
+
+The 8 temporal types (Keeper, Witness, Wayfinder, Hearth, Bridge, Flow, Balanced, Wanderer) retain their zone meanings and gain a stance modifier. A "Keeper, Resource" reads differently from a "Keeper, Gift": the first preserves roots as a steward of something to be used; the second receives roots as an inheritance.
+
+The "weight" stance brushes the affirming scope limit (passage-as-weight can shade into hopelessness) and is reframed as "a weight you carry with dignity," with an explicit scope note that sustained passage-as-burden may warrant attention.
+
+### 7.5 Limitations
+
+- The four-stance typology is our synthesis and not directly validated as a typology.
+- The "weight" stance collides with the affirming scope limit; must be reframed and flagged.
+- Carstensen's perceived horizons correlate with age; the stance layer will too, and that must be stated.
+- The stance layer is a forced-ranking or best-fit format, a deliberate departure from the zone factors' Likert format; this adds a small interaction-cost.
+
+---
+
+## 8. Item bank and lengths
 
 **5-point agree-disagree unipolar Likert, statement format.**
 

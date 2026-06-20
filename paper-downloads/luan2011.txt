@@ -1,0 +1,1573 @@
+Psychological Review                                                                                                              © 2011 American Psychological Association
+2011. Vol. 118. No. 2. 316-338                                                                                                  OO33-295X/11/$I2.(X) DOI: 10.1037/a0022684
+
+
+
+
+                           A Signal-Detection Analysis of Fast-and-Frugal Trees
+
+                                  Shenghua Luan                                                     Lael J. Schooler and Gerd Gigerenzer
+         Singapore Management University and Max Planck                                             Max Planck Institute for Human Development
+                 Institute for Human Development
+
+
+                                 Models of decision making are distinguished by those that aim for an optimal solution in a world that is
+                                 precisely specified by a set of assumptions (a so-called "small world") and those that aim for a simple
+                                 but satisfactory solution in an uncertain world where the assumptions of optimization models may not be
+                                 met (a so-called "large world"). Few connections have been drawn between these 2 families of models.
+                                 In this study, the authors show how psychological concepts originating in the classic signal-detection
+                                 theory (SDT), a small-world approach to decision making, can be used to understand the workings of a
+                                 class of simple models known as fast-and-frugal trees (FFTs). Results indicate that (a) the setting of the
+                                 subjective decision criterion in SDT corresponds directly to the choice of exit structure in an FFT: (b) the
+                                 sensitivity of an FFT (measured in d') is reflected by the order of cues searched and the properties of cues
+                                 in an FFT, including the mean and variance of cues' individual d's. the intercue correlation, and the
+                                 number of cues; and (c) compared with the ideal and the optimal sequential sampling models in SDT and
+                                 a majority model with an information search component, FFTs are extremely frugal (i.e., do not search
+                                 for much cue information), highly robust, and well adapted to the payoff structure of a task. These
+                                 findings demonstrate the potential of theory integration in understanding the common underlying
+                                 psychological structures of apparently disparate theories of cognition.
+
+                                 Keywords: signal-detection theory, fast-and-frugal trees, theory integration
+
+                                 Supplemental materials: http://dx.doi.org/10.1037/a0022684.supp
+
+
+
+
+   In recollecting September 11, 2001, Louis Cook of the Emer-                            decision accuracy under tbe constraints of limited information,
+gency Medical Services division of the New York City Fire                                 time, and resources. In tbe terminology of Leonard J. Savage
+Department noted bow the triage system Simple Triage and Rapid                            (1954) and Ken Binmore (2009), they are explicitly designed to
+Treatment (START) helped his team prioritize victims and identify                         deal witb "large world" problems.
+the ones who needed help the most (Cook, 2001). START classi-                                Following Savage (1954), the father of modern Bayesian deci-
+fies the injured into two major categories: those who need medical                        sion theory, we distinguish between the concepts of small and
+treatment immediately and those whose treatment can be delayed.                           large worlds. Savage's prototypical example of a small world is a
+Wben employing START, which is illustrated in Figure 1, a                                 lottery, the stock-in-trade of many decision-making studies. In a
+paramedic sequentially checks up to five diagnostic cues to decide                        small world, a person is assumed to have perfect knowledge of all
+which category a person falls into; a decision can be made after
+                                                                                          aspects of the situation, including all the states in which he or she
+each cue is checked. In essence, START is a decision tree with a
+                                                                                          could be (e.g., winning or losing), all tbe acts he or she could
+very simple and transparent structure. Using this type of tree, a
+                                                                                          perform (e.g., play Gamble A or B), every possible consequence as
+person does not need to search for and integrate all the relevant
+                                                                                          a result of eacb act and state (e.g., gain $6 if Gamble A is played
+information to reach a decision; thus, a decision can be quickly
+made with little effort. Such trees are designed to help people make                      and won), and tbe probability of each consequence (e.g., 40% of
+decisions in real settings, potentially achieving a high level of                         winning $6 under Gamble A). Tbere are no surprises in a small
+                                                                                          world, so an optimization calculus such as Bayes's rule can be
+                                                                                          applied to define tbe best or "rational" action. A person is further
+                                                                                          assumed to have abundant time and resources to determine the best
+   This article was published Online First March 7, 2011.
+                                                                                          action by processing all relevant information.
+   Shenghua Luan, School of Social Sciences, Singapore Management
+University, and Center for Adaptive Behavior and Cognition, Max Planck                       Louis Cook's paramedic team, in contrast, had to deal with a
+Institute for Human Development, Berlin, Germany; Lael J. Schooler and                    large world that did not provide full information. In a large world,
+Gerd Gigerenzer, Center for Adaptive Behavior and Cognition, Max                          one may have only limited knowledge about tbe decision being
+Planck Institute for Human Development.                                                   faced, contingencies and probabilities may change over time,
+   We thank Jonathan Evans, Mario Fific, Kevin Gluck, Konstantinos                        unexpected consequences or surprises may happen, only limited
+Katsikopoulos, Michael Lee, Björn Meder, Jonathan Nelson, Jan Woike,
+                                                                                          time may be available to contemplate the decision, and there may
+and members of the ABC Research Group for their helpful comments, and
+Anita Todd and Rona Unrau for editing the article.
+                                                                                          not exist a single criterion to evaluate decision options so that one
+  Correspondence concerning this article should be addressed to Shenghua                  of tbem could be bailed as the best. Savage noted tbat it is always
+Luan, Level 4, 90 Stamford Road, School of Social Sciences, Singapore                     possible to look before you leap in a small world, but we live in a
+Management University, Singapore, 178903. E-mail: shluan@smu.edu.sg                       large world, where it is exceedingly difficult to optimize anything
+
+                                                                                    316
+                                                             ..i
+                                        SIGNAL-DETECTION ANALYSIS OF FAST-AND-FRUGAL TREES                                                                     317
+
+
+
+
+                                                       Perfusion; radial pulse present and
+                                                             eapillary renil < 2 sec?
+
+
+                                                       Yes                            -,     No
+
+
+
+                                          Mental: can follow simple                           Immediate
+                                                commands?
+
+                                  Yes                            No
+
+                                                                      14
+                                                                      Immediate
+
+
+
+
+                   Figure 1. A schematic version of the Simple Triage and Rapid Treatment (START) procedure, which
+                   categorizes patients into those who need immediate medical treatment and those whose treatment can be delayed
+                   (Super, 1984).                              i                    ,.          ,    i ., %
+
+
+with even ordinary complexity, so we are well advised to live by                       Chapter 2), was first applied in psychology to study perception and
+the adage, "We can cross that bridge when we come to it."                              sensation (Tanner & S wets, 1954). However, over the years, SDT
+   Savage believed that one could not take optimization models                         has been applied in many other areas of psychology, such as
+designed for small worlds as models of how people make decisions                       categorization (e.g., Ashby & Maddox, 1992), memory (e.g.,
+in large worlds, "because the task implied in making such a                            Wixted & Stretch, 2004), confldence judgment (e.g., Wallsten &
+decision is not even remotely resembled by human possibility"                          Gonzalez-Vallejo, 1994), eyewitness testimony (e.g., Birnbaum,
+(Savage, 1954, p. 16). This view serves to highlight the contrast                       1983), group decision making (e.g., Sorkin, Luan, & Itzkowitz,
+between the one half of his book that is devoted to developing                         2004), reasoning (Dube, Rotello, & Heit, 2010), and mate choice
+Bayesian decision theory for small-world problems with the other                       (e.g., Haselton & Buss, 2000). The most important contribution of
+half on heuristics for decision making in large worlds. Today,
+                                                                                       SDT to the study of human cognition is distinguishing between
+psychological theorizing is similarly split into the study of how
+                                                                                       sensitivity and decision bias and developing methods to measure
+people's decisions can be described by complex optimization
+                                                                                       the two separately.
+models that operate in small worlds and how people use simple
+heuristics in large worlds, with scant interaction between the two                        The upper part of Figure 2 illustrates the main assumptions and
+approaches (but see Hogarth & Karelaia, 2007, and Pleskac, 2007,                       concepts of SDT as it is applied to a binary decision task,' and
+for exceptions). Does this split imply that we must seek the one                       Table 1 lists details of some commonly used SDT terms. The
+true path?                                                                             fundamental assumption of SDT is that the two types of events,
+   Our answer is no. Instead, we propose dealing with this schism                      traditionally called sigtud and noise, have overlapping distribu-
+by starting with the following question: Can we better understand                      tions on an observation scale X. After setting a decision criterion
+heuristic decision making in large worlds with lessons leamed                          on this scale (x,., as in Figure 2), four decision outcomes are
+from small-world theories? This article is our attempt at an answer.                   possible: hit, false alarm, miss, and correct rejection. Two mea-
+We apply well-studied concepts and methods associated with one                         sures, d' and c, are popularly adopted in SDT to quantify sensi-
+small-world theory, signal-detection theory (SDT), to understand
+the nature of a class of large-world models, namely fast-and-frugal
+trees, of which START is an example. At a general level, this
+article contributes to what we believe to be a crucial issue in
+psychological science, the integration of theories. We start by
+briefly introducing SDT and fast-and-frugal trees.                                        ' Such binary decision tasks are traditionally referred to as yes-no tasks
+                                                                                       in SDT. In a yes-no task, a stimulus is displayed and the person identifies
+                   Signal-Detection Theory                                             whether it is a member of one particular category or not. It should be
+                                                                                       distinguished from a two-alternative forced-choice or 2AFC task, in which
+  SDT, originating from the statistical theory of Neyman-Pearson                       two stimuli, each from a different category, are presented, and the person
+hypothesis testing (Gigerenzer, 1991; Gigerenzer & Murray, 1987,                       indicates which of them is a member of a category of interest.
+318                                                         LUÁN, SCHOOLER, AND GIGERENZER
+
+
+                                                                                                          _/(x/signal)
+
+
+
+
+                                                                                      "signai"
+
+                                                                •'   Decision criterion x
+
+
+
+
+                                                 m         i                          mi                         m' i
+                                           î)^
+                                        (Cue?)
+                                                      (CUS)
+                                                "•"CD m " 1
+                                                 Cl] ö
+                                                                                             T           '•"CD m " T
+                                                                                                                         íJcüS)
+
+
+                                                                                      cT]'               ~czi ca'
+                                         FFT„            FFT„                                    FFT„.                    FFT„
+
+
+
+                          Figure 2. Where is the decision criterion in a fast-and-frugal tree (FFT)? The upper part of the figure illustrates
+                          the main assumptions and concepts of signal-detection theory (SDT) in a binary decision task, and the lower part
+                          illustrates the four possible FFTs that can be constructed when three cues are searched in a set order. Based on
+                          the decisions pointed to by the first two exits, the trees are named from left to right FFT^,, FFr,„, FFT„„ and
+                          FFr„„. The arrows connecting the figure parts indicate the rough locations of the four FFTs' decision criteria
+                          when they are used to make a binary s/n (for signal and noise, respectively) decision. Among the four. FFÎ,,, has
+                          the most liberal decision criterion, and FFT„„ has the most conservative one. The decision criteria of FFT^p and
+                          FFT„5 are less extreme than the other two, with FFT^^ being more liberal than FFT^^. The two overlapping
+                          normal distributions next to each cue illustrate SDT's assumption about how object values are distributed on a
+                          cue and emphasize that each cue comes with its own sensitivity and decision criterion (in d' and c, respectively;
+                          see Table 1).
+
+
+        (or true decision accuracy) and decision bias, respectively.                                                                                    ... xJsignaY)
+In an empirical setting, with the knowledge of the frequency of
+hits and the frequency of false alarms—P(Hit) and /'(FA),
+respectively—d' and c can be calculated using the equations in                                   that represents the integrated information from those cues. The
+Table I. More detailed introductions to SDT can be found in                                      second step is decision making: A decision is made by comparing
+Macmillan and Creelman (2005), and Stanislaw and Todorov                                         the joint likelihood ratio LR(Ar,) with ßoptimai- This two-stage
+(1999).                                                                                          process assumes that one possesses full knowledge of the joint
+   When decision outcomes differ greatly in their consequences,                                  distributions of the two decision events, information from all cues
+the main concern of a decision maker often turns from simply                                     is available, no error occurs in calculating LR(.Ï,), and the value of
+making an accurate decision to instead making one with high                                      ß..piimiii can be precisely estimated. Because these assumptions are
+expected value. To maximize expected value, according to Green                                   unlikely to be met in realistic settings, the process is often por-
+and Swets (1966), decision makers should base their decisions on                                 trayed as ideal, resulting in ideal performance.
+the likelihood ratio of an observation—LR(J:) = /(.v/signal)//(x/                                   One critical assumption of the ideal, or the ideal observer, model
+noise)—and adopt a decision criterion based on the likelihood ratio                              is that information from all cues can be obtained, which is often
+called ß„p,in,„|. The equation for calculating ß„p,im„| (see Table 1)                            not the case. When information must be sampled in sequence and
+shows that a decision criterion should be set by factors that do not                             at a cost, it is desirable to implement a stopping rule to limit
+depend on decision sensitivity {d'), and depending on the specific                               information search. Following Wald's generalization of Neyman-
+values of those factors, it is possible that a biased decision criterion                         Pearson theory to sequential decisions with stopping rules (Wald,
+(ßoptimai "^ 1, c =?'^ 0) fits better to a task than an unbiased one                              1947), a class of sequential sampling models with Bayesian infor-
+(ßoptimal   =   l . C =   O).                                                                    mation updating mechanisms has been developed (e.g., Bogacz,
+    Besides distinguishing between sensitivity and bias and formu-                               Brown, Moehlis, Holmes, & Cohen, 2006; Busemeyer & Rapo-
+lating the optimal decision criterion in the processing of informa-                              port, 1988; Busemeyer & Townsend, 1993; Edwards, 1965; Vick-
+tion from one source or cue, SDT also contributes to the study of                                ers, 1979). Figure 3 illustrates a general sequential sampling model
+decision making with multiple sources or cues. According to SDT,
+achieving the best possible sensitivity with m cues requires two
+steps. The first is integration: Observations from all cues (x¡,X2 . . .                            ^ In some fields, especially medicine, the term sensitivity refers to the hit
+x,„) need to be converted to a joint likelihood ratio statistic.                                 rate and specificity refers to the correct rejection rate.
+                                                   SIGNAL-DETECTION ANALYSIS OF FAST-AND-FRUGAL TREES                                                              319
+Table 1                                                                                    ^                           I -
+List of Commonly Used Signal-Detection Theory Terms, Their Definitions/Measurements, and Some E.xplanatory Notes
+
+       Term                                   Definition/measurement                                                            Notes"
+
+Hit                                        Respond "signal" given signal                       Complementary to miss
+False alarm (FA)                           Respond "signal" given noise                        Complementary to correct rejection (CR)                        '
+d'                                         zHit - zFA                                          zHit and cFA are the ; scores of the hit rate and the FA rate,
+                                                                                                 respectively: d' reflects the standardized distance between the signal
+                                                                                                 (S) and noise (N) distributions
+                                           -0.5 X (zHil + zFA)                                 c > 0: ron.vfn'íif/i'í' bias, making more noise than signal decisions
+                                                                                                 relative to prior probabilities
+                                                                                               c < 0: liberal bias, making more signal than noise decisions relative to
+                                                                                                 prior probabilities
+                                                                                               f = 0: neutral bias, making decisions consistent with prior probabilities
+ßop,ln,„l                                  V(CR) - V(FA)                                       P(N) and P(S) are prior probabilities of the two decision events: V(Hit),
+                                           V(Hit) - V(Miss)                                      V(Miss), V(CR),andV(FA) are expected values of the four decision
+                                                                                                 outcomes; with a certain d': c„„,:„,| =
+
+" Readers who are not familiar with signal-detection theory may .see our online supplementary materials for a more detailed introduction to the theory,
+including some concrete examples demonstrating the calculations of d' and c.
+                                                                                       k
+for a binary decision task. Besides the decision criterion ßopümai-                            probabilities. An early application of this modeling approach in
+two other criteria exist: ß^ for signal and ß„ for noise. During the                           SDT can be found in the work of S wets and Green (1961), and a
+sampling process, whenever the integrated likelihood ratio LR(.v,)                             more recent one in Luan, Sorkin, and Itzkowitz (2010).
+exceeds ß, or ß„, search stops and a decision is made. If after                                   Compared with the ideal SDT model, an advantage of the
+searching all cues LR(.v,) still falls between the two criteria, a                             optimal sequential sampling (OSS) model is its ability to tackle the
+decision is made by comparing LR(,v,) with ß„p,in,ai-                                          problem of information search, which is inherent in almost all
+   The aim of a normative sequential sampling model is to find                                 large-world tasks. But this does not necessarily validate OSS as a
+criteria (i.e., ß„p,j,n„|, ß», and ß„) that maximize the expected value                        large-worid model. On the contrary, the OSS model actually
+of the decisions at hand. The values of those optimal criteria                                 manifests many characteristics of a small-world model because of
+depend on many factors, including the sensitivity, decision bias,                              its demanding knowledge and computational requirements. The
+and cost of each cue to be sampled; sampling order of those cues;                              OSS model belongs to a broad class of models that optimize under
+and all the factors that influence the formation of ßoptimah ^s                                constraints. As pointed out by Gigerenzer and Todd ( 1999), "the
+shown in Table I. Moreover, the model assumes that information                                 paradoxical approach of optimization under constraints is to model
+is integrated in a Bayesian way; that is, the likelihood ratio statistic                       'limited search' by assuming that the mind has essentially unlim-
+LR(A,) is derived based on the distributional characteristics of cues                          ited time and knowledge with which to evaluate the costs and
+sampled from both the signal and noise distributions and their prior                           benefits of further information search" (p. II). In contrast, fast-
+                                                                                               and-frugal trees such as START deal with realistic constraints by
+                                                                                               sidestepping the process of optimization. In the following, we
+                                                 ,m.i       r                 LR(x,)           specify the properties of fast-and-frugal trees and how people use
+                                                                                               them to solve large-world problems.
+            Cue 1                                               Whenever
+                                     ^ ^                        LR(jc,)>ß..
+                                                                "signal"                                            Fast-and-Frugal Trees
+            Cue 2                                                                                 SDT has been used as a model for both how people make
+                                                                               I •
+                                                                                               decisions (descriptive) and how they ought to make decisions
+                                                                                               (prescriptive). Similarly, fast-and-frugal trees (FFTs) have also
+                                                                                               been proposed as descriptive and prescriptive models in large
+            Cue.1
+                                                                                               worlds. Before fonnally defining FFTs, we provide some exam-
+                    Whenever                                                                   ples of their applications. START is an FFT that prescribes how
+                    LR(.ï,)< ß,.
+                    "noise"                                                                    paramedics should classify patients when confronting an over-
+                                   When i<i.Kx KB. after                                       whelming number of casualties. Another FFT, illustrated in Fig-
+                                   all cues searched, compare                                  ure 4a, has been used by emergency room doctors to decide
+                                   LR(x,) wi
+                                                                                               whether to send a patient suffering from severe chest pain to a
+                                                                                               regular nursing bed or the coronary care unit (CCU; Green &
+Figure 3. An illustration of a general sequential sampling model in which
+                                                                                               Mehr, 1997).
+three cues are searched in a set order. LR(.Ï,) is the likelihood ratio statistic
+that result.s from integrating information from the cues; ß, and ß„ are the                       Following this FFT, a doctor should send a patient to the CCU
+criteria used to stop search and make a decision in favor of signal or noise,                  if (a) the patient has ST segment changes (in tbe ECG) or (b) chest
+respectively: ß„p,i„„| is the optimal decision criterion used to make a                        pain is the patient's chief complaint, plus there is any sign of
+decision if LR(A:,) failed to cross either ß^ or ß„ after all cues are searched.               danger in any one of five other diagnostic cues. Green and Mehr
+320                                                         LUÁN, SCHOOLER, AND GIGERENZER
+
+
+
+                                                                                                                     Did prosecution request
+                                                                                                                 conditional bail or oppose bail?
+
+                                                                                                                                                     Yes
+
+                                                                                                          NoorRA.
+                                                                                                                                                    Punitive
+
+                                                                                                  Did previous court impose
+                                                                                               conditions or remand in custody?
+
+
+                                                                                                                                  \   Yes
+                                                                                          NoorN.A.
+                                                                                                                                      Punitive
+                                 Any other factor?                               Did police impose conditions or
+                           (NTG, MI, ST<->, S T Î i , T Î i )                             remand in custody?
+
+
+                                                      Yes                NoorN.A.     /
+
+                     Regular                         Coronary
+                   Nursing Bed                       Care Unit             Nonpunitive                         Punitive
+
+
+                   Figure 4. Two examples of tast-and-frugal trees (FFTs) applied to large world problems. The left tree (a) is
+                   designed to help emergency room doctors decide whether to send a patient with severe chest pain to the Coronary
+                   Care Unit (CCU) or a regular nursing bed (Green & Mehr, 1997). The right tree (b) is a model of how British
+                   judges decide whether to make a punitive bail decision (Dhami, 2003).
+
+
+
+(1997) found that, compared with a logistic regression model that               Tree models of categorization and decision making have been
+uses eight cues simultaneously to make a decision, this FFT had a            studied in a variety of disciplines, such as medicine, applied
+higher overall predictive accuracy, in addition to its advantages in         statistics, computer science, and psychology (e.g., Breiman, Fried-
+frugality (i.e., number of cues checked to make a diagnosis) and             man, Stone, & Olshen, 1984; Busemeyer, Weg, Barkan, Li, & Ma,
+speed. Moreover, its transparency means that doctors can easily              2000; Green & Mehr, 1997; Quinlan, 1993). Martignon and col-
+understand how the diagnostic system works, whereas lack of                  leagues conceptualized FFTs as a class of simple tree models that
+transparency has contributed to doctors' resistance to complex               categorize or make decisions with limited information search (e.g.,
+expert systems, such as logistic regression. Medical experts rely on         Martignon, Katsikopoulos, & Woike, 2008; Martignon, Vitouch,
+other FFTs as decision aids in clinical practice, such as when               Takezawa, & Forster, 2003). Because the lines between categori-
+performing HIV testing (Gigerenzer, Hoffrage, & Ebert, 1998),                zation and decision making are often murky (Ashby & Berretty,
+performing mammography screening (Welch, 2004, p. 36), and                   1997), we frame FFTs in this study as decision models, highlight-
+prescribing antibiotics to children (Fischer et al., 2002).                  ing the consequences associated with the outcomes of categoriza-
+   FFTs are not just prescriptive but descriptive models of decision         tion.
+making as well. Figure 4b shows an FFT that judges in London                    In tasks where a binary decision needs to be made (e.g., imme-
+appear to use when deciding whether to make a punitive bail                  diate or delayed treatment as in the triage problem) and there are
+decision (i.e., imprisonment or bail with restrictions) or a nonpu-          m cues available for making such a decision, an FFT is defined as
+nitive one (i.e., unconditional bail). According to Dhami (2003),            follows:
+there are 25 cues that potentially could be used to make this
+                                                                                    Definition: A fast-and-frugal tree is a decision tree that has m -H 1
+decision. Based on 342 bail hearings by 116 judges in two London
+                                                                                    exits, with one exit for each of thefirstm - 1 cues and two exits for
+courts, she found that FFTs involving only three cues both fit and                  the last cue.
+predicted the judges' decisions better than a linear model using all
+25 cues. Figure 4b shows the tree for one London court (the tree                 An FFT is composed of sequentially ordered cues. To make
+for the other court is identical except for one cue). Moreover,               a decision, an FFT starts by checking an object's value on the
+Dhami and colleagues found that other types of legal decisions                first cue. If it meets the exit condition of the cue, which is
+made by British judges are similarly well described by FFTs (e.g.,            generally framed as an if-then statement (e.g., if a person can
+Dhami & Ayton, 2001; Dhami & Harries, 2001). Additional evi-                  walk, then delayed), a decision is made and no other cues need
+dence for FFTs as descriptive models has been reported for deci-              to be checked. Otherwise, an FFT considers the other cues one
+sions based on vignettes about whether to prescribe medication to             after another until the exit condition of a cue is met. The last
+treat depression (Smith & Gilhooly, 2006) and whether to admit                cue of an FFT has two exits, to ensure that a decision will be
+children suffering from asthma to the hospital (Kee et al., 2003), as         made in the end. Among all trees that could be constructed from
+well as human participants' responses, in terms of both reaction              a group of ordered cues, an FFT has the minimal number of
+time and accuracy, in classic categorization tasks (Fific, Little, &          exits. In contrast, a full tree has the maximum. For the triage
+Nosofsky, 2010).                                                              problem to which START is applied (see Figure 1), a full tree
+                                      SIGNAL-DETECTION ANALYSIS OF FAST-AND-FRUGAL TREES                                                  321
+
+would have 2', or 32, exits, each of which indicates a decision          SDT, the mind works like an intuitive statistician that sets
+for a unique cue profile (e.g., delayed for patients with a cue          decision criteria and is characterized by its sensitivity d'. FFTs
+profile of ["able to walk," "able to breatbe," "respiration rate is      search through cues sequentially and stop search after the first
+nortnal," "perfusion is normal," "can follow simple com-                 cue that allows them to do so. From the vantage point of SDT,
+mands"]). In essence, a full tree maps eacb possible cue profile         one may wonder: Where is the decision criterion in an FFT?
+to a decision but always searches through all available cues.            Where is its sensitivity? In what follows, we apply well-
+   TTie .structure of a full tree can be simplified. For example, if a   developed methodologies, measures, and concepts of SDT to
+person can walk without assistance, the person can surely breathe.       answer these questions and to gain a better understanding of the
+Thus, the exits in a full tree that match to cue profiles ["able to      psychology underlying FFTs. In Studies 1 and 2, we first ask
+walk," "not able to breathe"] make little practical sense and hence      whether there is a decision criterion in an FFT; if so, how is it
+can be removed from consideration or pruned. Because pruned
+                                                                         reflected in an FFT's structure, and bow can it be adjusted?
+trees often lead to better decision performance tban full trees,
+                                                                         Second, how is sensitivity implemented in an FFT, and how can
+pruning methods are central to the study of decision trees (e.g.,
+                                                                         it be improved? In Study 3, we compare the decision-making
+Quinlan, 1993). With respect to structure, an FFT can be viewed as
+                                                                         quality of the two theories in terms of sensitivity, frugality,
+a decision tree whose exits cannot be further pruned, although the
+construction of an FFT requires no actual pruning, as its number of      predictive accuracy, and expected value.
+exits is predefined.
+    Because of its simple structure, an FFT may possess three
+advantages over other decision models, including other types of                 Study 1: Where Is the Decision Criterion in
+trees. First is its frugality, defined as the number of cues needed to                     •    an FFT?
+make a decision in a given task (Martignon et al., 2008). Frugality
+is particularly desirable when information acquisitioti comes at            The main conceptual contribution of SDT is to disentangle
+some cost (e.g., time, effort, money). Because an FFT searches for       sensitivity (d'), a measure of pure accuracy, from decision crite-
+cues one by one, striving to make a decision after each cue, it can      rion (c). It has been widely observed tbat wben making a decision,
+be highly frugal. The second is its simple decision rule. Unlike         botb sensitivity and decision criterion strongly influence tbe out-
+models that weight and add information, an FFT bases its decisions       come of a person's decision (Green & S wets, 1966). Yet there has
+on the exit condition associated with each cue; thus, implementing       been no systematic investigation of these two concepts in the
+an FFT requires knowing only the order in which the cues are             research of FFTs. In this study, we show how decision criteria are
+checked and their exit conditions. Similar lexicographic decision        manifested in the structure of an FFT.
+models (e.g., take the best, elimination by aspects) not only require
+less mental effort to execute tban tbe weighting-and-adding mod-
+els (e.g.. Mata, Schooler, & Rieskamp, 2007; Payne, Bettman, &
+                                                                         Decision Criterion in the CCU Ailocation Tree
+Johnson, 1993) but also make tbe process of decision making more
+transparent and easier to communicate and understand (e.g., Reilly          To demonstrate the mapping from SDT to FFTs, let us return to
+et al., 2002).                                                           the CCU allocation tree illustrated in Figure 4a. On the basis of this
+   The third advantage of an FFT is its potential for robustness.        tree, physicians assign patients to a regular nursing bed or the
+One important goal of a model is to make accurate predictions            special coronary care unit. Maintaining the same cue order as in
+based on known data. Complex models with many free parameters            this tree, four possible FFTs, each with a unique exit structure, can
+can usually fit known data well but may achieve this by fitting
+                                                                         be constructed; they are shown in the lower part of Figure 2.
+spurious relations specific to a sample. As a result, their predictive
+                                                                         Designating the four FFTs by tbe decisions associated with their
+accuracy in a new sample may suffer (e.g., Myung, Forster, &
+                                                                         first and second exits, we refer to them from left to right as FFT^^,
+Browne, 2000). When there is a discrepancy between a model's
+                                                                         FFT^„, FFT,,,,, and FFT,,„. If a CCU decision is represented by an
+fitting and predictive accuracy, the model is said to overfit the
+data, and the more a model overfits, the less robust it is likely to     "s" exit, then the CCU allocation tree would be designated as an
+be. The simplicity of FFTs makes them less susceptible to over-          FFT,„. Now the question is: How does the decision criterion of that
+fitting and thus more robust. Martignon et al. (2008) offered some       tree differ from the otbers?
+supportive evidence by comparing the performances of three                  On the basis of tbe data used to develop the CCU allocation tree,
+models—FFTs, logistic regression, and a complex decision tree            we calculated the bit and FA rates of the four FFTs, shown in
+named CART—in 30 different tasks. They found that FFTs had               Figure 5. Graphical displays like Figure 5 are often employed in
+the most stable performance across different training sample sizes,      SDT to illustrate the performance of a decision maker by plotting
+and when the training sample sizes were small, FFTs performed            /"(Hit) and /'(FA), or tbeir transformed c-values zH\t and ;FA,
+nearly as well as the other models in terms of the total number of       against each other. Such displays illustrate the receiver operating
+correct decisions made.                                                  characteristic (ROC) of a decision maker, and the [P(FA), /'(Hit)]
+                                                                         and [zFA, cHit] spaces are often referred to as the ROC space and
+                                                                         the jROC space, respectively. Figure 5 shows tbat tbere is a
+              FFTs Through the Lens of SDT
+                                                                         systematic shift in decision criteria associated witb each of the four
+  The psychology underlying FFTs appears to have little in               FFTs. From FFT,,,, to FFTj,^, it is clear that the decisions made by
+common with that of SDT, although botb are applied to the                an FFT become more and more liberal. The bias measures c of the
+same binary decisioti tasks with multiple cues. According to             four trees are 0.37, -0.31, -0.88, and -1.47 for FFT„„, FFT„,,
+322                                                     LUAN, SCHOOLER, AND GIGERENZER
+
+
+              1                          *                   •
+                                          FFT„               FFT«
+
+                                  FT™                                                                    -I- p[(x„, < JT,,) n {x„2 > x,2) n ix„, >
+            0.8
+
+
+
+            0.6         •FFT„
+
+
+            0.4
+
+
+            0.2
+                                                                                   Note that the equations for the hit and FA rates under each FFT
+                                                                                are the same except for the category from which an object is
+                                                                                drawn. The hit (and FA) rate of each FFT is the sum of the hit (and
+              0-
+                                                                                FA) rates contributed by its cues. For an FFT^n, of which the CCU
+                         0.2       0.4           0.6   0.8
+                                                                                allocation tree is an instance, there are two components in its hit
+                                         P(FA)
+                                                                                rate: one from the first cue P{x,¡ > x^.,), the probability that an "s"
+Figure 5. The performance of four fast-and-frugal trees (FFTs) in the           decision can be made by this cue, and the other from the third cue
+receiver operating characteristic (ROC) space. Retaining the same cue           P[(x,¡ < X,,) n {x,2 > x,2) n (A:,3 >             ], the probability that
+order, the four FFTs are composed of the three cues used in the CCU             this cue makes an "s" decision given that neither of the flrst two
+allocation tree (see Figure 4a for an illustration). The CCU allocation tree    cues can make a decision.
+is of the type FFT^„, in which "s" represents a decision to send a patient to      When comparing two decision makers, if both the hit and FA
+the CCU and "n" a decision to send a patient to a regular nursing bed.          rates of one are higher than those of the other, then the former has
+                                                                                a more liberal decision bias than the latter."* Keeping this in mind,
+                                                                                let us first compare the hit and FA rates of the two trees FFT^^ and
+                                                                                FFT,„. Because both FFT,, and FFT,„ have an "s" exit on the flrst
+     ^n, and FFT,.,, respectively.' Thus, it appears that having more
+                                                                                cue, the first components of their hit rates are identical. Their
+"s" exits in an FFT and having these exits earlier in the cue
+                                                                                second components, however, differ. Particularly, the probability
+sequence lead to a more liberal bias. However, given the limited
+                                                                                specified in the second component of FPT,^, P[(x^¡ < x^.¡)n{x^2 -*
+data from which the four trees are constructed (sample size = 89),
+                                                                                x^2)]' catinot be lower than the probability specifled in the second
+the generality of this result is unclear. To examine whether such a
+                                                                                component of FFT,„, f^(x,.¡ < x^.¡)r\(x,.2 -^ •''Í2)'^(-*V3 -^ x,.^)],
+bias shift is systematic, we compared analytically the hit and FA
+                                                                                because the latter is a subset of the former. Given that a third
+rates of the four FFTs that are composed of three cues ordered in
+                                                                                component exists in the hit rate of FFT,, but not in FTT,n, the
+a certain sequence.
+                                                                                overall hit rate of FFT,, cannot be lower than that of FFT,„. The
+                                                                                same relation holds for the two trees' FA rates as well.
+Decision Criteria of Three-Cue FFTs                                                 Now let us examine the hit and FA rates of FFT,„ and FFT„,.
+    Following the terminology in SDT, an object is assumed to                   From the equations of their hit rates, we see that the two compo-
+belong to either the signal or the noise category, and there are two            nents of FFT„3's hit rate, P[(x,¡ > x^.,)(^{x,2 > x^.2)] and Pí{x,¡ >
+corresponding distributions of object values for each cue. If an                .r^,)n(Ar,2 < Jr^.2)n(j:,, > x^.^)], are actually both subsets of the flrst
+object is from signal, it has the cue profile [x^^, x^2' •'^s.il' 'f which      component of FFT^^'s hit rate, P{x,,^ > x^.¡), and the two are
+jtj, represents the object's value on the /th cue; if it is from noise,         mutually exclusive. Thus, even if the second component of
+the cue profile is lx„,,x„2, X^T,]- Provided that the decision criteria         FFT,„'s hit rate is zero, the overall hit rate of FFT,„ cannot be
+of the three cues are íx^¡, x^2' ^cjl' based on their exit structures,          lower than that of FFT^^, nor can its FA rate be lower than that of
+the hit and FA rates of the four FFTs can be expressed as the                   FFTjij. Following a similar deduction process, it can be shown that
+following:                                                                      the hit and FA rates of FFT^, cannot be lower than those of FFY„„
+                                                                                either.                                                       ; • '
+                      > x,¡) + /»[(x,, < X,,) n (xa > x,,^
+
+                          -h p[(x,i < X,,) n (x,2 < x,2) n          >              ' When the hit rate is 1. as is the case for both the FFT,„ and the FFT,,
+                                                                                trees in the CCU allocation example, c and d' cannot be calculated using
+                                                                                the standard equation. In keeping with the convention in SDT (e.g.,
+                                                                                Stanislaw & Todorov. 1999). we used a modified hit rate detmed as (N -
+                                                                                0.5)IN, where N was the number of signal trials (or patients who really
+                                                                                needed to be admitted to the CCU) in the sample. This modified hit rate
+                                                                                was then used to calculate the decision criteria (c) and sensitivities (d') of
+                                                                                the FFr,„ and the FFT,, trees.
+                                                                                   " From Table 1, it can be seen that the larger the sum of ;Hit and zFA,
+                                                                                the lower the value of c and. hence, the more liberal a decision maker.
+                                                                                Because z(x) is a monotonie function of x, if both P(Ha) and P(FA) of a
+                                                                                decision maker A are larger than those of another decision maker B, the
+                                                                                sum of ;Hit and zFA of A is also larger than that of B. Thus, A should have
+                                                                                a more liberal decision bias than B.                   i •
+                                      SIGNAL-DETECTION ANALYSIS OF FAST-AND-FRUGAL TREES                                                          323
+   To summarize, both hit and FA rates will decrease successively         The difference is that in SDT, the adjustment can be done contin-
+as we transform the tree from FFT,, to FFT,,,, FFT„,, and FFT„„.          uously because decision makers can set their decision criterion to
+Hence, its decision criterion will become increasingly conserva-          any value, but in FFTs, the adjusttnent can only be done discretely,
+tive. The relative decision criteria of the four FFTs are illustrated     limited by the number of FFTs that can be constructed. With the
+in Figure 2. Because FFT,, is the most liberal tree and FFT,,,, the       finding that the psychological concept of decision criterion in SDT
+most conservative, we refer to them as the strictly liberal and           can indeed be refiected in the structure of an FFT, we now ask
+strictly conservative trees, respectively. In Figure 2. the trees'        whether there is also a similar correspondence between the two in
+decision criteria are projected into two normal distributions of          sensitivity.
+object values as assumed in SDT. Nevertheless, their systematic                                                I .,'.   ••:      ,,.' : n   . .
+differences hold regardless of the forms that the signal and noise
+distributions take.
+                                                                                Study 2: Where Is the Sensitivity in an FFT?
+                                                                             According to SDT, the sensitivity {d') of a decision maker
+Decision Criteria of m-Cue Fast-and-Frugal Trees                          should depend on the distributional characteristics of the person's
+                                                                          observations (see Figure 2). When there are multiple cues involved
+   When there are m cues in an FFT, the following algorithm               in the decision-making process, Sorkin and Dai (1994) showed that
+judges the relative decision bias of a pair of FFTs that are con-         the d' of an ideal observer in SDT should be sensitive to the mean
+structed from cues ordered in the same sequence:         ,                and variance of cues' individual d's, their intercue correlations,
+                                                                          and the number of cues, but not to cues' decision criteria. Inves-
+     Step 1 : Check whether the exits on each cue of the two FFTs         tigating how the sensitivity of FFTs responds to those cue prop-
+     are the same, starting from Cue 1.                                   erties is one major goal of this study. Because FFTs search cues
+                                                                          sequentially, another goal is to explore how different search orders
+     Step 2: Stop at the cue on which the two FFTs have different
+                                                                          of cues infiuence FFTs'sensitivity. ' i :          i,    M        I
+     exits.
+
+     Step 3: Infer that the hit and FA rates of the FFT with an "s"       Method
+     exit are no lower than those of the other FFT. Hence, the
+     former has at least as liberal a decision bias as the latter.           We characterize each cue by its two SDT measures: d' and c.
+                                                                          Therefore, a set of m cues can be described by two vectors: d¡ =
+The comparison algorithm is implied by a property of FFTs that            ld'¡. d'2 . .. d'„} and c, = [c,, Cj . .. c^]. In addition, the intercue
+we call lexicographic decision bias, which states that                    correlation p,^ for each pair of cues also needs to be specified.
+                                                                          Ideally, this would require the specification of a set of p,yS. How-
+    An FFT of the form FFT..,- will always be at least as liberal as      ever, to simplify the representation, we assume that all p^s are
+    another FFT of the form FFT„„,,". where ^^ represents cues that       equal, so that a set of m cues can be described by a single
+    share the same exits and „ represents cues that may or may not have
+                                                                          correlation parameter p. With m cues, there are (m!) X (2'""')
+    the same exits.
+                                                                          FFTs that can be constructed, with the first term representing the
+A detailed proof of this property can be found in Appendix A.             number of ways cues can be ordered and the second indicating the
+   Lexicographic decision bias is noncompensatory in nature,              number of available exit structures under a particular cue order.
+meaning that no matter what type of exits the cues have after the         Although various cue-ordering criteria have been proposed for
+first differentiating cue or how many subsequent cues there are, an       decision trees in general and FFTs in particular (e.g., Dhami &
+FFT==,-- will always be at least as liberal as an FFT=„„". For            Ayton, 2001; Martignon et al., 2008; White & Liu, 1994), here we
+example, suppose that there are two FFTs composed of the same             restrict our analysis to ordering cues with respect to the d' of each
+five ranked cues, one being FFT,„„„ and the other FFT,,,,,. Al-           cue. Nevertheless, in the General Discussion, we consider the
+though there is only one "s" exit in the first tree but three in the      relation between cue orders based on d' and information gain, a
+second, the former is still more liberal than the latter, because its     measure commonly used to construct decision trees.
+sole "s" exit happens to be on the first cue. This counterintuitive          By assigning specific values to the three cue properties (i//, c,,
+result is further confirmed in Study 2, where we compared FFTs            and p), we created 6,(X)6 three-cue conditions. More specifically,
+with specific cue property values. Knowledge of this lexicographic        there were 286 combinations of d'¡, generated by the following
+decision bias property will facilitate constructing an FFT with a         procedure:
+particular level of decision bias.
+                                                                               1. Start with d'¡ = [0.5, 0.5, 0.5], in which the first value of
+                                                                                  the vector i/,' represents the highest d' of a cue among the
+Summary and Discussion                                                            three and d^ the lowest;
+   We demonstrated and proved in this study that FFTs composed
+of the same ranked cues but with different exit structures differ              2.   Raise d[ incrementally by 0.2 until it reaches 2.5;
+systematically in their decision biases. Such systematic differences
+                                                                               3.   Raise dj incrementally by 0.2 until it reaches d[\
+enable decision makers to adjust their decision criterion by simply
+arranging the exit structure of an FFT without changing the order              4.   Raise d'^ incrementally by 0.2 until it reaches d^.
+of the cues that make up the tree or their specific properties. This
+makes FFTs similar to SDT in that a mechanism outside the                 Thus, the last combination of d\ was [2.5, 2.5, 2.5]. In addition,
+distributions of cues can be used to adjust one's decision criterion.     there were seven levels of the intercue correlation p (0, 0.1, 0.2,
+324                                                     LUAN, SCHOOLER, AND GIGERENZER
+
+0.3, 0.4, 0.5, and 0.6) and three conditions of c¡: (a) all neutral [0,               strictly by the order of the first k - 1 cues but is unaffected by how
+0, 0], (b) all conservative [1, 1, 1], and (c) all liberal [ - 1 , - 1 , -1].         cues are ordered between the kth and mth cues.
+Conditions with unequal c, among the three cues (e.g., [1, 0, -1])
+were also explored. Because the results from those unequal-c,                     This rule holds for any number of cues with any combination of
+conditions were fundamentally no different from those of the                      properties; we refer to it as the partial order invariance rule of
+equal-c,. conditions, we do not report them here but in the supple-               FFTs. Assuming that m = 5 and k = 3, the rule indicates that, after
+mentary materials.' In addition to the 6,006 (i.e., 286 X 7 X 3)                  the order of the first two cues is set, the sensitivity of an FFT,,,^,
+three-cue conditions, one five-cue condition, and two other three-                will remain the same no matter how the remaining three cues are
+cue conditions were analyzed to compare the effect of the number                  ordered. Together with the result in Figure 6 that a cue order
+of cues (m) on sensitivity.                                                       further deviated from the d' order will generally lead to a lower
+                                                                                  sensitivity of an FFT, this rule suggests that a decision maker
+    To calculate the d' of an FFT, we assume that cue values of an
+                                                                                  should be concerned only with the ordering of the first k — 1 cues
+object are drawn from one of two multivariate normal distribu-
+                                                                                  in an FFT and that to achieve a higher d' of the FFT, it would be
+tions, signal and noise. For noise, the means of all cue variables
+                                                                                  best to order these cues according to their d' ranking.
+were set to 0; and for signal, they were [d,', dj ... d^]. For both
+distributions, the variance of each cue variable was 1 and the
+covariance between any pair of cues was p. With these distribu-                   Effects of Cue Properties on FFTs' Sensitivity
+tional parameters, cues' standardized decision criteria [c,, Cj . . .
+c,,,] were further converted to specific cue values [x^.,, AC^.J . . . x^„,],        Figure 7 plots the performance of the four three-cue FFTs in the
+so that they could be used to calculate the hit and FA rates of an                zROC space for various cue-property conditions. Their cues are
+FFT, and in turn its d' (see Appendix B for the detailed procedure).              ordered according to their d' values (i.e., order 1-2-3). In such an
+                                                                                  ROC presentation, sensitivity can be inferred simply by taking the
+                                                                                  difference between the two coordinate values (i.e., d' = zHit —
+Effects of Cue Orders on FFTs' Sensitivity                                        zFA). Moreover, the performance of decision makers with equal
+   To examine the effects of cue order on the sensitivity of an FFT,              sensitivity but employing different decision criteria will result in
+let us start with three-cue FFTs. With three cues, six orders are                 points in this ROC space that can be fit perfectly by a straight line.
+possible. Given that each cue is named after its d' ranking, with I               Each of the four panels in Figure 7 demonstrates the effects of a
+being the highest, the six orders are 1-2-3, 1-3-2, 2-1-3, 2-3-1,                 single cue property on FFTs' sensitivity. In each panel, three levels
+3-1-2, and 3-2-1. Figure 6 shows the sensitivity of four FFTs in                  of a certain cue property are chosen for comparison purposes. At
+one cue-property condition, in which d'¡ = [1.7, 1.5, 1.3], c, = [0,              each level, the four points from left to right in the ROC space
+0, 0], and p = 0.3, and under each of the six cue orders. Results                 correspond to the performance of FFT,,,,, FFT„^, FFT,.,,, and FFTj,,
+from the other 6,005 three-cue conditions lead to the same con-                   respectively, and each point represents the average ¡performance of
+clusions as in this example.                                                      FFTs that share the same cue-property value. Moreover, for each
+   Three major results can be observed in Figure 6. First, the                    cue-property condition the mean d' of the four FFTs, d'-FFTs, is
+sensitivity of the strictly liberal and conservative trees, FFT^^ and             labeled.
+FTT„„, is not affected by cue order at all. Because a consensus                      Figure 7A shows the effect of \x.j-. the average d' of the three
+among the three cues is needed to make either an "s" decision                     cues used to compose an FFT. For the three levels of ji.^., 0.9, 1.5,
+(FFTjs) or an "n" decision (FFT„n), cue order cannot influence the                and 2.1, there are 147, 378, and 147 conditions at each level,
+overall hit and FA rates of those trees and in turn their d's. Second,            respectively. Figure 7B shows the effect of p, the intercue corre-
+for the other two trees, FFT„, and FFT,„, cue order does affect                   lation among the cues. There are 1,001 conditions at each of the
+their sensitivity. In general, the more the order deviates from the               three levels of p: 0, 0.3, and 0.6. Figure 7C shows the effect of
+cues' d' order, the lower the sensitivity of an FFT. In other words,              Varj., the variance of the three cues' individual d's. For the three
+when cues differ in their individual d', a 1-2-3 cue order generally              levels of Var^., 0, 0.33, and 0.97, there are 231, 252, and 84
+leads to a higher d' than a 2-1-3 order, which is, in turn, better than           conditions at each level, respectively. Finally, Figure 7D shows the
+a 3-1-2 order.                                                                    effect of c,, the decision criteria of the cues. There are 2,002
+   The third and probably most interesting result is that for tVl\„               conditions at each level of c,.
+and FFT„s, the two cue orders 1-2-3 and 1-3-2 result in the same                     We see from Figure 7A that an FFT's sensitivity is positively
+sensitivity, as do the orders 2-1-3 and 2-3-1 and the orders 3-1-2                related to p,^ , which reflects the overall information quality of the
+and 3-2-1. Therefore, once the first cue is set, the sensitivity of an            cues, and from Figure 7B that an FFT's sensitivity is negatively
+FFTs„ or an FFT„^ does not depend on which cue is considered                      related to p, which is often used as a measure of information
+second and which third. The explanation for this result is that cases             redundancy among cues. Figure 7C shows that the sensitivity of
+that cannot be decided by the first cue require a consensus of the                FFT,„ and FFT,,, increases with Var,,., but the sensitivity of FFT,,
+remaining cues to make either an "s" decision (FFT^,,) or an "n"                  and FPT„„ does not, as indicated by the points clustered in the
+decision (FFT,,,); in a sense, the remaining two cues result in                   leftmost and rightmost parts of the ROC space. The main reason
+strictly liberal and conservative subtrees.
+   For FFTs composed of more than three cues, the general con-
+clusions from Results 1 and 3 still hold. In fact, for FiTs com-                     ' We examined 24 unequal-c, conditions that include all 27 combina-
+posed of m cues, the following rule applies:                                      tions from c = [-1,0, 1], excluding the three equal-c, conditions, yielding
+                                                                                  a total of 48,068 (256 d¡ X 7p X 24 r,) cue-property conditions. The results
+      If the exits of an FFT are the same type from its kth to (m - 1 )th cues,   from the analysis of those conditions can be found in the online supple-
+      where 1 < it s (m — 1), the sensitivity of the FFT is determined            mental materials.
+                                         SIGNAL-DETECTION ANALYSIS OF FAST-AND-FRUGAL TREES                                                               325
+
+                                       FFT.                                         190 1                                FFT,•n                             i
+                                                                                    185
+
+
+
+
+I 175 .
+ c
+CO   1.70
+
+
+     1 65
+
+
+     1 60
+               •   [1.7.1.5, 1.3)              [1.7.1.3.1.5]                                           (1 7.15. 1.3)          • [1 7,1 3, 15)
+               • [1 5.1 7, 1 3]                [15.13,17]                                              [15.17.13)             • [1 5.1 3, 17)
+               • [1 3.1.7. 15)                 [13.15.17]                                              [1 3.1 7. 1 5]         D [1 3,1 5. 1 7)
+
+
+     190
+
+
+
+
+     160
+                   [1 7,1.5. 13]              [17.13.1.5]                                         • [1 7,15. 1 3]             • [1 7,1 3, 1 5)
+                   [15,1.7. 13)               [15,13,1.7)                                         • [1.5,1.7, 1 3]            • [15,13,17)
+                   [ 1 3 . 1 7 . 15)          [1 3,15, 1 7)                                       0 [ 1 3 . 1 7 . 1 5]        0 [13,15,17)
+
+                     Figure 6. The sensitivity id') of each three-cue fast-and-frugal tree (FFT) in a cue-property condition where
+                     d¡ = [1.7, 1.5, 1.3], c, = [0, 0, 0], and p = 0.3. In each panel of the figure, the six bars show the d's of a certain
+                     FFT under six possible cue orders; a cue order is labeled by the d's of the cues that are searched sequentially.
+                     Following the conventions in the main text, the order [1.7, 1.5, 1.3) corresponds to the order 1-2-3. order [1.5,
+                     1.7, 1.3) to the order 2-1-3. and so on.
+
+
+for this pattem of results is that when Var,,. is high, it is likely that         an FFT or the mean sensitivity of the four FFTs (d'-FFTs) as the
+the d' value of the first cue is also high. This helps increase the               predicted variables. The results of these analyses are shown in
+sensitivity of FFT,,, and FFT„„ but not that of FFT,, and FFr„„,                  Table 2. In general, two main results can be seen from the table: (a)
+which is insensitive to cue orders (see the previous section). Figure             The predictors can account for an FFT's sensitivity quite well
+7D reveals two effects of c, on FFTs' performance: (a) When the                   (R^ > .96), and (b) the most useful predictor is n-^., which alone
+decision criteria of the cues progress from being conservative ([I,               leads to an R^ of around .85. The results of the regression analyses
+ 1, 1]) to liberal ( [ - 1 , - 1 , -1]), the decision criterion of an FFT         are consistent with those shown in Figure 7. For instance, Var^. is
+also moves from being more conservative to more liberal, and (b)                  found to have little effect on the sensitivity of FFT,, and FFT„„,
+Í-, have little effect on the sensitivity of an FFT, as the 12 points in
+                                                                                  which is also observed in Figure 7C, but it is the second most
+Figure 7D can be fitted well by one straight line.*
+    Because the points plotted in Figure 7 are the result of averaging
+over many cue conditions, these graphs can obscure the relative                      *• Note that this conclusion is drawn from cue-property conditions where
+impact of different cue properties. To overcome this problem, we                  the cues' decision criteria are set to be equal (i.e., C| = C2 = c,). However,
+ran a series of step-wise regressions using the four cue proper-                  even in conditions where they are unequal, the same general conclusion
+ties—p.,,., p, Var,,., and Cj—as the predictors and the sensitivity of            still holds.
+326                                                         LUAN, SCHOOLER, AND GIGERENZER
+
+
+                                                                                 B                                                                        2.5 1
+
+          0.9, ci'-FFTs=1.19                                                             p=0.6, £i'-FFTs=1.76
+         =1.5, ci-FFTs=1.96                                                              p=0.3, d'-FFTs=1.92
+          2.1, iy-FFTs=2.61                                                              p=0, ci'-FFTs=2.17
+
+
+
+
+-2.5                                                                             -2.5 g
+
+
+
+
+                                                                                                                                                          3.5 -,
+                                                                                 D
+       Var^.=O, c('-FFTs=1.82                                                            c=[-1,-1,-1], ci'-FFTs=1.94                                /'*3           .
+       Var^O.33, c/'-FFTs=1.94                                                       •   Cr[O,O,O], c('-FFTs=1.95
+                                                                                                                                            *,^           9 *^ -
+       Var^O.97, d'-FFTs=2.03                                                        m c=[1,1,1], c/'-FFTs=1.94
+
+
+                                                                                                                                                          1.5 -
+
+
+                                                                                                                       X                                  0.5 -
+                                                                                                                                                               1 -
+
+
+
+                                                                                                                                                  zFA
+                                                                                                                                                               n
+                                                                                 -3.5                                        -0.5           0.5
+                                                                                                                                                          -0.5 -
+                                                                                              •                                                         zHit
+                                                                                                                                                           -1      •
+
+
+
+                                                                                                                                                          -1.5 -
+
+                     Figure 7. Tbe sensitivity of the four three-cue fast-and-frugal trees (FFTs) averaged over conditions with
+                     various cue property values. In each panel, d'-FFTs represents the mean d' of the four FFTs in each parameter
+                     condition, and the performances of the four trees—FFT„„, FFT,,,, FFT^,,, and FFT,^—are reflected as the four
+                     points running in turn from bottom-left to upper-right in the zROC space. A. The FFTs' sensitivity at three levels
+                     of n,¿., tbe average d' of the three cues used to construct an FFT. B. Sensitivity at three levels of p, the uniform
+                     intercue correlation. C. Sensitivity at three levels of Var^., the variance of the three cues' individual d'i. D.
+                     Sensitivity at three levels of c,, tbe decision criteria of the cues.
+                     '          I   .   ••   ••'•   T   .
+
+
+
+
+important factor in predicting the sensitivity of FFT^n and          ^^          FFT         FFT         P'FT FTT,..,.. FFT„,,„ FFr,„„„, FFT,snns*
+According to Sorkin and Dai (1994), the ideal observer of SDT is                 ' ^ * nnss' FFr,„,,,
+                                                                                             ^' *     FFT,,,,,,, FFT„„„FFr„,„, and FFT           Their
+responsive to the following cue properties: jji,,, p, Var^., and m, the          relative decision biases provide a concrete demonstration of the
+number of cues. We find it interesting that the mean d' of the four              lexicographic decision bias property of FFTs (see Study I ). One of
+types of FITs, d'-FFTs are also sensitive to the first three param-              the three-cue conditions—tbe one witb d\ = [1.43, 1.0, 0.57]—is
+eters.                                                                           equivalent to the five-cue condition in terms of \i.j,, p, Var,,, and
+   Our analyses show tbat the sensitivity of an FFT also depends                 c,. As can be seen from Figure 8, tbe sensitivity of the five-cue
+on the number of cues, m. For tbe sake of brevity, in Figure 8 we                FFTs appears higher than that of the FFTs from this three-cue
+illustrate the results of these analyses by comparing two particular             condition. However, this does not imply that including more cues
+tbree-cue conditions with one five-cue condition. In the five-cue                in an FFT" always has a positive effect on its sensitivity.
+condition, the 16 points running from lower left to upper right                     Comparing these five-cue FFTs with the FFTs from another
+represent in turn the performance of FFT„„„„, FFT„„„3, FFT„„,„,                  three-cue condition with d\ = [1.50, 1.25, 1.0], in wbich the three
+                                             SIGNAL-DETECTION ANALYSIS OF FAST-AND-FRUGAL TREES                                                               327
+                       Table 2
+                       Re.'sults of the Step-Wise Regression Analyses on the Sensitivity of Fast-and-Frugal Trees (FFTs)
+
+                                                                         Predictors and resulting adjusted Ä" at each step
+
+                        Predicted variable        Predictor 1         R2 (1°)          Predictor 2   RU\,T ")      Predictor 3    /?' (1, 2, 3")
+
+                       d'-FFTs                                         .899              P              .974          Var^.           .987
+                                                                       .843              Var,,.         .912          P               .962
+                                                                       .873              P              .968          c.              .982
+
+                       " The number(s) inside the parentheses indicate the adjusted R^ values using the corresponding predictor(s).
+
+cues are the three best cues of the flve-cue condition, we see that                         We showed that sensitivity is found in its cue structure, that is, in
+FFTs' sensitivities in the two conditions are nearly identical. This                        the order of the cues and the individual properties of these cues.
+result shows that having more cues does not improve an FFT's                                For three-cue FFTs, which are frequently used in applied settings
+sensitivity if only cues of lower quality are included. Nevertheless,                       such as the CCU allocation tree, the flrst cue determines sensitivity
+there is a potential benefit of having more cues in an FFT. As                              and the order of the remaining cues is irrelevant. In all three-cue
+shown in Figure 8, compared with the four FFTs in a three-cue                               conditions investigated in this study, the sensitivity of an FFT
+condition, a wider range of decision biases can be covered by the                           decreases when cues with a lower d' are considered flrst. If there
+ 16 FFTs in the flve-cue condition. Therefore, having more cues to                          are more than three cues, the partial order invariance rule applies;
+work with provides one with more flexibility to construct an FFT                            it implies that an FFT's sensitivity does not depend on the order of
+with a desired decision bias, although these additional cues may do                         consecutive cues that share the same kind of exit. Strictly liberal
+little to improve its sensitivity.                                                          and conservative FFTs are special cases in which all cues are
+    Finally, from Figures 7 and 8, we see that the points of FFTs in                        consecutive cues that share the same exit; therefore, cue order does
+a certain cue-property condition can generally be fltted well by a                          not affect their sensitivity. Besides cue order, the characteristics of
+straight line in the ;ROC space. This implies that these FFTs are                           the cues also influence the sensitivity of an FFT.
+similar in sensitivity, despite their drastic differences in decision                           In Figures 7 and 8, we demonstrated the effects of five cue
+criterion. To examine how general a result this is, we calculated                           properties on FFTs' sensitivity. We found that with other cue
+the R^ value of an ROC line that flts the four FFTs in each of the                          properties held constant, the d' of an FFT tends to be higher when
+6,006 three-cue conditions. The average /f"^ is .966, indicating that                       (a) the mean of cues' individual sensitivity (x^. is high, (b) the
+the sensitivity differences among these FFTs are indeed quite                               intercue correlation p is low, (c) cues' variance Var,,. is high, and
+small.                                                                                      (d) there are more cmd better quality cues available to construct an
+                                                                                            FFT. We also found that the d' of an FFT is affected only to a
+Summary and Discussion                                          ,,,                         small extent by the decision biases of its cues (c,), which, in
+                                                                                            contrast, can substantially affect an FFT's overall decision bias. It
+  In SDT, sensitivity d' is measured by the difference between the                          should be noted that these five cue properties exert similar effects
+means of the signal and noise distributions. Where is d' in an FFT?                         on the sensitivity of the ideal observer of SDT, although the ideal
+                                                                                            model and FFTs are based on entirely different decision-making
+   O tf,=[1.50.1.25. 1.0. 0.75, 0.50], (i'-FFrs=1.54                                        mechanisms.           .[•
+   A d'r|1 43,1.0, 0.57], tf-FFTs=1.31                                                         So far, we have only considered sensitivity of FFTs in a small
+                                                                                            world, where everything is known to a decision maker. But people
+   •   d',-[1.50.1.25.1.01. d'-FFTs=1.57
+                                                                                            working in a large world, such as paramedics at the scene of an
+                                                                                            accident and physicians in an emergency room, often must act
+                                                                                            quickly on the basis of uncertain information, while being mindful
+                                                                                            of the serious consequences of their decisions. Therefore, to un-
+                                                                                            derstand the workings of FFTs better, we consider performance
+                                                                                            measures that go beyond sensitivity.
+
+                                                                                                     Study 3: Performance Beyond Sensitivity
+-2.5                                                                                           When making decisions, people often care about not only the
+                                                                                            accuracy of their decisions but also the consequences, which can
+                                                                                            be roughly captured by the expected value of the decisions. When
+                                                                                            different decisions yield drastically different consequences, con-
+                                                                                -1 J        cerns about accuracy often become secondary. To increase the
+Figure 8. The sensitivity of the 16 fast-and-frugal trees (FFTs) in one                     expected value of a decision, it has been argued in SDT that careful
+tlve-cue condition, in which d\ = [1.50, 1.25, 1.0, 0.75. 0.50], and the                    attention must be paid to the selection of an appropriate decision
+sensitivity of the eight FFTs in two three-cue conditions, in which d¡ =                    criterion. Therefore, from SDT's perspective, a model's capability
+[1.50, 1.25, 1.0) and [1.43, 1.0, 0.57], respectively. In all three conditions,             to adjust its decision criterion in response to the characteristics of
+the intercue correlation p is 0.3 and all cues are unbiased (c, = 0).        .              a task, mainly the payoffs of the decision outcomes, determines its
+328                                                LUÁN, SCHOOLER, AND GIGERENZER
+
+
+expected value performance to a large extent. Besides expected                When everything is known about the cues, the ideal model
+value, speed, which is closely re]ated to the fniga]ity of a mode],        optimally uses this information. It achieves its high level of sen-
+is another major concern of rea]-time decision making. Moreover,           sitivity at the cost of always considering all three cues. In contrast,
+because a person usuaUy has only limited experience in a task, how         the majority model sometimes requires only two cues to make a
+effectively a model can help predict the outcomes of unknown               decision and the FFTs can often get by with just one. Although the
+cases based on the person's previous learning indicates another            FFTs search fewer cues, the FFTs and majority model manage to
+important performance measure: predictive accuracy.                        achieve similar levels of sensitivity. This result shows that sensi-
+   In this study, we explore comparative advantages and disadvan-          tivity (or accuracy) and frugality need not trade off; a model can
+tages of FFTs by pitting them against three other models. One is           perform well in one aspect without sacrificing the other (see also
+the ideal model in SDT, which assumes that information from all            Gigerenzer, Todd, & the ABC Research Group, 1999).
+cues is integrated into a likelihood ratio and a decision is made by
+comparing this value to the optimal decision criterion ßopumai- Th^        Predictive Sensitivity
+second is the OSS model, which is designed to deal with situations
+where cue information needs to be sampled sequentially at a cost.             It is important that a model makes accurate predictions about
+The third one is the majority model. Using this model, a person            previously unseen cases. In this study, we measure the predictive
+first ranks cues according to their d' values and then checks the          accuracy of a model in terms of predictive sensitivity. Whereas
+binary decisions made by each cue sequentially until a simple              sensitivity is derived analytically based on the assumption that the
+majority is reached.                                                       exact values of all parameters a model ever needs to know are
+   The majority model examined in this study differs from other            known, predictive sensitivity depends on parameter values esti-
+                                                                           mated from a sample. Various methods have been applied in
+ majority models studied in both the SDT and group decision
+                                                                           psychology to measure models' predictive accuracy (e.g., Myung
+research (e.g.. Hastie & Kemeda, 2005; Sorkin et al., 2004) in that
+                                                                           et al., 2000; Shiffrin, Lee, Kim, & Wagenmakers, 2008). Here, we
+it incorporates a search component. For instance, suppose that
+                                                                           use accumulative prediction (AP; see Wagenmakers, Grünwald, &
+there are three cues in a task and that their values for an object are
+                                                                           Steyvers, 2(K)6), a method similar to cross-validation, to measure
+AT, X2, and Xy Suppose further that in relation to each cue's
+                                                                           models' predictive sensitivity.* We implemented AP as follows:
+decision criterion x^.¡, x¡ > jc^,, JTJ > x^.2, and x^ < A:^^. Thus, the
+binary decisions of those cues are "s," "s," and "n," respectively.
+                                                                                1. Five objects were randomly drawn from both the noise
+A person using the majority model can stop search after the first
+                                                                                   and signal distributions; the parameter values of a model
+two cues, because the majority of cues necessarily favor an "s"
+                                                                                   were then estimated based on these 10 objects."*
+decision. As a result of this search algorithm, the majority model
+does not always search for all available cues to make a decision.               2.   Either the noise or the signal distribution was randomly
+The majority model thus shares two common characteristics with                       picked and one new object was randomly drawn from this
+FFTs: sequential information search and a simple decision mech-                      distribution. Based on the previously estimated parameter
+anism. However, the two models do differ in one critical aspect:                     values, a model made a prediction about whether this
+ After cues are ordered, one can adjust the decision criterion of an                 object was a signal or a noise.
+FFT by arranging its exit structure in different ways, whereas the
+decision criterion of the majority model is fully determined by the          , 3. Model parameters were estimated again based on all
+decision criteria of the cues. Such inflexibility may hurt the ma-                objects that had already been seen, including the original
+jority model's performance in terms of expected value.                            10 plus the new one.
+   In the following sections, we compare the performance of the
+FFTs, the ideal SDT model, and the majority model on four                       4.   Steps 2 and 3 were reiterated for (N - 10) times, with A^
+different measures: sensitivity, frugality, predictive sensitivity, and              being the sample size of interest. The accumulated pre-
+expected value. Because the OSS model reduces to the ideal model                     diction performance, which was measured by d' through
+when search costs are not taken into account, we add OSS into the                    tallying hits and FAs from all iterations, is the predictive
+tnix only when considering expected value.'                                          sensitivity of a model.
+
+
+Sensitivity and Frugality                                                     ' The sensitivity and frugality of the OSS model depend on the specific
+                                                                           values of the two stopping criteria ß, and ß,,. When they are set at higher
+   The sensitivity (d') and frugality of each model are derived            values, the sensitivity of the OSS model will be relatively high, but more
+analytically under the assumptions that (a) cue values are drawn           cues will be searched before making a decision. In some sense, the OSS
+                                                                           model can be considered as a constrained version of the ideal model, with
+from two multivariate normal distributions, (b) the prior probabil-
+                                                                           ßj and ß„ regulating its sensitivity and frugality.
+ities of the two decision categories F{S) and P(N) are equal, and
+                                                                              " We thank Michael Lee for suggesting the AP method, which is pro-
+(c) the precise values of all cue properties are known. Following
+                                                                           cedurally similar to leave-one-out cross-validation. However, in contrast to
+the processes explained in Appendix B, we derived the d' and
+                                                                           cross-validation. AP can be connected to Bayesian and minimum descrip-
+frugality of each of the three models—FFTs, majority, and                  tion length (MDL) model selection methods.
+ideal—in the 6,(X)6 three-cue conditions specified in Study 2. The            '' There is no consensus in the AP literature on the size of the sample
+average d's of the three models are 2.37, 1.94, and 1.92 for the           initially used to estimate parameters. We settled on 10 because it was
+ideal, FFTs, and the majority model, respectively; their average           problematic to estimate all the ideal model's parameters with smaller
+frugalities are in turn 3.0, 1.75, and 2.36.                               sample sizes.
+
+
+
+                                                               :•   «;-
+                                               SIGNAL-DETECTION ANALYSIS OF FAST-AND-FRUGAL TREES                                                      329
+The number of parameters needed by the models varies. The ideal                might reduce its predictive sensitivity. However, cue order actually
+model needs estimates of the means and variance-covariance                     has no effect on the sensitivity of this model, as any search order
+matrices of two multivariate normal distributions (signal and                  in a trial will lead to the same decision.'"
+noise) to calculate the likelihood ratio of a cue value vector [AT,, .ÏJ          Second, the predictive sensitivity of the FFTs is close to that of
+. . . X,,,]. Both the FFTs and the majority model need to estimate the         the majority model and varies little across different sample sizes,
+hit and FA rates of the cues, so that their d's can be calculated to           indicating that FFTs are very robust as well. For the strictly liberal
+establish the d' cue order.                                                    and conservative FFTs, sample size has no effect on their predic-
+   Our analysis of predictive sensitivity focuses on conditions                tive sensitivity whatsoever, the sensitivity of these FFTs, like that
+where three cues are available (i.e., m = 3), as was the case in our           of the majority model, is totally insensitive to cue orders. For the
+previous analysis of sensitivity. However, because of the extensive            two less biased FFTs, their predictive sensitivity increases gradu-
+computation required for deriving the predictive sensitivity of a              ally with sample size. Our previous analysis has shown that mis-
+model, we considered fewer conditions (18) compared to the                     placing the first cue in these two FFTs generally reduces their
+analysis of sensitivity. Specifically, among the 18 conditions, there          sensitivity (see Study 2). Because such an error is more likely to
+are three levels of p (0, 0.3, and 0.6), two levels of |x,,. ( 1 and 1.5),     occur when sample sizes are small, this result was expected. What
+and three levels of Var,,. (0,0.04, and 0.25). In all conditions, cues'        came as a surprise to us are the rather limited performance gains
+decision criteria (c,) were set to [0, 0, 0], as our (unreported)              that accrue as sample size increases from 20 to 2,000. Apparently,
+preliminary analysis showed that different values of c, had little             it is not too difficult to sort out which cues to search first even
+effect on the relative performance of the three models. Moreover,              when sample size is extremely small.
+five sample sizes (N = 20, 40, 80, 200, and 2,000) were examined.                 Finally, the predictive sensitivity of the ideal model responds
+They match the sample sizes employed in experiments under the                  dramatically to increasing sample size and does not surpass that of
+SDT framework, in which the number of trials administered to a                 the other two models until sample size reaches 2(X). As the ideal
+participant varies from tens to thousands (e.g.. Green & Swets,                model requires estimates for a large number of parameters, it tends
+1966; Macmillan & Creelman, 2005). In each sample size and                     to overfit the data, a characteristic shared by many complex
+under every cue-property condition, the results were based on                  models (e.g., Myung et al., 2000)."
+1,000,000 cases (e.g., for a sample size of 200 objects, 5,000
+random samples were run). The average predictive sensitivity
+of each model over the 18 cue-property conditions is shown in                  Expected Value
+Figure 9.
+   Three major results can be observed: First, the majority model's               To measure a model's expected value, decision payoffs must be
+predictive sensitivity is unaffected by sample size, an indication             specified. Table 3 shows three payoff conditions, in which the
+that it does not have a tendency to overfit and is extremely robust.           value of a decision outcome is expressed in generic, measurement-
+This result may appear surprising, because the model orders cues               free units. Across the three conditions, the positive values or
+according to their d' values, and any misestimation of the order               rewards for the two correct decisions, V(Hit) and V(CR), are set to
+                                                                               be equal, but the negative values or penalties for the two incorrect
+                                                                               decisions, V(Miss) and V(FA), differ. They are set up in such a way
+               2.0 -                                                           that to maximize expected value, the decision criterion should
+                                                                               gradually shift from being more liberal when the penalty for a miss
+                                                                               is higher than for an FA (Condition I), to unbiased when the
+               1.8
+                                                                               penalties for a miss and an FA are equal (II), and finally to more
+ç                                                                              conservative when the penalty for an FA is higher than for a miss
+                                                                               (III). The optimal likelihood ratio decision criterion ß„p,i,„ai in
+ :ivit>
+               1.6   •
+
+                                                                               each condition, shown at the bottom of Table 3, reflects the
+MSI
+                                                                               shifting requirements.
+
+
+ dictive Ser
+               1.4   •
+                                                                                  In addition to decision payoffs, another factor related to ex-
+                                                                               pected value is the cost of cue search. We examined four cue-cost
+               1.2   •
+                                  /                        —•— Ideal           conditions: (a) Cost = 0, in which there is no cost for acquiring cue
+l                             /
+                                                               é'   Majority
+                                                           - M - FFTss
+                                                                               information; (b) Cost = d', in which the cost of acquiring infor-
+                                                                               mation from a cue is the same as the cue's d' value; (c) Cost = 1;
+               1.0
+                                           f
+                                                                               and (d) Cost = 2, where acquiring each cue costs 1 unit and 2
+                                                           - + - FFTsn
+                                                                               units, respectively. Because results from the last three conditions
+               0.8 -                                                           share the same general pattem, differing from each other by flxed
+                         20           40       80        200         2,000
+                                           Sample Size
+                                                                                  '" Interested readers should consult Appendix B in Karelaia (2006) for a
+Figure 9. The predictive sensitivity of the three models: ideal, majority,     more thorough treatment of why cue order does not affect the majority
+and fast-and-frugal trees (FFTs). For each sample size, the performance of     model's decisions.
+a model is averaged over 18 cue-property conditions (see text). Note that         ' ' We replicated all the predictive sensitivity analyses reported in this
+because FFT,,,, and FFT,,^ have the same predictive sensitivity as W\^^ and    section using the equal-split cross-validation method. The results, consis-
+FFT^„, respectively, we only show the results of FFT,^ and FFT^,, in the       tent with those obtained using AP, are reported in the supplementary
+figure.                                                                        materials.
+330                                                       LUÁN, SCHOOLER, AND GIGERENZER
+
+
+                    Table 3
+                    Values of the Four Decision Outcomes and the Optimal Likelihood Ratio Decision Criterion,
+                    ßo;.(im<i/' '" Each of the Three Payoff Conditions
+
+                                                                                 Payoff condition
+
+                     Decision outcome             I (heavy penalty for miss)    11 (balanced payoff)        III (heavy penalty for FA)
+
+                          V(FA)                            -10                         -10                            -50
+                          V(CR)                              10                          10                             10
+                          V(Hit)                             10                           10           •'               10
+                          V(Miss)                          -50                          -10                           -10
+                          Q
+                          Poptimal
+                                     a
+                                                              0.33                         1                             3
+
+                    Note. FA = false alarm; CR = correct rejection.
+                    ' ßopiimai was calculated based on the assumption that the prior odds ratio of noise to signal, P(N)IP(S),
+                    equals 1.
+
+
+constants, only results from the Cost = 0 and Cost = d' conditions              FFT,, lags far behind any of the other three FFTs in expected
+are reported.                                                                   value.
+   Expected values of FFTs. Before we compare the expected                         Expected values of the other FFTs all lead to the same general
+value results across the models, we first examine the expected                  pattem: An FFT's expected value depends largely on the fit
+value results for the FFTs, which are shown in Figure 10. The                   between its decision criterion and the optimal decision criterion in
+expected value of an FFT in each Payoff X Cue-Cost condition                    a specific task; the better the fit, the higher the expected value.
+was calculated based on the average sensitivity of that FFT over                This pattem holds in the Cost = d' condition as well. The only
+6,006 three-cue-property conditions. In the Cost = 0 condition, we              difference between an FFT's expected values in the Cost = 0 and
+see that the expected values of an FFT can differ substantially                 Cost = d' conditions is the cost of cue search.
+across the payoff conditions. The expected values of the strictly                  Because the decisions of FFTs may differ substantially in terms
+liberal tree FFT,, provide a case in point. In Payoff Condition I,              of expected value, it is essential to select the type of FFT most
+where the penalty for a miss is heavier than that for an FA and a               appropriate for a given payoff condition. In contrast to the preci-
+liberal decision criterion is preferred, the expected value of FFT,,            sion required to set the optimal decision criterion 3,,p,i,,,¡,i in SDT,
+is the highest among the four, with another liberal tree FFT,„                  all that is needed to select a proper FFT is the rough relative
+trailing closely behind. In Payoff Condition II, where a miss and an            consequences of the decision outcomes, especially the two deci-
+FA are equally costly and a neutral decision criterion is preferred,            sion errors. If one error, say miss, is obviously more consequential
+FFT,,'s expected value is below that of the two less biased trees,              than the other, a more liberally biased FFT, such as FFT,,, would
+FFT,„ and FFT„,, and is the same as that of FFT„„. In Payoff                    be most suitable. If the two errors are roughly equally consequen-
+Condition III, where an FA now has a more severe consequence                    tial, then a less biased FFT, such as FFT,„ or FFT„„ should be
+than a miss and a conservative decision criterion is preferred.                 preferred. Experiments have shown that although people's deci-
+
+
+                                         Cost=0                                                                       Cost=d'
+
+
+
+
+       Heavy Penalty for Miss        Balanced Payoff     Heavy Penalty for FA           Heavy Penalty for Miss    Balanced Payoff        Heavy Penalty for FA
+
+                                Payoff Condition                                                                 Payoff Condition
+
+                    Figure 10. The expected values of the four fast-and-frugal trees (FFTs) in three payoff and two cue-cost
+                    conditions. In each condition, the expected value of an FFT was derived based on the mean sensitivity of the FFT
+                    over 6,006 three-cue conditions. FA = false alarm.
+                                        SIGNAL-DETECTION ANALYSIS OF FAST-AND-FRUGAL TREES
+                                                                                                                                                     331
+ sion criteria often deviate from ß„p,in,„i, the directions of those         so that a total of 100,000 samples were run for each (e.g., for N =
+ criteria are generally consistent with ß„p,in,ai (e.g., Erev, 1998;         80, 1,250 samples).
+ Green & Swets, 1966); this directional knowledge is the most                    The models' expected value performances are shown in Figure 11.
+ critical requirement for selecting an FFT in a task.                        In each payoff condition, only the expected values of two FFTs,
+    Let us now look back at the CCU allocation tree (see Figure 4a),         the two whose decision criteria fit better to the payoff condition,
+ which is an FFT,^ with a relatively liberal decision bias. Besides          are sbown. From the figure, we see that the OSS and the ideal
+ its good sensitivity (d' = 1.90), its decision bias also fits well to its   models perform identically in the Cost = 0 conditions. Becau.se the
+ task of assigning patients reporting chest pain to either the CCU or        OSS model does not need to set criteria to limit search when there
+ a regular nursing bed. In this task, a miss is when a patient at risk       is no cost to sample cues, the expected value of the model depends
+ for a heart attack is sent to a regular nursing bed, whereas an FA          solely on its predictive sensitivity, as does that of the ideal model.
+ is when a patient at low risk is sent to the CCU. For most people,          As a result, botb models tend to overfit the data when sample size
+ the cost of a miss will be more severe than the cost of an FA,              is small and perform less well than the two FFTs until sample size
+ suggesting that a more liberal criterion is appropriate for this task.      reaches 200. In the Cost = d' conditions, tbe OSS model does
+ Among tbe four types of FFTs, only an FFT,, is more liberal than            pertbrm better tban tbe ideal model, mainly because of its mech-
+an FFT,„. But, the markedly superior sensitivity of an FFT,,,                anisms for limiting cue search. However, even more learning is
+compared to that of an FFT,, (d' = 0.73) makes FFT,„ clearly the             now required for the OSS model to outperform the two better
+overall best cboice in tbis particular task.
+                                                                             suited FFTs: Its expected value does not surpass that of the two
+    Model comparisons in expected value. Unlike the analysis                 FFTs until sample size is very large (N = 2,(XX)), a clear indication
+of FFTs' expected values, tbe comparisons among models' ex-                  that extensive learning is required for tbe OSS model to stably
+pected values are based on their predictive .sensitivity. Because the        estimate its many parameters.'"
+sensitivities of the FFTs and tbe majority model vary little, if at all,
+                                                                                As was the case for predictive sensitivity, tbe majority model's
+across different sample sizes, the expected values of these two
+                                                                             expected value is not affected by sample si/e. Compared with the
+ models barely change when .sensitivity is replaced by predictive
+                                                                             two FFTs, the majority model performs equally well in the bal-
+sensitivity as tbe basis for expected value. However, this is not the
+                                                                             anced Payoff X Cost = 0 condition but worse when there is either
+ca.se for the ideal model. The expected value of the ideal model is
+                                                                             a heavy penalty for a miss or cue search becomes costly (Cost =
+the decision payoff calculated based on the model's predictive
+                                                                             d'), and still worse when both factors are present (the heavy
+sensitivity—which, depending on the size of a sample, can be
+much lower than its sensitivity—minus the total cue search cost              penalty for Miss X Cost = d' condition). Because the majority
+that is fixed in a cue-cost condition, given that the ideal model            model on average searches more cues than the FFTs, it follows that
+always searches all cues. Calculating the expected value of the              its expected value is affected more negatively by cue cost tban the
+OSS model, however, is more complicated.                                     FFTs'. The interesting result here is the generally poor perfor-
+                                                                             mance of the majority model in the condition where a biased
+    Recall that the OSS model limits cue search by setting up two
+stopping criteria ß, and ß„ in addition to 3op,¡,,,;,i (see Figure 3).       decision is desired. With a set of cues, unlike tbe decision criterion
+Therefore, the OSS model must leam values of ß, and ß„ that can              of an FFT", which can be adjusted by rearranging tbe exit structure,
+maximize expected value. There is no good analytic solution for              the decision criterion of the majority model is fixed. Tbis inflex-
+finding the optimal ß, and ß„, so tbese values must be found                 ibility may not cause a problem wben the majority model's deci-
+numerically.'" Moreover, unlike tbe ideal model, cues must be                sion criterion happens to be consistent with the demands of a
+searcbed in a certain order in the OSS model. And unlike FFTs and            payoff condition; however, it is problematic when the payoffs
+the majority model, tbe OSS model does not have to search in                 change and a different decision criterion is then required. Thus,
+cues' d' order but in whichever order yields the maximum ex-
+pected value in a given sample. Thus, in a three-cue situation, all
+                                                                                '^Analytical solutions are available for relatively simple situations in
+six cue orders must be considered. Finally, the OSS model needs
+                                                                             which d' of each cue is the same and cues are independent (e.g., Rapoport
+to estimate all the parameters estimated by the ideal model, be-
+                                                                             & Burkheimer, 1971). The difficulty of deriving an analytical solution
+cause it updates information using the integrated likelihood ratio           drastically increases for most cue-property conditions probed in this study:
+LR(jc,), whose value depends on knowing the distributional param-            therefore, we settled on a numerical method. Specifically, two parameters
+eters of the cues.                                                           b^ and b„ were used, so that Inß, = lnß„p,|,„,|+ fc„ and lnß„ = lnß„p,i„„| -
+    Overall, it is a computationally demanding process to estimate           b„. We variedfc,and b„ from O to 2, witb a step size of 0.1. Thus, 21 values
+parameters for the OSS model from a sample. Considering that the             of eacb were tried, which resulted in 21 X 21 =441 pairs of Inß, and lnß„.
+accumulative prediction procedure requires estimating all param-                " For instance, it took one computer with a 2.66G-Hz Intel Core 2 Duo
+eters afresh for each new case, it was quite time consuming to               CPU and 4GB internal memory about 20 min to finish running a sample of
+derive the expected values of the OSS model." Limited by time                80 cases in the Cost = </' condition. Theretbre. il took us a total of around
+and the speed of our computers, we ran just one three-cue condi-             420 hr to fmish 1,250 samples with that sample size. In contrast, it took less
+                                                                             than 2 min to obtain the results of FFTs under the same condition. With 10
+tion, in which d'f = [2.0, 1.5, 1.0], p = 0.3, and c, = [0, 0, 0], to
+                                                                             computers running simultaneously, it took us more than 3 weeks to get the
+compare expected values of the four models. Two decision payoffs
+                                                                             results of the OSS model reported in Figure 11.
+were implemented—balanced payoff (Condition II) and heavy
+                                                                                '•* Through experimenting with several sample sizes other than the ones
+penalty for miss (Condition I), together with two cue-cost condi-            shown in Figure 11. we estimated that in the Cost = d' condition, it would
+tions—Cost = 0 and Cost = d'. In each Payoff X Cue-Cost                      require a sample size of roughly 8(K) for the OSS model to pertbrm as well
+condition, four .sample sizes were examined: N = 20, 80, 200, and            as the two better suited FFTs in the balanced payoff condition, and 1,500
+2,000. The number of samples run under each sample size was set              in the heavy penalty for miss condition.
+332                                                    LUAN, SCHOOLER, AND GIGERENZER
+
+
+                                     Balanced Payoff, Cost=0                                                Balanced Payoff, Cost=d'
+                                                                                       -iH-OSS
+                                                                                       -•—Ideal
+                                                                                       —*— Majority
+                                                                                       .-X— FFTsn, FFTns
+
+
+
+
+                                                        — • — OSS. Ideal
+                                                        — * — Majority
+                                                        —-X— FFTsn. FFTns
+
+
+                                         80             200           2.OO0                  20                10          200      2,000
+                                              Sample Size                                                        Sample Size
+
+
+                                    Heavy Penalty for Miss, Cost=0                                        Heavy Penalty for Miss, Costad'
+                                                                                        --»—OSS
+                                                                                   7     «        Ideal
+                                                                                   6    - * — Majority
+                                                                                        - X — FFTss
+                                                                                        -+- - FFT8n
+
+
+
+                                                                                 Í
+                                                              — • — OSS. Ideal
+                                                              —-*— Majority
+                                                              — X — FFTss
+                                                                                 h-1
+                                                                                  -2
+                                                              - -<- - FFTsn
+                                                                                  -3
+                              20         80          200              2,000                                   SO          200        2.000
+                                           Sample Size                                                          Sample Size
+
+
+                    Figure II. The expected values of four models: optimal sequential sampling (OSS), ideal, majority, and
+                    fast-and-frugal trees (FFTs), in two Payoff x two Cue-Cost X four Sample Size conditions. The cue property
+                    values are d¡ = [2.0, 1.50, 1.0], p = 0.3, and c, = [0, 0, 0]. Note that the performances of the OSS and ideal
+                    models are identical in the Cost = 0 conditions, and the performances of FFTs„ and FFT„s are identical in the
+                    balanced payoff conditions.
+
+
+given that one can select an appropriate FFT to use in a payoff                  observed in this condition would be found in other conditions as
+condition, FFTs perform better overall than the majority model in                well.
+expected value.
+   In general, the expected value of a model depends on the                      Model Comparison Summary
+model's sensitivity or predictive sensitivity if leaming is required,
+on its frugality if cue search is costly, and on the ability of the                 In this study, we compared four models—FFTs, majority, ideal,
+model to adjust its decision criterion in response to the payoff                 and OSS—in four aspects of performance: sensitivity, frugality,
+structure of a task. Among the four models discussed here, the                   predictive sensitivity, and expected value. FFTs perform similarly
+majority model lacks a criterion-adjustment mechanism, and the                   to the majority model in sensitivity and predictive sensitivity but
+ideal model tends to search too many cues. Therefore, their ex-                  are more frugal and can achieve expected values that are equal to
+pected values are generally lower than the other two models'. The                or higher than that of the majority model. Hence, FFTs trump the
+strength of the OSS model lies in its ability to strike a good balance           majority model overall. The performances of the ideal model and
+between accuracy and frugality with the consideration of all vari-               the FFTs demonstrate a clear trade-off: Whereas the ideal model
+ables that may affect this trade-off, in addition to its ability to              has higher sensitivity, the FFTs are more frugal. This trade-off is
+select a decision criterion that matches perfectly to a task's payoff            to some extent mitigated when accuracy is measured in predictive
+structure. Compared with the OSS model, with its arduous pursuit                 sensitivity instead of sensitivity. The ideal model trails behind the
+for perfection, the FFTs are lazy models that work only hard                     FFTs in predictive sensitivity when sample sizes are small (less
+enough to find a satisfactory cue order and an exit structure that               than 200), because of both its tendency to overfit data and FFTs'
+flts reasonably well to the payoff structure. However, as we see                 robustness to sampling noise. When cues are sampled without any
+from Figure 11, the FFTs perform nearly as well as the OSS model                 costs, the expected value of the ideal model is identical to that of
+when sample sizes are fairly large, and are clearly better than the              the OSS model. Whenever there are costs for cue search, however,
+OSS model when sample sizes are relatively small. Although we                    the expected value of the ideal model falls short of that of the OSS
+investigated only one cue property condition, given the character-               model. As discussed above, FFTs prove again to be highly robust
+istics of the models, we are confldent that the general results                  when performance is measured in terms of expected value. They
+                                     SIGNAL-DETECTION ANALYSIS OF FAST-AND-FRUGAL TREES                                                     133
+outperform the OSS model even in conditions that provide abun-          time. Such high consistency in ordering suggests that ordering
+dant learning opportunities (sample size larger than 5(K)) for the      cues using either d' or information gain should lead to similar
+OSS model to estimate its parameters.                                   performances of an FFT.
+
+
+                      General Discussion                  i             Ideal and Real Observers
+   FFTs have been adopted to deal with decision problems in                Achieving the performance of the ideal observer model re-
+various domains (e.g., Dhami, 2003; Fischer et al., 2002; Green &       quires precise knowledge of cue properties, availability of all
+Mehr, 1997; Super, 1984). Through the lens of SDT, our goal is to       cue information, and abundant resources dedicated to cue in-
+understand FFTs' basic properties, when they do well, and how           formation integration. Failure to meet any of those conditions
+they can do even better. In Study 1, we found that systematic           will result in a less than ideal performance. Participants who
+differences in FFTs' exit structures determine the relative differ-     have been trained to integrate information optimally in simple
+ences in their decision criteria, according to the principle of lexi-   tasks involving merely two cues failed to achieve ideal perfor-
+cographic decision bias. In Study 2, we examined how the sensi-         mance even after hundreds of learning trials with timely and
+tivity of FFTs depends on the order of cues used to construct them      accurate feedback (e,g., Ashby & Maddox, 1990, 1992). Yet the
+and the properties of those cues. The effect of cue orders is
+                                                                        demands of the ideal observer model pale in comparison to
+summarized by the partial order invariance rule, which states that
+                                                                        those required by the OSS model. To achieve the maximum
+switching the order of contiguous cues that share like exits does
+                                                                        expected value, the OSS model's search for the optimal stop-
+not affect an FTT's sensitivity. Once cues are ordered by their d'
+                                                                        ping and decision criteria adds an extra burden of both knowl-
+values, an FFT's sensitivity is in general positively related to the
+                                                                        edge and processing. The exceptionally long time it took our
+mean and variance of cues' individual d's ([x,,,. and Var,y.), nega-
+                                                                        computers to find the optimal stopping criteria does not rule out
+tively related to the intercue correlation (p), and scarcely affected
+                                                                        the plausibility of this model—after all, humans are known to
+by the individual decision biases (c,) of the cues. In Study 3, we
+                                                                        achieve feats no computers can match—but it surely does not
+compared FFTs with the majority, ideal, and OSS models. We
+                                                                        speak in its favor. Even if humans do make decisions using
+found that FFTs were frugal and robust, competing well with the
+other models in terms of predictive sensitivity and expected value,     models that share the same general elements as the OSS model
+especially with smaller sample sizes.'"' In the following, we dis-      (see Figure 3), as some studies have argued (e.g., Busemeyer &
+cuss several topics related to the findings of our studies and FFTs     Townsend, 1993; Lee & Cummins, 2004; Lee & Dry, 2006;
+in general.                                                             Vickers, 1979), there is no evidence that the decision and
+                                                                        stopping criteria they adopt are optimal.
+                                                                           After years of research experience with the ideal observer
+Ordering Cues by d' and Information Gain                 '              model, Wilson Geisler (2(K)3), echoing Savage (1954), remarked
+                                                                        that
+   Constructing a typical decision tree requires ordering cues
+and pruning unnecessary exits (e.g., Breiman et al., 1984;                  organisms generally do not perform optimally, and hence one
+Dietterich, 2000; Quinlan, 1993). However, constructing an                  should not think of an ideal observer as a potentially realistic
+FFT requires no pruning, because the number of exits is set, as             model of the actual performance of the organism. Rather, the value
+per its definition, leaving cue ordering the major concern. In              of an ideal observer is to provide a precise measure of the stimulus
+keeping with SDT, we ordered cues according to d', which, to                information available for performing the task, a computational
+the best of our knowledge, had not been tried before. Therefore,            theory of how to perform the task, and an appropriate benchmark
+                                                                            against which to compare the performance of the organism, (p.
+it is of interest to know how such orders correspond to those
+                                                                            825)
+based on other cue-ordering indices, among which information
+gain is probably the most popular (Quinlan, 1993). To connect
+information gain and the two SDT measures d' and c, we ran a
+                                                                           " Part of our results in Studies 2 and 3 was derived on the basis of
+series of analyses,'* which show that (a) unlike d', information        the assumption that the signal and noise distributions are normal with
+gain depends on the prior odds of the two decision events, and          equal variances. We did explore some conditions with the variance ratio
+the closer these odds are to 1, the higher the information gain;        different from I in Study 2 and found that such a change did not affect
+(b) a cue's information gain can be predicted well by its d' and        the major results regarding the effects of cue properties on FFTs'
+c, with the effect of d' being more prominent; (c) in a three-cue       sensitivity, measured in either d', which is a proper measure for
+set, when cues' decision criteria are randomly assigned, a d'           equal-variance normal distributions, or Az, which has been argued as a
+order is totally consistent with an information gain order around       more robust sensitivity measure (e.g.. Rotello. Masson, & Verde, 2008;
+                                                                        Swets. 1986). These results can be found in the supplementary mate-
+67.5% of the time, whereas the two are completely at odds with
+                                                                        rials. Fulure studies could examine the robustness of our results more
+each other only about 3.5% of the time; and when the decision           thoroughly by systematically varying the variance ratio of the distribu-
+criteria of the three cues are set to be equal, the two orders are      tions and/or their forms.
+consistent with each other 100% of the time. Because cues'
+                                                                           '* Some results can be found in the online supplemental materials. For
+decision criteria are unlikely to be either totally random or
+                                                                        the sake of brevity, we do not introduce the formula used to calculate
+exactly the same in a real task, these latter two extreme condi-        information gain. Oaksford and Chater (1996) and Nelson (2005) provide
+tions suggest that we should observe perfectly consistent cue           introductions to information gain and examples of how it has been applied
+orders using the two indices between 67.5% and 100% of the              in psychological research.
+
+                                                         I
+334                                               LUAN, SCHOOLER, AND GIGERENZER
+
+
+The same can very well be said for the OSS model." Abandoning              Altematively, one could use a 2s-ln rule, which states that two
+the search for optimality, we see FFTs as altemative models             votes are needed to make an "s" decision while only one is needed
+designed to deal with realistic constraints, employing search and       for an "n" decision. The change appears minor, but it can affect all
+decision mechanisms that are simple, frugal, flexible, robust, and      aspects of the majority model's performance. First, the order of
+transparent. FFTs in their various forms have already been adopted      cue search could affect the frugality and sensitivity of the model,
+by many experts in the field, be they paramedics (e.g., the START       because the first cue searched influences how quickly and accu-
+triage system), pediatricians (e.g., Fischer et al., 2002), judges      rately a noise decision will be made. Second, assuming that cues
+(e.g., Dhami, 2003), and perhaps even professional burglars (e.g.,      are still searched by their d' order, the sensitivity of the model will
+Garcia-Retamero & Dhami, 2009).                                         likely change, although whether it would be better or worse than
+                                                                        the 2s-2n rule is uncertain. Third, because the rule makes it easier
+                                                                        to make a noise decision, it leads to a more conservative decision
+Potential Applications of FFTs to SDT                                   bias compared with the 2s-2n rule. Thus, in payoff conditions
+                                                                        where a more conservative bias is desired (e.g., there is a heavier
+   We have looked at FFTs through the lens of SDT. What might           penalty for an FA than a miss), the 2s-In majority model may
+we leam by looking at SDT from the perspective of FFTs? Gig-            outperform the 2s-2n version we tested.
+erenzer and Brighton (2009) conjectured that heuristics achieve
+                                                                           Some majority models with other decision rules turn out to be
+high predictive accuracy because, in part, bias in their predictions
+                                                                        identical to FFTs. For instance, with three cues, the 3s-ln and
+protects them from perturbations in training samples. For FFTs,
+                                                                        3n-ls versions of the majority model are the same as FFT„„ and
+such bias resides in the coarse nature of their search and decision
+                                                                        FFT,,, respectively. Thus, despite differences in how the models
+mechanisms. Specifically, search by FFTs requires only a rank
+                                                                        are framed and in what domains they are commonly applied, clear
+order of cues, and the decision criterion of an FFT is adjusted
+                                                                        connections can be drawn between these two types of decision
+discretely without taking account of the exact values of the deci-
+                                                                        models. From our perspective, understanding how the variants of
+sion payoffs and prior odds. Such coarseness might explain why
+                                                                        the majority model perform will be an interesting and highly
+FFTs outperform the ideal observer and OSS models when param-
+                                                                        relevant extension of the present study.
+eters cannot be pinned down easily. We wonder whether these
+models could benefit from forsaking their fastidious pursuit of
+precision.                                                              Theory Integration: Connecting Paradigms
+   By lazily adjusting parameters in a coarse way, these optimiza-         In psychology, the goal of bridging different theories is rarely
+tion models may achieve higher levels of predictive accuracy,           pursued. As Walter Mischel (2009) put it, many psychologists still
+especially when sample sizes are small. Although exactly how to         tend to treat theories like toothbrushes—no self-respecting person
+implement a lazy parameter search is beyond the scope of the            wants to use anyone else's. We see this article as an exercise in
+present study, we offer some thoughts about how such a search           theory integration, bridging small and large worlds and corre-
+might proceed for the OSS model: (a) Instead of testing all pos-        sponding optimizing and satisficing theories. When we began our
+sible cue orders, search cues only in the order of their d's; (b)       analysis, we were unsure whether SDT and FFTs, two apparently
+ignore intercue correlations; (c) select the stopping criteria from a   disparate theories, would have much in common. Even now, we
+limited pool of values—for instance, one might choose from five         still find it surprising that the key concepts of SDT can be found
+criterion values that are "very stringent," "stringent," "intermedi-    in the structure of FFTs, albeit represented by different processes,
+ate," "lax," and "very lax" to correspond to task situations where      such as the choice of an FFT's exit structure setting its decision
+costs are "very high," "high," "medium," "low," and "very low,"         criterion. We hope that this step toward conceptual integration will
+respectively; and (d) instead of estimating ßopümai' 'he decision       prompt others to search for hidden features shared between seem-
+criterion could be selected from a small set of criteria that corre-    ingly distinctive psychological theories. Whereas borrowing tooth-
+spond to "heavy penalty for miss," "balanced payoff," and "heavy        brushes can indeed be dangerous, or at the very least distasteful,
+penalty for FA" payoff conditions. Simplifications as such would        sharing theories can be a healthy practice, contributing to more
+act as strong priors on the OSS model's parameter values, reducing      coherent and unified theory in psychology.
+its flexibility but potentially improving its performance for small
+samples.
+
+                                                                           " It should be noted that we have limited our discussion to the optima!
+Variants of the Majority Model                                          sequential sampling model (i.e.. OSS). Various nonoptimal sequential
+                                                                        sampling models exist and provide good accounts for plenty of behavioral
+   The majority model has served as an altemative to the ideal type     results (e.g.. Lee & Corlett, 2003: Lee & Dry, 2006; Vickers, 1979). In
+of models in SDT (e.g., Sorkin et al., 2004; Sorkin, West, &            general, those models make simplifying assumptions about the distribu-
+                                                                        tional properties of the cues and how the stopping criteria are learned and
+Robinson, 1998). We modified the model by adding a search mle;
+                                                                        set.
+that is, searching cues in d' order and stopping search when a
+simple majority is reached. In addition, its decision criterion could
+be adjusted by choosing the number of cues A:, (for signal) and k„                                    References
+(for noise) out of m cues needed to make a decision. In its current     Ashby, F. G., & Berretty, P. M. (1997). Categorization as a special case of
+form, the majority model in a three-cue situation uses the 2s-2n          decision making or choice. In A. A. J. Marley (Ed.), Choice, decision,
+rule—if two out of three cues agree on the same decision, a               measurement: Essays in honor of R. Duncan Luce (pp. 367-388).
+decision is made, independent of cue order.                               Hillsdale, NJ: Erlbaum.
+                                           SIGNAL-DETECTION ANALYSIS OF FAST-AND-FRUGAL TREES                                                              335
+Ashby, F. G., & Maddox. W. T. (1990). Integrating information from                Geisler. W. S. (2003). Ideal observer analysis. In L. Chalupa & J. Werner
+   separable psychological dimensions. Journal of Expérimentai Psychoi-              (Eds.), The visuai neuroscience (pp. 825-837). Boston, MA: MIT Press.
+   ogy: Human Perception and Performance. 16, 598-612. doi:10.1037/               Gigerenzer, G. (1991). From tools to theories: A heuristic of discovery in
+   0096-1523.16.3.598                                                                cognitive psychology. Psychologicai Review, 98. 254-267. doi: 10.1037/
+Ashby, F. G., & Maddox, W. T. (1992). Complex decision rules in                      0O33-295X.98.2.254
+   categorization: Contrasting novice and experienced performance. Jour-          Gigerenzer, G., & Brighton, H. (2009). Homo heuristicus: Why biased
+   nal of Experimental Psychology: Human Perception and Performance,                 minds make better inferences. Topics in Cognitive Science, I. 107-143.
+    18. 50-71. doi: 10.1037/0096-1523.18.1.50                                        doi:10.llll/j.l756-8765.2008.01006.x
+Binmore, K. (2009). Rationai decisions. Princeton. NJ: Princeton Univer-          Gigerenzer, G.. Hoffrage. U., & Ebert. A. (1998). AIDS counselling for
+   sity Press.                                                                       low-risk clients. AIDS Care. 10. 197-211. doi: 10.1080/
+Birnbaum, M. H. (1983). Base rates in Bayesian inference: Signal detection           09540129850124451
+   analysis of the cab problem. American Journal of Psychology. 96.               Gigerenzer, G., & Murray. D. J. (1987). Cognition as intuitive statistics.
+   85-94. doi: 10.2307/14222 II                                                      Hillsdale, NJ: Erlbaum.
+Bogacz, R., Brown, E., Moehlis, J., Holmes, P., & Cohen, J. D. (2006). The        Gigerenzer, G., & Todd. P. M. (1999). Fast and frugal heuristics: The
+   physics of optimal decision making: A formal analysis of models of                adaptive toolbox. In G. Gigerenzer. P. M. Todd, & the ABC Research
+   performance in two-alternative forced-choice tasks. Psychoiogicai Re-             Group (Eds.), Simple heuristics that make us smart (pp. 3-34). New
+   view. 113, 700-765. doi: 10.1037/(K)33-295X. 113.4.700                            York, NY: Oxford University Press.
+Breiman, L., Friedman, J., Stone, C. J., & Olshen, R. A. (1984). Ciassifi-        Gigerenzer, G., Todd, P. M., & the ABC Research Group. (1999). Simpie
+   cation and regression trees. Pacific Grove, CA: Wadsworth.                        heuristics that make us smart. New York, NY: Oxford University ftess.
+Busemeyer, J. R., & Rapoport, A. (1988). Psychological models of de-              Green, D. M., & Swets, J. A. (1966). Signal detection theory and psycho-
+   ferred decision making. Journal of Mathematicai Psychology, 32, 9 1 -            physics. New York, NY: Wiley.
+    134. doi: 10.1016/0022-2496(88)90042-9                                        Green, L., & Mehr. D. R. (1997). What alters physicians' decisions to
+Busemeyer, J. R., & Townsend, J. T. (1993). Decision field theory: A                admit to the coronary care unit? Journai of Famiiy Practice. 45. 219-
+   dynamic-cognitive approach to decision making in an uncertain envi-               226.
+   ronment. Psychoiogicai Review. 100. 432-459. doi : 10.1037/t)O33-              Haselton, M. G., & Buss, D. M. (2000). Error management theory: A new
+   295X. 100.3.432                                                                  perspective on biases in cross-sex mind reading. Journal of Personality
+Bu.semeyer, J. R., Weg, E., Barkan, R., Li, X., & Ma. Z. (2000). Dynamic            and Social Psychology, 78. 81-91. doi:l0.1037/0()22-.15I4.78.1.81
+   and consequential consistency of choices between paths of decision             Hastie, R., & Kameda, T. (2005). The robust beauty of majority rules in
+   trees. Journal of Expérimentai Psychology: General. 129. 530-545.                group decisions. Psychologicai Review. 112. 494-508. doi:10.l037/
+   doi: 10.1037/0096-3445.129.4.530                                                 OO33-295X. 112.2.494
+Cook, L. (2001). The world trade center attack: The paramedic response:           Hogarth. R. M.. & Karelaia. N. (2(X)7). Heuristics and linear models of
+   An insider's view. Critical Care. 5. 301-303. doi : 10.1186/cc 1054              judgment: Matching rules and environments. Psychoiogicai Review.
+Dhami, M. K. (2003). Psychological models of professional decision-                  114. 733-758. doi: I O.1O37/OO33-295X.114.3.733
+   making. Psychoiogicai Science, 14, 175-180. doi: 10.1111/1467-                 Karelaia, N. (2006). Thirst for confirmation in multi-attribute choice: Does
+   9280.01438                                                                       search for consistency impair performance? Organizationai Behaviour
+Dhami, M. K., & Ayton, P. (2001). Bailing and jailing the fast-and-frugal           and Human Decision Processes. 100, 128-143. doi: 10.1016/
+   v/ay. Journal of Behaviorai Decision Making, 14, 141-168. doi:IO.I002/           j.obhdp.2(H)5.09.003
+   bdm.371                                                                        Kee, F., Jenkins. J.. Mclllwaine, S.. Patterson, C . Harper. S.. & Shields, M.
+Dhami. M. K.. & Harries, C. (2001). Fast and frugal versus regression               (2003). Fast and frugal models of clinical judgment in novice and expert
+   models of human judgment. Thinking & Reasoning. 7. 5-27. doi:                    physicians. Medical Decision Making. 23, 293-300. doi: 10.1177/
+    10.1080/13546780042000019                                                       0272989X03256004
+Dietterich, T. G. (2000). An experimental comparison of three methods for         Lee. M. D., & Corlett, E. Y. (2003). Sequential sampling models of human
+   constructing ensembles of decision trees: Bagging, boosting, and ran-            text classification. Cognitive Science, 27, 159-193. doi:IO.I207/
+   domization. Machine Learning, 40, 139-158.                                       sl55l6709cog2702_2
+Dube. C . Rotello, C. M., & Heit, E. (2010). Assessing the belief bias effect     Lee, M. D.. & Cummins. T. D. R. (2(X)4). Evidence accumulation in
+   with ROCs: It's a response bias effect. Psychologicai Review, 117.               decision making: Unifying the "take the best" and the "rational" models.
+   831-863. doi: 10.1037/aOO 196.34                                                 Psychonomic Bulletin & Review. 11. 343-352.
+Edwards, W. (1965). Optimal strategies for seeking information. Jour-             Lee, M. D., & Dry, M. J. (2006). Decision-making and confidence given
+   nal of Mathematical Psychology. 2, 312-329. doi: 10.1016/0022-                   uncertain advice. Cognitive Science. 30. 1081-1095. doi:10.I207/
+   2496(65)90007-6                                                                  sl5516709cogOOOO_71
+Erev, I. ( 1998). Signal detection by human observers: A cutoff reinforce-        Luan, S., Sorkin. R. D.. & Itzkowitz, I. (2010). A signai detection model of
+   ment learning model of categorization decisions under uncertainty. Psy-          information acquisition and advice taking. Manuscript submitted for
+  chological Review, 105. 280-298. doi:10.1037/fK)33-295X.105.2.280                 publication.
+Fine, M., Little, D. R., & Nosofsky, R. M. (2010). Logical-rule models of         Macmillan, N. A., & Creelman, C. (2005). Detection theory: A user's guide
+  classification response times: A synthesis of mental-architecture,                (2nd ed.). Cambridge, England: Cambridge University Press.
+  random-walk, and decision-bound approaches. Psychological Review.               Martignon, L., Katsikopoulos, K. V., & Woike, J. K. (2008). Categoriza-
+   117. 309-348. doi:IO.I037/a0018526                                               tion with limited resources: A family of simple heuristics. Journai of
+Fischer, J. E.. Steiner, F., Zucol, F.. Berger, C , Martignon, L., Bossart, W.,     Mathematicai Psychology, 52. 352-361. doi:10.10l6/j.jmp.20()8.04.003
+   . . . Nadal, D. (2002). Using simple heuristics to target macrolide pre-       Martignon, L.. Vitouch. O.. Takezawa. M.. & Forster, M. (2(K)3). Naïve
+  scription in children with community-acquired pneumonia. Archives of              and yet enlightened: From natural frequencies to fast and frugal decision
+  Pédiatrie and Adolescent Medicine. ¡56, 1005-1008.                                trees. In D. Hardman & L. Macchi (Eds.), Thinking: Psychoiogicai
+Garcia-Retamero, R.. & Dhami, M. K. (2009). Take-the-best in expert-                perspectives on reasoning, judgment, and decision making (pp. 189-
+  novice decision strategies for residential burglary. Psychonomic Bulletin         211). Chichester, England: Wiley.
+  & Review. 16. 163-169. doi:10.3758/PBR.I6.1.163                                 Mata. R.. Schooler, L. J.. & Rieskamp, J. (2007). The aging decision
+336                                                    LUAN, SCHOOLER, AND GIGERENZER
+
+
+  maker: Cognitive aging and the adaptive selection of decision strategies.    Sorkin, R. D., Luan. S., & Itzkowitz, J. (2004). Group decision and
+  Psychology and Aging, 22, 796-810. doi: 10.1037/0882-7974.22.4.796             deliberation: A distributed detection process. In D. Koehler & N. Harvey
+Mischel, W. (2009). The toothbrush problem. Association for Psycholog-           (Eds.), Blackwell handbook ofjudgment and decision making (pp. 464-
+  ical Science Observer, 21, 11.                                                 483). London, England: Blackwell. doi:10.1002/9780470752937.ch23
+Myung, I. J., Forster, M., & Browne, M. W. (Eds.). (2000). A special issue     Sorkin, R. D., West, R., & Robinson, D. E. (1998). Group performance
+  on model selection. Journal of Mathematical Psychology, 44(1).                 depends on the majority rule. P.'^ychologicat Science, 9, 456-463. doi:
+Nelson. J. D. (2005). Finding useful questions: On Bayesian diagnosticity,        10.1111/1467-9280.00085
+  probability, impact, and information gain. Psychological Review, 112,        Stanislaw. H., & Todorov, N. ( 1999). Calculation of signal detection theory
+  979-999. doi:10.1037/0033-295X.l 12.4.979                                      measures. Behavior Research Methods, Instruments & Computers, 31,
+Oaksford, M., & Chater, N. (1996). Rational explanation of the selection          137-149.
+  task. Psychological Review, 103, 381-391. doi: 10.1037/0033-                 Super, G. (1984). START: A triage training module. Newport Beach, CA:
+  295X.103.2.381                                                                 Hoag Memorial Hospital Presbyterian.
+Payne, J. W., Bettman, J. R., & Johnson, E. J. (1993). The adaptive            Swets, J. A. (1986). Form of empirical ROCs in discrimination and
+  decision maker. Cambridge, England: Cambridge University Press.                diagnostic tasks: Implications for theory and measurement of perfor-
+Pleskac, T. J. (2007). A signal detection analysis of the recognition heu-       mance. Psychological Bulletin, 99, 181-198. doi: 10.1037/0033-
+  ristic. Psychonomic Bulletin & Review, 14, 379-391.                            2909.99.2.181
+Quinlan, J. R. (1993). C4.5: Programs for machine learning. San Mateo,         Swets, J. A., & Green, D. M. (1961). Sequential observations by human
+  CA: Morgan Kaufmann.                                                           observers of signals in noise. In C. Cherry (Ed.), Information theory:
+Rapoport, M.. & Burkheimer, G. J. (1971). Models for deferred decision           Proceedings of the Fourth London Symposium (pp. 177-195). London,
+   making. Journal of Mathematical Psychology, 8, 508-538. doi:10.1016/          England: Butterwortb.
+  0022-2496(71)90005-8                                                         Tanner. W. P., Jr, & Swets, J. A. (1954). A decision-making theory of
+Reilly. B. M., Evans, A. T., Schaider, J. J., Das, K., Calvin, J. E., Moran.     visual detection. Psychological Review, 61, 401-409. doi:10.l037/
+   L. A         Martinez, E. (2002). Impact of a clinical decision rule on       hOO587OO
+   hospital triage of patients with suspected acute cardiac ischemia in the    Vickers, D. (1979). Decision processes in visual perception. New York,
+   emergency department. Journal of American Medical Association, 288,           NY: Academic Press.
+   342-350. doi:10.1001/jama.288.3.342                                         Wagenmakers, E.-J., Grünwald, P., & Steyvers, M. (2006). Accumulative
+Rotello, C. M., Masson, M. E. J., & Verde, M. F. (2008). Type 1 error rates      prediction error and the selection of time series models. Journal of
+   and power analyses for single-point sensitivity measures. Perception &        Mathematical Psychology, 50, 149-166. doi:10.10l6/jjmp.2()06.01.004
+   Psychophysics. 70, 389-401. doi:10.3758/PP.70.2.389                         Wald, A. (1947). Sequential analysis. New York. NY: Wiley.
+Savage, L. J. (1954). The foundations of statistics. New York. NY: Wiley.      Wallsten, T. S., & Gonzalez-Vallejo, C. (1994). Statement verification: A
+Shiffrin, R. M., Lee, M. D., Kim, W.-J., & Wagenmakers, E. -J. (2008). A         stochastic model of judgment and response. Psychological Review, 101,
+   survey of model evaluation approaches with a tutorial on hierarchical         490-504. doi: 10.IO37/(K)33-295X. 101.3.490
+   Bayesian methods. Cognitive Science, 32, 1248-1284. doi:10.1080/            Welch, H. G. (2004). Should I be tested for cancer? Maybe not and here's
+   03640210802414826                                                             why. Berkeley, CA: University of California Press.
+Smith, L., & Gilhooly, K. (2006). Fast and frugal versus regression models     White, A. P., & Liu, W. (1994). Bias in information-based measures in
+   of decision-making: Tbe case of prescribing for depression. Applied           decision tree induction. Machine Learning, 15, 321-329. doi: 10.1007/
+   Cognitive Psychology, 20, 265-274. doi:l0.1002/acp.l 189                       BF00993349
+Sorkin. R. D., & Dai, H. (1994). Signal detection analysis of the ideal        Wixted, J. T.. & Stretch, V. (2004). In defense of the signal-detection
+   group. Organizational Behavior and Human Decision Processes, 60,               interpretation of remember/know judgments. Psychonomic Bulletin &
+   1-13. doi: 10.1006/obhd. 1994.1072                                            Review, II, 616-641.
+
+
+
+
+                           k '
+                       SIGNAL-DETECTION ANALYSIS OF FAST-AND-FRUGAL TREES                                                      337
+
+
+                                                I       Appendix A                                         1 1
+
+                    Proof of the Lexicographic Decision Bias Property of FFTs
+   We prove here that the hit rate of the tree FFT^ =,•• is no lower than that of the tree FFT, ,„••. Assume that
+the flrst differentiating cue is the kth cue in a sequence of m cues. Before that cue, the two trees have identical
+exits (represented by = . ) ; after that cue, the two may or may not have identical exits (represented by , J . The
+hit rate of each of the two trees can be expressed by a three-component equation:
+
+                                                                •'   •      •   .              •   I
+
+                                 FFr„,..: X /"(Hit) + /'(Hit); -H 2 P(Hit)
+                                                1                               *+i                I
+                                                !•      /                                              •      • ^   Í-.   '•
+
+                                            k-\                      m
+                                 F F r „ „ . . ; 2 ^(Hit) + 0 -H ^ P{Hit),
+
+
+  Because the two trees are identical in their first components and P(Hit)j. of F F T , , „ " is 0, if the second
+
+component /'(Hit)^ of FFT, , 5 - is no lower than the third component 2 /»(Hit) of FFT= _„••, the overall hit
+                                                                                      t*   I
+rate of FFT, , 3 - should be no lower than that of FFT_=„-. P(Hit)j of FFT, , , - is equal to P[{x,t > x^.^) \ ii],
+                                                                                                             m
+
+in which fl represents all objects that have yet to be classified before the Jtth cue. 2 P(Hit) of FFT_ =„•• can
+                                                                                                            iH-l
+be expressed by the following equation:
+
+
+y. P(Hit) = p[(x,i > xj     r
+
+
+                                                     + PLiXst > xj       n exit)n+i)' n exit«,,.)* n . . . n exit„ I 11],
+
+    In the equation, each component on the right-hand side represents the hit rate of a cue, from the {k -f 1 )th
+cue onward. For all components, if it is an "n" exit on the ;th cue, exit, = 0 and exit/ = (jr,, > A,.,); and if
+it is an "s" exit, exit, = (x^¡ > .x„) and exit,* = (AT,, < ;t,.,). Because each component is mutually exclusive and
+all are subsets of P[{x,^ > x^^.) I il], their summation cannot be greater than P[{x,i, > jc,.^) | il], which is
+                                            m
+
+of FFT==,". Therefore, it is proved that 2 /»(Hit) of FFT==„" cannot be greater than /'(Hit)^ of
+
+and the overall hit rate of FFT^^^- cannot be lower than that of FFT= =„-.
+  By replacing the term x^ with x„ and following the same steps as above, the FA rate of FFT__," can also
+be proved to be no lower than that of FFT==„".                              \    .
+
+
+
+                                            j          Appendix B
+
+                           Deductions of Models' Sensitivity and Frugality
+   The deductions of an FFT's sensitivity (d') and firugality are demonstrated through the example
+First, to calculate the d' of FFT,,„, we need to know its hit and FA rates. The P(Hit) and P(FA) of FFT^^ are
+calculated through the following equations:
+
+                    P(Hit)FFT.„ = /"Usi > Jr.i) + P[ix,, < X,,) n {x,2 > x,2) D {x,, > X,,)]
+
+
+  The value of each probability component on the right-hand side of the equations can be obtained with the
+knowledge of x^.¡ and the parameter values of the two multivariate normal distributions of the cues. The
+fmgality of FFT^^ {F) is calculated through the following equation:
+
+
+                                                {Appendices continue)
+338                                           LUÁN, SCHOOLER, AND GIGERENZER
+
+
+
+                            r.. = P(S)
+                                                            > JCH) + 2 • />[(.«,, <           n
+
+                                                                          P[{x„,
+                                              3                           j >
+
+
+
+      /'(S) and P(N) are the prior probabilities of sigtial and tioise, respectively. The sensitivity and frugality of other FFTs can
+      be worked out in similar ways.
+         The deductions of the majority model's sensitivity and frugality are demonstrated through the case where m (total number
+      of cues) is 3 and k (the simple majority number) is 2. As with FFTs, to calculate the d' of the majority model, we need to
+      calculate its hit and FA rates first. These two probabilities are
+
+                                         PíiXs, > X,¡) O
+
+                                         + P[{x,¡ < X,,)                   (J:,3 >   X,,)]
+
+
+
+
+                                         + P[{x„, < X,,) n (x„2 > Xa
+
+      The frugality of this particular majority model is
+
+                                                                  X,2 >         +            <          A;,, < X,,)]} +
+                                                     >                          +            <
+
+                                                        >              > xj]    +          jr„, < x,.,) D {x„2 < x
+                                                                                           X„, < AT,,) H {x„2
+
+         Similar equations can be developed to calculate other majority models' sensitivity and frugality when m and
+      k take values other than 3 and 2. The Matlab code used in our study to derive the sensitivity and frugality of
+      the FFTs and those of the majority model can be found in the online supplemental materials.
+         The frugality of the ideal model is always the total number of cues m. An equation was developed by Sorkin
+      and Dai (1994) to calculate the ideal d' of m cues directly:
+
+
+                                            d iH,,i —
+                                                              1- p        1 + p • ( m - 1)
+      In the equation, Var^. and (JL¿. are the variance and mean of the cues' individual d's, and p is the uniform
+      intercue correlation of the cues.
+
+                                                        •                              t                             Received January 1, 2010
+                                                                                                          Revision received December 6, 2010
+                                                                                                                  Accepted December 6, 2010
+Copyright of Psychological Review is the property of American Psychological Association and its content may
+not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written
+permission. However, users may print, download, or email articles for individual use.
+

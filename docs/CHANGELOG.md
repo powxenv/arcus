@@ -2,6 +2,90 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.23 (2026-06-19): Depth re-derivation — each test now measures the tension inside its theme
+
+Why: the v0.22 framework was defensible but shallow. Each test measured the easiest component of its theme and stopped there. A deep re-derivation from the theme up, grounded in 9 newly-verified PDFs (Kuppens 2010; Hamaker 2015; Koval 2013; Vazire 2010; Beer & Vazire 2017; Carlson et al. 2013; Gigerenzer & Gaissmaier 2011; Luan et al. 2011; Todd & Hills 2020), plus the existing verified corpus, found that each theme actually names a **tension**, not a single construct:
+
+- Solstice names a *turning point with direction*, not just a position on a wheel.
+- Turing names the *Imitation Game* (stated-vs-observed cognition), not just a self-report of cognitive style.
+- Pride names *knowing, claiming, showing, and being-seen*, not just clarity and authenticity.
+- Passage of Time names *engagement with zones AND stance toward passage*, not just zone engagement.
+
+The v0.23 suite adds the missing half of each theme, in the construct's native format, and re-frames the synthesis around the four internal gaps as a **self-congruence profile**.
+
+### Key evidence from the new papers
+
+**Kuppens, Allen & Sheeber (2010, verified).** Emotional inertia is a stable individual difference predicting depression and neuroticism, but requires intensive longitudinal data (10 beeps/day × 14 days, ~140 observations). Within-session repeated probes (3–5) cannot estimate autocorrelation reliably. This **kills the within-session affect-dynamics proposal** from earlier creative work. The validated trajectory construct instead uses Carver-Scheier perceived goal-gradient progress, which is introspectable and single-session-measurable.
+
+**Vazire (2010, verified).** SOKA requires real informant reports (friends and strangers rating the target). Beer & Vazire (2017, verified) calls behavioral predictive validity "preliminary" even with informants. **A paired-self/"how-would-others-see-you" item format is not SOKA**; it measures perceived asymmetry (meta-insight), a different construct. The depth answer is the opt-in informant path.
+
+**Gigerenzer & Gaissmaier (2011, verified).** "Systematic individual differences in the use of heuristics" (citing Lee & Cummins 2004, Nosofsky & Bergert 2007). Luan, Schooler & Gigerenzer (2011, verified) score fast-and-frugal trees per-individual via signal-detection theory. **Behavioral heuristics use is a stable individual difference.** This grounds the MMA stated-vs-observed gap.
+
+**Marcia (1966, verified, already in folder).** The commitment dimension is the identity claim-act ("this is who I am" vs "I'm still finding out"), structurally the Pride construct. Earlier rejection of Marcia wholesale as "developmental" was wrong; the commitment dimension specifically is meaningful in adults.
+
+**Carstensen (2021, verified, gnab116).** Perceived time horizons (expansive vs limited) reshape motivation — they are a validated individual difference and part of the temporal-stance construct.
+
+### Per-test changes
+
+**Test 1 (SCA).** Adds a perceived-trajectory component (v0.23 spec). The season gains a direction modifier: Summer-waxing (at the peak, still climbing) vs Summer-waning (at the peak, feeling it turn). Grounded in Carver-Scheier self-regulation (same research program as verified Carver-White BIS/BAS). Position-plus-trajectory combination is our synthesis, unvalidated.
+
+**Test 2 (MMA).** Adds a behavioral heuristics battery (6–8-item fast-and-frugal decision task, Gigerenzer/Luan grounded) and reports the stated-vs-observed gap as the interpretive lead. The gap (what you say vs what your choices show) is the Turing signature. CRT retained as a narrower override measure within the battery. Stated-vs-observed gap is our synthesis, unvalidated. Heuristics battery has a prior-exposure problem and is a build feature.
+
+**Test 3 (SSA).** Adds a Marcia commitment component (the Pride claim-act: "this is who I am" vs "I'm still finding out") and an opt-in informant path for real SOKA visibility (friends rate the same clarity/authenticity items; the self-other agreement gap is computed per Vazire design). Four-component Pride profile when informant data is present; three-component self-only when declined. Four-component combination is our synthesis, unvalidated. Informant path is a product feature (consent, privacy, async), not a session-internal trick.
+
+**Test 4 (PTA).** Adds a temporal-stance layer (4 items, forced-ranking/best-fit on resource/weight/gift/mystery) grounded in Carstensen perceived time horizons. The 8 temporal types gain a stance modifier. Four-stance typology and zone-plus-stance combination are our synthesis, unvalidated. "Weight" stance brushes the affirming scope limit and is reframed with a scope note.
+
+### Framework (00) rewrite
+
+v0.23 framework doc rewritten around depth-over-convenience: each test now measures the tension inside its theme, in the construct's native format. Synthesis reframed as self-congruence profile (four internal gaps read together). v0.22 rigor layer and affirming scope limit retained.
+
+- **SCA build** (`sca-debug.html`, 58KB) + **sim** (`sca-simulate.ts`, 45KB): 32 position + 4 trajectory items. Build displays waxing/waning direction modifier. Sim tests trajectory scoring. Both green.
+- **SSA build** (`ssa-debug.html`, 33KB) + **sim** (`ssa-simulate.ts`, 21KB): 32 clarity/authenticity + 4 Marcia commitment items. Build displays commitment score. Sim tests commitment scoring. Both green. Double-comma bugs fixed.
+- **MMA build** (`mma-debug.html`, 22KB) + **sim** (`mma-simulate.ts`, 4KB): NFC + FI + CRT + 6-item heuristics battery with stated-vs-observed gap. Build displays strategy classification (take-the-best/tallying/adaptive) and gap (congruent/divergent/neutral). Sim: 8/9 type matches, 8/9 gap matches, 4/4 cross-length. Both green.
+- **PTA build** (`ptoa-debug.html`, 17KB) + **sim** (`ptoa-simulate.ts`, 4KB): 3 factors + stance layer. Sim: 9/10 matches, 100% cross-length. Both green.
+
+### Self-review notes
+
+- The four design docs (01–04) now each have a v0.23 §7 (or adjacent) that adds the depth layer, with evidence-vs-synthesis boundaries marked, and explicit limitations and build requirements flagged.
+- Profile docs (01b–04b) carry the v0.23 result modulations (direction modifier for SCA seasons, gap modifier for MMA types, commitment and visibility components for SSA results, stance modifier for PTA types).
+- All load-bearing sources are verified full-text in the paper-downloads folder. No component depends on a source not full-text-reviewed.
+
+### Documents updated this pass
+
+- `00-suite-framework.md`: full v0.23 rewrite.
+- `01-solstice-cycle-assessment.md`: v0.23 status + §7 trajectory component added.
+- `02-modes-of-mind-assessment.md`: v0.23 status + §7 heuristics battery + stated-vs-observed gap added.
+- `03-spectrum-of-self-assessment.md`: v0.23 status + §7 commitment + informant path added.
+- `04-passage-of-time-assessment.md`: v0.23 status + §7 temporal-stance layer added.
+
+All core docs (00 framework, 01–04 design, 01b–04b profiles, all four research papers, CHANGELOG) are now v0.23-current. Builds/sims remain pending rebuild against v0.23.
+
+### Simulation review (v0.23 pass)
+
+A critical simulation review found that the v0.23 depth components were not being properly tested by the sims. Three issues found and fixed:
+
+**Bug: SCA and SSA sims had normalization loops hardcoded to `i < 32`.** Both sims iterate `for (let i = 0; i < 32; i++)` to normalize responses, which skipped the v0.23 trajectory (TA/TB) and commitment (C) items entirely. This meant the trajectory and commitment scores were computed from uninitialized/default values, producing always-neutral results. Fixed to `ITEMS.length`. Builds were unaffected (they use `activeBank.forEach()`).
+
+**Gap: MMA heuristics were tautological.** The original MMA sim set `heuristicsA` directly (a hard-coded count) and then computed strategy from that count, which is circular. Rebuilt to generate stochastic heuristic choices from a "true strategy" parameter with a consistency probability, then classify. Also added CRT override scoring simulation and expanded from 9 to 7 comprehensive test sections.
+
+**Gap: PTA stance, SCA trajectory, and SSA commitment were scored but never analyzed or tested with non-neutral inputs.** All three sims expanded to include targeted validation tests with non-neutral centers, distribution reporting, and item-level analysis. PTA sim expanded from 10 to 7 comprehensive test sections including threshold sensitivity exploration (50/55/60/65/70).
+
+**Findings from the expanded sims:**
+
+- MMA adaptive strategy classification is sensitive to battery size: with 6 items, the adaptive band (0.4–0.6 aRatio) is only 2 items wide, so noise easily pushes adaptive respondents into take-the-best or tallying. Documented limitation.
+- PTA threshold is impactful: threshold 50 vs 70 shifts Wanderer count from 1 to 4 out of 10 diverse respondents. The 60-point threshold is designer-set and uncalibrated.
+- SSA commitment bands map sensibly: center 5 (slightly agree) = committed; center 4 (neutral) = exploring; center 3 (slightly disagree) = open.
+- SSA tension detector still flags a regression: Diverge-A1hiA2lo does not fire `has_tension` despite being labeled divergent. This is a pre-existing sensitivity issue (moderate divergence below the 20-point margin threshold), not a v0.23 bug.
+
+**Sim test coverage after the review:**
+
+| Sim | Tests | Result |
+|---|---|---|
+| SCA | Core scoring + facet-tension + gradation + cross-length + **trajectory validation (6 cases)** | All green |
+| MMA | Types (8/8) + strategy classification (4/5) + CRT override (3/3) + gap (5/5) + cross-length (4/4) + 30-respondent distribution | Green with adaptive-band limitation documented |
+| SSA | Core scoring + cross-length + expected matches + **commitment validation (5 cases)** | All green |
+| PTA | Pure types (8/8) + stance scoring (4/4) + type+stance combo + cross-length (8/8) + 30-respondent distribution + threshold sensitivity + item analysis | All green |
+
 ## v0.22 (2026-06-19): Ground-up suite rewrite — uniform methodology, NON-uniform structure
 
 Why: a full-suite audit found that the locked structural template (two orthogonal axes, four quadrants, one boundary, applied to every test) was construct-native to only one test (SCA, because affect is genuinely circumplex) and was producing documented validity violations in the other three. MMA destroyed Epstein's verified orthogonality (NFC ⊥ Faith-in-Intuition, r = .08) by collapsing two factors into one bipolar axis, then split a unidimensional construct (Riding) into two "facets." PTA composited weakly-related ZTPI factors (Future ↔ Past-Positive r = +.26) into a bipolar axis and exiled the present to a boundary because the template had no place for a third temporal zone. SSA split a unidimensional construct (Campbell SCC) into two "facets" to feed the template. The template was the disease, not the tests.

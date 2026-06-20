@@ -1,0 +1,750 @@
+                                                                                                                     Emotion                                                                                                                          © 2013 American Psychological Association
+                                                                                                                     2013, Vol. 13, No. 6, 1132–1141                                                                                               1528-3542/13/$12.00 DOI: 10.1037/a0033579
+
+
+
+
+                                                                                                                                              Affect Dynamics in Relation to Depressive Symptoms:
+                                                                                                                                                          Variable, Unstable or Inert?
+
+                                                                                                                         Peter Koval, Madeline L. Pe, and Kristof Meers                                                                Peter Kuppens
+                                                                                                                                         KU Leuven - University of Leuven                                          KU Leuven - University of Leuven and University of
+                                                                                                                                                                                                                                      Melbourne
+
+                                                                                                                                                   Depression not only involves disturbances in prevailing affect, but also in how affect fluctuates over time.
+                                                                                                                                                   Yet, precisely which patterns of affect dynamics are associated with depressive symptoms remains
+                                                                                                                                                   unclear; depression has been linked with increased affective variability and instability, but also with
+
+
+
+
+   This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                                                   greater resistance to affective change (inertia). In this paper, we argue that these paradoxical findings
+                                                                                                                                                   stem from a number of neglected methodological/analytical factors, which we address using a novel
+                                                                                                                                                   paradigm and analytic approach. Participants (N ⫽ 99), preselected to represent a wide range of
+                                                                                                                                                   depressive symptoms, watched a series of emotional film clips and rated their affect at baseline and
+                                                                                                                                                   following each film clip. We also assessed participants’ affect in daily life over 1 week using experience
+                                                                                                                                                   sampling. When controlling for overlap between different measures of affect dynamics, depressive
+                                                                                                                                                   symptoms were independently associated with higher inertia of negative affect in the lab, and with greater
+                                                                                                                                                   negative affect variability both in the lab and in daily life. In contrast, depressive symptoms were not
+                                                                                                                                                   independently related to higher affective instability either in daily life or in the lab.
+
+                                                                                                                                                   Keywords: depression, emotion/affect dynamics, inertia, variability, instability
+
+
+
+
+                                                                                                                        How a person feels, on the average, is telling of their level of                     Allen, & Sheeber, 2010; Peeters, Berkhof, Delespaul, Rottenberg,
+                                                                                                                     well-being and psychological adjustment. Indeed, disturbances in                        & Nicolson, 2006; Thompson et al., 2012). However, the literature
+                                                                                                                     prevailing affect are core symptoms of many mental disorders                            is ambiguous regarding the specific patterns of affective fluctua-
+                                                                                                                     (e.g., Keltner & Kring, 1998; Rottenberg & Johnson, 2007). How-                         tions associated with depression. As we review below, some
+                                                                                                                     ever, feelings are not invariant states, but rather dynamical pro-                      studies report increased affective variability and instability among
+                                                                                                                     cesses that fluctuate in response to environmental demands and                          depressed individuals (e.g., Thompson et al., 2012), while others
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                     regulatory forces (Kuppens, Oravecz, & Tuerlinckx, 2010). Thus,                         link depression with greater resistance to affective change (e.g.,
+                                                                                                                     in addition to studying average levels of affect, examining patterns                    Kuppens, Allen, et al., 2010), suggesting seemingly opposite pat-
+                                                                                                                     of affective fluctuations, or affect dynamics, may provide crucial                      terns of affect dynamics.
+                                                                                                                     insights into psychological functioning and well-being (Bylsma &                           Reconciling these paradoxical findings is not merely an intel-
+                                                                                                                     Rottenberg, 2011; Hollenstein, Lichtwarck-Aschoff, & Pot-                               lectual pursuit. Rather, identifying the specific patterns of affect
+                                                                                                                     worowski, 2013; Wang, Hamaker, & Bergeman, 2012).                                       dynamics associated with depressive symptoms may shed light on
+                                                                                                                        Depression1 is a case in point; while it is well established that                    the specific affective dysregulation involved in depression
+                                                                                                                     depression is associated with higher average levels of negative                         (Campbell-Sills & Barlow, 2007). This may have implications for
+                                                                                                                     affect (NA) and lower average levels of positive affect (PA;                            recognizing depression vulnerability among currently healthy in-
+                                                                                                                     Watson, Clark, & Carey, 1988), recent research indicates that                           dividuals (Kuppens et al., 2012) as well as for the diagnosis and
+                                                                                                                     depression also involves alterations in affect dynamics (Kuppens,                       treatment of clinical depressive disorders. The current study aimed
+                                                                                                                                                                                                             to address this important aim by pinpointing the specific patterns
+                                                                                                                                                                                                             of affect dynamics associated with depressive symptoms using a
+                                                                                                                                                                                                             novel paradigm and analytic approach.
+                                                                                                                        This article was published Online First August 5, 2013.
+                                                                                                                        Peter Koval, Madeline L. Pe, and Kristof Meers, Department of Psy-                        The Paradox of Affect Dynamics in Depression
+                                                                                                                     chology and Educational Sciences, KU Leuven - University of Leuven,
+                                                                                                                     Leuven, Belgium; Peter Kuppens, Department of Psychology and Educa-                       A number of studies have shown that depression is associated
+                                                                                                                     tional Sciences, KU Leuven - University of Leuven and Department of                     with higher affective variability, measured as the within-person
+                                                                                                                     Psychological Sciences, University of Melbourne, Parkville, Australia.                  variance or standard deviation (SD) of affect over time (e.g.,
+                                                                                                                        Peter Koval is a Doctoral Research Fellow with the Research                          Peeters et al., 2006; Wichers et al., 2010). While this finding
+                                                                                                                     Foundation-Flanders (FWO). This research was supported by KU Leuven
+                                                                                                                     Research Council Grants OT/11/031 and GOA/10/02, and by a grant from
+                                                                                                                     the FWO. We thank Philippe Verduyn and Francis Tuerlinckx for their                        1
+                                                                                                                                                                                                                  We use depression as a general term referring to both the clinical
+                                                                                                                     comments.                                                                               syndrome known as Major Depressive Disorder (MDD; American Psychi-
+                                                                                                                        Correspondence concerning this article should be addressed to Peter                  atric Association, 2000) and elevated depressive symptoms that may not
+                                                                                                                     Koval, KU Leuven, Tiensestraat 102, 3000 Leuven, Belgium. E-mail:                       meet diagnostic criteria for MDD. Where relevant, we distinguish between
+                                                                                                                     peter.koval@ppw.kuleuven.be                                                             MDD and depressive symptoms.
+                                                                                                                                                                                                      1132
+                                                                                                                                                                  DEPRESSIVE SYMPTOMS AND AFFECT DYNAMICS                                                     1133
+
+                                                                                                                     indicates that depression is related to the experience of a large       typically examined in isolation, making it difficult to assess how
+                                                                                                                     range of affect levels, it has been misinterpreted as evidence that     each uniquely relates to depression, and possibly giving rise to
+                                                                                                                     depressed individuals are “more emotionally labile” (Silk, Stein-       inconsistent findings across studies. This is particularly problem-
+                                                                                                                     berg, & Morris, 2003, p. 1870). In fact, affective lability or          atic for the MSSD, which may increase either as a function of
+                                                                                                                     instability implies not only high overall variability, but also fre-    higher variability, lower temporal dependency (inertia), or a com-
+                                                                                                                     quent moment-to-moment fluctuations. Variability indices such as        bination of both (Wang et al., 2012). Thus, the association between
+                                                                                                                     the SD do not capture this temporal dependency component of             depression and higher MSSD may, for instance, be fully accounted
+                                                                                                                     instability (Ebner-Priemer, Eid, Kleindienst, Stabenow, & Trull,        for by higher variability, and not by lower inertia (Thompson et al.,
+                                                                                                                     2009; Jahng, Wood, & Trull, 2008). Thus, a person whose affect          2012). This would imply that individuals with depression experi-
+                                                                                                                     level increased linearly over time would have a high level of           ence a larger range of affect levels, but not more frequent shifts in
+                                                                                                                     affective variability (e.g., high SD), but could hardly be labeled as   affect. On the other hand, depression may also be associated with
+                                                                                                                     affectively unstable (Larsen, 1987).                                    both higher variability (e.g., Wichers et al., 2010) and higher
+                                                                                                                        In view of this, Jahng et al. (2008) proposed the mean square        inertia (e.g., Kuppens, Allen, et al., 2010), implying large but slow
+
+
+
+
+   This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                     successive difference (MSSD) as a true measure of affective             shifts in affect. It is crucial to note that because instability may be
+                                                                                                                     instability that incorporates both variability and temporal depen-      driven by increased variability alone (Wang et al., 2012), the
+                                                                                                                     dency. A number of studies using MSSD or similar indices have           combination of high variability and high inertia could also mani-
+                                                                                                                     linked depression with greater affective instability (e.g., Neumann,    fest itself in a relatively higher MSSD among depressed individ-
+                                                                                                                     van Lier, Frijns, Meeus, & Koot, 2011; Schwerdtfeger &                  uals. These dependencies between measures imply that examining
+                                                                                                                     Friedrich-Mai, 2009; Thompson et al., 2012). These studies sug-         each measure in isolation may obfuscate their true associations
+                                                                                                                     gest that, in addition to displaying higher variability, depressed      with depression. Thus, to determine whether depression is truly
+                                                                                                                     individuals experience more frequent affective fluctuations, or         associated with higher affective instability—versus merely higher
+                                                                                                                     lower temporal dependency of affect.                                    variability, or both higher variability and higher inertia—it is
+                                                                                                                        However, research focusing on the temporal dependency of             necessary to examine how the two components of instability (i.e.,
+                                                                                                                     affect, labeled inertia, seems to contradict evidence of greater        variability and inertia) uniquely relate to depression.
+                                                                                                                     affective instability in depression; several studies have found de-        This could be achieved using multiple regression, where vari-
+                                                                                                                     pression to be associated with higher inertia, measured as the          ability (i.e., SD) and inertia (i.e., ACORR) of affect were entered
+                                                                                                                     autocorrelation (ACORR) of affect over time (e.g., Koval, Kup-          as simultaneous predictors of depression. However, given that the
+                                                                                                                     pens, Allen, & Sheeber, 2012; Kuppens, Allen, et al., 2010; Kup-        equation above can be rewritten to express each measure of affect
+                                                                                                                     pens et al., 2012; Wenze, Gunthert, Forand, & Laurenceau, 2009;         dynamics as a function of the other two (e.g., variability can be
+                                                                                                                     but see Thompson et al., 2012). These findings suggest that de-         expressed as a function of inertia and instability), it may also be
+                                                                                                                     pression is associated with greater predictability or resistance to     informative to predict depression simultaneously from the other
+                                                                                                                     affective change from moment to moment.                                 two pairs of dynamic measures. For instance, regressing depres-
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                        As illustrated by the studies reviewed above, the literature on      sion simultaneously onto instability and variability would reveal
+                                                                                                                     affect dynamics in relation to depression presents a paradox:           whether the positive association between depression and instability
+                                                                                                                     depression has been related to increased affective variability, in-     is driven exclusively by higher variability. If this were the case,
+                                                                                                                     stability and inertia. Yet, how can depressed individuals be at once    instability should no longer be associated with depression after
+                                                                                                                     affectively variable, labile, and inert? We propose that previous       controlling for variability. While such a multiple regression ap-
+                                                                                                                     studies have not provided a conclusive test of the association          proach may not control for all the possible confounds arising from
+                                                                                                                     between affect dynamics and depression because they have over-          the mathematical dependencies between measures, it would pro-
+                                                                                                                     looked at least one of the following three important factors: a)        vide a first important step toward revealing the unique associations
+                                                                                                                     dependencies between indices of affect dynamics; b) measurement         between each component of affect dynamics and depression. This
+                                                                                                                     of affect at different timescales; and c) the influence of external     approach also makes it possible to control for mean level of affect,
+                                                                                                                     events.                                                                 which is important when examining affect dynamics (Ebner-
+                                                                                                                                                                                             Priemer et al., 2009).
+                                                                                                                      Dependencies Between Measures of Affect Dynamics
+                                                                                                                        Affective variability, instability, and temporal dependency have                                  Timescale
+                                                                                                                     been investigated as distinct measures, yet they are not indepen-          Another important factor relating to the study of affect dynamics
+                                                                                                                     dent. The mathematical relationship between these three measures        is the timescale on which affective change is considered (Hollen-
+                                                                                                                     is captured by the following equation, derived by Jahng et al.          stein et al., 2013). Previous studies have assessed affect at time-
+                                                                                                                     (2008):                                                                 scales ranging from seconds (Kuppens, Allen, et al., 2010) to days
+                                                                                                                                                                                             (Neumann et al., 2011). This methodological diversity may pro-
+                                                                                                                                             ␦2 ⫽ 2␴2 (1 ⫺ ␳(1))                      (1)
+                                                                                                                                                                                             duce disparate findings for two reasons: First, a given process may
+                                                                                                                       Here, the instability (i.e., MSSD, ␦ ) of a time series is ex-
+                                                                                                                                                              2
+                                                                                                                                                                                             appear very different when measured at various sampling frequen-
+                                                                                                                     pressed as a function of its variability (i.e., variance, ␴2) and       cies (Ebner-Priemer & Sawitzki, 2007). For instance, observing
+                                                                                                                     temporal dependency [i.e., first-order ACORR, ␳(1)], meaning that       the sun’s position in the sky once a day versus every hour would
+                                                                                                                     “a high value of temporal instability. . .is obtained when the series   produce vastly different profiles of change. Second, measuring
+                                                                                                                     has high variability and low temporal dependency” (Jahng et al.,        feelings at different timescales may actually capture different
+                                                                                                                     2008, p. 356). However, each measure of affect dynamics is              affective processes. For example, moods and emotions are often
+                                                                                                                     1134                                                 KOVAL, PE, MEERS, AND KUPPENS
+
+
+                                                                                                                     distinguished by their duration, with moods lasting longer and            used multiple regression to assess how depressive symptoms were
+                                                                                                                     being slower to change than emotions (Rosenberg, 1998). Hence,            uniquely associated with measures of variability, inertia, and in-
+                                                                                                                     affective changes over hours or days may be driven primarily by           stability derived from both the film-clip task and ESM.
+                                                                                                                     mood-related processes, whereas dynamics at shorter timescales               Few studies have directly compared how depression relates to
+                                                                                                                     may be more likely to be governed by emotion-related processes            the dynamics of NA versus PA, with most either focusing exclu-
+                                                                                                                     (Rottenberg, 2005). By implication, the association between de-           sively on NA (e.g., Koval et al., 2012; Silk et al., 2003) or using
+                                                                                                                     pression and higher inertia at shorter timescales (e.g., Koval &          bipolar scales (e.g., Cowdry, Gardner, O’Leary, Leibenluft, &
+                                                                                                                     Kuppens, 2012; Kuppens, Allen, et al., 2010) may reflect insen-           Rubinow, 1991; Golier, Yehuda, Schmeidler, & Siever, 2001).
+                                                                                                                     sitivity to the changing emotional context (Rottenberg, 2005),            However, some research suggests that depression may be more
+                                                                                                                     whereas higher instability among depressed individuals at longer          strongly related to alterations in NA dynamics (e.g., Thompson et
+                                                                                                                     timescales (e.g., Thompson et al., 2012) may reflect mood swings.         al., 2012; Wichers et al., 2010), and this is supported by the
+                                                                                                                     Emotional inertia and mood instability could conceivably co-              findings of a recent meta-analysis (Houben, Kuppens, & Van Den
+                                                                                                                     occur, perhaps even within the same individual. Thus, taking into         Noortgate, 2013). In line with these findings, we predicted that
+
+
+
+
+   This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                     account the timescale is crucial when interpreting associations           depressive symptoms would be more strongly related to NA dy-
+                                                                                                                     between depression and affect dynamics.                                   namics. Also in line with previous research, we predicted that
+                                                                                                                                                                                               depressive symptoms would be positively related to all measures
+                                                                                                                                                                                               of NA dynamics when examined using simple correlations. How-
+                                                                                                                                         The Influence of Events
+                                                                                                                                                                                               ever, in contrast to previous findings, we expected these associa-
+                                                                                                                        Previous studies of affect dynamics in depression have predom-         tions to change when controlling for overlap between dynamic
+                                                                                                                     inantly used the experience sampling method (ESM) or similar              measures using multiple regression. Specifically, we predicted that
+                                                                                                                     naturalistic methods (e.g., Koval & Kuppens, 2012; Wichers et al.,        depressive symptoms would be independently related to higher
+                                                                                                                     2010). While these methods offer many advantages, including high          NA inertia (e.g., Kuppens, Allen, et al., 2010; Kuppens et al.,
+                                                                                                                     ecological validity, they do not afford proper control over events.       2012) and NA variability (e.g., Wichers et al., 2010). Due to the
+                                                                                                                     This is problematic because observed differences in affect dynam-         relationship between dynamic measures (see equation 1), this
+                                                                                                                     ics may result either from environmental differences (i.e., encoun-       prediction also implies that the association between NA instability
+                                                                                                                     tered events) or from differences in emotional responding and             and depressive symptoms should become negative after control-
+                                                                                                                     regulation (Koole, 2009). Indeed, depression is not only associated       ling for variability. Put otherwise, statistically removing the vari-
+                                                                                                                     with altered reactivity to emotional events (e.g., Bylsma, Taylor-        ability component of instability leaves the inverse of inertia. If
+                                                                                                                     Clift, & Rottenberg, 2011) and impairments in emotion regulation          depressive symptoms are related to higher NA inertia, they should
+                                                                                                                     (Gross & Muñoz, 1995), but also with the experience of more               be negatively associated with NA instability once variability is
+                                                                                                                     frequent stressful events (Hammen, 2005). Each of these may               partialed out. We did not make strong a priori hypotheses regard-
+                                                                                                                     contribute to the alterations in affect dynamics observed in depres-      ing differences in results from the film-clip task versus ESM.
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                     sion. Controlling for the influence of external events is an impor-       Rather, measuring participants’ affect dynamics using both meth-
+                                                                                                                     tant step toward disentangling the role of context versus more            ods allowed us to explore how timescale and exposure to events
+                                                                                                                     endogenous factors. Thus, studies on individual differences in            influenced associations between affect dynamics and depressive
+                                                                                                                     affect dynamics using tightly controlled laboratory designs, in           symptoms.
+                                                                                                                     which all participants encounter the same sequence of events, are
+                                                                                                                     urgently needed. Exposing all participants to a series of emotional
+                                                                                                                     stimuli in a fixed order would help rule out the influence of                                          Method
+                                                                                                                     differential exposure to events in determining differences in affect
+                                                                                                                     dynamics. For instance, previous studies linking depressive symp-         Participants and Prescreening
+                                                                                                                     toms with increased NA inertia in daily life (e.g., Koval et al.,
+                                                                                                                     2012) cannot rule out the possibility that higher inertia was driven         An initial pool of 439 undergraduates at the KU Leuven were
+                                                                                                                     by differences in the type or sequence of events encountered by           screened on depressive symptoms using the Center for Epidemi-
+                                                                                                                     more depressed individuals.                                               ologic Studies Depression Scale (CES-D; Radloff, 1977; Range ⫽
+                                                                                                                                                                                               0 –52, M ⫽ 16.39, SD ⫽ 10.27, ␣ ⫽ .92). We aimed to recruit 100
+                                                                                                                                                                                               participants representing a wide, balanced, and uniform range of
+                                                                                                                                            The Current Study
+                                                                                                                                                                                               depressive symptoms. This sample size was selected to ensure
+                                                                                                                        The current study used a novel paradigm and analytic approach          sufficient power for detecting expected effect sizes (i.e., correla-
+                                                                                                                     to address the limitations discussed above. Specifically, we de-          tions around .3) and based on the budget available for paying
+                                                                                                                     signed a task in which participants rated their affect in response to     participants. We adopted a stratified sampling approach (Ingram &
+                                                                                                                     a series of emotional film clips presented in a fixed order in the lab.   Siegle, 2009), whereby the CES-D prescreening range was divided
+                                                                                                                     This paradigm measured feelings in response to a specific se-             into five roughly equal segments, and a random sample of partic-
+                                                                                                                     quence of events on a timescale of minutes and, therefore, clearly        ipants from each segment were contacted. We contacted 241
+                                                                                                                     captured the dynamics of emotions (vs. moods). Participants also          eligible participants before reaching our target sample of 100
+                                                                                                                     reported their feelings in daily life 10 times a day for 1 week using     (CES-D prescreening Range ⫽ 0 –50; M ⫽ 19.27; SD ⫽ 12.53).
+                                                                                                                     ESM, providing a naturalistic comparison for our laboratory find-         The final sample included 55 participants scoring above Radloff’s
+                                                                                                                     ings. Participants were preselected to represent a wide range of          (1977) clinical cutoff score (CES-Dⱖ16), and 32 participants who
+                                                                                                                     depressive symptoms based on a prescreening questionnaire. We             scored above the more conservative clinical cutoff (CES-D ⱖ 27)
+                                                                                                                                                                      DEPRESSIVE SYMPTOMS AND AFFECT DYNAMICS                                                          1135
+
+                                                                                                                     proposed by Gotlib, Lewinson, and Seeley (1995).2 Participants                   and the Last Crusade (negative), When a Man Loves a Woman
+                                                                                                                     were recruited as part of a larger study investigating different aspects         (positive). We selected these clips based on emotion ratings from
+                                                                                                                     of emotional functioning for which they received 70€. One partici-               Schaefer et al.’s (2010) validation study. To avoid ceiling effects,
+                                                                                                                     pant withdrew early, leaving a final sample of 99 (62 women;                     the selected film clips were not among the 20 highest on “emo-
+                                                                                                                     Mage ⫽ 19.05, SDage ⫽ 1.27). ESM data from four additional                       tional arousal” in Schaefer et al.’s (2010) validation study. To limit
+                                                                                                                     participants were excluded due to equipment malfunction (n ⫽ 3)                  the overall length of the task, the selected clips were shorter than
+                                                                                                                     or poor compliance with the ESM protocol (n ⫽ 1). No other data                  3 min (Range ⫽ 0:25–2:28 min). Finally, only English-speaking
+                                                                                                                     exclusions were administered.3                                                   film clips were used and Dutch subtitles were added. Affect ratings
+                                                                                                                                                                                                      were made on two items measuring PA (happy, relaxed) and four
+                                                                                                                                                                                                      items measuring NA (sad, depressed, anxious, angry) rated on a
+                                                                                                                     Materials and Procedure                                                          scale from 0 (not at all) to 6 (very much).
+                                                                                                                        At an initial lab session, participants once again completed the                 ESM protocol. Participants received a Palm Tungsten E2
+                                                                                                                     CES-D to assess their current depressive symptoms, among other                   palmtop that was programmed using the Experience Sampling
+
+
+
+
+   This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                     personality, well-being, cognitive control, and resting physiology               Program (Barrett & Barrett, 2001) to beep 10 times/day for 7 days,
+                                                                                                                     measures. No other measures or manipulations were administered.                  according to a stratified random interval scheme. On average,
+                                                                                                                     Participants then reported their daily experiences of PA and NA 10               participants were beeped every 73.30 min (SD ⫽ 29.33). Compli-
+                                                                                                                     times/day for 7 days using ESM. At the end of the week, partic-                  ance was high: participants responded to an average of 91.5%
+                                                                                                                     ipants returned to the lab for a final session during which they                 of the programmed beeps (SD ⫽ 6.2). At each beep, participants
+                                                                                                                     completed the film-clip task.                                                    rated their current PA and NA using the same items as in the
+                                                                                                                        Depressive symptoms. The CES-D was used to measure cur-                       film-clip task, with responses on a continuous slider scale from 1
+                                                                                                                     rent depressive symptoms. This 20-item scale asks respondents to                 (not at all) to 100 (very much).
+                                                                                                                     indicate how frequently they have experienced a range of depres-                    Affect dynamics. Separately for the film-clip and ESM data,
+                                                                                                                     sive symptoms (e.g., “I had crying spells”) over the past week from              we formed PA and NA scales by averaging scores on the two
+                                                                                                                     0 (rarely or none of the time) to 3 (most or all of the time).                   positive and four negative feeling items, respectively. We then
+                                                                                                                     Descriptives for the CES-D are displayed in Table 1. At the time                 calculated the following within-person measures of affect dynam-
+                                                                                                                     of the study, 37 participants scored at or above Radloff’s (1977)                ics separately for PA and NA: the within-person SD was used as a
+                                                                                                                     clinical cutoff (CES-Dⱖ16) whereas only 13 participants scored at                measure of affective variability (Wichers et al., 2010). Affective
+                                                                                                                     or above the more conservative clinical cutoff (CES-Dⱖ27) pro-                   instability was calculated as the RMSSD (the square root of the
+                                                                                                                     posed by Gotlib et al. (1995). The scale showed very good reli-                  MSSD), which expresses instability on the original scale of the
+                                                                                                                     ability (␣ ⫽ .92) and correlated with CES-D at prescreening at                   affect items and also corrected for the positively skewed MSSD
+                                                                                                                     r(99) ⫽ .72, p ⬍ .001. All analyses reported below used CES-D                    scores (Jahng et al., 2008). The ACORR was used to measure the
+                                                                                                                     scores measured at the time of the study, not the CES-D scores                   temporal dependency or inertia of affect (Kuppens, Allen, et al.,
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                     measured at prescreening.                                                        2010). Finally, we calculated the mean level of PA and NA to
+                                                                                                                        Film-clip task. The task was programmed using E-Prime                         include as an additional control variable in our analyses.
+                                                                                                                     (Psychology Software Tools, Inc.). Participants completed the task
+                                                                                                                     in individual cubicles with headphones, on PCs with 17-inch color                                               Results
+                                                                                                                     CRT monitors (1024 ⫻ 768 resolution; 60Hz refresh rate). The
+                                                                                                                     task began with the following instructions:
+                                                                                                                                                                                                      Film Clip Manipulation Check
+                                                                                                                         During this task you will watch several film clips. Each film clip will
+                                                                                                                         be followed by a number of questions asking you how you are feeling             To check that the film clips successfully induced the intended
+                                                                                                                         at the moment. Please rate how you feel after watching each film clip,       emotional valence, we analyzed participants’ PA and NA ratings
+                                                                                                                         not how you are feeling today, or how you feel in general, or how you        using two separate repeated-measures ANOVAs with film-valence
+                                                                                                                         think people should feel after seeing each film clip. . . Please note that   (positive vs. negative vs. neutral) as the within factor. Both models
+                                                                                                                         you will have a maximum of 7s to complete each question.                     were highly significant: Fs ⬎ 127, ps ⬍. 001. Follow-up compar-
+                                                                                                                                                                                                      isons indicated that positive films elicited significantly higher
+                                                                                                                        These instructions aimed to reduce demand effects and ensure                  levels of PA than negative and neutral films, whereas negative
+                                                                                                                     that participants reported emotions rather than moods or affective               films induced significantly greater NA than positive and neutral
+                                                                                                                     traits. Before the main task began, participants viewed a neutral                films (ps ⬍ .001).
+                                                                                                                     film clip and were given the chance to practice completing ratings
+                                                                                                                     in the allotted time. Participants then completed baseline affect
+                                                                                                                     ratings, after which they viewed 10 film clips presented in a fixed              Simple Correlation Analyses
+                                                                                                                     sequence and rated their affect following each clip. Film clips were                Pearson correlations were calculated between CES-D scores and
+                                                                                                                     selected from a validated database of 70 emotion-eliciting film                  all measures of affect dynamics from both the film-clip task and
+                                                                                                                     excerpts (Schaefer, Nils, Sanchez, & Philippot, 2010) and com-
+                                                                                                                     prised four positive, four negative, and two neutral clips, shown in
+                                                                                                                                                                                                         2
+                                                                                                                     the following fixed order: Trainspotting[1] (negative), Schindler’s                   CES-D scores reported from the prescreening were used for recruit-
+                                                                                                                                                                                                      ment purposes only and are not the scores used in the main analyses (see
+                                                                                                                     List[3] (negative), Blue[2] (neutral), Trainspotting[3] (positive),              below).
+                                                                                                                     Blue[3] (neutral), The Dentist (negative), Benny and Joon (posi-                    3
+                                                                                                                                                                                                           All analyses were conducted using the maximum available sample
+                                                                                                                     tive), There is Something About Mary[1] (positive), Indiana Jones                size: for analyses involving ESM data n⫽95; for all other analyses n⫽99.
+                                          This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                       This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+
+
+
+                                                                                                                                                                                                    1136
+
+
+
+
+Table 1
+Descriptive Statistics and Zero-Order Correlations for All Measures
+
+                                                                                                                   Correlations
+                                                         NA (Film clips)                       PA (Film clips)                            NA (ESM)                               PA (ESM)
+      Measure            Mean (SD)    CES-D      M      SD     ACORR       RMSSD       M       SD     ACORR      RMSSD       M       SD     ACORR      RMSSD        M     SD      ACORR     RMSSD
+
+CES-D                 14.52 (9.78)      1.00
+NA (Film clips)
+  Mean level (M)       0.92 (0.65)       .37    1.00
+  Variability (SD)     0.94 (0.50)       .32     .76    1.00
+  Inertia (ACORR)      0.10 (0.26)       .26     .02     .01     1.00
+  Instability (RMSSD)  1.21 (0.67)       .19     .69     .93     ⫺.29        1.00
+PA (Film clips)
+  Mean level (M)       2.73 (0.63)     ⫺.32    ⫺.42    ⫺.33      ⫺.10       ⫺.28      1.00
+  Variability (SD)     1.35 (0.47)      .09     .31     .59      ⫺.01        .55      ⫺.09   1.00
+  Inertia (ACORR)     ⫺0.13 (0.26)      .09    ⫺.23    ⫺.16       .26       ⫺.24       .22   ⫺.07      1.00
+  Instability (RMSSD)  1.95 (0.71)      .02     .32     .58      ⫺.11        .58      ⫺.09    .96      ⫺.32        1.00
+NA (ESM)
+  Mean level (M)      15.65 (10.75)      .62     .63     .46       .32        .26     ⫺.29      .15    ⫺.04         .12      1.00
+  Variability (SD)     9.84 (4.79)       .59     .54     .45       .20        .32     ⫺.31      .22     .00         .19       .81    1.00
+  Inertia (ACORR)      0.32 (0.22)       .34     .45     .29       .19        .24     ⫺.31      .12    ⫺.06         .10       .47     .44     1.00
+                                                                                                                                                                                                    KOVAL, PE, MEERS, AND KUPPENS
+
+
+
+  Instability (RMSSD) 10.72 (4.75)       .54     .42     .38       .17        .27     ⫺.19      .22     .01         .19       .68     .88      .03          1.00
+PA (ESM)
+  Mean level (M)      57.26 (13.18)    ⫺.60    ⫺.36    ⫺.22      ⫺.19       ⫺.10       .53   ⫺.04       .03       ⫺.02      ⫺.62    ⫺.54     ⫺.51           ⫺.35   1.00
+  Variability (SD)    17.33 (4.55)      .23     .19     .24      ⫺.08        .24      ⫺.14    .43       .00        .43       .22     .43      .04            .46   ⫺.27   1.00
+  Inertia (ACORR)      0.33 (0.20)      .06     .03    ⫺.01       .02        .01      ⫺.13    .05      ⫺.08        .06       .01     .06      .38           ⫺.13   ⫺.24    .21      1.00
+  Instability (RMSSD) 19.34 (5.16)      .23     .16     .24      ⫺.07        .23      ⫺.06    .38       .07        .36       .23     .41     ⫺.17            .55   ⫺.12    .82      ⫺.36     1.00
+Note. NA ⫽ Negative affect; PA ⫽ Positive affect; ESM ⫽ Experience sampling method; CES-D ⫽ Centre for Epidemiologic Studies Depression Scale; M ⫽ mean level; SD ⫽ standard deviation;
+ACORR ⫽ autocorrelation; RMSSD ⫽ root mean square successive difference.
+Correlations based on film-clip data (n ⫽ 99) ⱖ .20 are significant at p ⬍ .05 (two-tailed); Correlations based on ESM data (n ⫽ 95) ⱖ .21 are significant at p ⬍ .05 (two-tailed).
+                                                                                                                                                                 DEPRESSIVE SYMPTOMS AND AFFECT DYNAMICS                                                   1137
+
+                                                                                                                     ESM. These correlations, representing effect sizes for bivariate       related to depressive symptoms. Thus, our main analyses con-
+                                                                                                                     associations between depressive symptoms and each measure of           sisted of regressing CES-D scores simultaneously onto SD and
+                                                                                                                     affect dynamics, are presented in Table 1 together with descriptive    ACORR. We also conducted ancillary analyses predicting
+                                                                                                                     statistics for all study variables.                                    CES-D scores simultaneously from the other two pairwise
+                                                                                                                        Film-clip task. Regarding film-clip dynamics, depressive            combinations of dynamic measures (given the mathematical
+                                                                                                                     symptoms were associated with higher inertia (p ⫽ .01), variability    relationships between dynamic measures, including all three
+                                                                                                                     (p ⫽ .001) and instability (p ⫽ .061) of NA, whereas none of the       measures in a single model would have resulted in problematic
+                                                                                                                     PA dynamic measures from the film-clip task correlated with the        multicollinearity). At a second step of each model, we addi-
+                                                                                                                     CES-D (ps ⬎ .35). Depressive symptoms were also related to             tionally controlled for mean level of affect. Separate analyses
+                                                                                                                     higher mean NA and lower mean PA (ps ⬍ .01).                           were conducted using data from the film-clip task and ESM,
+                                                                                                                        ESM. We found similar results for NA dynamics based on              and separate models were conducted for dynamics of NA and
+                                                                                                                     ESM data: depressive symptoms correlated positively with NA            PA. Tables 2 and 3 display results of the six multiple regression
+                                                                                                                     inertia (p ⫽ .001), variability (p ⬍ .001) and instability (p ⬍        models in which pairs of NA dynamics were entered as simul-
+
+
+
+
+   This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                     .001). However, in contrast to the film clips, depressive symp-        taneous predictors of depressive symptoms. In these tables,
+                                                                                                                     toms were also positively associated with PA variability (p ⫽          standardized betas are effect sizes representing the unique as-
+                                                                                                                     .03) and instability (p ⫽ .02). Finally, depressive symptoms           sociation between each measure of NA dynamics and depres-
+                                                                                                                     were related to higher mean NA and lower mean PA in daily life         sive symptoms after controlling for the other NA dynamic
+                                                                                                                     (ps ⬍ .001).                                                           measure in the model (Step 1), and after additionally controlling
+                                                                                                                        Associations between film-clip and ESM measures. Given              for mean level of NA (Step 2). Finally, R2 values in Tables 2
+                                                                                                                     that participants completed both the film-clip task and ESM, we
+                                                                                                                                                                                            and 3 are effect sizes representing the proportion of variance in
+                                                                                                                     were also able to examine whether affect (dynamic) measures
+                                                                                                                                                                                            depressive symptoms accounted for by the combined predictors
+                                                                                                                     obtained in the lab correlated with those measured in daily life.
+                                                                                                                                                                                            in each model.
+                                                                                                                     Mean levels of affect showed the strongest positive correlation
+                                                                                                                                                                                               Film-clip task. In a first multiple regression analysis, NA
+                                                                                                                     across paradigms (ps ⬍ .001). However, we also found (margin-
+                                                                                                                                                                                            inertia and variability were entered as simultaneous predictors
+                                                                                                                     ally) significant positive correlations between all dynamic mea-
+                                                                                                                                                                                            of CES-D scores (see Table 2). Both inertia and variability were
+                                                                                                                     sures from the ESM and those from the film-clip task (ps ⬍ .07),
+                                                                                                                                                                                            significantly positively associated with depressive symptoms.
+                                                                                                                     with the exception of PA inertia which was unrelated across the
+                                                                                                                                                                                            However, after adding mean level of NA to the model (at Step
+                                                                                                                     two paradigms (p ⫽ .42).
+                                                                                                                                                                                            2), the effect of NA inertia remained significant, whereas the
+                                                                                                                                                                                            effect of variability became nonsignificant. Thus, both NA
+                                                                                                                     Multiple Regression Analyses                                           variability and inertia were independently associated with
+                                                                                                                       To examine whether the simple correlations between affect            higher depressive symptoms, but only the association with
+                                                                                                                     dynamics and depressive symptoms (reported above) were ac-             inertia remained after controlling for mean NA. We ran two
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                     counted for by overlap between dynamic measures, we ran                additional models predicting depressive symptoms from the
+                                                                                                                     two-step multiple regression analyses. In particular, we aimed         other two pairs of affect dynamics. In Model 2, CES-D scores
+                                                                                                                     to determine how variability and inertia were independently            were regressed onto NA variability and instability: depressive
+
+
+                                                                                                                     Table 2
+                                                                                                                     Results of Multiple Regression Models Predicting Depression Severity From Dynamics and Mean Level of Negative Affect in the
+                                                                                                                     Film-Clip Task
+
+                                                                                                                                                                          Step 1                                           Step 2 (including Mean level)
+                                                                                                                                                        B (SE)                 ␤               p                  B (SE)                    ␤                p
+
+                                                                                                                     Model 1
+                                                                                                                       Variability (SD)                6.25 (1.83)            .32             .001                2.10 (2.75)               .11             .447
+                                                                                                                       Inertia (ACORR)                 9.51 (3.50)            .25             .008                9.35 (3.45)               .25             .008
+                                                                                                                       Mean level                          —                  —               —                   4.17 (2.09)               .28             .049
+                                                                                                                     Adjusted R2                          .150                               ⬍.001                  .175                                   ⬍.001
+                                                                                                                     Model 2
+                                                                                                                       Variability (SD)              22.18 (5.02)            1.13            ⬍.001              17.79 (5.46)               .90              .002
+                                                                                                                       Instability (RMSSD)          ⫺12.55 (3.71)            ⫺.86             .001             ⫺12.15 (3.66)              ⫺.84              .001
+                                                                                                                       Mean level                         —                   —               —                  3.92 (2.06)               .26              .060
+                                                                                                                     Adjusted R2                         .182                                ⬍.001                 .204                                    ⬍.001
+                                                                                                                     Model 3
+                                                                                                                       Inertia (ACORR)                12.74 (3.71)            .34              .001               9.62 (3.81)               .26             .013
+                                                                                                                       Instability (RMSSD)             4.16 (1.43)            .29              .005               0.37 (2.04)               .03             .855
+                                                                                                                       Mean level                          —                  —                —                  5.11 (2.01)               .34             .013
+                                                                                                                     Adjusted R2                          .123                                 .001                 .170                                   ⬍.001
+                                                                                                                     Note. SD ⫽ standard deviation; ACORR ⫽ autocorrelation; RMSSD ⫽ root mean square successive difference.
+                                                                                                                     N ⫽ 99 for all regression models.
+                                                                                                                     1138                                              KOVAL, PE, MEERS, AND KUPPENS
+
+
+                                                                                                                     Table 3
+                                                                                                                     Results of Multiple Regression Models Predicting Depression Severity From Dynamics and Mean Level of Negative Affect in the ESM
+
+                                                                                                                                                                           Step 1                                            Step 2 (including Mean level)
+                                                                                                                                                         B (SE)                 ␤                p                  B (SE)                  ␤                  p
+
+                                                                                                                     Model 4
+                                                                                                                       Variability (SD)                 1.11 (0.19)            .55            ⬍.001               0.53 (0.28)               .26               .058
+                                                                                                                       Inertia (ACORR)                  4.39 (4.02)            .10             .277               1.93 (3.99)               .04               .629
+                                                                                                                       Mean level                           —                  —               —                  0.35 (0.13)               .38               .007
+                                                                                                                     Adjusted R2                           .347                               ⬍.001                  .390                                    ⬍.001
+                                                                                                                     Model 5
+                                                                                                                       Variability (SD)                 1.10 (0.36)            .54             .003               0.32 (0.43)               .16               .451
+                                                                                                                       Instability (RMSSD)              0.11 (0.36)            .06             .752               0.23 (0.35)               .12               .502
+                                                                                                                       Mean level                           —                  —               —                  0.37 (0.12)               .41               .004
+
+
+
+
+   This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                     Adjusted R2                           .339                               ⬍.001                  .391                                    ⬍.001
+                                                                                                                     Model 6
+                                                                                                                       Inertia (ACORR)                 14.04 (3.53)            .32            ⬍.001               7.68 (4.36)               .18               .081
+                                                                                                                       Instability (RMSSD)              1.07 (0.17)            .52            ⬍.001               0.63 (0.25)               .31               .012
+                                                                                                                       Mean level                           —                  —               —                  0.29 (0.12)               .33               .019
+                                                                                                                     Adjusted R2                           .378                               ⬍.001                  .408                                    ⬍.001
+                                                                                                                     Note. SD ⫽ standard deviation; ACORR ⫽ autocorrelation; RMSSD ⫽ root mean square successive difference.
+                                                                                                                     N ⫽ 95 for all regression models.
+
+
+                                                                                                                     symptoms were significantly positively associated with NA              to depressive symptoms. Again, NA mean level was positively
+                                                                                                                     variability, whereas the association with NA instability was           related to depressive symptoms in all three Models, independent of
+                                                                                                                     significantly negative (see Table 2).4 Results did not change          NA dynamics. Finally, because variability and instability of PA in
+                                                                                                                     after controlling for mean NA at Step 2. Recall that the simple        the ESM were correlated with depressive symptoms (see Table 1),
+                                                                                                                     correlation between depressive symptoms and NA instability             we conducted a final regression model predicting CES-D scores
+                                                                                                                     was positive (see Table 1). Thus, after partialing out the vari-       simultaneously from PA variability and instability. Neither PA
+                                                                                                                     ability component of instability, the remaining component was          instability nor variability showed independent associations with
+                                                                                                                     negatively associated with depressive symptoms. This is con-           depressive symptoms (ps ⬎ .42).
+                                                                                                                     sistent with the results of Model 1, in which both variability and        Analyses using dichotomized CES-D scores. The above
+                                                                                                                     inertia were independently positively related to depressive            findings are not directly analogous to the findings of previous
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                     symptoms. In Model 3, NA inertia and instability were entered
+                                                                                                                                                                                            studies that have compared affect dynamics among clinically de-
+                                                                                                                     together as simultaneous predictors; both inertia and instability
+                                                                                                                                                                                            pressed versus healthy participants (e.g., Thompson et al., 2012).
+                                                                                                                     were independently positively associated with depressive symp-
+                                                                                                                                                                                            However, to approximate such a comparison we conducted addi-
+                                                                                                                     toms (see Table 2). After controlling for NA mean level at Step
+                                                                                                                                                                                            tional analyses using dichotomized CES-D scores.5 Specifically,
+                                                                                                                     2, the effect of inertia remained significant, whereas instability
+                                                                                                                     was no longer related to depressive symptoms. Mean level of            we compared participants reporting potentially clinically signifi-
+                                                                                                                     NA independently predicted depressive symptoms in all three            cant levels of depressive symptoms (i.e., CES-Dⱖ27, n ⫽ 13; see
+                                                                                                                     models. We did not run multiple regressions for film-clip PA           Gotlib et al., 1995) versus those with low levels of depressive
+                                                                                                                     dynamics as none of the PA dynamic measures correlated with            symptoms (CES-Dⱕ9, n ⫽ 37). However, because so few partic-
+                                                                                                                     depressive symptoms (see Table 1).                                     ipants scored at or above Gotlib et al.’s (1995) proposed CES-D
+                                                                                                                        ESM. As for the film-clip data, we first regressed CES-D            clinical cutoff, we also repeated the analyses using Radloff’s
+                                                                                                                     scores onto NA inertia and variability. Depressive symptoms were       (1977) lower clinical cutoff (CES-Dⱖ16, n ⫽ 37). Using logistic
+                                                                                                                     independently associated with significantly higher NA variability.     regression, we repeated Models 1– 6 (see above) with high versus
+                                                                                                                     However, the association between depressive symptoms and NA            low CES-D group (coded as 1 ⫽ high CES-D; 0 ⫽ low CES-D) as
+                                                                                                                     inertia was not significant (see Model 4 in Table 3). After mean       the dichotomous outcome. All effects at Step 1 of Models 1– 6
+                                                                                                                     level of NA was added to the model at Step 2, the association with     remained in the same direction and statistically (non)significant
+                                                                                                                     NA variability became marginally significant. We again ran two         when using dichotomized CES-D scores as the outcome. At Step
+                                                                                                                     additional models predicting depressive symptoms from the other        2 of each model, all effects were in the same direction as in the
+                                                                                                                     two pairs of affect dynamics. In Model 5, CES-D scores were            original analyses. However, some previously significant effects
+                                                                                                                     positively associated with NA variability, but were unrelated to       became marginally significant or vice versa. In sum, the analyses
+                                                                                                                     instability of NA (see Table 3). However, even the effect of
+                                                                                                                     variability became nonsignificant after controlling for NA mean
+                                                                                                                                                                                               4
+                                                                                                                     level at Step 2. In Model 6, both inertia and instability showed            Although SD and RMSSD were highly correlated (see Table 1), VIFs
+                                                                                                                     independent positive associations with depressive symptoms (see        were ⬍8 (see Myers, 1990). Furthermore, repeating Model 2 with random
+                                                                                                                                                                                            subsamples of 60%, 70%, 80%, and 90% of participants did not change
+                                                                                                                     Table 3). After controlling for NA mean level (Step 2), inertia        results, suggesting that multicollinearity was not problematic.
+                                                                                                                     remained a marginally significant predictor of higher depressive          5
+                                                                                                                                                                                                 We thank an anonymous reviewer for suggesting these additional
+                                                                                                                     symptoms, and instability remained significantly positively related    analyses using dichotomized CES-D scores.
+                                                                                                                                                                 DEPRESSIVE SYMPTOMS AND AFFECT DYNAMICS                                                       1139
+
+                                                                                                                     using dichotomized CES-D scores (with either 27 or 16 as a cutoff        NA inertia and instability (in the ESM) showed independent pos-
+                                                                                                                     for the high CES-D group) closely replicated our main findings.          itive associations with depressive symptoms, yet neither had a
+                                                                                                                                                                                              significant independent effect (over and above variability) in Mod-
+                                                                                                                                                                                              els 4 and 5. We speculate that this may be driven by the relation-
+                                                                                                                                                 Discussion
+                                                                                                                                                                                              ship between variability and depressive symptoms; RMSSD and
+                                                                                                                        In the current study, we examined how depressive symptoms are         ACORR may become significant predictors when entered together
+                                                                                                                     related to affective changes in response to a fixed sequence of          because of their overlap with SD (see Table 1).
+                                                                                                                     events on a timescale of minutes (film-clip task) versus naturalistic       Taken together, the current findings provide partial support for
+                                                                                                                     affective fluctuations in daily life on a timescale of hours (ESM),      our hypotheses. As predicted, depressive symptoms were indepen-
+                                                                                                                     while statistically controlling for overlap between different dy-        dently associated with both higher variability and inertia of NA.
+                                                                                                                     namic measures. This approach aimed to pinpoint the specific             However, the association with inertia was only robust for short-
+                                                                                                                     patterns of affect dynamics associated with depressive symptoms          term emotional changes in response to a fixed sequence of events,
+                                                                                                                     and thus suggest a way to reconcile previous inconsistencies in the      as captured by the film-clip task. These findings line up with
+
+
+
+
+   This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                     literature.                                                              previous studies linking depression with higher variability (e.g.,
+                                                                                                                        In terms of simple correlations, our results replicated the para-     Wichers et al., 2010) and inertia (e.g., Kuppens, Allen, et al.,
+                                                                                                                     doxical results of previous studies: depressive symptoms were            2010). Importantly, these findings also clarify how depression can
+                                                                                                                     positively related to variability, inertia, and instability of NA both   be related to higher inertia, higher variability, and higher instabil-
+                                                                                                                     in the lab (film-clip task) and in daily life (ESM). These findings      ity of affect at the same time. While it is possible to imagine a
+                                                                                                                     also line up with a recent meta-analysis of the literature on affect     person whose affect is both variable and inert (i.e., large but slow
+                                                                                                                     dynamics and well-being, in which depression was found to be             changes in affect), it is more difficult to see how affective inertia
+                                                                                                                     associated with significantly greater variability, instability, and      and instability could coexist. However, because of the strong
+                                                                                                                     inertia of NA (Houben et al., 2013). However, after controlling for      dependency between instability (as measured by the MSSD) and
+                                                                                                                     dependencies between measures of affect dynamics using multiple          variability (as measured by the SD), having higher variability may
+                                                                                                                     regression, a different pattern of results emerged.                      be sufficient to inflate a person’s level of instability, regardless of
+                                                                                                                        Multiple regression analyses showed that depressive symptoms          their level of inertia.
+                                                                                                                     were independently related to both higher inertia and higher vari-          The current findings have a number of implications for the study
+                                                                                                                     ability of NA in response to the film clips (see Model 1). Yet, only     of affect dynamics. First and foremost, our findings highlight the
+                                                                                                                     the association with inertia remained significant after controlling      importance of distinguishing between affect dynamics at different
+                                                                                                                     for mean NA. These findings suggest that, at a short timescale and       timescales. While this issue has received relatively little attention
+                                                                                                                     controlling for external events, depressive symptoms were related        in the literature, it is essential for understanding individual differ-
+                                                                                                                     to the tendency to experience more intense negative feelings that        ences in affect dynamics (Hollenstein et al., 2013; Rottenberg,
+                                                                                                                     were more resistant to change over time. Due to the mathematical         2005). For instance, we found depressive symptoms to be inde-
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                     relationships between dynamic measures, these findings imply that        pendently related to higher NA autocorrelation in the film-clip
+                                                                                                                     the association between depressive symptoms and NA instability           task, but not in the ESM. This implies that depressive symptoms
+                                                                                                                     should become negative after controlling for the effect of NA            are associated with higher inertia of negative emotions but not
+                                                                                                                     variability, which is exactly what we found in Model 2. This             necessarily of negative moods. In contrast, increased NA variabil-
+                                                                                                                     reversal of the relationship between instability and depressive          ity was related to depressive symptoms in both the film-clip task
+                                                                                                                     symptoms is due to the fact that partialing out the variability          and ESM, suggesting that it may apply to both emotions and
+                                                                                                                     component of instability leaves the inverse of temporal depen-           moods.
+                                                                                                                     dency (i.e., low inertia—see Equation 1); since we found depres-            In a related vein, the current study’s findings suggest that the
+                                                                                                                     sive symptoms to be related to higher inertia, it follows that the       role of contextual factors, such as differential exposure to events,
+                                                                                                                     inverse of inertia correlates negatively with depressive symptoms.       should be given greater consideration in research on affect dynam-
+                                                                                                                        Similar analyses of the ESM data revealed that only NA vari-          ics. Specifically, as suggested by differences in results from the
+                                                                                                                     ability was independently related to depressive symptoms, whereas        film-clip task and ESM, the events to which people are exposed
+                                                                                                                     neither inertia nor instability showed unique associations with          may play a large role in determining how their feelings fluctuate
+                                                                                                                     CES-D scores after controlling for variability (see Models 4 and         across time. This implies, for instance, that the association between
+                                                                                                                     5). Thus, in terms of affective fluctuations in daily life on a scale    depressive symptoms and higher NA inertia observed in the film-
+                                                                                                                     of hours, and not necessarily tied to specific events, depressive        clip task must be due to endogenous processes (see Kuppens et al.,
+                                                                                                                     symptoms appear to be exclusively related to a larger overall range      2012). As the current study cannot speak to which endogenous
+                                                                                                                     of negative feelings. However, we note this effect was partly            processes drive higher inertia of negative emotions, an important
+                                                                                                                     accounted for by higher mean level of NA (see Step 2 of Models           direction for future research will be to explore the mechanisms
+                                                                                                                     4 and 5). Importantly, this finding does not imply that depressive       underlying emotional inertia.
+                                                                                                                     symptoms are associated with higher affective instability, defined          The current study also indicates that accounting for the mathe-
+                                                                                                                     as the combination of higher variability and lower temporal de-          matical relationships between different indices of affect dynamics
+                                                                                                                     pendency (Jahng et al., 2008; Wang et al., 2012). Rather, the            is crucial. As the results of the multiple regression analyses re-
+                                                                                                                     current ESM findings line up with Thompson et al.’s (2012)               vealed, controlling for dependencies between affect dynamics may
+                                                                                                                     results, in which participants with MDD had higher variability but       have a direct bearing on how they relate to measures of well-being,
+                                                                                                                     comparable inertia of NA in daily life, relative to healthy controls.    such as depressive symptoms. Similarly, our results underline the
+                                                                                                                     The results of Model 6 are less straightforward to interpret: both       utility of controlling for differences in mean levels of affect when
+                                                                                                                     1140                                                 KOVAL, PE, MEERS, AND KUPPENS
+
+
+                                                                                                                     examining affect dynamics. The association between short-term            standard tool for eliciting emotions in the laboratory (Rottenberg,
+                                                                                                                     NA inertia and depressive symptoms was independent of NA mean            Ray, & Gross, 2007), we are not aware of previous studies that
+                                                                                                                     level. Thus, the inflexible negative emotional responding observed       have examined the sequential effects of a series of film clips on
+                                                                                                                     among more dysphoric participants is not merely due to their             emotions. In fact, when participants are shown multiple film clips,
+                                                                                                                     tendency to experience more intense negative emotions (Kashdan           researchers are generally at pains to reduce spillover from one film
+                                                                                                                     & Rottenberg, 2010).                                                     to the next. In contrast, this study highlights the value in measuring
+                                                                                                                        Although direct application of the current study’s findings to        emotional spillover/change across a series of film clips; it allows
+                                                                                                                     clinical depression may be unwarranted given the lack of clinical        for the measurement of affect dynamics on shorter timescale than
+                                                                                                                     diagnoses, our findings may have secondary implications for the          is possible using ESM, and ensures that all participants are ex-
+                                                                                                                     conceptualization and treatment of MDD. For instance, therapies          posed to the same sequence of emotional events. Furthermore, by
+                                                                                                                     that aim to attenuate the intensity of a person’s affective reactions    measuring affect dynamics using the film-clip task and the ESM,
+                                                                                                                     may be beneficial in reducing affective instability, which is            the current study addressed an important gap in the literature
+                                                                                                                     thought to result from hypersensitivity to certain environmental         regarding the relationship between emotional processes in the lab
+
+
+
+
+   This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                     cues (Thompson, Berenbaum, & Bredemeier, 2011). However,                 versus in daily life (Bylsma & Rottenberg, 2011). Finally, the
+                                                                                                                     such treatments may be less effective for treating depression if it is   current study draws attention to three important, yet neglected,
+                                                                                                                     characterized by emotional inertia, which may result in part from        factors that should be examined in research on affect dynamics:
+                                                                                                                     blunted emotional reactivity (see Bylsma, Morris, & Rottenberg,          dependencies between indices of affect dynamics, differences in the
+                                                                                                                     2008). In contrast, treatments that facilitate more rapid recovery       timescale on which affect is measured, and the influence of external
+                                                                                                                     from negative affective experiences may reduce emotional inertia.        events on affective fluctuations. In so doing, the current study forms a first
+                                                                                                                     These examples are not exhaustive, but rather serve to illustrate        step to reconciling the paradoxical findings of previous studies on the
+                                                                                                                     that a more accurate and nuanced understanding of how affect             relationship between affect dynamics and depression.
+                                                                                                                     dynamics are related to depression could help inform its treatment
+                                                                                                                     (Holtzheimer & Mayberg, 2011).
+                                                                                                                        The current study is not without limitations. First, the film-clip                                   References
+                                                                                                                     task measured emotional responses to standardized stimuli viewed         American Psychiatric Association. (2000). Diagnostic and statistical
+                                                                                                                     passively in the lab, leaving open the possibility that our findings       manual of mental disorders (4th ed, text revision). Washington, DC:
+                                                                                                                     may not generalize to personally relevant emotional events. In-            Author.
+                                                                                                                     deed, this may have contributed to divergence between our results        Barrett, L. F., & Barrett, D. J. (2001). An introduction to computerized
+                                                                                                                     from the film-clip task and ESM. However, we note that most                experience sampling in psychology. Social Science Computer Review,
+                                                                                                                     measures of affect dynamics based on the film-clip task correlated         19, 175–185. doi:10.1177/089443930101900204
+                                                                                                                     moderately with corresponding measures from the ESM, under-              Barrett, L. F., Mesquita, B., Ochsner, K. N., & Gross, J. J. (2007). The
+                                                                                                                     scoring the validity of our novel lab assessment of affect dynamics.       experience of emotion. Annual Review of Psychology, 58, 373– 403.
+                                                                                                                                                                                              Bylsma, L. M., Morris, B. H., & Rottenberg, J. (2008). A meta-analysis of
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                     A second limitation relates to our reliance on self-report measures
+                                                                                                                                                                                                emotional reactivity in major depressive disorder. Clinical Psychology
+                                                                                                                     of emotions, which may be biased by demand characteristics.                Review, 28, 676 – 691. doi:10.1016/j.cpr.2007.10.001
+                                                                                                                     Despite all their shortcomings, self-reports are currently the only      Bylsma, L. M., & Rottenberg, J. (2011). Uncovering the dynamics of
+                                                                                                                     valid way of measuring subjective affective experiences (Barrett,          emotion regulation and dysfunction in daily life with ecological
+                                                                                                                     Mesquita, Ochsner, & Gross, 2007). In addition, while demand               momentary assessment. In I. Nyklicek, M. Zeelenberg, & A. Vinger-
+                                                                                                                     characteristics may influence self-reported emotions in response to        hoets (Eds.), Emotion regulation and well-being (pp. 225–244). New
+                                                                                                                     particular stimuli (particularly in the lab), they are less likely to      York, NY: Springer.
+                                                                                                                     influence dynamical patterns in self-reported feelings over time.        Bylsma, L. M., Taylor-Clift, A., & Rottenberg, J. (2011). Emotional
+                                                                                                                     Finally, our sample was not characterized with respect to MDD.             reactivity to daily events in major and minor depression. Journal of
+                                                                                                                     However, a number of factors mitigate this concern. First, our use         Abnormal Psychology, 120, 155–167. doi:10.1037/a0021662
+                                                                                                                                                                                              Campbell-Sills, L., & Barlow, D. H. (2007). Incorporating emotion regu-
+                                                                                                                     of a stratified sampling approach ensured that a wide range of
+                                                                                                                                                                                                lation into conceptualizations and treatments of anxiety and mood dis-
+                                                                                                                     depressive symptom levels were represented, which increases the
+                                                                                                                                                                                                orders. In J. J. Gross (Ed.) Handbook of emotion regulation (pp. 542–
+                                                                                                                     generalizability of our findings to clinical depression (Ingram &          559). New York, NY: Guilford Press.
+                                                                                                                     Siegle, 2009). Second, depression is more likely to be dimensional       Cowdry, R. W., Gardner, D. L., O’Leary, K. M., Leibenluft, E., & Rubi-
+                                                                                                                     than categorical (Haslam, Holland, & Kuppens, 2012), suggesting            now, D. R. (1991). Mood variability: A study of four groups. American
+                                                                                                                     that there is value in examining associations between affect dy-           Journal of Psychiatry, 148, 1505–1511.
+                                                                                                                     namics and depressive symptom severity. Third, subthreshold de-          Ebner-Priemer, U. W., Eid, M., Kleindienst, N., Stabenow, S., & Trull, T.
+                                                                                                                     pressive symptoms measured using the CES-D prospectively pre-              (2009). Analytic strategies for understanding affective (in)stability and
+                                                                                                                     dict the onset of MDD, even after controlling for other known              other dynamic processes in psychopathology. Journal of Abnormal
+                                                                                                                     demographic, clinical, and psychosocial predictors (Klein et al.,          Psychology, 118, 195–202. doi:10.1037/a0014868
+                                                                                                                                                                                              Ebner-Priemer, U. W., & Sawitzki, G. (2007). Ambulatory assessment of
+                                                                                                                     2013). Furthermore, we replicated our analyses using dichoto-
+                                                                                                                                                                                                affective instability in borderline personality disorder: The effect of
+                                                                                                                     mized CES-D scores and found highly similar results. Neverthe-
+                                                                                                                                                                                                sampling frequency. European Journal of Psychological Assessment,
+                                                                                                                     less, it will be important to replicate our findings in a sample           23, 238 –247. doi:10.1027/1015-5759.23.4.238
+                                                                                                                     including participants with MDD.                                         Golier, J. A., Yehuda, R., Schmeidler, J., & Siever, L. J. (2001). Variability
+                                                                                                                        Despite these limitations, the current study makes a number of          and severity of depression and anxiety in post-traumatic stress disorder
+                                                                                                                     important contributions. First, we introduce a novel paradigm for          and major depressive disorder. Depression and Anxiety, 13, 97–100.
+                                                                                                                     assessing affect dynamics in the lab. Although film clips are a            doi:10.1002/da.1022
+                                                                                                                                                                       DEPRESSIVE SYMPTOMS AND AFFECT DYNAMICS                                                                     1141
+
+                                                                                                                     Gotlib, I. H., Lewinsohn, P. M., & Seeley, J. R. (1995). Symptoms versus          Neumann, A., van Lier, P. A. C., Frijns, T., Meeus, W., & Koot, H. M.
+                                                                                                                       a diagnosis of depression: Differences in psychosocial functioning.                (2011). Emotional dynamics in the development of early adolescent
+                                                                                                                       Journal of Consulting and Clinical Psychology, 63, 90 –100. doi:                   psychopathology: A one-year longitudinal study. Journal of Abnormal
+                                                                                                                       10.1037/0022-006X.63.1.90                                                          Child Psychology, 39, 657– 669. doi:10.1007/s10802-011-9509-3
+                                                                                                                     Gross, J. J., & Muñoz, R. F. (1995). Emotion regulation and mental health.        Peeters, F., Berkhof, J., Delespaul, P., Rottenberg, J., & Nicolson, N. A.
+                                                                                                                       Clinical Psychology: Science and Practice, 2, 151–164. doi:                        (2006). Diurnal mood variation in major depressive disorder. Emotion,
+                                                                                                                       10.1111/j.1468-2850.1995.tb00036.x                                                 6, 383–391. doi:10.1037/1528-3542.6.3.383
+                                                                                                                     Hammen, C. (2005). Stress and depression. Annual Review of Clinical               Radloff, L. S. (1977). The CES-D scale: A self-report depression scale for
+                                                                                                                       Psychology, 1, 293–319. doi:10.1146/annurev.clinpsy.1.102803.143938                research in the general population. Applied Psychological Measurement,
+                                                                                                                     Haslam, N., Holland, E., & Kuppens, P. (2012). Categories versus dimen-              1, 385– 401. doi:10.1177/014662167700100306
+                                                                                                                       sions in personality and psychopathology: A quantitative review of              Rosenberg, E. L. (1998). Levels of analysis and the organization of
+                                                                                                                       taxometric research. Psychological Medicine, 42, 903–920. doi:10.1017/             affect. Review of General Psychology, 2, 247–270. doi:10.1037/
+                                                                                                                       S0033291711001966                                                                  1089-2680.2.3.247
+                                                                                                                     Hollenstein, T., Lichtwarck-Aschoff, A., & Potworowski, G. (2013). A              Rottenberg, J. (2005). Mood and emotion in major depression. Current
+
+
+
+
+   This document is copyrighted by the American Psychological Association or one of its allied publishers.
+                                                                                                                       model of socioemotional flexibility at three time scales. Emotion Re-              Directions in Psychological Science, 14, 167–170. doi:10.1111/j.0963-
+                                                                                                                       view. Advance online publication. doi:10.1177/1754073913484181                     7214.2005.00354.x
+                                                                                                                     Holtzheimer, P. E., & Mayberg, H. S. (2011). Stuck in a rut: Rethinking           Rottenberg, J., & Johnson, S. L. (Eds.). (2007). Emotion and psychopa-
+                                                                                                                       depression and its treatment. Trends in Neurosciences, 34, 1–9. doi:               thology: Bridging affective and clinical science. Washington, DC:
+                                                                                                                       10.1016/j.tins.2010.10.004                                                         American Psychological Association. doi:10.1037/11562-000
+                                                                                                                     Houben, M., Kuppens, P., & Van Den Noortgate. (2013). Emotion dynam-              Rottenberg, J., Ray, R. D., & Gross, J. J. (2007). Emotion elicitation using films.
+                                                                                                                       ics and well-being: A meta-analysis. Manuscript submitted for                      In J. A. Coan & J. J. B. Allen (Eds.), The handbook of emotion elicitation
+                                                                                                                       publication.                                                                       and assessment (pp. 9 –28). London, UK: Oxford University Press.
+                                                                                                                     Ingram, R. E., & Siegle, G. J. (2009). Methodological issues in the study         Schaefer, A., Nils, F., Sanchez, X., & Philippot, P. (2010). Assessing the
+                                                                                                                       of depression. In I. H. Gotlib & C. L. Hammen (Eds.), Handbook of                  effectiveness of a large database of emotion-eliciting films: A new tool
+                                                                                                                       depression (pp. 69 –92). New York, NY: Guilford Press.                             for emotion researchers. Cognition & Emotion, 24, 1153–1172. doi:
+                                                                                                                     Jahng, S., Wood, P. K., & Trull, T. J. (2008). Analysis of affective                 10.1080/02699930903274322
+                                                                                                                       instability in EMA: Indices using successive difference and group com-
+                                                                                                                                                                                                       Schwerdtfeger, A., & Friedrich-Mai, P. (2009). Social interaction moder-
+                                                                                                                       parison via multilevel modeling. Psychological Methods, 13, 354 –375.
+                                                                                                                                                                                                          ates the relationship between depressive mood and heart rate variability:
+                                                                                                                       doi:10.1037/a0014173
+                                                                                                                                                                                                          Evidence from an ambulatory monitoring study. Health Psychology, 28,
+                                                                                                                     Kashdan, T. B., & Rottenberg, J. (2010). Psychological flexibility as a
+                                                                                                                                                                                                          501–509. doi:10.1037/a0014664
+                                                                                                                       fundamental aspect of health. Clinical Psychology Review, 30, 865– 878.
+                                                                                                                                                                                                       Silk, J. S., Steinberg, L., & Morris, A. M. (2003). Adolescents’ emotion
+                                                                                                                       doi:10.1016/j.cpr.2010.03.001
+                                                                                                                                                                                                          regulation in daily life: Links to depressive symptoms and problem
+                                                                                                                     Keltner, D., & Kring, A. M. (1998). Emotion, social function, and psy-
+                                                                                                                                                                                                          behavior. Child Development, 74, 1869 –1880. doi:10.1046/j.1467-8624
+                                                                                                                       chopathology. Review of General Psychology, 2, 320 –342. doi:10.1037/
+                                                                                                                                                                                                          .2003.00643.x
+                                                                                                                       1089-2680.2.3.320
+                                                                                                                                                                                                       Thompson, R. J., Berenbaum, H., & Bredemeier, K. (2011). Cross-
+                                                                                                                     Klein, D. N., Glenn, C. R., Kosty, D. B., Seeley, J. R., Rohde, P., &
+
+
+
+
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+                                                                                                                                                                                                          sectional and longitudinal relations between affective instability and
+                                                                                                                       Lewinsohn, P. M. (2013). Predictors of first lifetime onset of major
+                                                                                                                                                                                                          depression. Journal of Affective Disorders, 130, 53–59. doi:10.1016/j
+                                                                                                                       depressive disorder in young adulthood. Journal of Abnormal Psychol-
+                                                                                                                                                                                                          .jad.2010.09.021
+                                                                                                                       ogy, 122, 1– 6. doi:10.1037/a0029567
+                                                                                                                     Koole, S. L. (2009). The psychology of emotion regulation: An inte-               Thompson, R. J., Mata, J., Jaeggi, S. M., Buschkuehl, M., Jonides, J., & Gotlib,
+                                                                                                                       grative review. Cognition & Emotion, 23, 4 – 41. doi:10.1080/                      I. H. (2012). The everyday emotional experience of adults with major
+                                                                                                                       02699930802619031                                                                  depressive disorder: Examining emotional instability, inertia, and reactivity.
+                                                                                                                     Koval, P., & Kuppens, P. (2012). Changing emotion dynamics: Individual               Journal of Abnormal Psychology, 121, 819 – 829.doi:10.1037/a0027978
+                                                                                                                       differences in the effect of anticipatory social stress on emotional inertia.   Wang, L. P., Hamaker, E., & Bergeman, C. S. (2012). Investigating
+                                                                                                                       Emotion, 12, 256 –267. doi:10.1037/a0024756                                        inter-individual differences in short-term intra-individual variability.
+                                                                                                                     Koval, P., Kuppens, P., Allen, N. B., & Sheeber, L. (2012). Getting stuck            Psychological Methods, 17, 567–581. doi:10.1037/a0029317
+                                                                                                                       in depression: The roles of rumination and emotional inertia. Cognition         Watson, D., Clark, L. A., & Carey, G. (1988). Positive and aegative
+                                                                                                                       & Emotion, 26, 1412–1427. doi:10.1080/02699931.2012.667392                         affectivity and their relation to anxiety and depressive disorders.
+                                                                                                                     Kuppens, P., Allen, N. B., & Sheeber, L. (2010). Emotional inertia and               Journal of Abnormal Psychology, 97, 346 –353. doi:10.1037/0021-
+                                                                                                                       psychological maladjustment. Psychological Science, 21, 984 –991. doi:             843X.97.3.346
+                                                                                                                       10.1177/0956797610372634                                                        Wenze, S. J., Gunthert, K. J., Forand, N. R., & Laurenceau, J.-P. (2009).
+                                                                                                                     Kuppens, P., Oravecz, Z., & Tuerlinckx, F. (2010). Feelings change:                  The influence of dysphoria on reactivity to naturalistic fluctuations in
+                                                                                                                       Accounting for individual differences in the temporal dynamics of                  anger. Journal of Personality, 77, 795– 824. doi:10.1111/j.1467-6494
+                                                                                                                       affect. Journal of Personality and Social Psychology, 99, 1042–1060.               .2009.00565.x
+                                                                                                                       doi:10.1037/a0020962                                                            Wichers, M., Peeters, F., Geschwind, N., Jacobs, N., Simons, C. J. P.,
+                                                                                                                     Kuppens, P., Sheeber, L. B., Yap, M. B., Whittle, S., Simmons, J. G., & Allen,       Derom, C., . . . van Os, J. (2010). Unveiling patterns of affective
+                                                                                                                       N. B. (2012). Emotional inertia prospectively predicts the onset of depres-        responses in daily life may improve outcome prediction in depression: A
+                                                                                                                       sive disorder in adolescence. Emotion, 12, 283–289. doi:10.1037/                   momentary assessment study. Journal of Affective Disorders, 124, 191–
+                                                                                                                       a0025046                                                                           195. doi:10.1016/j.jad.2009.11.010
+                                                                                                                     Larsen, R. J. (1987). The stability of mood variability: A spectral analytic
+                                                                                                                       approach to daily mood assessments. Journal of Personality and Social
+                                                                                                                       Psychology, 52, 1195–1204. doi:10.1037/0022-3514.52.6.1195                                                                Received October 25, 2012
+                                                                                                                     Myers, R. (1990). Classical and modern regression with applications (2nd                                               Revision received May 24, 2013
+                                                                                                                       ed.). Boston, MA: Duxbury.                                                                                                   Accepted May 29, 2013 䡲
+

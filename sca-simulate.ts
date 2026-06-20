@@ -72,6 +72,7 @@ interface ScoreResult {
   result_type: string;       // "Summer"|"Autumn"|"Winter"|"Spring"|"Threshold"  (4 types + 1 boundary)
   contrib: Record<AxisId, FacetContrib>;
   facet_consistency: Record<FacetId, number>;
+  trajectory_label: string; // v0.23
   _orient: number[];
 }
 
@@ -113,6 +114,10 @@ const ITEMS: Item[] = [
   { id: "B2.6", facet: "B2", poleA: "Do it.", poleB: "Let it find the right person." },
   { id: "B2.7", facet: "B2", poleA: "Set your own course.", poleB: "Respond to what's asked of you." },
   { id: "B2.8", facet: "B2", poleA: "Go after it.", poleB: "Let it come to you." },
+  { id: "T1", facet: "TA", poleA: "Gathering toward more.", poleB: "Settling toward less." },
+  { id: "T2", facet: "TA", poleA: "Accelerating.", poleB: "Decelerating." },
+  { id: "T3", facet: "TB", poleA: "Opening outward.", poleB: "Drawing inward." },
+  { id: "T4", facet: "TB", poleA: "More proactive.", poleB: "More receptive." },
 ];
 
 const FACETS: FacetId[] = ["A1", "A2", "B1", "B2"];
@@ -131,7 +136,7 @@ const TENSION_MARGIN = 20;
 // facet → item indices into the FULL 32-item bank (used for SCA-32 and as the master map).
 const FACET_ITEMS: Record<FacetId, number[]> = {} as any;
 for (const f of FACETS) FACET_ITEMS[f] = [];
-ITEMS.forEach((item, i) => FACET_ITEMS[item.facet].push(i));
+ITEMS.forEach((item, i) => { if (FACET_ITEMS[item.facet]) FACET_ITEMS[item.facet].push(i); });
 
 // SCA-16 short form: indices into the 32-item bank (see 01 §8.1 for selection rationale).
 const SCA16_IDS = new Set(["A1.1","A1.2","A1.4","A1.6","A2.1","A2.2","A2.3","A2.6","B1.2","B1.3","B1.5","B1.6","B2.1","B2.2","B2.3","B2.6"]);
@@ -163,13 +168,11 @@ function choice<T>(arr: T[]): T {
 // indexed by those positions, so the same respondent data scores both lengths.
 function score(rawResponses: number[], orientations?: number[], activeIdxs?: number[]): ScoreResult {
   const idxs = activeIdxs ?? ITEMS.map((_, i) => i);  // default: all 32
-  if (rawResponses.length !== 32) throw new Error(`Need 32 responses (master bank), got ${rawResponses.length}`);
-  const ori = orientations ?? new Array(32).fill(1);
-  // Step 2: Normalize ALL 32 master-bank items. r.normalized stays 32-length so the
-  // item-level analysis (which indexes by bank position) still works on the SCA-32 run.
-  // Only the facet aggregation below is restricted to the active subset.
+  if (rawResponses.length !== ITEMS.length) throw new Error(`Need ${ITEMS.length} responses, got ${rawResponses.length}`);
+  const ori = orientations ?? new Array(ITEMS.length).fill(1);
+  // Step 2: Normalize ALL items.
   const normalized: number[] = [];
-  for (let i = 0; i < 32; i++) {
+  for (let i = 0; i < ITEMS.length; i++) {
     normalized.push(ori[i] === 1 ? rawResponses[i] : 8 - rawResponses[i]);
   }
   // Per-facet bank-index lists for the ACTIVE subset (32 → all, 16 → SCA-16 selection).
@@ -293,6 +296,19 @@ function score(rawResponses: number[], orientations?: number[], activeIdxs?: num
   const facet_consistency = {} as Record<FacetId, number>;
   for (const f of FACETS) facet_consistency[f] = Math.sqrt(facets[f].variance);
 
+  // v0.23 trajectory scoring (perceived direction-of-travel)
+  const trajItems = ITEMS.map((it, i) => it.facet === "TA" || it.facet === "TB" ? i : -1).filter(i => i >= 0);
+  let taMean = 4, tbMean = 4;
+  if (trajItems.length > 0) {
+    const taNorms = ITEMS.map((it, i) => it.facet === "TA" ? normalized[i] : null).filter((x: number | null): x is number => x !== null);
+    const tbNorms = ITEMS.map((it, i) => it.facet === "TB" ? normalized[i] : null).filter((x: number | null): x is number => x !== null);
+    if (taNorms.length) taMean = taNorms.reduce((a, b) => a + b, 0) / taNorms.length;
+    if (tbNorms.length) tbMean = tbNorms.reduce((a, b) => a + b, 0) / tbNorms.length;
+  }
+  const taDir = taMean > 4.5 ? "waxing" : taMean < 3.5 ? "waning" : "steady";
+  const tbDir = tbMean > 4.5 ? "waxing" : tbMean < 3.5 ? "waning" : "steady";
+  const trajectory_label = (taDir === "waxing" || tbDir === "waxing") ? "waxing" : (taDir === "waning" || tbDir === "waning") ? "waning" : "steady";
+
   return {
     name: "",
     raw: rawResponses,
@@ -311,6 +327,7 @@ function score(rawResponses: number[], orientations?: number[], activeIdxs?: num
     result_type,
     contrib,
     facet_consistency,
+    trajectory_label,
     _orient: ori,
   };
 }
@@ -325,8 +342,8 @@ function gen(
   // Generate orientations FIRST, then produce raw responses consistent with them.
   // A high-Bright respondent with ori=-1 (Bright on LEFT) should pick pip ~1 (left),
   // NOT pip ~7. This way normalization (8-1=7) correctly recovers the high-Bright signal.
-  const orient = new Array(32).fill(0).map(() => choice([1, -1]));
-  const centers: Record<FacetId, number> = { A1: a1_center, A2: a2_center, B1: b1_center, B2: b2_center };
+  const orient = new Array(ITEMS.length).fill(0).map(() => choice([1, -1]));
+  const centers: Record<string, number> = { A1: a1_center, A2: a2_center, B1: b1_center, B2: b2_center, TA: 4, TB: 4 };
   const raw: number[] = [];
   for (let i = 0; i < ITEMS.length; i++) {
     const item = ITEMS[i];
@@ -360,8 +377,8 @@ function genBias(
   name: string, a1_c: number, a2_c: number, b1_c: number, b2_c: number, biasSide: "right" | "left",
 ): [string, number[], number[]] {
   // Same orientation-aware approach as gen(), plus a bias shift on the trait.
-  const orient = new Array(32).fill(0).map(() => choice([1, -1]));
-  const centers: Record<FacetId, number> = { A1: a1_c, A2: a2_c, B1: b1_c, B2: b2_c };
+  const orient = new Array(ITEMS.length).fill(0).map(() => choice([1, -1]));
+  const centers: Record<string, number> = { A1: a1_c, A2: a2_c, B1: b1_c, B2: b2_c, TA: 4, TB: 4 };
   const shift = biasSide === "right" ? 1.5 : -1.5;
   const raw: number[] = [];
   for (let i = 0; i < ITEMS.length; i++) {
@@ -879,7 +896,42 @@ function analyze(res: ScoreResult[]): void {
   console.log(`  The main irreducible limitations are:`);
   console.log(`    (a) no real-human validation data,`);
   console.log(`    (b) A1/A2 compositing assumes one factor; the facet-tension modifier surfaces (does not remove) the cases where the two facets cancel,`);
-  console.log(`    (c) Axis A/B orthogonality is approximate (both load on Extraversion).`);
+  console.log(`    (c) Axis A/B orthogonality is approximate (both load on Extraversion),`);
+  console.log(`    (d) v0.23 trajectory component is our synthesis and is unvalidated (Carver-Scheier grounded).`);
+
+  // v0.23 trajectory distribution check
+  const trajCounts = { waxing: 0, waning: 0, steady: 0 };
+  for (const r of res) trajCounts[r.trajectory_label]++;
+  console.log(`\n  v0.23 Trajectory distribution (existing respondents, all TA/TB center=4): waxing=${trajCounts.waxing} waning=${trajCounts.waning} steady=${trajCounts.steady}`);
+  console.log(`  Note: existing respondents have neutral trajectory by design (center=4). Targeted trajectory tests below.`);
+
+  // ── v0.23 TARGETED TRAJECTORY VALIDATION ──
+  console.log(`\n  v0.23 TRAJECTORY VALIDATION (targeted non-neutral trajectory):`);
+  Math.random = seededRandom;
+  const trajTests: { name: string; ta: number; tb: number; exp: string }[] = [
+    { name: "Waxing-Both",    ta: 5, tb: 5, exp: "waxing" },
+    { name: "Waning-Both",    ta: 3, tb: 3, exp: "waning" },
+    { name: "Waxing-A-only",  ta: 5, tb: 4, exp: "waxing" },
+    { name: "Waning-B-only",  ta: 4, tb: 3, exp: "waning" },
+    { name: "Steady-Both",    ta: 4, tb: 4, exp: "steady" },
+    { name: "Mixed",          ta: 5, tb: 3, exp: "waxing" },  // either axis waxing → waxing
+  ];
+  for (const t of trajTests) {
+    // Generate 36-item response: A1/A2/B1/B2 at center 4 (neutral position), TA at t.ta, TB at t.tb
+    const raw: number[] = [];
+    for (const item of ITEMS) {
+      let c = 4;
+      if (item.facet === "TA") c = t.ta;
+      else if (item.facet === "TB") c = t.tb;
+      const trait = clamp(gauss(c, 0.4), 1, 7);
+      raw.push(trait);  // orientation = 1 (no flip needed, all center-aligned)
+    }
+    const r = score(raw, new Array(raw.length).fill(1));
+    r.name = t.name;
+    const ok = r.trajectory_label === t.exp;
+    console.log(`    ${ok ? "✅" : "⚠️"} ${t.name.padEnd(18)} ta=${t.ta} tb=${t.tb} → ${r.trajectory_label}${ok ? "" : " (expected " + t.exp + ")"}`);
+  }
+  Math.random = _origRandom;
 }
 
 // ── CSV EXPORT ──────────────────────────────────────────

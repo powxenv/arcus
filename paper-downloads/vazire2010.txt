@@ -1,0 +1,1391 @@
+              PERSONALITY PROCESSES AND INDIVIDUAL DIFFERENCES
+
+
+
+            Who Knows What About a Person? The Self–Other Knowledge
+                         Asymmetry (SOKA) Model
+
+                                                                         Simine Vazire
+                                                             Washington University in St. Louis
+
+
+                         This article tests a new model for predicting which aspects of personality are best judged by the self and
+                         which are best judged by others. Previous research suggests an asymmetry in the accuracy of personality
+                         judgments: Some aspects of personality are known better to the self than others and vice versa. According
+                         to the self– other knowledge asymmetry (SOKA) model presented here, the self should be more accurate
+                         than others for traits low in observability (e.g., neuroticism), whereas others should be more accurate than
+                         the self for traits high in evaluativeness (e.g., intellect). In the present study, 165 participants provided
+                         self-ratings and were rated by 4 friends and up to 4 strangers in a round-robin design. Participants then
+                         completed a battery of behavioral tests from which criterion measures were derived. Consistent with
+                         SOKA model predictions, the self was the best judge of neuroticism-related traits, friends were the best
+                         judges of intellect-related traits, and people of all perspectives were equally good at judging extraversion-
+                         related traits. The theoretical and practical value of articulating this asymmetry is discussed.
+
+                         Keywords: self-knowledge, accuracy, personality judgment, behavior, peer ratings
+
+
+
+
+     [The observer] sometimes reaches truths about people’s character and                person is like (e.g., Augustine and Descartes). As accurate as
+     destiny which they themselves are very far from divining. (Santayana,               self-perceptions can be, the self’s position as the “best expert” on
+     1905/1980, p. 154)                                                                  what a person is like is on shaky empirical ground. However, the
+   Why do others sometimes know things about us that we don’t                            data accumulated to date do not explain why others sometimes
+know about ourselves? We are far from perfectly accurate about                           know us better than we know ourselves, or in what domains this is
+ourselves, and, as Santayana (1905/1980) observed, outsiders are                         likely to occur. The goal of this article is to present a model of self-
+often at least as good as the self at describing what a person is like                   and other-knowledge that begins to address these issues and to test
+(Kolar, Funder, & Colvin, 1996; Vazire & Mehl, 2008). These                              this model empirically.
+findings violate the commonsense conviction that nobody knows                               It is by now evident that neither perspective—the self or oth-
+you better than you do (Pronin, Kruger, Savitsky, & Ross, 2001;                          ers—is unequivocally the best perspective from which to judge
+Vazire & Mehl, 2008) and challenge philosophical accounts of the                         personality. Self-ratings of personality predict behavior and im-
+privileged position of the self with respect to knowing what a                           portant outcomes to an impressive degree (Funder & Colvin, 1991;
+                                                                                         Mehl, Gosling, & Pennebaker, 2006; Ozer & Benet-Martı́nez,
+                                                                                         2006; Paunonen & Ashton, 2001; Roberts, Kuncel, Shiner, Caspi,
+                                                                                         & Goldberg, 2007), and self-perceptions must undeniably play an
+   Portions of this research were supported by National Science Founda-                  important role in any conception of personality (McAdams, 1995).
+tion Grant 0422924 to Sam Gosling.                                                       However, the last 2 decades have also seen a wealth of empirical
+   Thanks to Sam Gosling for financial support and for his invaluable input
+                                                                                         demonstrations of the self’s surprisingly limited insight into ev-
+on this project. Thanks to Erika Carlson, John Doris, Matthias Mehl, and
+Tom Oltmanns for comments on earlier drafts of this article. Thanks to                   erything from mental and emotional states (Bargh & Chartrand,
+Oliver John for his input on the SOKA model and to Dave Kenny for his                    1999; Bargh & Williams, 2006; Wilson, 2002; Wilson & Dunn,
+help with the social relations model analyses. Thanks to Natasha Botello,                2004; Wilson & Gilbert, 2003; see also Haybron, 2007, for an
+Cindy Chung, Hani Freeman, Pranj Mehta, Christina Baquero, Natalie                       interesting theoretical argument) to preferences (Eastwick &
+Morgan, Heather Harrison, Allison Connelly, Samantha Beard, Ashley                       Finkel, 2008), motives (Schultheiss, Jones, Davis, & Kley, 2008;
+Smith, Vanessa Martinez, and Ashish Chavda for their help with data                      Schultheiss, Wirth, et al., 2008), and behavior (Epley & Dunning,
+collection. Thanks to the dozens of research assistants at the University of
+                                                                                         2006; Gosling, John, Craik, & Robins, 1998; Robins & John,
+Texas who helped with the codings and ratings.
+   Correspondence concerning this article should be addressed to Simine
+                                                                                         1997a; Vazire & Mehl, 2008). Furthermore, an equally compelling
+Vazire, Department of Psychology, Washington University in St. Louis,                    empirical case can be made for the validity of informant reports
+One Brookings Drive, Campus Box 1125, St. Louis, MO 63130. E-mail:                       (Fiedler, Oltmanns, & Turkheimer, 2004; Hofstee, 1994; John &
+svazire@artsci.wustl.edu                                                                 Robins, 1994; Kolar et al., 1996; Levesque & Kenny, 1993;
+                                                 Journal of Personality and Social Psychology, 2010, Vol. 98, No. 2, 281–300
+                                         © 2010 American Psychological Association 0022-3514/10/$12.00        DOI: 10.1037/a0017908
+
+
+                                                                                   281
+282                                                                  VAZIRE
+
+
+Oltmanns, Gleason, Klonsky, & Turkheimer, 2005; Vazire, 2006a;            schizoid, schizotypal, histrionic, and dependent personality traits
+Vazire & Mehl, 2008; Wagerman & Funder, 2007).                            were positively associated with early discharge.
+   If we accept that, overall, personality judgments by informants           Although these and other studies all found asymmetries in self-
+are about as accurate as personality judgments by the self, the next      and other-knowledge about personality, none of the authors pro-
+important question is, what does each perspective know? As Olt-           vided an explanation for these asymmetries. Indeed, no theory
+manns and Turkheimer (2009) pointed out, little is known about            exists to predict which perspective will be more accurate in a given
+the relative merits of each perspective for predicting different          domain. The existing research on self– other asymmetries focuses
+outcomes. The call for more attention to this question is very            mainly on asymmetries in the process, rather than the outcome, of
+recent, but the question itself is not new. In 1955, Luft and Ingham      social perception. For example, much work has been published on
+proposed the Johari window as a model of the differences between          self– other asymmetries (sometimes called actor– observer asym-
+self- and other-perceptions. The Johari window contains four quad-        metries) in attributions for behavior (see Malle, 2006, for a re-
+rants: (a) aspects of personality known to both the self and others       view). In addition, researchers have shown that self-
+(arena), (b) aspects known to the self but not others (facade), (c)       representations differ from representations of others in their
+aspects known to others but not the self (blind spot), and (d)            complexity, richness, distinctiveness, and content (Andersen,
+aspects unknown to both the self and others (unknown).                    1984; Andersen, Glassman, & Gold, 1998; Andersen & Ross,
+   Unfortunately, little research has been done to understand what        1984; Prentice, 1990; Pronin et al., 2001). However, the asymme-
+aspects of personality fall in each quadrant. This is unfortunate         try in the accuracy of self- and other-judgments has received little
+because this question has many practical and theoretical implica-         empirical attention.
+tions. In the field of clinical assessment, clinicians would benefit         This gap in the literature is likely due to the heavy emphasis on
+greatly from understanding “what kinds of traits are more accu-           cognitive process in the person perception literature. For many
+rately reported by subjects and which by informants” (Klonsky,            decades, person perception research focused on the cognitive pro-
+Oltmanns, & Turkheimer, 2002, p. 308). Such information would             cesses behind interpersonal judgments at the expense of examining
+also improve the quality of assessment in other applied settings          the accuracy of those judgments (for a discussion, see Swann,
+such as organizations. Furthermore, such knowledge would im-              1984). Research on self– other asymmetries is no exception. In
+prove the quality of basic research in every area of psychology that      fact, in a special issue of Motivation and Emotion titled “Self-
+uses personality measures (e.g., personality, social, developmental,      Motives and Social-Perception” (2001, Vol. 25, nos. 1 and 2), not
+clinical, industrial– organizational). Finally, this question has im-     one of the nine articles examined the accuracy of self- or social-
+portant theoretical implications. Identifying what the self knows         perceptions.
+that others do not know (i.e., the private aspects of personality) can       Accuracy has garnered a great deal of attention in the field of
+help us understand the impediments to accuracy in the process of          personality psychology (Kenny, 1993). However, almost all of this
+interpersonal perception. Similarly, identifying what others know         research has focused on the accuracy of other-perceptions, and
+that the self does not know (i.e., the blind spots in self-perception)    none of it has explicitly addressed the asymmetry in self- and
+can help us understand how self-perceptions are formed and when           other-accuracy. Why have personality and accuracy researchers
+they are distorted, shedding light on the adaptive value of self-         ignored the question of self– other asymmetries in accuracy? First,
+knowledge and self-deception.                                             the dearth of research directly comparing self- and other-accuracy
+   There is some evidence that the domains of knowledge of the            makes it impossible to identify moderators using a bottom-up
+self and others are not symmetrical. A few studies have directly          approach. There are just too few published studies to look for
+compared the accuracy of self- and other-perceptions of personal-         replicable patterns. Second, the lack of a theoretical model means
+ity (Fiedler et al., 2004; John & Robins, 1994; Kolar et al., 1996;       that the studies that do exist were not designed to test for moder-
+Levesque & Kenny, 1993; Spain, Eaton, & Funder, 2000; Vazire              ators. In two studies (Kolar et al., 1996; Vazire & Mehl, 2008) the
+& Mehl, 2008). Although these studies were designed to examine            authors conducted moderator analyses but these analyses were
+overall levels of accuracy (and all but one found that other-             done post hoc. Because the traits or behaviors were not selected
+perceptions were at least as accurate as self-perceptions), they also     specifically to test these moderators, it is possible that they did not
+contain evidence of asymmetries in self- and other-accuracy. I            cover the full spectrum of the dimensions examined. Indeed,
+review the strongest evidence here.                                       Vazire and Mehl (2008) explicitly acknowledged that the moder-
+   Kolar et al. (1996) found that self- and other-ratings of person-      ator analyses were “inconclusive due to the restricted number and
+ality were both valid predictors of behavior in a laboratory inter-       range of behavior” (p. 1212, fn. 2). Thus, no study to date has
+action with a stranger, but self-ratings predicted different behav-       explicitly been designed to identify self– other asymmetries in
+iors (e.g., calmness) than did other-ratings (e.g., humor, likeability,   accuracy. To do this would require an a priori theory about which
+and arrogance). Vazire and Mehl (2008) found that self- and               dimensions should be related to self– other accuracy asymmetries
+other-ratings also predicted real-life behavior coded from electron-      and a study designed to capture both poles of these dimensions.
+ically activated recorders (EARs; Mehl, Pennebaker, Crow, Dabbs,          The purpose of the model described in the next section is to
+& Price, 2001), but again self-ratings predicted different behaviors      provide such a theoretical framework. The predictions are then
+(e.g., arguing) than did other-ratings (e.g., socializing). Finally,      tested in the study that follows.
+Fiedler et al. (2004) compared the validity of self- and peer-ratings
+of personality pathology for predicting early discharge among                 Self–Other Knowledge Asymmetry (SOKA) Model
+military recruits. Their results show that self-reports of paranoid,
+borderline, and avoidant personality traits were positively associ-         The aim of the SOKA model is to provide a framework to
+ated with early discharge, whereas peer-reports of antisocial,            explain and predict self– other asymmetries in accuracy. What
+                                                             WHO KNOWS WHAT                                                              283
+
+factors might account for the asymmetry in what the self knows           that people are the best-qualified witnesses to their own personal-
+and what others know about a person? One issue is clearly who the        ities is supported by the indisputable fact that no one else has
+“other” is, and this is discussed below (see The Role of Acquain-        access to more information” (p. 227).1 However, the self– other
+tance section). For the moment, I will use the term other to refer       asymmetry in sheer quantity of information is not very useful for
+to all types of informants (e.g., friends, coworkers, family mem-        the present model because it does not predict an asymmetry in
+bers) in full recognition that this will require some oversimplifi-      domains of knowledge.
+cation. Many models of social perception refer to two kinds of              A more interesting asymmetry involves the type of information
+factors: informational and motivational (Dunning, 2005; Dunning,         available to and detected by each perspective. There are two main
+Heath, & Suls, 2004; Krebs, Denton, & Higgins, 1988; Robins &            reasons to suspect that each perspective will have access to dif-
+John, 1997b; Tetlock, 1984). Human perceivers act as both intu-          ferent types of information, and that even when the same infor-
+itive scientists and intuitive politicians—their judgments are influ-    mation is available, the salience of the information will differ
+enced by both “cold” information-processing goals (i.e., under-          across perspectives and thus the information will be detected and
+standing and predicting the actor’s behavior) and by “hot”               weighted differently. First, the two perspectives have asymmetri-
+motivational goals (i.e., protecting or enhancing their own self-        cal access to, and salience of, thoughts and feelings. Second, the
+worth). The SOKA model is also built on this distinction: Self-          two perspectives have different visual perspectives, which restrict
+perception should differ from other-perception because of infor-         the information available and produce a difference in what is
+mational differences in perspective (i.e., the salience of overt vs.     salient in the visual field. I consider each of these differences in
+covert aspects of a person) and motivational significance (i.e., the     turn.
+ego-relevance of the judgment; Andersen et al., 1998). The key
+                                                                            The first informational asymmetry is the self’s privileged access
+distinguishing feature of the present model is that its focus is on
+                                                                         to thoughts and feelings, which may provide the self with infor-
+the implications of these differences for accuracy.
+                                                                         mation about personality unavailable to the outside observer (cf.
+   In focusing on these two types of processes, the SOKA model is
+                                                                         Schwitzgebel, 2008). Research on the social cognition of self- and
+informed by the personality research on determinants of interjudge
+                                                                         other-perception shows that people place more weight on their
+agreement. The majority of the research on self– other and other–
+                                                                         own thoughts and feelings than on their behaviors when forming
+other agreement has focused on the role of trait observability and
+                                                                         self-perceptions, and the effect is weaker or reversed when form-
+trait evaluativeness (e.g., Funder & Colvin, 1988, 1997; Funder &
+Dobroth, 1987; John & Robins, 1993; Watson, Hubbard, & Wiese,            ing perceptions of others (Andersen, 1984; Andersen et al., 1998;
+2000). Indeed, both John and Robins (1993) and Kenny (1994)              Andersen & Ross, 1984). Similarly, Malle and Knobe (1997)
+proposed these as two of the most important determinants of              found that people more often wonder about and explain their own
+agreement. Thus, the SOKA model extends this research by bring-          “internal” behaviors (i.e., thoughts and feelings) than external
+ing this distinction to bear directly on accuracy.                       behaviors, but the reverse is true when people wonder about and
+   Funder’s (1995, 1999) realistic accuracy model provides a use-        explain others’ behavior. These results are likely due to the asym-
+ful framework for examining the steps in the personality judgment        metry in the availability and salience of thoughts and feelings to
+process that may be affected by informational and motivational           the self and others. This finding helps explain the finding that
+constraints. Although the model was developed to account for the         observers are not accurate at detecting depression (which is char-
+accuracy of other-perceptions, it can be used to identify potential      acterized more by patterns of thinking and feeling than by overt
+points of diversion between self- and other-perception. The model        behavior) even when a large amount of behavioral evidence is
+proposes that an accurate judgment is made for a given trait when        available (Mehl, 2006).
+four steps are achieved: relevant information exists for that trait         The self’s privileged access to thoughts and feelings may in-
+(relevance), the information is available to the perceiver (avail-       crease the accuracy of self-perceptions, particularly when the trait
+ability), the information is noticed by the perceiver (detection), and   being rated has to do with patterns of thinking or feeling (e.g.,
+the information is interpreted correctly (utilization). Because rel-     neuroticism-related traits, happiness). However, relying on
+evance refers to the number of indicators of a trait, this cannot vary   thoughts and feelings may harm the accuracy of self-perceptions
+across perspectives. Instead, informational differences in the           when the trait being rated is behavioral in nature. This can happen
+SOKA model are likely to occur at the availability and detection         for two reasons. First, the abundance of information about
+stages, and motivational differences are likely to occur at the          thoughts and feelings may swamp any information available about
+detection and utilization stages. I refer to these stages at the         overt behavior, leading perceivers to neglect behavioral informa-
+appropriate points in my discussion of the model.                        tion. Second, even if perceivers detect their own overt behavior,
+                                                                         they may privilege the information they have about their thoughts
+Informational Differences Between Self- and                              and feelings (as previous studies have shown they are prone to do;
+Other-Perception                                                         Andersen, 1984). Thus, this informational asymmetry is likely to
+                                                                         produce an accuracy asymmetry such that the self will know more
+   Self- and other-perception are likely to differ in quantity and       than others about internal traits (i.e., traits defined primarily by
+type of information available (which will influence the availability     patterns of thought and feeling) and the reverse will be true for
+stage) and in the salience of that information (which will influence     external traits (i.e., traits defined primarily by patterns of behav-
+the detection stage). First, many have argued that the self has a        ior). The self also has privileged access to physiological states,
+major advantage over others because of the sheer quantity of
+information available to the self (Funder, 1999; Paulhus & Vazire,
+                                                                           1
+2007). Indeed, as Paulhus and Vazire (2007) stated, “the notion                See Vazire (2006a) for a counterargument.
+284                                                                    VAZIRE
+
+
+which may further intensify this asymmetry. Like access to                  Motivational Differences Between Self- and
+thoughts and feelings, access to physiological information may              Other-Perception
+increase the accuracy of self-perception for internal traits (e.g.,
+anxiety) but may impair the self’s ability to form accurate percep-            People’s ’motives in judging a target are likely to influence what
+tions of external traits (e.g., poise).                                     information they pay attention to (detection) and how they inter-
+   Another informational asymmetry has to do with the physical              pret that information (utilization). The main motivational differ-
+                                                                            ence between self-perception and other-perception is the degree of
+perspective of the self and others. Although the self can, in theory,
+                                                                            ego-involvement. Judges have a lot more at stake when they are
+observe most of its own behaviors, it is unlikely to detect many of
+                                                                            also the target than when they are judging someone else (although
+these behaviors because one’s own body is not as salient in one’s
+                                                                            of course the magnitude of this difference will vary according to
+visual field as it is in others’ (Andersen et al., 1998; Malle &
+                                                                            who the other is; see the next section).
+Knobe, 1997). In addition, there are some behaviors (e.g., facial              The notion that people are motivated to protect and enhance
+expressions) that are simply unavailable to the self visually, due to       their self-view is supported by the vast literature on a variety of
+its physical perspective. This asymmetry is probably implicated in          self-serving biases (e.g., Greenwald, 1980; Paulhus & John, 1998;
+the greater weight placed on observable behavior by others than by          Robins & Beer, 2001; Taylor & Brown, 1988). As Dunning (1999)
+the self. Thus, not only does the self have privileged access to            argued, the basic building blocks of social judgment are shaped by
+thoughts and feelings, but others have a better perspective on              people’s “needs and desires to think well of themselves” (p. 3). In
+observable behavior, thus magnifying the asymmetry described                addition, a number of studies have shown that this self-serving
+above.                                                                      tendency is quite automatic and effortless (Beer & Hughes, in
+   This proposed asymmetry is partially supported by research on            press; Paulhus & Levitt, 1987; Vohs, Baumeister, & Ciarocco,
+the effect of trait observability on agreement.2 This research shows        2005). Together, these literatures suggest that self-perception is a
+that trait observability, or visibility, is consistently associated with    very different process than other-perception due to the unique
+higher peer–peer and self–peer agreement (Funder, 1980; Funder              motives involved in self-perception.
+& Colvin, 1988; Funder & Dobroth, 1987; Hayes & Dunning,                       How do self-serving biases influence self-judgments? Dunning
+1997; John & Robins, 1993; Paunonen, 1989; Watson et al., 2000).            and his colleagues have done extensive research on the myriad
+Although this research does not speak directly to accuracy, one             ways that people distort their self-perceptions. For example, peo-
+common interpretation of these results is that other-perceptions are        ple take advantage of ambiguities in trait definitions by interpret-
+more accurate for observable traits than for internal traits. Further-      ing the meaning of traits in a self-serving way, set thresholds that
+more, an a priori argument can be made that self-perceptions will           are optimal for the self, ignore unfavorable comparison informa-
+                                                                            tion, and choose and create environments in which their positive
+be more accurate for less observable traits. Specifically, self-
+                                                                            attributes are emphasized (Dunning, 1993, 1999; Dunning &
+perceptions on internal (i.e., less observable) traits are often self-
+                                                                            Cohen, 1992; Dunning, Meyerowitz, & Holzberg, 1989; Dunning,
+ratifying—the perception itself provides strong evidence of its own
+                                                                            Perie, & Story, 1991; Kruger, 1999).
+accuracy. For example, a person’s belief that he or she is anxious (or
+                                                                               Of course for the purposes of the SOKA model, it is important
+optimistic, introspective, etc.) is usually taken as strong evidence that   to determine whether this positivity bias is unique to the self; is the
+he or she is. Internal traits are largely defined by how a person sees      self more (or differently) biased than others? Research comparing
+him- or herself. Thus, it is reasonable to predict that the self will       the positivity of self- and other-perceptions suggests that self-
+generally be more accurate about internal traits than external traits.      perceptions are not always more positive (Vazire, 2006b; Vazire &
+   Based on the evidence just presented, the first postulate of the         Mehl, 2008). In fact, when other-perceptions come from close
+SOKA model is as follows:                                                   others, they can be even more positive than self-perceptions
+                                                                            (Vazire, 2006b). This result suggests that both self and others are
+      P1: Trait observability is associated with self– other knowl-         strongly influenced by a positivity motive. However, it is possible
+      edge asymmetry such that others know more than the self               that these motives operate differently in self-perception than in
+      about highly observable traits and the self knows more than           other-perception. Indeed, I argue here that ego-protective biases
+      others about traits low in observability.                             distort self-ratings more than they distort other-ratings, and as a
+                                                                            consequence trait evaluativeness is more problematic for self-
+This postulate is supported by the large literature on zero-                accuracy than for other-accuracy.
+acquaintance judgments of personality, which shows that highly                 I propose that other-perceptions are influenced by a straightfor-
+observable traits (e.g., extraversion) are easy to judge even with          ward positivity effect such that when we rate a close other, we start
+little information, whereas less observable traits (e.g., neuroticism)      with an accurate impression and inflate our ratings to make them
+are notoriously difficult to judge (Borkenau, Brecke, Möttig, &            more positive. If everyone does so equally, and has some idea of
+Paelecke, 2009; Hall, Andrzejewski, Murphy, Mast, & Feinstein,
+2008; Vazire & Gosling, 2004; Vazire, Naumann, Rentfrow, &
+                                                                               2
+Gosling, 2008). However, others’ advantage for observable traits                 Throughout this discussion, and indeed throughout the literature, the
+                                                                            term observability is defined from a third-person perspective. That is, a
+may be relatively small, because the self knows quite a bit about
+                                                                            trait is considered observable if it is easily detectable by an observer. While
+behavior, too. Thus, the self should be much more accurate than             this is usually appropriate, it may confuse matters in the SOKA model
+others for internal, unobservable traits (though see the discussion         because what is observable to the self is not the same as what is observable
+on the role of acquaintance, below), and others should be slightly          to others. However, for the sake of consistency with the existing literature
+more accurate than the self for external, observable traits.                I continue to use the term observability.
+                                                                WHO KNOWS WHAT                                                               285
+
+the target’s true standing, the ratings will maintain their rank-order            about highly evaluative traits, and this asymmetry is reduced
+validity (e.g., those rated as more intelligent will in fact tend to be           or reversed for evaluatively neutral traits.
+more intelligent, even if the absolute level of intelligence is exag-
+gerated for everyone). This effect is similar to what Cronbach               The Role of Acquaintance
+(1955) referred to as elevation, which does not much disrupt
+rank-order accuracy.                                                            The predictions of the SOKA model presented so far do not
+   In contrast, I propose that the ego-protection motive has a much          distinguish between different kinds of others. However, a large
+more disruptive effect on the accuracy self-perceptions: When                body of research suggests that not all others are created equal. One
+forming self-perceptions on evaluative traits, people do not simply          dimension that has received a lot of attention in the personality
+elevate their reality-based perceptions of themselves. Instead, the          judgment literature and seems particularly relevant for the issue of
+self’s ego-protection motive disrupts people’s ability to form a             accuracy is the level of acquaintance between self and other
+reality-based perception on these traits in the first place. This idea       (Colvin & Funder, 1991; Funder & Colvin, 1988; Funder, Kolar, &
+is supported by the findings of Vazire (2006b), which show that              Blackman, 1995; Letzring, Wells, & Funder, 2006; Paunonen,
+self-perceptions of physical attractiveness, a highly evaluative             1989). Specifically, while observability is likely to be an important
+trait, were significantly less accurate than friends’ ratings (rs ⫽ .18      moderator of other-accuracy for others who are not well-
+vs. .35). In this study, the accuracy criterion was an aggregate of          acquainted with the self (P1), it may be a less important moderator
+12 observers’ ratings based on a photograph of the target; thus both         for close others (Paunonen, 1989). Close others (e.g., friends) are
+the self and others should, in principle, have equally valid infor-          likely to have much more information about internal traits (e.g.,
+mation (i.e., both the self and friends know what the target looks           information about the target’s thoughts and feelings) than do
+like). Importantly, friends’ ratings were more accurate than self-           strangers. This idea was directly supported in the work of Colvin
+ratings despite the fact that friends’ ratings (M ⫽ 5.87, SD ⫽ 1.04,         and Funder (1991), who found that friends’ ratings agreed more
+on a 7-point Likert-type scale) were significantly more positive             with targets’ self-ratings than did strangers’ ratings, but that
+than self-ratings (M ⫽ 4.81, SD ⫽ 1.17, t[148] ⫽ 9.64, p ⬍ .01).             friends and strangers were equally accurate at predicting behavior.
+Thus, it is not the case that other-perceptions are less positive than       This finding suggests that when acquaintance is high, informants
+self-perceptions, but that the bias is less disruptive of accuracy in        are able to accurately predict both internal and observable traits,
+other-perceptions than in self-perceptions.                                  whereas when acquaintance is low, informants are able to accu-
+   In light of this evidence, I propose self-perceptions are more            rately detect only observable traits. Thus, observability should be
+distorted by ego-protection biases than are other-perceptions. If            a moderator of accuracy only for poorly acquainted others.
+this is the case, trait evaluativeness should be less detrimental to            The effect of acquaintance on the relationship between trait
+the accuracy of other-ratings than self-ratings. Is there any evi-           evaluativeness and other-accuracy is less clear. One could argue
+dence that other-accuracy is in fact less harmed by positivity bias          that well-acquainted others are more likely than strangers to share
+than is self-accuracy? The only evidence, besides the results from           some of the ego-protective biases that distort self-ratings, and thus
+Vazire’s (2006b) study described above, is indirect and comes                that the self– other asymmetry related to evaluativeness (P2) will
+from research on the impact of trait evaluativeness on self– other           be diminished when the other is well-acquainted with the target.
+and other– other agreement. If in fact positivity biases distort             Indeed, Hayes and Dunning (1997) claimed that “people tend to
+self-perceptions more than other-perceptions, we would expect                provide assessments of their good friends that look as motivation-
+that trait evaluativeness would be associated with greater decreases         ally influenced as do their judgments of self” (p. 675). However,
+in self– other agreement than in other– other agreement. This is             it is likely that the important distinction is not between high and
+indeed what John and Robins (1993) found. Across two studies,                low acquaintance but between high and low emotional investment
+the average correlation between trait evaluativeness and other–              (John & Robins, 1993). This is consistent with Kenny’s (2004)
+other agreement was –.32, whereas the correlation between trait              view that acquaintance is relatively unimportant to accuracy ex-
+evaluativeness and self– other agreement was –.53, a significant             cept at very low levels, suggesting that other relationship factors
+difference. The authors proposed that their findings                         may be more important.
+                                                                                In the present study, I did not expect emotional investment to
+    are consistent with the idea that differences between self- and peer     vary greatly between friends and strangers because the friends in
+    perception may stem, in part, from a differential response to the
+                                                                             this study were not entirely self-selected and were sometimes
+    evaluativeness of the attribute judged. . . . Self-perceptions may be-
+                                                                             friends-of-friends (see Discussion for more on this issue). In future
+    come distorted when the trait is affectively charged. (John & Robins,
+    1993, p. 547)                                                            studies, the role of emotional investment could be examined by
+                                                                             comparing ratings by romantic partners to ratings by equally
+If this is the case, this differential reaction to trait evaluativeness      well-acquainted friends.
+will likely produce differences in self- and other-accuracy. In other           In the first empirical test of the SOKA model, I have chosen to
+words, “ego involvement may trigger affective and defensive                  limit my examination to one relationship variable, acquaintance
+processes that influence our self-perceptions to a greater extent            level, because it has received the most attention in previous re-
+than our perceptions of most others” (John & Robins, 1993, p.                search. In the present study, I test the role of acquaintance by
+547). On the basis of this evidence, I propose the second postulate          comparing the accuracy of self-, friend-, and stranger-ratings.
+of the SOKA model:                                                           Specifically, I examine whether acquaintance level moderates the
+                                                                             effect of trait observability on self– other asymmetry (P1). The
+     P2: Trait evaluativeness is associated with self– other knowl-          literature reviewed above suggests that low trait observability
+     edge asymmetry such that others know more than the self                 should be less harmful to accuracy (and thus the self– other asym-
+286                                                                  VAZIRE
+
+
+metry on internal traits should be attenuated) for friends compared       and self-esteem in the neuroticism domain; talkativeness, domi-
+to strangers.                                                             nance, and leadership in the extraversion domain; and creativity
+                                                                          and intelligence in the openness/intellect domain.
+                          Present Study                                      Although it would be useful to include a greater number and
+                                                                          breadth of traits in each domain, several methodological consid-
+   The purpose of the present study is to test the SOKA model by          erations precluded this. First, special care was taken to exploit the
+examining whether trait observability and trait evaluativeness dif-       benefits of aggregation as much as possible within the constraints
+ferentially affect self- and other-accuracy. Another aim of this          imposed by participants’ attention and goodwill. Thus, composite
+study is to examine the role of acquaintance (friend vs. stranger) in     measures were created from multiple items for both the ratings
+self– other knowledge asymmetries. To do this I compared self-,           (independent variables) and criterion measures (dependent vari-
+friend-, and stranger-ratings to a behavioral criterion for seven         ables) whenever possible. Second, an effort was made to match the
+traits across three domains that vary in observability and evalu-         specificity of the predictor (e.g., self-esteem ratings) and the cri-
+ativeness. As many have observed, accuracy research— especially           terion measure (e.g., negative statements about the self), requiring
+accuracy research using a behavioral criterion—is fraught with            a separate behavioral criterion measure to be collected for each
+methodological obstacles (Kruglanski, 1989), such as the difficulty       trait. These two methodological safeguards had the side effect of
+in linking traits to behaviors (Buss & Craik, 1985; Funder, 1999;         limiting the study to the examination of a few narrow traits in each
+Furr & Funder, 2007; Vazire, Gosling, Dickey, & Schapiro, 2007),          domain, which may not capture the entire content of the domain.
+the difficulty in matching the level of specificity of predictor and      For example, openness/intellect is clearly more than creativity and
+criterion (Funder, Furr, & Colvin, 2000; Paunonen & Ashton,               intelligence. Thus, the selection of these traits represents a com-
+2001), the tradeoff between obtaining real-world behaviors that           promise between the demand for breadth and the imperative to
+may have limited psychological importance versus psychologi-              obtain reliable measures that are matched in level of specificity.
+cally meaningful behaviors elicited in the laboratory that may have       Most importantly, however, the inclusion of at least two traits in
+limited representativeness (Furr, 2009; Vazire & Mehl, 2008), the         each domain enables tests of the replicability of the pattern of
+need for aggregation (Epstein, 1979, 1983), and the relatively            findings in each domain.
+small effect sizes due to the multiple determination of behavior
+(Ahadi & Diener, 1989). Although these obstacles are surmount-
+                                                                          Predictions
+able, they should be borne in mind when interpreting the results of
+such research (Baumeister, Vohs, & Funder, 2007). As Funder                  As mentioned above, the primary goal of this article is to
+(1999) noted, “we ought to be lenient when interpreting correla-          examine whether self- and other-perceptions show patterns of
+tions between personality judgments and behavioral observations;          accuracy consistent with the postulates of the SOKA model. In
+sometimes I am astonished that not all of them are 0” (p. 110).           addition to accuracy, I also examine the incremental validity
+Thus, the focus in this study is not on absolute levels of validity but   provided by each perspective over the other two perspectives.
+on the relative validity of the three perspectives and how trait          Looking at both accuracy and incremental validity will provide a
+observability and evaluativeness moderate this pattern.                   better understanding of the strengths and weaknesses of each
+                                                                          perspective.
+Design                                                                       The predictions are listed in Table 1. According to the SOKA
+                                                                          model, the self should be more accurate than others for low
+   The present study compares ratings made by the self and others         observability, low evaluativeness traits. Thus, I predicted that the
+to behavior collected in a laboratory setting across a range of traits.   self would be the best judge of neuroticism-related traits. Further-
+There are two important distinguishing features of the current            more, because observability should be a stronger moderator of
+research. First, the “other” perspective is represented by both           accuracy at low levels of acquaintance, I predicted that friends
+friends’ and strangers’ ratings. Previous research comparing self-        would be more accurate than strangers for neuroticism-related
+and other-perceptions has traditionally included only one of these        traits. In addition, the SOKA model predicts that the self and
+two perspectives. Second, the present study is explicitly designed        others should be equally (and highly) accurate for high observ-
+to test the two postulates of the model by examining whether trait        ability, low evaluativeness traits. Thus I predicted that all three
+observability and trait evaluativeness have differential effects on       perspectives would be accurate, and equally so, for extraversion-
+self- and other-accuracy. This is achieved by comparing the pattern       related traits. Finally, the SOKA model predicts that others should
+of validities across three domains of personality that vary on these
+dimensions.
+                                                                             3
+   In choosing which personality domains to examine, the goal was              Some people have expressed surprise that neuroticism is low in evalu-
+to capture aspects of personality at opposite poles of the observ-        ativeness. In John and Robins’s (1993) article, evaluativeness was opera-
+ability and evaluativeness continua in order to examine the mod-          tionalized as the difference in social desirability between the high and low
+erating role of these trait characteristics. Thus, on the basis of John   pole (i.e., between neuroticism and emotional stability). The social desir-
+                                                                          ability ratings were obtained from 100 undergraduates who rated all of the
+and Robins’s (1993) findings, the study includes one domain low
+                                                                          adjectives on Goldberg’s (1983, 1992) Big Five measure on a scale from
+on both observability and evaluativeness (neuroticism3), one do-          1 (extremely undesirable) through 5 (neutral) to 9 (extremely desirable).
+main high on observability but low on evaluativeness (extraver-           The data suggest that college students do not consider the high-neuroticism
+sion), and one domain high on evaluativeness but low on observ-           adjectives (e.g., “impulsive”) to be especially undesirable. This finding
+ability (openness/intellect). To identify replicable patterns of          suggests that neuroticism is not especially undesirable in a social context,
+validity, at least two traits were examined in each domain: anxiety       and its toxicity may be restricted to negative intrapsychic consequences.
+                                                              WHO KNOWS WHAT                                                                         287
+
+Table 1
+Predictions From the SOKA Model and Findings
+
+  Domain and
+    traits              Observability        Evaluativeness                               Prediction                                        Result
+
+Neuroticism
+  Self-esteem                                                      Self-ratings should be more accurate than other-ratings           Supported
+                            Low                  Low
+  Anxiety                                                          Friend-ratings should be more accurate than stranger-             Partially supported
+                                                                     ratings
+Extraversion
+   Talkativeness                                                   Self- and other-ratings should be equally accurate                Supported
+   Dominance                High                 Low
+   Leadership
+Intellect
+   Creativity                                                      Other-ratings should be more accurate than self-ratings           Partially supported
+                            Low                  High
+   Intelligence                                                    Friend-ratings should be more accurate than stranger-             Supported
+                                                                     ratings
+
+Note.   Observability and evaluativeness categorizations are based on John and Robins’s (1993) findings. SOKA ⫽ self– other knowledge asymmetry.
+
+
+be more accurate than the self for high evaluativeness traits. Thus,           Phase I: Self- and friend-ratings. Upon arriving at the lab-
+I predicted that others would be better judges than the self of             oratory, each “friend group” was shown to a separate room where
+intellect-related traits. However, because intellect is a low observ-       an experimenter described the study and administered the consent
+ability domain, I predicted that acquaintanceship should matter             forms. Participants then completed a battery of measures including
+such that only friends would be accurate in this domain and                 round-robin ratings of their group members, including themselves.
+strangers would be no more accurate than the self.                          Group members were seated together at a table, but folders were
+                                                                            put up so that they could not see each other’s ratings. Ratings were
+                              Method                                        made on a 40-item personality inventory, described below.
+                                                                               Phase II: Stranger-ratings. After Phase I, all participants
+Participants                                                                met in the lobby and were rearranged according to a formula so
+                                                                            that new groups of previously unacquainted participants were
+   A total of 165 undergraduate students (100 female, 65 male)              formed. These “stranger groups” ranged in size from three to five
+participated in exchange for either course credit or a monetary             participants (depending on the number of friend groups that
+reward ($10 and a 1 in 10 chance to win $100 more). The                     showed up). Each stranger group was shown to a separate room,
+participants ranged in age from 18 to 22 (M ⫽ 18.8, SD ⫽ 1.7).              seated at a single table, given pizza and soda, and instructed to get
+According to self-reports of ethnicity, 70 participants were Asian          to know each other. The instructions given were as follows:
+or Pacific Islander, 65 were Caucasian, 19 were Hispanic, 9 were
+African American, 1 was of mixed ethnicity, and 1 did not provide                These 10 minutes are completely unstructured, it’s up to you guys
+an ethnicity. Participants were asked to sign up in groups of five               how you want to get to know each other. Try to give everyone a
+friends who were all previously acquainted. Some groups included                 chance to talk and try to get to know everyone, but other than that, just
+dyads that had not met before, but 97% of the dyads (320 out of                  do whatever you would normally do when trying to get to know a
+                                                                                 group of new people.
+330) were all previously acquainted. On average, participants had
+known their group members for over 3 years (M ⫽ 3.12, SD ⫽
+                                                                            Participants knew that their interaction would be videotaped. The
+4.29, Mdn ⫽ 1.08).
+                                                                            experimenter then turned on the cameras and left the room. Par-
+                                                                            ticipants actually interacted for eight minutes. At the end of the
+Procedure                                                                   interaction, the experimenter returned, turned off the cameras, and
+   Participants were recruited by posting flyers in dorms, making           participants completed round-robin ratings of their new group
+announcements in introductory psychology classes, and handing               members, not including themselves, following the same procedure
+out candy and flyers at busy campus intersections. Participants             used in Phase I.
+signed up by visiting a website and completing a form, which                   Phase III: Criterion measures. After Phase II, participants
+required five people to sign up together who were previously                once again reconvened in the lobby where an algorithm was used
+acquainted friends, were all undergraduate students, and were at            to assign them to a third group, the “criterion group.” As in Phase
+least 18 years old. No details about the purpose of the study were          II, these groups consisted of previously unacquainted participants
+given in the advertisements or on the website. Participants signed          and ranged in size from three to five people. Each criterion group
+up their group for a specific 3-hr session. After signing up, par-          was taken to one of five stations. Each station consisted of a
+ticipants received an e-mail with directions to the laboratory.             different set of tasks lasting 15 min, and the groups rotated among
+Sessions ranged in size from three to five groups (15 to 25                 these stations. Here I describe only the tasks relevant to the present
+participants), resulting in a total of 165 participants. The predictors     analyses.
+and criterion measures for each trait are listed in Table 2 and                The speech station was designed after the Trier Social Stress
+described in greater detail below.                                          Test (Kirschbaum, Pirke, & Hellhammer, 1993). Upon arriving at
+288                                                                   VAZIRE
+
+
+Table 2
+Traits, Predictors, and Criterion Measures
+
+ Domain and
+    trait                                           Predictor                                                        Criterion
+
+Neuroticism
+  Self-esteem      Has high self-esteem                                                    Observer-rated negative statements about self in TSST (r)
+  Anxiety          Is anxious, easily upset                                                Observer- and experimenter-rated anxiety in TSST
+                   Is good at public speaking (r)
+Extraversion
+  Talkativeness    Is extraverted, enthusiastic                                            Observer-coded frequency and duration of talking in LGD
+                   Is reserved, quiet (r)
+  Dominance        Is assertive                                                            Observer-coded number of interruptions in LGD
+                   Tends to dominate group discussions
+   Leadership      Is a good leader                                                        Observer-rated leadership in LGD
+Intellect
+   Creativity      Is open to new experiences, complex                                     Brick Creativity Test score
+                   Is conventional, uncreative (r)
+                   Thinks and associates in unusual ways, has unusual thought processes
+  Intelligence     Is intelligent                                                          Wonderlic IQ Test score
+                   Has strong math skills
+                   Has strong verbal skills
+
+Note. All predictor variables were items rated on a 15-point Likert-type scale. See Method section for details and reliabilities. TSST ⫽ Trier Social
+Stress Test (Kirschbaum, Pirke, & Hellhammer, 1993); LGD ⫽ Leaderless Group Discussion (Bass, 1954). (r) indicates that the item was
+reverse-scored.
+
+the speech station, participants were met by one of two stern-               Measures
+looking experimenters in white lab coats. Participants were asked
+to wait in a small bare waiting room. Each experimenter then asked              Personality ratings. In Phases I and II, participants com-
+one participant to follow her to a very small, narrow room with a            pleted ratings of themselves and their group members on a 40-item
+video camera on a tripod at one end. The experimenter stood                  personality questionnaire. The items were selected to provide a
+behind the video camera and asked the participant to stand at the            broad measure of personality and to provide ratings on traits that
+other end of the room. The experimenter then explained to the                are related to the criterion measures obtained in Phase III. Thus,
+participant that he or she would be giving a 2-min speech about              the first 10 items consisted of the Ten Item Personality Inventory
+“What I like and don’t like about my body,” that he or she should            (TIPI; Gosling, Rentfrow, & Swann, 2003). The remaining 30
+continue speaking until the experimenter tells him or her to stop,           items were pulled from a variety of other scales or created specif-
+and that he or she had 10 s to prepare her speech (for full                  ically for this study. Participants rated each group member (in-
+instructions, see Appendix A). Participants then gave a 2-min,               cluding themselves in Phase I) on the same 15-point Likert-type
+videotaped speech during which the experimenter did not smile or             scale (see Appendix C). Participants wrote the letter corresponding
+laugh. After giving the speech, participants completed some ques-            to the group member they were rating above the number they
+tionnaires and were asked not to tell other participants about the           chose for that person and were told not to use the same number
+speech task, then returned to the waiting room.                              twice for a single item (i.e., participants had to give each group
+   At another station, participants took part in the Leaderless              member different scores from each other on a given item).
+Group Discussion (LGD; Bass, 1954). Upon arriving at this sta-                  The self-, friend-, and stranger-ratings in the analyses below
+tion, participants were met by an experimenter who told partici-             were derived from this pool of items. For neuroticism, self-esteem
+pants that they would be participating in a group discussion in              ratings were based on the item “Has high self-esteem.” Anxiety
+which they were required to allocate fictional resources amongst             ratings were based on the aggregate of the items “Is anxious, easily
+themselves (for full instructions, see Appendix B). The experi-              upset” and “Is good at public speaking” (reverse-scored). Alpha
+menter then turned on the video cameras and left the room while              reliabilities of this aggregate for self-ratings, friend-ratings, and
+the group members interacted. After 9 min, the experimenter                  stranger-ratings were .25, –.17, and –.11, respectively.4 In the
+stopped in and gave participants a 1-min warning. After 10 min,
+                                                                             extraversion domain, talkativeness ratings were based on an ag-
+the experimenter collected the piece of paper on which participants
+                                                                             gregate of the two TIPI extraversion items (␣s ⫽ .69, .84, and .85),
+had been instructed to write their final decision and turned off the
+                                                                             dominance ratings were based on an aggregate of the items “Is
+video cameras.
+                                                                             assertive” and “Tends to dominate group discussions” (␣s ⫽ .67,
+   At another station, participants completed two timed paper-and-
+                                                                             .81, and .85), and leadership ratings were based on the item “Is a
+pencil tests. The first was the Wonderlic IQ test (Wonderlic, 1983),
+a 12-min test of verbal and nonverbal intelligence. The second was
+the Brick Creativity Test (Friedman & Förster, 2002), in which                4
+                                                                                 Negative intraclass correlations are expected to occur when ratings are
+participants were instructed to list as many uses as they could think        made of a fixed resource (Kenny, Mannetti, Pierro, Livi, & Kashy, 2002),
+of for a brick, avoiding mundane or impossible uses. Participants            as was the case in this study when raters were asked to rank themselves and
+were given 1 min to complete the brick test.                                 their group members relative to each other.
+                                                             WHO KNOWS WHAT                                                                      289
+
+good leader.” In the openness/intellect domain, creativity ratings                                        Results
+were based on the aggregate of the two TIPI openness items and
+the item “Thinks and associates ideas in unusual ways, has uncon-        Descriptive Statistics
+ventional thought processes” (␣s ⫽ .53, .56, and .57), and intelli-
+gence ratings were based on an aggregate of the items “Is intelli-          The means and standard deviations of the self-, friend-, and
+gent,” “Has strong math skills,” and “Has strong verbal skills”          stranger-ratings of personality are presented in Table 3. All sig-
+(␣s ⫽ .33, .70, .73).                                                    nificance tests were conducted using paired-sample t tests. Self-
+   Speech codings. Two coders watched the videos of the speech           ratings were significantly more positive than friend- or stranger-
+and made ratings on a 15-point Likert-type scale on a number of          ratings for leadership and creativity. Self-ratings were also
+dimensions. All codings were ipsatized within coder before being         significantly higher than friend- and stranger-ratings for domi-
+aggregated across coders. The items included “Says negative              nance, though it is not clear which pole of this trait is more
+things about self (e.g., is self-critical; expresses feelings of inad-   positive. Friend-ratings were significantly more positive than
+equacy)” (intraclass correlation coefficient [ICC] [2, k] ⫽ .50),        stranger-ratings on self-esteem, creativity, and intelligence.
+which served as the criterion measure for the self-esteem ratings in        The agreement correlations among the three perspectives are pre-
+the neuroticism domain. Coders also rated participants on the            sented in the diagonals of the three panels of Table 4. Here, signifi-
+following dimensions: “Good at public speaking” (.78), “Appears          cance tests comparing equivalent values across the three diagonals
+anxious/nervous” (.62), “Appears to be relaxed and comfortable”          were conducted using Hotelling’s t test for significance of differences
+(.66), and “Speaks fluently and expresses ideas well” (.78). After       between dependent correlations with the Williams modification
+making the ratings, the coders watched the video again and               (Kenny, Kashy, & Cook, 2006). Not surprisingly, self-ratings agreed
+counted the number of nervous mouth movements (.71) and rated            more with friend-ratings than with stranger-ratings overall, and this
+how much anxiety was signaled through hand movements and                 pattern held for all traits except talkativeness. In addition, strangers
+position (.38). The codings on these four items and two behavior         agreed more with friends than with the self, particularly on self-
+counts were aggregated and used as one part of the criterion for         esteem, anxiety, and intelligence. Finally, friends agreed more with
+anxiety. The other part of the criterion was derived from ratings        the self than with strangers, particularly on anxiety and leadership.5
+made by the experimenter who administered the speech. Specifi-
+cally, the experimenter rated the participant’s anxiety on three         Social Relations Model Analyses
+items immediately after the participant left the room: “How ner-            Because all ratings were made in round-robin groups, these data
+vous did the participant seem?” “How self-assured did the partic-        lend themselves nicely to social relations model (SRM; Kenny, 1994)
+ipant seem?” and “How hard did the participant try (were they            analyses. Table 5 presents the variance partitioning results of the
+engaged in the task)?” The experimenter’s ratings on these three         round-robin ratings among the friend groups and stranger groups.
+items were aggregated, and this score was combined with the              Perceiver variance reflects rater differences in how they tend to
+aggregate score based on the coders’ ratings and codings (de-            perceive others. Target variance is a measure of consensus and re-
+scribed above) to create an anxiety composite. The alpha reliability     flects target differences in how they are perceived by others. Impor-
+of this composite was .89. This composite was used as the criterion      tantly for the purposes of the current study, there was significant target
+measure for anxiety in the neuroticism domain.                           variance in all traits in both groups except anxiety in the stranger-
+   LGD codings. Two coders who did not serve as the speech               ratings.
+coders watched the LGD videos and tallied the number of times               In addition to providing estimates of variance partitioning, SRM
+the participant spoke (ICC [2, k] ⫽ .92) and used a stopwatch to         also allows researchers to calculate individual target, perceiver, and
+record the amount of time the participant was speaking (.79).
+These codings were aggregated and corrected for LGD group size
+                                                                            5
+to create the criterion measure for talkativeness in the extraversion         A few gender differences also emerged. Among self-ratings, men rated
+domain (ICC [2, k] ⫽ .82). Next, the observers watched the video         themselves significantly higher than did women on intelligence (M ⫽ 10.93,
+again and counted the number of times the participant interrupted        SD ⫽ 1.80 vs. M ⫽ 10.23, SD ⫽ 2.07; t ⫽ 2.23, p ⬍ .05, two-tailed). Among
+                                                                         friends’ ratings men were rated as less anxious (M ⫽ 6.63, SD ⫽ 1.59 vs. M ⫽
+someone (.70). This value, corrected for LGD group size, served as
+                                                                         7.17, SD ⫽ 1.72; t ⫽ 2.04, p ⬍ .05), less talkative (M ⫽ 8.91, SD ⫽ 2.40 vs.
+the criterion measure for dominance in the extraversion domain.          M ⫽ 9.78, SD ⫽ 2.33; t ⫽ 2.02, p ⬍ .05), and more intelligent (M ⫽ 10.73,
+Finally, the observers ranked the group members on leadership            SD ⫽ 1.58 vs. M ⫽ 10.00, SD ⫽ 1.59; t ⫽ 2.89, p ⬍ .01) than women. Among
+ability (.75), which served as the criterion measure for leadership      strangers’ ratings, men were rated as lower in self-esteem (M ⫽ 8.20, SD ⫽
+in the extraversion domain.                                              1.93 vs. M ⫽ 9.18, SD ⫽ 1.69; t ⫽ 3.41, p ⬍ .01), less talkative (M ⫽ 8.62,
+   Test scores. Participants’ responses on the Brick Creativity          SD ⫽ 2.28 vs. M ⫽ 9.73, SD ⫽ 2.38; t ⫽ 2.98, p ⬍ .01), less dominant (M ⫽
+Test were compiled, and six judges read each response and rated          7.48, SD ⫽ 2.15 vs. M ⫽ 8.58, SD ⫽ 2.29; t ⫽ 3.08, p ⬍ .01), and lower on
+its creativity on a Likert-type scale from 1 (unoriginal) to 15 (very    leadership (M ⫽ 7.86, SD ⫽ 1.99 vs. M ⫽ 8.66, SD ⫽ 1.95; t ⫽ 2.53, p ⬍ .05)
+creative). The reliability of the coders’ scores was ICC (2, k) ⫽        than women. Among the criterion measures, women scored lower than men on
+.69. To obtain a creativity score for each participant, the average      the Wonderlic IQ test (M ⫽ 23.43, SD ⫽ 5.62 vs. M ⫽ 25.48, SD ⫽ 4.63; t ⫽
+                                                                         2.55, p ⬍ .05).
+aggregate creativity rating of each of their responses was calcu-
+                                                                            No gender differences were found in agreement among self, friends, and
+lated, which served as the criterion measure for creativity in the       strangers. With respect to the accuracy analyses, women’s self-ratings were
+openness/intellect domain. In addition, the Wonderlic IQ test was        slightly more accurate than men’s overall (r ⫽ .26 vs. r ⫽ .17) though this
+scored by computing the total number of items a participant              difference reached statistical significance only for self-esteem (r ⫽ .48 vs.
+answered correctly, which served as the criterion measure for            r ⫽ .09; z ⫽ 2.66, p ⬍ .01). There were no differences in other-accuracy
+intelligence in the openness/intellect domain.                           between female and male targets.
+290                                                                      VAZIRE
+
+
+Table 3
+Means for Self-, Friend-, and Stranger-Ratings of Personality
+
+                                               Self                                       Friends                                           Strangers
+  Domain and
+     trait                          M                       SD                    M                       SD                        M                       SD
+
+Neuroticism
+   Self-esteem                     9.20a,b                 3.28                   9.37a                   1.81                    8.79b                    1.84
+   Anxiety                         7.00                    2.77                   6.96                    1.68                    6.66                     1.36
+Extraversion
+   Talkativeness                   9.70                    2.95                   9.37                    2.38                    9.29                     2.40
+   Dominance                       8.92a                   2.90                   8.10b                   2.14                    8.14b                    2.30
+   Leadership                     10.19a                   2.90                   8.30b                   2.16                    8.34b                    2.00
+Intellect
+   Creativity                     10.27a                   2.30                 9.35b                     1.47                    8.67c                    1.31
+   Intelligence                   10.51a                   1.99                10.29a                     1.62                    9.98b                    1.44
+
+Note. N ⫽ 165. All ratings were made on a 15-point Likert-type scale. Means in the same row with different subscripts are significantly different from
+each other (paired-samples t test, p ⬍ .05, two-tailed).
+
+
+
+self effects for each participant on each trait. The target effects reflect   for each perspective. These betas, presented in Table 7, represent
+the friends’ or strangers’ ratings on a given trait when perceiver            the unique predictive validity of each perspective, or the incre-
+variance has been removed and thus are a more precise estimate of             mental validity it provides over the other two. However, once
+how the friends and strangers actually see the target. The self effects       again the friends’ and strangers’ ratings benefited from increased
+are the unique portion of self-ratings that is not accounted for by how       reliability due to aggregation. Thus, I used the 15 randomly gen-
+the person tends to rate others (perceiver effect) or how he or she is        erated single friend- and stranger-ratings for each trait described
+rated by others (target effect). Thus, the self effect captures the rater’s   above and reran the regressions 15 times using these disaggregated
+unique perception of him- or herself. Participants’ unique target             ratings. I then averaged the standardized betas from these 15
+effects and self effects can be used instead of raw scores in the             regressions for each trait. The standardized betas from both sets of
+accuracy analyses below. For the sake of ease of interpretability, I use      regressions (those with aggregated friends’ and strangers’ ratings
+the raw scores in the analyses presented below; however, the pattern          and those with single friend- and stranger-ratings) are presented in
+of results is identical when SRM effects are used as raw data in the          Table 7.
+accuracy analyses. That is, in no case is there a change in the order of         I next compare these results to the predictions made based on
+the three perspectives (self, friends, strangers) from most accurate to       the SOKA model. Recall that all predictions are comparative—that
+least accurate. The magnitude of the correlations is roughly the same,        is, that one perspective will be more accurate than one or two
+though the self-accuracy correlations are slightly weaker in the extra-       others. However, detecting statistically significant differences be-
+version domain when SRM effects are used compared to when the                 tween correlations or between regression coefficients requires
+raw scores are used.                                                          large amounts of statistical power, especially when the effect sizes
+                                                                              are attenuated by low reliability. Thus, instead of conducting
+Computing Accuracy and Unique Predictive Validity                             null-hypothesis significance tests of these differences, I will in-
+                                                                              stead look for evidence of these effects in the replicated pattern of
+   Accuracy was computed as the raw correlation between each                  correlations and regression coefficients.7 If the differences in ac-
+perspective’s rating on a trait and the criterion measure for that trait.     curacy across perspectives are substantial and replicate across
+The results of these analyses are presented in Table 6. Because               traits within a domain, I will take that as evidence that the per-
+other-ratings were aggregated across observers, and thus benefited
+from increased reliability, I also estimated what the magnitude of the
+correlation would be for a single friend and a single stranger for each           6
+                                                                                   Although disaggregation makes it easier to compare the magnitude of
+trait.6 To do this, I wrote an algorithm that would randomly select one       the effect sizes, it should be noted that the increased reliability from
+observer for each target and then ran the correlation with the criterion      aggregation is not merely a statistical artifact. It is a fact of life that you can
+measure. I repeated this 15 times, converted the 15 correlations using        obtain impressions of a person from multiple peers, but you can ask only
+Fisher’s r-to-z formula, averaged the values, and then converted the          one person for a self-rating. Thus, the increased reliability of aggregated
+value back to an r (using the inverse of Fisher’s formula). I conducted       peer-ratings is not artificial—in real-life contexts the fact that multiple
+                                                                              peers can be turned to for information about a target is a real and important
+this procedure separately for friends’ and strangers’ ratings and re-
+                                                                              advantage.
+peated it for each trait. The accuracy correlations for both the aggre-          7
+                                                                                   As articulated by Judd and McClelland (1989), tests for significant
+gated friends and strangers and single friend and stranger are pre-
+                                                                              differences in correlations tend to have considerably lower power than tests
+sented in Table 6, along with the self-accuracy correlations.                 for significant differences in means. As a consequence, accuracy research
+   In addition to accuracy, I computed the incremental validity that          has adopted the practice of descriptively interpreting differences in the
+each perspective provided over the other two for each trait. To               magnitude of correlations in the same way that other fields descriptively
+measure this I entered all three perspectives’ ratings simulta-               interpret differences between effect sizes (e.g., between experimental stud-
+neously into a multiple regression and saved the standardized betas           ies or conditions).
+                                                                WHO KNOWS WHAT                                                                       291
+
+Table 4
+Agreement Among Self-, Friend-, and Stranger-Ratings of Personality
+
+Domain and trait         Self-esteem         Anxiety          Talkativeness         Dominance           Leadership         Creativity         Intelligence
+
+                                                              Agreement between self (rows) and friends (columns)
+Neuroticism
+   Self-esteem                .20ⴱⴱ
+                                 a              .23ⴱⴱ              .06                  .06                 .15                .08                .04
+   Anxiety                    .18ⴱ              .40ⴱⴱ
+                                                   a               .10                  .10                 .30ⴱⴱ              .18ⴱ               .14
+Extraversion
+   Talkativeness              .18ⴱ              .06                .54ⴱⴱ                .29ⴱⴱ               .13                .13              ⫺.18ⴱ
+   Dominance                  .17ⴱ              .03                .29ⴱⴱ                .39ⴱⴱ
+                                                                                           a                .25ⴱⴱ              .12              ⫺.06
+   Leadership                 .18ⴱ              .18ⴱ               .30ⴱⴱ                .27ⴱⴱ               .29ⴱⴱ
+                                                                                                               a               .17ⴱ             ⫺.03
+Intellect
+   Creativity                 .10             ⫺.01                 .04                  .18ⴱ                .06                .30ⴱⴱ
+                                                                                                                                  a             ⫺.04
+   Intelligence               .21ⴱⴱ            .27ⴱⴱ               .03                  .09                 .22ⴱⴱ              .01               .31ⴱⴱ
+                                                                                                                                                    a
+
+
+                                                             Agreement between self (rows) and strangers (columns)
+Neuroticism
+   Self-esteem              ⴚ.06b             ⫺.09                 .02                ⫺.02                ⫺.08              ⫺.10                ⫺.12
+   Anxiety                   .07              ⴚ.02b                .13                 .13                 .03               .15                ⫺.03
+Extraversion
+   Talkativeness              .20ⴱⴱ            .15                 .46ⴱⴱ                .41ⴱⴱ               .29ⴱⴱ              .20ⴱ             ⫺.16ⴱ
+   Dominance                  .19ⴱ             .05                 .30ⴱⴱ                .24bⴱⴱ              .19ⴱ               .21ⴱⴱ            ⫺.11
+   Leadership                 .15             ⫺.05                 .25ⴱⴱ                .20ⴱ                .06b               .16ⴱ             ⫺.15
+Intellect
+   Creativity               ⫺.01              ⫺.04                .09                  .10                ⫺.04               .11b               ⫺.11
+   Intelligence             ⫺.09              ⫺.11               ⫺.03                 ⫺.11                ⫺.14              ⫺.10                ⴚ.07b
+
+                                                           Agreement between friends (rows) and strangers (columns)
+Neuroticism
+   Self-esteem                .23ⴱⴱ
+                                 a              .09                .13                  .17ⴱ               .10                 .05                .02
+   Anxiety                    .14               .15c               .06                  .15               ⫺.01                 .14                .11
+Extraversion
+   Talkativeness              .39ⴱⴱ             .14                .47ⴱⴱ                .44ⴱⴱ               .31ⴱⴱ              .27ⴱⴱ              .00
+   Dominance                  .21ⴱⴱ             .03                .26ⴱⴱ                   ⴱⴱ
+                                                                                        .26a,b              .15                .17ⴱ               .03
+   Leadership                 .19ⴱ              .12                .13                  .20ⴱ                .09b               .12                .11
+Intellect
+                                                                                                                                ⴱⴱ
+   Creativity                 .12             ⫺.03                .15                  .11                ⫺.02               .19a,b             ⫺.09
+   Intelligence               .02              .02               ⫺.08                 ⫺.05                ⫺.09              ⫺.02                 .20ⴱa
+
+Note. N ⫽ 165. Correlations in bold are monotrait, heteromethod agreement correlations. Across the three diagonals, correlations with different subscripts
+for a given trait are significantly different from each other (Hotelling’s t test for significance of difference between dependent correlations, p ⬍ .05,
+two-tailed).
+ⴱ
+  p ⬍ .05, two-tailed. ⴱⴱ p ⬍ .01, two-tailed.
+
+
+
+spectives differ reliably in their amount of knowledge about that              Does the Self Know More Than Others About
+trait.                                                                         Neuroticism-Related Traits?
+   What should count as a “substantial” difference in accuracy?
+Given that statistical tests of significance cannot be used here due              According to my predictions, the self should be the best judge
+to restricted power, a conservative but reasonable threshold should            of neuroticism-related traits, because these traits are low in
+be set to decide the magnitude of difference that can be considered            observability (therefore hard for others to judge) and low in
+meaningful when it replicates. A recent meta-analysis showed that              evaluativeness (therefore not distorted by self-protective bi-
+the average effect size in social and personality research, when               ases). The results presented in Table 6 show that the self was
+translated into a Pearson’s r, was .21 (Mdn ⫽ .18) with a standard             consistently the best judge for self-esteem and anxiety. Further
+deviation (across studies) of .15 (Richard, Bond, & Stokes-Zoota,              analyses show that the accuracy of self- and friend-ratings of
+2003). The same meta-analysis showed that the average effect size              public speaking anxiety is due mainly to the item “Is good at
+specifically for personality research was also .21, with a standard            public speaking.” When public speaking anxiety is predicted
+deviation of .14. On the basis of these figures, I propose that a              from either or both of the neuroticism items on the TIPI (“Is
+difference in accuracy correlations or standardized regression co-             anxious, easily upset” and “Is calm, emotionally stable”), the
+efficients of more than .15 should be considered substantial, as it            accuracy correlations are all nonsignificant. Thus, the validity
+represents a difference roughly equal to one standard deviation in             of the self- and friend-ratings of anxiety appear to be driven by
+the distribution of effect sizes in social/personality psychology              knowledge about public-speaking-specific anxiety, rather than
+generally.                                                                     neuroticism in general.
+292                                                                             VAZIRE
+
+
+Table 5
+Social Relations Model Relative Variance Partitioning Results
+
+                                                        Friend-ratings                                                       Stranger-ratings
+  Domain and
+     trait                        Perceiver variance                      Target variance                  Perceiver variance                   Target variance
+
+Neuroticism
+   Self-esteem                         .20ⴱ (.56)                               .22ⴱ (.58)                      .19ⴱ (.47)                         .24ⴱ (.53)
+   Anxiety                             .14ⴱ (.46)                               .26ⴱ (.62)                       .15 (.37)                          .12 (.32)
+Extraversion
+   Talkativeness                        .00 (.00)                               .38ⴱ (.70)                       .07 (.31)                         .49ⴱ (.76)
+   Dominance                           .15ⴱ (.53)                               .35ⴱ (.72)                      .20ⴱ (.61)                         .44ⴱ (.78)
+   Leadership                          .23ⴱ (.62)                               .25ⴱ (.64)                      .26ⴱ (.60)                         .24ⴱ (.58)
+Intellect
+   Creativity                          .13ⴱ (.43)                               .23ⴱ (.58)                       .12 (.31)                         .16ⴱ (.39)
+   Intelligence                        .17ⴱ (.52)                               .26ⴱ (.63)                      .35ⴱ (.68)                         .21ⴱ (.56)
+
+Note. N ⫽ 165. Reliabilities are presented in parentheses. The perceiver variance estimates can be interpreted as Pearson’s rs reflecting the typical
+correlation between one rater’s rating of two different targets. The target variance estimates can be interpreted as Pearson’s rs reflecting the typical level
+of consensus between two raters when each target is rated by two unique raters (as opposed to when all targets are rated by the same two raters, in which
+case consensus estimates would be higher).
+ⴱ
+  p ⬍ .05, two-tailed.
+
+
+   The results of the multiple regressions show that the self consis-                  of acquaintance. The results for both self-esteem and anxiety were
+tently predicted unique variance in anxiety and self-esteem above and                  in the predicted direction but did not reach the .15 threshold
+beyond the predictive validity of the other two perspectives (see Table                (differences between friends’ and strangers’ accuracy ranged from
+7). For self-esteem, the self was substantially (⬎.15 difference) more                 .12 to .14 in Table 6). Thus, my second hypothesis was only
+accurate than strangers and slightly more accurate than friends (espe-                 partially supported.
+cially when the friends’ ratings were disaggregated) in both the raw
+correlation analyses and the multiple regression analyses. For anxiety,
+the self was consistently substantially more accurate than both friends                Do All Three Perspectives Know Equal Amounts
+and strangers. Thus, my first hypothesis was largely supported.                        About Extraversion-Related Traits?
+
+Do Friends Know More Than Strangers About                                                 According to my predictions, all three perspectives should be
+                                                                                       roughly equally accurate about extraversion-related traits because
+Neuroticism-Related Traits?
+                                                                                       they are high in observability (thus everyone would have the
+   According to my predictions, friends should know more than                          relevant information available) and low in evaluativeness (thus no
+strangers about neuroticism-related traits because the low observ-                     one would be motivated to distort their perceptions). The results
+ability of these traits should be especially problematic at low levels                 show that all three perspectives achieved accuracy in rating these
+                                                                                       traits (except the self on leadership), and none of the perspectives
+                                                                                       was substantially more accurate than the others. Thus, my third
+Table 6                                                                                hypothesis was supported.
+Accuracy of Stranger-, Friend-, and Self-Ratings: Raw
+Correlations
+                                                                                       Do Others Know More Than the Self About Intellect-
+                                          Friends                 Strangers
+  Domain and
+                                                                                       Related Traits?
+     trait             Self       Agg.         Single       Agg.         Single
+                                                                                          According to my predictions, others should know more than
+Neuroticism                                                                            the self about intellect-related traits because these traits are high
+   Self-esteem        .31ⴱⴱ       .29ⴱⴱ         .18ⴱ        .15†          .07          in evaluativeness, thus self-ratings would be distorted by self-
+   Anxiety            .35ⴱⴱ       .19ⴱ          .12         .06           .00
+Extraversion
+                                                                                       protective biases. However, intellect is also a low observability
+   Talkativeness      .20ⴱ        .20ⴱ          .17ⴱ        .26ⴱⴱ         .21ⴱ         domain, somewhat hampering others’ ability to detect relevant
+   Dominance          .18ⴱ        .19ⴱ          .15†        .22ⴱⴱ         .15†         information. Nevertheless, the results show that friends were
+   Leadership         .13         .24ⴱⴱ         .17ⴱ        .21ⴱ          .16ⴱ         substantially more accurate than the self on creativity and had
+Intellect
+   Creativity         .11         .27ⴱⴱ         .17ⴱ        .11           .07
+                                                                                       substantially more unique predictive validity, although the dif-
+   Intelligence       .22ⴱⴱ       .36ⴱⴱ         .27ⴱⴱ       .01           .01          ference is reduced when friends’ ratings are disaggregated.
+                                                                                       For intelligence, friends were slightly more accurate than the
+Note. N ⫽ 165. “Agg.” columns present the results for analyses when the                self (a difference of .14) and had substantially more unique
+aggregate of all friends or strangers was used. “Single” columns present the
+average result of 15 repeated analyses in which a single friend or stranger
+                                                                                       predictive validity, but again this held only when the friends’
+was chosen for each target.                                                            ratings were aggregated. Thus, my fourth hypothesis was par-
+†
+  p ⬍ .10, two-tailed. ⴱ p ⬍ .05, two-tailed. ⴱⴱ p ⬍ .01, two-tailed.                  tially supported.
+                                                                WHO KNOWS WHAT                                                                           293
+
+Table 7
+Unique Predictive Validity of Stranger-, Friend-, and Self-Ratings
+
+                                       Multiple regression standardized betas:                               Multiple regression standardized betas:
+                                          Aggregated friends & strangers                                            Single friend & stranger
+  Domain and
+     trait                      Self                Friends                Strangers                 Self                 Friends                Strangers
+
+Neuroticism
+   Self-esteem                 .28ⴱⴱ                 .20ⴱ                        .13                 .29ⴱⴱ                 .14†                        .06
+   Anxiety                     .33ⴱⴱ                 .05                         .05                 .33ⴱⴱ                 .03                         .00
+Extraversion
+   Talkativeness               .09                   .06                         .19ⴱ                .13                   .08                         .13
+   Dominance                   .10                   .11                         .17ⴱ                .13                   .08                         .15†
+   Leadership                  .07                   .20ⴱ                        .18ⴱ                .10                   .13                         .13
+Intellect
+   Creativity                  .03                   .24ⴱⴱ                    .07                    .07                   .14†                        .05
+   Intelligence                .12                   .33ⴱⴱ                   ⫺.04                    .18ⴱ                  .22ⴱⴱ                       .01
+
+Note. N ⫽ 165. All three perspectives were entered simultaneously in a multiple regression; therefore, standardized betas reflect the incremental validity
+of the given perspective over the other two perspectives. “Aggregated” columns present the results for analyses when the aggregate of all friends and
+strangers was used. “Single” columns present the average result of 15 repeated analyses in which a single friend and stranger were chosen for each target.
+†
+  p ⬍ .10, two-tailed. ⴱ p ⬍ .05, two-tailed. ⴱⴱ p ⬍ .01, two-tailed.
+
+
+Do Friends Know More Than Strangers About                                        trait evaluativeness in self– other knowledge asymmetries are cor-
+Intellect-Related Traits?                                                        rect. Figure 1 presents the results as a function of trait observability
+                                                                                 and evaluativeness. Consistent with P1 of the SOKA model, other-
+   According to my predictions, friends should know more than                    knowledge was impaired by low trait observability, and this was
+strangers about intellect-related traits because the low observabil-             especially true at low levels of acquaintance. Also consistent with
+ity of these traits would be especially problematic at low levels of             P1 of the SOKA model, self-knowledge was not impaired by low
+acquaintance. As the results show, friends were substantially more               trait observability. If anything, self-knowledge was enhanced by
+accurate, and provided substantially more unique predictive valid-               low trait observability: The accuracy correlations obtained for
+ity, than strangers for both creativity and intelligence (though the             self-ratings of anxiety and self-esteem (low observability traits)
+difference for creativity was below the .15 threshold when the                   were two of the three highest in the entire study. Consistent with
+ratings were disaggregated). Thus, my fifth hypothesis was largely               P2 of the SOKA model, self-knowledge was impaired by high trait
+supported.                                                                       evaluativeness, presumably because of self-protective biases of the
+                                                                                 sort documented by Dunning and his colleagues (Dunning, 1993,
+Summary                                                                          1999; Dunning & Cohen, 1992; Dunning et al., 1989, 1991; Hayes
+   Out of the five predictions derived from the SOKA model, three                & Dunning, 1997). This effect is reflected in the low accuracy
+were strongly or wholly supported by the evidence and two were                   correlations for self-ratings of creativity and, to a lesser extent,
+only partially supported (the differences were in the predicted                  intelligence. It is also revealing that self-ratings were not accurate
+direction but did not reach the threshold set for practical signifi-             for leadership, arguably one of the more evaluative facets of
+cance, or held only when other-ratings were aggregated). The                     extraversion. In contrast, other-knowledge did not seem to be
+design of the study allowed an examination of whether the pattern                impaired by trait evaluativeness.
+of results held for multiple traits within a domain, thus bolstering                The impact of acquaintance was as expected: Low acquaintance
+confidence in the results. Finally, the magnitude of the effects, and            impaired accuracy for low observability traits. This effect is re-
+of the differences among the perspectives, was substantial by the                flected in the finding that strangers were less accurate than friends
+standards of the field, despite the use of single-item and low-                  for all four low observability traits (self-esteem, anxiety, creativity,
+reliability measures. In short, the results strongly suggest that the            and intelligence) and substantially so in most analyses. This find-
+self is indeed the most knowledgeable about low observability, low               ing is consistent with previous research showing that strangers are
+evaluativeness traits (e.g., neuroticism); friends are the most                  rarely accurate at perceiving traits low in observability (Borkenau
+knowledgeable about low observability, high evaluativeness traits                et al., 2009; Hall et al., 2008; Vazire & Gosling, 2004). Interest-
+(e.g., intellect), especially when multiple friends are queried; and             ingly, one recent study found that when observers are given access
+all perspectives are knowledgeable about high observability, low                 to targets’ private lives (how they behave with their romantic
+evaluativeness traits (e.g., extraversion).                                      partners), their ratings of neuroticism are significantly correlated
+                                                                                 with targets’ self-ratings (Slatcher & Vazire, 2009, Study 3).
+                                                                                    It is interesting that acquaintance did not seem to influence the
+                              Discussion
+                                                                                 effect of evaluativeness on other-accuracy. In other words, high
+   The purpose of the study presented here was to provide an initial             trait evaluativeness (i.e., in the intellect domain) did not prevent
+test of the postulates of the SOKA model proposed above and to                   friends from providing accurate ratings. In fact, the accuracy
+examine the role of acquaintance. The results suggest that the                   correlation obtained for friend-ratings of intelligence was the sec-
+SOKA model predictions about the role of trait observability and                 ond highest correlation obtained in the study. This finding suggests
+294                                                                                          VAZIRE
+
+
+                                           Self-ratings and aggregated other-ratings                                                  Self-ratings and disaggregated other-ratings
+
+
+                                                     Self     Friends     Strangers                                       0.4                   Self     Friends     Strangers
+                               0.4
+
+
+
+                               0.3                                                                                        0.3
+
+
+
+
+       Accuracy (Fisher's z)                                                                      Accuracy (Fisher's z)
+                               0.2                                                                                        0.2
+
+
+
+
+                               0.1                                                                                        0.1
+
+
+
+                                0                                                                                          0
+                                     Low observability, High observability, Low observability,                                  Low observability, High observability, Low observability,
+                                     low evaluativeness low evaluativeness high evaluativeness                                  low evaluativeness low evaluativeness high evaluativeness
+
+                                         Figure 1. Average accuracy correlations (transformed to Fisher’s z scores for easier comparison) for each
+                                         perspective in the three different domains. The left panel shows the averages when friend- and stranger-ratings
+                                         are aggregated; the right panel shows the averages when the friend- and stranger-ratings are disaggregated. The
+                                         low observability, low evaluativeness domain consists of the traits self-esteem and anxiety. The high observ-
+                                         ability, low evaluativeness domain consists of the traits talkativeness, dominance, and leadership. The low
+                                         observability, high evaluativeness domain consists of the traits creativity and intelligence.
+
+
+
+that, as discussed above, perhaps level of acquaintance is not a                                       their variation in observability and evaluativeness, they likely
+relationship variable that interacts with trait evaluativeness to                                      varied on other dimensions, and the pattern of results obtained may
+affect accuracy. Instead, as others have suggested (e.g., Andersen                                     have been due to these overlooked dimensions. The replication
+et al., 1998), it is likely that the others’ emotional investment in the                               across traits within domains helps alleviate this concern somewhat,
+target may be a more relevant relationship variable. That is, if our                                   but this “third variable” problem cannot be ruled out without
+targets had also been rated by romantic partners or parents, we may                                    replicating these findings in more traits and domains and showing
+have seen a deterioration in accuracy for high evaluativeness traits                                   that trait observability and evaluativeness consistently predict the
+(e.g., intelligence, creativity) because these others would have                                       pattern of self– other knowledge asymmetry.
+shared some of the self’s ego-protective biases.                                                          Furthermore, the traits examined here clearly did not capture the
+   It is important to note that the friends in this study may have                                     full breadth of each domain. For example, the analyses for anxiety
+been especially low in emotional investment compared to other                                          revealed that the accuracy of self- and friend-ratings on this trait
+studies in which friend-ratings are collected. This is because the                                     may be specific to public speaking anxiety and may not reflect
+participants in this study were required to sign up in groups of five                                  knowledge about neuroticism levels more generally. Along the
+friends who all knew each other, so each participant could not                                         same lines, the placement of the traits along the observability and
+nominate his or her best friends to rate him or her. Instead, many                                     evaluativeness continua was based on results at the domain level
+of the ratings came from friends-of-friends or casual acquaintances                                    provided by John and Robins (1993). An assumption was made
+who may not have been especially emotionally invested in the                                           that the observability and evaluativeness of the individual traits
+participant. Given the limitations of self-selected informants, I                                      examined here match the observability and evaluativeness of the
+believe this is a strength of the study, but it does leave the question
+                                                                                                       domains to which they belong, but there may be important varia-
+of the role of emotional investment open for future research.
+                                                                                                       tions within domain. For example, some research suggests that
+   Finally, it is worth pointing out that the present study adds to the
+                                                                                                       intelligence may be quite easy to observe when the right informa-
+growing literature documenting that self- and informant-reports of
+                                                                                                       tion is available (Borkenau, Mauer, Reimann, Spinath, & Angle-
+personality do indeed predict behavior (e.g., Ozer & Benet-
+                                                                                                       itner, 2004), although the results of the present study suggest it is
+Martı́nez, 2006; Roberts et al., 2007). Such evidence contributes to
+                                                                                                       not easily observable in face-to-face interaction (see also Murphy,
+resolving the person–situation debate by demonstrating that per-
+                                                                                                       2007).
+sonality consistency exists and that personality traits do predict
+behavior (but see Fleeson & Noftle, 2008, for an important dis-                                           Readers may also question the categorization of self-esteem and
+cussion of the concept of consistency).                                                                anxiety as nonevaluative traits. Here, a distinction must be made
+                                                                                                       between traits that reflect a person’s evaluation of him- or herself
+                                                                                                       (e.g., self-worth) and traits that are socially evaluative (e.g., at-
+Limitations
+                                                                                                       tractiveness). The evaluativeness dimension applied in the SOKA
+   One limitation of the current study is the restricted range of                                      model refers to the latter type of evaluativeness—the social desir-
+traits examined. Although the traits were selected specifically for                                    ability or undesirability of having (and admitting one has) a
+                                                               WHO KNOWS WHAT                                                                 295
+
+particular trait. Although self-esteem is undeniably evaluative in         ness moderate self– other differences in accuracy. However, self–
+the self-evaluation sense, it is not necessarily perceived as espe-        other knowledge asymmetry is clearly much more complicated
+cially desirable or undesirable in social appraisals. That is, we may      than this. First, there are likely to be boundary conditions on the
+like people regardless of their level of self-esteem, and it may not       moderating influence of these variables. As we have already seen,
+be threatening to admit to oneself that one has low self-esteem.           the moderating role of observability is attenuated for well-
+John and Robins’s (1993) results suggest this may be true for              acquainted others, such that other-knowledge approaches levels of
+neuroticism-related traits in general. In further support of this idea,    self-knowledge on low observability traits (e.g., self-esteem) if the
+recent research on the general factor of personality suggests that         others are well-acquainted with the target. In addition, I suspect
+neuroticism has the weakest loading on the overarching positivity          that emotional investment will attenuate the moderating role of
+factor (Rushton et al., 2009).                                             evaluativeness such that others will show similar ego-protective
+   Another potential limitation of this study is the possibility that in   biases as the self on high evaluativeness traits (e.g., intelligence) if
+some cases accuracy was due to methodological overlap between              the others are emotionally invested in their relationship with the
+the rating and the criterion. For example, it can be argued that           target. Thus, future research should continue to examine when trait
+others had an advantage in this design because most of the crite-          observability and trait evaluativeness account for self– other
+rion measures are observer based. However, as Vazire and Mehl              knowledge asymmetries and when they do not.
+(2008) pointed out, there are important differences between other-            Future research should also seek other potential moderators of
+ratings of personality and observer-ratings or codings of behavior.        self– other knowledge asymmetry. Within the realm of trait modera-
+Clearly, self- and other-ratings are much more similar to each             tors, several possibilities jump to mind. First, as Hayes and Dunning
+other, methodologically, than either is to a rating of behavior from       (1997) demonstrated, trait ambiguity moderates self– other agreement,
+an observer who is instructed to rate behaviors on the basis of a          so it is likely to also moderate self- and other-accuracy. Of particular
+video clip. Furthermore, to the extent that there is method overlap        interest for the SOKA model is whether trait ambiguity affects self-
+between other-ratings and the criterion measures, it is not clear that     and other-accuracy similarly or differently.
+this overlap is any greater than between self-ratings and the crite-          Another potential moderator is trait automaticity. Traits vary in the
+rion measures. One obvious exception is the case of the stranger-          degree to which they refer to automatic versus deliberate behaviors,
+ratings of extraversion-related traits and the criterion measures for      and it is likely that this property of a trait affects self- and other-
+these traits. The strangers rated each other after an 8-min get-to-        accuracy differently. In particular, I suspect that self-accuracy is
+know-you group interaction that was videotaped. An hour or two             higher for deliberate than automatic traits and that this difference is
+later, participants interacted with a different group of strangers in      erased or perhaps even reversed for other-accuracy. Along the same
+a 10-min, videotaped leaderless group discussion which served as           lines, a further avenue for future research is to examine the relation-
+the basis for the extraversion-related criterion measures. Despite         ship between self– other knowledge asymmetries and implicit versus
+the fact that the participants were with different people and the task     explicit personality. Specifically, it would be interesting to examine
+had a different purpose, it is likely that there were important            whether (where self- and other-perceptions differ) other-perceptions
+similarities between the two situations that may have enhanced the         are tapping into implicit aspects of personality (Back, Schmukle, &
+predictive validity of strangers’ ratings. That is, strangers’ ratings     Egloff, 2009; Vazire & Doris, 2009).
+of extraversion may have capitalized on circumscribed accuracy                Finally, another characteristic of a trait that will likely differen-
+(specific to situation involving group interactions with strangers)        tially affect self- and other-accuracy is whether the trait is by
+as well as global accuracy (Gill & Swann, 2004; Swann, 1984).              definition identity-based or reputational. This dimension likely
+   Finally, there are the usual limitations on generalizability. As        overlaps greatly with trait observability, but it is conceptually
+with any research using college student samples in the United              distinct. For a trait to be identity-based means that a person’s
+States, it is not clear whether these findings would generalize to         self-perception on that trait more or less defines his or her standing
+other age groups or cultures. This concern may be especially               on the trait. For example, if Neil sees himself as self-conscious, he
+relevant for issues of self– other knowledge asymmetry, because            is, almost by definition, self-conscious, even if others do not see
+the level and content of self-knowledge may vary greatly by age            him that way. A reputational trait, on the other hand, is one that is
+and culture. In addition, self– other knowledge asymmetry may              defined by how others see a person. For example, if Eric is seen by
+vary greatly across the lifespan and across cultures if age and            his friends as funny, he is, almost by definition, funny, even if he
+culture influence interpersonal processes such as self-disclosure          does not see himself that way. Funniness may not be readily
+and feedback from friends. Indeed, one meta-analysis (Klonsky,             observable, but it is nevertheless defined by one’s reputation.
+Oltmanns, & Turkheimer, 2002) did find that self–informant                    It would also be fruitful to look for other types of moderators of
+agreement increases with age, suggesting that self– other knowl-           self– other asymmetry. Funder’s (1995, 1999) realistic accuracy
+edge asymmetry may be smaller, and may have different moder-               model identifies four types of moderators of accurate personality
+ators, among older adults than among college students.                     judgment: characteristics of the trait, characteristics of the judge,
+                                                                           characteristics of the target, and characteristics of the context or
+Future Directions                                                          information on which the judgment is based. The purpose of the
+                                                                           SOKA model in its present form is to identify and predict what types
+   The goal of the SOKA model presented here is to better under-           of traits are known to the self and to others, but it could easily be
+stand and predict self– other knowledge asymmetries. When is the           expanded to explore judge, target, relationship, and information mod-
+self the best judge of personality, and when are others better? The        erators as well. Indeed, the current study showed compelling evidence
+two postulates tested here provide a foundation for building this          for one relationship-related moderator: acquaintance level. However,
+model. The findings suggest that trait observability and evaluative-       other relationship variables should also be studied, starting with emo-
+296                                                                      VAZIRE
+
+
+tional investment. Recent research in social neuroscience provides            Bargh, J. A., & Williams, E. L. (2006). The automaticity of social life.
+encouraging evidence that this variable may moderate self– other                Current Directions in Psychological Science, 15, 1– 4.
+knowledge asymmetries. Specifically, Hughes and Beer (2009) have              Bass, B. M. (1954). The leaderless group discussion as a leadership
+shown that when we are judging the personality of a romantic partner,           evaluation instrument. Personnel Psychology, 7, 470 – 477.
+our pattern of brain activity is more similar to that of self-perception      Baumeister, R. F., Vohs, K. D., & Funder, D. C. (2007). Psychology as the
+                                                                                science of self-reports and finger movements: Whatever happened to
+than when we are judging the personality of a roommate (Hughes &
+                                                                                actual behavior? Perspectives on Psychological Science, 2, 396 – 403.
+Beer, 2009). In addition, future research should examine other mod-           Beer, J. S., & Hughes, B. L. (in press). Neural systems of social compar-
+erators of self- and other-accuracy such as cultural, age, and role             ison and the “above-average” effect. NeuroImage.
+differences. As Wilson (2009) recently noted, self-knowledge seems            Borkenau, P., Brecke, S., Möttig, C., & Paelecke, M. (2009). Extraversion
+to be gaining traction as a phenomenon worthy of empirical study,               is accurately perceived after a 50-ms exposure to a face. Journal of
+and this should lead to greater understanding of the influence of such          Research in Personality, 43, 703–706.
+factors on self- and other-accuracy.                                          Borkenau, P., Mauer, N., Reimann, R., Spinath, F. M., & Angleitner, A.
+                                                                                (2004). Thin slices of behavior as cues of personality and intelligence.
+                                                                                Journal of Personality and Social Psychology, 86, 599 – 614.
+Conclusion                                                                    Buss, D. M., & Craik, K. H. (1985). Why not measure that trait? Alterna-
+                                                                                tive criteria for identifying important dispositions. Journal of Personal-
+   Why do others sometimes know things about us that we don’t                   ity and Social Psychology, 48, 934 –946.
+know about ourselves? Understanding the processes underlying                  Colvin, C. R., & Funder, D. C. (1991). Predicting personality and behavior:
+self– other knowledge asymmetries has many implications. First,                 A boundary on the acquaintanceship effect. Journal of Personality and
+the similarities and differences between the processes of self-                 Social Psychology, 60, 884 – 894.
+perception and other-perception have been understudied (Kenny &               Cronbach, L. J. (1955). Processes affecting scores on “understanding of
+West, 2008), and differences in accuracy will be vital to under-                others” and “assumed similarity.” Psychological Bulletin, 52, 177–193.
+standing differences in process. This insight will help us under-             Dunning, D. (1993). Words to live by: The self and definitions of social
+stand fundamental questions about human psychology, such as                     concepts and categories. In J. M. Suls (Ed.), The self in social perspec-
+how people form self-perceptions and which aspects of our own                   tive (pp. 99 –126). Hillsdale, NJ: Erlbaum.
+personalities we are most blind to. The process of other-perception           Dunning, D. (1999). A newer look: Motivated social cognition and the sche-
+                                                                                matic representation of social concepts. Psychological Inquiry, 10, 1–11.
+is relatively well-studied in comparison, but could still benefit
+                                                                              Dunning, D. (2005). Self-insight: Roadblocks and detours on the path to
+from illumination of the strengths and weaknesses of other-
+                                                                                knowing thyself. New York, NY: Psychology Press.
+knowledge. Second, understanding and predicting when self-                    Dunning, D., & Cohen, G. L. (1992). Egocentric definitions of traits and
+perceptions will be more accurate and when other-perceptions will               abilities in social judgment. Journal of Personality and Social Psychol-
+be more accurate has immense practical value. The ability to                    ogy, 63, 341–355.
+determine which is the best source of information about someone’s             Dunning, D., Heath, C., & Suls, J. M. (2004). Flawed self-assessment:
+personality could greatly improve the quality of assessment in                  Implications for health, education, and the workplace. Psychological
+many fields including clinical, personality, social, and industrial–            Science in the Public Interest, 5, 69 –106.
+organizational psychology. Finally, identifying the asymmetrical              Dunning, D., Meyerowitz, J. A., & Holzberg, A. D. (1989). Ambiguity and
+domains of self- and other-knowledge is a stepping stone for                    self-evaluation: The role of idiosyncratic trait definitions in self-serving
+examining the consequences of self-knowledge (and lack thereof)                 assessments of ability. Journal of Personality and Social Psychology,
+and the implications of increasing self-knowledge. By knowing                   57, 1082–1090.
+                                                                              Dunning, D., Perie, M., & Story, A. L. (1991). Self-serving prototypes of
+when, as Santayana (1905/1980) put it, observers reach truths
+                                                                                social categories. Journal of Personality and Social Psychology, 61,
+about us that we are very far from divining ourselves, we can take              957–968.
+steps to fill in our blind spots and know ourselves better.                   Eastwick, P. W., & Finkel, E. J. (2008). Sex differences in mate prefer-
+                                                                                ences revisited: Do people know what they initially desire in a romantic
+                              References                                        partner? Journal of Personality and Social Psychology, 94, 245–264.
+                                                                              Epley, N., & Dunning, D. (2006). The mixed blessings of self-knowledge
+Ahadi, S., & Diener, E. (1989). Multiple determinants and effect size.          in behavioral prediction: Enhanced discrimination but exacerbated bias.
+  Journal of Personality and Social Psychology, 56, 398 – 406.                  Personality and Social Psychology Bulletin, 32, 641– 655.
+Andersen, S. M. (1984). Self-knowledge and social inference: II. The          Epstein, S. (1979). The stability of behavior: I. On predicting most of the
+  diagnosticity of cognitive/affective and behavioral data. Journal of Per-     people much of the time. Journal of Personality and Social Psychology,
+  sonality and Social Psychology, 46, 294 –307.                                 37, 1097–1126.
+Andersen, S. M., Glassman, N. S., & Gold, D. A. (1998). Mental repre-         Epstein, S. (1983). Aggregation and beyond: Some basic issues on the
+  sentations of the self, significant others, and nonsignificant others:        prediction of behavior. Journal of Personality, 51, 360 –392.
+  Structure and processing of private and public aspects. Journal of          Fiedler, E. R., Oltmanns, T. F., & Turkheimer, E. (2004). Traits associated
+  Personality and Social Psychology, 75, 845– 861.                              with personality disorders and adjustment to military life: Predictive
+Andersen, S. M., & Ross, L. (1984). Self-knowledge and social inference:        validity of self and peer reports. Military Medicine, 169, 207–211.
+  I. The impact of cognitive/affective and behavioral data. Journal of        Fleeson, W., & Noftle, E. E. (2008). Where does personality have its
+  Personality and Social Psychology, 46, 280 –293.                              influence? A supermatrix of consistency concepts. Journal of Person-
+Back, M. D., Schmukle, S. C., & Egloff, B. (2009). Predicting actual            ality, 76, 1355–1386.
+  behavior from the explicit and implicit self-concept of personality.        Friedman, R. S., & Förster, J. (2002). The influence of approach and
+  Journal of Personality and Social Psychology, 97, 533–548.                    avoidance motor actions on creative cognition. Journal of Experimental
+Bargh, J. A., & Chartrand, T. L. (1999). The unbearable automaticity of         Social Psychology, 38, 41–55.
+  being. American Psychologist, 54, 462– 479.                                 Funder, D. C. (1980). On seeing ourselves as others see us: Self– other
+                                                                       WHO KNOWS WHAT                                                                         297
+
+  agreement and discrepancy in personality ratings. Journal of Personal-               Individual differences in self-enhancement and the role of narcissism.
+  ity, 48, 473– 493.                                                                   Journal of Personality and Social Psychology, 66, 206 –219.
+Funder, D. C. (1995). On the accuracy of personality judgment: A realistic           Judd, C. M., & McClelland, G. H. (1989). Data analysis: A model com-
+  approach. Psychological Review, 102, 652– 670.                                       parison approach. New York, NY: Harcourt Brace Jovanovich.
+Funder, D. C. (1999). Personality judgment: A realistic approach to person           Kenny, D. A. (1993). A coming-of-age for research on interpersonal
+  perception. San Diego, CA: Academic Press.                                           perception. Journal of Personality, 61, 789 – 807.
+Funder, D. C., & Colvin, C. R. (1988). Friends and strangers: Acquain-               Kenny, D. A. (1994). Interpersonal perception: A social relations analysis.
+  tanceship, agreement, and the accuracy of personality judgment. Journal              New York, NY: Guilford Press.
+  of Personality and Social Psychology, 55, 149 –158.                                Kenny, D. A. (2004). PERSON: A general model of interpersonal percep-
+Funder, D. C., & Colvin, C. R. (1991). Explorations in behavioral consis-              tion. Personality and Social Psychology Review, 8, 265–280.
+  tency: Properties of persons, situations, and behaviors. Journal of Per-           Kenny, D. A., Kashy, D. A., & Cook, W. L. (2006). Dyadic data analysis.
+  sonality and Social Psychology, 60, 773–794.                                         New York, NY: Guilford Press.
+Funder, D. C., & Colvin, C. R. (1997). Congruence of others’ and self-               Kenny, D. A., Mannetti, L., Pierro, A., Livi, S., & Kashy, D. A. (2002).
+  judgments of personality. In R. Hogan, J. Johnson, & S. Briggs (Eds.),               The statistical analysis of data from small groups. Journal of Personality
+  Handbook of personality psychology (pp. 617– 648). San Diego, CA:                    and Social Psychology, 83, 126 –137.
+  Academic Press.                                                                    Kenny, D. A., & West, T. V. (2008). Self-perception as interpersonal
+Funder, D. C., & Dobroth, K. M. (1987). Differences between traits:                    perception. In J. Wood, J. Holmes, & A. Tesser (Eds.), The self and
+  Properties associated with interjudge agreement. Journal of Personality              social relationships (pp. 119 –137). New York, NY: Psychology Press.
+  and Social Psychology, 52, 409 – 418.                                              Kirschbaum, C., Pirke, K. M., & Hellhammer, D. H. (1993). The ‘Trier
+Funder, D. C., Furr, R. M., & Colvin, C. R. (2000). The Riverside                      Social Stress Test’: A tool for investigating psychobiological stress
+  Behavioral Q-Sort: A tool for the description of social behavior. Journal            responses in a laboratory setting. Neuropsychobiology, 28, 76 – 81.
+  of Personality, 68, 451– 489.                                                      Klonsky, E. D., Oltmanns, T. F., & Turkheimer, E. (2002). Informant-reports
+Funder, D. C., Kolar, D. C., & Blackman, M. C. (1995). Agreement among                 of personality disorder: Relation to self-reports and future research direc-
+  judges of personality: Interpersonal relations, similarity, and acquain-             tions. Clinical Psychology: Science and Practice, 9, 300 –311.
+  tanceship. Journal of Personality and Social Psychology, 69, 656 – 672.            Kolar, D. W., Funder, D. C., & Colvin, C. R. (1996). Comparing the
+Furr, R. M. (2009). Personality psychology as a truly behavioral science.
+                                                                                       accuracy of personality judgments by the self and knowledgeable others.
+  European Journal of Personality, 23, 369 – 401.
+                                                                                       Journal of Personality, 64, 311–337.
+Furr, R. M., & Funder, D. C. (2007). Behavioral observation. In R. Robins,
+                                                                                     Krebs, D., Denton, K., & Higgins, N. C. (1988). On the evolution of
+  C. Fraley, & R. Krueger (Eds.), Handbook of research methods in
+                                                                                       self-knowledge and self-deception. In K. B. MacDonald (Ed.), Socio-
+  personality psychology (pp. 273–291). New York, NY: Guilford Press.
+                                                                                       biological perspectives on human behavior (pp. 103–139). New York,
+Gill, M. J., & Swann, W. B., Jr. (2004). On what it means to someone: A
+                                                                                       NY: Springer-Verlag.
+  matter of pragmatics. Journal of Personality and Social Psychology, 86,
+                                                                                     Kruger, J. (1999). Lake Wobegon be gone! The “below-average effect” and
+  405– 418.
+                                                                                       the egocentric nature of comparative ability judgments. Journal of
+Goldberg, L. R. (1983, June). The magical number five, plus or minus two: Some
+                                                                                       Personality and Social Psychology, 77, 221–232.
+  considerations on the dimensionality of personality descriptors. Paper presented
+                                                                                     Kruglanski, A. W. (1989). The psychology of being right: The problem of
+  at the Gerontology Research Center, NIA/NIH, Baltimore, MD.
+                                                                                       accuracy in social perception and cognition. Psychological Bulletin, 106,
+Goldberg, L. R. (1992). The development of markers for the Big-Five
+                                                                                       395– 409.
+  factor structure. Psychological Assessment, 4, 26 – 42.
+                                                                                     Letzring, T. D., Wells, S. M., & Funder, D. C. (2006). Information quantity
+Gosling, S. D., John, O. P., Craik, K. H., & Robins, R. W. (1998). Do
+  people know how they behave? Self-reported act frequencies compared                  and quality affect the realistic accuracy of personality judgment. Journal
+  with on-line codings by observers. Journal of Personality and Social                 of Personality and Social Psychology, 91, 111–123.
+  Psychology, 74, 1337–1349.                                                         Levesque, M. J., & Kenny, D. A. (1993). Accuracy of behavioral predic-
+Gosling, S. D., Rentfrow, P. J., & Swann, W. B., Jr. (2003). A very brief              tions at zero-acquaintance: A social relations analysis. Journal of Per-
+  measure of the Big Five personality domains. Journal of Research in                  sonality and Social Psychology, 65, 1178 –1187.
+  Personality, 37, 504 –528.                                                         Luft, J., & Ingham, H. (1955). The Johari window, a graphic model of
+Greenwald, A. G. (1980). The totalitarian ego: Fabrication and revision of             interpersonal awareness. In Proceedings of the Western Training Lab-
+  personal history. American Psychologist, 35, 603– 618.                               oratory in Group Development. Los Angeles, CA: UCLA.
+Hall, J. A., Andrzejewski, S. A., Murphy, N. A., Mast, M. S., & Feinstein,           Malle, B. F. (2006). The actor– observer asymmetry in attribution: A
+  B. A. (2008). Accuracy of judging others’ traits and states: Comparing mean          (surprising) meta-analysis. Psychological Bulletin, 132, 895–919.
+  levels across tests. Journal of Research in Personality, 42, 1476 –1489.           Malle, B. F., & Knobe, J. (1997). Which behaviors do people explain? A
+Haybron, D. H. (2007). Do we know how happy we are? On some limits                     basic actor– observer asymmetry. Journal of Personality and Social
+  of affective introspection and recall. Nous, 41, 394 – 428.                          Psychology, 72, 288 –304.
+Hayes, A. F., & Dunning, D. (1997). Construal processes and trait ambi-              McAdams, D. (1995). What do we know when we know a person? Journal
+  guity: Implications for self–peer agreement in personality judgment.                 of Personality, 63, 365–395.
+  Journal of Personality and Social Psychology, 72, 664 – 677.                       Mehl, M. R. (2006). The lay assessment of subclinical depression in daily
+Hofstee, W. K. B. (1994). Who should own the definition of personality?                life. Psychological Assessment, 18, 340 –345.
+  European Journal of Personality, 8, 149 –162.                                      Mehl, M. R., Gosling, S. D., & Pennebaker, J. W. (2006). Personality in its
+Hughes, B. L., & Beer, J. S. (2009). Neural correlates of motivated social             natural habitat: Manifestations and implicit folk theories of personality in
+  cognition: The role of orbitofrontal cortex and anterior cingulate cortex.           daily life. Journal of Personality and Social Psychology, 90, 862– 877.
+  Manuscript submitted for publication.                                              Mehl, M. R., Pennebaker, J. W., Crow, D. M., Dabbs, J., & Price, J. H.
+John, O. P., & Robins, R. W. (1993). Determinants of interjudge agreement on           (2001). The electronically activated recorder (EAR): A device for sam-
+  personality traits: The Big Five domains, observability, evaluativeness, and         pling naturalistic daily activities and conversations. Behavior Research
+  the unique perspective of the self. Journal of Personality, 61, 521–551.             Methods, Instruments, & Computers, 33, 517–523.
+John, O. P., & Robins, R. W. (1994). Accuracy and bias in self-perception:           Murphy, N. A. (2007). Appearing smart: The impression management of
+298                                                                          VAZIRE
+
+
+  intelligence, person perception accuracy, and behavior in social interac-         Effects of implicit power motivation on brain activation in response to
+  tion. Personality and Social Psychology Bulletin, 33, 325–339.                    facial expressions of emotion. Social Cognitive and Affective Neuro-
+Oltmanns, T. F., Gleason, M. E. J., Klonsky, E. D., & Turkheimer, E.                science, 3, 333–343.
+  (2005). Meta-perception for pathological personality traits: Do we know         Schwitzgebel, E. (2008). The unreliability of naı̈ve introspection. Philo-
+  when others think that we are difficult? Consciousness and Cognition:             sophical Review, 117, 245–273.
+  An International Journal, 14, 739 –751.                                         Slatcher, R. B., & Vazire, S. (2009). Effects of global and contextualized
+Oltmanns, T. F., & Turkheimer, E. (2009). Person perception and person-             personality on relationship satisfaction. Journal of Research in Person-
+  ality pathology. Current Directions in Psychological Science, 18, 32–36.          ality, 43, 624 – 633.
+Ozer, D., & Benet-Martı́nez, V. (2006). Personality and the prediction of         Spain, J. S., Eaton, L. G., & Funder, D. C. (2000). Perspectives on
+  consequential outcomes. Annual Review of Psychology, 57, 401– 421.                personality: The relative accuracy of self versus others for the prediction
+Paulhus, D. L., & John, O. P. (1998). Egoistic and moralistic bias in               of emotion and behavior. Journal of Personality, 68, 837– 867.
+  self-perceptions: The interplay of self-deceptive styles with basic traits      Swann, W. B., Jr. (1984). Quest for accuracy in person perception: A
+  and motives. Journal of Personality, 66, 1025–1060.                               matter of pragmatics. Psychological Review, 91, 457– 477.
+Paulhus, D. L., & Levitt, K. (1987). Desirable responding triggered by            Taylor, S. E., & Brown, J. D. (1988). Illusion and well-being: A social psycho-
+  affect: Automatic egotism? Journal of Personality and Social Psychol-             logical perspective on mental health. Psychological Bulletin, 103, 193–210.
+  ogy, 52, 245–259.                                                               Tetlock, P. E. (1984). Toward an intuitive politician model of attribution
+Paulhus, D. L., & Vazire, S. (2007). The self-report method. In R. W.               processes. In B. R. Schlenker (Ed.), The self in social life (pp. 203–234).
+  Robins, R. C. Fraley, & R. Krueger (Eds.), Handbook of research                   New York, NY: McGraw-Hill.
+  methods in personality psychology (pp. 224 –239). New York, NY:                 Vazire, S. (2006a). Informant reports: A cheap, fast, and easy method for
+  Guilford Press.                                                                   personality assessment. Journal of Research in Personality, 40, 472– 481.
+Paunonen, S. V. (1989). Consensus in personality judgments: Moderating            Vazire, S. (2006b). The person from the inside and outside (Unpublished
+  effects of target–rater acquaintanceship and behavior observability.              doctoral dissertation). The University of Texas at Austin.
+  Journal of Personality and Social Psychology, 56, 823– 833.                     Vazire, S., & Doris, J. M. (2009). Personality and personal control. Journal
+Paunonen, S. V., & Ashton, M. C. (2001). Big Five factors and facets and
+                                                                                    of Research in Personality, 43, 274 –275.
+  the prediction of behavior. Journal of Personality and Social Psychol-
+                                                                                  Vazire, S., & Gosling, S. D. (2004). e-Perceptions: Personality impressions
+  ogy, 81, 524 –539.
+                                                                                    based on personal websites. Journal of Personality and Social Psychol-
+Prentice, D. A. (1990). Familiarity and differences in self- and other-
+                                                                                    ogy, 87, 123–132.
+  representations. Journal of Personality and Social Psychology, 59, 369–383.
+                                                                                  Vazire, S., Gosling, S. D., Dickey, A. S., & Schapiro, S. J. (2007).
+Pronin, E., Kruger, J., Savitsky, K., & Ross, L. (2001). You don’t know
+                                                                                    Measuring personality in nonhuman animals. In R. W. Robins, R. C.
+  me, but I know you: The illusion of asymmetric insight. Journal of
+                                                                                    Fraley, & R. Krueger (Eds.), Handbook of research methods in person-
+  Personality and Social Psychology, 81, 639 – 656.
+                                                                                    ality psychology (pp. 190 –206). New York, NY: Guilford Press.
+Richard, F. D., Bond, C. F., Jr., & Stokes-Zoota, J. J. (2003). One hundred
+                                                                                  Vazire, S., & Mehl, M. R. (2008). Knowing me, knowing you: The accuracy and
+  years of social psychology quantitatively described. Review of General
+                                                                                    unique predictive validity of self-ratings and other-ratings of daily behavior.
+  Psychology, 7, 331–363.
+                                                                                    Journal of Personality and Social Psychology, 95, 1202–1216.
+Roberts, B. W., Kuncel, N., Shiner, R. N., Caspi, A., & Goldberg, L. R. (2007).
+                                                                                  Vazire, S., Naumann, L. P., Rentfrow, P. J., & Gosling, S. D. (2008).
+  The power of personality: The comparative validity of personality traits,
+  socio-economic status, and cognitive ability for predicting important life        Portrait of a narcissist: Manifestations of narcissism in physical appear-
+  outcomes. Perspectives in Psychological Science, 2, 313–345.                      ance. Journal of Research in Personality, 42, 1439 –1447.
+Robins, R. W., & Beer, J. S. (2001). Positive illusions about the self:           Vohs, K. D., Baumeister, R. F., & Ciarocco, N. J. (2005). Self-regulation
+  Short-term benefits and long-term costs. Journal of Personality and               and self-presentation: Regulatory resource depletion impairs impression
+  Social Psychology, 80, 340 –352.                                                  management and effortful self-presentation depletes regulatory re-
+Robins, R. W., & John, O. P. (1997a). Effects of visual perspective and             sources. Journal of Personality and Social Psychology, 88, 632– 657.
+  narcissism on self-perception: Is seeing believing? Psychological Sci-          Wagerman, S. A., & Funder, D. C. (2007). Acquaintance reports of
+  ence, 8, 37– 42.                                                                  personality and academic achievement: A case for conscientiousness.
+Robins, R. W., & John, O. P. (1997b). The quest for self-insight: Theory            Journal of Research in Personality, 41, 221–229.
+  and research on accuracy and bias in self-perception. In R. T. Hogan,           Watson, D., Hubbard, B., & Wiese, D. (2000). Self– other agreement in
+  J. A. Johnson, & S. R. Briggs (Eds.), Handbook of personality psychol-            personality and affectivity: The role of acquaintanceship, trait visibility,
+  ogy (pp. 649 – 679). New York, NY: Academic Press.                                and assumed similarity. Journal of Personality and Social Psychology,
+Rushton, J. P., Bons, T. A., Ando, J., Hur, Y. M., Irwing, P., Vernon,              78, 546 –558.
+  P. A., . . . Barbarnelli, C. (2009). A general factor of personality from       Wilson, T. D. (2002). Strangers to ourselves: Discovering the adaptive
+  multitrait–multimethod data and cross-national twins. Twin Research               unconscious. Cambridge, MA: Belknap Press/Harvard University Press.
+  and Human Genetics, 12, 356 –365.                                               Wilson, T. D. (2009). Know thyself. Perspectives on Psychological Sci-
+Santayana, G. (1980). Reason in common sense: The life of reason, Vol. 1.           ence, 4, 384 –389.
+  New York, NY: Dover. (Original work published 1905)                             Wilson, T. D., & Dunn, E. W. (2004). Self-knowledge: Its limits, value, and
+Schultheiss, O. C., Jones, N. M., Davis, A. Q., & Kley, C. (2008). The role         potential for improvement. Annual Review of Psychology, 55, 493–518.
+  of implicit motivation in hot and cold goal pursuit: Effects on goal            Wilson, T. D., & Gilbert, D. T. (2003). Affective forecasting. In M. P.
+  progress, goal rumination, and emotional well-being. Journal of Re-               Zanna (Ed.), Advances in experimental social psychology (Vol. 35, pp.
+  search in Personality, 42, 971–987.                                               345– 411). San Diego, CA: Academic Press.
+Schultheiss, O. C., Wirth, M. M., Waugh, C. E., Meier, E. A., Reuter-             Wonderlic, E. F. (1983). Wonderlic Personnel Test manual. Northfield, IL:
+  Lorenz, P., & Stanton, S. J. (2008). Exploring the motivational brain:            Wonderlic & Associates.
+                                                             WHO KNOWS WHAT                                                              299
+
+                                                                Appendix A
+
+                                    Trier Social Stress Test: Instructions From Experimenter
+
+  You will be giving a two-minute speech, in front of a video            evaluate your abilities with respect to public speaking. However,
+camera and experimenter. The purpose of this exercise is to obtain       no one outside of the research team will see your video. Do you
+a measure of your public speaking skills. Public speaking is a very      have any questions?
+important life skill—research has shown that public speaking skills         The topic of this speech is “what I like and don’t like about my
+predict how much success people have in their careers and how            body.” I’ll give you a few seconds to collect your thoughts, and
+good they are at interpersonal relations. Thus, we will ask you to       then you will be asked to speak continuously for two minutes. I
+deliver a two-minute speech about a specific topic, and we will be       will tell you when the time is up, please do not stop before I tell
+videotaping the speech. Your videotape will be kept completely           you to. Remember, this is a measure of your public speaking
+confidential. However, it will be shown to a team of experimenters       ability, so try to be as fluent and poised as possible. Ok, I’ll give
+who are trained experts at coding public speaking skills. They will      you ten seconds to think about what to say and then I’ll say “start.”
+
+
+
+
+                                                                 Appendix B
+
+                                Leaderless Group Discussion: Instructions From Experimenter
+
+   At this station you’re going to be doing an activity called the       committee discussion are to present a strong argument for your
+Group Discussion. This is an activity that is often used in job          candidate and at the same time to help the committee decide the
+interviews so please take this as seriously as you would a job           best allocation of the available funds. The committee must
+interview. In this activity, you will all be representatives from        reach a written decision in 10 minutes or no one receives a
+different departments of the same company. You are all on your           bonus. This is the last meeting of the year. I will now give you
+organization’s Compensation Committee. Five employees have               a few moments to read over your packet, which contains de-
+been recommended for a merit bonus by their supervisors. You             tailed information about your candidate and a brief overview of
+will each be representing one candidate from your department.            the other candidates.
+While you would like to grant substantial bonuses to all the                Ok, before we begin, does anyone have any questions? Here is
+candidates, the profits of the organization will not permit it.          the form you must complete in the next ten minutes. At the
+There is only $18,500 in merit bonus funds available. In your            beginning of the meeting, each committee member must give a
+packet you will find information about your candidate, and a             30-second presentation concerning his or her candidate. You must
+little bit of information on each of the other candidates. You are       reach an agreement and write down your agreement on this form
+under strong pressure from your department to get as much                before the ten minutes are up. I will give you a warning when you
+money for this candidate as possible. Your tasks during the              have 1 minute left.
+
+
+
+
+                                                                Appendix C
+
+                                                        Personality Rating Form
+
+  For each personality trait below, rate how well the trait describes    on to the next trait and continue rating Person A. when you are
+each person in your group (including yourself) by writing their letter   done with Person A, start over from the beginning and rate the next
+above a number along the spectrum from “not at all” to “extremely.”      person. Rate yourself last. To show that you have read these
+Rate each person compared to the average UT student.                     instructions, please cross out the last word of this sentence.
+  For example, if the trait is “extraverted” and you think that             Circle a different number for each person (two people cannot be
+Person A is extremely extraverted compared to most UT students,          on the same circle) and try to use the entire spectrum whenever
+you would write the letter A above the number 14 or 15, then go          appropriate.
+
+
+
+
+                                                            (Appendices continue)
+300                                                             VAZIRE
+
+
+
+ 1. Extraverted, enthusiastic      Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+ 2. Critical, quarrelsome          Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+ 3. Dependable, self-disciplined   Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+ 4. Anxious, easily upset          Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+ 5. Open to new experiences,
+    complex                        Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+ 6. Reserved, quiet                Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+ 7. Sympathetic, warm              Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+ 8. Disorganized, careless         Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+ 9. Calm, emotionally stable       Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+10. Conventional, uncreative       Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+11. Happy, satisfied with life     Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+12. Intelligent                    Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+13. Has strong math skills         Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+14. Has strong verbal skills       Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+15. Physically attractive          Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+16. Has an attractive face         Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+17. Has an attractive body         Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+18. Lonely                         Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+19. Has high self-esteem           Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+20. Is a genuinely dependable
+    and responsible person         Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+21. Assertive                      Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+22. Tends to dominate group
+    discussions                    Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+23. Impulsive                      Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+24. Has a strong need to be
+    around others, doesn’t like
+    being alone                    Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+25. Thinks and associates ideas
+    in unusual ways, has
+    unconventional thought
+    processes                      Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+26. Arrogant, thinks too much
+    of him/herself                 Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+27. Politically liberal            Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+28. Is a good leader               Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+29. Good at public speaking        Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+30. Likeable                       Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+31. Depressed                      Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+32. Exaggerates his/her skills     Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+33. Power-oriented, values
+    power in self and others       Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+34. Likes to be the center of
+    attention                      Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+35. Pays attention to detail       Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+36. Tends to like others           Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+37. Tends to be liked by others    Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+38. Honest                         Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+39. Funny                          Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+40. Has a strong drive to
+    achieve, is motivated to do
+    well                           Not at all   1   2   3   4   5   6    7   8   9   10    11    12   13    14   15   Extremely
+
+
+
+                                                                                                         Received July 22, 2009
+                                                                                          Revision received September 18, 2009
+                                                                                                  Accepted September 18, 2009 䡲
+

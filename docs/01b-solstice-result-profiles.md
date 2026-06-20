@@ -3,7 +3,7 @@
 > Companion to `01-solstice-cycle-assessment.md`.
 > Full-depth profiles for each SCA result, modeled on bigfive-test.com facet depth and mypersonality.net type profiles.
 > Each profile uses the same 14-section schema, so the four types are directly comparable. These are the deterministic fallback narratives. The Gemini layer enriches the Archetype and Moment on the Cycle sections from the player's answer pattern. It never overrides the structured sections, which keep results consistent and shareable.
-> Honesty note: profiles describe tendencies associated with a combination of two measured dimensions, affective activation and motivational orientation. They are affirming, non-clinical, and avoid deficit framing. Every low-activation result is described as depth or restoration, never pathology.
+> Honesty note: profiles describe tendencies associated with a combination of two measured dimensions, affective activation and motivational orientation. They are affirming, non-clinical, and avoid deficit framing. Every low-activation result is described as depth or restoration, never pathology. v0.23: the season gains a direction modifier (waxing/waning) from the added perceived-trajectory component.
 
 ---
 
@@ -506,6 +506,17 @@ Whichever pole you tend to suppress. If you usually lead with the bright facet, 
 “You are not the still point at the wheel’s center. You are two strong currents meeting there, each one real, neither winning. Your clarity is not in choosing a season but in knowing you carry two.”
 
 ---
+
+## Trajectory modifier (v0.23)
+
+The v0.22 season profile describes the static position: where you sit on the circumplex. v0.23 adds a **direction modifier** (waxing or waning) from the perceived-trajectory component, grounded in Carver-Scheier self-regulation.
+
+- **Waxing**: you feel yourself gathering toward more of the season's quality. At Summer, waxing means you have arrived at the peak and are still climbing. At Winter, waxing means you are at the depth and feel the first turn toward Spring.
+- **Waning**: you feel the season turning toward its opposite. At Summer, waning means you are at the peak and feel it tipping toward Autumn's consolidation. At Autumn, waning means the harvest is completing and Winter is approaching.
+
+The direction modifier changes the texture of the result without changing the season. A Summer-waxing reading emphasizes abundance and ascent; a Summer-waning reading emphasizes the felt turn toward consolidation. The Threshold (near-center) does not carry a direction modifier unless the position is mid-arc with a clear felt trajectory.
+
+Trajectory is subject to current-mood contamination more than position is. The two are reported as two separate signals, not merged into one muddy score. The trajectory-plus-position reading is our synthesis; the underlying perceived-trajectory mechanism is validated (Carver-Scheier).
 
 ## How scores modulate these profiles
 

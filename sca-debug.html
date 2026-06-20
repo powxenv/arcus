@@ -253,6 +253,11 @@ const ITEMS = [
   { id:'B2.6', facet:'B2', stem:'If something needs doing, you…', poleA:'Do it.', poleB:'Let it find the right person.' },
   { id:'B2.7', facet:'B2', stem:'You mostly…', poleA:'Set your own course.', poleB:'Respond to what\'s asked of you.' },
   { id:'B2.8', facet:'B2', stem:'When something\'s yours to go after, you…', poleA:'Go after it.', poleB:'Let it come to you.' },
+  // v0.23 trajectory items (perceived direction-of-travel, grounded in Carver-Scheier)
+  { id:'T1', facet:'TA', stem:'In your energy, do you feel yourself gathering toward more, or settling toward less?', poleA:'Gathering: waxing toward more.', poleB:'Settling: waning toward less.' },
+  { id:'T2', facet:'TA', stem:'In your pace right now, do you feel accelerating, or decelerating?', poleA:'Accelerating: picking up speed.', poleB:'Decelerating: slowing down.' },
+  { id:'T3', facet:'TB', stem:'In how you relate to the world, do you feel yourself opening more toward others, or drawing inward?', poleA:'Opening: waxing outward.', poleB:'Drawing inward: waning inward.' },
+  { id:'T4', facet:'TB', stem:'In how you pursue your aims, do you feel yourself becoming more proactive, or more receptive?', poleA:'More proactive: stepping forward.', poleB:'More receptive: letting come.' },
 ];
 
 const FACETS = ['A1','A2','B1','B2'];
@@ -590,6 +595,21 @@ function score() {
   d.result = { type: resultType, label: resultLabel, color: resultColor, hasTension };
   d.result = { type: resultType, label: resultLabel, color: resultColor };
 
+  // ── v0.23: Trajectory (perceived direction-of-travel, Carver-Scheier grounded) ──
+  d.trajectory = {};
+  ['TA','TB'].forEach(tfacet => {
+    const tIdxs = activeBank.map((item,i) => item.facet === tfacet ? i : -1).filter(i => i >= 0);
+    if (tIdxs.length > 0) {
+      const norms = tIdxs.map(i => d.normalized[i].normalized);
+      const mean = norms.reduce((a,b) => a+b, 0) / norms.length;
+      const direction = mean > 4.5 ? 'waxing' : mean < 3.5 ? 'waning' : 'steady';
+      d.trajectory[tfacet] = { mean, direction };
+    }
+  });
+  const taDir = d.trajectory.TA?.direction || 'steady';
+  const tbDir = d.trajectory.TB?.direction || 'steady';
+  d.trajectoryLabel = (taDir === 'waxing' || tbDir === 'waxing') ? 'waxing' : (taDir === 'waning' || tbDir === 'waning') ? 'waning' : 'steady';
+
   return d;
 }
 
@@ -634,6 +654,13 @@ function showResults() {
     html += `<div class="result-season ${QUADRANT_COLORS[q.index]}">${q.name}</div>`;
     html += `<div class="result-archetype">${q.archetype}</div>`;
     html += `<div class="result-gradation">${d.gradation.band} ${q.name} — angle ${d.angle.deg.toFixed(1)}°${tenseAxes.length?` · <span style="color:var(--threshold)">facet tension: ${tenseAxes.map(ax=>AXIS_NAMES[ax]).join(', ')}</span>`:''}</div>`;
+  }
+
+  // v0.23: Trajectory direction modifier
+  if (d.trajectoryLabel && d.trajectoryLabel !== 'steady') {
+    html += `<div style="font-size:0.85rem;color:var(--accent);margin:0.25rem 0">Direction: ${d.trajectoryLabel} (you feel the cycle ${d.trajectoryLabel === 'waxing' ? 'gathering toward more' : 'turning toward release'})</div>`;
+  } else {
+    html += `<div style="font-size:0.85rem;color:var(--muted);margin:0.25rem 0">Direction: steady (neither strongly waxing nor waning)</div>`;
   }
 
   // Axis scores

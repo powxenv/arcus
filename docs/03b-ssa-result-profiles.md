@@ -3,7 +3,7 @@
 > Companion to `03-spectrum-of-self-assessment.md`.
 > Full-depth profiles for each SSA result, using the same 14-section schema as Tests 1 and 2 so all four tests are directly comparable.
 > These are the deterministic fallback narratives. The Gemini layer enriches the Archetype and Reflection sections from the player's answer pattern. It never overrides the structured sections.
-> Honesty note: profiles describe tendencies associated with a combination of two measured dimension, identity clarity and self-alignment. They are affirming, non-clinical, and avoid deficit framing. Every diffuse result is described as openness and flexibility, never as emptiness or lack of identity.
+> Honesty note: profiles describe tendencies associated with a combination of two measured dimension, identity clarity and self-alignment. They are affirming, non-clinical, and avoid deficit framing. Every diffuse result is described as openness and flexibility, never as emptiness or lack of identity. v0.23: the result gains a commitment component (Marcia) and, when the opt-in informant path is used, a real SOKA visibility gap (Vazire).
 
 ---
 
@@ -341,6 +341,16 @@ Your wholeness lives in the still point within the motion. The Beacon's steady s
 "You are the light that moves and changes, beautiful in every color, never quite the same. Your gift is fluidity, and your growth is finding the still point around which all your shifting selves can dance."
 
 ---
+
+## Commitment and visibility components (v0.23)
+
+The v0.22 profile describes your clarity (Campbell SCC) and authenticity (Kernis-Wood) as a 2D plane. v0.23 adds two components grounded in the Pride-as-multi-act re-derivation:
+
+**Commitment (Marcia, 1966).** Whether your identity is claimed ("this is who I am") or provisional ("I'm still finding out"). A Beacon with high commitment reads differently from a Beacon still in exploration: the first has arrived and stands in it; the second is clear about who they are but has not yet fully claimed it. Commitment is self-report and is reported alongside the clarity and authenticity scores.
+
+**Visibility (Vazire, 2010, SOKA).** When the user opts into the informant path (invites 1:2 friends to rate them on the same clarity/authenticity items), the self-other agreement gap is computed per the SOKA design. A small gap means how you see yourself and how your friends see you align; a large gap is information in itself, especially on the authenticity axis (where others have better visibility per SOKA). When the informant path is declined, visibility is not measured and the result carries an explicit note.
+
+The four-component Pride profile (clarity, authenticity, commitment, visibility) is our synthesis and is unvalidated. Each component is validated independently. Large self-other gaps can indicate low insight (Carlson, Vazire & Oltmanns 2013), which is handled under the affirming scope limit.
 
 ## How scores modulate these profiles
 

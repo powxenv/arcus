@@ -1,0 +1,448 @@
+590619
+research-article2015
+                       EMR0010.1177/1754073915590619Emotion ReviewHamaker et al. Modeling Affect Dynamics
+
+
+
+
+                                                                                                                                                                                                                             Emotion Review
+                                                                                                                                                                                                                             Vol. 7, No. 4 (October 2015) 316­–322
+                                                                                                                                                                                                                             © The Author(s) 2015
+                                                                                                                                                                                                                             ISSN 1754-0739
+
+                                               Modeling Affect Dynamics: State of the Art and                                                                                                                                DOI: 10.1177/1754073915590619
+                                                                                                                                                                                                                             er.sagepub.com
+
+                                               Future Challenges
+
+
+                                               E. L. Hamaker
+                                               Methodology and Statistics, Faculty of Social and Behavioural Sciences, Utrecht University, The Netherlands
+
+
+                                               E. Ceulemans
+                                               Research Group of Quantitative Psychology and Individual Differences, KU Leuven, Belgium
+
+
+                                               R. P. P. P. Grasman
+                                               Psychological Methods, University of Amsterdam, The Netherlands
+
+
+                                               F. Tuerlinckx
+                                               Research Group of Quantitative Psychology and Individual Differences, KU Leuven, Belgium
+
+
+
+
+                                                                                                            Abstract
+                                                                                                            The current article aims to provide an up-to-date synopsis of available techniques to study affect dynamics using intensive
+                                                                                                            longitudinal data (ILD). We do so by introducing the following eight dichotomies that help elucidate what kind of data one
+                                                                                                            has, what process aspects are of interest, and what research questions are being considered: (1) single- versus multiple-person
+                                                                                                            data; (2) univariate versus multivariate models; (3) stationary versus nonstationary models; (4) linear versus nonlinear models;
+                                                                                                            (5) discrete time versus continuous time models; (6) discrete versus continuous variables; (7) time versus frequency domain; and
+                                                                                                            (8) modeling the process versus computing descriptives. In addition, we discuss what we believe to be the most urging future
+                                                                                                            challenges regarding the modeling of affect dynamics.
+
+
+                                                                                                            Keywords
+                                                                                                            affective dynamics, intensive longitudinal data, within-person
+
+
+
+
+                                               Introduction
+                                               The famous phrase Panta rhei (“everything flows”) from the                                                                         To study affective processes, we need intensive longitudinal
+                                               ancient Greek philosopher Heraclitus indicates that everything                                                                 data (ILD) that are dense enough to capture the relevant dynam-
+                                               changes all the time. This is certainly true for affect: It tends to                                                           ics. This implies that—depending on the process we are inter-
+                                               fluctuate throughout the day, changing from moment to moment                                                                   ested in—we may need day-to-day, moment-to-moment, or
+                                               as it is being perturbed by external events and our appraisal of                                                               even second-to-second measurements, which can be obtained
+                                               these (e.g., Butler, 2015; Montpetit, Bergeman, Deboeck,                                                                       using a daily diary, ambulatory assessment, experience sam-
+                                               Tiberio, & Boker, 2010; Wichers et al., 2009). In addition, affect                                                             pling, observations, or laboratory measurements (Bolger, Davis,
+                                               steers our motivation and behavior, and thus contributes to                                                                    & Rafaeli, 2003; Trull & Ebner- Priemer, 2013). Recent techno-
+                                               shaping our subsequent experiences. Hence, understanding the                                                                   logical developments such as smartphones, accelerometers, and
+                                               dynamics of affective processes is crucial for understanding                                                                   smart shirts have made gathering ILD relatively easy, and as a
+                                               human experience.                                                                                                              result intensive longitudinal studies have become a reasonable
+
+
+
+                                               Author note: This study was supported by the Netherlands Organization for Scientific Research (NWO; VIDI grant 452-10-007, awarded to E. L. Hamaker).
+                                               Corresponding author: E. L. Hamaker, Faculty of Social and Behavioural Sciences, Utrecht University, Padualaan 14, Utrecht, 3584 CH, The Netherlands.
+                                               Email: e.l.hamaker@uu.nl
+                                                                                 Hamaker et al.     Modeling Affect Dynamics       317
+
+
+
+alternative to our more traditional research methods, such as        possible interindividual differences are pooled time series anal-
+cross-sectional and panel research.                                  ysis (Sayrs, 1989), and multilevel regression with only a general
+     However, many of the key ILD publications focus rather          effect. Second, one may ignore general effects and separately
+strongly on why and how we should gather ILD, but say very           analyze the data of each person using a replicated single-subject
+little about the analysis of ILD (for exceptions, see Bolger &       design (Madhyastha, Hamaker, & Gottman, 2011; Nesselroade
+Laurenceau, 2013; Mehl & Conner, 2012; Walls & Schafer,              & Ford, 1985). While this leaves ample room for revealing
+2006). As a consequence, researchers are likely to revert to tech-   interindividual differences in the underlying affective processes
+niques they are familiar with, but that are suboptimal—if not        (Hamaker, Dolan, & Molenaar, 2005), this approach has clear
+simply inappropriate—for ILD, especially when the true inter-        drawbacks in that comparing the estimates becomes cumber-
+est is in the underlying dynamics.                                   some when there are many individuals, while the estimates are
+     With the current article, we opt to provide the novice with     not very reliable when the number of time points per person is
+a bird’s-eye view of the diverse techniques that are available       relatively small.
+for the analysis of ILD. We emphasize here that it is not our            A third approach consists of trying to have the best of both
+intention to present a detailed road map, covering each and          worlds by using a hierarchical extension of a single-person
+every existing technique and discussing all their particulari-       method, which can be applied to the data of all persons simulta-
+ties—this would require multiple books, at least. Instead we         neously, while allowing for between-person differences. The
+will focus on eight dichotomies regarding data features and          latter can be modeled as random deviations from the general
+research questions relevant to ILD, and review associated            effects using a multilevel approach (Bringmann et al., 2013;
+techniques. In doing so we hope to give the reader a flavor of       Song & Ferrer, 2012; Wang, Hamaker, & Bergeman, 2012;
+the many possibilities, while simultaneously raise awareness         Wichers et al., 2009), or alternatively, the population can be
+about the most important issues that are involved. Through the       assumed to represent K different subpopulations that are charac-
+included references, the interested reader will be able to fol-      terized by different processes (e.g., de Roover et al., 2012).
+low up on specific approaches. We end by indicating what we              In addition, ILD in affect research may come from dyads or
+consider the biggest challenges in the years ahead for the study     families, such that “single-subject” should be replaced by “sin-
+of affect dynamics.                                                  gle-system.” These studies allow us to focus on the interplay
+                                                                     between two (or more) individuals (see Butler, 2015). Again,
+                                                                     researchers may choose to analyze the data for each system
+State of the Art in Modeling ILD                                     separately (Madhyastha et al., 2011; Sadler, Ethier, Gunn,
+We present eight dichotomies that researchers can use to evalu-      Duong, & Woody, 2009), or to combine the data in one analysis
+ate the kind of data they have and to determine what sort of         that either does or does not allow for differences between the
+process features they are interested in. These are: (1) single-      individual systems (de Haan-Rietdijk, Gottman, Bergeman, &
+versus multiple-person data; (2) univariate versus multivariate      Hamaker, 2014; Song & Ferrer, 2012).
+models; (3) stationary versus nonstationary models; (4) linear
+versus nonlinear models; (5) discrete time versus continuous
+time processes; (6) discrete variables versus continuous varia-
+                                                                     Dichotomy 2: Univariate Versus Multivariate
+bles; (7) time domain versus frequency domain; and (8) mode-         Models
+ling the process versus computing descriptives. A brief overview     ILD can consist of univariate or multivariate measurements
+of these dichotomies is given in Table 1.                            over time. In the latter case, both univariate as well as multi-
+                                                                     variate processes can be of interest. Univariate processes may
+                                                                     pertain to general development over time (e.g., growth and
+Dichotomy 1: Single- Versus Multiple-Person
+                                                                     decline, circadian or weekly rhythms; Moberly & Watkins,
+Data
+                                                                     2008; Ram et al., 2005), and sudden changes in such trends at
+ILD techniques adopted from other disciplines, such as econo-        known or unknown occasions. Another important feature of a
+metrics, were often designed for the analysis of single-subject      univariate process in affect research is inertia, which is quanti-
+data. The most prominent class of single-subject techniques is       fied by the autoregressive coefficient or simply the autocorrela-
+time series analysis, which includes autoregressive moving           tion and represents the carryover effect of affect from one
+average (ARMA) modeling and multivariate extensions such as          occasion to the next (Kuppens, Allen, & Sheeber, 2010; Trull,
+the vector autoregressive (VAR) modeling as special cases            Lane, Koval, & Ebner-Priemer, 2015; Wang et al., 2012;
+(Hamilton, 1994). However, ILD in affect research is often           Wichers, Wigman, & Myin-Germeys, 2015).
+obtained from multiple persons. This implies that the researcher        A multivariate process perspective focusses on how varia-
+has to decide whether only general, nomothetic effects—              bles influence each other over time (i.e., cross-lagged relations),
+describing some average across individuals—are of interest, or       or on how they are related to each other within the same occa-
+that also between-person, idiographic differences are important.     sion. Recent applications of network analysis are based on mul-
+We can distinguish between three approaches here.                    tivariate time series techniques and consist of visualizing the
+    First, one may concatenate the data of all persons and obtain    autoregressive and cross-lagged relations between multiple
+estimates of the general effects. Some approaches that disregard     variables (Bringmann et al., 2013; Schmittmann et al., 2011).
+318    Emotion Review Vol. 7 No. 4
+
+
+Table 1. Brief overview of the eight dichotomies.
+
+Dichotomy
+
+1                               Single-subject data                                          Multiple-subject data
+                                    • Study dynamics of single individual                       • Study the average pattern of dynamics
+                                    • Time series analysis                                      • Study individual differences in dynamics using
+                                                                                                     random effects models or clustering approaches
+2                               Univariate process                                           Multivariate process
+                                    •• Inertia                                                  • Factor structure (including DFA)
+                                    •• MSSD                                                     • Cross-lagged influences and network analysis
+                                    •• Trends and cycles                                        • Concurrent influences
+3                               Stationary process                                           Nonstationary processes
+                                    • ARMA-based modeling (including                            • Trends
+                                        VAR and TAR)                                            • Change-point analysis
+4                               Linear process                                               Nonlinear process
+                                    • ARMA model                                                • TAR model and change point analysis
+                                    • VAR model                                                 • Catastrophe theory
+                                    • Factor models (including DFA)                             • Chaos
+5                               Discrete time                                                Continuous time
+                                    • ARMA-based modeling                                       • Differential equations
+                                                                                                • MSSD
+6                               Discrete variables                                           Continuous variables
+                                    • Link function                                             • ARMA-based modeling
+                                    • (Hidden) Markov model
+7                               Time domain                                                  Frequency domain
+                                    • Most approaches                                            • Spectral analysis
+8                               Modeling the process                                         Obtaining descriptives
+                                    • Mathematical models                                        • MSSD
+                                                                                                 • State-space grid
+
+
+
+Alternatively, one can study whether a time-varying covariate,              such as emotional inertia and blunting (Pe & Kuppens, 2012),
+such as the occurrence of negative or positive events, predicts             are typically treated as stable traits of people and thus as charac-
+concurrent affect (Wichers et al., 2009), or whether the experi-            teristics of stationary processes. Others, like emotional response
+ence of one emotion augments or blunts the experience of                    concordance (Mauss, Levenson, McCarter, Wilhelm, & Gross,
+another (Pe & Kuppens, 2012).                                               2005; Sander, Grandjean, & Scherer, 2005), are inherently time-
+    Multivariate ILD can also be used for latent variable mode-             varying and hence nonstationary.
+ling, if it is assumed that the observed variables are indicators of            Well-known techniques to model stationary processes are
+one or more underlying constructs. As discussed by Schmittmann              vector autoregressive models (Hamilton, 1994) and dynamic
+et al. (2011), within this category of techniques a further distinc-        factor analysis (DFA; Molenaar, 1985), as well as multilevel
+tion can be made between reflective, factor-analysis-based                  extensions of these (Bringmann et al., 2013; Oravecz,
+approaches on the one hand (e.g., Molenaar, 1985), and forma-               Tuerlinckx, & Vandekerckhove, 2011; Song & Ferer, 2012). In
+tive, component-analysis-based approaches on the other (e.g., de            some cases, these techniques can be modified in order to account
+Roover, Timmerman, van Diest, Onghena, & Ceulemans, 2014).                  for nonstationarity, for instance, by including time as a predic-
+                                                                            tor. To model nonstationary processes one can also choose a
+                                                                            model in which the parameters that describe the dynamics vary
+Dichotomy 3: Stationary Versus Nonstationary
+                                                                            slowly over time (Chow, Zu, Shifren, & Zhang, 2011; Molenaar,
+Models
+                                                                            1987; Shiyko, Lanza, Tan, Li, & Shiffman, 2012). Furthermore,
+An important question when studying affective dynamics is                   under some conditions (e.g., sufficiently dense time grid) the
+whether the intraindividual processes under study are assumed               measurements across time can be considered as curves (i.e.,
+to be stationary or nonstationary. Stationary processes are char-           functions), such that they can be modeled with methods from
+acterized by fluctuation over time while the distributional char-           functional data analysis (Verduyn, van Mechelen, & Frederickx,
+acteristics (such as the mean, the variance, and the                        2012).
+autocorrelations) do not change over time (Hamilton, 1994).                     Affective ILD may also be generated by multiple linear, sta-
+Currently, whether an affective process is considered stationary            tionary processes, between which the individual switches. If it is
+or not depends largely on its theoretical status, although formal           known when these switches occur, a covariate can be included
+statistical tests of nonstationarity exist (e.g., Hamilton, 1994;           that indicates to which process each time point belongs
+Weber, Molenaar, & van der Molen, 1992). Some phenomena,                    (Bringmann et al., 2013), whereas if the change points are
+                                                                                Hamaker et al.     Modeling Affect Dynamics       319
+
+
+
+unknown, the analysis becomes more challenging because they         be of equal length or that they should be varied randomly
+also have to be retrieved from the data (Wang & McArdle,            (Bolger et al., 2003).
+2008). Such models may be stationary or nonstationary, depend-          Regarding the latter, the main concern is whether or not
+ing on whether the switches are recurrent, or only happen once.     anticipating a measurement can affect the measured process: if
+A few recently developed techniques for detecting change            this is the case, it is better to use a measurement design based on
+points in affective time series are DeCon (Bulteel et al., 2014),   random intervals (such as in experience sampling methods),
+and switching component analysis (de Roover et al., 2014).          which captures the individual in the moment; if it is not the case,
+Other options that have been considered in affect research are      using fixed intervals is preferable, as most data analysis meth-
+regime switching state-space models (Hamaker & Grasman,             ods are implemented on the assumption of equal time intervals.
+2011), and threshold autoregressive models (de Haan-Rietdijk        However, in practice data with unequal intervals are often ana-
+et al., 2014; Madhyastha et al., 2011), both of which tend to be    lyzed using models that are based on the assumption of equal
+stationary.                                                         time intervals (Kuppens et al., 2010), which may be particularly
+                                                                    problematic when the focus is on lagged effects between varia-
+                                                                    bles (see Oravecz & Tuerlinckx, 2011, for some preliminary
+Dichotomy 4: Linear Versus Nonlinear Models                         results). Some researchers have tried to account for varying
+In a linear model, changes that occur in an outcome variable are    intervals by adding the length of the time interval as a covariate,
+proportional to the changes in the predictors or input variables.   but this does not solve the problem in (vector) autoregressive
+Note that the latter may include nonlinear transformations of       processes. More elegant alternatives are based on treating time
+original predictors, such as the square or exponent of a predic-    as continuous in differential equations (Bisconti, Bergeman, &
+tor, or even the product between two predictors. In contrast,       Boker, 2004; Deboeck, 2013; Deboeck & Bergeman, 2013;
+when changes in the outcome variable are not proportional to        Oravecz et al. 2011; Voelkle & Oud, 2013).
+changes in the input, this is referred to as a nonlinear model          While the continuous time approach has many advantages—
+(Deboeck, 2013). Nonlinearity may give rise to more complex         especially for dealing with unequal intervals between the obser-
+behavior than linear models, and has gained particular interest     vations and missing data—there are two side notes that need to
+in some areas of psychology because of its relationship to cha-     be made. First, the multilevel approaches based on differential
+otic behavior, catastrophe theory, and attractors (van der Maas     equations still have some limitations and are not as fully devel-
+& Molenaar, 1992). However, this interest has been largely of a     oped as their discrete time counterparts. That is, currently there
+theoretical nature, in that chaos and catastrophe have been used    is no approach available that allows for random cross-lagged
+to describe psychological phenomena, while modeling has been        coefficients that are allowed to differ from each other within a
+largely based on linear approximations.                             person or dyad. Second, affective daily diary data may not be
+    In affective research, van de Leemput et al. (2014) consid-     appropriate for continuous time modeling, because participants
+ered the idea of critical slowing down before a stage transition    are asked to provide ratings that pertain to the entire day: As a
+(which is considered one of the flags of catastrophe; see van der   result, the measurement procedure results in a discrete dynamic
+Maas & Molenaar, 1992), and showed that autocorrelations and        process—even though the underlying process may evolve con-
+cross-correlations indeed increase before individuals switch to a   tinuously over time—that can be handled well with models
+state of depression (see also Wichers et al., 2015). Heiby,         based on discrete time.
+Pagano, Blaine, Nelson, and Heath (2003) used several meth-
+ods—since there is no single method to detect chaos—to deter-
+mine whether there was evidence for chaos in the affective          Dichotomy 6: Discrete Variables Versus
+measurements of a depressed person and compared this to the         Continuous Variables
+pattern in a healthy control. To allow for a more explicit inves-   The observed variables can be continuous, counts, ordinal (e.g.,
+tigation of nonlinear processes, Chow, Ferrer, and Nesselroade      Likert scale data) or nominal (e.g., coded category). In contrast,
+(2007) considered an extension of the Kalman filter, which they     most existing techniques for handling ILD were developed for
+applied to affective interactions between husbands and wives.       continuous data that are assumed to be normally distributed. To
+                                                                    use such techniques in case of noncontinuous data, researchers
+Dichotomy 5: Discrete Time Versus Continuous                        may consider the framework of generalized linear models
+                                                                    (Fahrmeir & Tutz, 2001), in which a link function transforms
+Time Models
+                                                                    the observed variable into a continuous variable. For instance,
+It could be argued that—even though our observations are nec-       Kuppens et al. (2010) analyzed binary behavioral observations
+essarily made at discrete points in time—affective processes        using a logistic extension of the autoregressive multilevel model
+evolve continuously over time (Hu, Boker, Neale, & Klump,           in order to investigate inertia in diverse second-to-second affec-
+2014). To adequately capture the dynamics of the process under      tive behaviors.
+investigation, researchers have to decide on important issues           Another option, which is used regularly, is to sum a number
+like the sampling frequency (i.e., the number of measurements       of the original variables per time point in order to obtain varia-
+per time interval), the length of the measurement period, and       bles that are approximately continuous and normally distrib-
+whether the intervals between measurement occasions should          uted. For example, Wang et al. (2012) used a sum score of
+320   Emotion Review Vol. 7 No. 4
+
+
+
+negative affect items that were scored on a 5-point Likert scale.     time are modeled, separately or simultaneously, as described
+However, summing is not sensible when the observed variables          extensively above. Alternatively though, researchers can choose
+represent distinct elements of a process or when the variables        to use a summary measure of each individual’s dynamics, which
+are nominal rather than ordinal.                                      is then used in more conventional analyses. Some examples of
+   When the chosen approach includes latent variables, these can      this have already been discussed before (e.g., Sadler et al.,
+also be either discrete or continuous. For instance, in multilevel    2009). Two other descriptive approaches we like to emphasize
+models, factor analysis, and principal component analysis (PCA)-      here, are the mean squared successive difference (MSSD;
+based methods, it is often assumed that latent variables are con-     Jahng, Wood, & Trull, 2008), and the use of state-space grids
+tinuous. Alternatively, the latent variable can also be a discrete    (SSG; Granic & Hollenstein, 2003).
+classification, such that persons are grouped into a few latent           The MSSD is based on taking the difference between two
+classes or clusters (Vermunt, 2008). Closely related to this are      consecutive measurements, squaring it and taking the mean of
+(hidden or latent) Markov models (Rijmen, Ip, Rapp, & Shaw,           all of the squared differences per person. It is a way to capture
+2008; Rovine, Sinclair, & Stifter, 2010; Visser, 2011), and switch-   measurement-to-measurement variability, regardless of whether
+ing component models (de Roover et al., 2014), which allow indi-      or not there is a trend in the data. In affect research the measure
+viduals to switch between a number of categorical latent states.      has been referred to as affect instability (Trull et al., 2015;
+An advantage of Markov models is that they are flexible in com-       Wichers et al., 2015). SSG is a tool that was developed to study
+bining categorical and continuous observed variables, making it a     dyads, although it can be used for other bivariate systems as
+valuable alternative when more common approaches are not              well. In essence it is simply a way to visualize the behavior of a
+appropriate. Note that Markov models can also be used to model        bivariate system, where the two variables—which are either
+switching in an observed categorical variable.                        nominal or ordinal—form a grid and each cell represents the
+                                                                      combination of two categories of the two variables. Measures
+                                                                      that have been derived are: the number of switches between
+Dichotomy 7: Time Domain Versus Frequency                             cells, or the time it takes to return to a cell or quadrant in the
+Domain                                                                SSG once it is left. As with the MSSD, once a summary measure
+At a very general level, all the approaches towards time series       has been obtained for each individual or dyad, it can be used
+data and ILD can be divided into two main domains: the time           subsequently in group comparisons or regression analyses. A
+domain, in which the goal is to describe how the data are a func-     major advantage of such descriptives is that they do not require
+tion of time (e.g., there may be a linear or quadratic trend, or a    the researcher to define an underlying process.
+week cycle in the data), and/or how the observations can be pre-
+dicted from previous observations (e.g., through the inclusion of
+autoregressive and cross-lagged relationships); and the fre-          Most Urgent Challenges for the Years Ahead
+quency domain, in which the data are considered as a function         Although studies based on ILD have been part of psychological
+of many different sine waves, with different frequencies              research since the beginning, it was not until recently that it has
+(Hamilton, 1994). Most of the techniques that are described in        become a more feasible approach in mainstream research. We
+this article and applied in affective research based on ILD, fall     wholeheartedly welcome this development, as we strongly believe
+in the time domain category. In the frequency domain, the typi-       that the shift from studying static outcomes of processes to focus-
+cal approach is to use spectral or spectrum analysis, also referred   ing on the actual processes as they evolve over time, is a crucial
+to as frequency analysis.                                             step in the progress of psychology: Only through the careful study
+    Spectral analysis is often used for psychophysiological           of patterns of fluctuations over time—how these patterns differ
+measures such as interbeat intervals of heart rate, magneto-/         across individuals and how these patterns then change over time—
+electro-encephalogram, and respiratory rate. Ram et al. (2005)        can we begin to understand the essence of human beings.
+used frequency analysis as an exploratory approach to deter-              From the current article it has become clear that there are
+mine the length of the most dominant cycle per person in daily        many options for analyzing ILD, and that the choice between
+affect measurements. Heiby et al. (2003) used the log-log trans-      these options requires careful consideration from the researcher.
+formed power spectrum to find evidence for chaotic behavior in        In addition, we want to draw attention to two general consid-
+the data, but this particular use of frequency analysis has been      erations, which we believe are fundamental to this kind of
+heavily criticized (Wagenmakers, Farrell, & Ratcliff, 2004).          research. First, as already mentioned, it is important that the
+Sadler et al. (2009) used the cross-spectral density of the bivari-   measurement frequency is dense enough to capture the actual
+ate data from spouses to determine how attuned the partners are       process one is interested in. This is not a matter of one-
+at different frequencies as well as overall.                          size-fits-all, but rather requires careful consideration, theory
+                                                                      and empirical studies to determine for any particular psycho-
+Dichotomy 8: Modeling the Process Versus                              logical phenomenon whether one needs second-to-second,
+                                                                      moment-to-moment, or day-to-day measurements. Choosing a
+Computing Descriptives
+                                                                      measurement schedule with a frequency that is too low results
+If one has ILD from multiple persons, one could decide to use a       in finding no meaningful relationships over time (cf. Trull
+statistical technique in which the individual trajectories over       et al., 2015). On the other hand, a too high frequency will form
+                                                                                           Hamaker et al.         Modeling Affect Dynamics            321
+
+
+
+an ­unnecessary burden for the participants, leading to unneces-             Bulteel, K., Ceulemans, E., Thompson, R. J., Waugh, C. E., Gotlib, I.
+sary dropout. Moreover, it probably limits the time span that                    H., Tuerlinckx, F., & Kuppens, P. (2014). DeCon: A tool to detect
+                                                                                 emotional concordance in multivariate time-series data of emotional
+can be covered in the study, such that one may not be able to
+                                                                                 responding. Biological Psychology, 98, 29–42.
+detect the actual fluctuations of interest. Thus, it is crucial that         Butler, E. A. (2015). Interpersonal affect dynamics: It takes two (and time)
+researchers find ways to determine at which time scale the pro-                  to tango. Emotion Review, 7, 336–341.
+cess of interest actually operates.                                          Chow, S.-M., Ferrer, E., & Nesselroade, J. R. (2007). An unscented Kalman
+    Second, a related question is at what time lag variables influ-              filter approach to the estimation of nonlinear dynamical systems mod-
+ence each other. For instance, if a negative event occurs, does                  els. Multivariate Behavioral Research, 42, 283–321.
+this immediately lead to an increase in negative affect, or does it          Chow, S.-M., Zu, J., Shifren, K., & Zhang, G. (2011). Dynamic factor anal-
+                                                                                 ysis models with time-varying parameters. Multivariate Behavioral
+require some time before it impacts our mood? Gollob and
+                                                                                 Research, 46, 303–339.
+Reichardt (1987) already pointed out that the results one obtains,           Deboeck, P. R. (2013). Dynamical systems and models of continuous time.
+depend on the length of the time lag between measurements.                       In T. D. Little (Ed.), The Oxford handbook of quantitative methods
+Continuous time modeling has been suggested as a way to over-                    (Vol. II, pp. 411–431). New York, NY: Oxford University Press.
+come this “lag-problem,” as it allows one to see how the effect              Deboeck, P. R., & Bergeman, C. S. (2013). The reservoir model: A differen-
+of one variable on the other changes as a function of the interval               tial equation model of psychological capacity. Psychological Methods,
+between cause and effect (Voelkle & Oud, 2013). However, the                     18, 237–256.
+                                                                             De Haan-Rietdijk, S., Gottman, J. M., Bergeman, C. S., & Hamaker, E. L.
+issue of influence is probably more complicated, as variables
+                                                                                 (2014). Get over it! A multilevel threshold autoregressive model for
+may influence each other differently at different time scales. For               state-dependent affect regulation. Psychometrika. Advance online pub-
+instance, Butler (2015) discusses the “coconstruction” of emo-                   lication. doi:10.1007/s11336–014–9417-x
+tional meaning, which implies that an individual’s stance                    De Roover, K., Ceulemans, E., Timmerman, M., Vansteelandt, K., Stouten,
+towards an event may change after discussing it with other peo-                  J., & Onghena, P. (2012). Clusterwise simultaneous component analy-
+ple. Wichers et al. (2015) also suggest that there may be differ-                sis for analyzing structural differences in multivariate multiblock data.
+                                                                                 Psychological Methods, 17, 100–119.
+ent time scales involved in psychopathology, and that the
+                                                                             De Roover, K., Timmerman, M. E., van Diest, I., Onghena, P., & Ceule-
+cumulative effect of many small—seemingly meaningless—                           mans, E. (2014). Switching principal component analysis for modeling
+effects may result in large, meaningful effects in the long run.                 changes in means and covariance structure over time. Psychological
+Suppose for instance that a parent yells at a child: In the short                Methods, 19, 113–132.
+run this may lead to a change in behavior on part of the child               Fahrmeir, L., & Tutz, G. (2001). Multivariate statistical modelling based on
+(e.g., the child yells back, or stops the annoying behavior), but                generalized linear models. New York, NY: Springer-Verlag.
+many incidents such as this are also likely to have a formative              Gollob, H. F., & Reichardt, C. S. (1987). Taking account of time lags in
+                                                                                 causal models. Child Development, 58, 80–92.
+effect that is more than simply the sum of all the small effects.
+                                                                             Granic, I., & Hollenstein, T. (2003). Dynamic system methods for models
+How to relate moment-to-moment and day-to-day processes to                       of developmental psychopathology. Development and Psychopathol-
+developmental processes spanning years or even a lifetime, is                    ogy, 15, 641–669.
+one of the fundamental questions that will be begging an answer              Hamaker, E. L., Dolan, C. V., & Molenaar, P. M. C. (2005). Statistical
+over the following decade.                                                       modeling of the individual: Rationale and application of multivariate
+    To conclude, we pose that using ILD to tap into the dynamics                 stationary time series analysis. Multivariate Behavioral Research, 40,
+of processes—rather than focusing on their static outcomes—is                    404–418.
+                                                                             Hamaker, E. L., & Grasman, R. P. P. P. (2011). Regime switching state-
+an important first step; seeing how the dynamics themselves
+                                                                                 space models applied to psychological processes: Handling missing
+change, is the logical next step. That is, Panta rhei not only                   data and making inferences. Psychometrika, 77, 400–422.
+pertains to affective phenomena, but also to their dynamics.                 Hamilton, J. D. (1994). Time series analysis. Princeton, NJ: Princeton Uni-
+                                                                                 versity Press.
+                                                                             Heiby, E. M., Pagano, I. S., Blaine, D. D., Nelson, K., & Heath, R. A.
+Declaration of Conflicting Interests                                             (2003). Modeling unipolar depression as a chaotic process. Psychologi-
+The author(s) declared no potential conflicts of interest with respect           cal Assessment, 15, 426–434.
+to the research, authorship, and/or publication of this article.             Hu, Y., Boker, S. M., Neale, M. C., & Klump, K. (2014). Coupled latent
+                                                                                 difference equations with moderators: Simulation and application. Psy-
+                                                                                 chological Methods, 19, 56–71.
+References                                                                   Jahng, S., Wood, P. K., & Trull, T. J. (2008). Analysis of affective instabil-
+Bisconti, T. L., Bergeman, C. S., & Boker, S. M. (2004). Emotion regu-           ity in EMA: Indices using successive difference and group comparison
+    lation in recently bereaved widows: A dynamical systems approach.            via multilevel modeling. Psychological Methods, 13, 345–375.
+    Journal of Gerontology: Psychological Sciences, 59, 158–167.             Kuppens, P., Allen, N. B., & Sheeber, L. B. (2010). Emotional inertia and
+Bolger, N., Davis, A., & Rafaeli, E. (2003). Diary methods: Capturing life       psychological maladjustment. Psychological Science, 21, 984–991.
+    as it is lived. Annual Review of Psychology, 54, 579–616.                Madhyastha, T., Hamaker, E. L., & Gottman, J. (2011). Investigating
+Bolger, N., & Laurenceau, J.-P. (2013). Intensive longitudinal methods: An       spousal influence using moment-to-moment affect data from marital
+    introduction to diary and experience sampling research. New York,            conflict. Journal of Family Psychology, 25, 292–300.
+    NY: Guilford Press.                                                      Mauss, I., Levenson, R., McCarter, L., Wilhelm, F., & Gross, J. (2005).
+Bringmann, L. F., Vissers, N., Wichers, M., Geschwind, N., Kuppens, P.,          The tie that binds? Coherence among emotion experience, behavior,
+    Peeters, F., … Tuerlinckx, F. (2013). A network approach to psychopa-        and physiology. Emotion, 5, 175–190.
+    thology: New insights into clinical longitudinal data. PLoS ONE, 8(4),   Mehl, M. R., & Conner, T. S. (Eds.). (2012). Handbook of research methods
+    e60188.                                                                      for studying daily life. New York, NY: Guilford Press.
+322    Emotion Review Vol. 7 No. 4
+
+
+Moberly, N. J., & Watkins, E. R. (2008). Ruminative self-focus and nega-            Difference between successful quitters and relapsers. Prevention Sci-
+    tive affect: An experience sampling study. Journal of Abnormal Psy-             ence, 13, 288–299.
+    chology, 117, 314–323.                                                      Song, H., & Ferrer, E. (2012). Bayesian estimation of random coefficient
+Molenaar, P. C. M. (1985). A dynamic factor model for the analysis of mul-          dynamic factor models. Multivariate Behavioral Research, 47, 26–60.
+    tivariate time series. Psychometrika, 50, 181–202.                          Trull, T. J., & Ebner-Priemer, U. (2013). Ambulatory assessment. Annual
+Molenaar, P. C. M. (1987). Dynamic assessment and adaptive optimization             Review of Clinical Psychology, 9, 151–176.
+    of the psychotherapeutic process. Behavioral Assessment, 9, 389–416.        Trull, T. J., Lane, S. P., Koval, P., & Ebner-Priemer, U. W. (2015). Affect
+Montpetit, M. A., Bergeman, C. S., Deboeck, P. R., Tiberio, S. S., & Boker,         dynamics in psychopathology. Emotion Review, 7, 355–361.
+    S. M. (2010). Resilience-as-process: Negative affect, stress, and cou-      Van de Leemput, I. A., Wichers, M., Cramer, A. O. J., Borsboom, D.,
+    pled dynamical systems. Psychology and Aging, 25, 631–640.                      ­Tuerlinckx, F., Kuppens, P., … Scheffer, M. (2014). Critical slowing
+Nesselroade, J. R., & Ford, D. H. (1985). P-technique comes of age: Multi-           down as early warning for the onset and termination of depression. Pro-
+    variate, replicated, single-subject designs for research on older adults.        ceedings of the National Academy of Sciences, 111, 87–92.
+    Research on Aging, 7, 46–80.                                                Van der Maas, H. L. J., & Molenaar, P. C. M. (1992). Stagewise cogni-
+Oravecz, Z., & Tuerlinckx, F. (2011). The linear mixed model and the hierar-         tive development: An application of catastrophe theory. Psychological
+    chical Ornstein– Uhlenbeck model: Some equivalences and differences.             Review, 99, 395–417.
+    British Journal of Mathematical and Statistical Psychology, 64, 134–160.    Verduyn, P., van Mechelen, I., & Frederickx, E. (2012). Determinants of
+Oravecz, Z., Tuerlinckx, F., & Vandekerckhove, J. (2011). A hierarchical             the shape of emotion intensity profiles. Cognition and Emotion, 26,
+    latent stochastic differential equation model for affective dynamics.            1486–1495.
+    Psychological Methods, 16, 468–490.                                         Vermunt, J. K. (2008). Latent class and finite mixture models for multilevel
+Pe, M. L., & Kuppens, P. (2012). The dynamic interplay between emotions              datasets. Statistical Methods in Medical Research, 17, 33–51.
+    in daily life: Augmentation, blunting, and the role of appraisal overlap.   Visser, I. (2011). Seven things to remember about hidden Markov models:
+    Emotion, 12, 1320–1328.                                                          A tutorial on Markovian models for time series. Journal of Mathemati-
+Ram, N., Chow, S.-M., Bowles, R. P., Wang, L., Grimm, K., Fujita, F.,                cal Psychology, 55, 403–415.
+    & Nesselroade, J. R. (2005). Examining interindividual differences in       Voelkle, M. C., & Oud, J. H. L. (2013). Continuous time modelling with
+    cyclicity of pleasant and unpleasant affects using spectral analysis and         individually varying time intervals for oscillating and nonoscillating
+    item response modeling. Psychometrika, 70, 773–790.                              processes. British Journal of Mathematical and Statistical Psychology,
+Rijmen, F., Ip, E. H., Rapp, S., & Shaw, E. G. (2008). Qualitative longi-            66, 103–126.
+    tudinal analysis of symptoms in patients with primary and metastatic        Wagenmakers, E.-J., Farrell, S., & Ratcliff, R. (2004). Estimation and inter-
+    brain tumours. Journal of the Royal Statistical Association, Series A,           pretation of 1/fa noise in human cognition. Psychonomic Bulletin &
+    171, 739–753.                                                                   Review, 11, 579–615.
+Rovine, M. J., Sinclair, K. O., & Stifter, C. A. (2010). Modeling mother–       Walls, T. A., & Schafer, J. L. (Eds.). (2006). Models for intensive longitudi-
+    infant interactions using hidden Markov models. In P. C. M. Molenaar            nal data. New York, NY: Oxford University Press.
+    & K. M. Newell (Eds.), Individual pathways of change (pp. 51–67).           Wang, L., Hamaker, E. L., & Bergeman, C. S. (2012). Investigating inter-
+    Washington, DC: APA Press.                                                      individual differences in short-term intra-individual variability. Psy-
+Sadler, P., Ethier, N., Gunn, G. R., Duong, D., & Woody, E. (2009). Are             chological Methods, 17, 567–581.
+    we on the same wavelength? Interpersonal complementarity as shared          Wang, L., & McArdle, J. J. (2008). A simulation study comparison of
+    cyclical patterns during interactions. Journal of Personality and Social        Bayesian estimate with conventional methods for estimating unknown
+    Psychology, 97, 1005–1020.                                                      change points. Structural Equation Modeling, 15, 52–74.
+Sander, D., Grandjean, D., & Scherer, K. (2005). A systems approach to          Weber, E. J. M., Molenaar, P. C. M., & van der Molen, M. W. (1992). A non-
+    appraisal mechanisms in emotion. Neural Networks, 18, 317–352.                  stationarity test for the spectral analysis of physiological time series with an
+Sayrs, L. W. (1989). Pooled time series analysis (Series: Quantitative appli-       application to respiratory sinus arrhythmia. Psychophysiology, 29, 55–62.
+    cations in the social sciences, Issue 70). Newbury Park, CA: Sage.          Wichers, M., Barge-Schaapman, D. Q. C. M., Nicolson, N. A., Peeters, F.,
+Schmittmann, S. D., Cramer, A. O. J., Waldorp, L. J., Epskamp, S., Kievit,          de Vries, M., Mengelers, R., & van Os, J. (2009). Reduced stress-sen-
+    R. A., & Borsboom, D. (2011). Deconstructing the construct: A net-              sitivity or increased reward experience: The psychological mechanism
+    work perspective on psychological phenomena. New Ideas in Psychol-              of response to antidepressant medication. Neuropsychopharmacology,
+    ogy, 31, 43–53.                                                                 34, 923–931.
+Shiyko, M. P., Lanza, S. T., Tan, X., Li, R., & Shiffman, S. (2012). Using      Wichers, M., Wigman, J. T. W. (Hanneke), & Myin-Germeys, I. (2015).
+    the time-varying effect model (TVEM) to examine dynamic associa-                Micro-level affect dynamics in psychopathology viewed from complex
+    tions between negative affect and self confidence on smoking urges:             dynamical system theory. Emotion Review, 7, 362–367.
+

@@ -1,6 +1,6 @@
 # Test 2: The Modes of Mind Assessment (MMA)
 
-> Status: v0.22 design document. Redesigned from the v0.3 design. The previous collapsed NFC×FI bipolar axis, the Riding D1/D2 axis (self-report on a behavioral construct), and the Algorithm/Cipher/Gestalt/Architecture quadrants are superseded. The v0.22 MMA restores Epstein's verified orthogonality (NFC ⊥ Faith-in-Intuition, r = .08) as two independent self-report scales and adds a behavioral CRT component for the override signal self-report cannot capture. See CHANGELOG v0.22.
+> Status: v0.23 design document. Adds a behavioral heuristics battery and reports the stated-vs-observed gap as the interpretive lead, so the test measures the Turing theme (the Imitation Game: does what you say about your mind match what your choices show). The heuristics individual-difference claim is grounded in Gigerenzer & Gaissmaier (2011) and Luan, Schooler & Gigerenzer (2011), both verified full-text. The stated-vs-observed gap as a construct is our synthesis and is unvalidated. The heuristics battery is a behavioral decision task with a prior-exposure problem and is a build feature beyond a single-session static form. See CHANGELOG v0.23.
 > Position: The Turing-themed test of the four-test Solstice Soul suite.
 > Theme served: Alan Turing (computing, code-breaking, the many valid ways a mind can think).
 > Honesty statement: The MMA is an original, theory-informed assessment for reflection and play. Its two self-report scales are grounded in full-text-verified constructs: Need for Cognition (Cacioppo & Petty, 1982) and Faith in Intuition (Epstein et al., 1996, REI), which are verified orthogonal (r = .08). Its behavioral component is grounded in the Cognitive Reflection Test (Frederick, 2005). It is not independently validated and is not clinical. Cognitive processes are partly unconscious, and self-report is a weaker measure for cognitive style than for the affective and identity constructs in Tests 1 and 3; the behavioral component is included specifically to mitigate this where self-report is mismatched. This is an explicit tradeoff stated in §10. The four result names are an interpretive metaphor drawn from computing, not a claim that minds are literally algorithms.
@@ -148,7 +148,52 @@ There is no facet-tension modifier. The two scales are independent and cannot ca
 
 ---
 
-## 7. Question format and response scale
+## 7. Behavioral heuristics battery and stated-vs-observed gap (v0.23)
+
+The Imitation Game is the Turing theme: can a hidden mind be identified from its outputs, and does what it says about itself match what it does. The v0.22 MMA measured stated cognition (NFC, FI) plus a narrow CRT. The theme-native measurement is **stated-vs-observed**: state your cognitive engagement, then solve decision problems, and read the gap.
+
+### 7.1 The strategy construct
+
+Gigerenzer & Gaissmaier (2011, verified) document "systematic individual differences in the use of heuristics." Luan, Schooler & Gigerenzer (2011, verified) score fast-and-frugal trees per-individual via signal-detection theory, yielding a sensitivity and a decision criterion. Behavioral strategy is a stable individual difference, measured from choice behavior : not introspectable in the way NFC and FI are.
+
+### 7.2 Evidence vs synthesis
+
+- NFC and FI as self-report engagement: validated (Cacioppo-Petty; Epstein REI).
+- Heuristics use as a behavioral individual difference: validated (Gigerenzer 2011; Luan 2011).
+- **The stated-vs-observed gap as the interpretive lead is our synthesis and is unvalidated.** It is conservative because the gap is a transparent computation over two validated measurements, but no study has validated the gap itself as a construct.
+
+### 7.3 The heuristics battery (design)
+
+A 6–8 item behavioral decision battery. Each item presents a multi-attribute choice under uncertainty (which of these two options would you pick?) designed so that different heuristics yield different choices:
+
+- **Recognition**: choose the option you recognize.
+- **Take-the-best**: choose on the strongest discriminating cue only.
+- **Tallying**: count positive cues across attributes.
+- **Weighted-additive**: weight and sum all cues.
+
+Scored per Luan's signal-detection framework: each user's choices are classified by best-fitting strategy, yielding a dominant-strategy read and a decision-criterion parameter.
+
+The CRT (v0.22 Component 3) is retained as a narrower override measure within this battery.
+
+### 7.4 How the gap modulates the result
+
+The quadrant type (Integrator/Logician/Reader/Operator from NFC×FI) is reported alongside the observed-strategy read and the signed gap between stated and observed. The result reads as a Turing signature:
+
+- **Congruent**: "You say you think deliberately, and your choices confirm a deliberate-comparison strategy."
+- **Divergent**: "You say you trust your gut, but your choices show take-the-best deliberation. The gap is itself information."
+
+The gap is the theme-native signal. Neither the stated nor the observed score alone is the result; the relationship between them is.
+
+### 7.5 Limitations and build requirements
+
+- The heuristics battery has a prior-exposure problem: strategies are teachable, and users who know the literature will game it. A launch implementation must use a refreshed or rotated item bank.
+- Stated-vs-observed congruence is itself subject to self-presentation: a user can knowingly report what they will do.
+- The gap construct is novel; treat as experimental.
+- This is the largest build in the suite: a behavioral decision battery with per-item strategy classification.
+
+---
+
+## 8. Item bank
 
 **Two formats in one test:**
 

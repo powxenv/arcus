@@ -7,7 +7,7 @@ interface Item { id: string; facet: FacetId; poleA: string; poleB: string; }
 interface FacetResult { norms: number[]; sum: number; mean: number; score: number; variance: number; }
 interface AxisResult { score: number; }
 interface FacetContrib { dominant: string; s1: number; s2: number; d1: number; d2: number; }
-interface ScoreResult { name: string; raw: number[]; normalized: number[]; facets: Record<FacetId, FacetResult>; axis: Record<AxisId, AxisResult>; a_off: number; b_off: number; distance: number; prototypicality: number; angle_deg: number; angle_in_quad: number; quadrant: number; quadrant_name: string; gradation: string; is_near_center: boolean; is_threshold: boolean; has_tension: boolean; result_type: string; contrib: Record<AxisId, FacetContrib>; facet_consistency: Record<FacetId, number>; _orient: number[]; }
+interface ScoreResult { name: string; raw: number[]; normalized: number[]; facets: Record<FacetId, FacetResult>; axis: Record<AxisId, AxisResult>; a_off: number; b_off: number; distance: number; prototypicality: number; angle_deg: number; angle_in_quad: number; quadrant: number; quadrant_name: string; gradation: string; is_near_center: boolean; is_threshold: boolean; has_tension: boolean; result_type: string; contrib: Record<AxisId, FacetContrib>; facet_consistency: Record<FacetId, number>; commitment_score: number; commitment_label: string; _orient: number[]; }
 
 const ITEMS: Item[] = [
   { id: "A1.1", facet: "A1", poleA: "Can give a clear and confident answer.", poleB: "Struggle to find the right words — I'm still figuring it out." },
@@ -42,6 +42,10 @@ const ITEMS: Item[] = [
   { id: "B2.6", facet: "B2", poleA: "Let them in and show your real self.", poleB: "Keep some distance — it's safer that way." },
   { id: "B2.7", facet: "B2", poleA: "I lean into it — deeper honesty is part of closeness.", poleB: "I move carefully — there are some things I keep to myself." },
   { id: "B2.8", facet: "B2", poleA: "Be fully known, even if it's messy.", poleB: "Keep certain parts of yourself private." },
+  { id: "C1", facet: "C", poleA: "I know, and I've claimed it.", poleB: "I'm still figuring it out." },
+  { id: "C2", facet: "C", poleA: "Settled. I've arrived.", poleB: "Open. I'm still becoming." },
+  { id: "C3", facet: "C", poleA: "I can answer without hesitation.", poleB: "I hesitate." },
+  { id: "C4", facet: "C", poleA: "Fully committed.", poleB: "Not yet committed." },
 ];
 
 const FACETS: FacetId[] = ["A1", "A2", "B1", "B2"];
@@ -50,7 +54,7 @@ const AXIS_OF: Record<FacetId, AxisId> = { A1: "A", A2: "A", B1: "B", B2: "B" };
 const AXIS_NAMES: Record<AxisId, string> = { A: "Identity Clarity", B: "Self-Alignment" };
 const QUADRANT_NAMES = ["Beacon", "Prism", "Aurora", "Ember"];
 const TENSION_MARGIN = 20;
-const FACET_ITEMS: Record<FacetId, number[]> = {} as any; for (const f of FACETS) FACET_ITEMS[f] = []; ITEMS.forEach((item, i) => FACET_ITEMS[item.facet].push(i));
+const FACET_ITEMS: Record<FacetId, number[]> = {} as any; for (const f of FACETS) FACET_ITEMS[f] = []; ITEMS.forEach((item, i) => { if (FACET_ITEMS[item.facet]) FACET_ITEMS[item.facet].push(i); });
 const SSA16_IDS = new Set(["A1.1", "A1.2", "A1.4", "A1.8", "A2.1", "A2.3", "A2.5", "A2.8", "B1.1", "B1.2", "B1.3", "B1.6", "B2.1", "B2.3", "B2.6", "B2.8"]);
 const SSA16_INDICES = ITEMS.map((it, i) => SSA16_IDS.has(it.id) ? i : -1).filter(i => i >= 0);
 const FACET_ITEMS_16: Record<FacetId, number[]> = {} as any; for (const f of FACETS) FACET_ITEMS_16[f] = FACET_ITEMS[f].filter(i => SSA16_IDS.has(ITEMS[i].id));
@@ -60,8 +64,8 @@ function gauss(mean: number, std: number): number { let u = 0, v = 0; while (u =
 function choice<T>(arr: T[]): T { return arr[Math.floor(Math.random() * arr.length)]; }
 
 function score(rawResponses: number[], orientations?: number[], activeIdxs?: number[]): ScoreResult {
-  const ori = orientations ?? new Array(32).fill(1);
-  const normalized: number[] = []; for (let i = 0; i < 32; i++) normalized.push(ori[i] === 1 ? rawResponses[i] : 8 - rawResponses[i]);
+  const ori = orientations ?? new Array(ITEMS.length).fill(1);
+  const normalized: number[] = []; for (let i = 0; i < ITEMS.length; i++) normalized.push(ori[i] === 1 ? rawResponses[i] : 8 - rawResponses[i]);
   const localFacetMap: Record<FacetId, number[]> = {} as any; for (const f of FACETS) localFacetMap[f] = (activeIdxs ? FACET_ITEMS_16 : FACET_ITEMS)[f];
   const facets = {} as Record<FacetId, FacetResult>;
   for (const facet of FACETS) { const fIdxs = localFacetMap[facet], norms = fIdxs.map(i => normalized[i]), sum = norms.reduce((a, b) => a + b, 0), n = fIdxs.length, mean = sum / n, scoreVal = (mean - 1) / 6 * 100, variance = norms.reduce((a, x) => a + (x - mean) ** 2, 0) / n; facets[facet] = { norms, sum, mean, score: scoreVal, variance }; }
@@ -79,10 +83,15 @@ function score(rawResponses: number[], orientations?: number[], activeIdxs?: num
   const contrib: Record<AxisId, FacetContrib> = {} as any;
   for (const [ax, [f1, f2]] of [["A", ["A1", "A2"]] as [AxisId, [FacetId, FacetId]], ["B", ["B1", "B2"]] as [AxisId, [FacetId, FacetId]]]) { const s1 = facets[f1].score, s2 = facets[f2].score, d1 = Math.abs(s1 - 50), d2 = Math.abs(s2 - 50); let dom: string; if (tension[ax].tense) dom = "tense"; else if (Math.abs(s1 - s2) < 0.01) dom = "equal"; else dom = d1 > d2 ? f1 : f2; contrib[ax] = { dominant: dom, s1, s2, d1, d2 }; }
   const facet_consistency = {} as Record<FacetId, number>; for (const f of FACETS) facet_consistency[f] = Math.sqrt(facets[f].variance);
-  return { name: "", raw: rawResponses, normalized, facets, axis, a_off, b_off, distance, prototypicality, angle_deg, angle_in_quad, quadrant, quadrant_name: QUADRANT_NAMES[quadrant], gradation, is_near_center, is_threshold, has_tension, result_type, contrib, facet_consistency, _orient: ori };
+  // v0.23 commitment scoring (Marcia)
+  const cNorms = ITEMS.map((it, i) => it.facet === "C" ? normalized[i] : null).filter((x: number | null): x is number => x !== null);
+  const cScore = cNorms.length > 0 ? (cNorms.reduce((a, b) => a + b, 0) / cNorms.length - 1) / 6 * 100 : 50;
+  const commitment_label = cScore >= 60 ? "committed" : cScore >= 40 ? "exploring" : "open";
+
+  return { name: "", raw: rawResponses, normalized, facets, axis, a_off, b_off, distance, prototypicality, angle_deg, angle_in_quad, quadrant, quadrant_name: QUADRANT_NAMES[quadrant], gradation, is_near_center, is_threshold, has_tension, result_type, contrib, facet_consistency, commitment_score: cScore, commitment_label, _orient: ori };
 }
 
-function gen(name: string, a1_c: number, a2_c: number, b1_c: number, b2_c: number, noise = 1.0): [string, number[], number[]] { const orient = new Array(32).fill(0).map(() => choice([1, -1])); const raw: number[] = []; const centers: Record<FacetId, number> = { A1: a1_c, A2: a2_c, B1: b1_c, B2: b2_c }; for (let i = 0; i < ITEMS.length; i++) { const c = centers[ITEMS[i].facet], trait = clamp(gauss(c, noise), 1, 7); raw.push(orient[i] === 1 ? trait : (8 - trait)); } return [name, raw, orient]; }
+function gen(name: string, a1_c: number, a2_c: number, b1_c: number, b2_c: number, noise = 1.0): [string, number[], number[]] { const orient = new Array(ITEMS.length).fill(0).map(() => choice([1, -1])); const raw: number[] = []; const centers: Record<string, number> = { A1: a1_c, A2: a2_c, B1: b1_c, B2: b2_c, C: 4 }; for (let i = 0; i < ITEMS.length; i++) { const c = centers[ITEMS[i].facet] ?? 4, trait = clamp(gauss(c, noise), 1, 7); raw.push(orient[i] === 1 ? trait : (8 - trait)); } return [name, raw, orient]; }
 function genExtreme(name: string, a_center: number, b_center: number): [string, number[], number[]] { return gen(name, a_center, a_center, b_center, b_center, 0.4); }
 function genMixed(name: string, a1_c: number, a2_c: number, b1_c: number, b2_c: number, noise = 0.6): [string, number[], number[]] { return gen(name, a1_c, a2_c, b1_c, b2_c, noise); }
 function genNoisy(name: string, a1_c: number, a2_c: number, b1_c: number, b2_c: number, noise = 2.0): [string, number[], number[]] { return gen(name, a1_c, a2_c, b1_c, b2_c, noise); }
@@ -137,7 +146,36 @@ function analyze(res: ScoreResult[]): void {
   console.log(mismatches.length ? `\n  ⚠️ Mismatches: ${mismatches.length}\n` + mismatches.join('\n') : `\n  ✅ All expected matches correct.`);
   const tensionExpected = ["Diverge-A1hiA2lo", "Diverge-A1loA2hi", "Diverge-B1hiB2lo", "Diverge-B1loB2hi"]; let tMiss = 0; for (const r of res) { if (tensionExpected.includes(r.name) && !r.has_tension) { console.log(`  ⚠️ TENSION REGRESSION: ${r.name}`); tMiss++; } } if (!tMiss) console.log(`  ✅ Tension guard passes.`);
   if (threshCount > total * 0.2) console.log(`  ⚠️ High Reflection rate: ${threshCount}/${total}.`);
-  console.log(`\n  Irreducible: (a) no validation data, (b) A1/A2 split unvalidated, (c) Unbiased Processing not captured, (d) self-report ceiling.`);
+  // v0.23 commitment analysis
+  const commitCounts = { committed: 0, exploring: 0, open: 0 };
+  for (const r of res) { if (r.commitment_label in commitCounts) commitCounts[r.commitment_label as keyof typeof commitCounts]++; }
+  console.log(`\n  v0.23 Commitment distribution: committed=${commitCounts.committed} exploring=${commitCounts.exploring} open=${commitCounts.open}`);
+  console.log(`  Note: existing respondents have commitment center=4 (neutral → "exploring"). Targeted tests below.`);
+
+  // v0.23 TARGETED COMMITMENT VALIDATION
+  console.log(`\n  v0.23 COMMITMENT VALIDATION (targeted non-neutral commitment):`);
+  const commitTests: { name: string; c: number; exp: string }[] = [
+    { name: "High-Commitment", c: 6, exp: "committed" },
+    { name: "Low-Commitment",  c: 2, exp: "open" },
+    { name: "Medium",           c: 4, exp: "exploring" },
+    { name: "Borderline-Hi",   c: 5, exp: "committed" },
+    { name: "Borderline-Lo",   c: 3, exp: "open" },
+  ];
+  for (const t of commitTests) {
+    const orient = new Array(ITEMS.length).fill(0).map(() => choice([1, -1]));
+    const raw: number[] = [];
+    for (let i = 0; i < ITEMS.length; i++) {
+      const c = ITEMS[i].facet === "C" ? t.c : 4;
+      const trait = clamp(gauss(c, 0.3), 1, 7);
+      raw.push(orient[i] === 1 ? trait : (8 - trait));
+    }
+    const r = score(raw, orient);
+    r.name = t.name;
+    const ok = r.commitment_label === t.exp;
+    console.log(`    ${ok ? "✅" : "⚠️"} ${t.name.padEnd(18)} c=${t.c} → commitment=${r.commitment_score.toFixed(0)} (${r.commitment_label})${ok ? "" : " (expected " + t.exp + ")"}`);
+  }
+
+  console.log(`\n  Irreducible: (a) no validation data, (b) A1/A2 split unvalidated, (c) Unbiased Processing not captured, (d) self-report ceiling, (e) v0.23 commitment is our synthesis (Marcia grounded).`);
 }
 analyze(results); exportCsv(results, "ssa-sim-results.csv"); exportCsv(results16, "ssa-sim-results-16.csv");
 function exportCsv(res: ScoreResult[], filename: string): void { const rows: string[][] = [["name", "A1_score", "A2_score", "A_score", "B1_score", "B2_score", "B_score", "a_off", "b_off", "distance", "prototypicality", "angle_deg", "quadrant", "gradation", "is_near_center", "has_tension", "result_type", "result_label", "facet_A_dominant", "facet_B_dominant"]]; for (const r of res) { const nc = r.is_near_center, label = r.result_type === "Reflection" ? (r.has_tension ? "Reflection+tension" : "Reflection") : `${r.gradation} ${r.quadrant_name}`; rows.push([r.name, r.facets.A1.score.toFixed(2), r.facets.A2.score.toFixed(2), r.axis.A.score.toFixed(2), r.facets.B1.score.toFixed(2), r.facets.B2.score.toFixed(2), r.axis.B.score.toFixed(2), r.a_off.toFixed(2), r.b_off.toFixed(2), r.distance.toFixed(2), r.prototypicality.toFixed(4), r.angle_deg.toFixed(2), nc ? "N/A" : r.quadrant_name, nc ? "N/A" : r.gradation, r.is_near_center ? "TRUE" : "FALSE", r.has_tension ? "TRUE" : "FALSE", r.result_type, label, r.contrib.A.dominant, r.contrib.B.dominant]); } const csv = rows.map(row => row.map(c => `"${c}"`).join(",")).join("\n"); Bun.write(filename, csv); console.log(`\n  Exported: ${filename}`); }

@@ -6,7 +6,7 @@
 
 Time is the medium every life moves through. Some people are anchored in where they came from, carrying their roots as a living thing. Some live fully in the present, for whom the ordinary is alive. Some are pulled forward, oriented toward horizons and possibility. And most people engage more than one of these zones, in patterns the time-perspective literature has studied for decades.
 
-The Passage of Time Assessment measures how you engage with the three temporal zones: the past, the present, and the future. It does not force them into a single line or a two-axis grid, because time perspective is not a single dimension or a plane. It is three distinct factors, confirmed across 24 countries, each scored independently. From your three scores, the assessment places you in one of eight temporal types. Every position is valid. The test is built on specific, full-text-verified research on time perspective, and this article explains what it measures, why it was designed the way it was, and what the research actually says.
+The Passage of Time Assessment measures how you engage with the three temporal zones: the past, the present, and the future. It does not force them into a single line or a two-axis grid, because time perspective is not a single dimension or a plane. It is three distinct factors, confirmed across 24 countries, each scored independently. It also measures (v0.23) your **temporal stance**: how you relate to the passage of time itself — whether you experience it as resource, weight, gift, or mystery. From your zone engagement and your stance, the assessment places you in one of eight temporal types.
 
 ---
 
@@ -135,6 +135,8 @@ The PTA takes about 6 to 8 minutes for the standard 24-item form, or 3 to 4 minu
 The test is designed for reflective self-discovery. It is not a clinical instrument. It cannot diagnose anything. It should not be used for retirement planning, employment decisions, relationship matching, or any high-stakes real-world application. A short disclaimer stating this accompanies every result.
 
 Four limitations deserve explicit mention.
+
+**v0.23 addition.** Fifth, the temporal-stance layer (v0.23) measures stance toward the passage itself (resource, weight, gift, mystery), grounded in Carstensen's (2021) validated perceived-time-horizons construct. The four-stance typology and its combination with the zone factors are our synthesis and are unvalidated. The "weight" stance brushes the affirming scope limit (passage-as-burden can shade into hopelessness) and is reframed with a scope note. Carstensen's perceived horizons correlate with age; the stance layer will too, and that is stated in the result.
 
 First, the test measures the affirming range of time perspective only and cannot detect rumination, hopelessness, or anxious dread about the future. This is the binding scope limit of the suite, stated at framework level and surfaced on every result screen.
 
