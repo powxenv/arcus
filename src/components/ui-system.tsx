@@ -53,10 +53,10 @@ export function Hero({
       <h1 className="text-5xl sm:text-6xl font-black leading-[0.95] text-balance">
         {title}
       </h1>
-      <div className="text-xl text-default-500 max-w-2xl leading-relaxed text-pretty">
+      <p className="text-xl text-default-500 max-w-2xl leading-relaxed text-pretty">
         {children}
-      </div>
-      {meta ? <div className="text-sm text-default-400">{meta}</div> : null}
+      </p>
+      {meta ? <p className="text-sm text-default-400">{meta}</p> : null}
     </header>
   );
 }
@@ -77,9 +77,9 @@ export function Section({
           {title}
         </h2>
         {intro ? (
-          <div className="text-lg text-default-600 leading-relaxed max-w-2xl text-pretty">
+          <p className="text-lg text-default-600 leading-relaxed max-w-2xl text-pretty">
             {intro}
-          </div>
+          </p>
         ) : null}
       </div>
       {children}
@@ -89,9 +89,9 @@ export function Section({
 
 export function TextBlock({ children }: { children: ReactNode }) {
   return (
-    <div className="flex flex-col gap-4 text-lg text-default-600 leading-relaxed text-pretty">
+    <p className="flex flex-col gap-4 text-lg text-default-600 leading-relaxed text-pretty">
       {children}
-    </div>
+    </p>
   );
 }
 
