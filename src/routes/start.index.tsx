@@ -10,7 +10,25 @@ import {
 } from "../lib/assessment-progress";
 import { Hero, PageShell, PageStack, Section, Surface } from "../components/ui-system";
 
-export const Route = createFileRoute("/start/")({ component: Start });
+export const Route = createFileRoute("/start/")({
+  component: Start,
+  head: () => ({
+    meta: [
+      { title: "Take an assessment — Arcus" },
+      {
+        name: "description",
+        content:
+          "Four assessments. Take any of them first, in any order, at your own pace. Explore your energy, thinking, identity, and relationship with time.",
+      },
+      { property: "og:title", content: "Take an assessment — Arcus" },
+      {
+        property: "og:description",
+        content:
+          "Four assessments. Take any of them first, in any order.",
+      },
+    ],
+  }),
+});
 
 const assessments = Object.values(ASSESSMENTS);
 

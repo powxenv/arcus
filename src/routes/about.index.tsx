@@ -11,7 +11,25 @@ import {
   TextBlock,
 } from "../components/ui-system";
 
-export const Route = createFileRoute("/about/")({ component: About });
+export const Route = createFileRoute("/about/")({
+  component: About,
+  head: () => ({
+    meta: [
+      { title: "About Arcus — Personality is a trajectory, not a type" },
+      {
+        name: "description",
+        content:
+          "Arcus was built to show where you stand and which direction you're heading. Four assessments, each measuring a different part of who you are.",
+      },
+      { property: "og:title", content: "About Arcus" },
+      {
+        property: "og:description",
+        content:
+          "Arcus shows where you stand and which direction you're heading across energy, thinking, identity, and time.",
+      },
+    ],
+  }),
+});
 
 function About() {
   return (

@@ -25,6 +25,19 @@ import { PageShell } from "../components/ui-system";
 
 export const Route = createFileRoute("/assessment/$key/take/")({
   component: AssessmentTake,
+  head: ({ params }) => {
+    const set = getQuestionSet(params.key);
+    const name = set?.shortName ?? params.key;
+    const desc = set?.summary ?? "Take this personality assessment and discover where you stand.";
+    return {
+      meta: [
+        { title: `${name} — Arcus` },
+        { name: "description", content: desc },
+        { property: "og:title", content: `${name} — Arcus` },
+        { property: "og:description", content: desc },
+      ],
+    };
+  },
 });
 
 type Phase = "loading" | "questions" | "results";

@@ -9,7 +9,25 @@ import { buttonVariants } from "@heroui/react";
 import { ASSESSMENTS } from "../components/assessment-data";
 import { AssessmentStartModal } from "../components/assessment-start-modal";
 
-export const Route = createFileRoute("/")({ component: Home });
+export const Route = createFileRoute("/")({
+  component: Home,
+  head: () => ({
+    meta: [
+      { title: "Arcus — See the arc you're on" },
+      {
+        name: "description",
+        content:
+          "Four personality assessments that show where you stand and which direction you're heading across energy, thinking, identity, and time.",
+      },
+      { property: "og:title", content: "Arcus — See the arc you're on" },
+      {
+        property: "og:description",
+        content:
+          "Four assessments that show where you stand and which direction you're heading.",
+      },
+    ],
+  }),
+});
 
 const CARDS = [
   {

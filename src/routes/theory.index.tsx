@@ -16,7 +16,25 @@ import {
   Surface,
 } from "../components/ui-system";
 
-export const Route = createFileRoute("/theory/")({ component: Theory });
+export const Route = createFileRoute("/theory/")({
+  component: Theory,
+  head: () => ({
+    meta: [
+      { title: "How Arcus works — Theory" },
+      {
+        name: "description",
+        content:
+          "Each assessment draws from published psychology research. Learn why Arcus measures four different parts of a person, and how the assessments work together.",
+      },
+      { property: "og:title", content: "How Arcus works — Theory" },
+      {
+        property: "og:description",
+        content:
+          "Each assessment draws from published psychology research. Learn how Arcus works.",
+      },
+    ],
+  }),
+});
 
 type Theme = {
   key: string;

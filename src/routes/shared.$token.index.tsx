@@ -9,6 +9,22 @@ import { ResultView } from "../components/result-view";
 
 export const Route = createFileRoute("/shared/$token/")({
   component: SharedResult,
+  head: () => ({
+    meta: [
+      { title: "Shared result — Arcus" },
+      {
+        name: "description",
+        content:
+          "A shared personality assessment result from Arcus — a snapshot for reflection, not a clinical label.",
+      },
+      { property: "og:title", content: "Shared result — Arcus" },
+      {
+        property: "og:description",
+        content:
+          "A shared personality assessment result from Arcus.",
+      },
+    ],
+  }),
   loader: async ({ params }) => {
     // Loader runs server-side on first paint; client-side on navigation.
     // Server functions are isomorphic and safe to call from either context.
