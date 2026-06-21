@@ -126,7 +126,7 @@ export function CardLink(
   return (
     <Link
       {...linkProps}
-      className={`bg-white rounded-2xl border-[.5px] border-default-200 p-5 transition-colors hover:bg-default-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange-600 ${
+      className={`bg-white rounded-2xl border-[.5px] border-default-200 p-5 transition-colors hover:bg-default-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent ${
         className ?? ""
       }`}
     >

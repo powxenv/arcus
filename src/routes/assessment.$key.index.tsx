@@ -130,7 +130,7 @@ function AssessmentDetail() {
           <Surface className="flex flex-col gap-2">
             {data.scoring.map((s, i) => (
               <p key={i} className="text-sm text-default-600 leading-relaxed flex gap-2">
-                <span className="text-orange-600 font-bold shrink-0">+</span>
+                <span className="text-accent font-bold shrink-0">+</span>
                 {s}
               </p>
             ))}
@@ -189,7 +189,7 @@ function AssessmentDetail() {
                   key={i}
                   className="text-sm text-default-600 flex gap-2 leading-relaxed"
                 >
-                  <span className="text-orange-600 font-bold shrink-0">+</span>
+                  <span className="text-accent font-bold shrink-0">+</span>
                   <span>{tip}</span>
                 </li>
               ))}

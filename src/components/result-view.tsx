@@ -220,7 +220,7 @@ export function ResultView({
                     </div>
                     <div className="h-1.5 rounded-full bg-default-200 overflow-hidden">
                       <div
-                        className="h-full bg-orange-600 rounded-full"
+                        className="h-full bg-accent rounded-full"
                         style={{ width: `${score.value}%` }}
                       />
                     </div>

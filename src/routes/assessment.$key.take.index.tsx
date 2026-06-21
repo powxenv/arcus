@@ -3,16 +3,8 @@ import { useCallback, useEffect, useState } from "react";
 import { buttonVariants } from "@heroui/react";
 import SolarArrowLeftLineDuotone from "~icons/solar/arrow-left-line-duotone";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
-import SolarCheckCircleLineDuotone from "~icons/solar/check-circle-line-duotone";
 import { getQuestionSet } from "../data/questions";
-import type {
-  BipolarQuestion,
-  CrtQuestion,
-  HeuristicQuestion,
-  Question,
-  StanceQuestion,
-  UnipolarQuestion,
-} from "../data/questions";
+import type { Question } from "../data/questions";
 import {
   clearProgress,
   loadProgress,
@@ -28,7 +20,9 @@ export const Route = createFileRoute("/assessment/$key/take/")({
   head: ({ params }) => {
     const set = getQuestionSet(params.key);
     const name = set?.shortName ?? params.key;
-    const desc = set?.summary ?? "Take this personality assessment and discover where you stand.";
+    const desc =
+      set?.summary ??
+      "Take this personality assessment and discover where you stand.";
     return {
       meta: [
         { title: `${name} — Arcus` },
@@ -53,6 +47,7 @@ function AssessmentTake() {
   const [result, setResult] = useState<AssessmentResult | null>(null);
 
   const total = set?.questions.length ?? 0;
+  const current = set?.questions[index];
 
   useEffect(() => {
     if (!set) {
@@ -98,29 +93,82 @@ function AssessmentTake() {
     [set],
   );
 
-  const current = set?.questions[index];
+  const advance = useCallback(() => {
+    const nextIdx = index + 1;
+    setIndex(nextIdx);
+    if (nextIdx >= total) finish(answers);
+  }, [finish, index, total, answers]);
 
-  const advance = useCallback(
-    (nextAnswers: Answers) => {
-      const nextIndex = index + 1;
-      setIndex(nextIndex);
-      if (nextIndex >= total) finish(nextAnswers);
-    },
-    [finish, index, total],
-  );
+  const goBack = useCallback(() => {
+    if (index > 0) setIndex(index - 1);
+  }, [index]);
 
   const answer = useCallback(
-    (question: Question, value: number | string) => {
-      if (!set) return;
-      const nextAnswers = { ...answers, [question.id]: value };
+    (value: number | string) => {
+      if (!set || !current) return;
+      const nextAnswers = { ...answers, [current.id]: value };
       setAnswers(nextAnswers);
-      // CRT and heuristics need an explicit Continue (free-text / no default
-      // selection). Others auto-advance on pick for flow.
-      if (question.type === "crt" || question.type === "heuristic") return;
-      advance(nextAnswers);
+      const nextIdx = index + 1;
+      if (nextIdx >= total) {
+        finish(nextAnswers);
+      } else {
+        setIndex(nextIdx);
+      }
     },
-    [advance, answers, set],
+    [current, set, index, total, answers, finish],
   );
+
+  const currentAnswer = current ? answers[current.id] : undefined;
+  const hasAnswer = currentAnswer !== undefined && currentAnswer !== null;
+
+  // Keyboard shortcuts
+  useEffect(() => {
+    if (phase !== "questions" || !current) return;
+
+    const onKey = (e: KeyboardEvent) => {
+      // Never intercept when typing into an input.
+      const tag = (e.target as HTMLElement)?.tagName;
+      if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT") return;
+
+      // ArrowRight / Enter → next (when answered).
+      if ((e.key === "ArrowRight" || e.key === "Enter") && hasAnswer) {
+        e.preventDefault();
+        advance();
+        return;
+      }
+      // ArrowLeft / Backspace → previous.
+      if ((e.key === "ArrowLeft" || e.key === "Backspace") && index > 0) {
+        e.preventDefault();
+        goBack();
+        return;
+      }
+
+      // Number keys → select answer.
+      const n = Number(e.key);
+      if (!Number.isNaN(n) && n >= 1) {
+        if (current.type === "bipolar" || current.type === "unipolar") {
+          const max = current.scale;
+          if (n <= max) {
+            e.preventDefault();
+            answer(n);
+          }
+        } else if (
+          current.type === "crt" ||
+          current.type === "heuristic" ||
+          current.type === "stance"
+        ) {
+          const options = choiceOptions(current);
+          if (n <= options.length) {
+            e.preventDefault();
+            answer(options[n - 1].key);
+          }
+        }
+      }
+    };
+
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [phase, current, hasAnswer, advance, goBack, answer, index]);
 
   const startFresh = useCallback(() => {
     setAnswers({});
@@ -156,19 +204,42 @@ function AssessmentTake() {
     );
   }
 
-  // phase === "questions"
   return (
     <PageShell size="sm">
-      <div className="flex flex-col gap-10">
+      <div className="flex flex-col gap-8">
         <ProgressBar current={index + 1} total={total} />
+
+        <nav className="flex items-center justify-between gap-2 min-h-10">
+          <div>
+            {index > 0 ? (
+              <button
+                type="button"
+                className={buttonVariants({ variant: "ghost", size: "sm" })}
+                onClick={goBack}
+              >
+                <SolarArrowLeftLineDuotone />
+                Back
+              </button>
+            ) : null}
+          </div>
+
+          {hasAnswer ? (
+            <button
+              type="button"
+              className={buttonVariants({ size: "sm" })}
+              onClick={advance}
+            >
+              Next
+              <SolarArrowRightLineDuotone />
+            </button>
+          ) : null}
+        </nav>
 
         {current ? (
           <QuestionView
             question={current}
-            answers={answers}
-            onPick={(value) => answer(current, value)}
-            onContinue={() => advance(answers)}
-            onBack={index > 0 ? () => setIndex(index - 1) : undefined}
+            selected={currentAnswer}
+            onPick={answer}
           />
         ) : null}
       </div>
@@ -176,20 +247,21 @@ function AssessmentTake() {
   );
 }
 
+// ── Progress ─────────────────────────────────────────────────────────────────
+
 function ProgressBar({ current, total }: { current: number; total: number }) {
-  const pct =
-    total > 0 ? Math.min(100, Math.round((current / total) * 100)) : 0;
+  const pct = total > 0 ? Math.round((current / total) * 100) : 0;
   return (
-    <div className="flex flex-col gap-1.5">
-      <p className="flex items-center justify-between text-sm text-default-400">
-        <span>
-          Question {Math.min(current, total)} of {total}
+    <div className="flex flex-col gap-2">
+      <p className="flex items-baseline gap-1 text-sm text-default-500">
+        <span className="tabular-nums font-semibold text-default-700">
+          {Math.min(current, total)}
         </span>
-        <span className="tabular-nums">{pct}%</span>
+        <span>of {total}</span>
       </p>
-      <div className="h-1 rounded-full bg-default-200 overflow-hidden">
+      <div className="h-1.5 rounded-full bg-default-200 overflow-hidden">
         <div
-          className="h-full bg-orange-600 rounded-full transition-all"
+          className="h-full bg-accent rounded-full transition-all duration-300"
           style={{ width: `${pct}%` }}
         />
       </div>
@@ -197,138 +269,134 @@ function ProgressBar({ current, total }: { current: number; total: number }) {
   );
 }
 
+// ── Question + Input ────────────────────────────────────────────────────────
+
 function QuestionView({
   question,
-  answers,
+  selected,
   onPick,
-  onContinue,
-  onBack,
 }: {
   question: Question;
-  answers: Answers;
+  selected?: number | string;
   onPick: (value: number | string) => void;
-  onContinue: () => void;
-  onBack?: () => void;
 }) {
-  const selected = answers[question.id];
-  const needsContinue = question.type === "crt" || question.type === "heuristic";
-
   return (
-    <div className="flex flex-col gap-8">
+    <div className="flex flex-col gap-6">
       <Prompt question={question} />
 
-      {question.type === "bipolar" ? (
-        <BipolarInput
-          question={question}
+      {question.type === "bipolar" || question.type === "unipolar" ? (
+        <NumberScale
+          count={question.type === "bipolar" ? 7 : 5}
           selected={typeof selected === "number" ? selected : undefined}
           onSelect={onPick}
-        />
-      ) : question.type === "unipolar" ? (
-        <UnipolarInput
-          question={question}
-          selected={typeof selected === "number" ? selected : undefined}
-          onSelect={onPick}
-        />
-      ) : question.type === "crt" ? (
-        <CrtInput
-          question={question}
-          selected={typeof selected === "string" ? selected : undefined}
-          onSelect={onPick}
-        />
-      ) : question.type === "heuristic" ? (
-        <HeuristicInput
-          question={question}
-          selected={selected === "A" || selected === "B" ? selected : undefined}
-          onSelect={onPick}
+          labels={
+            question.type === "bipolar"
+              ? [question.poleB, question.poleA]
+              : ["Strongly disagree", "Strongly agree"]
+          }
         />
       ) : (
-        <StanceInput
-          question={question}
+        <ChoiceList
+          options={choiceOptions(question)}
           selected={typeof selected === "string" ? selected : undefined}
           onSelect={onPick}
         />
       )}
-
-      <div className="flex items-center justify-between pt-2">
-        {onBack ? (
-          <button
-            type="button"
-            className={buttonVariants({ variant: "ghost", size: "sm" })}
-            onClick={onBack}
-          >
-            <SolarArrowLeftLineDuotone />
-            Back
-          </button>
-        ) : (
-          <span />
-        )}
-        {needsContinue ? (
-          <button
-            type="button"
-            className={buttonVariants({ size: "sm" })}
-            onClick={onContinue}
-          >
-            Continue
-            <SolarArrowRightLineDuotone />
-          </button>
-        ) : (
-          <span />
-        )}
-      </div>
     </div>
   );
 }
 
+function choiceOptions(question: Question): { key: string; label: string }[] {
+  if (question.type === "crt") {
+    return [
+      { key: "correct", label: question.correctAnswer },
+      { key: "intuitive", label: question.intuitiveAnswer },
+    ];
+  }
+  if (question.type === "heuristic") {
+    return [
+      { key: "A", label: question.optionA },
+      { key: "B", label: question.optionB },
+    ];
+  }
+  if (question.type === "stance") {
+    return question.options.map((o) => ({ key: o.value, label: o.label }));
+  }
+  return [];
+}
+
 function Prompt({ question }: { question: Question }) {
-  // The question itself is always the largest, most prominent element on the
-  // screen. Helper text ("which would you choose", the pole anchors) stays
-  // quiet so it never competes with the thing the user is actually answering.
   if (question.type === "bipolar") {
-    // The stem sets up a sentence the two poles finish. So the stem *is* the
-    // question, and it owns the focal heading.
     return (
       <h1 className="text-2xl sm:text-3xl font-bold leading-snug text-balance">
         {question.stem}
       </h1>
     );
   }
-  if (question.type === "unipolar") {
-    return (
-      <h1 className="text-2xl sm:text-3xl font-bold leading-snug text-balance">
-        {question.statement}
-      </h1>
-    );
-  }
-  if (question.type === "crt") {
-    return (
-      <h1 className="text-2xl sm:text-3xl font-bold leading-snug text-balance">
-        {question.prompt}
-      </h1>
-    );
-  }
   if (question.type === "heuristic") {
-    // The scenario is the question. The "which would you choose" label is a
-    // small cue, not a competing headline.
     return (
       <div className="flex flex-col gap-2">
-        <span className="text-sm text-default-400 uppercase tracking-wide">
-          Which would you choose?
-        </span>
-        <h1 className="text-xl sm:text-2xl font-semibold leading-snug text-default-800 text-pretty">
+        <span className="text-sm text-default-400">Which would you choose?</span>
+        <h1 className="text-2xl sm:text-3xl font-bold leading-snug text-balance">
           {question.scenario}
         </h1>
       </div>
     );
   }
-  // stance
   return (
     <h1 className="text-2xl sm:text-3xl font-bold leading-snug text-balance">
-      {question.prompt}
+      {question.type === "unipolar"
+        ? question.statement
+        : question.prompt}
     </h1>
   );
 }
 
-function Segmented({
+// ── Unified answer components ───────────────────────────────────────────────
+
+type Option = { key: string; label: string };
+
+function OptionCard({
+  prefix,
+  label,
+  active,
+  onSelect,
+}: {
+  prefix?: number;
+  label?: string;
+  active: boolean;
+  onSelect: () => void;
+}) {
+  const base =
+    "flex items-center gap-3 w-full text-left rounded-2xl border-[.5px] p-4 transition-colors";
+  const activeCls = active
+    ? "bg-accent-soft text-accent-soft-foreground border-accent"
+    : "bg-white text-default-800 border-default-200 hover:border-accent hover:bg-accent-soft";
+
+  return (
+    <button
+      type="button"
+      aria-pressed={active}
+      onClick={onSelect}
+      className={`${base} ${activeCls}`}
+    >
+      {prefix !== undefined ? (
+        <span
+          className={
+            active
+              ? "w-8 shrink-0 text-center tabular-nums text-lg font-bold"
+              : "w-8 shrink-0 text-center tabular-nums text-lg font-semibold text-default-400"
+          }
+        >
+          {prefix}
+        </span>
+      ) : null}
+      {label ? <span className="flex-1 font-medium">{label}</span> : null}
+    </button>
+  );
+}
+
+function NumberScale({
   count,
   selected,
   onSelect,
@@ -337,29 +405,24 @@ function Segmented({
   count: number;
   selected?: number;
   onSelect: (value: number) => void;
-  labels: string[];
+  labels: [string, string];
 }) {
   return (
-    <div className="grid gap-2" style={{ gridTemplateColumns: `repeat(${count}, minmax(0, 1fr))` }}>
-      {[1, 2, 3, 4, 5, 6, 7].slice(0, count).map((value) => {
-        const active = selected === value;
-        return (
-          <button
+    <div className="flex flex-col gap-3">
+      <div
+        className="grid gap-2"
+        style={{ gridTemplateColumns: `repeat(${count}, minmax(0, 1fr))` }}
+      >
+        {Array.from({ length: count }, (_, i) => i + 1).map((value) => (
+          <OptionCard
             key={value}
-            type="button"
-            aria-pressed={active}
-            onClick={() => onSelect(value)}
-            className={
-              active
-                ? "h-14 rounded-xl bg-orange-600 text-white font-bold border-[.5px] border-orange-600 transition-colors"
-                : "h-14 rounded-xl bg-white text-default-700 font-semibold border-[.5px] border-default-200 hover:border-orange-400 hover:bg-default-50 transition-colors"
-            }
-          >
-            {value}
-          </button>
-        );
-      })}
-      <div className="col-span-full flex items-center justify-between text-base font-medium text-default-700 px-1">
+            prefix={value}
+            active={selected === value}
+            onSelect={() => onSelect(value)}
+          />
+        ))}
+      </div>
+      <div className="flex items-center justify-between text-sm text-default-500 font-medium px-1">
         <span>{labels[0]}</span>
         <span>{labels[1]}</span>
       </div>
@@ -367,153 +430,25 @@ function Segmented({
   );
 }
 
-function BipolarInput({
-  question,
+function ChoiceList({
+  options,
   selected,
   onSelect,
 }: {
-  question: BipolarQuestion;
-  selected?: number;
-  onSelect: (value: number) => void;
-}) {
-  return (
-    <Segmented
-      count={7}
-      selected={selected}
-      onSelect={onSelect}
-      labels={[question.poleB, question.poleA]}
-    />
-  );
-}
-
-const UNIPOLAR_LABELS = ["Strongly disagree", "Strongly agree"];
-
-function UnipolarInput({
-  selected,
-  onSelect,
-}: {
-  question: UnipolarQuestion;
-  selected?: number;
-  onSelect: (value: number) => void;
-}) {
-  return (
-    <Segmented count={5} selected={selected} onSelect={onSelect} labels={UNIPOLAR_LABELS} />
-  );
-}
-
-function CrtInput({
-  question,
-  selected,
-  onSelect,
-}: {
-  question: CrtQuestion;
-  selected?: string;
-  onSelect: (value: string) => void;
-}) {
-  const options: { key: string; label: string }[] = [
-    { key: "correct", label: question.correctAnswer },
-    { key: "intuitive", label: question.intuitiveAnswer },
-  ];
-  return (
-    <div className="flex flex-col gap-2">
-      {options.map((option) => {
-        const active = selected === option.key;
-        return (
-          <button
-            key={option.key}
-            type="button"
-            aria-pressed={active}
-            onClick={() => onSelect(option.key)}
-            className={
-              active
-                ? "flex items-center gap-3 p-4 rounded-2xl bg-orange-600 text-white border-[.5px] border-orange-600 text-left transition-colors"
-                : "flex items-center gap-3 p-4 rounded-2xl bg-white text-default-800 border-[.5px] border-default-200 hover:border-orange-400 hover:bg-default-50 text-left transition-colors"
-            }
-          >
-            <span className="flex-1 font-medium">{option.label}</span>
-            {active ? (
-              <SolarCheckCircleLineDuotone className="size-5 shrink-0" />
-            ) : null}
-          </button>
-        );
-      })}
-    </div>
-  );
-}
-
-function HeuristicInput({
-  question,
-  selected,
-  onSelect,
-}: {
-  question: HeuristicQuestion;
-  selected?: "A" | "B";
-  onSelect: (value: "A" | "B") => void;
-}) {
-  const options: { key: "A" | "B"; label: string }[] = [
-    { key: "A", label: question.optionA },
-    { key: "B", label: question.optionB },
-  ];
-  return (
-    <div className="flex flex-col gap-2">
-      {options.map((option) => {
-        const active = selected === option.key;
-        return (
-          <button
-            key={option.key}
-            type="button"
-            aria-pressed={active}
-            onClick={() => onSelect(option.key)}
-            className={
-              active
-                ? "flex items-center gap-3 p-4 rounded-2xl bg-orange-600 text-white border-[.5px] border-orange-600 text-left transition-colors"
-                : "flex items-center gap-3 p-4 rounded-2xl bg-white text-default-800 border-[.5px] border-default-200 hover:border-orange-400 hover:bg-default-50 text-left transition-colors"
-            }
-          >
-            <span className="flex-1 font-medium">{option.label}</span>
-            {active ? (
-              <SolarCheckCircleLineDuotone className="size-5 shrink-0" />
-            ) : null}
-          </button>
-        );
-      })}
-    </div>
-  );
-}
-
-function StanceInput({
-  question,
-  selected,
-  onSelect,
-}: {
-  question: StanceQuestion;
+  options: Option[];
   selected?: string;
   onSelect: (value: string) => void;
 }) {
   return (
     <div className="flex flex-col gap-2">
-      {question.options.map((option) => {
-        const active = selected === option.value;
-        return (
-          <button
-            key={option.value}
-            type="button"
-            aria-pressed={active}
-            onClick={() => onSelect(option.value)}
-            className={
-              active
-                ? "flex items-center gap-3 p-4 rounded-2xl bg-orange-600 text-white border-[.5px] border-orange-600 text-left transition-colors"
-                : "flex items-center gap-3 p-4 rounded-2xl bg-white text-default-800 border-[.5px] border-default-200 hover:border-orange-400 hover:bg-default-50 text-left transition-colors"
-            }
-          >
-            <span className="flex-1 font-medium">{option.label}</span>
-            {active ? (
-              <SolarCheckCircleLineDuotone className="size-5 shrink-0" />
-            ) : null}
-          </button>
-        );
-      })}
+      {options.map((option) => (
+        <OptionCard
+          key={option.key}
+          label={option.label}
+          active={selected === option.key}
+          onSelect={() => onSelect(option.key)}
+        />
+      ))}
     </div>
   );
 }
-

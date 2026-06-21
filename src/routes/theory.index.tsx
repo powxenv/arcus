@@ -174,7 +174,7 @@ function Theory() {
                   <ul className="flex flex-col gap-2">
                     {t.measures.map((m, i) => (
                       <li key={i} className="text-sm text-default-600 flex gap-2">
-                        <span className="text-orange-600 font-bold">+</span>
+                        <span className="text-accent font-bold">+</span>
                         {m}
                       </li>
                     ))}
