@@ -12,6 +12,7 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as TheoryRouteImport } from './routes/theory'
 import { Route as AboutRouteImport } from './routes/about'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as AssessmentKeyRouteImport } from './routes/assessment.$key'
 
 const TheoryRoute = TheoryRouteImport.update({
   id: '/theory',
@@ -28,35 +29,44 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AssessmentKeyRoute = AssessmentKeyRouteImport.update({
+  id: '/assessment/$key',
+  path: '/assessment/$key',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/theory': typeof TheoryRoute
+  '/assessment/$key': typeof AssessmentKeyRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/theory': typeof TheoryRoute
+  '/assessment/$key': typeof AssessmentKeyRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/theory': typeof TheoryRoute
+  '/assessment/$key': typeof AssessmentKeyRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/about' | '/theory'
+  fullPaths: '/' | '/about' | '/theory' | '/assessment/$key'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/about' | '/theory'
-  id: '__root__' | '/' | '/about' | '/theory'
+  to: '/' | '/about' | '/theory' | '/assessment/$key'
+  id: '__root__' | '/' | '/about' | '/theory' | '/assessment/$key'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
   TheoryRoute: typeof TheoryRoute
+  AssessmentKeyRoute: typeof AssessmentKeyRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -82,6 +92,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/assessment/$key': {
+      id: '/assessment/$key'
+      path: '/assessment/$key'
+      fullPath: '/assessment/$key'
+      preLoaderRoute: typeof AssessmentKeyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
@@ -89,6 +106,7 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
   TheoryRoute: TheoryRoute,
+  AssessmentKeyRoute: AssessmentKeyRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

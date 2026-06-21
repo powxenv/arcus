@@ -8,4 +8,11 @@
     "enabled": true,
   },
   "keep_vars": true,
+  "d1_databases": [
+    {
+      "binding": "ARCUS_PROD",
+      "database_name": "arcus-prod",
+      "database_id": "5d0102d9-2f28-40a1-acdb-000b3ef7a238",
+    },
+  ],
 }

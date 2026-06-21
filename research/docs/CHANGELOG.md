@@ -2,6 +2,31 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.25 (2026-06-21): Non-landing page consistency audit
+
+Why: the landing page should remain the visual centerpiece, while the supporting pages need to feel like one coherent reading and learning system.
+
+Changes:
+
+- Preserved the landing page's distinct presentation.
+- Aligned About, Theory, and assessment detail pages around shared page width, hero structure, section rhythm, heading scale, CTA structure, and card/link patterns.
+- Added shared `TextBlock`, `CardLink`, and `PageCta` primitives to reduce one-off layout decisions.
+- Standardized eyebrow usage on supporting pages: About uses `About`, Theory uses `Theory`, and assessment pages use the assessment domain.
+- Replaced remaining custom card-link markup on supporting pages with the shared card link pattern.
+- Updated the document title from the TanStack starter default to Arcus.
+
+## v0.24 (2026-06-21): Product UI consistency pass and expanded assessment result explanations
+
+Why: the landing, theory, about, and assessment detail pages had drifted into slightly different typography, spacing, card, and CTA patterns. The assessment detail pages also listed result types without enough interpretation for users who want to understand what their outcome means.
+
+Changes:
+
+- Added a shared UI system module for page shells, heroes, sections, surfaces, quiet callouts, and button-like links built with TanStack `Link` plus HeroUI `buttonVariants`.
+- Updated landing page CTAs and assessment cards to use the same button-link approach as the header and to route to assessment detail pages.
+- Brought landing, about, theory, and assessment detail pages onto a consistent heading scale, spacing rhythm, surface style, and restrained color system.
+- Reworked the assessment detail pages so every result outcome includes a detailed meaning, interpretation guidance, and explanation of how it differs from adjacent outcomes.
+- Reduced repeated explanatory structure across pages while keeping deeper content available on the dedicated assessment pages.
+
 ## v0.23 (2026-06-19): Depth re-derivation — each test now measures the tension inside its theme
 
 Why: the v0.22 framework was defensible but shallow. Each test measured the easiest component of its theme and stopped there. A deep re-derivation from the theme up, grounded in 9 newly-verified PDFs (Kuppens 2010; Hamaker 2015; Koval 2013; Vazire 2010; Beer & Vazire 2017; Carlson et al. 2013; Gigerenzer & Gaissmaier 2011; Luan et al. 2011; Todd & Hills 2020), plus the existing verified corpus, found that each theme actually names a **tension**, not a single construct:
