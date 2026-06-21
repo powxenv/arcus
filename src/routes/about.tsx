@@ -97,7 +97,7 @@ function About() {
         <PageCta
           title="Ready to see your arc?"
           action={
-            <ButtonLink to="/" size="lg">
+            <ButtonLink to="/start" size="lg">
               <SolarPlayLineDuotone />
               Take a test
             </ButtonLink>

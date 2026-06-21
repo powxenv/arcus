@@ -2,6 +2,19 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.26 (2026-06-21): Assessment entry page and start confirmation flow
+
+Why: primary CTAs needed to lead to one clear assessment entry point, and individual assessment starts needed a confirmation step before beginning.
+
+Changes:
+
+- Added `/start` as the shared assessment entry page for choosing the complete Arcus experience or individual assessments.
+- Updated the header primary CTA and landing hero primary CTA to both navigate to `/start`.
+- Added HeroUI Modal-based start confirmations for individual assessment Start buttons, including question count, estimated time, domain, overview, and core question.
+- Added a complete-experience confirmation modal from the `/start` page.
+- Added dedicated placeholder entry routes for confirmed starts: `/assessment/$key/take` and `/start/complete`.
+- Updated individual assessment Start buttons on the landing page and assessment detail pages to use the confirmation flow.
+
 ## v0.25 (2026-06-21): Non-landing page consistency audit
 
 Why: the landing page should remain the visual centerpiece, while the supporting pages need to feel like one coherent reading and learning system.

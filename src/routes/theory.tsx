@@ -197,7 +197,7 @@ function Theory() {
         <PageCta
           title="Ready to explore your own arcs?"
           action={
-            <ButtonLink to="/" size="lg">
+            <ButtonLink to="/start" size="lg">
               <SolarPlayLineDuotone />
               Take a test
             </ButtonLink>

@@ -10,13 +10,21 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as TheoryRouteImport } from './routes/theory'
+import { Route as StartRouteImport } from './routes/start'
 import { Route as AboutRouteImport } from './routes/about'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as StartCompleteRouteImport } from './routes/start.complete'
 import { Route as AssessmentKeyRouteImport } from './routes/assessment.$key'
+import { Route as AssessmentKeyTakeRouteImport } from './routes/assessment.$key.take'
 
 const TheoryRoute = TheoryRouteImport.update({
   id: '/theory',
   path: '/theory',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const StartRoute = StartRouteImport.update({
+  id: '/start',
+  path: '/start',
   getParentRoute: () => rootRouteImport,
 } as any)
 const AboutRoute = AboutRouteImport.update({
@@ -29,44 +37,86 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const StartCompleteRoute = StartCompleteRouteImport.update({
+  id: '/complete',
+  path: '/complete',
+  getParentRoute: () => StartRoute,
+} as any)
 const AssessmentKeyRoute = AssessmentKeyRouteImport.update({
   id: '/assessment/$key',
   path: '/assessment/$key',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AssessmentKeyTakeRoute = AssessmentKeyTakeRouteImport.update({
+  id: '/take',
+  path: '/take',
+  getParentRoute: () => AssessmentKeyRoute,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/start': typeof StartRouteWithChildren
   '/theory': typeof TheoryRoute
-  '/assessment/$key': typeof AssessmentKeyRoute
+  '/assessment/$key': typeof AssessmentKeyRouteWithChildren
+  '/start/complete': typeof StartCompleteRoute
+  '/assessment/$key/take': typeof AssessmentKeyTakeRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/start': typeof StartRouteWithChildren
   '/theory': typeof TheoryRoute
-  '/assessment/$key': typeof AssessmentKeyRoute
+  '/assessment/$key': typeof AssessmentKeyRouteWithChildren
+  '/start/complete': typeof StartCompleteRoute
+  '/assessment/$key/take': typeof AssessmentKeyTakeRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/start': typeof StartRouteWithChildren
   '/theory': typeof TheoryRoute
-  '/assessment/$key': typeof AssessmentKeyRoute
+  '/assessment/$key': typeof AssessmentKeyRouteWithChildren
+  '/start/complete': typeof StartCompleteRoute
+  '/assessment/$key/take': typeof AssessmentKeyTakeRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/about' | '/theory' | '/assessment/$key'
+  fullPaths:
+    | '/'
+    | '/about'
+    | '/start'
+    | '/theory'
+    | '/assessment/$key'
+    | '/start/complete'
+    | '/assessment/$key/take'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/about' | '/theory' | '/assessment/$key'
-  id: '__root__' | '/' | '/about' | '/theory' | '/assessment/$key'
+  to:
+    | '/'
+    | '/about'
+    | '/start'
+    | '/theory'
+    | '/assessment/$key'
+    | '/start/complete'
+    | '/assessment/$key/take'
+  id:
+    | '__root__'
+    | '/'
+    | '/about'
+    | '/start'
+    | '/theory'
+    | '/assessment/$key'
+    | '/start/complete'
+    | '/assessment/$key/take'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
+  StartRoute: typeof StartRouteWithChildren
   TheoryRoute: typeof TheoryRoute
-  AssessmentKeyRoute: typeof AssessmentKeyRoute
+  AssessmentKeyRoute: typeof AssessmentKeyRouteWithChildren
 }
 
 declare module '@tanstack/react-router' {
@@ -76,6 +126,13 @@ declare module '@tanstack/react-router' {
       path: '/theory'
       fullPath: '/theory'
       preLoaderRoute: typeof TheoryRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/start': {
+      id: '/start'
+      path: '/start'
+      fullPath: '/start'
+      preLoaderRoute: typeof StartRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/about': {
@@ -92,6 +149,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/start/complete': {
+      id: '/start/complete'
+      path: '/complete'
+      fullPath: '/start/complete'
+      preLoaderRoute: typeof StartCompleteRouteImport
+      parentRoute: typeof StartRoute
+    }
     '/assessment/$key': {
       id: '/assessment/$key'
       path: '/assessment/$key'
@@ -99,14 +163,44 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AssessmentKeyRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/assessment/$key/take': {
+      id: '/assessment/$key/take'
+      path: '/take'
+      fullPath: '/assessment/$key/take'
+      preLoaderRoute: typeof AssessmentKeyTakeRouteImport
+      parentRoute: typeof AssessmentKeyRoute
+    }
   }
 }
+
+interface StartRouteChildren {
+  StartCompleteRoute: typeof StartCompleteRoute
+}
+
+const StartRouteChildren: StartRouteChildren = {
+  StartCompleteRoute: StartCompleteRoute,
+}
+
+const StartRouteWithChildren = StartRoute._addFileChildren(StartRouteChildren)
+
+interface AssessmentKeyRouteChildren {
+  AssessmentKeyTakeRoute: typeof AssessmentKeyTakeRoute
+}
+
+const AssessmentKeyRouteChildren: AssessmentKeyRouteChildren = {
+  AssessmentKeyTakeRoute: AssessmentKeyTakeRoute,
+}
+
+const AssessmentKeyRouteWithChildren = AssessmentKeyRoute._addFileChildren(
+  AssessmentKeyRouteChildren,
+)
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
+  StartRoute: StartRouteWithChildren,
   TheoryRoute: TheoryRoute,
-  AssessmentKeyRoute: AssessmentKeyRoute,
+  AssessmentKeyRoute: AssessmentKeyRouteWithChildren,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

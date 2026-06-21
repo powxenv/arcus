@@ -5,9 +5,10 @@ import decor3 from "../assets/decoration-3.svg";
 import decor4 from "../assets/decoration-4.svg";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import PhDiceFiveDuotone from "~icons/ph/dice-five-duotone";
-import SolarPlayLineDuotone from "~icons/solar/play-line-duotone";
 import PhHeadCircuitDuotone from "~icons/ph/head-circuit-duotone";
 import { buttonVariants } from "@heroui/react";
+import { ASSESSMENTS } from "../components/assessment-data";
+import { AssessmentStartModal } from "../components/assessment-start-modal";
 
 export const Route = createFileRoute("/")({ component: Home });
 
@@ -61,11 +62,7 @@ function Home() {
             <PhHeadCircuitDuotone />
             How it works
           </Link>
-          <Link
-            to="/assessment/$key"
-            params={{ key: "solstice" }}
-            className={buttonVariants({ size: "lg" })}
-          >
+          <Link to="/start" className={buttonVariants({ size: "lg" })}>
             <PhDiceFiveDuotone />
             Take a test
           </Link>
@@ -92,17 +89,11 @@ function Home() {
                 Learn more
                 <SolarArrowRightLineDuotone />
               </Link>
-              <Link
-                to="/assessment/$key"
-                params={{ key: card.key }}
-                className={buttonVariants({
-                  variant: "outline",
-                  className: "w-full",
-                })}
-              >
-                <SolarPlayLineDuotone />
-                Start
-              </Link>
+              <AssessmentStartModal
+                assessment={ASSESSMENTS[card.key]}
+                triggerLabel="Start"
+                triggerClassName="w-full"
+              />
             </div>
           </div>
         ))}

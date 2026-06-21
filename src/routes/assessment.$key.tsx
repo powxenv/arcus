@@ -1,8 +1,8 @@
 import { createFileRoute, useParams } from "@tanstack/react-router";
-import SolarPlayLineDuotone from "~icons/solar/play-line-duotone";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import SolarCheckCircleLineDuotone from "~icons/solar/check-circle-line-duotone";
 import { ASSESSMENTS } from "../components/assessment-data";
+import { AssessmentStartModal } from "../components/assessment-start-modal";
 import {
   ButtonLink,
   CardLink,
@@ -224,10 +224,10 @@ function AssessmentDetail() {
           <PageCta
             title={`Ready to take ${data.shortName}?`}
             action={
-              <ButtonLink to="/" size="lg">
-                <SolarPlayLineDuotone />
-                Start assessment
-              </ButtonLink>
+              <AssessmentStartModal
+                assessment={data}
+                triggerLabel="Start assessment"
+              />
             }
           >
             {data.duration} · {data.questionCount}

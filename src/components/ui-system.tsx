@@ -12,7 +12,9 @@ export function PageShell({
   const max =
     size === "lg" ? "max-w-4xl" : size === "sm" ? "max-w-2xl" : "max-w-3xl";
 
-  return <main className={`${max} mx-auto min-h-screen py-28 px-6`}>{children}</main>;
+  return (
+    <main className={`${max} mx-auto min-h-screen py-28 px-6`}>{children}</main>
+  );
 }
 
 export function PageStack({ children }: { children: ReactNode }) {
@@ -48,7 +50,7 @@ export function Hero({
         </Chip>
       ) : null}
       {icon ? <img className="size-16" src={icon} alt="" /> : null}
-      <h1 className="text-5xl sm:text-6xl font-black tracking-[-0.04em] leading-[0.95] text-balance">
+      <h1 className="text-5xl sm:text-6xl font-black leading-[0.95] text-balance">
         {title}
       </h1>
       <div className="text-xl text-default-500 max-w-2xl leading-relaxed text-pretty">
@@ -71,7 +73,7 @@ export function Section({
   return (
     <section className="flex flex-col gap-5">
       <div className="flex flex-col gap-2">
-        <h2 className="text-3xl font-bold tracking-[-0.035em] leading-tight text-balance">
+        <h2 className="text-3xl font-bold leading-tight text-balance">
           {title}
         </h2>
         {intro ? (
@@ -101,7 +103,9 @@ export function Surface({
   className?: string;
 }) {
   return (
-    <div className={`bg-white rounded-2xl border-[.5px] border-default-200 p-5 ${className}`}>
+    <div
+      className={`bg-white rounded-2xl border-[.5px] border-default-200 p-5 ${className}`}
+    >
       {children}
     </div>
   );
@@ -140,10 +144,19 @@ export function ButtonLink(
     className?: string;
   },
 ) {
-  const { children, variant = "primary", size = "md", className, ...linkProps } = props;
+  const {
+    children,
+    variant = "primary",
+    size = "md",
+    className,
+    ...linkProps
+  } = props;
 
   return (
-    <Link {...linkProps} className={buttonVariants({ variant, size, className })}>
+    <Link
+      {...linkProps}
+      className={buttonVariants({ variant, size, className })}
+    >
       {children}
     </Link>
   );
@@ -160,9 +173,7 @@ export function PageCta({
 }) {
   return (
     <section className="text-center flex flex-col items-center gap-4 pt-2">
-      <h2 className="text-3xl font-bold tracking-[-0.035em] leading-tight text-balance">
-        {title}
-      </h2>
+      <h2 className="text-3xl font-bold leading-tight text-balance">{title}</h2>
       <div className="text-lg text-default-500 max-w-md leading-relaxed text-pretty">
         {children}
       </div>

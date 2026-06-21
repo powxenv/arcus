@@ -40,7 +40,7 @@ export function Header() {
           >
             Theory
           </Link>
-          <Link to="/" className={buttonVariants()}>
+          <Link to="/start" className={buttonVariants()}>
             Begin Your Arc
             <SolarArrowRightLineDuotone />
           </Link>
