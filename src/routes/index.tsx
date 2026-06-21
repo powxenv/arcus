@@ -1,5 +1,4 @@
 import { createFileRoute } from "@tanstack/react-router";
-import logo from "../assets/logo.svg";
 import decor1 from "../assets/decoration-1.svg";
 import decor2 from "../assets/decoration-2.svg";
 import decor3 from "../assets/decoration-3.svg";
@@ -14,25 +13,7 @@ export const Route = createFileRoute("/")({ component: Home });
 
 function Home() {
   return (
-    <>
-      <header className="h-12 fixed top-4 left-1/2 rounded-full -translate-x-1/2 bg-white flex items-center pl-2 pr-1.5 shadow-2xl shadow-black/6 border-[.5px]">
-        <div className="flex items-center gap-10">
-          <div className="flex items-center gap-2">
-            <img className="size-8" src={logo} alt="Logo" />
-            <span className="font-bold text-lg">Arcus</span>
-          </div>
-          <nav className="flex">
-            <Button variant="ghost">Home</Button>
-            <Button variant="ghost">About</Button>
-            <Button variant="ghost">Methodology</Button>
-            <Button>
-              Begin Your Arc
-              <SolarArrowRightLineDuotone />
-            </Button>
-          </nav>
-        </div>
-      </header>
-      <div className="max-w-4xl mx-auto min-h-screen py-28">
+    <div className="max-w-4xl mx-auto min-h-screen py-28">
         <div className="text-center flex flex-col">
           <h1 className="text-9xl font-black -tracking-widest leading-26">
             See the arc you're on.
@@ -135,6 +116,5 @@ function Home() {
           </div>
         </div>
       </div>
-    </>
   );
 }
