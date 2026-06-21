@@ -132,7 +132,7 @@ function Theory() {
               >
                 <img className="size-8" src={t.icon} alt="" />
                 <span className="font-bold">{t.name}</span>
-                <span className="text-xs text-default-400">{t.domain}</span>
+                <span className="text-sm text-default-400">{t.domain}</span>
               </CardLink>
             ))}
           </div>

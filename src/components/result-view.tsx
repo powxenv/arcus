@@ -6,8 +6,10 @@ import SolarShareLineDuotone from "~icons/solar/share-line-duotone";
 import type { AssessmentResult } from "../lib/scoring";
 import type { QuestionSet } from "../data/questions";
 import { DIMENSION_EXPLANATIONS } from "../data/dimension-explanations";
+import { RESULT_DETAILS } from "../data/result-details";
 import { ASSESSMENTS } from "./assessment-data";
 import { saveResult } from "../server/results";
+import { getAIAnalysis } from "../server/ai-analysis";
 import {
   Hero,
   PageShell,
@@ -35,12 +37,18 @@ export function ResultView({
   onRetake,
 }: Props) {
   const assessment = ASSESSMENTS[result.assessmentKey];
-  const dimensionExplanations = DIMENSION_EXPLANATIONS[result.assessmentKey] ?? [];
+  const dimensionExplanations =
+    DIMENSION_EXPLANATIONS[result.assessmentKey] ?? [];
 
   const [shareToken, setShareToken] = useState<string | null>(null);
   const [saving, setSaving] = useState(false);
   const [saveError, setSaveError] = useState<string | null>(null);
   const [copied, setCopied] = useState(false);
+
+  const [aiText, setAiText] = useState<string | null>(null);
+  const [aiLoading, setAiLoading] = useState(false);
+  const [aiError, setAiError] = useState<string | null>(null);
+  const [aiConsentShown, setAiConsentShown] = useState(true);
 
   const constructLabel = useMemo(() => {
     const map = new Map(questionSet.constructs.map((c) => [c.key, c.label]));
@@ -48,6 +56,7 @@ export function ResultView({
   }, [questionSet]);
 
   const modifierLine = useMemo(() => modifierNarrative(result), [result]);
+  const geometryNotes = useMemo(() => geometryNarrative(result), [result]);
 
   async function handleShare() {
     setSaving(true);
@@ -78,6 +87,68 @@ export function ResultView({
       setCopied(true);
       window.setTimeout(() => setCopied(false), 1800);
     });
+  }
+
+  async function handleGenerateAI() {
+    setAiLoading(true);
+    setAiError(null);
+    try {
+      const assessment = ASSESSMENTS[result.assessmentKey];
+      const dims = DIMENSION_EXPLANATIONS[result.assessmentKey] ?? [];
+      const detailKey = result.detail
+        ? result.type
+        : null;
+      const det = detailKey
+        ? RESULT_DETAILS[result.assessmentKey]?.[detailKey]
+        : null;
+
+      const qs = questionSet.questions
+        .filter((q) => answers[q.id] !== undefined && answers[q.id] !== null)
+        .map((q) => {
+          let text: string;
+          if (q.type === "bipolar") text = q.stem ?? q.id;
+          else if (q.type === "unipolar") text = q.statement;
+          else if (q.type === "heuristic") text = q.scenario;
+          else text = q.prompt;
+          return { id: q.id, text, construct: q.construct };
+        });
+
+      const text = await getAIAnalysis({
+        data: {
+          assessmentKey: result.assessmentKey,
+          context: {
+            assessmentSummary: assessment?.overview ?? result.summary,
+            resultMeaning: det?.meaning,
+            resultEveryday: det?.everyday,
+            resultHowToRead: det?.howToRead,
+            dimensions: dims.map((d) => ({
+              key: d.key,
+              label: d.plain,
+              plain: d.plain,
+              high: d.high,
+              low: d.low,
+            })),
+          },
+          questions: qs,
+          answers,
+          result: {
+            type: result.type,
+            scores: result.scores.map((s) => ({
+              key: s.key,
+              label: s.label,
+              value: s.value,
+            })),
+            modifier: result.modifier?.value,
+            secondaryModifier: result.secondaryModifier?.value,
+          },
+        },
+      });
+      setAiText(text);
+    } catch {
+      setAiError("Could not generate analysis. Try again later.");
+    } finally {
+      setAiLoading(false);
+    }
   }
 
   const shareUrl =
@@ -134,7 +205,9 @@ export function ResultView({
           >
             <Surface className="flex flex-col gap-5">
               {result.scores.map((score) => {
-                const expl = dimensionExplanations.find((e) => e.key === score.key);
+                const expl = dimensionExplanations.find(
+                  (e) => e.key === score.key,
+                );
                 return (
                   <div key={score.key} className="flex flex-col gap-1.5">
                     <div className="flex items-baseline justify-between gap-3">
@@ -166,6 +239,15 @@ export function ResultView({
           </Section>
         ) : null}
 
+        {/* Insights from your position */}
+        {geometryNotes ? (
+          <QuietCallout>
+            <p className="text-sm text-default-700 leading-relaxed text-pretty">
+              {geometryNotes}
+            </p>
+          </QuietCallout>
+        ) : null}
+
         {/* Between-types note */}
         {result.notes && result.notes.length > 0 ? (
           <QuietCallout>
@@ -178,6 +260,55 @@ export function ResultView({
               </p>
             ))}
           </QuietCallout>
+        ) : null}
+
+        {/* Personalized analysis (AI, opt-in) */}
+        {own && aiConsentShown && !aiText ? (
+          <Section title="Personalized analysis">
+            <Surface className="flex flex-col gap-3">
+              <p className="text-sm text-default-600 leading-relaxed">
+                Send your scores to an AI model for a richer, narrative
+                interpretation. Your responses stay anonymous and are only used
+                for this one request. This step is optional.
+              </p>
+              {aiError ? (
+                <p className="text-sm text-red-600">{aiError}</p>
+              ) : null}
+              <div className="flex flex-wrap gap-2">
+                <button
+                  type="button"
+                  className={buttonVariants()}
+                  onClick={handleGenerateAI}
+                  disabled={aiLoading}
+                >
+                  {aiLoading ? "Generating..." : "Generate personal analysis"}
+                </button>
+                <button
+                  type="button"
+                  className={buttonVariants({ variant: "ghost" })}
+                  onClick={() => setAiConsentShown(false)}
+                  disabled={aiLoading}
+                >
+                  Skip
+                </button>
+              </div>
+            </Surface>
+          </Section>
+        ) : null}
+
+        {aiText ? (
+          <Section title="Personalized analysis">
+            <Surface className="flex flex-col gap-3">
+              <p className="text-sm text-default-700 leading-relaxed text-pretty whitespace-pre-wrap">
+                {aiText}
+              </p>
+              <p className="text-sm text-default-500">
+                This interpretation was generated by AI and is not part of the
+                validated assessment framework. It is provided as additional
+                perspective, not as clinical guidance.
+              </p>
+            </Surface>
+          </Section>
         ) : null}
 
         {/* Save & share */}
@@ -267,7 +398,7 @@ export function ResultView({
           </Link>
         </div>
 
-        <p className="text-xs text-default-400">
+        <p className="text-sm text-default-400">
           Arcus is for self-discovery and reflection. It isn't a clinical
           assessment and doesn't diagnose anything.
         </p>
@@ -301,8 +432,7 @@ function modifierNarrative(result: AssessmentResult): string | null {
           "You relate to time as something to spend well. Worth watching whether that tips into measuring it instead of living in it.",
         weight:
           "You carry time as something heavy. If that weight feels sustained rather than passing, it may be worth paying attention to.",
-        gift:
-          "You receive time as something given. This stance tends to come with gratitude and presence.",
+        gift: "You receive time as something given. This stance tends to come with gratitude and presence.",
         mystery:
           "You dwell in time as something to sit with rather than use. Less about productivity, more about being inside it.",
       };
@@ -328,4 +458,56 @@ function modifierNarrative(result: AssessmentResult): string | null {
     default:
       return null;
   }
+}
+
+// A plain-language note about the geometry of the result — how clearly the
+// person sits in their type, where they are within it, and whether facet
+// tension makes the axis score a compromise rather than a signal.
+function geometryNarrative(result: AssessmentResult): string | null {
+  const g = result.geometry;
+  if (!g) return null;
+
+  const parts: string[] = [];
+
+  // Prototypicality
+  if (g.isBoundary) {
+    parts.push(
+      "You sit near the boundary between types rather than squarely in one. The position is a soft fit, and the scores below tell a clearer story than the label alone.",
+    );
+  } else if (g.prototypicality > 0.6) {
+    parts.push("This type is a strong fit for you.");
+  } else if (g.prototypicality > 0.4) {
+    parts.push("This type is a clear fit for you.");
+  } else {
+    parts.push(
+      "This type fits, but not sharply. You sit closer to the boundary.",
+    );
+  }
+
+  // Gradation (only for two-axis tests with defined seasons)
+  if (g.gradation) {
+    parts.push(
+      `You are in the ${g.gradation.toLowerCase()} phase of this type.`,
+    );
+  }
+
+  // Facet tension
+  const tenseAxes = g.facetTension?.filter((t) => t.tense).map((t) => t.axis);
+  if (tenseAxes && tenseAxes.length > 0) {
+    const label =
+      result.assessmentKey === "solstice"
+        ? tenseAxes.includes("A")
+          ? "energy"
+          : "direction"
+        : tenseAxes.includes("A")
+          ? "clarity"
+          : "alignment";
+    parts.push(
+      `On ${label}, two separate sides pull in opposite directions and both are strong. ` +
+        `Your score lands in the middle because they cancel each other, not because you are moderate. ` +
+        `The individual scores above give a fuller picture.`,
+    );
+  }
+
+  return parts.length > 0 ? parts.join(" ") : null;
 }

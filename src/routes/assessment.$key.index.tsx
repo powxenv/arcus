@@ -212,7 +212,7 @@ function AssessmentDetail() {
           </div>
 
           <div className="border-t-[.5px] border-default-200 pt-8">
-            <h3 className="text-xs font-bold text-default-500 mb-4 uppercase tracking-wide">
+            <h3 className="text-sm font-bold text-default-500 mb-4 uppercase tracking-wide">
               Explore other assessments
             </h3>
             <div className="flex flex-col gap-2">

@@ -52,11 +52,11 @@ export function AssessmentStartModal({
 
                 <div className="grid grid-cols-2 gap-3">
                   <div className="bg-default-50 rounded-xl border-[.5px] border-default-200 p-4">
-                    <p className="text-xs text-default-400">Questions</p>
+                    <p className="text-sm text-default-400">Questions</p>
                     <p className="font-bold mt-1">{assessment.questionCount}</p>
                   </div>
                   <div className="bg-default-50 rounded-xl border-[.5px] border-default-200 p-4">
-                    <p className="text-xs text-default-400">Time</p>
+                    <p className="text-sm text-default-400">Time</p>
                     <p className="font-bold mt-1">{assessment.duration}</p>
                   </div>
                 </div>

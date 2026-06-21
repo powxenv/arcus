@@ -181,7 +181,7 @@ function ProgressBar({ current, total }: { current: number; total: number }) {
     total > 0 ? Math.min(100, Math.round((current / total) * 100)) : 0;
   return (
     <div className="flex flex-col gap-1.5">
-      <p className="flex items-center justify-between text-xs text-default-400">
+      <p className="flex items-center justify-between text-sm text-default-400">
         <span>
           Question {Math.min(current, total)} of {total}
         </span>
@@ -311,7 +311,7 @@ function Prompt({ question }: { question: Question }) {
     // small cue, not a competing headline.
     return (
       <div className="flex flex-col gap-2">
-        <span className="text-xs text-default-400 uppercase tracking-wide">
+        <span className="text-sm text-default-400 uppercase tracking-wide">
           Which would you choose?
         </span>
         <h1 className="text-xl sm:text-2xl font-semibold leading-snug text-default-800 text-pretty">

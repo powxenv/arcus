@@ -82,7 +82,7 @@ function Start() {
                     <h3 className="font-bold leading-tight">
                       {assessment.shortName}
                     </h3>
-                    <p className="text-xs text-default-400 mt-1">
+                    <p className="text-sm text-default-400 mt-1">
                       {assessment.duration} · {assessment.questionCount}
                     </p>
                   </div>
