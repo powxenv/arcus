@@ -13,7 +13,7 @@ import {
   Surface,
 } from "../components/ui-system";
 
-export const Route = createFileRoute("/start")({ component: Start });
+export const Route = createFileRoute("/start/")({ component: Start });
 
 const assessments = Object.values(ASSESSMENTS);
 const totalQuestions = assessments.reduce((sum, item) => {

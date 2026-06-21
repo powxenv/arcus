@@ -11,7 +11,7 @@ import {
   TextBlock,
 } from "../components/ui-system";
 
-export const Route = createFileRoute("/about")({ component: About });
+export const Route = createFileRoute("/about/")({ component: About });
 
 function About() {
   return (

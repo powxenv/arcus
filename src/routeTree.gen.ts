@@ -9,88 +9,88 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
-import { Route as TheoryRouteImport } from './routes/theory'
-import { Route as StartRouteImport } from './routes/start'
-import { Route as AboutRouteImport } from './routes/about'
 import { Route as IndexRouteImport } from './routes/index'
-import { Route as StartCompleteRouteImport } from './routes/start.complete'
-import { Route as AssessmentKeyRouteImport } from './routes/assessment.$key'
-import { Route as AssessmentKeyTakeRouteImport } from './routes/assessment.$key.take'
+import { Route as TheoryIndexRouteImport } from './routes/theory.index'
+import { Route as StartIndexRouteImport } from './routes/start.index'
+import { Route as AboutIndexRouteImport } from './routes/about.index'
+import { Route as StartCompleteIndexRouteImport } from './routes/start.complete.index'
+import { Route as AssessmentKeyIndexRouteImport } from './routes/assessment.$key.index'
+import { Route as AssessmentKeyTakeIndexRouteImport } from './routes/assessment.$key.take.index'
 
-const TheoryRoute = TheoryRouteImport.update({
-  id: '/theory',
-  path: '/theory',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const StartRoute = StartRouteImport.update({
-  id: '/start',
-  path: '/start',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const AboutRoute = AboutRouteImport.update({
-  id: '/about',
-  path: '/about',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
-const StartCompleteRoute = StartCompleteRouteImport.update({
-  id: '/complete',
-  path: '/complete',
-  getParentRoute: () => StartRoute,
-} as any)
-const AssessmentKeyRoute = AssessmentKeyRouteImport.update({
-  id: '/assessment/$key',
-  path: '/assessment/$key',
+const TheoryIndexRoute = TheoryIndexRouteImport.update({
+  id: '/theory/',
+  path: '/theory/',
   getParentRoute: () => rootRouteImport,
 } as any)
-const AssessmentKeyTakeRoute = AssessmentKeyTakeRouteImport.update({
-  id: '/take',
-  path: '/take',
-  getParentRoute: () => AssessmentKeyRoute,
+const StartIndexRoute = StartIndexRouteImport.update({
+  id: '/start/',
+  path: '/start/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AboutIndexRoute = AboutIndexRouteImport.update({
+  id: '/about/',
+  path: '/about/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const StartCompleteIndexRoute = StartCompleteIndexRouteImport.update({
+  id: '/start/complete/',
+  path: '/start/complete/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AssessmentKeyIndexRoute = AssessmentKeyIndexRouteImport.update({
+  id: '/assessment/$key/',
+  path: '/assessment/$key/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AssessmentKeyTakeIndexRoute = AssessmentKeyTakeIndexRouteImport.update({
+  id: '/assessment/$key/take/',
+  path: '/assessment/$key/take/',
+  getParentRoute: () => rootRouteImport,
 } as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
-  '/about': typeof AboutRoute
-  '/start': typeof StartRouteWithChildren
-  '/theory': typeof TheoryRoute
-  '/assessment/$key': typeof AssessmentKeyRouteWithChildren
-  '/start/complete': typeof StartCompleteRoute
-  '/assessment/$key/take': typeof AssessmentKeyTakeRoute
+  '/about/': typeof AboutIndexRoute
+  '/start/': typeof StartIndexRoute
+  '/theory/': typeof TheoryIndexRoute
+  '/assessment/$key/': typeof AssessmentKeyIndexRoute
+  '/start/complete/': typeof StartCompleteIndexRoute
+  '/assessment/$key/take/': typeof AssessmentKeyTakeIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
-  '/about': typeof AboutRoute
-  '/start': typeof StartRouteWithChildren
-  '/theory': typeof TheoryRoute
-  '/assessment/$key': typeof AssessmentKeyRouteWithChildren
-  '/start/complete': typeof StartCompleteRoute
-  '/assessment/$key/take': typeof AssessmentKeyTakeRoute
+  '/about': typeof AboutIndexRoute
+  '/start': typeof StartIndexRoute
+  '/theory': typeof TheoryIndexRoute
+  '/assessment/$key': typeof AssessmentKeyIndexRoute
+  '/start/complete': typeof StartCompleteIndexRoute
+  '/assessment/$key/take': typeof AssessmentKeyTakeIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
-  '/about': typeof AboutRoute
-  '/start': typeof StartRouteWithChildren
-  '/theory': typeof TheoryRoute
-  '/assessment/$key': typeof AssessmentKeyRouteWithChildren
-  '/start/complete': typeof StartCompleteRoute
-  '/assessment/$key/take': typeof AssessmentKeyTakeRoute
+  '/about/': typeof AboutIndexRoute
+  '/start/': typeof StartIndexRoute
+  '/theory/': typeof TheoryIndexRoute
+  '/assessment/$key/': typeof AssessmentKeyIndexRoute
+  '/start/complete/': typeof StartCompleteIndexRoute
+  '/assessment/$key/take/': typeof AssessmentKeyTakeIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
-    | '/about'
-    | '/start'
-    | '/theory'
-    | '/assessment/$key'
-    | '/start/complete'
-    | '/assessment/$key/take'
+    | '/about/'
+    | '/start/'
+    | '/theory/'
+    | '/assessment/$key/'
+    | '/start/complete/'
+    | '/assessment/$key/take/'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
@@ -103,45 +103,26 @@ export interface FileRouteTypes {
   id:
     | '__root__'
     | '/'
-    | '/about'
-    | '/start'
-    | '/theory'
-    | '/assessment/$key'
-    | '/start/complete'
-    | '/assessment/$key/take'
+    | '/about/'
+    | '/start/'
+    | '/theory/'
+    | '/assessment/$key/'
+    | '/start/complete/'
+    | '/assessment/$key/take/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
-  AboutRoute: typeof AboutRoute
-  StartRoute: typeof StartRouteWithChildren
-  TheoryRoute: typeof TheoryRoute
-  AssessmentKeyRoute: typeof AssessmentKeyRouteWithChildren
+  AboutIndexRoute: typeof AboutIndexRoute
+  StartIndexRoute: typeof StartIndexRoute
+  TheoryIndexRoute: typeof TheoryIndexRoute
+  AssessmentKeyIndexRoute: typeof AssessmentKeyIndexRoute
+  StartCompleteIndexRoute: typeof StartCompleteIndexRoute
+  AssessmentKeyTakeIndexRoute: typeof AssessmentKeyTakeIndexRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
-    '/theory': {
-      id: '/theory'
-      path: '/theory'
-      fullPath: '/theory'
-      preLoaderRoute: typeof TheoryRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/start': {
-      id: '/start'
-      path: '/start'
-      fullPath: '/start'
-      preLoaderRoute: typeof StartRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/about': {
-      id: '/about'
-      path: '/about'
-      fullPath: '/about'
-      preLoaderRoute: typeof AboutRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/': {
       id: '/'
       path: '/'
@@ -149,58 +130,59 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/start/complete': {
-      id: '/start/complete'
-      path: '/complete'
-      fullPath: '/start/complete'
-      preLoaderRoute: typeof StartCompleteRouteImport
-      parentRoute: typeof StartRoute
-    }
-    '/assessment/$key': {
-      id: '/assessment/$key'
-      path: '/assessment/$key'
-      fullPath: '/assessment/$key'
-      preLoaderRoute: typeof AssessmentKeyRouteImport
+    '/theory/': {
+      id: '/theory/'
+      path: '/theory'
+      fullPath: '/theory/'
+      preLoaderRoute: typeof TheoryIndexRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/assessment/$key/take': {
-      id: '/assessment/$key/take'
-      path: '/take'
-      fullPath: '/assessment/$key/take'
-      preLoaderRoute: typeof AssessmentKeyTakeRouteImport
-      parentRoute: typeof AssessmentKeyRoute
+    '/start/': {
+      id: '/start/'
+      path: '/start'
+      fullPath: '/start/'
+      preLoaderRoute: typeof StartIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/about/': {
+      id: '/about/'
+      path: '/about'
+      fullPath: '/about/'
+      preLoaderRoute: typeof AboutIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/start/complete/': {
+      id: '/start/complete/'
+      path: '/start/complete'
+      fullPath: '/start/complete/'
+      preLoaderRoute: typeof StartCompleteIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/assessment/$key/': {
+      id: '/assessment/$key/'
+      path: '/assessment/$key'
+      fullPath: '/assessment/$key/'
+      preLoaderRoute: typeof AssessmentKeyIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/assessment/$key/take/': {
+      id: '/assessment/$key/take/'
+      path: '/assessment/$key/take'
+      fullPath: '/assessment/$key/take/'
+      preLoaderRoute: typeof AssessmentKeyTakeIndexRouteImport
+      parentRoute: typeof rootRouteImport
     }
   }
 }
 
-interface StartRouteChildren {
-  StartCompleteRoute: typeof StartCompleteRoute
-}
-
-const StartRouteChildren: StartRouteChildren = {
-  StartCompleteRoute: StartCompleteRoute,
-}
-
-const StartRouteWithChildren = StartRoute._addFileChildren(StartRouteChildren)
-
-interface AssessmentKeyRouteChildren {
-  AssessmentKeyTakeRoute: typeof AssessmentKeyTakeRoute
-}
-
-const AssessmentKeyRouteChildren: AssessmentKeyRouteChildren = {
-  AssessmentKeyTakeRoute: AssessmentKeyTakeRoute,
-}
-
-const AssessmentKeyRouteWithChildren = AssessmentKeyRoute._addFileChildren(
-  AssessmentKeyRouteChildren,
-)
-
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
-  AboutRoute: AboutRoute,
-  StartRoute: StartRouteWithChildren,
-  TheoryRoute: TheoryRoute,
-  AssessmentKeyRoute: AssessmentKeyRouteWithChildren,
+  AboutIndexRoute: AboutIndexRoute,
+  StartIndexRoute: StartIndexRoute,
+  TheoryIndexRoute: TheoryIndexRoute,
+  AssessmentKeyIndexRoute: AssessmentKeyIndexRoute,
+  StartCompleteIndexRoute: StartCompleteIndexRoute,
+  AssessmentKeyTakeIndexRoute: AssessmentKeyTakeIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

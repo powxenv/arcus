@@ -1,14 +1,20 @@
 import { createFileRoute, useParams } from "@tanstack/react-router";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import { ASSESSMENTS } from "../components/assessment-data";
-import { ButtonLink, Hero, PageShell, PageStack, QuietCallout } from "../components/ui-system";
+import {
+  ButtonLink,
+  Hero,
+  PageShell,
+  PageStack,
+  QuietCallout,
+} from "../components/ui-system";
 
-export const Route = createFileRoute("/assessment/$key/take")({
+export const Route = createFileRoute("/assessment/$key/take/")({
   component: AssessmentTake,
 });
 
 function AssessmentTake() {
-  const { key } = useParams({ from: "/assessment/$key/take" });
+  const { key } = useParams({ from: "/assessment/$key/take/" });
   const assessment = ASSESSMENTS[key];
 
   if (!assessment) {
@@ -16,7 +22,9 @@ function AssessmentTake() {
       <PageShell size="sm">
         <div className="text-center flex flex-col items-center gap-4">
           <h1 className="text-3xl font-bold">Assessment not found</h1>
-          <ButtonLink to="/start" variant="outline">Back to start</ButtonLink>
+          <ButtonLink to="/start" variant="outline">
+            Back to start
+          </ButtonLink>
         </div>
       </PageShell>
     );

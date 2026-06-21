@@ -3,7 +3,7 @@ import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import { ASSESSMENTS } from "../components/assessment-data";
 import { ButtonLink, Hero, PageShell, PageStack, QuietCallout } from "../components/ui-system";
 
-export const Route = createFileRoute("/start/complete")({
+export const Route = createFileRoute("/start/complete/")({
   component: CompleteExperience,
 });
 

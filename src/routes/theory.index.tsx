@@ -17,7 +17,7 @@ import {
   Surface,
 } from "../components/ui-system";
 
-export const Route = createFileRoute("/theory")({ component: Theory });
+export const Route = createFileRoute("/theory/")({ component: Theory });
 
 type Theme = {
   key: string;
