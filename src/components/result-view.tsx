@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Link } from "@tanstack/react-router";
 import { Modal, buttonVariants } from "@heroui/react";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
@@ -44,9 +44,14 @@ export function ResultView({
   const dimensionExplanations =
     DIMENSION_EXPLANATIONS[result.assessmentKey] ?? [];
 
-  const [shareToken] = useState<string | null>(
+  const [shareToken, setShareToken] = useState<string | null>(
     initialShareToken ?? null,
   );
+
+  // Sync share token from the take route's auto-save when it arrives.
+  useEffect(() => {
+    if (initialShareToken) setShareToken(initialShareToken);
+  }, [initialShareToken]);
   const [copied, setCopied] = useState(false);
   const [showResultModal, setShowResultModal] = useState(own);
 
