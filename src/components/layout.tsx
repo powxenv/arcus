@@ -2,7 +2,7 @@ import { Link, useRouterState } from "@tanstack/react-router";
 
 import logo from "../assets/logo.svg";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
-import { Button } from "@heroui/react";
+import { buttonVariants } from "@heroui/react";
 
 export function Header() {
   const { location } = useRouterState();
@@ -16,22 +16,33 @@ export function Header() {
           <span className="font-bold text-lg">Arcus</span>
         </Link>
         <nav className="flex">
-          <Link to="/">
-            <Button variant={current === "/" ? "primary" : "ghost"}>
-              Home
-            </Button>
+          <Link
+            to="/"
+            className={buttonVariants({
+              variant: current === "/" ? "secondary" : "ghost",
+            })}
+          >
+            Home
           </Link>
-          <Link to="/about">
-            <Button variant={current === "/about" ? "primary" : "ghost"}>
-              About
-            </Button>
+          <Link
+            to="/about"
+            className={buttonVariants({
+              variant: current === "/about" ? "secondary" : "ghost",
+            })}
+          >
+            About
           </Link>
-          <Button variant="ghost">Methodology</Button>
-          <Link to="/">
-            <Button>
-              Begin Your Arc
-              <SolarArrowRightLineDuotone />
-            </Button>
+          <Link
+            to="/theory"
+            className={buttonVariants({
+              variant: current === "/theory" ? "secondary" : "ghost",
+            })}
+          >
+            Theory
+          </Link>
+          <Link to="/" className={buttonVariants()}>
+            Begin Your Arc
+            <SolarArrowRightLineDuotone />
           </Link>
         </nav>
       </div>
@@ -51,15 +62,24 @@ export function Footer() {
           For self-discovery and reflection. Not a clinical assessment.
         </p>
         <nav className="flex gap-4 text-sm text-default-500">
-          <Link to="/" className="hover:text-default-foreground transition-colors">
+          <Link
+            to="/"
+            className="hover:text-default-foreground transition-colors"
+          >
             Home
           </Link>
-          <Link to="/about" className="hover:text-default-foreground transition-colors">
+          <Link
+            to="/about"
+            className="hover:text-default-foreground transition-colors"
+          >
             About
           </Link>
-          <span className="hover:text-default-foreground transition-colors cursor-pointer">
-            Methodology
-          </span>
+          <Link
+            to="/theory"
+            className="hover:text-default-foreground transition-colors"
+          >
+            Theory
+          </Link>
         </nav>
       </div>
     </footer>
