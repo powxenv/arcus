@@ -269,7 +269,7 @@ function solsticeResult(set: QuestionSet, answers: Answers): AssessmentResult {
     emoji: geo.isBoundary ? "◐" : geo.emoji,
     archetype: geo.isBoundary ? undefined : geo.archetype,
     summary: geo.isBoundary
-      ? "Your energy sits near the middle of its cycle — between seasons rather than firmly in one."
+      ? "Your energy sits near the middle of its cycle. Between seasons rather than firmly in one."
       : "A snapshot of where your energy sits right now, and which way the cycle is turning.",
     modifier: {
       label: "Trajectory",
@@ -366,7 +366,7 @@ function turingResult(set: QuestionSet, answers: Answers): AssessmentResult {
       .filter((v): v is number => typeof v === "number"),
   );
 
-  // CRT override rate — two-choice, "correct" means they overrode.
+  // CRT override rate. Two-choice, "correct" means they overrode.
   const crtItems = questionsOf<CrtQuestion>(set, "override");
   let crtCorrect = 0;
   for (const item of crtItems) {
@@ -439,7 +439,7 @@ function turingResult(set: QuestionSet, answers: Answers): AssessmentResult {
     emoji,
     archetype,
     summary:
-      "A snapshot of how you tend to think — and how that lines up with how you actually decide.",
+      "A snapshot of how you tend to think. And how that lines up with how you actually decide.",
     modifier: { label: "Observed strategy", value: strategy },
     secondaryModifier: { label: "Stated-vs-observed gap", value: gap },
     scores,
@@ -529,7 +529,7 @@ function passageResult(set: QuestionSet, answers: Answers): AssessmentResult {
     { key: "future", label: "Future", value: future, role: "factor" },
   ];
 
-  // Only surface a note when it's useful, plain context for the user — never
+  // Only surface a note when it's useful, plain context for the user. Never
   // technical disclaimers. The "between types" case is the one that matters:
   // the label is a soft fit and the scores tell the truer story.
   const notes: string[] = [];
@@ -544,7 +544,7 @@ function passageResult(set: QuestionSet, answers: Answers): AssessmentResult {
     type,
     emoji: PTA_EMOJI[type] ?? "⏳",
     summary:
-      "A snapshot of which parts of time you live in — and how you feel about time passing.",
+      "A snapshot of which parts of time you live in. And how you feel about time passing.",
     modifier: { label: "Stance toward time", value: stance },
     scores,
     detail,

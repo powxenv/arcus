@@ -168,12 +168,12 @@ function ProgressBar({ current, total }: { current: number; total: number }) {
     total > 0 ? Math.min(100, Math.round((current / total) * 100)) : 0;
   return (
     <div className="flex flex-col gap-1.5">
-      <div className="flex items-center justify-between text-xs text-default-400">
+      <p className="flex items-center justify-between text-xs text-default-400">
         <span>
           Question {Math.min(current, total)} of {total}
         </span>
         <span className="tabular-nums">{pct}%</span>
-      </div>
+      </p>
       <div className="h-1 rounded-full bg-default-200 overflow-hidden">
         <div
           className="h-full bg-orange-600 rounded-full transition-all"
@@ -271,7 +271,7 @@ function Prompt({ question }: { question: Question }) {
   // screen. Helper text ("which would you choose", the pole anchors) stays
   // quiet so it never competes with the thing the user is actually answering.
   if (question.type === "bipolar") {
-    // The stem sets up a sentence the two poles finish — so the stem *is* the
+    // The stem sets up a sentence the two poles finish. So the stem *is* the
     // question, and it owns the focal heading.
     return (
       <h1 className="text-2xl sm:text-3xl font-bold leading-snug text-balance">

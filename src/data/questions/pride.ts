@@ -58,7 +58,7 @@ export const pride: QuestionSet = {
     bipolar("B2.6", "B2", "When someone gets close to you, do you…", "Let them in and show your real self.", "Keep some distance. It's safer that way."),
     bipolar("B2.7", "B2", "When a close relationship reaches a new level of depth…", "You lean into it. Deeper honesty is part of closeness.", "You move carefully. There are some things you keep to yourself."),
     bipolar("B2.8", "B2", "In your closest relationships, you'd rather…", "Be fully known, even if it's messy.", "Keep certain parts of yourself private."),
-    // Commitment (Marcia 1966) — bipolar, poleA = committed
+    // Commitment (Marcia 1966). ubipolar, poleA = committed
     bipolar("C1", "C", "When it comes to who you are, you…", "Know it, and you've claimed it.", "Are still figuring it out."),
     bipolar("C2", "C", "Your sense of identity is…", "Settled. You've arrived.", "Open. You're still becoming."),
     bipolar("C3", "C", "When someone asks who you really are, you…", "Can answer without hesitation.", "Hesitate."),

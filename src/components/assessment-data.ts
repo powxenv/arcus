@@ -38,7 +38,7 @@ export const ASSESSMENTS: Record<string, AssessmentData> = {
     questionCount: "36 questions",
     question: "How do you burn, and which direction is your energy turning?",
     overview:
-      "Solstice maps your energy as a cycle with a peak and a turning point — not a fixed level. It measures how activated you feel, whether your energy moves toward or away from the world, and which direction the cycle is heading.",
+      "Solstice maps your energy as a cycle with a peak and a turning point. Not a fixed level. It measures how activated you feel, whether your energy moves toward or away from the world, and which direction the cycle is heading.",
     whyItMatters:
       "Your energy level shapes how you socialize, how you make decisions, and how you recover from stress. Solstice shows you the direction your energy is heading. Are you building toward a peak, or settling into a period of rest? That direction shapes how you plan your near future.",
     theme:
@@ -46,20 +46,20 @@ export const ASSESSMENTS: Record<string, AssessmentData> = {
     constructs: [
       { name: "Solar Height", description: "How bright or quiet your energy runs by default. Alert and ready, or calm and still." },
       { name: "Tidal Direction", description: "Whether your energy moves outward toward people and action, or inward toward reflection and depth." },
-      { name: "Trajectory", description: "The felt direction right now — gathering momentum, settling toward rest, or holding steady." },
+      { name: "Trajectory", description: "The felt direction right now. Gathering momentum, settling toward rest, or holding steady." },
     ],
     theory: [
-      { name: "Russell (1980) — Circumplex Model of Affect", use: "Emotions organize on a circle defined by activation and valence. Grounds the wheel structure." },
-      { name: "Carver & White (1994) — BIS/BAS Scales", use: "Approach and withdrawal are separate systems, not two ends of one line. Grounds Tidal Direction." },
-      { name: "Schimmack & Reisenzein (2002) — Energetic Arousal", use: "Energetic arousal is its own activation type, distinct from general arousal. Grounds Solar Height." },
-      { name: "Zuckerman (2007) — Sensation Seeking", use: "Stimulation appetite is a stable individual difference. Grounds the stimulation facet of Solar Height." },
-      { name: "Carver & Scheier — Self-Regulation Theory", use: "People perceive whether they're moving toward or away from their goals. Grounds trajectory." },
+      { name: "Russell (1980), Circumplex Model of Affect", use: "Emotions organize on a circle defined by activation and valence. Grounds the wheel structure." },
+      { name: "Carver & White (1994), BIS/BAS Scales", use: "Approach and withdrawal are separate systems, not two ends of one line. Grounds Tidal Direction." },
+      { name: "Schimmack & Reisenzein (2002), Energetic Arousal", use: "Energetic arousal is its own activation type, distinct from general arousal. Grounds Solar Height." },
+      { name: "Zuckerman (2007), Sensation Seeking", use: "Stimulation appetite is a stable individual difference. Grounds the stimulation facet of Solar Height." },
+      { name: "Carver & Scheier, Self-Regulation Theory", use: "People perceive whether they're moving toward or away from their goals. Grounds trajectory." },
     ],
     howItWorks: [
-      "32 questions place you on two continuous scales using a 7-point bipolar format — each question presents two opposing statements and you pick where you fall between them.",
+      "32 questions place you on two continuous scales using a 7-point bipolar format. Each question presents two opposing statements and you pick where you fall between them.",
       "4 additional questions ask about the felt direction of your energy right now, using the same format.",
       "Two axis scores emerge: Solar Height (your activation level) and Tidal Direction (outward vs. inward).",
-      "Your position on the wheel picks a season. A direction label — gathering, settling, or steady — sits alongside it.",
+      "Your position on the wheel picks a season. A direction label. Gathering, settling, or steady. Sits alongside it.",
     ],
     scoring: [
       "Each axis score is 0–100 with 50 as the midpoint. Being at 51 doesn't make you a different person than being at 49.",
@@ -73,7 +73,7 @@ export const ASSESSMENTS: Record<string, AssessmentData> = {
       { name: "Spring", emoji: "🌱", description: "Energy runs quiet but reaches outward. Tender, emerging." },
     ],
     interpretation:
-      "Your result gives you two things: where your energy sits right now, and which direction it's heading. Summer means bright and outward-moving. If the direction is gathering, you're still climbing. If it's settling, you can feel the turn. Neither direction is better — gathering gives you momentum, settling gives you space to consolidate.",
+      "Your result gives you two things: where your energy sits right now, and which direction it's heading. Summer means bright and outward-moving. If the direction is gathering, you're still climbing. If it's settling, you can feel the turn. Neither direction is better. Gathering gives you momentum, settling gives you space to consolidate.",
     interpretationTips: [
       "Trajectory is about this moment, not a permanent trait. It shifts with circumstances.",
       "Gathering is a good time for new challenges. Settling is a good time to rest and integrate.",
@@ -102,15 +102,15 @@ export const ASSESSMENTS: Record<string, AssessmentData> = {
     theme:
       "Alan Turing asked whether you can tell what a mind is by looking at what it does. Turing applies the same logic. You describe how you think, then you make choices, and the test compares the two.",
     constructs: [
-      { name: "Need for Cognition", description: "How much you enjoy hard thinking. Not intelligence — more like whether thinking feels satisfying or draining." },
+      { name: "Need for Cognition", description: "How much you enjoy hard thinking. Not intelligence. More like whether thinking feels satisfying or draining." },
       { name: "Faith in Intuition", description: "How much you trust your gut, your first impressions, and your felt sense of things." },
       { name: "Decision Strategy", description: "When you face a choice, do you lean on one strong reason, weigh many factors, or shift between the two?" },
     ],
     theory: [
-      { name: "Cacioppo & Petty (1982) — Need for Cognition Scale", use: "NFC is a single dimension: it measures enjoyment of thinking, not speed or ability." },
-      { name: "Epstein et al. (1996) — Rational-Experiential Inventory", use: "NFC and Faith in Intuition are independent — you can be high in both, low in both, or anywhere." },
-      { name: "Frederick (2005) — Cognitive Reflection Test", use: "Measures whether you check your first instinct before trusting it. Behavioral, not self-report." },
-      { name: "Gigerenzer & Gaissmaier (2011) — Heuristic Decision Making", use: "People have stable preferences for how they make choices. Grounds the decision-strategy measure." },
+      { name: "Cacioppo & Petty (1982), Need for Cognition Scale", use: "NFC is a single dimension: it measures enjoyment of thinking, not speed or ability." },
+      { name: "Epstein et al. (1996), Rational-Experiential Inventory", use: "NFC and Faith in Intuition are independent. You can be high in both, low in both, or anywhere." },
+      { name: "Frederick (2005), Cognitive Reflection Test", use: "Measures whether you check your first instinct before trusting it. Behavioral, not self-report." },
+      { name: "Gigerenzer & Gaissmaier (2011), Heuristic Decision Making", use: "People have stable preferences for how they make choices. Grounds the decision-strategy measure." },
     ],
     howItWorks: [
       "8 statements about how much you enjoy thinking, rated on a 5-point agree–disagree scale.",
@@ -130,7 +130,7 @@ export const ASSESSMENTS: Record<string, AssessmentData> = {
       { name: "The Operator", emoji: "⚙️", description: "Acts over reflection. Neither mode dominates." },
     ],
     interpretation:
-      "Your mode describes how you engage with thinking and intuition. They're independent — being high in both isn't better than being low in both. Each mode works well in some contexts and less well in others.",
+      "Your mode describes how you engage with thinking and intuition. They're independent. Being high in both isn't better than being low in both. Each mode works well in some contexts and less well in others.",
     interpretationTips: [
       "Need for Cognition measures enjoyment, not intelligence.",
       "If what you said about your thinking differs from what your choices show, that gap is worth noticing.",
@@ -159,19 +159,19 @@ export const ASSESSMENTS: Record<string, AssessmentData> = {
     theme:
       "Pride is the courage to be who you are openly. The quiet confidence that comes from knowing yourself and choosing to show that self honestly. The assessment measures four parts of that: knowing, showing, claiming, and being seen.",
     constructs: [
-      { name: "Identity Clarity", description: "How clearly and confidently you know your own values, attributes, and preferences — separate from whether you like what you see." },
+      { name: "Identity Clarity", description: "How clearly and confidently you know your own values, attributes, and preferences. Separate from whether you like what you see." },
       { name: "Self-Alignment", description: "How closely what you show matches who you are inside. Same person in public and private, or different sides in different rooms." },
-      { name: "Commitment", description: "Whether your identity feels claimed — 'this is who I am' — or still forming." },
+      { name: "Commitment", description: "Whether your identity feels claimed. 'This is who I am.' Or still forming." },
     ],
     theory: [
-      { name: "Campbell et al. (1996) — Self-Concept Clarity Scale", use: "Core anchor for Identity Clarity. A single, stable dimension distinct from self-esteem." },
-      { name: "Kernis & Goldman (2006) — Multicomponent Authenticity", use: "Four-component model: awareness, unbiased processing, behavior, relational openness." },
-      { name: "Wood et al. (2008) — Authenticity Scale", use: "Three factors: authentic living, self-alienation, accepting external influence." },
-      { name: "Marcia (1966) — Identity Statuses", use: "The commitment-vs-exploration dimension. Whether identity is claimed or still being worked out." },
-      { name: "Vazire (2010) — Self-Other Knowledge Asymmetry", use: "Others sometimes see us more clearly than we see ourselves. Grounds the visibility concept." },
+      { name: "Campbell et al. (1996), Self-Concept Clarity Scale", use: "Core anchor for Identity Clarity. A single, stable dimension distinct from self-esteem." },
+      { name: "Kernis & Goldman (2006), Multicomponent Authenticity", use: "Four-component model: awareness, unbiased processing, behavior, relational openness." },
+      { name: "Wood et al. (2008), Authenticity Scale", use: "Three factors: authentic living, self-alienation, accepting external influence." },
+      { name: "Marcia (1966), Identity Statuses", use: "The commitment-vs-exploration dimension. Whether identity is claimed or still being worked out." },
+      { name: "Vazire (2010), Self-Other Knowledge Asymmetry", use: "Others sometimes see us more clearly than we see ourselves. Grounds the visibility concept." },
     ],
     howItWorks: [
-      "32 questions place you on two continuous scales using a 7-point bipolar format — two opposing statements per item.",
+      "32 questions place you on two continuous scales using a 7-point bipolar format. Two opposing statements per item.",
       "4 additional questions ask whether your identity feels claimed or still forming, same format.",
       "Three scores: Identity Clarity and Self-Alignment (each 0–100), plus a Commitment label (committed, exploring, or open).",
       "Your position on the clarity-alignment plane picks one of four modes. Commitment sits alongside as a modifier.",
@@ -188,7 +188,7 @@ export const ASSESSMENTS: Record<string, AssessmentData> = {
       { name: "The Aurora", emoji: "💠", description: "Fluid inside and out. Self shifts with context." },
     ],
     interpretation:
-      "Your mode describes the relationship between knowing yourself and showing yourself. A Beacon isn't a higher rank than an Aurora — each represents a different way of navigating the space between inner and outer.",
+      "Your mode describes the relationship between knowing yourself and showing yourself. A Beacon isn't a higher rank than an Aurora. Each represents a different way of navigating the space between inner and outer.",
     interpretationTips: [
       "Commitment says something about trajectory, not quality. 'Exploring' is not worse than 'committed.'",
       "High Clarity with low Authenticity means you might know yourself well but hold back from showing it.",
@@ -211,22 +211,22 @@ export const ASSESSMENTS: Record<string, AssessmentData> = {
     questionCount: "28 questions",
     question: "Where does your attention sit, and how do you feel about time passing?",
     overview:
-      "Passage measures which parts of time you live in — past, present, and future — each scored independently. It also asks how you relate to time itself: as a resource you spend, a weight you carry, a gift you receive, or a mystery you dwell in.",
+      "Passage measures which parts of time you live in. Past, present, and future. Each scored independently. It also asks how you relate to time itself: as a resource you spend, a weight you carry, a gift you receive, or a mystery you dwell in.",
     whyItMatters:
       "How you relate to time shapes your priorities, your decisions, and your sense of meaning. People rooted in the past draw identity from memory. People living in the present experience life vividly. People oriented toward the future plan and build. None is better than the others. Understanding your pattern helps you see why you make the choices you do.",
     theme:
       "Time is the medium every life moves through. You can't opt out. Passage doesn't ask how much time you have. It asks how you inhabit the time you're in. Which parts of time do you light up? And how does time itself feel to you?",
     constructs: [
       { name: "Past Engagement", description: "How warmly you connect with your roots, memories, and the people who shaped you." },
-      { name: "Present Engagement", description: "How fully you engage with what's happening now. Not about seeking pleasure — about genuine presence." },
+      { name: "Present Engagement", description: "How fully you engage with what's happening now. Not about seeking pleasure. About genuine presence." },
       { name: "Future Engagement", description: "How strongly goals, dreams, and possibility pull you forward. Positive anticipation, not anxiety." },
       { name: "Temporal Stance", description: "Your relationship to time itself: a resource to spend, a weight to carry, a gift to receive, or a mystery to dwell in." },
     ],
     theory: [
-      { name: "Zimbardo & Boyd (1999) — Time Perspective Inventory", use: "Five distinct factors in how people relate to past, present, and future." },
-      { name: "Sircova et al. (2014) — 24-Country Validation", use: "The five-factor structure holds across 24 countries and 12,200 people." },
-      { name: "Vowinckel et al. (2015) — Present-Eudaimonic Scale", use: "A validated positive-present factor that measures meaningful presence in the moment." },
-      { name: "Carstensen (2021) — Socioemotional Selectivity Theory", use: "How you perceive your time horizons shapes your motivation. Grounds the stance layer." },
+      { name: "Zimbardo & Boyd (1999), Time Perspective Inventory", use: "Five distinct factors in how people relate to past, present, and future." },
+      { name: "Sircova et al. (2014), 24-Country Validation", use: "The five-factor structure holds across 24 countries and 12,200 people." },
+      { name: "Vowinckel et al. (2015), Present-Eudaimonic Scale", use: "A validated positive-present factor that measures meaningful presence in the moment." },
+      { name: "Carstensen (2021), Socioemotional Selectivity Theory", use: "How you perceive your time horizons shapes your motivation. Grounds the stance layer." },
     ],
     howItWorks: [
       "24 statements about your relationship with the past, present, and future, rated on a 5-point agree–disagree scale.",

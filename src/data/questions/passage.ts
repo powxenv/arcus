@@ -1,6 +1,6 @@
 import type { QuestionSet } from "./types";
 
-// PTA: 24 factor items (P×8, R×8, F×8) — 5-point unipolar agree-disagree — +
+// PTA: 24 factor items (P×8, R×8, F×8). 5-point unipolar agree-disagree, plus
 // 4 stance forced-pick items (resource/weight/gift/mystery). Items verbatim from
 // 04-passage-of-time-assessment.md §8 and the PTA build sim. All factor items are
 // engagement-positive (Past-Positive, Present-eudaimonic, Future). The negative
@@ -12,7 +12,7 @@ export const passage: QuestionSet = {
   shortName: "Passage",
   duration: "~6 min",
   summary:
-    "Which temporal zones you engage with (Past, Present, Future) — each scored independently — and your stance toward time itself passing.",
+    "Which temporal zones you engage with. Past, Present, Future, each scored independently. And your stance toward time itself passing.",
   constructs: [
     { key: "past", label: "Past-Positive", role: "factor" },
     { key: "present", label: "Present-Eudaimonic", role: "factor" },
@@ -47,7 +47,7 @@ export const passage: QuestionSet = {
     uni("F3.6", "future", "The sense that good things may lie ahead excites me."),
     uni("F3.7", "future", "A good deal of my energy goes into what's coming."),
     uni("F3.8", "future", "The future feels alive and full of possibility for me."),
-    // Stance (Carstensen grounded) — forced single pick
+    // Stance (Carstensen grounded). uforced single pick
     {
       id: "S1",
       type: "stance",

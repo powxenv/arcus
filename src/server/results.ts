@@ -1,5 +1,5 @@
 // Server functions for anonymous assessment results, per TanStack Start's
-// createServerFn pattern. All DB access and mutations live here — the client
+// createServerFn pattern. All DB access and mutations live here. uthe client
 // never imports drizzle or the D1 binding directly.
 //
 // Each function declares its method (GET for reads, POST for mutations) and a
@@ -109,7 +109,7 @@ export const saveResult = createServerFn({ method: "POST" })
 
 // ── Fetch by token (read, GET) ──────────────────────────────────────────────
 // Returns only completed, shareable results. Raw answers are intentionally NOT
-// returned over the public read path — the shared page shows the derived result
+// returned over the public read path. uthe shared page shows the derived result
 // snapshot only, preserving the respondent's per-question privacy.
 export const getResultByToken = createServerFn({ method: "GET" })
   .validator((token: unknown) => {

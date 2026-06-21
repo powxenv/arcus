@@ -99,7 +99,7 @@ function Theory() {
       <PageStack>
         <Hero eyebrow="Theory" title="Why Arcus works the way it does.">
           Four assessments, each grounded in a different area of psychology. The
-          system shows position and direction — where you stand, and which way
+          system shows position and direction. Where you stand, and which way
           the pattern is moving.
         </Hero>
 
@@ -174,7 +174,7 @@ function Theory() {
           </Tabs>
         </Section>
 
-        <Section title="How they work together" intro="The assessments are separate. The patterns can speak to each other — looking across them helps you notice where different parts of life reinforce one another or pull in different directions.">
+        <Section title="How they work together" intro="The assessments are separate. The patterns can speak to each other. Looking across them helps you notice where different parts of life reinforce one another or pull in different directions.">
           <div className="flex flex-col gap-3">
             {[
               { icon1: decor1, icon2: decor2, title: "Solstice + Turing", desc: "Energy changes how thinking feels: whether reflection feels exciting, effortful, calm, or overstimulating." },

@@ -98,7 +98,7 @@ export function ResultView({
           {result.summary}
         </Hero>
 
-        {/* What this means for you — the heart of the page */}
+        {/* What this means for you */}
         {result.detail ? (
           <Section title="What this means for you">
             <Surface className="flex flex-col gap-3">
@@ -117,7 +117,7 @@ export function ResultView({
           </Section>
         ) : null}
 
-        {/* How this shows up — the modifier layer, woven in plainly */}
+        {/* How this shows up */}
         {modifierLine ? (
           <QuietCallout>
             <p className="text-base text-default-800 leading-relaxed text-pretty">
@@ -130,7 +130,7 @@ export function ResultView({
         {result.scores.length > 0 ? (
           <Section
             title="What this measures in you"
-            intro="Each bar is a separate side of the result. A higher bar isn't better — what matters is the shape they make together."
+            intro="Each bar is a separate side of the result. A higher bar isn't better. What matters is the shape they make together."
           >
             <Surface className="flex flex-col gap-5">
               {result.scores.map((score) => {
@@ -166,7 +166,7 @@ export function ResultView({
           </Section>
         ) : null}
 
-        {/* Useful plain context (e.g. sitting between types) — never technical */}
+        {/* Between-types note */}
         {result.notes && result.notes.length > 0 ? (
           <QuietCallout>
             {result.notes.map((note, i) => (
@@ -186,7 +186,7 @@ export function ResultView({
             <Surface className="flex flex-col gap-3">
               <p className="text-sm text-default-600 leading-relaxed">
                 Save your result to get a link you can share. Shared results are
-                anonymous — they show only the result, never your individual
+                anonymous. They only show the result, never your individual
                 answers.
               </p>
               {shareUrl ? (
@@ -276,9 +276,7 @@ export function ResultView({
   );
 }
 
-// A single warm line about the direction/stance layer, if there is one.
-// Deliberately avoids technical framing — it reads like a continuation of the
-// result, not a separate metric.
+// A single warm line about the direction or stance layer, if there is one.
 function modifierNarrative(result: AssessmentResult): string | null {
   if (!result.modifier) return null;
   const value = result.modifier.value;
@@ -286,27 +284,27 @@ function modifierNarrative(result: AssessmentResult): string | null {
   switch (result.assessmentKey) {
     case "solstice":
       if (value === "waxing")
-        return "Right now, your energy feels like it's still gathering — climbing toward a peak. That's momentum you can spend.";
+        return "Right now, your energy feels like it's still gathering. Climbing toward a peak. That's momentum you can spend.";
       if (value === "waning")
-        return "Right now, your energy feels like it's settling — turning toward rest. That's a natural moment to consolidate before the cycle turns again.";
-      return "Right now, your energy feels level — neither clearly rising nor falling.";
+        return "Right now, your energy feels like it's settling. Turning toward rest. That's a natural moment to consolidate before the cycle turns again.";
+      return "Right now, your energy feels level. Neither clearly rising nor falling.";
     case "pride": {
       if (value === "committed")
-        return "Your identity feels claimed — 'this is who I am.' That settledness can be a real strength, and occasionally a rigidity worth noticing.";
+        return "Your identity feels claimed. 'This is who I am.' That settledness can be a real strength, and occasionally a rigidity worth noticing.";
       if (value === "exploring")
-        return "Your identity still feels in progress — 'I'm becoming.' That openness isn't uncertainty to fix; it's part of how you move.";
-      return "Your identity reads as neither strongly settled nor strongly in flux — more situational than fixed either way.";
+        return "Your identity still feels in progress. 'I'm becoming.' That openness isn't uncertainty to fix; it's part of how you move.";
+      return "Your identity reads as neither strongly settled nor strongly in flux. More situational than fixed either way.";
     }
     case "passage": {
       const map: Record<string, string> = {
         resource:
-          "You relate to time as something to spend well. Worth watching whether that tips into scarcity — measuring it instead of living in it.",
+          "You relate to time as something to spend well. Worth watching whether that tips into measuring it instead of living in it.",
         weight:
           "You carry time as something heavy. If that weight feels sustained rather than passing, it may be worth paying attention to.",
         gift:
           "You receive time as something given. This stance tends to come with gratitude and presence.",
         mystery:
-          "You dwell in time as something to sit with rather than use — less about productivity, more about being inside it.",
+          "You dwell in time as something to sit with rather than use. Less about productivity, more about being inside it.",
       };
       return map[value] ?? null;
     }
@@ -315,15 +313,15 @@ function modifierNarrative(result: AssessmentResult): string | null {
       const gap = result.secondaryModifier?.value;
       const stratText =
         strat === "take-the-best"
-          ? "When it's time to decide, you tend to lean on one strong reason rather than weighing many."
+          ? "When it's time to decide, you lean on one strong reason rather than weighing many."
           : strat === "tallying"
-            ? "When it's time to decide, you tend to weigh many reasons together rather than betting on a single one."
-            : "When it's time to decide, you shift between one strong reason and many reasons depending on the case.";
+            ? "When it's time to decide, you weigh many reasons together rather than betting on a single one."
+            : "When it's time to decide, you shift between one strong reason and many reasons, depending on the case.";
       const gapText =
         gap === "divergent"
-          ? " Interestingly, what you say about your thinking and what your choices actually show point in different directions — and that gap is itself worth noticing."
+          ? " What you say about your thinking and what your choices show point in different directions. That gap is itself worth noticing."
           : gap === "congruent"
-            ? " What you say about your thinking lines up with how your choices actually play out."
+            ? " What you say about your thinking lines up with how your choices play out."
             : "";
       return stratText + gapText;
     }

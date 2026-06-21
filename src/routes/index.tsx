@@ -50,7 +50,7 @@ function Home() {
           See the arc you're on.
         </h1>
         <p className="text-xl max-w-sm mx-auto my-4">
-          See where you stand, and which way you're heading — across energy, thinking, identity, and time.
+          See where you stand, and which way you're heading. Across energy, thinking, identity, and time.
         </p>
         <div className="flex gap-1 justify-center">
           <Link
