@@ -14,6 +14,7 @@ import { Route as TheoryIndexRouteImport } from './routes/theory.index'
 import { Route as StartIndexRouteImport } from './routes/start.index'
 import { Route as AboutIndexRouteImport } from './routes/about.index'
 import { Route as SharedTokenIndexRouteImport } from './routes/shared.$token.index'
+import { Route as AssessmentKeyIndexRouteImport } from './routes/assessment.$key.index'
 import { Route as AssessmentKeyTakeIndexRouteImport } from './routes/assessment.$key.take.index'
 
 const IndexRoute = IndexRouteImport.update({
@@ -41,6 +42,11 @@ const SharedTokenIndexRoute = SharedTokenIndexRouteImport.update({
   path: '/shared/$token/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AssessmentKeyIndexRoute = AssessmentKeyIndexRouteImport.update({
+  id: '/assessment/$key/',
+  path: '/assessment/$key/',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const AssessmentKeyTakeIndexRoute = AssessmentKeyTakeIndexRouteImport.update({
   id: '/assessment/$key/take/',
   path: '/assessment/$key/take/',
@@ -52,6 +58,7 @@ export interface FileRoutesByFullPath {
   '/about/': typeof AboutIndexRoute
   '/start/': typeof StartIndexRoute
   '/theory/': typeof TheoryIndexRoute
+  '/assessment/$key/': typeof AssessmentKeyIndexRoute
   '/shared/$token/': typeof SharedTokenIndexRoute
   '/assessment/$key/take/': typeof AssessmentKeyTakeIndexRoute
 }
@@ -60,6 +67,7 @@ export interface FileRoutesByTo {
   '/about': typeof AboutIndexRoute
   '/start': typeof StartIndexRoute
   '/theory': typeof TheoryIndexRoute
+  '/assessment/$key': typeof AssessmentKeyIndexRoute
   '/shared/$token': typeof SharedTokenIndexRoute
   '/assessment/$key/take': typeof AssessmentKeyTakeIndexRoute
 }
@@ -69,6 +77,7 @@ export interface FileRoutesById {
   '/about/': typeof AboutIndexRoute
   '/start/': typeof StartIndexRoute
   '/theory/': typeof TheoryIndexRoute
+  '/assessment/$key/': typeof AssessmentKeyIndexRoute
   '/shared/$token/': typeof SharedTokenIndexRoute
   '/assessment/$key/take/': typeof AssessmentKeyTakeIndexRoute
 }
@@ -79,6 +88,7 @@ export interface FileRouteTypes {
     | '/about/'
     | '/start/'
     | '/theory/'
+    | '/assessment/$key/'
     | '/shared/$token/'
     | '/assessment/$key/take/'
   fileRoutesByTo: FileRoutesByTo
@@ -87,6 +97,7 @@ export interface FileRouteTypes {
     | '/about'
     | '/start'
     | '/theory'
+    | '/assessment/$key'
     | '/shared/$token'
     | '/assessment/$key/take'
   id:
@@ -95,6 +106,7 @@ export interface FileRouteTypes {
     | '/about/'
     | '/start/'
     | '/theory/'
+    | '/assessment/$key/'
     | '/shared/$token/'
     | '/assessment/$key/take/'
   fileRoutesById: FileRoutesById
@@ -104,6 +116,7 @@ export interface RootRouteChildren {
   AboutIndexRoute: typeof AboutIndexRoute
   StartIndexRoute: typeof StartIndexRoute
   TheoryIndexRoute: typeof TheoryIndexRoute
+  AssessmentKeyIndexRoute: typeof AssessmentKeyIndexRoute
   SharedTokenIndexRoute: typeof SharedTokenIndexRoute
   AssessmentKeyTakeIndexRoute: typeof AssessmentKeyTakeIndexRoute
 }
@@ -145,6 +158,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof SharedTokenIndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/assessment/$key/': {
+      id: '/assessment/$key/'
+      path: '/assessment/$key'
+      fullPath: '/assessment/$key/'
+      preLoaderRoute: typeof AssessmentKeyIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/assessment/$key/take/': {
       id: '/assessment/$key/take/'
       path: '/assessment/$key/take'
@@ -160,6 +180,7 @@ const rootRouteChildren: RootRouteChildren = {
   AboutIndexRoute: AboutIndexRoute,
   StartIndexRoute: StartIndexRoute,
   TheoryIndexRoute: TheoryIndexRoute,
+  AssessmentKeyIndexRoute: AssessmentKeyIndexRoute,
   SharedTokenIndexRoute: SharedTokenIndexRoute,
   AssessmentKeyTakeIndexRoute: AssessmentKeyTakeIndexRoute,
 }

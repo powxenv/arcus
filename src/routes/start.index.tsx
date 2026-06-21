@@ -1,5 +1,7 @@
-import { createFileRoute, useNavigate } from "@tanstack/react-router";
+import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
+import { buttonVariants } from "@heroui/react";
+import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import { ASSESSMENTS } from "../components/assessment-data";
 import { AssessmentStartModal } from "../components/assessment-start-modal";
 import { ResumeModal } from "../components/resume-modal";
@@ -89,11 +91,14 @@ function Start() {
                   {assessment.tagline}
                 </p>
                 <div className="flex flex-wrap gap-2 mt-auto">
-                  <AssessmentStartModal
-                    assessment={assessment}
-                    triggerLabel="Learn more"
-                    triggerClassName="h-8 px-3 text-sm"
-                  />
+                  <Link
+                    to="/assessment/$key"
+                    params={{ key: assessment.key }}
+                    className={buttonVariants({ variant: "outline", className: "h-8 px-3 text-sm" })}
+                  >
+                    Learn more
+                    <SolarArrowRightLineDuotone />
+                  </Link>
                   <AssessmentStartModal
                     assessment={assessment}
                     triggerLabel="Start"
