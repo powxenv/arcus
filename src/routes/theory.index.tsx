@@ -1,12 +1,11 @@
-import { createFileRoute } from "@tanstack/react-router";
-import { Tabs } from "@heroui/react";
+import { createFileRoute, Link } from "@tanstack/react-router";
+import { Tabs, buttonVariants } from "@heroui/react";
 import SolarPlayLineDuotone from "~icons/solar/play-line-duotone";
 import decor1 from "../assets/decoration-1.svg";
 import decor2 from "../assets/decoration-2.svg";
 import decor3 from "../assets/decoration-3.svg";
 import decor4 from "../assets/decoration-4.svg";
 import {
-  ButtonLink,
   CardLink,
   Hero,
   PageCta,
@@ -164,9 +163,13 @@ function Theory() {
                   </ul>
                 </Surface>
 
-                <ButtonLink to="/assessment/$key" params={{ key: t.key }} variant="outline" className="self-start">
+                <Link
+                  to="/assessment/$key"
+                  params={{ key: t.key }}
+                  className={buttonVariants({ variant: "outline", className: "self-start" })}
+                >
                   Learn more about {t.name}
-                </ButtonLink>
+                </Link>
               </Tabs.Panel>
             ))}
           </Tabs>
@@ -197,10 +200,10 @@ function Theory() {
         <PageCta
           title="Ready to explore your own arcs?"
           action={
-            <ButtonLink to="/start" size="lg">
+            <Link to="/start" className={buttonVariants({ size: "lg" })}>
               <SolarPlayLineDuotone />
               Take a test
-            </ButtonLink>
+            </Link>
           }
         >
           Each test takes 6 to 8 minutes. Start with whichever dimension

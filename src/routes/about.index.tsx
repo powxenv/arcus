@@ -1,8 +1,8 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
+import { buttonVariants } from "@heroui/react";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import SolarPlayLineDuotone from "~icons/solar/play-line-duotone";
 import {
-  ButtonLink,
   Hero,
   PageCta,
   PageShell,
@@ -88,19 +88,22 @@ function About() {
               not helpful.
             </p>
           </TextBlock>
-          <ButtonLink to="/theory" variant="outline" className="self-start mt-2">
+          <Link
+            to="/theory"
+            className={buttonVariants({ variant: "outline", className: "self-start mt-2" })}
+          >
             Read the methodology
             <SolarArrowRightLineDuotone />
-          </ButtonLink>
+          </Link>
         </Section>
 
         <PageCta
           title="Ready to see your arc?"
           action={
-            <ButtonLink to="/start" size="lg">
+            <Link to="/start" className={buttonVariants({ size: "lg" })}>
               <SolarPlayLineDuotone />
               Take a test
-            </ButtonLink>
+            </Link>
           }
         >
           Start with whichever dimension interests you most. Each test takes 6

@@ -1,12 +1,12 @@
 import type { ReactNode } from "react";
 import { Link, type LinkProps } from "@tanstack/react-router";
-import { Chip, buttonVariants } from "@heroui/react";
+import { Chip } from "@heroui/react";
 
 export function PageShell({
   children,
   size = "md",
 }: {
-  children: ReactNode;
+  children?: ReactNode;
   size?: "sm" | "md" | "lg";
 }) {
   const max =
@@ -17,8 +17,15 @@ export function PageShell({
   );
 }
 
-export function PageStack({ children }: { children: ReactNode }) {
-  return <div className="flex flex-col gap-18">{children}</div>;
+export function PageStack({
+  children,
+  gap = "md",
+}: {
+  children: ReactNode;
+  gap?: "sm" | "md" | "lg";
+}) {
+  const cls = gap === "lg" ? "gap-18" : gap === "sm" ? "gap-10" : "gap-12";
+  return <div className={`flex flex-col ${cls}`}>{children}</div>;
 }
 
 export function Hero({
@@ -40,7 +47,7 @@ export function Hero({
 
   return (
     <header
-      className={`flex flex-col gap-4 ${
+      className={`flex flex-col gap-3 ${
         isCentered ? "items-center text-center" : "items-start"
       }`}
     >
@@ -49,11 +56,11 @@ export function Hero({
           {eyebrow}
         </Chip>
       ) : null}
-      {icon ? <img className="size-16" src={icon} alt="" /> : null}
-      <h1 className="text-5xl sm:text-6xl font-black leading-[0.95] text-balance">
+      {icon ? <img className="size-14" src={icon} alt="" /> : null}
+      <h1 className="text-4xl sm:text-5xl font-black leading-[1] text-balance">
         {title}
       </h1>
-      <p className="text-xl text-default-500 max-w-2xl leading-relaxed text-pretty">
+      <p className="text-lg text-default-500 max-w-2xl leading-relaxed text-pretty">
         {children}
       </p>
       {meta ? <p className="text-sm text-default-400">{meta}</p> : null}
@@ -71,13 +78,13 @@ export function Section({
   intro?: ReactNode;
 }) {
   return (
-    <section className="flex flex-col gap-5">
-      <div className="flex flex-col gap-2">
-        <h2 className="text-3xl font-bold leading-tight text-balance">
+    <section className="flex flex-col gap-3">
+      <div className="flex flex-col gap-1.5">
+        <h2 className="text-2xl font-bold leading-tight text-balance">
           {title}
         </h2>
         {intro ? (
-          <p className="text-lg text-default-600 leading-relaxed max-w-2xl text-pretty">
+          <p className="text-base text-default-600 leading-relaxed max-w-2xl text-pretty">
             {intro}
           </p>
         ) : null}
@@ -133,32 +140,6 @@ export function QuietCallout({ children }: { children: ReactNode }) {
     <div className="bg-default-50 rounded-2xl border-[.5px] border-default-200 p-5 text-default-800">
       {children}
     </div>
-  );
-}
-
-export function ButtonLink(
-  props: LinkProps & {
-    children: ReactNode;
-    variant?: "primary" | "outline" | "ghost" | "secondary";
-    size?: "sm" | "md" | "lg";
-    className?: string;
-  },
-) {
-  const {
-    children,
-    variant = "primary",
-    size = "md",
-    className,
-    ...linkProps
-  } = props;
-
-  return (
-    <Link
-      {...linkProps}
-      className={buttonVariants({ variant, size, className })}
-    >
-      {children}
-    </Link>
   );
 }
 

@@ -1,10 +1,11 @@
-import { createFileRoute, useParams } from "@tanstack/react-router";
+import { createFileRoute, Link, useParams } from "@tanstack/react-router";
+import { buttonVariants } from "@heroui/react";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import SolarCheckCircleLineDuotone from "~icons/solar/check-circle-line-duotone";
 import { ASSESSMENTS } from "../components/assessment-data";
 import { AssessmentStartModal } from "../components/assessment-start-modal";
+import { RESULT_DETAILS } from "../data/result-details";
 import {
-  ButtonLink,
   CardLink,
   Hero,
   PageCta,
@@ -19,183 +20,6 @@ export const Route = createFileRoute("/assessment/$key/")({
   component: AssessmentDetail,
 });
 
-type ResultDetail = {
-  meaning: string;
-  howToRead: string;
-  distinct: string;
-};
-
-const RESULT_DETAILS: Record<string, Record<string, ResultDetail>> = {
-  solstice: {
-    Summer: {
-      meaning:
-        "Summer describes energy that is both bright and outward-moving. You are likely to feel most yourself when you can act, connect, initiate, and put visible energy into the world.",
-      howToRead:
-        "Read this as a period of available heat. If your trajectory is waxing, momentum is still building and new commitments may feel natural. If it is waning, the same outward energy may still be present, but your system is beginning to ask for consolidation.",
-      distinct:
-        "Summer differs from Autumn by moving outward rather than inward, and from Spring by carrying more immediate activation and force.",
-    },
-    Autumn: {
-      meaning:
-        "Autumn is high activation turned inward. There is energy here, but it is selective, focused, and often concerned with sorting, finishing, refining, or preparing for a release.",
-      howToRead:
-        "This result often points to productive intensity without the same appetite for exposure. You may be busy internally: deciding what matters, cutting what does not, or transforming experience into something useful.",
-      distinct:
-        "Autumn shares Summer's activation, but not its outwardness. It shares Winter's inwardness, but with more charge and movement.",
-    },
-    Winter: {
-      meaning:
-        "Winter describes quiet, inward energy. It is not emptiness or failure; it is the part of the cycle where restoration, depth, and private integration become central.",
-      howToRead:
-        "A Winter result asks you to notice what becomes clearer when you stop pushing. If your trajectory is waxing, energy may be returning slowly. If waning, rest and simplification may be more useful than forcing momentum.",
-      distinct:
-        "Winter differs from Autumn by being lower in activation, and from Spring by turning inward instead of reaching outward.",
-    },
-    Spring: {
-      meaning:
-        "Spring is low activation beginning to move outward. It often feels tentative, fresh, curious, and gently directed toward contact, growth, or new possibility.",
-      howToRead:
-        "This result is best read as emergence rather than weakness. You may not have Summer's force yet, but you may have the first signs of renewed appetite: small initiatives, social openness, or a desire to begin again.",
-      distinct:
-        "Spring shares Winter's softer activation, but not its withdrawal. It shares Summer's outwardness, but at an earlier and more delicate stage of the cycle.",
-    },
-  },
-  turing: {
-    "The Integrator": {
-      meaning:
-        "The Integrator uses both deliberate reasoning and intuitive judgment. You are likely to value analysis, but you also treat felt sense and pattern recognition as legitimate information.",
-      howToRead:
-        "This result does not mean every decision should use both modes equally. It means you have access to both. Your strongest decisions may come from knowing which mode the situation calls for, then letting the other mode check it.",
-      distinct:
-        "Integrator differs from Logician by trusting intuition more, and from Reader by enjoying effortful reasoning more.",
-    },
-    "The Logician": {
-      meaning:
-        "The Logician prefers explicit reasoning, evidence, structure, and careful comparison. You are likely to feel more confident when a conclusion can be explained step by step.",
-      howToRead:
-        "This can be a strength in complex or high-stakes situations, especially when first impressions are unreliable. The reflection point is whether you sometimes dismiss useful intuition because it cannot yet be fully articulated.",
-      distinct:
-        "Logician shares Integrator's appetite for thought, but places less trust in gut feeling. It differs from Operator by being more reflective and analysis-oriented.",
-    },
-    "The Reader": {
-      meaning:
-        "The Reader is guided by intuition, social signal, pattern, and felt recognition. You may reach accurate conclusions quickly without needing to consciously reconstruct every step.",
-      howToRead:
-        "This result is strongest where experience has trained your instincts. It asks you to respect fast perception while also noticing when a decision deserves slower verification.",
-      distinct:
-        "Reader shares Integrator's trust in intuition, but not its same enjoyment of extended analysis. It differs from Operator because intuition, not action alone, is the primary guide.",
-    },
-    "The Operator": {
-      meaning:
-        "The Operator is less invested in both abstract analysis and intuitive self-reading. You may prefer to move, test, adjust, and learn through practical contact with the world.",
-      howToRead:
-        "This is not a lack of intelligence or insight. It often means cognition is most useful to you when it is tied to action. Your reflection point is whether you are skipping a decision mode that a particular situation genuinely needs.",
-      distinct:
-        "Operator differs from Logician and Reader because neither reasoning nor intuition dominates. It is the most action-first of the four modes.",
-    },
-  },
-  pride: {
-    "The Beacon": {
-      meaning:
-        "The Beacon combines clear self-knowledge with open self-expression. There is relatively little distance between what you know internally and what others are allowed to see.",
-      howToRead:
-        "This result points to coherence. Your task is not to become more visible at all costs, but to use that coherence responsibly: choosing contexts where your clarity helps rather than overwhelms.",
-      distinct:
-        "Beacon differs from Prism by being less adaptive in presentation, and from Ember by having a more settled self-concept.",
-    },
-    "The Prism": {
-      meaning:
-        "The Prism knows itself clearly but changes presentation across contexts. You may have a stable inner center while still choosing carefully which parts of yourself each situation receives.",
-      howToRead:
-        "This result can reflect maturity, privacy, strategy, or self-protection. The key question is whether adaptation feels chosen and skillful, or whether it has become a habit of hiding.",
-      distinct:
-        "Prism shares Beacon's clarity, but not its direct visibility. It differs from Aurora because the inner self is more defined even when the outer expression varies.",
-    },
-    "The Ember": {
-      meaning:
-        "The Ember is still forming, but what is expressed tends to be genuine. You may not have a fully settled identity, yet you are willing to show the realness of where you are now.",
-      howToRead:
-        "This result asks for patience with becoming. Authenticity does not require final certainty. You can be honest about an identity that is still warm, changing, and unfinished.",
-      distinct:
-        "Ember shares Beacon's openness, but not its same settled clarity. It differs from Aurora by showing more directly, even while exploring.",
-    },
-    "The Aurora": {
-      meaning:
-        "The Aurora is fluid both internally and externally. Identity may feel contextual, exploratory, responsive, and hard to reduce to one stable statement.",
-      howToRead:
-        "This result is not a defect. It can describe a person in transition or someone whose selfhood is genuinely plural. The reflection point is whether flexibility feels alive, or whether it leaves you unanchored.",
-      distinct:
-        "Aurora differs from Prism because the inner identity is also in motion. It differs from Ember because expression shifts more across contexts.",
-    },
-  },
-  passage: {
-    "The Keeper": {
-      meaning:
-        "The Keeper is anchored by memory, origin, lineage, and what has already shaped you.",
-      howToRead:
-        "Your past is not merely behind you; it remains an active source of meaning. The question is whether it nourishes the present or keeps asking you to return before you can move.",
-      distinct:
-        "Keeper differs from Bridge and Hearth because the past stands alone as the dominant engaged zone.",
-    },
-    "The Witness": {
-      meaning:
-        "The Witness is most alive in the immediacy of experience: what is happening, felt, noticed, and lived now.",
-      howToRead:
-        "This result points to presence rather than passivity. It becomes strongest when attention is deep, not merely when planning and remembering are absent.",
-      distinct:
-        "Witness differs from Flow and Hearth because the present is engaged without a second dominant temporal pull.",
-    },
-    "The Wayfinder": {
-      meaning:
-        "The Wayfinder is oriented toward possibility, direction, goals, and the person you are becoming.",
-      howToRead:
-        "The future gives shape to the present. This can be motivating and clarifying; the reflection point is whether the future also allows room for current life to be fully inhabited.",
-      distinct:
-        "Wayfinder differs from Bridge and Flow because future engagement stands on its own rather than pairing with past or present.",
-    },
-    "The Hearth": {
-      meaning:
-        "The Hearth joins memory with presence. You carry roots, rituals, and continuity into the current moment.",
-      howToRead:
-        "This result often values belonging, tradition, and lived warmth. The past matters because it makes now feel inhabited, not because now is less important.",
-      distinct:
-        "Hearth differs from Keeper by being more present-active, and from Witness by carrying stronger continuity with what came before.",
-    },
-    "The Bridge": {
-      meaning:
-        "The Bridge links origin and destination. You understand the future through the past, and the past through what it makes possible.",
-      howToRead:
-        "This result can create a strong narrative sense of life: where you came from, what it cost, and where it points. The missing question to watch is whether the present becomes only a crossing point.",
-      distinct:
-        "Bridge differs from Hearth by leaning toward future direction, and from Wayfinder by staying rooted in memory.",
-    },
-    "The Flow": {
-      meaning:
-        "The Flow combines present engagement with forward movement. You are likely to feel most alive when today's actions are connected to emerging possibility.",
-      howToRead:
-        "This result is active without being detached from experience. It asks you to keep building while still noticing the life you are inside right now.",
-      distinct:
-        "Flow differs from Witness by adding future pull, and from Wayfinder by remaining strongly present-centered.",
-    },
-    Balanced: {
-      meaning:
-        "Balanced means past, present, and future are all engaged enough to matter. No single temporal zone owns the whole picture.",
-      howToRead:
-        "This is not a superior type; it is a broad pattern. It may feel integrated, but it can also create competing loyalties between memory, immediacy, and aspiration.",
-      distinct:
-        "Balanced differs from all paired types because no major temporal zone is left out.",
-    },
-    "The Wanderer": {
-      meaning:
-        "The Wanderer has no single dominant temporal anchor. Attention may move lightly, situationally, or unpredictably across time.",
-      howToRead:
-        "This can feel free, open, and unburdened, or it can feel unmoored. The key is whether lightness gives you room to live or makes it harder to commit to a direction.",
-      distinct:
-        "Wanderer differs from Balanced because all zones are below the engagement threshold rather than all being strongly engaged.",
-    },
-  },
-};
-
 function AssessmentDetail() {
   const { key } = useParams({ from: "/assessment/$key/" });
   const data = ASSESSMENTS[key];
@@ -205,9 +29,9 @@ function AssessmentDetail() {
       <PageShell size="sm">
         <div className="text-center flex flex-col items-center gap-4">
           <h1 className="text-3xl font-bold">Assessment not found</h1>
-          <ButtonLink to="/" variant="outline">
+          <Link to="/" className={buttonVariants({ variant: "outline" })}>
             Back to home
-          </ButtonLink>
+          </Link>
         </div>
       </PageShell>
     );

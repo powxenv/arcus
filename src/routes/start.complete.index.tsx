@@ -1,7 +1,8 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
+import { buttonVariants } from "@heroui/react";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import { ASSESSMENTS } from "../components/assessment-data";
-import { ButtonLink, Hero, PageShell, PageStack, QuietCallout } from "../components/ui-system";
+import { Hero, PageShell, PageStack, QuietCallout } from "../components/ui-system";
 
 export const Route = createFileRoute("/start/complete/")({
   component: CompleteExperience,
@@ -37,13 +38,17 @@ function CompleteExperience() {
         </QuietCallout>
 
         <div className="flex flex-wrap gap-2">
-          <ButtonLink to="/start" variant="outline">
+          <Link to="/start" className={buttonVariants({ variant: "outline" })}>
             Choose individual assessments
-          </ButtonLink>
-          <ButtonLink to="/assessment/$key/take" params={{ key: "solstice" }}>
+          </Link>
+          <Link
+            to="/assessment/$key/take"
+            params={{ key: "solstice" }}
+            className={buttonVariants()}
+          >
             Start with Solstice
             <SolarArrowRightLineDuotone />
-          </ButtonLink>
+          </Link>
         </div>
       </PageStack>
     </PageShell>

@@ -1,11 +1,17 @@
-import { createFileRoute, Link } from "@tanstack/react-router";
-import { Button, Modal, buttonVariants } from "@heroui/react";
+import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
+import { useEffect, useState } from "react";
+import { Modal, buttonVariants } from "@heroui/react";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import SolarPlayLineDuotone from "~icons/solar/play-line-duotone";
 import { ASSESSMENTS } from "../components/assessment-data";
 import { AssessmentStartModal } from "../components/assessment-start-modal";
+import { ResumeModal } from "../components/resume-modal";
 import {
-  ButtonLink,
+  clearProgress,
+  loadProgress,
+  type AssessmentProgress,
+} from "../lib/assessment-progress";
+import {
   Hero,
   PageShell,
   PageStack,
@@ -22,6 +28,36 @@ const totalQuestions = assessments.reduce((sum, item) => {
 }, 0);
 
 function Start() {
+  const navigate = useNavigate();
+  const [resumeProgress, setResumeProgress] = useState<AssessmentProgress | null>(
+    null,
+  );
+  const [resumeOpen, setResumeOpen] = useState(false);
+
+  useEffect(() => {
+    let cancelled = false;
+    loadProgress().then((progress) => {
+      if (cancelled || !progress) return;
+      setResumeProgress(progress);
+      setResumeOpen(true);
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const continueAssessment = () => {
+    const key = resumeProgress?.assessmentKey;
+    setResumeOpen(false);
+    if (key) navigate({ to: "/assessment/$key/take", params: { key } });
+  };
+
+  const startOver = () => {
+    clearProgress();
+    setResumeProgress(null);
+    setResumeOpen(false);
+  };
+
   return (
     <PageShell>
       <PageStack>
@@ -36,18 +72,9 @@ function Start() {
         >
           <Surface className="flex flex-col gap-5">
             <div className="grid sm:grid-cols-3 gap-3">
-              <div className="bg-default-50 rounded-xl border-[.5px] border-default-200 p-4">
-                <p className="text-xs text-default-400">Assessments</p>
-                <p className="font-bold mt-1">4 assessments</p>
-              </div>
-              <div className="bg-default-50 rounded-xl border-[.5px] border-default-200 p-4">
-                <p className="text-xs text-default-400">Questions</p>
-                <p className="font-bold mt-1">{totalQuestions} questions</p>
-              </div>
-              <div className="bg-default-50 rounded-xl border-[.5px] border-default-200 p-4">
-                <p className="text-xs text-default-400">Time</p>
-                <p className="font-bold mt-1">~30 min</p>
-              </div>
+              <StatTile label="Assessments" value="4 assessments" />
+              <StatTile label="Questions" value={`${totalQuestions} questions`} />
+              <StatTile label="Time" value="~30 min" />
             </div>
             <p className="text-default-600 leading-relaxed">
               The complete flow combines all four assessments so your final
@@ -80,15 +107,17 @@ function Start() {
                   {assessment.tagline}. {assessment.overview}
                 </p>
                 <div className="flex flex-wrap gap-2 mt-auto">
-                  <ButtonLink
+                  <Link
                     to="/assessment/$key"
                     params={{ key: assessment.key }}
-                    variant="outline"
-                    className="h-8 px-3 text-sm"
+                    className={buttonVariants({
+                      variant: "outline",
+                      className: "h-8 px-3 text-sm",
+                    })}
                   >
                     Learn more
                     <SolarArrowRightLineDuotone />
-                  </ButtonLink>
+                  </Link>
                   <AssessmentStartModal
                     assessment={assessment}
                     triggerLabel="Start"
@@ -100,18 +129,32 @@ function Start() {
           </div>
         </Section>
       </PageStack>
+
+      <ResumeModal
+        progress={resumeProgress}
+        open={resumeOpen}
+        onContinue={continueAssessment}
+        onStartOver={startOver}
+      />
     </PageShell>
+  );
+}
+
+function StatTile({ label, value }: { label: string; value: string }) {
+  return (
+    <div className="bg-default-50 rounded-xl border-[.5px] border-default-200 p-4">
+      <p className="text-xs text-default-400">{label}</p>
+      <p className="font-bold mt-1">{value}</p>
+    </div>
   );
 }
 
 function CompleteStartModal() {
   return (
     <Modal>
-      <Modal.Trigger>
-        <Button>
-          <SolarPlayLineDuotone />
-          Start complete experience
-        </Button>
+      <Modal.Trigger className={buttonVariants({ className: "self-start" })}>
+        <SolarPlayLineDuotone />
+        Start complete experience
       </Modal.Trigger>
       <Modal.Backdrop>
         <Modal.Container size="lg" placement="center">
@@ -128,24 +171,28 @@ function CompleteStartModal() {
                   identity, and relationship with time.
                 </p>
                 <div className="grid grid-cols-3 gap-3">
-                  <div className="bg-default-50 rounded-xl border-[.5px] border-default-200 p-4">
-                    <p className="text-xs text-default-400">Assessments</p>
-                    <p className="font-bold mt-1">4</p>
-                  </div>
-                  <div className="bg-default-50 rounded-xl border-[.5px] border-default-200 p-4">
-                    <p className="text-xs text-default-400">Questions</p>
-                    <p className="font-bold mt-1">{totalQuestions}</p>
-                  </div>
-                  <div className="bg-default-50 rounded-xl border-[.5px] border-default-200 p-4">
-                    <p className="text-xs text-default-400">Time</p>
-                    <p className="font-bold mt-1">~30 min</p>
-                  </div>
+                  <StatTile label="Assessments" value="4" />
+                  <StatTile label="Questions" value={`${totalQuestions}`} />
+                  <StatTile label="Time" value="~30 min" />
                 </div>
+                <p className="text-sm text-default-500">
+                  The full combined questionnaire is still being built. You can
+                  begin with Solstice now and take the rest individually.
+                </p>
               </div>
             </Modal.Body>
             <Modal.Footer>
-              <Link to="/start/complete" className={buttonVariants()}>
-                Begin complete experience
+              <Modal.CloseTrigger
+                className={buttonVariants({ variant: "ghost" })}
+              >
+                Not yet
+              </Modal.CloseTrigger>
+              <Link
+                to="/assessment/$key/take"
+                params={{ key: "solstice" }}
+                className={buttonVariants()}
+              >
+                Begin with Solstice
                 <SolarArrowRightLineDuotone />
               </Link>
             </Modal.Footer>

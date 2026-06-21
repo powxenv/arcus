@@ -2,6 +2,91 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.29 (2026-06-21): Results page refinement and take-flow hierarchy
+
+Why: the results page felt disconnected (oversized section gaps), read like a technical report (formulas, model versions, validation disclaimers), and the take flow buried the actual question under helper text.
+
+### Results page
+
+- Tightened visual rhythm: reduced section-to-section spacing and internal section gaps so the page reads as one connected narrative instead of stacked blocks.
+- Cut all user-facing technical content: removed the "how this was derived" methodology section, the geometry/prototypicality numbers, the evidence-vs-synthesis disclaimers, synthesis labels, construct names, citation references, and per-score role tags (facet/axis/scale).
+- Rewrote every result explanation in plain second-person language and added a new "everyday" interpretation for each result type — how the trait tends to show up at work, in relationships, in decisions, and in energy.
+- Rewrote dimension explanations to be short, practical descriptions of what a high/low bar looks like in life (no jargon).
+- Rewrote result summaries to be warm one-line framings (the MMA summary no longer exposes "Epstein's verified orthogonality, r ≈ .08").
+- Kept only one plain, useful note on the results page: the "you're close to the line / between types" context for Passage. Dropped the technical honesty notes.
+- Removed the unused `methodology.ts` data module and stopped attaching technical `notes` to scored results (cleaner stored/shared payloads).
+- Consolidated the page into fewer, denser sections: headline → what this means for you (meaning + everyday life + how to read, in one surface) → direction/stance line → dimensions → save & share → one honest disclaimer.
+
+### Take-flow hierarchy
+
+- Made the question itself the focal point across all five input types. For bipolar items the stem ("When you wake, you're…") is now the prominent heading; the redundant "Which side are you closer to?" was removed since the two pole anchors make the task clear.
+- For heuristic items the scenario is now the dominant heading; "Which would you choose?" was demoted to a small quiet cue.
+- Standardized the question heading size and weight so it's always the single most prominent element on screen.
+- Quieted supporting elements: progress bar text and bar are smaller and lighter, the duplicate "X / Y" footer counter was removed (the progress bar already shows it), and pole-anchor labels read at a calm secondary weight.
+- Adjusted spacing so the question has room to dominate and the input follows it without competing.
+
+### Validation
+
+- `npx tsc --noEmit` clean; `npx vite build` passes; scoring suite 31/31 pass; all take, detail, and start routes return 200 with no runtime errors.
+
+## v0.28 (2026-06-21): Research alignment rebuild + persistent results, shareable links, and expanded results
+
+Why: an audit against the research docs found the assessment implementation diverged sharply from the v0.23 specs across all four tests. This revision rebuilds the data, scoring, and take flow to match the research, then layers on persistent anonymous storage, shareable links, and a comprehensive results view.
+
+### Research alignment fixes (all four tests)
+
+- **SCA** rebuilt to the spec: 32 position items across 4 facets (A1 Baseline Arousal, A2 Stimulation Appetite, B1 Social Approach, B2 Agency) + 4 trajectory items, in the 7-point bipolar two-anchor format. Scoring now uses facet→axis means, prototypicality (distance/70.7), phase angle, gradation, facet-tension detection (TENSION_MARGIN=20), and the Threshold boundary (r<0.28). Trajectory is scored waxing/waning/steady from bipolar means.
+- **MMA** rebuilt to the spec: 8 NFC + 8 FI in the native 5-point unipolar format + 5 CRT behavioral override items + 10-item heuristics battery. Adds strategy classification (take-the-best/tallying/adaptive), the stated-vs-observed gap (congruent/divergent/neutral), override rate, and The Generalist boundary.
+- **SSA** rebuilt to the spec: 32 position items across 4 facets (A1 Self-Knowledge, A2 Self-Consistency, B1 Authentic Living, B2 Relational Authenticity) + 4 Marcia commitment items, 7-point bipolar format. Same circumplex model as SCA, with The Reflection boundary and commitment scored committed/exploring/open. Informant visibility path remains a deferred build feature.
+- **PTA** rebuilt to the spec: 24 factor items (Past-Positive, Present-Eudaimonic, Future) in the native 5-point unipolar format + 4 stance forced-pick items. Eight types from threshold-60 patterns, with a "between types" note when any factor is within ±5 of the threshold. Stance scored as majority across the four picks.
+- Moved all questions out of components into `src/data/questions/` as typed TS data modules (replacing the earlier JSON stubs). Each item is verbatim from its design doc.
+- Moved result-detail copy into `src/data/result-details.ts` and added the missing boundary types (Threshold, Reflection, Generalist).
+- Added a scoring verification suite (`src/lib/scoring.test.ts`) with 31 canonical cases mirroring the research sims; all pass.
+
+### Persistent anonymous results + shareable links
+
+- Added a D1 schema (`src/db/schema.ts`) for anonymous results: share token, assessment key, result type, raw answers (for future re-analysis), derived-result snapshot, optional nickname, timestamps. Generated the migration in `drizzle/`.
+- Added server functions per TanStack Start's `createServerFn` pattern (`src/server/results.ts`): `saveResult` (POST, generates the share token server-side) and `getResultByToken` (GET, returns only the derived snapshot, never the raw answers). The read path fails gracefully to "not found" if storage is unavailable.
+- Added `/shared/$token` route rendering a read-only shared result.
+- Wired the owner's results view to save and produce a shareable link, with copy-to-clipboard and an open-share-page action.
+
+### Expanded results view
+
+- Added a comprehensive, reusable `ResultView` used by both the take flow and the shared page.
+- Sections now cover: headline result, the v0.23 modifier layer with a plain-language narrative, what the result means (meaning / how to read / what makes it different), per-dimension scores with bars and per-dimension interpretation, wheel geometry (prototypicality, gradation, facet-tension note) for the two-axis tests, how the result was derived (methodology + evidence-vs-synthesis honesty), worth-knowing notes, and save/share actions.
+- Added `src/data/dimension-explanations.ts` and `src/data/methodology.ts` so the results view can explain what each dimension measures and exactly how the result was computed, per assessment.
+
+### Other
+
+- Removed the unused `ButtonLink` abstraction; navigation buttons use the header's inline `Link` + `buttonVariants` pattern.
+- Updated `assessment.$key.take` to handle all five input types (bipolar 7-pt, unipolar 5-pt, CRT free-text, heuristics A/B, stance forced-pick) with per-type prompts and Continue where auto-advance is wrong.
+
+Limitations (unchanged scope):
+
+- Results are computed locally; persistence is opt-in via the share action.
+- The complete-experience flow still begins with Solstice.
+- Informant visibility path (SSA) and the rotated CRT item bank remain deferred build features.
+
+## v0.27 (2026-06-21): Assessment-taking experience, encrypted progress, and data-driven questions
+
+Why: the start flow needed a real questionnaire behind it, with the ability to continue later, while questions stopped being hardcoded into components.
+
+Changes:
+
+- Moved assessment questions out of components into JSON files under `src/data/questions/` (one per assessment) with a typed loader.
+- Moved result detail copy into `src/data/result-details.ts` so it is shared by the detail page and the scorer instead of duplicated.
+- Added encrypted localStorage via the Web Crypto API (`src/lib/crypto-storage.ts`, AES-GCM) and a progress module (`src/lib/assessment-progress.ts`) that saves answers, position, and assessment key.
+- Added a static, non-clinical scorer (`src/lib/scoring.ts`) that derives the result type, direction modifier, and per-dimension scores from answers. Results are computed in-memory and cleared on completion; they are not persisted.
+- Built the full `/assessment/$key/take` flow: intro, one-question-at-a-time UI with a progress bar, likert and choice inputs, back navigation, auto-save, and a results view.
+- Added a resume modal on `/start` that detects unfinished progress and offers Continue or Start over. The take route silently restores matching progress on refresh.
+- Removed the `ButtonLink` abstraction per feedback; navigation buttons now use the header's inline `Link` + `buttonVariants` pattern, and modal triggers use `Modal.Trigger` with `buttonVariants` directly instead of a nested button.
+- Fixed the take route location to match the project's `.index.tsx` leaf convention (removed an accidental parent layout route).
+
+Limitations:
+
+- The complete-experience flow is still a placeholder; starting it begins with Solstice.
+- Results are static and intentionally not persisted after the page is left.
+
 ## v0.26 (2026-06-21): Assessment entry page and start confirmation flow
 
 Why: primary CTAs needed to lead to one clear assessment entry point, and individual assessment starts needed a confirmation step before beginning.
