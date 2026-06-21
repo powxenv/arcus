@@ -18,28 +18,28 @@ const CARDS = [
     decor: decor1,
     rotation: "rotate-6",
     title: "The Solstice Cycle Assessment",
-    desc: "Your energy has a natural rhythm. This test shows you where you sit on that cycle right now, and whether you're building toward a peak or settling into rest.",
+    desc: "Your energy has a rhythm. Where you sit on that cycle right now, and whether you're building toward a peak or settling into rest.",
   },
   {
     key: "turing",
     decor: decor2,
     rotation: "-rotate-4",
     title: "The Modes of Mind Assessment",
-    desc: "You might say you think things through carefully, but do your actual choices confirm that? This test compares what you believe about your own thinking with how you really decide.",
+    desc: "Compare what you believe about your own thinking with how you actually decide. The gap between the two is the point.",
   },
   {
     key: "pride",
     decor: decor3,
     rotation: "-rotate-4",
     title: "The Spectrum of Self Assessment",
-    desc: "How well do you actually know yourself, and how closely does what you show the world match who you are inside? This test explores the gap between self-knowledge and self-expression.",
+    desc: "How well you know yourself, and how closely what you show matches who you are inside. The gap between self-knowledge and self-expression.",
   },
   {
     key: "passage",
     decor: decor4,
     rotation: "rotate-6",
     title: "The Passage of Time Assessment",
-    desc: "Where does your attention naturally sit? In the past, the present, or the future? This test maps which parts of time you engage with most, and how you feel about time moving forward.",
+    desc: "Where your attention sits across past, present, and future, and how you feel about time moving forward.",
   },
 ] as const;
 
@@ -51,8 +51,7 @@ function Home() {
           See the arc you're on.
         </h1>
         <p className="text-xl max-w-sm mx-auto my-4">
-          Find out not just where you stand, but which direction you're heading.
-          Four assessments, each revealing a different part of who you are.
+          See where you stand, and which way you're heading — across energy, thinking, identity, and time.
         </p>
         <div className="flex gap-1 justify-center">
           <Link

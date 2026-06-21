@@ -2,6 +2,32 @@
 
 Format: one entry per revision. Each states what changed and why. Newest first.
 
+## v0.30 (2026-06-21): Accuracy fixes, typography, and stop-slop prose pass
+
+Why: question counts and durations on every page were wrong (showing old placeholder numbers), pole labels in the take flow were hard to read, and the prose carried stop-slop patterns — binary contrasts, adverbs, throat-clearing, and business jargon.
+
+### Accuracy fixes
+
+- Updated all assessment question counts and durations in `assessment-data.ts` to match the actual implementation: SCA 36 questions (~10 min), MMA 31 (~9 min), SSA 36 (~10 min), PTA 28 (~8 min).
+- Updated the `howItWorks` descriptions to reflect the real item counts and formats instead of the old placeholder estimates.
+- Updated the complete experience total from ~30 min to ~35 min on the start page.
+- Updated the theory page CTA from "6 to 8 minutes" to "8 to 10 minutes."
+- Updated the about page CTA from "6 to 8 minutes" to "8 to 10 minutes."
+
+### Typography
+
+- Bumped bipolar pole-anchor labels in the take flow from `text-sm` to `text-base font-medium` so the two answer choices are clearly readable.
+- Bumped dimension-explanation hints in the results view from `text-xs` to `text-sm`.
+
+### Stop-slop prose pass
+
+- assessment-data.ts: removed binary contrasts ("not X, but Y"), adverbs, rhetorical questions, throat-clearing ("the key insight"), and three-item lists throughout overviews, whyItMatters, themes, constructs, and interpretation sections.
+- Landing page: cut the "not just X, but Y" additive hedge from the hero and cleaned card descriptions — removed rhetorical questions, adverbs ("actually"), and three-item lists.
+- About page: removed "not a fixed type ... always becoming" pattern, "not just position", "not a binary label", "not a clinical assessment" double negation, and passive third-person voice. Tightened CTA duration.
+- Theory page: cleaned the framework intro, removed "but" from section headers, fixed broken contrast ("clearer, not louder"), and updated duration.
+- Start page: shortened hero, tightened the complete-experience description, removed redundant assessment overview from individual cards (showing tagline only), and fixed modal body text.
+- Assessment start modal: fixed the nested-`Button`-inside-`Modal.Trigger` anti-pattern that caused buttons to look wrong. Removed the clinical "Core question" label.
+
 ## v0.29 (2026-06-21): Results page refinement and take-flow hierarchy
 
 Why: the results page felt disconnected (oversized section gaps), read like a technical report (formulas, model versions, validation disclaimers), and the take flow buried the actual question under helper text.

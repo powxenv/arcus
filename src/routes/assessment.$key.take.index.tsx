@@ -406,7 +406,7 @@ function Segmented({
           </button>
         );
       })}
-      <div className="col-span-full flex items-center justify-between text-sm text-default-600 px-1">
+      <div className="col-span-full flex items-center justify-between text-base font-medium text-default-700 px-1">
         <span>{labels[0]}</span>
         <span>{labels[1]}</span>
       </div>

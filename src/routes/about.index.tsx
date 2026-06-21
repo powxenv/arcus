@@ -25,14 +25,13 @@ function About() {
         <Section title="What Arcus is">
           <TextBlock>
             <p>
-              Arcus is a personality platform built around one idea: you are not
-              a fixed type. You are always in motion, always becoming. The four
-              assessments each trace a different part of that motion.
+              Arcus is built around one idea: you are never one fixed point. The
+              four assessments each trace a different part of that motion.
             </p>
             <p>
               The name comes from the Latin word for arc. An arc has a shape, a
               direction, and a span. It connects where you were to where you're
-              going. That's what Arcus tries to show you.
+              going.
             </p>
           </TextBlock>
         </Section>
@@ -40,15 +39,14 @@ function About() {
         <Section title="Why we built it">
           <TextBlock>
             <p>
-              Personality tests are everywhere, but many take a snapshot and
-              treat it like the whole picture. You answer a batch of questions,
-              get sorted into a category, and the result becomes a label.
+              Personality tests are everywhere. Too many take a snapshot and
+              call it the whole picture. You answer a batch of questions, get
+              sorted into a category, and the result becomes a label.
             </p>
             <p>
-              Arcus was built to capture direction, not just position. Your
-              energy rises and falls. Your sense of self sharpens or softens.
-              The way you relate to time shifts as life changes. That movement
-              is the arc.
+              Arcus captures direction. Your energy rises and falls. Your sense
+              of self sharpens or softens. The way you relate to time shifts as
+              life changes. That movement is the arc.
             </p>
           </TextBlock>
         </Section>
@@ -59,8 +57,8 @@ function About() {
         >
           <ul className="flex flex-col gap-3 text-lg text-default-600">
             {[
-              ["Where you stand.", "A clear position on each dimension, not a binary label."],
-              ["Which direction you're heading.", "A sense of whether a pattern is building, settling, opening, or consolidating."],
+              ["Where you stand.", "A specific position on each dimension, not a label."],
+              ["Which direction you're heading.", "Whether a pattern is building, settling, opening, or consolidating."],
               ["The fuller picture.", "When you take more than one assessment, you can see how different parts of your life interact."],
             ].map(([title, body], i) => (
               <li key={title} className="flex gap-3">
@@ -78,14 +76,13 @@ function About() {
         <Section title="What to keep in mind">
           <TextBlock>
             <p>
-              Arcus is for self-discovery and reflection. It is not a clinical
-              assessment, and it does not diagnose anything.
+              Arcus is for self-discovery and reflection. It doesn't diagnose
+              anything.
             </p>
             <p>
-              Every assessment is grounded in published psychology, but Arcus
-              itself is not a validated clinical instrument. We state that
-              openly because a test that claims more certainty than it has is
-              not helpful.
+              Every assessment is grounded in published psychology. Arcus itself
+              is not a validated clinical instrument. A test that claims more
+              than it can back up helps nobody.
             </p>
           </TextBlock>
           <Link
@@ -106,8 +103,8 @@ function About() {
             </Link>
           }
         >
-          Start with whichever dimension interests you most. Each test takes 6
-          to 8 minutes.
+          Start with whichever dimension feels most useful. Each test takes 8 to
+          10 minutes.
         </PageCta>
       </PageStack>
     </PageShell>

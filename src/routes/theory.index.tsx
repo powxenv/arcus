@@ -99,11 +99,11 @@ function Theory() {
       <PageStack>
         <Hero eyebrow="Theory" title="Why Arcus works the way it does.">
           Four assessments, each grounded in a different area of psychology. The
-          system is built to show both position and direction: where you stand
-          right now, and which way the pattern is moving.
+          system shows position and direction — where you stand, and which way
+          the pattern is moving.
         </Hero>
 
-        <Section title="The framework" intro="Arcus measures four parts of a person in motion: energy, thinking, identity, and time. Each assessment keeps its own domain narrow so the final picture is clearer, not louder.">
+        <Section title="The framework" intro="Arcus measures four parts of a person: energy, thinking, identity, and time. Each assessment stays narrow so each domain stays sharp and the four together don't blur.">
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
             {THEMES.map((t) => (
               <CardLink
@@ -120,7 +120,7 @@ function Theory() {
           </div>
         </Section>
 
-        <Section title="Inside each assessment" intro="Each assessment has a central question, a theme that makes the idea easier to remember, and research-backed dimensions that produce the result.">
+        <Section title="Inside each assessment" intro="Each assessment has a central question, a theme that anchors the idea, and research-backed dimensions that do the measuring.">
           <Tabs defaultSelectedKey={THEMES[0].key} className="w-full">
             <Tabs.ListContainer>
               <Tabs.List aria-label="Assessments">
@@ -175,7 +175,7 @@ function Theory() {
           </Tabs>
         </Section>
 
-        <Section title="How they work together" intro="The assessments are separate, but the patterns can speak to each other. Looking across them helps users notice where different parts of life reinforce one another or pull in different directions.">
+        <Section title="How they work together" intro="The assessments are separate. The patterns can speak to each other — looking across them helps you notice where different parts of life reinforce one another or pull in different directions.">
           <div className="flex flex-col gap-3">
             {[
               { icon1: decor1, icon2: decor2, title: "Solstice + Turing", desc: "Energy changes how thinking feels: whether reflection feels exciting, effortful, calm, or overstimulating." },
@@ -206,8 +206,8 @@ function Theory() {
             </Link>
           }
         >
-          Each test takes 6 to 8 minutes. Start with whichever dimension
-          interests you most.
+          Each test takes 8 to 10 minutes. Start with whichever feels most
+          useful.
         </PageCta>
       </PageStack>
     </PageShell>

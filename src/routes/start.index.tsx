@@ -74,7 +74,7 @@ function Start() {
             <div className="grid sm:grid-cols-3 gap-3">
               <StatTile label="Assessments" value="4 assessments" />
               <StatTile label="Questions" value={`${totalQuestions} questions`} />
-              <StatTile label="Time" value="~30 min" />
+              <StatTile label="Time" value="~35 min" />
             </div>
             <p className="text-default-600 leading-relaxed">
               The complete flow combines all four assessments so your final
@@ -104,7 +104,7 @@ function Start() {
                   </div>
                 </div>
                 <p className="text-sm text-default-600 leading-relaxed">
-                  {assessment.tagline}. {assessment.overview}
+                  {assessment.tagline}
                 </p>
                 <div className="flex flex-wrap gap-2 mt-auto">
                   <Link
@@ -173,11 +173,11 @@ function CompleteStartModal() {
                 <div className="grid grid-cols-3 gap-3">
                   <StatTile label="Assessments" value="4" />
                   <StatTile label="Questions" value={`${totalQuestions}`} />
-                  <StatTile label="Time" value="~30 min" />
+                  <StatTile label="Time" value="~35 min" />
                 </div>
                 <p className="text-sm text-default-500">
-                  The full combined questionnaire is still being built. You can
-                  begin with Solstice now and take the rest individually.
+                  The combined questionnaire is a work in progress. Begin with
+                  Solstice now and take the rest afterward.
                 </p>
               </div>
             </Modal.Body>

@@ -62,7 +62,6 @@ export function AssessmentStartModal({
                 </div>
 
                 <div className="bg-default-50 rounded-xl border-[.5px] border-default-200 p-4">
-                  <p className="text-xs text-default-400 mb-1">Core question</p>
                   <p className="font-semibold text-default-800">
                     {assessment.question}
                   </p>
@@ -75,7 +74,7 @@ export function AssessmentStartModal({
                 params={{ key: assessment.key }}
                 className={buttonVariants()}
               >
-                Begin assessment
+                Begin
                 <SolarArrowRightLineDuotone />
               </Link>
             </Modal.Footer>

@@ -152,7 +152,7 @@ export function ResultView({
                       />
                     </div>
                     {expl ? (
-                      <p className="text-xs text-default-500 leading-relaxed">
+                      <p className="text-sm text-default-500 leading-relaxed">
                         {expl.plain}{" "}
                         <span className="text-default-400">
                           {score.value >= 50 ? expl.high : expl.low}
