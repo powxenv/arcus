@@ -45,6 +45,7 @@ export type SaveResultInput = {
   answers: Record<string, number | string>;
   result: StoredResult;
   nickname?: string;
+  aiAnalysis?: string | null;
 };
 
 export type SaveResultOutput = {
@@ -58,6 +59,7 @@ export type PublicSharedResult = {
   result: StoredResult;
   nickname: string | null;
   createdAt: number;
+  aiAnalysis: string | null;
 };
 
 function isStringRecord(v: unknown): v is Record<string, number | string> {
@@ -103,6 +105,7 @@ export const saveResult = createServerFn({ method: "POST" })
       nickname: data.nickname ?? null,
       createdAt: now,
       completedAt: now,
+      aiAnalysis: data.aiAnalysis ?? null,
     });
     return { shareToken } satisfies SaveResultOutput;
   });
@@ -142,5 +145,29 @@ export const getResultByToken = createServerFn({ method: "GET" })
       result: JSON.parse(row.result) as StoredResult,
       nickname: row.nickname ?? null,
       createdAt: row.createdAt,
+      aiAnalysis: row.aiAnalysis,
     } satisfies PublicSharedResult;
+  });
+
+// ── Update AI analysis (mutation, POST) ───────────────────────────────────────
+// Called after AI analysis is generated on the results page, so the shared
+// snapshot stays consistent with what the owner sees.
+export const updateAIAnalysis = createServerFn({ method: "POST" })
+  .validator((raw: unknown) => {
+    if (typeof raw !== "object" || raw === null) throw new Error("Invalid payload");
+    const r = raw as Record<string, unknown>;
+    if (typeof r.shareToken !== "string" || !r.shareToken) throw new Error("shareToken required");
+    if (r.aiAnalysis !== undefined && typeof r.aiAnalysis !== "string") throw new Error("aiAnalysis must be a string");
+    return { shareToken: r.shareToken, aiAnalysis: (r.aiAnalysis as string) ?? null };
+  })
+  .handler(async ({ data }) => {
+    try {
+      await db
+        .update(results)
+        .set({ aiAnalysis: data.aiAnalysis })
+        .where(eq(results.shareToken, data.shareToken));
+    } catch {
+      // Silently ignore update failures so the results page never breaks.
+    }
+    return { ok: true };
   });

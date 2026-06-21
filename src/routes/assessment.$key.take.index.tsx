@@ -14,6 +14,7 @@ import {
 import { computeResult, type AssessmentResult } from "../lib/scoring";
 import { ResultView } from "../components/result-view";
 import { PageShell } from "../components/ui-system";
+import { saveResult } from "../server/results";
 
 export const Route = createFileRoute("/assessment/$key/take/")({
   component: AssessmentTake,
@@ -46,6 +47,7 @@ function AssessmentTake() {
   const [index, setIndex] = useState(0);
   const [result, setResult] = useState<AssessmentResult | null>(null);
   const [pendingFinish, setPendingFinish] = useState<Answers | null>(null);
+  const [shareToken, setShareToken] = useState<string | null>(null);
 
   const total = set?.questions.length ?? 0;
   const current = set?.questions[index];
@@ -93,6 +95,24 @@ function AssessmentTake() {
     },
     [set],
   );
+
+  // Auto-save the result as soon as it is computed so the share link is
+  // available immediately and analytics data is retained regardless of
+  // whether the user clicks Share.
+  useEffect(() => {
+    if (phase !== "results" || !result || !set) return;
+    saveResult({
+      data: {
+        assessmentKey: result.assessmentKey,
+        resultType: result.type,
+        answers,
+        result: result as never,
+        aiAnalysis: null,
+      },
+    })
+      .then((out) => setShareToken(out.shareToken))
+      .catch(() => {});
+  }, [phase, result, answers, set]);
 
   const advance = useCallback(() => {
     const nextIdx = index + 1;
@@ -210,6 +230,7 @@ function AssessmentTake() {
         answers={answers}
         own
         onRetake={startFresh}
+        initialShareToken={shareToken}
       />
     );
   }

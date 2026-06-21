@@ -8,7 +8,7 @@ import type { QuestionSet } from "../data/questions";
 import { DIMENSION_EXPLANATIONS } from "../data/dimension-explanations";
 import { RESULT_DETAILS } from "../data/result-details";
 import { ASSESSMENTS } from "./assessment-data";
-import { saveResult } from "../server/results";
+import { updateAIAnalysis } from "../server/results";
 import { getAIAnalysis } from "../server/ai-analysis";
 import {
   Hero,
@@ -27,6 +27,8 @@ type Props = {
   // and retake. When false (shared view), show only the read-only result.
   own?: boolean;
   onRetake?: () => void;
+  initialAiText?: string | null;
+  initialShareToken?: string | null;
 };
 
 export function ResultView({
@@ -35,18 +37,20 @@ export function ResultView({
   answers,
   own = true,
   onRetake,
+  initialAiText,
+  initialShareToken,
 }: Props) {
   const assessment = ASSESSMENTS[result.assessmentKey];
   const dimensionExplanations =
     DIMENSION_EXPLANATIONS[result.assessmentKey] ?? [];
 
-  const [shareToken, setShareToken] = useState<string | null>(null);
-  const [saving, setSaving] = useState(false);
-  const [saveError, setSaveError] = useState<string | null>(null);
+  const [shareToken] = useState<string | null>(
+    initialShareToken ?? null,
+  );
   const [copied, setCopied] = useState(false);
   const [showResultModal, setShowResultModal] = useState(own);
 
-  const [aiText, setAiText] = useState<string | null>(null);
+  const [aiText, setAiText] = useState<string | null>(initialAiText ?? null);
   const [aiLoading, setAiLoading] = useState(false);
   const [aiError, setAiError] = useState<string | null>(null);
   const [aiConsentShown, setAiConsentShown] = useState(true);
@@ -59,27 +63,6 @@ export function ResultView({
   const modifierLine = useMemo(() => modifierNarrative(result), [result]);
   const geometryNotes = useMemo(() => geometryNarrative(result), [result]);
 
-  async function handleShare() {
-    setSaving(true);
-    setSaveError(null);
-    try {
-      const out = await saveResult({
-        data: {
-          assessmentKey: result.assessmentKey,
-          resultType: result.type,
-          answers,
-          result: result as never,
-        },
-      });
-      setShareToken(out.shareToken);
-    } catch {
-      setSaveError(
-        "Could not create a share link right now. Your result is still visible below.",
-      );
-    } finally {
-      setSaving(false);
-    }
-  }
 
   function copyLink() {
     if (typeof window === "undefined" || !shareToken) return;
@@ -145,6 +128,11 @@ export function ResultView({
         },
       });
       setAiText(text);
+      // Persist the AI analysis to the shared result so the shared page
+      // matches what the owner sees.
+      if (shareToken) {
+        updateAIAnalysis({ data: { shareToken, aiAnalysis: text } });
+      }
     } catch {
       setAiError("Could not generate analysis. Try again later.");
     } finally {
@@ -331,68 +319,39 @@ export function ResultView({
           </Section>
         ) : null}
 
-        {/* Save & share */}
-        {own ? (
-          <Section title="Save and share">
+        {/* Share */}
+        {own && shareToken ? (
+          <Section title="Share">
             <Surface className="flex flex-col gap-3">
               <p className="text-sm text-default-600 leading-relaxed">
-                Save your result to get a link you can share. Shared results are
-                anonymous. They only show the result, never your individual
-                answers.
+                Share this link to let others see your result. Shared results
+                are anonymous — they show only the result, never your
+                individual answers.
               </p>
-              {shareUrl ? (
-                <div className="flex flex-col gap-2">
-                  <div className="flex items-stretch gap-2">
-                    <input
-                      readOnly
-                      value={shareUrl}
-                      className="flex-1 h-10 rounded-xl border-[.5px] border-default-200 bg-default-50 px-3 text-sm text-default-700"
-                    />
-                    <button
-                      type="button"
-                      className={buttonVariants({ variant: "outline" })}
-                      onClick={copyLink}
-                    >
-                      {copied ? "Copied" : "Copy"}
-                    </button>
-                  </div>
-                  <div className="flex flex-wrap gap-2">
-                    <Link
-                      to="/shared/$token"
-                      params={{ token: shareToken! }}
-                      className={buttonVariants()}
-                    >
-                      <SolarShareLineDuotone />
-                      Open share page
-                    </Link>
-                    {onRetake ? (
-                      <button
-                        type="button"
-                        className={buttonVariants({ variant: "ghost" })}
-                        onClick={onRetake}
-                      >
-                        Retake
-                      </button>
-                    ) : null}
-                  </div>
-                </div>
-              ) : (
-                <div className="flex flex-wrap gap-2">
+              <div className="flex flex-col gap-2">
+                <div className="flex items-stretch gap-2">
+                  <input
+                    readOnly
+                    value={shareUrl ?? ""}
+                    className="flex-1 h-10 rounded-xl border-[.5px] border-default-200 bg-default-50 px-3 text-sm text-default-700"
+                  />
                   <button
                     type="button"
-                    className={buttonVariants()}
-                    onClick={handleShare}
-                    disabled={saving}
+                    className={buttonVariants({ variant: "outline" })}
+                    onClick={copyLink}
                   >
-                    {saving ? (
-                      "Saving…"
-                    ) : (
-                      <>
-                        <SolarShareLineDuotone />
-                        Create share link
-                      </>
-                    )}
+                    {copied ? "Copied" : "Copy"}
                   </button>
+                </div>
+                <div className="flex flex-wrap gap-2">
+                  <Link
+                    to="/shared/$token"
+                    params={{ token: shareToken! }}
+                    className={buttonVariants()}
+                  >
+                    <SolarShareLineDuotone />
+                    Open share page
+                  </Link>
                   {onRetake ? (
                     <button
                       type="button"
@@ -403,14 +362,10 @@ export function ResultView({
                     </button>
                   ) : null}
                 </div>
-              )}
-              {saveError ? (
-                <p className="text-sm text-red-600">{saveError}</p>
-              ) : null}
+              </div>
             </Surface>
           </Section>
         ) : null}
-
         <div className="flex flex-wrap gap-2">
           <Link to="/start" className={buttonVariants({ variant: "ghost" })}>
             {own ? "Try another assessment" : "Take your own assessment"}

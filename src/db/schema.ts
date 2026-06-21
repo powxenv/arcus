@@ -32,6 +32,9 @@ export const results = sqliteTable("results", {
   nickname: text("nickname"),
   createdAt: integer("created_at").notNull(),
   completedAt: integer("completed_at"),
+  // AI-generated analysis text, optional. Stored here so shared pages can
+  // display it without regenerating.
+  aiAnalysis: text("ai_analysis"),
 });
 
 export type ResultRow = typeof results.$inferSelect;

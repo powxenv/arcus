@@ -76,6 +76,7 @@ function SharedResult() {
       }
       answers={{}}
       own={false}
+      initialAiText={result.aiAnalysis}
     />
   );
 }
