@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useCallback, useEffect, useState } from "react";
-import { buttonVariants } from "@heroui/react";
+import { Modal, buttonVariants } from "@heroui/react";
 import SolarArrowLeftLineDuotone from "~icons/solar/arrow-left-line-duotone";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import { getQuestionSet } from "../data/questions";
@@ -45,6 +45,7 @@ function AssessmentTake() {
   const [answers, setAnswers] = useState<Answers>({});
   const [index, setIndex] = useState(0);
   const [result, setResult] = useState<AssessmentResult | null>(null);
+  const [pendingFinish, setPendingFinish] = useState<Answers | null>(null);
 
   const total = set?.questions.length ?? 0;
   const current = set?.questions[index];
@@ -95,9 +96,12 @@ function AssessmentTake() {
 
   const advance = useCallback(() => {
     const nextIdx = index + 1;
-    setIndex(nextIdx);
-    if (nextIdx >= total) finish(answers);
-  }, [finish, index, total, answers]);
+    if (nextIdx >= total) {
+      setPendingFinish(answers);
+    } else {
+      setIndex(nextIdx);
+    }
+  }, [index, total, answers]);
 
   const goBack = useCallback(() => {
     if (index > 0) setIndex(index - 1);
@@ -110,12 +114,12 @@ function AssessmentTake() {
       setAnswers(nextAnswers);
       const nextIdx = index + 1;
       if (nextIdx >= total) {
-        finish(nextAnswers);
+        setPendingFinish(nextAnswers);
       } else {
         setIndex(nextIdx);
       }
     },
-    [current, set, index, total, answers, finish],
+    [current, set, index, total, answers],
   );
 
   const currentAnswer = current ? answers[current.id] : undefined;
@@ -170,6 +174,12 @@ function AssessmentTake() {
     return () => window.removeEventListener("keydown", onKey);
   }, [phase, current, hasAnswer, advance, goBack, answer, index]);
 
+  const confirmFinish = useCallback(() => {
+    if (!pendingFinish) return;
+    finish(pendingFinish);
+    setPendingFinish(null);
+  }, [pendingFinish, finish]);
+
   const startFresh = useCallback(() => {
     setAnswers({});
     setIndex(0);
@@ -205,45 +215,86 @@ function AssessmentTake() {
   }
 
   return (
-    <PageShell size="sm">
-      <div className="flex flex-col gap-8">
-        <ProgressBar current={index + 1} total={total} />
+    <>
+      <PageShell size="sm">
+        <div className="flex flex-col gap-8">
+          <ProgressBar current={index + 1} total={total} />
 
-        <nav className="flex items-center justify-between gap-2 min-h-10">
-          <div>
-            {index > 0 ? (
+          <nav className="flex items-center justify-between gap-2 min-h-10">
+            <div>
+              {index > 0 ? (
+                <button
+                  type="button"
+                  className={buttonVariants({ variant: "ghost", size: "sm" })}
+                  onClick={goBack}
+                >
+                  <SolarArrowLeftLineDuotone />
+                  Back
+                </button>
+              ) : null}
+            </div>
+
+            {hasAnswer ? (
               <button
                 type="button"
-                className={buttonVariants({ variant: "ghost", size: "sm" })}
-                onClick={goBack}
+                className={buttonVariants({ size: "sm" })}
+                onClick={advance}
               >
-                <SolarArrowLeftLineDuotone />
-                Back
+                Next
+                <SolarArrowRightLineDuotone />
               </button>
             ) : null}
-          </div>
+          </nav>
 
-          {hasAnswer ? (
-            <button
-              type="button"
-              className={buttonVariants({ size: "sm" })}
-              onClick={advance}
-            >
-              Next
-              <SolarArrowRightLineDuotone />
-            </button>
+          {current ? (
+            <QuestionView
+              question={current}
+              selected={currentAnswer}
+              onPick={answer}
+            />
           ) : null}
-        </nav>
+        </div>
+      </PageShell>
 
-        {current ? (
-          <QuestionView
-            question={current}
-            selected={currentAnswer}
-            onPick={answer}
-          />
-        ) : null}
-      </div>
-    </PageShell>
+      {pendingFinish ? (
+        <Modal
+          isOpen
+          onOpenChange={(open) => !open && setPendingFinish(null)}
+        >
+          <Modal.Backdrop>
+            <Modal.Container size="sm" placement="center">
+              <Modal.Dialog>
+                <Modal.Header>
+                  <Modal.Heading>End of assessment</Modal.Heading>
+                </Modal.Header>
+                <Modal.Body>
+                  <p className="text-default-600 leading-relaxed">
+                    You have answered all {total} questions. Ready to see your
+                    results?
+                  </p>
+                </Modal.Body>
+                <Modal.Footer>
+                  <button
+                    type="button"
+                    className={buttonVariants({ variant: "ghost" })}
+                    onClick={() => setPendingFinish(null)}
+                  >
+                    Review answers
+                  </button>
+                  <button
+                    type="button"
+                    className={buttonVariants()}
+                    onClick={confirmFinish}
+                  >
+                    See results
+                  </button>
+                </Modal.Footer>
+              </Modal.Dialog>
+            </Modal.Container>
+          </Modal.Backdrop>
+        </Modal>
+      ) : null}
+    </>
   );
 }
 

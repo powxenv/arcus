@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import { Link } from "@tanstack/react-router";
-import { buttonVariants } from "@heroui/react";
+import { Modal, buttonVariants } from "@heroui/react";
 import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import SolarShareLineDuotone from "~icons/solar/share-line-duotone";
 import type { AssessmentResult } from "../lib/scoring";
@@ -44,6 +44,7 @@ export function ResultView({
   const [saving, setSaving] = useState(false);
   const [saveError, setSaveError] = useState<string | null>(null);
   const [copied, setCopied] = useState(false);
+  const [showResultModal, setShowResultModal] = useState(own);
 
   const [aiText, setAiText] = useState<string | null>(null);
   const [aiLoading, setAiLoading] = useState(false);
@@ -422,6 +423,48 @@ export function ResultView({
           assessment and doesn't diagnose anything.
         </p>
       </PageStack>
+
+      {showResultModal ? (
+        <Modal
+          isOpen
+          onOpenChange={(open) => !open && setShowResultModal(false)}
+        >
+          <Modal.Backdrop>
+            <Modal.Container size="md" placement="center">
+              <Modal.Dialog>
+                <Modal.Body>
+                  <div className="flex flex-col items-center text-center gap-5 py-8">
+                    <span className="text-5xl sm:text-6xl leading-none select-none">
+                      {result.emoji}
+                    </span>
+
+                    <div className="flex flex-col gap-2">
+                      <p className="text-sm font-medium text-default-500 tracking-wider uppercase">
+                        Your result
+                      </p>
+                      <Modal.Heading className="text-2xl sm:text-3xl font-bold">
+                        {result.type}
+                      </Modal.Heading>
+                    </div>
+
+                    <p className="text-base text-default-600 leading-relaxed max-w-sm">
+                      {result.detail?.meaning ?? result.summary}
+                    </p>
+
+                    <button
+                      type="button"
+                      className={buttonVariants()}
+                      onClick={() => setShowResultModal(false)}
+                    >
+                      See your full result
+                    </button>
+                  </div>
+                </Modal.Body>
+              </Modal.Dialog>
+            </Modal.Container>
+          </Modal.Backdrop>
+        </Modal>
+      ) : null}
     </PageShell>
   );
 }
