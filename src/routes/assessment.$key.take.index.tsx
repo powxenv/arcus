@@ -20,21 +20,14 @@ import {
   type AssessmentProgress,
 } from "../lib/assessment-progress";
 import { computeResult, type AssessmentResult } from "../lib/scoring";
-import { ASSESSMENTS } from "../components/assessment-data";
 import { ResultView } from "../components/result-view";
-import {
-  Hero,
-  PageShell,
-  PageStack,
-  QuietCallout,
-  Surface,
-} from "../components/ui-system";
+import { PageShell } from "../components/ui-system";
 
 export const Route = createFileRoute("/assessment/$key/take/")({
   component: AssessmentTake,
 });
 
-type Phase = "loading" | "intro" | "questions" | "results";
+type Phase = "loading" | "questions" | "results";
 type Answers = Record<string, number | string>;
 
 function AssessmentTake() {
@@ -45,26 +38,24 @@ function AssessmentTake() {
   const [answers, setAnswers] = useState<Answers>({});
   const [index, setIndex] = useState(0);
   const [result, setResult] = useState<AssessmentResult | null>(null);
-  const [resumed, setResumed] = useState(false);
 
   const total = set?.questions.length ?? 0;
 
   useEffect(() => {
     if (!set) {
-      setPhase("intro");
+      setPhase("questions");
       return;
     }
     let cancelled = false;
     loadProgress().then((progress) => {
       if (cancelled) return;
       if (!progress || progress.assessmentKey !== set.assessmentKey) {
-        setPhase("intro");
+        setPhase("questions");
         return;
       }
       setAnswers(progress.answers);
       setIndex(Math.min(progress.currentIndex, total));
-      setResumed(progress.currentIndex > 0);
-      setPhase(progress.currentIndex >= total ? "intro" : "questions");
+      setPhase("questions");
     });
     return () => {
       cancelled = true;
@@ -121,7 +112,6 @@ function AssessmentTake() {
   const startFresh = useCallback(() => {
     setAnswers({});
     setIndex(0);
-    setResumed(false);
     clearProgress();
     setPhase("questions");
   }, []);
@@ -150,56 +140,6 @@ function AssessmentTake() {
         own
         onRetake={startFresh}
       />
-    );
-  }
-
-  if (phase === "intro") {
-    return (
-      <PageShell>
-        <PageStack>
-          <Hero
-            eyebrow="Assessment"
-            icon={ASSESSMENTS[set.assessmentKey]?.icon}
-            title={`Begin ${set.shortName}`}
-            meta={`${set.duration} · ${total} questions`}
-          >
-            {set.summary}
-          </Hero>
-
-          {resumed ? (
-            <QuietCallout>
-              You have saved progress on this assessment. Starting again will
-              clear it.
-            </QuietCallout>
-          ) : null}
-
-          <Surface className="flex flex-col gap-4">
-            <p className="text-default-600 leading-relaxed">
-              Answer as honestly as you can right now. There are no right
-              answers. You can go back to change a response, and your progress
-              is saved on this device as you go.
-            </p>
-            <div className="flex flex-wrap gap-2">
-              <button
-                type="button"
-                className={buttonVariants()}
-                onClick={startFresh}
-              >
-                {resumed ? "Start over" : `Begin ${set.shortName}`}
-                <SolarArrowRightLineDuotone />
-              </button>
-              <Link
-                to="/assessment/$key"
-                params={{ key }}
-                className={buttonVariants({ variant: "ghost" })}
-              >
-                <SolarArrowLeftLineDuotone />
-                Back to overview
-              </Link>
-            </div>
-          </Surface>
-        </PageStack>
-      </PageShell>
     );
   }
 
@@ -279,8 +219,8 @@ function QuestionView({
       ) : question.type === "crt" ? (
         <CrtInput
           question={question}
-          value={typeof selected === "string" ? selected : ""}
-          onChange={onPick}
+          selected={typeof selected === "string" ? selected : undefined}
+          onSelect={onPick}
         />
       ) : question.type === "heuristic" ? (
         <HeuristicInput
@@ -334,21 +274,21 @@ function Prompt({ question }: { question: Question }) {
     // The stem sets up a sentence the two poles finish — so the stem *is* the
     // question, and it owns the focal heading.
     return (
-      <h1 className="text-2xl sm:text-3xl font-bold tracking-[-0.02em] leading-snug text-balance">
+      <h1 className="text-2xl sm:text-3xl font-bold leading-snug text-balance">
         {question.stem}
       </h1>
     );
   }
   if (question.type === "unipolar") {
     return (
-      <h1 className="text-2xl sm:text-3xl font-bold tracking-[-0.02em] leading-snug text-balance">
+      <h1 className="text-2xl sm:text-3xl font-bold leading-snug text-balance">
         {question.statement}
       </h1>
     );
   }
   if (question.type === "crt") {
     return (
-      <h1 className="text-2xl sm:text-3xl font-bold tracking-[-0.02em] leading-snug text-balance">
+      <h1 className="text-2xl sm:text-3xl font-bold leading-snug text-balance">
         {question.prompt}
       </h1>
     );
@@ -369,7 +309,7 @@ function Prompt({ question }: { question: Question }) {
   }
   // stance
   return (
-    <h1 className="text-2xl sm:text-3xl font-bold tracking-[-0.02em] leading-snug text-balance">
+    <h1 className="text-2xl sm:text-3xl font-bold leading-snug text-balance">
       {question.prompt}
     </h1>
   );
@@ -450,26 +390,40 @@ function UnipolarInput({
 
 function CrtInput({
   question,
-  value,
-  onChange,
+  selected,
+  onSelect,
 }: {
   question: CrtQuestion;
-  value: string;
-  onChange: (value: string) => void;
+  selected?: string;
+  onSelect: (value: string) => void;
 }) {
+  const options: { key: string; label: string }[] = [
+    { key: "correct", label: question.correctAnswer },
+    { key: "intuitive", label: question.intuitiveAnswer },
+  ];
   return (
-    <div className="flex items-end gap-3">
-      <input
-        type="text"
-        inputMode="numeric"
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
-        placeholder="Your answer"
-        className="flex-1 h-14 rounded-xl border-[.5px] border-default-200 bg-white px-4 text-lg font-semibold focus:border-orange-500 focus:outline-none"
-      />
-      {question.unit ? (
-        <span className="text-sm text-default-400 pb-4">{question.unit}</span>
-      ) : null}
+    <div className="flex flex-col gap-2">
+      {options.map((option) => {
+        const active = selected === option.key;
+        return (
+          <button
+            key={option.key}
+            type="button"
+            aria-pressed={active}
+            onClick={() => onSelect(option.key)}
+            className={
+              active
+                ? "flex items-center gap-3 p-4 rounded-2xl bg-orange-600 text-white border-[.5px] border-orange-600 text-left transition-colors"
+                : "flex items-center gap-3 p-4 rounded-2xl bg-white text-default-800 border-[.5px] border-default-200 hover:border-orange-400 hover:bg-default-50 text-left transition-colors"
+            }
+          >
+            <span className="flex-1 font-medium">{option.label}</span>
+            {active ? (
+              <SolarCheckCircleLineDuotone className="size-5 shrink-0" />
+            ) : null}
+          </button>
+        );
+      })}
     </div>
   );
 }

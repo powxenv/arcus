@@ -366,13 +366,11 @@ function turingResult(set: QuestionSet, answers: Answers): AssessmentResult {
       .filter((v): v is number => typeof v === "number"),
   );
 
-  // CRT override rate.
+  // CRT override rate — two-choice, "correct" means they overrode.
   const crtItems = questionsOf<CrtQuestion>(set, "override");
   let crtCorrect = 0;
   for (const item of crtItems) {
-    const given = answers[item.id];
-    if (typeof given !== "string") continue;
-    if (normalizeAnswer(given) === normalizeAnswer(item.answer)) crtCorrect += 1;
+    if (answers[item.id] === "correct") crtCorrect += 1;
   }
   const overrideRate = crtItems.length === 0 ? 0 : Math.round((crtCorrect / crtItems.length) * 100);
 
@@ -447,10 +445,6 @@ function turingResult(set: QuestionSet, answers: Answers): AssessmentResult {
     scores,
     detail,
   };
-}
-
-function normalizeAnswer(v: string): string {
-  return v.trim().toLowerCase().replace(/[^0-9a-z]/g, "");
 }
 
 // ---------------------------------------------------------------------------
@@ -593,5 +587,4 @@ export const __internals = {
   PROTOTYPICALITY_THRESHOLD,
   TENSION_MARGIN,
   PTA_PATTERN_TO_TYPE,
-  normalizeAnswer,
 };

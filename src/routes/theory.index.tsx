@@ -108,7 +108,7 @@ function Theory() {
             {THEMES.map((t) => (
               <CardLink
                 key={t.key}
-                to="/assessment/$key"
+                to="/assessment/$key/take"
                 params={{ key: t.key }}
                 className="flex flex-col gap-2"
               >
@@ -164,11 +164,10 @@ function Theory() {
                 </Surface>
 
                 <Link
-                  to="/assessment/$key"
-                  params={{ key: t.key }}
+                  to="/start"
                   className={buttonVariants({ variant: "outline", className: "self-start" })}
                 >
-                  Learn more about {t.name}
+                  Start an assessment
                 </Link>
               </Tabs.Panel>
             ))}

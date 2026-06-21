@@ -34,11 +34,9 @@ export type CrtQuestion = {
   type: "crt";
   construct: ConstructId;
   prompt: string;
-  answer: string; // canonical correct answer (string-compared, normalized)
-  unit?: string;
+  correctAnswer: string; // the answer that requires overriding intuition
+  intuitiveAnswer: string; // the intuitive-but-wrong answer
 };
-
-export type HeuristicOption = { key: "A" | "B"; label: string };
 
 export type HeuristicQuestion = {
   id: string;

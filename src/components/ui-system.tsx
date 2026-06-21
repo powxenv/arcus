@@ -60,9 +60,9 @@ export function Hero({
       <h1 className="text-4xl sm:text-5xl font-black leading-[1] text-balance">
         {title}
       </h1>
-      <p className="text-lg text-default-500 max-w-2xl leading-relaxed text-pretty">
+      <div className="text-lg text-default-500 max-w-2xl leading-relaxed text-pretty">
         {children}
-      </p>
+      </div>
       {meta ? <p className="text-sm text-default-400">{meta}</p> : null}
     </header>
   );
@@ -96,9 +96,9 @@ export function Section({
 
 export function TextBlock({ children }: { children: ReactNode }) {
   return (
-    <p className="flex flex-col gap-4 text-lg text-default-600 leading-relaxed text-pretty">
+    <div className="flex flex-col gap-4 text-lg text-default-600 leading-relaxed text-pretty">
       {children}
-    </p>
+    </div>
   );
 }
 

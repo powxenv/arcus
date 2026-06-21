@@ -3,7 +3,6 @@ import decor1 from "../assets/decoration-1.svg";
 import decor2 from "../assets/decoration-2.svg";
 import decor3 from "../assets/decoration-3.svg";
 import decor4 from "../assets/decoration-4.svg";
-import SolarArrowRightLineDuotone from "~icons/solar/arrow-right-line-duotone";
 import PhDiceFiveDuotone from "~icons/ph/dice-five-duotone";
 import PhHeadCircuitDuotone from "~icons/ph/head-circuit-duotone";
 import { buttonVariants } from "@heroui/react";
@@ -77,17 +76,11 @@ function Home() {
             <h2 className="text-2xl">{card.title}</h2>
             <p>{card.desc}</p>
             <div className="grid grid-cols-2 gap-2 mt-auto">
-              <Link
-                to="/assessment/$key"
-                params={{ key: card.key }}
-                className={buttonVariants({
-                  variant: "outline",
-                  className: "w-full",
-                })}
-              >
-                Learn more
-                <SolarArrowRightLineDuotone />
-              </Link>
+              <AssessmentStartModal
+                assessment={ASSESSMENTS[card.key]}
+                triggerLabel="Learn more"
+                triggerClassName="w-full"
+              />
               <AssessmentStartModal
                 assessment={ASSESSMENTS[card.key]}
                 triggerLabel="Start"

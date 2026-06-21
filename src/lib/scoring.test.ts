@@ -101,7 +101,7 @@ console.log("\n=== MMA: scale formulas ===");
     return 1; // FI low
   });
   for (const q of set.questions) {
-    if (q.type === "crt") answers[q.id] = q.answer;
+    if (q.type === "crt") answers[q.id] = "correct";
     if (q.type === "heuristic") answers[q.id] = "A";
   }
   const r = computeResult(set, answers);
@@ -120,7 +120,7 @@ console.log("\n=== MMA: quadrants + Generalist + strategy/gap ===");
       if (q.type === "unipolar") {
         a[q.id] = q.construct === "need_for_cognition" ? nfc : fi;
       } else if (q.type === "crt") {
-        a[q.id] = q.answer;
+        a[q.id] = "correct";
       } else if (q.type === "heuristic") {
         a[q.id] = heurChoice;
       }

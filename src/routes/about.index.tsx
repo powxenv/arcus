@@ -53,7 +53,7 @@ function About() {
 
         <Section
           title="What you get"
-          intro="Four short assessments, each measuring a different part of who you are. You can take one or take all four."
+          intro="Four short assessments, each measuring a different part of who you are. Take one at a time, in any order."
         >
           <ul className="flex flex-col gap-3 text-lg text-default-600">
             {[

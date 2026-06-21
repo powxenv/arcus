@@ -36,12 +36,13 @@ export const turing: QuestionSet = {
     uni("I2.6", "faith_in_intuition", "I'm good at sensing things without being able to put them into words."),
     uni("I2.7", "faith_in_intuition", "My first instinct is usually worth following."),
     uni("I2.8", "faith_in_intuition", "I trust the part of me that just knows, without needing reasons."),
-    // CRT (Frederick 2005) — behavioral override
-    { id: "CRT1", type: "crt", construct: "override", prompt: "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?", answer: "5", unit: "cents" },
-    { id: "CRT2", type: "crt", construct: "override", prompt: "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?", answer: "5", unit: "minutes" },
-    { id: "CRT3", type: "crt", construct: "override", prompt: "In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take to cover half the lake?", answer: "47", unit: "days" },
-    { id: "CRT4", type: "crt", construct: "override", prompt: "If you're running a race and you pass the person in 2nd place, what place are you in now?", answer: "2", unit: "nd" },
-    { id: "CRT5", type: "crt", construct: "override", prompt: "A farmer has 17 sheep. All but 9 die. How many are left?", answer: "9" },
+    // CRT (Frederick 2005) — two-choice: pick the answer that requires
+    // overriding the intuitive response vs. the intuitive-but-wrong one.
+    { id: "CRT1", type: "crt", construct: "override", prompt: "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?", correctAnswer: "5 cents", intuitiveAnswer: "10 cents" },
+    { id: "CRT2", type: "crt", construct: "override", prompt: "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?", correctAnswer: "5 minutes", intuitiveAnswer: "100 minutes" },
+    { id: "CRT3", type: "crt", construct: "override", prompt: "In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take to cover half the lake?", correctAnswer: "47 days", intuitiveAnswer: "24 days" },
+    { id: "CRT4", type: "crt", construct: "override", prompt: "If you're running a race and you pass the person in 2nd place, what place are you in now?", correctAnswer: "2nd place", intuitiveAnswer: "1st place" },
+    { id: "CRT5", type: "crt", construct: "override", prompt: "A farmer has 17 sheep. All but 9 die. How many are left?", correctAnswer: "9", intuitiveAnswer: "8" },
     // Heuristics battery (Gigerenzer/Luan grounded) — optionA is the one-strong-reason attractor
     heur("H1", "strategy", "Two job offers. Offer A: 20% higher salary, but longer commute, smaller team, less growth. Offer B: lower salary, but short commute, larger team, more growth.", "Offer A", "Offer B"),
     heur("H2", "strategy", "Two apartments. Apartment A: best location, but smaller, noisier, older. Apartment B: further away, but spacious, quiet, modern.", "Apartment A", "Apartment B"),
