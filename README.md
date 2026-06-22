@@ -1,206 +1,149 @@
-Welcome to your new TanStack Start app! 
+# Arcus
 
-# Getting Started
+**See the arc you're on.** Four personality assessments that show where you stand and which direction you're heading across energy, thinking, identity, and time.
 
-To run this application:
+---
 
-```bash
-bun install
-bun --bun run dev
-```
+## What Arcus is
 
-# Building For Production
+Arcus measures personality as a curve with a direction. Every result has two parts: a position and a direction. The position tells you where you stand. The direction tells you where you are headed. Together they trace an arc.
 
-To build this application for production:
+Arcus asks four questions. Where is your energy sitting, and which way is it turning? Does what you say about your mind match what your choices show? How well do you know yourself, and how well do you show it? Where does your attention sit across time, and how do you feel about time passing?
 
-```bash
-bun --bun run build
-```
+The name comes from the Latin word for arc. An arc has a shape and a direction. It connects where you were to where you are going.
 
-## Testing
+---
 
-This project uses [Vitest](https://vitest.dev/) for testing. You can run the tests with:
+## The four assessments
 
-```bash
-bun --bun run test
-```
+Four tests give you four arcs. Each maps a different part of who you are using a methodology native to that domain. The tests are independent. Take any of them first, in any order, at your own pace.
 
-## Styling
+### Solstice — The arc of your energy
 
-This project uses [Tailwind CSS](https://tailwindcss.com/) for styling.
+Measures affect, energy, and motivation. Energy rises and falls in cycles. Solstice maps where you sit on that cycle right now and which direction your energy is heading: gathering toward a peak, settling toward rest, or holding steady.
 
-### Removing Tailwind CSS
+Built on Russell's circumplex model of affect, Carver-White BIS/BAS scales, and Carver-Scheier self-regulation theory. Uses a 7-point bipolar format with two axes (Solar Height and Tidal Direction) plus a trajectory layer.
 
-If you prefer not to use Tailwind CSS:
+**36 questions · ~10 minutes**
 
-1. Remove the demo pages in `src/routes/demo/`
-2. Replace the Tailwind import in `src/styles.css` with your own styles
-3. Remove `tailwindcss()` from the plugins array in `vite.config.ts`
-4. Uninstall the packages: `bun install @tailwindcss/vite tailwindcss -D`
+### Turing — The arc of your mind
 
+Measures cognition and thinking. Turing captures how you describe your thinking and then observes how you decide. It reads the gap between the two.
 
-## Deploy to Cloudflare Workers
+Built on the Need for Cognition scale (Cacioppo & Petty), the Rational-Experiential Inventory (Epstein), the Cognitive Reflection Test (Frederick), and heuristic decision-making research (Gigerenzer & Gaissmaier). Uses self-report scales, behavioral problems, and a decision-strategy battery.
 
-This project uses the Cloudflare Vite plugin (configured in `vite.config.ts`) and `wrangler.jsonc`:
+**31 questions · ~9 minutes**
 
-1. Install Wrangler: `npm install -g wrangler`
-2. Authenticate: `wrangler login`
-3. Deploy: `npx wrangler deploy`
+### Pride — The arc of your self
 
-For production env vars, run `wrangler secret put MY_VAR` for each secret listed in `.env.example`. Public (non-secret) vars go in `wrangler.jsonc` under `vars`.
+Measures identity, self-concept, and self-expression. Whether you know yourself with confidence, show yourself without pretense, and feel your identity is claimed or still forming.
 
-KV, D1, R2, and Durable Object bindings are configured in `wrangler.jsonc` — see https://developers.cloudflare.com/workers/wrangler/configuration/.
+Built on Self-Concept Clarity (Campbell), authenticity models (Kernis & Goldman, Wood), Marcia's identity commitment dimension, and self-other knowledge asymmetry research (Vazire). Uses a 7-point bipolar format across two axes (Identity Clarity and Self-Alignment) plus a commitment score.
 
+**36 questions · ~10 minutes**
 
+### Passage — The arc of your time
 
-## Routing
+Measures temporality. Which parts of time you inhabit. Past, present, and future each get their own score. And how you feel about time moving forward.
 
-This project uses [TanStack Router](https://tanstack.com/router) with file-based routing. Routes are managed as files in `src/routes`.
+Built on the Zimbardo Time Perspective Inventory, the Present-Eudaimonic scale (Vowinckel), a 24-country cross-cultural validation (Sircova), and Carstensen's socioemotional selectivity theory. Uses 5-point unipolar scales plus a forced-pick stance layer.
 
-### Adding A Route
+**28 questions · ~8 minutes**
 
-To add a new route to your application just add a new file in the `./src/routes` directory.
+---
 
-TanStack will automatically generate the content of the route file for you.
+## How the assessments work
 
-Now that you have two routes you can use a `Link` component to navigate between them.
+Each assessment follows the same structure.
 
-### Adding Links
+1. **Position.** A set of questions places you on continuous dimensions specific to that domain. Scores are 0-100 with 50 as the midpoint.
 
-To use SPA (Single Page Application) navigation you will need to import the `Link` component from `@tanstack/react-router`.
+2. **Direction.** A secondary layer measures the felt direction of the pattern. Are you gathering or settling? Does your identity feel claimed or still forming?
 
-```tsx
-import { Link } from "@tanstack/react-router";
-```
+3. **Result.** A type label derived from your position, plus a direction modifier. The result is a point on a curve with a trajectory.
 
-Then anywhere in your JSX you can use it like so:
+4. **Dimensions.** The result shows the individual dimension scores that produced the type. You can see the scores behind the label.
 
-```tsx
-<Link to="/about">About</Link>
-```
+### Geometry notes
 
-This will create a link that will navigate to the `/about` route.
+For the two-axis tests (Solstice and Pride), the result includes three pieces of information about your position inside the type.
 
-More information on the `Link` component can be found in the [Link documentation](https://tanstack.com/router/v1/docs/framework/react/api/router/linkComponent).
+**Prototypicality** describes how squarely you sit in your type. The fit is strong, clear, or near the boundary between types.
 
-### Using A Layout
+**Gradation** describes where you are within the type. You land in the early, mid, or late phase.
 
-In the File Based Routing setup the layout is located in `src/routes/__root.tsx`. Anything you add to the root route will appear in all the routes. The route content will appear in the JSX where you render `{children}` in the `shellComponent`.
+**Facet tension** describes when two sub-dimensions of an axis pull in opposite directions and both are strong. The axis score lands in the middle. Two sides cancel each other.
 
-Here is an example layout that includes a header:
+### Honest scope
 
-```tsx
-import { HeadContent, Scripts, createRootRoute } from '@tanstack/react-router'
+Every result page carries one line: Arcus measures the affirming range of each construct and cannot detect maladaptive patterns. The suite is for self-discovery and reflection.
 
-export const Route = createRootRoute({
-  head: () => ({
-    meta: [
-      { charSet: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { title: 'My App' },
-    ],
-  }),
-  shellComponent: ({ children }) => (
-    <html lang="en">
-      <head>
-        <HeadContent />
-      </head>
-      <body>
-        <header>
-          <nav>
-            <Link to="/">Home</Link>
-            <Link to="/about">About</Link>
-          </nav>
-        </header>
-        {children}
-        <Scripts />
-      </body>
-    </html>
-  ),
-})
-```
+---
 
-More information on layouts can be found in the [Layouts documentation](https://tanstack.com/router/latest/docs/framework/react/guide/routing-concepts#layouts).
+## The research foundation
 
-## Server Functions
+Every construct in Arcus draws from published, peer-reviewed psychology research. The key sources are full-text verified in the `research/sources/` directory. The framework design, evidence reviews, and profile specifications for each assessment live in the `research/assessments/` directory alongside a full changelog.
 
-TanStack Start provides server functions that allow you to write server-side code that seamlessly integrates with your client components.
+**Verified construct sources:**
 
-```tsx
-import { createServerFn } from '@tanstack/react-start'
+| Area | Sources |
+|---|---|
+| Affect & Energy | Russell (1980), Carver & White (1994), Schimmack & Reisenzein (2002), Zuckerman (2007), Carver-Scheier self-regulation theory |
+| Cognition | Cacioppo & Petty (1982), Cacioppo et al. (1996), Epstein et al. (1996), Frederick (2005), Gigerenzer & Gaissmaier (2011), Luan, Schooler & Gigerenzer (2011) |
+| Identity | Campbell et al. (1996), Kernis & Goldman (2006), Wood et al. (2008), Marcia (1966), Vazire (2010), Beer & Vazire (2017) |
+| Time | Zimbardo & Boyd (1999), Sircova et al. (2014), Vowinckel et al. (2015), Carstensen (2021) |
+| Methodology | Gerlach et al. (2018), Kerber et al. (2021), McCrae & Costa (1989), Schulte et al. (2020) |
 
-const getServerTime = createServerFn({
-  method: 'GET',
-}).handler(async () => {
-  return new Date().toISOString()
-})
+### What is validated and what is synthesis
 
-// Use in a component
-function MyComponent() {
-  const [time, setTime] = useState('')
-  
-  useEffect(() => {
-    getServerTime().then(setTime)
-  }, [])
-  
-  return <div>Server time: {time}</div>
-}
-```
+The framework document (research/framework.md) labels each component.
 
-## API Routes
+**Validated (used as-is):**
+- Russell's circumplex model for affect
+- Carver-White BIS/BAS scales
+- Cacioppo-Petty Need for Cognition scale
+- Epstein's Rational-Experiential Inventory
+- Campbell's Self-Concept Clarity scale
+- Marcia's identity commitment dimension
+- Zimbardo-Boyd Time Perspective Inventory
+- Carstensen's perceived time horizons
 
-You can create API routes by using the `server` property in your route definitions:
+**Synthesis (our combination, labeled as unvalidated):**
+- Position-plus-trajectory result for Solstice
+- Stated-vs-observed gap as the interpretive lead for Turing
+- Four-component Pride profile (clarity, authenticity, commitment, visibility)
+- Four-stance typology (resource, weight, gift, mystery) for Passage
+- Cross-test self-congruence profile reading the four internal gaps together
 
-```tsx
-import { createFileRoute } from '@tanstack/react-router'
-import { json } from '@tanstack/react-start'
+The syntheses derive from the validated component measurements. They are exploratory integration layers.
 
-export const Route = createFileRoute('/api/hello')({
-  server: {
-    handlers: {
-      GET: () => json({ message: 'Hello, World!' }),
-    },
-  },
-})
-```
+---
 
-## Data Fetching
+## Features
 
-There are multiple ways to fetch data in your application. You can use TanStack Query to fetch data from a server. But you can also use the `loader` functionality built into TanStack Router to load the data for a route before it's rendered.
+### Encrypted local progress
 
-For example:
+Your browser encrypts assessment progress using AES-GCM via the Web Crypto API and stores it in localStorage. You can leave an assessment partway through and continue later. The encryption protects progress from casual inspection.
 
-```tsx
-import { createFileRoute } from '@tanstack/react-router'
+### Anonymous result sharing
 
-export const Route = createFileRoute('/people')({
-  loader: async () => {
-    const response = await fetch('https://swapi.dev/api/people')
-    return response.json()
-  },
-  component: PeopleComponent,
-})
+When you finish an assessment, the server generates a share link and stores it in Cloudflare D1. The share link is a 32-character cryptographically random token. Shared results show only the derived result snapshot (type, scores, geometry). The individual answers stay private. The shared page matches your own results screen.
 
-function PeopleComponent() {
-  const data = Route.useLoaderData()
-  return (
-    <ul>
-      {data.results.map((person) => (
-        <li key={person.name}>{person.name}</li>
-      ))}
-    </ul>
-  )
-}
-```
+### AI-powered personalized analysis
 
-Loaders simplify your data fetching logic dramatically. Check out more information in the [Loader documentation](https://tanstack.com/router/latest/docs/framework/react/guide/data-loading#loader-parameters).
+You can opt in to send your scores and responses to Google Gemma 4 31B hosted on NVIDIA for a narrative interpretation. The service stores no personal data. It generates the analysis from the session only and discards it afterward. You opt in. The result page labels the text as AI-generated.
 
-# Demo files
+### Keyboard navigation
 
-Files prefixed with `demo` can be safely deleted. They are there to provide a starting point for you to play around with the features you've installed.
+During assessments, you navigate with the keyboard:
+- **1-7** (or 1-5 for unipolar scales) select an answer
+- **Enter / ArrowRight** advances to the next question
+- **Backspace / ArrowLeft** goes back to the previous question
 
-# Learn More
+---
 
-You can learn more about all of the offerings from TanStack in the [TanStack documentation](https://tanstack.com).
+## What Arcus is for
 
-For TanStack Start specific documentation, visit [TanStack Start](https://tanstack.com/start).
+Arcus is for self-discovery and reflection. You take the assessments to see the shape and direction of your own personality patterns. Each test takes a few minutes and the results reward deeper reflection.
+
+Arcus shows you the arc you are on.
