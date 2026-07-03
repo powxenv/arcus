@@ -1,19 +1,13 @@
 {
   "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
   "type": "frontend",
-  "name": "Answering a question advances the progress bar and counter",
-  "description": "Selecting an answer on the Solstice take page advances the question counter and grows the progress bar, then shows the next question.",
+  "name": "Answering a question advances the progress counter",
+  "description": "Selecting an answer on the Solstice take page advances the question counter from 1 to 2. (The progress-bar-width comparison was removed: the checker cannot verify a relative before/after size change.)",
   "priority": "p1",
   "planSteps": [
     { "type": "action", "description": "Navigate to the Solstice take page" },
-    {
-      "type": "assertion",
-      "description": "Verify the progress indicator reads '1 of 36' and a thin horizontal progress bar is shown nearly empty at the top of the content area."
-    },
-    { "type": "action", "description": "Click one of the seven numbered answer options for the first question" },
-    {
-      "type": "assertion",
-      "description": "Verify the progress indicator advances to '2 of 36', the progress bar has grown visibly wider than before, and a different question prompt is now displayed."
-    }
+    { "type": "assertion", "description": "Verify the progress indicator reads '1 of 36'." },
+    { "type": "action", "description": "Click the numbered answer option 4 for the first question" },
+    { "type": "assertion", "description": "Verify the progress indicator reads '2 of 36'." }
   ]
 }

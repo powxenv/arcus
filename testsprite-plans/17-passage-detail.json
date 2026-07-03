@@ -1,0 +1,12 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Passage detail page hero and central question",
+  "description": "The Passage (Passage of Time) assessment detail page shows the correct title, domain, duration, question count, tagline, and its central question in the top sections.",
+  "priority": "p1",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Passage assessment detail page" },
+    { "type": "assertion", "description": "Verify the hero shows the heading 'The Passage of Time Assessment', the eyebrow 'Time & Temporality', a meta line with '~8 min' and '28 questions', and the tagline 'The arc of your time'." },
+    { "type": "assertion", "description": "Verify the 'What it measures' section shows the central question 'Where does your attention sit, and how do you feel about time passing?'." }
+  ]
+}

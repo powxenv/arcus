@@ -1,0 +1,12 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Turing detail page hero and central question",
+  "description": "The Turing (Modes of Mind) assessment detail page shows the correct title, domain, duration, question count, tagline, and its central question in the top sections.",
+  "priority": "p1",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Turing assessment detail page" },
+    { "type": "assertion", "description": "Verify the hero shows the heading 'The Modes of Mind Assessment', the eyebrow 'Cognition & Thinking', a meta line with '~9 min' and '31 questions', and the tagline 'The arc of your mind'." },
+    { "type": "assertion", "description": "Verify the 'What it measures' section shows the central question 'Does what you say about your mind match what your choices show?'." }
+  ]
+}

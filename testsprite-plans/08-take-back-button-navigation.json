@@ -1,0 +1,14 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Take page Back button returns to the previous question",
+  "description": "After answering a question and advancing, clicking the Back button returns to the previous question. Replaces the keyboard-shortcut test, which the checker cannot drive reliably (window-level keydown synthesis).",
+  "priority": "p2",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Solstice take page" },
+    { "type": "action", "description": "Click the numbered answer option 4 for the first question to answer it" },
+    { "type": "assertion", "description": "Verify the progress indicator advances to '2 of 36' and a second question is shown." },
+    { "type": "action", "description": "Click the 'Back' button in the navigation row above the question" },
+    { "type": "assertion", "description": "Verify the progress indicator returns to '1 of 36' and the first question is shown again, confirming backward navigation works." }
+  ]
+}
