@@ -22,6 +22,7 @@ Project: `bb4acddb-ddc2-4680-85d7-e9578654d2cd` (frontend). Plans: `testsprite-p
 - **[9]** all-detail mega-test (4-page nav) blocked despite verifying all data → split into single-page tests.
 - **[10]** Added coverage: 4 detail pages, Theory 4-tab content, Pride/Passage take pages, header/footer → those passed.
 - **[11]** The 4 assessment-detail pages are a hard platform limit: the checker scrolls the long page (even for a single hero-only assertion) and the verdict engine fails to finalize (`analysis produced none`) — yet it verifies every field (`TEST BLOCKED: PASS… No blockers`). Exhausted assertion-count / scroll / concurrency / solo / hero-only. Deleted the 4 tests (all-green requirement); **SSR-verified all 4 pages instead** — heading, domain, duration, question count, tagline, central question, a construct, and every result type are present server-side.
+- **[12]** Synced `testsprite-plans/` with the live suite: removed 2 orphaned plan files (the old `03-theory-tabs-switch`, superseded; the deleted `05-all-assessment-detail-pages` mega-test). **14 plan files == 14 live tests**, every name matches.
 
 ## Coverage map
 
