@@ -1,0 +1,19 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Turing take page renders a five-point unipolar scale and advances",
+  "description": "The Turing assessment's rating questions use a five-point agree-disagree scale (distinct from Solstice's seven-point bipolar scale), and answering advances through them.",
+  "priority": "p2",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Turing take page" },
+    {
+      "type": "assertion",
+      "description": "Verify the progress indicator reads '1 of 31' and the first question is a statement presented with a five-point numbered answer scale (options numbered 1 through 5), with 'Strongly disagree' at one end and 'Strongly agree' at the other."
+    },
+    { "type": "action", "description": "Click the number 3 option on the scale to answer the first question" },
+    {
+      "type": "assertion",
+      "description": "Verify the progress indicator advances to '2 of 31' and a new statement question is displayed."
+    }
+  ]
+}

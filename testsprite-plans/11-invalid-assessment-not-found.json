@@ -1,0 +1,14 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Invalid assessment key shows the not-found state",
+  "description": "Visiting an assessment detail URL with an unknown key renders the not-found message instead of a broken page.",
+  "priority": "p2",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to /assessment/this-assessment-does-not-exist" },
+    {
+      "type": "assertion",
+      "description": "Verify the page renders an 'Assessment not found' heading and a 'Back to home' link, rather than a blank or error page."
+    }
+  ]
+}

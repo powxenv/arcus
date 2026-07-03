@@ -1,0 +1,14 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Start page lists all four assessments with metadata and actions",
+  "description": "The Start page server-renders a grid of exactly four assessment cards, each showing its short name, duration, question count, a 'Learn more' link, and a 'Start' button.",
+  "priority": "p1",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Start page" },
+    {
+      "type": "assertion",
+      "description": "Verify a grid of exactly four assessment cards is shown, with the short names Solstice, Turing, Pride, and Passage, and that each card displays a duration (such as '~10 min'), a question count (such as '36 questions'), a 'Learn more' link, and a 'Start' button."
+    }
+  ]
+}

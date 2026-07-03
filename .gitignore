@@ -11,3 +11,9 @@ dist-ssr
 .vinxi
 __unconfig*
 todos.json
+
+# TestSprite run artifacts (videos, HTML snapshots, large bundles) — not proof of loop, keep local
+.testsprite/runs/
+.testsprite/runs2/
+# refined plan scratch files live in testsprite-plans/ as the source of truth
+.testsprite/refined-*.json

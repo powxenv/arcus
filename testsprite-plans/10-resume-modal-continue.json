@@ -1,0 +1,25 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Saved progress triggers the resume modal and Continue restores it",
+  "description": "After answering a question on the Solstice take page (which saves encrypted progress locally), visiting the Start page opens a resume modal that, on Continue, returns the user to the exact question they left off on.",
+  "priority": "p1",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Solstice take page" },
+    { "type": "action", "description": "Click one of the seven numbered answer options to answer the first question" },
+    {
+      "type": "assertion",
+      "description": "Verify the second question is now displayed and the progress indicator reads '2 of 36', confirming the first answer was recorded."
+    },
+    { "type": "action", "description": "Click the 'Begin Your Arc' link in the site header to go to the Start page" },
+    {
+      "type": "assertion",
+      "description": "Verify a 'Pick up where you left off?' resume modal opens that identifies Solstice and states '1 of 36 questions answered'."
+    },
+    { "type": "action", "description": "Click the 'Continue' button in the resume modal" },
+    {
+      "type": "assertion",
+      "description": "Verify the browser returns to the Solstice take page with the progress indicator reading '2 of 36', confirming the saved progress was restored to the second question."
+    }
+  ]
+}
