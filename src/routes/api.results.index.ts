@@ -3,7 +3,7 @@
 // (e.g. integration tests) can exercise the real save path over plain JSON.
 
 import { createFileRoute } from "@tanstack/react-router";
-import { saveResultRow, validateSaveInput } from "../server/results";
+import { saveResultRow, validateSaveInput } from "../server/results-service";
 
 export const Route = createFileRoute("/api/results/")({
   server: {

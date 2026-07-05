@@ -3,7 +3,7 @@
 // server-side equivalent so the REST analysis route can generate an analysis
 // for an already-saved result without a browser.
 
-import { fetchStoredResultRow, type StoredResult } from "./results";
+import { fetchStoredResultRow, type StoredResult } from "./results-service";
 import { getQuestionSet } from "../data/questions";
 import { DIMENSION_EXPLANATIONS } from "../data/dimension-explanations";
 import { RESULT_DETAILS } from "../data/result-details";

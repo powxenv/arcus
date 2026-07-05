@@ -6,7 +6,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { buildAnalysisInputForToken } from "../server/ai-context";
 import { generateAIAnalysis } from "../server/ai-analysis";
-import { setAIAnalysis } from "../server/results";
+import { setAIAnalysis } from "../server/results-service";
 
 export const Route = createFileRoute("/api/results/$token/analysis")({
   server: {

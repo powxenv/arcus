@@ -3,7 +3,7 @@
 // `getResultByToken` server function. 404 when the token does not resolve.
 
 import { createFileRoute } from "@tanstack/react-router";
-import { fetchPublicResult } from "../server/results";
+import { fetchPublicResult } from "../server/results-service";
 
 export const Route = createFileRoute("/api/results/$token/")({
   server: {
