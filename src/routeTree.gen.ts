@@ -15,6 +15,7 @@ import { Route as StartIndexRouteImport } from './routes/start.index'
 import { Route as AboutIndexRouteImport } from './routes/about.index'
 import { Route as SharedTokenIndexRouteImport } from './routes/shared.$token.index'
 import { Route as AssessmentKeyIndexRouteImport } from './routes/assessment.$key.index'
+import { Route as ArcTakeIndexRouteImport } from './routes/arc.take.index'
 import { Route as ApiResultsIndexRouteImport } from './routes/api.results.index'
 import { Route as AssessmentKeyTakeIndexRouteImport } from './routes/assessment.$key.take.index'
 import { Route as ApiResultsTokenIndexRouteImport } from './routes/api.results.$token.index'
@@ -50,6 +51,11 @@ const AssessmentKeyIndexRoute = AssessmentKeyIndexRouteImport.update({
   path: '/assessment/$key/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ArcTakeIndexRoute = ArcTakeIndexRouteImport.update({
+  id: '/arc/take/',
+  path: '/arc/take/',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ApiResultsIndexRoute = ApiResultsIndexRouteImport.update({
   id: '/api/results/',
   path: '/api/results/',
@@ -77,6 +83,7 @@ export interface FileRoutesByFullPath {
   '/start/': typeof StartIndexRoute
   '/theory/': typeof TheoryIndexRoute
   '/api/results/': typeof ApiResultsIndexRoute
+  '/arc/take/': typeof ArcTakeIndexRoute
   '/assessment/$key/': typeof AssessmentKeyIndexRoute
   '/shared/$token/': typeof SharedTokenIndexRoute
   '/api/results/$token/analysis': typeof ApiResultsTokenAnalysisRoute
@@ -89,6 +96,7 @@ export interface FileRoutesByTo {
   '/start': typeof StartIndexRoute
   '/theory': typeof TheoryIndexRoute
   '/api/results': typeof ApiResultsIndexRoute
+  '/arc/take': typeof ArcTakeIndexRoute
   '/assessment/$key': typeof AssessmentKeyIndexRoute
   '/shared/$token': typeof SharedTokenIndexRoute
   '/api/results/$token/analysis': typeof ApiResultsTokenAnalysisRoute
@@ -102,6 +110,7 @@ export interface FileRoutesById {
   '/start/': typeof StartIndexRoute
   '/theory/': typeof TheoryIndexRoute
   '/api/results/': typeof ApiResultsIndexRoute
+  '/arc/take/': typeof ArcTakeIndexRoute
   '/assessment/$key/': typeof AssessmentKeyIndexRoute
   '/shared/$token/': typeof SharedTokenIndexRoute
   '/api/results/$token/analysis': typeof ApiResultsTokenAnalysisRoute
@@ -116,6 +125,7 @@ export interface FileRouteTypes {
     | '/start/'
     | '/theory/'
     | '/api/results/'
+    | '/arc/take/'
     | '/assessment/$key/'
     | '/shared/$token/'
     | '/api/results/$token/analysis'
@@ -128,6 +138,7 @@ export interface FileRouteTypes {
     | '/start'
     | '/theory'
     | '/api/results'
+    | '/arc/take'
     | '/assessment/$key'
     | '/shared/$token'
     | '/api/results/$token/analysis'
@@ -140,6 +151,7 @@ export interface FileRouteTypes {
     | '/start/'
     | '/theory/'
     | '/api/results/'
+    | '/arc/take/'
     | '/assessment/$key/'
     | '/shared/$token/'
     | '/api/results/$token/analysis'
@@ -153,6 +165,7 @@ export interface RootRouteChildren {
   StartIndexRoute: typeof StartIndexRoute
   TheoryIndexRoute: typeof TheoryIndexRoute
   ApiResultsIndexRoute: typeof ApiResultsIndexRoute
+  ArcTakeIndexRoute: typeof ArcTakeIndexRoute
   AssessmentKeyIndexRoute: typeof AssessmentKeyIndexRoute
   SharedTokenIndexRoute: typeof SharedTokenIndexRoute
   ApiResultsTokenAnalysisRoute: typeof ApiResultsTokenAnalysisRoute
@@ -204,6 +217,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AssessmentKeyIndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/arc/take/': {
+      id: '/arc/take/'
+      path: '/arc/take'
+      fullPath: '/arc/take/'
+      preLoaderRoute: typeof ArcTakeIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/api/results/': {
       id: '/api/results/'
       path: '/api/results'
@@ -241,6 +261,7 @@ const rootRouteChildren: RootRouteChildren = {
   StartIndexRoute: StartIndexRoute,
   TheoryIndexRoute: TheoryIndexRoute,
   ApiResultsIndexRoute: ApiResultsIndexRoute,
+  ArcTakeIndexRoute: ArcTakeIndexRoute,
   AssessmentKeyIndexRoute: AssessmentKeyIndexRoute,
   SharedTokenIndexRoute: SharedTokenIndexRoute,
   ApiResultsTokenAnalysisRoute: ApiResultsTokenAnalysisRoute,

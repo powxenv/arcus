@@ -41,6 +41,8 @@ export type StoredResult = {
   geometry?: StoredGeometry;
   detail?: StoredDetail;
   notes?: string[];
+  // Full Arc only: the four component results.
+  components?: StoredResult[];
 };
 
 export type SaveResultInput = {

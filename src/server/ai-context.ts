@@ -19,6 +19,41 @@ export async function buildAnalysisInputForToken(
   const answers = JSON.parse(row.answers) as Record<string, number | string>;
   const assessmentKey = row.assessmentKey;
 
+  // The Full Arc composite has no raw question responses — build the AI
+  // context from the synthesis itself so the analysis is meaningful.
+  if (assessmentKey === "full-arc") {
+    const notes = result.notes ?? [];
+    return {
+      assessmentKey,
+      context: {
+        assessmentSummary:
+          result.summary + (notes.length ? "\n\n" + notes.join("\n") : ""),
+        resultMeaning: result.detail?.meaning,
+        resultEveryday: result.detail?.distinct,
+        resultHowToRead: result.detail?.howToRead,
+        dimensions: (result.scores ?? []).map((s) => ({
+          key: s.key,
+          label: s.label,
+          plain: s.label,
+          high: "high / aligned",
+          low: "low / divergent",
+        })),
+      },
+      questions: [],
+      answers: {},
+      result: {
+        type: result.type,
+        scores: (result.scores ?? []).map((s) => ({
+          key: s.key,
+          label: s.label,
+          value: s.value,
+        })),
+        modifier: result.modifier?.value,
+        secondaryModifier: result.secondaryModifier?.value,
+      },
+    };
+  }
+
   const dims = DIMENSION_EXPLANATIONS[assessmentKey] ?? [];
   const detail = result.detail
     ? RESULT_DETAILS[assessmentKey]?.[result.type]

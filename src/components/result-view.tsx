@@ -29,6 +29,12 @@ type Props = {
   onRetake?: () => void;
   initialAiText?: string | null;
   initialShareToken?: string | null;
+  // When true, render without the full-page shell and the celebratory result
+  // modal — used to compose multiple results into one page (e.g. the Full Arc).
+  embed?: boolean;
+  // Show the celebratory result modal on mount (only right after completion;
+  // false for the persistent /shared view so it doesn't pop on every visit).
+  reveal?: boolean;
 };
 
 export function ResultView({
@@ -39,6 +45,8 @@ export function ResultView({
   onRetake,
   initialAiText,
   initialShareToken,
+  embed = false,
+  reveal = true,
 }: Props) {
   const assessment = ASSESSMENTS[result.assessmentKey];
   const dimensionExplanations =
@@ -53,7 +61,7 @@ export function ResultView({
     if (initialShareToken) setShareToken(initialShareToken);
   }, [initialShareToken]);
   const [copied, setCopied] = useState(false);
-  const [showResultModal, setShowResultModal] = useState(own);
+  const [showResultModal, setShowResultModal] = useState(own && !embed && reveal);
 
   const [aiText, setAiText] = useState<string | null>(initialAiText ?? null);
   const [aiLoading, setAiLoading] = useState(false);
@@ -62,7 +70,7 @@ export function ResultView({
 
   const constructLabel = useMemo(() => {
     const map = new Map(questionSet.constructs.map((c) => [c.key, c.label]));
-    return (key: string) => map.get(key) ?? key;
+    return (key: string) => map.get(key);
   }, [questionSet]);
 
   const modifierLine = useMemo(() => modifierNarrative(result), [result]);
@@ -91,33 +99,55 @@ export function ResultView({
         ? RESULT_DETAILS[result.assessmentKey]?.[detailKey]
         : null;
 
-      const qs = questionSet.questions
-        .filter((q) => answers[q.id] !== undefined && answers[q.id] !== null)
-        .map((q) => {
-          let text: string;
-          if (q.type === "bipolar") text = q.stem ?? q.id;
-          else if (q.type === "unipolar") text = q.statement;
-          else if (q.type === "heuristic") text = q.scenario;
-          else text = q.prompt;
-          return { id: q.id, text, construct: q.construct };
-        });
+      const isFullArc = result.assessmentKey === "full-arc";
+      const qs = isFullArc
+        ? []
+        : questionSet.questions
+            .filter((q) => answers[q.id] !== undefined && answers[q.id] !== null)
+            .map((q) => {
+              let text: string;
+              if (q.type === "bipolar") text = q.stem ?? q.id;
+              else if (q.type === "unipolar") text = q.statement;
+              else if (q.type === "heuristic") text = q.scenario;
+              else text = q.prompt;
+              return { id: q.id, text, construct: q.construct };
+            });
 
       const text = await getAIAnalysis({
         data: {
           assessmentKey: result.assessmentKey,
-          context: {
-            assessmentSummary: assessment?.overview ?? result.summary,
-            resultMeaning: det?.meaning,
-            resultEveryday: det?.everyday,
-            resultHowToRead: det?.howToRead,
-            dimensions: dims.map((d) => ({
-              key: d.key,
-              label: d.plain,
-              plain: d.plain,
-              high: d.high,
-              low: d.low,
-            })),
-          },
+          context: isFullArc
+            ? {
+                // The composite has no raw responses — feed the synthesis.
+                assessmentSummary:
+                  result.summary +
+                  (result.notes && result.notes.length
+                    ? "\n\n" + result.notes.join("\n")
+                    : ""),
+                resultMeaning: result.detail?.meaning,
+                resultEveryday: result.detail?.distinct,
+                resultHowToRead: result.detail?.howToRead,
+                dimensions: result.scores.map((s) => ({
+                  key: s.key,
+                  label: s.label,
+                  plain: s.label,
+                  high: "aligned",
+                  low: "divergent",
+                })),
+              }
+            : {
+                assessmentSummary: assessment?.overview ?? result.summary,
+                resultMeaning: det?.meaning,
+                resultEveryday: det?.everyday,
+                resultHowToRead: det?.howToRead,
+                dimensions: dims.map((d) => ({
+                  key: d.key,
+                  label: d.plain,
+                  plain: d.plain,
+                  high: d.high,
+                  low: d.low,
+                })),
+              },
           questions: qs,
           answers,
           result: {
@@ -150,9 +180,8 @@ export function ResultView({
       ? `${window.location.origin}/shared/${shareToken}`
       : null;
 
-  return (
-    <PageShell>
-      <PageStack gap="sm">
+  const content = (
+    <PageStack gap="sm">
         {/* Headline */}
         <Hero
           eyebrow="Your result"
@@ -230,6 +259,20 @@ export function ResultView({
                 );
               })}
             </Surface>
+          </Section>
+        ) : null}
+
+        {/* The four individual assessments (Full Arc only) */}
+        {result.components && result.components.length > 0 ? (
+          <Section
+            title="Your four assessments"
+            intro="Each test on its own. Tap Details for the breakdown."
+          >
+            <div className="flex flex-col gap-3">
+              {result.components.map((c) => (
+                <ComponentCard key={c.assessmentKey} result={c} />
+              ))}
+            </div>
           </Section>
         ) : null}
 
@@ -383,6 +426,11 @@ export function ResultView({
           assessment and doesn't diagnose anything.
         </p>
       </PageStack>
+    );
+  if (embed) return content;
+  return (
+    <PageShell>
+      {content}
 
       {showResultModal ? (
         <Modal
@@ -476,6 +524,13 @@ function modifierNarrative(result: AssessmentResult): string | null {
             ? " What you say about your thinking lines up with how your choices play out."
             : "";
       return stratText + gapText;
+    }
+    case "full-arc": {
+      if (value === "self-congruent")
+        return "Across all four assessments, your internal gaps are small — your arcs agree.";
+      if (value === "divergent")
+        return "Across all four assessments, your internal gaps are wide — your arcs pull apart.";
+      return "Across all four assessments, your internal gaps are mixed.";
     }
     default:
       return null;
@@ -584,5 +639,82 @@ function GoogleLogo() {
         fill="#EA4335"
       />
     </svg>
+  );
+}
+
+// A compact card for one of the Full Arc's component assessments. Collapsed by
+// default (emoji, type, summary); "Details" expands the dimension breakdown.
+function ComponentCard({ result }: { result: AssessmentResult }) {
+  const [open, setOpen] = useState(false);
+  const assessment = ASSESSMENTS[result.assessmentKey];
+  const dims = DIMENSION_EXPLANATIONS[result.assessmentKey] ?? [];
+
+  return (
+    <Surface className="flex flex-col gap-2">
+      <div className="flex items-center gap-3">
+        <span className="text-2xl shrink-0" aria-hidden>
+          {result.emoji}
+        </span>
+        <div className="flex-1 min-w-0">
+          <p className="text-xs uppercase tracking-wide text-default-400">
+            {assessment?.shortName ?? result.assessmentKey}
+          </p>
+          <h3 className="font-bold leading-tight">{result.type}</h3>
+        </div>
+        <button
+          type="button"
+          className={buttonVariants({ variant: "ghost", size: "sm" })}
+          onClick={() => setOpen((o) => !o)}
+          aria-expanded={open}
+        >
+          {open ? "Hide" : "Details"}
+        </button>
+      </div>
+
+      <p className="text-sm text-default-600 leading-relaxed">{result.summary}</p>
+
+      {result.modifier?.value ? (
+        <p className="text-xs text-default-400">
+          {result.modifier.label}: {result.modifier.value}
+          {result.secondaryModifier?.value
+            ? ` · ${result.secondaryModifier.label}: ${result.secondaryModifier.value}`
+            : ""}
+        </p>
+      ) : null}
+
+      {open && result.scores.length > 0 ? (
+        <div className="flex flex-col gap-2 pt-2 mt-1 border-t-[.5px] border-default-200">
+          {result.scores.map((s) => {
+            const expl = dims.find((e) => e.key === s.key);
+            return (
+              <div key={s.key} className="flex flex-col gap-1">
+                <div className="flex items-baseline justify-between gap-3">
+                  <span className="text-sm font-medium text-default-800">
+                    {s.label}
+                  </span>
+                  <span className="text-xs text-default-400 tabular-nums">
+                    {s.value}
+                  </span>
+                </div>
+                <div className="h-1.5 rounded-full bg-default-200 overflow-hidden">
+                  <div
+                    className="h-full bg-accent rounded-full"
+                    style={{ width: `${s.value}%` }}
+                  />
+                </div>
+                {expl ? (
+                  <p className="text-xs text-default-500 leading-relaxed">
+                    {expl.plain}{" "}
+                    <span className="text-default-400">
+                      {s.value >= 50 ? expl.high : expl.low}
+                    </span>
+                  </p>
+                ) : null}
+              </div>
+            );
+          })}
+        </div>
+      ) : null}
+    </Surface>
   );
 }

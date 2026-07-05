@@ -1,4 +1,4 @@
-import { createFileRoute, Link } from "@tanstack/react-router";
+import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 import { useCallback, useEffect, useState } from "react";
 import { Modal, buttonVariants } from "@heroui/react";
 import SolarArrowLeftLineDuotone from "~icons/solar/arrow-left-line-duotone";
@@ -11,8 +11,7 @@ import {
   saveProgress,
   type AssessmentProgress,
 } from "../lib/assessment-progress";
-import { computeResult, type AssessmentResult } from "../lib/scoring";
-import { ResultView } from "../components/result-view";
+import { computeResult } from "../lib/scoring";
 import { PageShell } from "../components/ui-system";
 import { saveResult } from "../server/results";
 
@@ -35,19 +34,18 @@ export const Route = createFileRoute("/assessment/$key/take/")({
   },
 });
 
-type Phase = "loading" | "questions" | "results";
+type Phase = "loading" | "questions" | "saving";
 type Answers = Record<string, number | string>;
 
 function AssessmentTake() {
   const { key } = Route.useParams();
+  const navigate = useNavigate();
   const set = getQuestionSet(key);
 
   const [phase, setPhase] = useState<Phase>("loading");
   const [answers, setAnswers] = useState<Answers>({});
   const [index, setIndex] = useState(0);
-  const [result, setResult] = useState<AssessmentResult | null>(null);
   const [pendingFinish, setPendingFinish] = useState<Answers | null>(null);
-  const [shareToken, setShareToken] = useState<string | null>(null);
 
   const total = set?.questions.length ?? 0;
   const current = set?.questions[index];
@@ -87,32 +85,32 @@ function AssessmentTake() {
   }, [answers, index, phase, set, total]);
 
   const finish = useCallback(
-    (finalAnswers: Answers) => {
+    async (finalAnswers: Answers) => {
       if (!set) return;
-      setResult(computeResult(set, finalAnswers));
+      const res = computeResult(set, finalAnswers);
       clearProgress();
-      setPhase("results");
+      setPendingFinish(null);
+      setPhase("saving");
+      try {
+        const saved = await saveResult({
+          data: {
+            assessmentKey: res.assessmentKey,
+            resultType: res.type,
+            answers: finalAnswers,
+            result: res as never,
+            aiAnalysis: null,
+          },
+        });
+        navigate({
+          to: "/shared/$token",
+          params: { token: saved.shareToken },
+        });
+      } catch {
+        setPhase("questions");
+      }
     },
-    [set],
+    [set, navigate],
   );
-
-  // Auto-save the result as soon as it is computed so the share link is
-  // available immediately and analytics data is retained regardless of
-  // whether the user clicks Share.
-  useEffect(() => {
-    if (phase !== "results" || !result || !set) return;
-    saveResult({
-      data: {
-        assessmentKey: result.assessmentKey,
-        resultType: result.type,
-        answers,
-        result: result as never,
-        aiAnalysis: null,
-      },
-    })
-      .then((out) => setShareToken(out.shareToken))
-      .catch(() => {});
-  }, [phase, result, answers, set]);
 
   const advance = useCallback(() => {
     const nextIdx = index + 1;
@@ -197,15 +195,9 @@ function AssessmentTake() {
   const confirmFinish = useCallback(() => {
     if (!pendingFinish) return;
     finish(pendingFinish);
-    setPendingFinish(null);
   }, [pendingFinish, finish]);
 
-  const startFresh = useCallback(() => {
-    setAnswers({});
-    setIndex(0);
-    clearProgress();
-    setPhase("questions");
-  }, []);
+
 
   if (!set) {
     return (
@@ -222,16 +214,13 @@ function AssessmentTake() {
 
   if (phase === "loading") return <PageShell size="sm" />;
 
-  if (phase === "results" && result) {
+  if (phase === "saving") {
     return (
-      <ResultView
-        result={result}
-        questionSet={set}
-        answers={answers}
-        own
-        onRetake={startFresh}
-        initialShareToken={shareToken}
-      />
+      <PageShell size="sm">
+        <div className="text-center py-20 text-default-500">
+          Saving your result…
+        </div>
+      </PageShell>
     );
   }
 
