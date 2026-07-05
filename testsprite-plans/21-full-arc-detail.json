@@ -1,0 +1,12 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Full Arc detail page renders its hero and result types",
+  "description": "The Full Arc assessment detail page (/assessment/full-arc) renders its title, domain, duration, and the three result archetypes (The Congruent Arc, The Layered Arc, The Divergent Arc).",
+  "priority": "p1",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Full Arc assessment detail page at /assessment/full-arc" },
+    { "type": "assertion", "description": "Verify the page heading reads 'The Full Arc Assessment', the eyebrow shows 'Integration', and a meta line contains '~35 min' and '131 questions'." },
+    { "type": "assertion", "description": "Verify the 'Result outcomes' section lists the three archetypes: The Congruent Arc, The Layered Arc, and The Divergent Arc." }
+  ]
+}
