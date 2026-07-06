@@ -208,7 +208,7 @@ jobs:
           for f in be-results/*.json; do
             tid=$(basename "$f" .json)
             if [ ! -s "$f" ]; then status="error"
-            elif jq -e '.error' "$f" >/dev/null 2>&1; then status="error"
+            elif jq -e '(.error | type) == "object" or ((.error | type) == "string" and (.error | length > 0))' "$f" >/dev/null 2>&1; then status="error"
             else
               status=$(jq -r '.run.status // .status // "error"' "$f" 2>/dev/null)
               case "$status" in passed|failed|blocked|cancelled|queued|running) ;; *) status="error";; esac
@@ -296,7 +296,7 @@ jobs:
           for f in fe-results/*.json; do
             tid=$(basename "$f" .json)
             if [ ! -s "$f" ]; then status="error"
-            elif jq -e '.error' "$f" >/dev/null 2>&1; then status="error"
+            elif jq -e '(.error | type) == "object" or ((.error | type) == "string" and (.error | length > 0))' "$f" >/dev/null 2>&1; then status="error"
             else
               status=$(jq -r '.run.status // .status // "error"' "$f" 2>/dev/null)
               case "$status" in passed|failed|blocked|cancelled|queued|running) ;; *) status="error";; esac
