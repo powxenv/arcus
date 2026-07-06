@@ -15,10 +15,14 @@
 # but the integration branch is `feat/testsprite-e2e` (where this file lives), so
 # those events can't fire. pull_request/push use the file on feat/testsprite-e2e.
 #
-# Both suites run each test by ID with --target-url (the --all batch path rejects
-# --target-url). Gating fails only on a real `failed` verdict; `blocked` is
-# surfaced with artifacts instead, because the platform can return `blocked` on
-# passing tests (LOOP.md).
+# Notes on the run model:
+#   • Backend tests have their URL baked into the test code (TestSprite ignores
+#     --target-url for BE), so backend always tests PRODUCTION regardless of
+#     trigger. Frontend honors --target-url and tests the branch preview / prod.
+#   • TestSprite allows one run per test in flight, so this workflow serializes
+#     (global concurrency group) and adopts any in-flight run on CONFLICT.
+#   • Gating: passed = green; blocked = non-fatal (platform false-blocks, see
+#     LOOP.md); anything else (failed / errored / couldn't run) fails the job.
 name: TestSprite E2E
 
 on:
@@ -50,10 +54,13 @@ permissions:
   contents: read
   checks: read   # read Cloudflare's "Workers Builds:" check-run conclusion
 
-# A newer build cancels a stale TestSprite run (save credits).
+# Serialize ALL TestSprite E2E runs: TestSprite allows only one run per test in
+# flight, so concurrent runs (a push + a PR) collide with CONFLICT. Queue rather
+# than cancel — cancelling mid-run wastes credits and leaves server-side runs in
+# flight that the next run would still collide with.
 concurrency:
-  group: testsprite-${{ github.event.pull_request.number || github.ref }}
-  cancel-in-progress: true
+  group: testsprite-e2e
+  cancel-in-progress: false
 
 env:
   PROJECT_ID: ${{ vars.TESTSPRITE_PROJECT_ID || 'bb4acddb-ddc2-4680-85d7-e9578654d2cd' }}
@@ -155,14 +162,14 @@ jobs:
         if: steps.guard.outputs.skip != 'true'
         run: bun add -g @testsprite/testsprite-cli@latest
 
-      # ── Backend suite (always; tests run by ID with --target-url) ─────────
+      # ── Backend suite (always; tests production — BE URL is baked into the code) ─
       - name: Discover backend tests
         if: steps.guard.outputs.skip != 'true'
         env:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
         run: |
           mkdir -p be-results .testsprite/be
-          testsprite test list --project "$PROJECT_ID" --type backend --output json \
+          testsprite --output json test list --project "$PROJECT_ID" --type backend \
             | jq -r '.items[]?.id // empty' | grep -v '^$' > be-ids.txt
           echo "Found $(wc -l < be-ids.txt) backend test(s):"
           cat be-ids.txt
@@ -173,15 +180,20 @@ jobs:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
         run: |
           run_one() {
-            local tid="$1"
-            testsprite test run "$tid" \
-              --target-url "$TARGET_URL" \
+            local tid="$1" inflight
+            testsprite --output json test run "$tid" \
               --wait --timeout 900 \
               --idempotency-key "ci-be-${{ github.run_id }}-${{ github.run_attempt }}-$tid" \
-              --output json > "be-results/$tid.json" 2> "be-results/$tid.err" || true
+              > "be-results/$tid.json" 2> "be-results/$tid.err" || true
+            # CONFLICT (another run in flight): adopt it instead of leaving an empty result.
+            inflight=$(jq -r '.error.details.currentRunId // empty' "be-results/$tid.err" 2>/dev/null)
+            if [ -n "$inflight" ]; then
+              echo "[$tid] adopting in-flight run $inflight" >&2
+              testsprite --output json test wait "$inflight" --timeout 900 \
+                > "be-results/$tid.json" 2> "be-results/$tid.err" || true
+            fi
           }
           export -f run_one
-          export TARGET_URL
           xargs -a be-ids.txt -P 5 -I {} bash -c 'run_one "$@"' _ {}
 
       - name: Triage backend verdicts
@@ -191,49 +203,51 @@ jobs:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
         run: |
           shopt -s nullglob
-          passed=0; failed=0; blocked=0; other=0
+          passed=0; failed=0; blocked=0
           : > be-rows.md
           for f in be-results/*.json; do
-            status=$(jq -r '.run.status // "unknown"' "$f")
-            tid=$(jq -r '.run.testId // "?"' "$f")
-            url=$(jq -r '.run.dashboardUrl // ""' "$f")
-            rid=$(jq -r '.run.runId // ""' "$f")
+            tid=$(basename "$f" .json)
+            if [ ! -s "$f" ]; then status="error"
+            elif jq -e '.error' "$f" >/dev/null 2>&1; then status="error"
+            else
+              status=$(jq -r '.run.status // .status // "error"' "$f" 2>/dev/null)
+              case "$status" in passed|failed|blocked|cancelled|queued|running) ;; *) status="error";; esac
+            fi
+            rid=$(jq -r '.run.runId // .runId // empty' "$f" 2>/dev/null)
+            url=$(jq -r '.run.dashboardUrl // .dashboardUrl // empty' "$f" 2>/dev/null)
             case "$status" in
-              passed)  passed=$((passed+1));  mark='✅';;
-              failed)  failed=$((failed+1));  mark='❌';;
+              passed)  passed=$((passed+1)); mark='✅';;
               blocked) blocked=$((blocked+1)); mark='🚫';;
-              *)       other=$((other+1));    mark='❔';;
+              *)       failed=$((failed+1)); mark='❌';;   # failed / error / couldn't run
             esac
             if [ "$status" != "passed" ] && [ -n "$rid" ]; then
-              testsprite test artifact get "$rid" --out ".testsprite/be/$rid" --failed-only || true
+              testsprite --output json test artifact get "$rid" --out ".testsprite/be/$rid" --failed-only || true
             fi
             link=""; [ -n "$url" ] && link=" — [dashboard]($url)"
             echo "- $mark **$status** \`$tid\`$link" >> be-rows.md
           done
           {
-            echo "### TestSprite backend — $(wc -l < be-ids.txt) test(s) @ $TARGET_URL"
+            echo "### TestSprite backend — $(wc -l < be-ids.txt) test(s)"
             echo ""
-            echo "| ✅ passed | ❌ failed | 🚫 blocked | ❔ other |"
-            echo "|---|---|---|---|"
-            echo "| $passed | $failed | $blocked | $other |"
+            echo "| ✅ passed | ❌ failed/errored | 🚫 blocked (non-fatal) |"
+            echo "|---|---|---|"
+            echo "| $passed | $failed | $blocked |"
             echo ""
             cat be-rows.md
           } | tee -a "$GITHUB_STEP_SUMMARY"
           echo "failed=$failed"  >> "$GITHUB_OUTPUT"
           echo "blocked=$blocked" >> "$GITHUB_OUTPUT"
 
-      - name: Gate on backend result (real failures only)
+      - name: Gate on backend result
         if: steps.guard.outputs.skip != 'true'
         run: |
-          failed="${{ steps.be.outputs.failed }}"
-          failed="${failed:-0}"
+          failed="${{ steps.be.outputs.failed }}"; failed="${failed:-0}"
           if [ "$failed" -gt 0 ]; then
-            echo "::error::$failed backend test(s) FAILED. See uploaded bundles."
+            echo "::error::Backend: $failed test(s) failed or could not run. See uploaded bundles."
             exit 1
           fi
-          blocked="${{ steps.be.outputs.blocked }}"
-          blocked="${blocked:-0}"
-          echo "Backend: no hard failures (blocked=$blocked treated as non-fatal)."
+          blocked="${{ steps.be.outputs.blocked }}"; blocked="${blocked:-0}"
+          echo "Backend: no failures (blocked=$blocked non-fatal)."
 
       # ── Frontend suite (PRs, pushes, and full manual runs; backend gate must pass) ─
       - name: Discover frontend tests
@@ -242,7 +256,7 @@ jobs:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
         run: |
           mkdir -p fe-results .testsprite/runs
-          testsprite test list --project "$PROJECT_ID" --type frontend --output json \
+          testsprite --output json test list --project "$PROJECT_ID" --type frontend \
             | jq -r '.items[]?.id // empty' | grep -v '^$' > fe-ids.txt
           echo "Found $(wc -l < fe-ids.txt) frontend test(s):"
           cat fe-ids.txt
@@ -254,12 +268,17 @@ jobs:
           FE_CONCURRENCY: ${{ inputs.frontend_concurrency || '5' }}
         run: |
           run_one() {
-            local tid="$1"
-            testsprite test run "$tid" \
-              --target-url "$TARGET_URL" \
-              --wait --timeout 900 \
+            local tid="$1" inflight
+            testsprite --output json test run "$tid" \
+              --target-url "$TARGET_URL" --wait --timeout 900 \
               --idempotency-key "ci-fe-${{ github.run_id }}-${{ github.run_attempt }}-$tid" \
-              --output json > "fe-results/$tid.json" 2> "fe-results/$tid.err" || true
+              > "fe-results/$tid.json" 2> "fe-results/$tid.err" || true
+            inflight=$(jq -r '.error.details.currentRunId // empty' "fe-results/$tid.err" 2>/dev/null)
+            if [ -n "$inflight" ]; then
+              echo "[$tid] adopting in-flight run $inflight" >&2
+              testsprite --output json test wait "$inflight" --timeout 900 \
+                > "fe-results/$tid.json" 2> "fe-results/$tid.err" || true
+            fi
           }
           export -f run_one
           export TARGET_URL
@@ -272,21 +291,25 @@ jobs:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
         run: |
           shopt -s nullglob
-          passed=0; failed=0; blocked=0; other=0
+          passed=0; failed=0; blocked=0
           : > fe-rows.md
           for f in fe-results/*.json; do
-            status=$(jq -r '.run.status // "unknown"' "$f")
-            tid=$(jq -r '.run.testId // "?"' "$f")
-            url=$(jq -r '.run.dashboardUrl // ""' "$f")
-            rid=$(jq -r '.run.runId // ""' "$f")
+            tid=$(basename "$f" .json)
+            if [ ! -s "$f" ]; then status="error"
+            elif jq -e '.error' "$f" >/dev/null 2>&1; then status="error"
+            else
+              status=$(jq -r '.run.status // .status // "error"' "$f" 2>/dev/null)
+              case "$status" in passed|failed|blocked|cancelled|queued|running) ;; *) status="error";; esac
+            fi
+            rid=$(jq -r '.run.runId // .runId // empty' "$f" 2>/dev/null)
+            url=$(jq -r '.run.dashboardUrl // .dashboardUrl // empty' "$f" 2>/dev/null)
             case "$status" in
-              passed)  passed=$((passed+1));  mark='✅';;
-              failed)  failed=$((failed+1));  mark='❌';;
+              passed)  passed=$((passed+1)); mark='✅';;
               blocked) blocked=$((blocked+1)); mark='🚫';;
-              *)       other=$((other+1));    mark='❔';;
+              *)       failed=$((failed+1)); mark='❌';;
             esac
             if [ "$status" != "passed" ] && [ -n "$rid" ]; then
-              testsprite test artifact get "$rid" --out ".testsprite/runs/$rid" --failed-only || true
+              testsprite --output json test artifact get "$rid" --out ".testsprite/runs/$rid" --failed-only || true
             fi
             link=""; [ -n "$url" ] && link=" — [dashboard]($url)"
             echo "- $mark **$status** \`$tid\`$link" >> fe-rows.md
@@ -294,27 +317,25 @@ jobs:
           {
             echo "### TestSprite frontend — $(wc -l < fe-ids.txt) test(s) @ $TARGET_URL"
             echo ""
-            echo "| ✅ passed | ❌ failed | 🚫 blocked | ❔ other |"
-            echo "|---|---|---|---|"
-            echo "| $passed | $failed | $blocked | $other |"
+            echo "| ✅ passed | ❌ failed/errored | 🚫 blocked (non-fatal) |"
+            echo "|---|---|---|"
+            echo "| $passed | $failed | $blocked |"
             echo ""
             cat fe-rows.md
           } | tee -a "$GITHUB_STEP_SUMMARY"
           echo "failed=$failed"  >> "$GITHUB_OUTPUT"
           echo "blocked=$blocked" >> "$GITHUB_OUTPUT"
 
-      - name: Gate on frontend result (real failures only)
+      - name: Gate on frontend result
         if: steps.guard.outputs.skip != 'true' && steps.resolve.outputs.run_fe == 'true'
         run: |
-          failed="${{ steps.fe.outputs.failed }}"
-          failed="${failed:-0}"
+          failed="${{ steps.fe.outputs.failed }}"; failed="${failed:-0}"
           if [ "$failed" -gt 0 ]; then
-            echo "::error::$failed frontend test(s) FAILED."
+            echo "::error::Frontend: $failed test(s) failed or could not run."
             exit 1
           fi
-          blocked="${{ steps.fe.outputs.blocked }}"
-          blocked="${blocked:-0}"
-          echo "Frontend: no hard failures (blocked=$blocked treated as non-fatal)."
+          blocked="${{ steps.fe.outputs.blocked }}"; blocked="${blocked:-0}"
+          echo "Frontend: no failures (blocked=$blocked non-fatal)."
 
       - name: Upload artifacts
         if: always() && steps.guard.outputs.skip != 'true'
