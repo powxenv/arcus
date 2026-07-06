@@ -15,14 +15,10 @@
 # but the integration branch is `feat/testsprite-e2e` (where this file lives), so
 # those events can't fire. pull_request/push use the file on feat/testsprite-e2e.
 #
-# Triggers:
-#   • pull_request → feat/testsprite-e2e : wait for CF build, test the PR's preview
-#   • push         → feat/testsprite-e2e : wait for CF build, test production
-#   • workflow_dispatch                   : manual run against a URL (default prod)
-#
-# Backend gates strictly. Frontend is nuanced: a real `failed` fails the job, but
-# `blocked`/`inconclusive` only surface artifacts (platform can `blocked` passing
-# tests — LOOP.md).
+# Both suites run each test by ID with --target-url (the --all batch path rejects
+# --target-url). Gating fails only on a real `failed` verdict; `blocked` is
+# surfaced with artifacts instead, because the platform can return `blocked` on
+# passing tests (LOOP.md).
 name: TestSprite E2E
 
 on:
@@ -150,62 +146,100 @@ jobs:
         if: steps.guard.outputs.skip != 'true'
         run: bun add -g @testsprite/testsprite-cli@latest
 
-      # ── Backend suite (always, strict gate) ──────────────────────────────
-      - name: Run backend suite
+      # ── Backend suite (always; tests run by ID with --target-url) ─────────
+      - name: Discover backend tests
+        if: steps.guard.outputs.skip != 'true'
+        env:
+          TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
+        run: |
+          mkdir -p be-results .testsprite/be
+          testsprite test list --project "$PROJECT_ID" --type backend --output json \
+            | jq -r '.items[]?.id // empty' | grep -v '^$' > be-ids.txt
+          echo "Found $(wc -l < be-ids.txt) backend test(s):"
+          cat be-ids.txt
+
+      - name: Run backend tests
+        if: steps.guard.outputs.skip != 'true'
+        env:
+          TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
+        run: |
+          run_one() {
+            local tid="$1"
+            testsprite test run "$tid" \
+              --target-url "$TARGET_URL" \
+              --wait --timeout 900 \
+              --idempotency-key "ci-be-${{ github.run_id }}-${{ github.run_attempt }}-$tid" \
+              --output json > "be-results/$tid.json" 2> "be-results/$tid.err" || true
+          }
+          export -f run_one
+          export TARGET_URL
+          xargs -a be-ids.txt -P 5 -I {} bash -c 'run_one "$@"' _ {}
+
+      - name: Triage backend verdicts
         id: be
         if: steps.guard.outputs.skip != 'true'
         env:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
         run: |
-          set +e
-          testsprite test run --all --project "$PROJECT_ID" \
-            --target-url "$TARGET_URL" \
-            --wait --timeout 900 \
-            --max-concurrency 20 \
-            --idempotency-key "ci-be-${{ github.run_id }}-${{ github.run_attempt }}" \
-            --output json > backend-result.json
-          code=$?
-          echo "exit=$code" >> "$GITHUB_OUTPUT"
-          echo '--- backend-result.json ---'
-          cat backend-result.json
-          exit 0
+          shopt -s nullglob
+          passed=0; failed=0; blocked=0; other=0
+          : > be-rows.md
+          for f in be-results/*.json; do
+            status=$(jq -r '.run.status // "unknown"' "$f")
+            tid=$(jq -r '.run.testId // "?"' "$f")
+            url=$(jq -r '.run.dashboardUrl // ""' "$f")
+            rid=$(jq -r '.run.runId // ""' "$f")
+            case "$status" in
+              passed)  passed=$((passed+1));  mark='✅';;
+              failed)  failed=$((failed+1));  mark='❌';;
+              blocked) blocked=$((blocked+1)); mark='🚫';;
+              *)       other=$((other+1));    mark='❔';;
+            esac
+            if [ "$status" != "passed" ] && [ -n "$rid" ]; then
+              testsprite test artifact get "$rid" --out ".testsprite/be/$rid" --failed-only || true
+            fi
+            link=""; [ -n "$url" ] && link=" — [dashboard]($url)"
+            echo "- $mark **$status** \`$tid\`$link" >> be-rows.md
+          done
+          {
+            echo "### TestSprite backend — $(wc -l < be-ids.txt) test(s) @ $TARGET_URL"
+            echo ""
+            echo "| ✅ passed | ❌ failed | 🚫 blocked | ❔ other |"
+            echo "|---|---|---|---|"
+            echo "| $passed | $failed | $blocked | $other |"
+            echo ""
+            cat be-rows.md
+          } | tee -a "$GITHUB_STEP_SUMMARY"
+          echo "failed=$failed"  >> "$GITHUB_OUTPUT"
+          echo "blocked=$blocked" >> "$GITHUB_OUTPUT"
 
-      - name: Download backend failure bundles
-        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit != '0'
-        env:
-          TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
+      - name: Gate on backend result (real failures only)
+        if: steps.guard.outputs.skip != 'true'
         run: |
-          mkdir -p .testsprite/backend
-          testsprite test list --project "$PROJECT_ID" --type backend \
-            --status failed,blocked,cancelled --output json \
-            | jq -r '.items[]?.id // empty' \
-            | while read -r tid; do
-                [ -n "$tid" ] || continue
-                echo "Pulling failure bundle for $tid"
-                testsprite test failure get "$tid" --out ".testsprite/backend/$tid" --failed-only || true
-              done
+          failed="${{ steps.be.outputs.failed }}"
+          failed="${failed:-0}"
+          if [ "$failed" -gt 0 ]; then
+            echo "::error::$failed backend test(s) FAILED. See uploaded bundles."
+            exit 1
+          fi
+          blocked="${{ steps.be.outputs.blocked }}"
+          blocked="${blocked:-0}"
+          echo "Backend: no hard failures (blocked=$blocked treated as non-fatal)."
 
-      - name: Gate on backend result
-        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit != '0'
-        run: |
-          echo "::error::Backend TestSprite suite did not pass (exit ${{ steps.be.outputs.exit }}). See uploaded bundles."
-          exit 1
-
-      # ── Frontend suite (manual full runs only, only if backend passed) ───
+      # ── Frontend suite (manual full runs only; backend gate above must pass) ─
       - name: Discover frontend tests
-        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit == '0' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        if: steps.guard.outputs.skip != 'true' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
         env:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
         run: |
           mkdir -p fe-results .testsprite/runs
           testsprite test list --project "$PROJECT_ID" --type frontend --output json \
-            | jq -r '.items[]?.id // empty' \
-            | grep -v '^$' > fe-ids.txt
+            | jq -r '.items[]?.id // empty' | grep -v '^$' > fe-ids.txt
           echo "Found $(wc -l < fe-ids.txt) frontend test(s):"
           cat fe-ids.txt
 
       - name: Run frontend tests (concurrent)
-        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit == '0' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        if: steps.guard.outputs.skip != 'true' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
         env:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
           FE_CONCURRENCY: ${{ inputs.frontend_concurrency || '5' }}
@@ -219,12 +253,12 @@ jobs:
               --output json > "fe-results/$tid.json" 2> "fe-results/$tid.err" || true
           }
           export -f run_one
-          export TARGET_URL PROJECT_ID
+          export TARGET_URL
           xargs -a fe-ids.txt -P "$FE_CONCURRENCY" -I {} bash -c 'run_one "$@"' _ {}
 
       - name: Triage frontend verdicts
         id: fe
-        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit == '0' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        if: steps.guard.outputs.skip != 'true' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
         env:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
         run: |
@@ -251,20 +285,17 @@ jobs:
           {
             echo "### TestSprite frontend — $(wc -l < fe-ids.txt) test(s) @ $TARGET_URL"
             echo ""
-            echo "| Result | Count |"
-            echo "|---|---|"
-            echo "| ✅ passed | $passed |"
-            echo "| ❌ failed (gates) | $failed |"
-            echo "| 🚫 blocked (non-fatal) | $blocked |"
-            echo "| ❔ other | $other |"
+            echo "| ✅ passed | ❌ failed | 🚫 blocked | ❔ other |"
+            echo "|---|---|---|---|"
+            echo "| $passed | $failed | $blocked | $other |"
             echo ""
             cat fe-rows.md
-          } | tee "$GITHUB_STEP_SUMMARY"
+          } | tee -a "$GITHUB_STEP_SUMMARY"
           echo "failed=$failed"  >> "$GITHUB_OUTPUT"
           echo "blocked=$blocked" >> "$GITHUB_OUTPUT"
 
       - name: Gate on frontend result (real failures only)
-        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit == '0' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        if: steps.guard.outputs.skip != 'true' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
         run: |
           failed="${{ steps.fe.outputs.failed }}"
           failed="${failed:-0}"
@@ -274,7 +305,7 @@ jobs:
           fi
           blocked="${{ steps.fe.outputs.blocked }}"
           blocked="${blocked:-0}"
-          echo "No hard frontend failures. blocked=$blocked treated as non-fatal (platform false-blocks documented in LOOP.md)."
+          echo "Frontend: no hard failures (blocked=$blocked treated as non-fatal)."
 
       - name: Upload artifacts
         if: always() && steps.guard.outputs.skip != 'true'
@@ -282,7 +313,9 @@ jobs:
         with:
           name: testsprite-e2e
           path: |
-            backend-result.json
+            be-results/
+            be-ids.txt
+            be-rows.md
             fe-results/
             fe-ids.txt
             fe-rows.md
