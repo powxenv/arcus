@@ -1,0 +1,276 @@
+# TestSprite E2E — runs against Cloudflare's own per-branch preview, the moment
+# Cloudflare finishes building it.
+#
+# How it works:
+#   Cloudflare Workers git integration builds every branch and, on success, posts
+#   a "Workers Builds:" GitHub check run. This workflow triggers on that
+#   check_run's completion, derives the branch preview URL
+#   (https://<branch>-<worker>.workers.dev), waits for it to serve, and runs
+#   TestSprite against it. Cloudflare is the sole deployer — CI never uploads or
+#   promotes anything, and needs no Cloudflare token.
+#
+# This requires: (a) the Cloudflare GitHub app connected to the repo with
+# non-production branch builds enabled, and (b) this workflow file on the repo's
+# DEFAULT branch (check_run events only fire from there). Both are true while the
+# default branch is `feat/testsprite-e2e`.
+#
+# Triggers:
+#   • check_run completed  → CF finished a build of the integration branch or a PR.
+#                            Backend suite against that branch's preview.
+#   • schedule (nightly)   → backend-only smoke of production.
+#   • workflow_dispatch    → manual: backend (+ optional frontend) against a URL.
+#
+# Backend gates strictly. Frontend is nuanced: a real `failed` fails the job, but
+# `blocked`/`inconclusive` only surface artifacts, since the platform can return
+# `blocked` on passing tests (LOOP.md).
+name: TestSprite E2E
+
+on:
+  check_run:
+    types: [completed]
+  schedule:
+    # Nightly production smoke (~06:17 UTC). Delete the block to disable.
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+    inputs:
+      target_url:
+        description: URL to test (defaults to production)
+        required: false
+        type: string
+      suites:
+        description: Suites to run
+        required: true
+        type: choice
+        default: backend+frontend
+        options:
+          - backend
+          - backend+frontend
+      frontend_concurrency:
+        description: Max parallel frontend runs (1–50)
+        required: false
+        type: string
+        default: '5'
+
+permissions:
+  contents: read
+
+# Group by the branch under test so a newer build cancels a stale TestSprite run.
+concurrency:
+  group: testsprite-${{ github.event.check_run.check_suite.head_branch || github.ref }}
+  cancel-in-progress: true
+
+env:
+  PROJECT_ID: ${{ vars.TESTSPRITE_PROJECT_ID || 'bb4acddb-ddc2-4680-85d7-e9578654d2cd' }}
+  # <branch>-<this> forms a preview URL; <this> alone is production.
+  WORKERS_DOMAIN: ${{ vars.CLOUDFLARE_WORKERS_DOMAIN || 'arcus.pows.workers.dev' }}
+
+jobs:
+  test:
+    name: TestSprite E2E
+    # For check_run, only act on Cloudflare's successful build of the integration
+    # branch or a PR. (Every Actions job is also a check_run; the name prefix
+    # excludes those so the workflow can't loop.) Schedule/dispatch always run.
+    if: |
+      github.event_name != 'check_run' ||
+      (startsWith(github.event.check_run.name, 'Workers Builds:') &&
+       github.event.check_run.conclusion == 'success' &&
+       (github.event.check_run.check_suite.head_branch == 'feat/testsprite-e2e' ||
+        tojson(github.event.check_run.pull_requests) != '[]'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Resolve target URL
+        run: |
+          case "$GITHUB_EVENT_NAME" in
+            check_run)
+              branch="${{ github.event.check_run.check_suite.head_branch }}"
+              branch="${branch#refs/heads/}"
+              # Preview alias rules: lowercase letters, numbers, dashes.
+              alias="$(printf '%s' "$branch" | tr '[:upper:]' '[:lower:]' | tr '/' '-')"
+              [ -z "$alias" ] && { echo "::error::check_run has no head branch to derive a preview URL."; exit 1; }
+              url="https://${alias}-${WORKERS_DOMAIN}"
+              ;;
+            schedule)
+              url="https://${WORKERS_DOMAIN}"
+              ;;
+            workflow_dispatch)
+              url="${{ inputs.target_url }}"
+              [ -z "$url" ] && url="https://${WORKERS_DOMAIN}"
+              ;;
+            *)
+              url="https://${WORKERS_DOMAIN}"
+              ;;
+          esac
+          echo "TARGET_URL=$url" >> "$GITHUB_ENV"
+          echo "::notice::Target ($GITHUB_EVENT_NAME): $url"
+
+      - name: Verify API key is configured
+        id: guard
+        env:
+          KEY: ${{ secrets.TESTSPRITE_API_KEY }}
+        run: |
+          if [ -z "$KEY" ]; then
+            echo "::notice::Secret TESTSPRITE_API_KEY is not set — skipping TestSprite E2E. Add it under Settings → Secrets and variables → Actions."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Wait for target to serve 200
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          echo "Waiting for $TARGET_URL to return 200…"
+          for i in $(seq 1 36); do
+            code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 10 "$TARGET_URL" || true)
+            echo "attempt $i → ${code:-no-response}"
+            [ "$code" = "200" ] && exit 0
+            sleep 5
+          done
+          echo "::warning::$TARGET_URL did not return 200 within ~3 min; running TestSprite anyway."
+
+      - name: Setup Bun
+        if: steps.guard.outputs.skip != 'true'
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.14
+
+      - name: Install TestSprite CLI
+        if: steps.guard.outputs.skip != 'true'
+        run: bun add -g @testsprite/testsprite-cli@latest
+
+      # ── Backend suite (always, strict gate) ──────────────────────────────
+      - name: Run backend suite
+        id: be
+        if: steps.guard.outputs.skip != 'true'
+        env:
+          TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
+        run: |
+          set +e
+          testsprite test run --all --project "$PROJECT_ID" \
+            --target-url "$TARGET_URL" \
+            --wait --timeout 900 \
+            --max-concurrency 20 \
+            --idempotency-key "ci-be-${{ github.run_id }}-${{ github.run_attempt }}" \
+            --output json > backend-result.json
+          code=$?
+          echo "exit=$code" >> "$GITHUB_OUTPUT"
+          echo '--- backend-result.json ---'
+          cat backend-result.json
+          exit 0
+
+      - name: Download backend failure bundles
+        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit != '0'
+        env:
+          TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
+        run: |
+          mkdir -p .testsprite/backend
+          testsprite test list --project "$PROJECT_ID" --type backend \
+            --status failed,blocked,cancelled --output json \
+            | jq -r '.items[]?.id // empty' \
+            | while read -r tid; do
+                [ -n "$tid" ] || continue
+                echo "Pulling failure bundle for $tid"
+                testsprite test failure get "$tid" --out ".testsprite/backend/$tid" --failed-only || true
+              done
+
+      - name: Gate on backend result
+        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit != '0'
+        run: |
+          echo "::error::Backend TestSprite suite did not pass (exit ${{ steps.be.outputs.exit }}). See uploaded bundles."
+          exit 1
+
+      # ── Frontend suite (manual full runs only, only if backend passed) ───
+      - name: Discover frontend tests
+        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit == '0' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        env:
+          TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
+        run: |
+          mkdir -p fe-results .testsprite/runs
+          testsprite test list --project "$PROJECT_ID" --type frontend --output json \
+            | jq -r '.items[]?.id // empty' \
+            | grep -v '^$' > fe-ids.txt
+          echo "Found $(wc -l < fe-ids.txt) frontend test(s):"
+          cat fe-ids.txt
+
+      - name: Run frontend tests (concurrent)
+        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit == '0' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        env:
+          TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
+          FE_CONCURRENCY: ${{ inputs.frontend_concurrency || '5' }}
+        run: |
+          run_one() {
+            local tid="$1"
+            testsprite test run "$tid" \
+              --target-url "$TARGET_URL" \
+              --wait --timeout 900 \
+              --idempotency-key "ci-fe-${{ github.run_id }}-${{ github.run_attempt }}-$tid" \
+              --output json > "fe-results/$tid.json" 2> "fe-results/$tid.err" || true
+          }
+          export -f run_one
+          export TARGET_URL PROJECT_ID
+          xargs -a fe-ids.txt -P "$FE_CONCURRENCY" -I {} bash -c 'run_one "$@"' _ {}
+
+      - name: Triage frontend verdicts
+        id: fe
+        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit == '0' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        env:
+          TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
+        run: |
+          shopt -s nullglob
+          passed=0; failed=0; blocked=0; other=0
+          : > fe-rows.md
+          for f in fe-results/*.json; do
+            status=$(jq -r '.run.status // "unknown"' "$f")
+            tid=$(jq -r '.run.testId // "?"' "$f")
+            url=$(jq -r '.run.dashboardUrl // ""' "$f")
+            rid=$(jq -r '.run.runId // ""' "$f")
+            case "$status" in
+              passed)  passed=$((passed+1));  mark='✅';;
+              failed)  failed=$((failed+1));  mark='❌';;
+              blocked) blocked=$((blocked+1)); mark='🚫';;
+              *)       other=$((other+1));    mark='❔';;
+            esac
+            if [ "$status" != "passed" ] && [ -n "$rid" ]; then
+              testsprite test artifact get "$rid" --out ".testsprite/runs/$rid" --failed-only || true
+            fi
+            link=""; [ -n "$url" ] && link=" — [dashboard]($url)"
+            echo "- $mark **$status** \`$tid\`$link" >> fe-rows.md
+          done
+          {
+            echo "### TestSprite frontend — $(wc -l < fe-ids.txt) test(s) @ $TARGET_URL"
+            echo ""
+            echo "| Result | Count |"
+            echo "|---|---|"
+            echo "| ✅ passed | $passed |"
+            echo "| ❌ failed (gates) | $failed |"
+            echo "| 🚫 blocked (non-fatal) | $blocked |"
+            echo "| ❔ other | $other |"
+            echo ""
+            cat fe-rows.md
+          } | tee "$GITHUB_STEP_SUMMARY"
+          echo "failed=$failed"  >> "$GITHUB_OUTPUT"
+          echo "blocked=$blocked" >> "$GITHUB_OUTPUT"
+
+      - name: Gate on frontend result (real failures only)
+        if: steps.guard.outputs.skip != 'true' && steps.be.outputs.exit == '0' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        run: |
+          failed="${{ steps.fe.outputs.failed }}"
+          failed="${failed:-0}"
+          if [ "$failed" -gt 0 ]; then
+            echo "::error::$failed frontend test(s) FAILED."
+            exit 1
+          fi
+          blocked="${{ steps.fe.outputs.blocked }}"
+          blocked="${blocked:-0}"
+          echo "No hard frontend failures. blocked=$blocked treated as non-fatal (platform false-blocks documented in LOOP.md)."
+
+      - name: Upload artifacts
+        if: always() && steps.guard.outputs.skip != 'true'
+        uses: actions/upload-artifact@v7
+        with:
+          name: testsprite-e2e
+          path: |
+            backend-result.json
+            fe-results/
+            fe-ids.txt
+            fe-rows.md
+            .testsprite/
+          if-no-files-found: ignore
