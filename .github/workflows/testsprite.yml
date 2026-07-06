@@ -66,12 +66,14 @@ jobs:
     timeout-minutes: 60
     steps:
       - name: Resolve target URL
+        id: resolve
         env:
           # Pass attacker-controllable values via env, not inline interpolation.
           PR_HEAD_REF: ${{ github.event.pull_request.head.ref }}
           PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
           PUSH_SHA: ${{ github.sha }}
           INPUT_URL: ${{ inputs.target_url }}
+          INPUT_SUITES: ${{ inputs.suites }}
         run: |
           case "$GITHUB_EVENT_NAME" in
             pull_request)
@@ -91,6 +93,13 @@ jobs:
           esac
           echo "TARGET_URL=$url" >> "$GITHUB_ENV"
           echo "::notice::Target ($GITHUB_EVENT_NAME): $url"
+          # Frontend suite runs on every PR/push; on manual dispatch only for the full suite.
+          run_fe=false
+          case "$GITHUB_EVENT_NAME" in
+            pull_request|push) run_fe=true ;;
+            workflow_dispatch) [ "$INPUT_SUITES" = "backend+frontend" ] && run_fe=true ;;
+          esac
+          echo "run_fe=$run_fe" >> "$GITHUB_OUTPUT"
 
       - name: Verify API key is configured
         id: guard
@@ -226,9 +235,9 @@ jobs:
           blocked="${blocked:-0}"
           echo "Backend: no hard failures (blocked=$blocked treated as non-fatal)."
 
-      # ── Frontend suite (manual full runs only; backend gate above must pass) ─
+      # ── Frontend suite (PRs, pushes, and full manual runs; backend gate must pass) ─
       - name: Discover frontend tests
-        if: steps.guard.outputs.skip != 'true' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        if: steps.guard.outputs.skip != 'true' && steps.resolve.outputs.run_fe == 'true'
         env:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
         run: |
@@ -239,7 +248,7 @@ jobs:
           cat fe-ids.txt
 
       - name: Run frontend tests (concurrent)
-        if: steps.guard.outputs.skip != 'true' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        if: steps.guard.outputs.skip != 'true' && steps.resolve.outputs.run_fe == 'true'
         env:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
           FE_CONCURRENCY: ${{ inputs.frontend_concurrency || '5' }}
@@ -258,7 +267,7 @@ jobs:
 
       - name: Triage frontend verdicts
         id: fe
-        if: steps.guard.outputs.skip != 'true' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        if: steps.guard.outputs.skip != 'true' && steps.resolve.outputs.run_fe == 'true'
         env:
           TESTSPRITE_API_KEY: ${{ secrets.TESTSPRITE_API_KEY }}
         run: |
@@ -295,7 +304,7 @@ jobs:
           echo "blocked=$blocked" >> "$GITHUB_OUTPUT"
 
       - name: Gate on frontend result (real failures only)
-        if: steps.guard.outputs.skip != 'true' && github.event_name == 'workflow_dispatch' && inputs.suites == 'backend+frontend'
+        if: steps.guard.outputs.skip != 'true' && steps.resolve.outputs.run_fe == 'true'
         run: |
           failed="${{ steps.fe.outputs.failed }}"
           failed="${failed:-0}"
