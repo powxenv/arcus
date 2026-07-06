@@ -1,36 +1,35 @@
-# TestSprite E2E — runs against Cloudflare's own per-branch preview, the moment
-# Cloudflare finishes building it.
+# TestSprite E2E — runs against the preview/production Cloudflare already built.
 #
-# How it works:
-#   Cloudflare Workers git integration builds every branch and, on success, posts
-#   a "Workers Builds:" GitHub check run. This workflow triggers on that
-#   check_run's completion, derives the branch preview URL
-#   (https://<branch>-<worker>.workers.dev), waits for it to serve, and runs
-#   TestSprite against it. Cloudflare is the sole deployer — CI never uploads or
-#   promotes anything, and needs no Cloudflare token.
+# Cloudflare's Workers git integration builds every branch and posts a
+# "Workers Builds: arcus" GitHub check run when it's done. This workflow triggers
+# on pull_request / push, WAITS for that check run to report success (via the
+# GitHub API — no Cloudflare token needed), then runs TestSprite against the
+# matching URL:
+#   • a PR branch    → its branch preview (https://<branch>-arcus.pows.workers.dev)
+#   • the prod branch→ production         (https://arcus.pows.workers.dev)
 #
-# This requires: (a) the Cloudflare GitHub app connected to the repo with
-# non-production branch builds enabled, and (b) this workflow file on the repo's
-# DEFAULT branch (check_run events only fire from there). Both are true while the
-# default branch is `feat/testsprite-e2e`.
+# Cloudflare stays the sole deployer; CI never uploads or promotes anything.
+#
+# Why pull_request/push (not check_run): check_run and schedule events only run
+# the workflow file from the repo's DEFAULT branch. This repo's default is `main`
+# but the integration branch is `feat/testsprite-e2e` (where this file lives), so
+# those events can't fire. pull_request/push use the file on feat/testsprite-e2e.
 #
 # Triggers:
-#   • check_run completed  → CF finished a build of the integration branch or a PR.
-#                            Backend suite against that branch's preview.
-#   • schedule (nightly)   → backend-only smoke of production.
-#   • workflow_dispatch    → manual: backend (+ optional frontend) against a URL.
+#   • pull_request → feat/testsprite-e2e : wait for CF build, test the PR's preview
+#   • push         → feat/testsprite-e2e : wait for CF build, test production
+#   • workflow_dispatch                   : manual run against a URL (default prod)
 #
 # Backend gates strictly. Frontend is nuanced: a real `failed` fails the job, but
-# `blocked`/`inconclusive` only surface artifacts, since the platform can return
-# `blocked` on passing tests (LOOP.md).
+# `blocked`/`inconclusive` only surface artifacts (platform can `blocked` passing
+# tests — LOOP.md).
 name: TestSprite E2E
 
 on:
-  check_run:
-    types: [completed]
-  schedule:
-    # Nightly production smoke (~06:17 UTC). Delete the block to disable.
-    - cron: '17 6 * * *'
+  pull_request:
+    branches: [feat/testsprite-e2e]
+  push:
+    branches: [feat/testsprite-e2e]
   workflow_dispatch:
     inputs:
       target_url:
@@ -53,53 +52,46 @@ on:
 
 permissions:
   contents: read
+  checks: read   # read Cloudflare's "Workers Builds:" check-run conclusion
 
-# Group by the branch under test so a newer build cancels a stale TestSprite run.
+# A newer build cancels a stale TestSprite run (save credits).
 concurrency:
-  group: testsprite-${{ github.event.check_run.check_suite.head_branch || github.ref }}
+  group: testsprite-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
 env:
   PROJECT_ID: ${{ vars.TESTSPRITE_PROJECT_ID || 'bb4acddb-ddc2-4680-85d7-e9578654d2cd' }}
-  # <branch>-<this> forms a preview URL; <this> alone is production.
   WORKERS_DOMAIN: ${{ vars.CLOUDFLARE_WORKERS_DOMAIN || 'arcus.pows.workers.dev' }}
 
 jobs:
   test:
     name: TestSprite E2E
-    # For check_run, only act on Cloudflare's successful build of the integration
-    # branch or a PR. (Every Actions job is also a check_run; the name prefix
-    # excludes those so the workflow can't loop.) Schedule/dispatch always run.
-    if: |
-      github.event_name != 'check_run' ||
-      (startsWith(github.event.check_run.name, 'Workers Builds:') &&
-       github.event.check_run.conclusion == 'success' &&
-       (github.event.check_run.check_suite.head_branch == 'feat/testsprite-e2e' ||
-        tojson(github.event.check_run.pull_requests) != '[]'))
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
       - name: Resolve target URL
+        env:
+          # Pass attacker-controllable values via env, not inline interpolation.
+          PR_HEAD_REF: ${{ github.event.pull_request.head.ref }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          PUSH_SHA: ${{ github.sha }}
+          INPUT_URL: ${{ inputs.target_url }}
         run: |
           case "$GITHUB_EVENT_NAME" in
-            check_run)
-              branch="${{ github.event.check_run.check_suite.head_branch }}"
-              branch="${branch#refs/heads/}"
-              # Preview alias rules: lowercase letters, numbers, dashes.
-              alias="$(printf '%s' "$branch" | tr '[:upper:]' '[:lower:]' | tr '/' '-')"
-              [ -z "$alias" ] && { echo "::error::check_run has no head branch to derive a preview URL."; exit 1; }
+            pull_request)
+              # PR head is a non-production branch → its branch preview.
+              alias="$(printf '%s' "$PR_HEAD_REF" | tr '[:upper:]' '[:lower:]' | tr '/' '-')"
               url="https://${alias}-${WORKERS_DOMAIN}"
-              ;;
-            schedule)
+              echo "HEAD_SHA=$PR_HEAD_SHA" >> "$GITHUB_ENV" ;;
+            push)
+              # feat/testsprite-e2e is Cloudflare's production branch → test prod.
               url="https://${WORKERS_DOMAIN}"
-              ;;
+              echo "HEAD_SHA=$PUSH_SHA" >> "$GITHUB_ENV" ;;
             workflow_dispatch)
-              url="${{ inputs.target_url }}"
-              [ -z "$url" ] && url="https://${WORKERS_DOMAIN}"
-              ;;
+              url="$INPUT_URL"
+              [ -z "$url" ] && url="https://${WORKERS_DOMAIN}" ;;
             *)
-              url="https://${WORKERS_DOMAIN}"
-              ;;
+              url="https://${WORKERS_DOMAIN}" ;;
           esac
           echo "TARGET_URL=$url" >> "$GITHUB_ENV"
           echo "::notice::Target ($GITHUB_EVENT_NAME): $url"
@@ -113,6 +105,28 @@ jobs:
             echo "::notice::Secret TESTSPRITE_API_KEY is not set — skipping TestSprite E2E. Add it under Settings → Secrets and variables → Actions."
             echo "skip=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Wait for Cloudflare build to finish
+        # Poll the "Workers Builds:" check run until it succeeds, so we test the
+        # build for THIS commit, not the previous one. GitHub API + GITHUB_TOKEN.
+        if: steps.guard.outputs.skip != 'true' && (github.event_name == 'pull_request' || github.event_name == 'push')
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Waiting for 'Workers Builds:' check on ${HEAD_SHA:-<none>} to succeed…"
+          for i in $(seq 1 60); do
+            concl=$(gh api "repos/${GITHUB_REPOSITORY}/commits/${HEAD_SHA}/check-runs" \
+              --jq '[.check_runs[] | select(.name | startswith("Workers Builds:")) | .conclusion] | .[0] // empty' 2>/dev/null || true)
+            echo "attempt $i → ${concl:-pending}"
+            case "$concl" in
+              success) echo "Cloudflare build succeeded."; exit 0 ;;
+              failure|cancelled|timed_out|action_required|neutral)
+                echo "::error::Cloudflare build did not succeed ($concl); skipping TestSprite."
+                exit 1 ;;
+            esac
+            sleep 10
+          done
+          echo "::warning::Cloudflare build did not report within ~10 min; testing the target anyway."
 
       - name: Wait for target to serve 200
         if: steps.guard.outputs.skip != 'true'
