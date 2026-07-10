@@ -1,0 +1,1 @@
+{"projectId":"bb4acddb-ddc2-4680-85d7-e9578654d2cd","type":"frontend","name":"Full Arc take page renders the first question","priority":"p1","planSteps":[{"type":"action","description":"Navigate to /arc/take"},{"type":"assertion","description":"Verify the page shows a progress indicator containing '131' and a section label containing 'Solstice'."}]}

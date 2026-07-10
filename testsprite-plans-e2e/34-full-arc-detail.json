@@ -1,0 +1,1 @@
+{"projectId":"bb4acddb-ddc2-4680-85d7-e9578654d2cd","type":"frontend","name":"Full Arc detail page renders its hero","priority":"p1","planSteps":[{"type":"action","description":"Navigate to /assessment/full-arc"},{"type":"assertion","description":"Verify the hero region shows the heading 'The Full Arc Assessment' and the subtitle 'All four arcs in one'."}]}

@@ -1,0 +1,1 @@
+{"projectId":"bb4acddb-ddc2-4680-85d7-e9578654d2cd","type":"frontend","name":"Passage detail page renders its hero","priority":"p1","planSteps":[{"type":"action","description":"Navigate to /assessment/passage"},{"type":"assertion","description":"Verify the hero region shows the heading 'The Passage of Time Assessment' and the subtitle 'The arc of your time'."}]}
