@@ -3,31 +3,30 @@
 // (e.g. integration tests) can exercise the real save path over plain JSON.
 
 import { createFileRoute } from "@tanstack/react-router";
-import { saveResultRow, validateSaveInput } from "../server/results-service";
+import {
+  saveResultRow,
+  validateSaveInput,
+} from "../server/results-service";
+import { errorResponse, okResponse, parseJsonBody } from "../server/http";
 
 export const Route = createFileRoute("/api/results/")({
   server: {
     handlers: {
       POST: async ({ request }) => {
-        let body: unknown;
-        try {
-          body = await request.json();
-        } catch {
-          return Response.json({ error: "Invalid JSON body" }, { status: 400 });
-        }
+        const body = await parseJsonBody(request);
+        if (!body.ok) return errorResponse(body.error);
 
         let data;
         try {
-          data = validateSaveInput(body);
+          data = validateSaveInput(body.data);
         } catch (err) {
-          return Response.json(
-            { error: err instanceof Error ? err.message : "Invalid payload" },
-            { status: 400 },
+          return errorResponse(
+            err instanceof Error ? err.message : "Invalid payload",
           );
         }
 
         const out = await saveResultRow(data);
-        return Response.json(out, { status: 201 });
+        return okResponse(out, 201);
       },
     },
   },
