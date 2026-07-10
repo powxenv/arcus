@@ -1,8 +1,10 @@
+import os
+BASE = os.environ.get("TARGET_URL", "https://arcus.pows.workers.dev").rstrip("/")
 # Validation guard paths — every validator surfaces a 400 with a clear message.
 import requests
 
 def post(payload):
-    return requests.post(f"{TARGET_URL}/api/results", json=payload, timeout=30)
+    return requests.post(f"{BASE}/api/results", json=payload, timeout=30)
 
 def test_missing_assessment_key():
     r = post({"resultType": "X", "answers": {}, "result": {}})
@@ -22,12 +24,12 @@ def test_missing_result():
     assert r.status_code == 400 and "result" in r.json()["error"].lower()
 
 def test_invalid_json():
-    r = requests.post(f"{TARGET_URL}/api/results", data="not json",
+    r = requests.post(f"{BASE}/api/results", data="not json",
                       headers={"content-type": "application/json"}, timeout=30)
     assert r.status_code == 400 and "json" in r.json()["error"].lower()
 
 def test_compute_missing_fields():
-    r = requests.post(f"{TARGET_URL}/api/results/compute", json={}, timeout=30)
+    r = requests.post(f"{BASE}/api/results/compute", json={}, timeout=30)
     assert r.status_code == 400
 
 test_missing_assessment_key()

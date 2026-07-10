@@ -1,8 +1,10 @@
+import os
+BASE = os.environ.get("TARGET_URL", "https://arcus.pows.workers.dev").rstrip("/")
 # GET /api/health — DB connectivity, AI config, token sample, assessment catalog.
 import requests
 
 def test_health_reports_ok():
-    r = requests.get(f"{TARGET_URL}/api/health", timeout=30)
+    r = requests.get(f"{BASE}/api/health", timeout=30)
     assert r.status_code == 200, f"expected 200, got {r.status_code}: {r.text[:200]}"
     body = r.json()
     assert body["status"] == "ok", f"status not ok: {body.get('status')}"

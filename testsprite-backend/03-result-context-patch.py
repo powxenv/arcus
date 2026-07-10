@@ -1,3 +1,5 @@
+import os
+BASE = os.environ.get("TARGET_URL", "https://arcus.pows.workers.dev").rstrip("/")
 # Round-trip: create -> read context -> PATCH analysis -> verify persisted.
 # Exercises fetchStoredResultRow + buildAnalysisInputForToken (GET /context) and
 # validateUpdateAIInput + setAIAnalysis (PATCH /analysis) in isolation.
@@ -24,12 +26,12 @@ def make_result():
 
 def test_context_then_patch():
     # 1. create
-    r = requests.post(f"{TARGET_URL}/api/results", json=make_result(), timeout=30)
+    r = requests.post(f"{BASE}/api/results", json=make_result(), timeout=30)
     assert r.status_code == 201, f"create failed: {r.status_code} {r.text[:200]}"
     token = r.json()["shareToken"]
 
     # 2. GET context — rebuilds the analysis input from the stored row
-    c = requests.get(f"{TARGET_URL}/api/results/{token}/context", timeout=30)
+    c = requests.get(f"{BASE}/api/results/{token}/context", timeout=30)
     assert c.status_code == 200, f"context failed: {c.status_code}"
     ctx = c.json()
     assert ctx["assessmentKey"] == "turing"
@@ -38,18 +40,18 @@ def test_context_then_patch():
 
     # 3. PATCH analysis — replace the stored text directly (no NVIDIA call)
     custom = "— a patched analysis for testing"
-    p = requests.request("PATCH", f"{TARGET_URL}/api/results/{token}/analysis",
+    p = requests.request("PATCH", f"{BASE}/api/results/{token}/analysis",
                          json={"aiAnalysis": custom}, timeout=30)
     assert p.status_code == 200, f"patch failed: {p.status_code} {p.text[:200]}"
     assert p.json()["ok"] is True
 
     # 4. read public snapshot — aiAnalysis must reflect the patch
-    g = requests.get(f"{TARGET_URL}/api/results/{token}", timeout=30)
+    g = requests.get(f"{BASE}/api/results/{token}", timeout=30)
     assert g.status_code == 200
     assert g.json()["aiAnalysis"] == custom, "patched analysis not persisted"
 
 def test_context_404():
-    c = requests.get(f"{TARGET_URL}/api/results/doesnotexist1234567890abc/context", timeout=30)
+    c = requests.get(f"{BASE}/api/results/doesnotexist1234567890abc/context", timeout=30)
     assert c.status_code == 404, f"expected 404, got {c.status_code}"
 
 test_context_then_patch()

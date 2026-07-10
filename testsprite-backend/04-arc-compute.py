@@ -1,9 +1,11 @@
+import os
+BASE = os.environ.get("TARGET_URL", "https://arcus.pows.workers.dev").rstrip("/")
 # POST /api/arc/compute — Full Arc composite + profile + connections.
 import requests
 
 def test_arc_compute():
     r = requests.post(
-        f"{TARGET_URL}/api/arc/compute",
+        f"{BASE}/api/arc/compute",
         json={"solstice": {}, "turing": {}, "pride": {}, "passage": {}},
         timeout=30,
     )
@@ -26,7 +28,7 @@ def test_arc_compute():
 
 def test_arc_compute_rejects_missing():
     r = requests.post(
-        f"{TARGET_URL}/api/arc/compute",
+        f"{BASE}/api/arc/compute",
         json={"solstice": {}, "turing": {}},
         timeout=30,
     )

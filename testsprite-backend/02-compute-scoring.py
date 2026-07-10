@@ -1,3 +1,5 @@
+import os
+BASE = os.environ.get("TARGET_URL", "https://arcus.pows.workers.dev").rstrip("/")
 # POST /api/results/compute — dry-run scoring for every assessment (no DB write).
 import requests
 
@@ -23,7 +25,7 @@ def rand_answers(set_payload):
 def test_compute_each_assessment():
     for key in ("solstice", "turing", "pride", "passage"):
         r = requests.post(
-            f"{TARGET_URL}/api/results/compute",
+            f"{BASE}/api/results/compute",
             json={"assessmentKey": key, "answers": {}},
             timeout=30,
         )
@@ -37,14 +39,14 @@ def test_compute_each_assessment():
 
 def test_compute_rejects_unknown_key():
     r = requests.post(
-        f"{TARGET_URL}/api/results/compute",
+        f"{BASE}/api/results/compute",
         json={"assessmentKey": "bogus", "answers": {}},
         timeout=30,
     )
     assert r.status_code == 404, f"expected 404, got {r.status_code}"
 
 def test_compute_rejects_missing_fields():
-    r = requests.post(f"{TARGET_URL}/api/results/compute", json={}, timeout=30)
+    r = requests.post(f"{BASE}/api/results/compute", json={}, timeout=30)
     assert r.status_code == 400, f"expected 400, got {r.status_code}"
 
 test_compute_each_assessment()

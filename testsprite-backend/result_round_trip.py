@@ -7,9 +7,35 @@
 # injected; we fall back to the workers.dev origin.
 
 import os
+import time
 import requests
+from requests.exceptions import RequestException
 
 BASE = os.environ.get("TARGET_URL", "https://arcus.pows.workers.dev").rstrip("/")
+
+
+def request_with_retry(method, url, *, tries=3, backoff=5, timeout=120, **kwargs):
+    """HTTP request with retry on network errors and 5xx.
+
+    The analysis step proxies NVIDIA/Gemma, which intermittently times out or
+    returns a transient upstream error. A few retries absorb that so the test
+    only goes red when the failure is persistent, not on a one-off slow call.
+    """
+    last_resp = None
+    for attempt in range(1, tries + 1):
+        try:
+            resp = requests.request(method, url, timeout=timeout, **kwargs)
+            if resp.status_code >= 500 and attempt < tries:
+                last_resp = resp
+                time.sleep(backoff * attempt)
+                continue
+            return resp
+        except RequestException:
+            if attempt < tries:
+                time.sleep(backoff * attempt)
+                continue
+            raise
+    return last_resp
 
 
 def test_result_pipeline_round_trip():
@@ -50,8 +76,9 @@ def test_result_pipeline_round_trip():
     assert data.get("aiAnalysis") is None, "aiAnalysis should be null before generation"
 
     # 3. Generate the real AI analysis (NVIDIA/Gemma) and verify it persists.
-    a = requests.post(f"{BASE}/api/results/{token}/analysis", timeout=90)
-    assert a.status_code == 200, f"analysis failed: {a.status_code} {a.text}"
+    #    Retried: NVIDIA intermittently times out.
+    a = request_with_retry("POST", f"{BASE}/api/results/{token}/analysis", timeout=120)
+    assert a.status_code == 200, f"analysis failed: {a.status_code} {a.text[:200]}"
     ai = a.json().get("aiAnalysis")
     assert isinstance(ai, str) and len(ai) > 0, "empty analysis"
 
