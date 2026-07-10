@@ -54,6 +54,9 @@ export type AssessmentResult = {
   detail?: ResultDetail;
   // Plain-language notes surfaced on the result screen.
   notes?: string[];
+  // Full Arc only: the four component results that produced this composite,
+  // so the breakdown can be shown on the result page and the shared page.
+  components?: AssessmentResult[];
 };
 
 // ---------------------------------------------------------------------------

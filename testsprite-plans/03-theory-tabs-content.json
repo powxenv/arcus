@@ -1,0 +1,17 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Theory tabs show each assessment's central question",
+  "description": "On the Theory page, clicking each of the four tabs (Solstice, Turing, Pride, Passage) reveals that assessment's central question in the panel, verifying both the tab interaction and the per-tab content.",
+  "priority": "p1",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Theory page" },
+    { "type": "assertion", "description": "Verify the 'Inside each assessment' section shows a row of four tabs and the Solstice panel is shown by default with the question 'How do you burn, and which direction is your energy turning?'." },
+    { "type": "action", "description": "Click the Turing tab" },
+    { "type": "assertion", "description": "Verify the panel shows the question 'Does what you say about your mind match what your choices show?'." },
+    { "type": "action", "description": "Click the Pride tab" },
+    { "type": "assertion", "description": "Verify the panel shows the question 'How well do you know yourself, and how honestly do you show it?'." },
+    { "type": "action", "description": "Click the Passage tab" },
+    { "type": "assertion", "description": "Verify the panel shows the question 'Where does your attention sit, and how do you feel about time passing?'." }
+  ]
+}

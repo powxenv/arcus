@@ -35,6 +35,7 @@ export const Route = createFileRoute("/shared/$token/")({
 
 function SharedResult() {
   const { result } = Route.useLoaderData();
+  const { token } = Route.useParams();
 
   if (!result) {
     return (
@@ -75,7 +76,9 @@ function SharedResult() {
         }
       }
       answers={{}}
-      own={false}
+      own
+      reveal={false}
+      initialShareToken={token}
       initialAiText={result.aiAnalysis}
     />
   );

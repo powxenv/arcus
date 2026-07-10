@@ -1,0 +1,20 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Assessment start modal opens and Begin navigates to the take page",
+  "description": "Clicking a Start button opens a modal describing the assessment, and clicking Begin navigates to the take page showing the first question and a progress indicator.",
+  "priority": "p1",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Start page" },
+    { "type": "action", "description": "Click the 'Start' button on the Solstice assessment card" },
+    {
+      "type": "assertion",
+      "description": "Verify a modal dialog opens titled 'Start Solstice' that displays a question count of '36 questions', a duration of '~10 min', and the central question 'How do you burn, and which direction is your energy turning?'."
+    },
+    { "type": "action", "description": "Click the 'Begin' button inside the modal" },
+    {
+      "type": "assertion",
+      "description": "Verify the browser navigates to the Solstice take page showing a progress indicator that reads '1 of 36' and the first question prompt presented with a seven-point numbered answer scale."
+    }
+  ]
+}

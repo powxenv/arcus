@@ -1,0 +1,12 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Start page lists five assessments with metadata and actions",
+  "description": "The Start page server-renders a hero heading and a grid of exactly five assessment cards (Solstice, Turing, Pride, Passage, and the Full Arc), each showing its short name, duration, question count, a 'Learn more' link, and a 'Start' button.",
+  "priority": "p1",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Start page at /start" },
+    { "type": "assertion", "description": "Verify the page hero heading reads exactly 'Pick an assessment to start with.' — this confirms the browser is on the Start page and not the Home page." },
+    { "type": "assertion", "description": "Verify exactly five assessment cards are shown below the hero. The five short names are Solstice, Turing, Pride, Passage, and Full Arc, one per card. Each card must have a meta line containing both a duration ending in 'min' and a question count containing the word 'questions'. Every card must also have a 'Learn more' link and a 'Start' button." }
+  ]
+}

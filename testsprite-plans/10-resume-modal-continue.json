@@ -1,0 +1,15 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Saved progress triggers the resume modal and Continue restores it",
+  "description": "After answering a question on the take page, the Start page offers a resume modal; Continue returns the user to the assessment. Assertions avoid numeric progress values because the modal's answered-count (1 of 36) and the take page's current-position (2 of 36) are different metrics that previously confused the verdict engine into a false block.",
+  "priority": "p1",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Solstice take page" },
+    { "type": "action", "description": "Click the numbered answer option 4 for the first question" },
+    { "type": "action", "description": "Click the 'Begin Your Arc' link in the site header to go to the Start page" },
+    { "type": "assertion", "description": "Verify a 'Pick up where you left off?' resume modal is open on the Start page." },
+    { "type": "action", "description": "Click the 'Continue' button in the resume modal" },
+    { "type": "assertion", "description": "Verify the browser returns to the Solstice take page showing an assessment question with a numbered answer scale, confirming the saved progress was restored." }
+  ]
+}

@@ -112,6 +112,25 @@ function Home() {
           </div>
         ))}
       </div>
+
+      <div className="mt-10 bg-white rounded-2xl p-8 flex flex-col gap-3 shadow-2xl shadow-black/6 border-[.5px]">
+        <div className="flex items-center gap-2">
+          <img className="size-8" src={decor1} alt="" />
+          <img className="size-8" src={decor2} alt="" />
+          <img className="size-8" src={decor3} alt="" />
+          <img className="size-8" src={decor4} alt="" />
+        </div>
+        <h2 className="text-2xl">The Full Arc Assessment</h2>
+        <p className="text-default-600 max-w-xl leading-relaxed">
+          All four assessments in one sitting — energy, thinking, identity, and
+          time, combined into a single profile of how they fit together.
+        </p>
+        <AssessmentStartModal
+          assessment={ASSESSMENTS["full-arc"]}
+          triggerLabel="Start the Full Arc"
+          triggerClassName="self-start"
+        />
+      </div>
     </div>
   );
 }

@@ -15,7 +15,15 @@ import { Route as StartIndexRouteImport } from './routes/start.index'
 import { Route as AboutIndexRouteImport } from './routes/about.index'
 import { Route as SharedTokenIndexRouteImport } from './routes/shared.$token.index'
 import { Route as AssessmentKeyIndexRouteImport } from './routes/assessment.$key.index'
+import { Route as ArcTakeIndexRouteImport } from './routes/arc.take.index'
+import { Route as ApiResultsIndexRouteImport } from './routes/api.results.index'
+import { Route as ApiHealthIndexRouteImport } from './routes/api.health.index'
 import { Route as AssessmentKeyTakeIndexRouteImport } from './routes/assessment.$key.take.index'
+import { Route as ApiResultsComputeIndexRouteImport } from './routes/api.results.compute.index'
+import { Route as ApiResultsTokenIndexRouteImport } from './routes/api.results.$token.index'
+import { Route as ApiArcComputeIndexRouteImport } from './routes/api.arc.compute.index'
+import { Route as ApiResultsTokenContextIndexRouteImport } from './routes/api.results.$token.context.index'
+import { Route as ApiResultsTokenAnalysisIndexRouteImport } from './routes/api.results.$token.analysis.index'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -47,29 +55,87 @@ const AssessmentKeyIndexRoute = AssessmentKeyIndexRouteImport.update({
   path: '/assessment/$key/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ArcTakeIndexRoute = ArcTakeIndexRouteImport.update({
+  id: '/arc/take/',
+  path: '/arc/take/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ApiResultsIndexRoute = ApiResultsIndexRouteImport.update({
+  id: '/api/results/',
+  path: '/api/results/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ApiHealthIndexRoute = ApiHealthIndexRouteImport.update({
+  id: '/api/health/',
+  path: '/api/health/',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const AssessmentKeyTakeIndexRoute = AssessmentKeyTakeIndexRouteImport.update({
   id: '/assessment/$key/take/',
   path: '/assessment/$key/take/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ApiResultsComputeIndexRoute = ApiResultsComputeIndexRouteImport.update({
+  id: '/api/results/compute/',
+  path: '/api/results/compute/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ApiResultsTokenIndexRoute = ApiResultsTokenIndexRouteImport.update({
+  id: '/api/results/$token/',
+  path: '/api/results/$token/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ApiArcComputeIndexRoute = ApiArcComputeIndexRouteImport.update({
+  id: '/api/arc/compute/',
+  path: '/api/arc/compute/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ApiResultsTokenContextIndexRoute =
+  ApiResultsTokenContextIndexRouteImport.update({
+    id: '/api/results/$token/context/',
+    path: '/api/results/$token/context/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const ApiResultsTokenAnalysisIndexRoute =
+  ApiResultsTokenAnalysisIndexRouteImport.update({
+    id: '/api/results/$token/analysis/',
+    path: '/api/results/$token/analysis/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about/': typeof AboutIndexRoute
   '/start/': typeof StartIndexRoute
   '/theory/': typeof TheoryIndexRoute
+  '/api/health/': typeof ApiHealthIndexRoute
+  '/api/results/': typeof ApiResultsIndexRoute
+  '/arc/take/': typeof ArcTakeIndexRoute
   '/assessment/$key/': typeof AssessmentKeyIndexRoute
   '/shared/$token/': typeof SharedTokenIndexRoute
+  '/api/arc/compute/': typeof ApiArcComputeIndexRoute
+  '/api/results/$token/': typeof ApiResultsTokenIndexRoute
+  '/api/results/compute/': typeof ApiResultsComputeIndexRoute
   '/assessment/$key/take/': typeof AssessmentKeyTakeIndexRoute
+  '/api/results/$token/analysis/': typeof ApiResultsTokenAnalysisIndexRoute
+  '/api/results/$token/context/': typeof ApiResultsTokenContextIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutIndexRoute
   '/start': typeof StartIndexRoute
   '/theory': typeof TheoryIndexRoute
+  '/api/health': typeof ApiHealthIndexRoute
+  '/api/results': typeof ApiResultsIndexRoute
+  '/arc/take': typeof ArcTakeIndexRoute
   '/assessment/$key': typeof AssessmentKeyIndexRoute
   '/shared/$token': typeof SharedTokenIndexRoute
+  '/api/arc/compute': typeof ApiArcComputeIndexRoute
+  '/api/results/$token': typeof ApiResultsTokenIndexRoute
+  '/api/results/compute': typeof ApiResultsComputeIndexRoute
   '/assessment/$key/take': typeof AssessmentKeyTakeIndexRoute
+  '/api/results/$token/analysis': typeof ApiResultsTokenAnalysisIndexRoute
+  '/api/results/$token/context': typeof ApiResultsTokenContextIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
@@ -77,9 +143,17 @@ export interface FileRoutesById {
   '/about/': typeof AboutIndexRoute
   '/start/': typeof StartIndexRoute
   '/theory/': typeof TheoryIndexRoute
+  '/api/health/': typeof ApiHealthIndexRoute
+  '/api/results/': typeof ApiResultsIndexRoute
+  '/arc/take/': typeof ArcTakeIndexRoute
   '/assessment/$key/': typeof AssessmentKeyIndexRoute
   '/shared/$token/': typeof SharedTokenIndexRoute
+  '/api/arc/compute/': typeof ApiArcComputeIndexRoute
+  '/api/results/$token/': typeof ApiResultsTokenIndexRoute
+  '/api/results/compute/': typeof ApiResultsComputeIndexRoute
   '/assessment/$key/take/': typeof AssessmentKeyTakeIndexRoute
+  '/api/results/$token/analysis/': typeof ApiResultsTokenAnalysisIndexRoute
+  '/api/results/$token/context/': typeof ApiResultsTokenContextIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
@@ -88,27 +162,51 @@ export interface FileRouteTypes {
     | '/about/'
     | '/start/'
     | '/theory/'
+    | '/api/health/'
+    | '/api/results/'
+    | '/arc/take/'
     | '/assessment/$key/'
     | '/shared/$token/'
+    | '/api/arc/compute/'
+    | '/api/results/$token/'
+    | '/api/results/compute/'
     | '/assessment/$key/take/'
+    | '/api/results/$token/analysis/'
+    | '/api/results/$token/context/'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
     | '/about'
     | '/start'
     | '/theory'
+    | '/api/health'
+    | '/api/results'
+    | '/arc/take'
     | '/assessment/$key'
     | '/shared/$token'
+    | '/api/arc/compute'
+    | '/api/results/$token'
+    | '/api/results/compute'
     | '/assessment/$key/take'
+    | '/api/results/$token/analysis'
+    | '/api/results/$token/context'
   id:
     | '__root__'
     | '/'
     | '/about/'
     | '/start/'
     | '/theory/'
+    | '/api/health/'
+    | '/api/results/'
+    | '/arc/take/'
     | '/assessment/$key/'
     | '/shared/$token/'
+    | '/api/arc/compute/'
+    | '/api/results/$token/'
+    | '/api/results/compute/'
     | '/assessment/$key/take/'
+    | '/api/results/$token/analysis/'
+    | '/api/results/$token/context/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
@@ -116,9 +214,17 @@ export interface RootRouteChildren {
   AboutIndexRoute: typeof AboutIndexRoute
   StartIndexRoute: typeof StartIndexRoute
   TheoryIndexRoute: typeof TheoryIndexRoute
+  ApiHealthIndexRoute: typeof ApiHealthIndexRoute
+  ApiResultsIndexRoute: typeof ApiResultsIndexRoute
+  ArcTakeIndexRoute: typeof ArcTakeIndexRoute
   AssessmentKeyIndexRoute: typeof AssessmentKeyIndexRoute
   SharedTokenIndexRoute: typeof SharedTokenIndexRoute
+  ApiArcComputeIndexRoute: typeof ApiArcComputeIndexRoute
+  ApiResultsTokenIndexRoute: typeof ApiResultsTokenIndexRoute
+  ApiResultsComputeIndexRoute: typeof ApiResultsComputeIndexRoute
   AssessmentKeyTakeIndexRoute: typeof AssessmentKeyTakeIndexRoute
+  ApiResultsTokenAnalysisIndexRoute: typeof ApiResultsTokenAnalysisIndexRoute
+  ApiResultsTokenContextIndexRoute: typeof ApiResultsTokenContextIndexRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -165,11 +271,67 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AssessmentKeyIndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/arc/take/': {
+      id: '/arc/take/'
+      path: '/arc/take'
+      fullPath: '/arc/take/'
+      preLoaderRoute: typeof ArcTakeIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/api/results/': {
+      id: '/api/results/'
+      path: '/api/results'
+      fullPath: '/api/results/'
+      preLoaderRoute: typeof ApiResultsIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/api/health/': {
+      id: '/api/health/'
+      path: '/api/health'
+      fullPath: '/api/health/'
+      preLoaderRoute: typeof ApiHealthIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/assessment/$key/take/': {
       id: '/assessment/$key/take/'
       path: '/assessment/$key/take'
       fullPath: '/assessment/$key/take/'
       preLoaderRoute: typeof AssessmentKeyTakeIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/api/results/compute/': {
+      id: '/api/results/compute/'
+      path: '/api/results/compute'
+      fullPath: '/api/results/compute/'
+      preLoaderRoute: typeof ApiResultsComputeIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/api/results/$token/': {
+      id: '/api/results/$token/'
+      path: '/api/results/$token'
+      fullPath: '/api/results/$token/'
+      preLoaderRoute: typeof ApiResultsTokenIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/api/arc/compute/': {
+      id: '/api/arc/compute/'
+      path: '/api/arc/compute'
+      fullPath: '/api/arc/compute/'
+      preLoaderRoute: typeof ApiArcComputeIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/api/results/$token/context/': {
+      id: '/api/results/$token/context/'
+      path: '/api/results/$token/context'
+      fullPath: '/api/results/$token/context/'
+      preLoaderRoute: typeof ApiResultsTokenContextIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/api/results/$token/analysis/': {
+      id: '/api/results/$token/analysis/'
+      path: '/api/results/$token/analysis'
+      fullPath: '/api/results/$token/analysis/'
+      preLoaderRoute: typeof ApiResultsTokenAnalysisIndexRouteImport
       parentRoute: typeof rootRouteImport
     }
   }
@@ -180,9 +342,17 @@ const rootRouteChildren: RootRouteChildren = {
   AboutIndexRoute: AboutIndexRoute,
   StartIndexRoute: StartIndexRoute,
   TheoryIndexRoute: TheoryIndexRoute,
+  ApiHealthIndexRoute: ApiHealthIndexRoute,
+  ApiResultsIndexRoute: ApiResultsIndexRoute,
+  ArcTakeIndexRoute: ArcTakeIndexRoute,
   AssessmentKeyIndexRoute: AssessmentKeyIndexRoute,
   SharedTokenIndexRoute: SharedTokenIndexRoute,
+  ApiArcComputeIndexRoute: ApiArcComputeIndexRoute,
+  ApiResultsTokenIndexRoute: ApiResultsTokenIndexRoute,
+  ApiResultsComputeIndexRoute: ApiResultsComputeIndexRoute,
   AssessmentKeyTakeIndexRoute: AssessmentKeyTakeIndexRoute,
+  ApiResultsTokenAnalysisIndexRoute: ApiResultsTokenAnalysisIndexRoute,
+  ApiResultsTokenContextIndexRoute: ApiResultsTokenContextIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

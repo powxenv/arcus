@@ -11,3 +11,8 @@ dist-ssr
 .vinxi
 __unconfig*
 todos.json
+
+# TestSprite: local scratch only (run artifacts, videos, HTML snapshots, plan
+# drafts). The source of truth for plans is testsprite-plans/; nothing under
+# .testsprite/ should ever be committed.
+.testsprite/

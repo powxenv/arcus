@@ -2,6 +2,7 @@ import decor1 from "../assets/decoration-1.svg";
 import decor2 from "../assets/decoration-2.svg";
 import decor3 from "../assets/decoration-3.svg";
 import decor4 from "../assets/decoration-4.svg";
+import logo from "../assets/logo.svg";
 
 export type AssessmentData = {
   key: string;
@@ -260,6 +261,84 @@ export const ASSESSMENTS: Record<string, AssessmentData> = {
       { key: "solstice", name: "Solstice", icon: decor1 },
       { key: "turing", name: "Turing", icon: decor2 },
       { key: "pride", name: "Pride", icon: decor3 },
+    ],
+  },
+  "full-arc": {
+    key: "full-arc",
+    name: "The Full Arc Assessment",
+    shortName: "Full Arc",
+    icon: logo,
+    domain: "Integration",
+    tagline: "All four arcs in one",
+    duration: "~35 min",
+    questionCount: "131 questions",
+    question:
+      "How do your energy, thinking, identity, and time fit together?",
+    overview:
+      "The Full Arc runs all four assessments — Solstice, Turing, Pride, and Passage — in one sitting and combines them into a single profile: how your energy, thinking, identity, and time fit together.",
+    whyItMatters:
+      "Each assessment on its own maps one part of who you are. The Full Arc reads them together — where they reinforce each other and where they pull apart.",
+    theme:
+      "An arc connects where you were to where you're going. The Full Arc connects four arcs into one picture of the whole person.",
+    constructs: [
+      {
+        name: "Self-congruence",
+        description:
+          "How aligned your four arcs are — whether what you say, do, show, and feel headed all point the same way.",
+      },
+    ],
+    theory: [
+      {
+        name: "framework.md §4 — Self-congruence",
+        use: "Reads the four internal gaps together: position vs trajectory, stated vs observed, self vs other, engagement vs stance.",
+      },
+      {
+        name: "framework.md §5 — Shared variance",
+        use: "Maps which trait variance the four domains share, surfaced honestly rather than assumed independent.",
+      },
+    ],
+    howItWorks: [
+      "Runs Solstice, Turing, Pride, and Passage back to back, in one sitting.",
+      "Computes each assessment's result, then reads the four together.",
+      "Produces one combined profile — a self-congruence archetype plus each assessment's internal alignment.",
+    ],
+    scoring: [
+      "Each assessment's internal gap is computed from its own component measurements (transparent, not invented).",
+      "Small gaps across all four read as self-congruent; large gaps as divergent.",
+      "The archetype and alignment scores are exploratory synthesis, labeled as unvalidated.",
+    ],
+    resultTypes: [
+      {
+        name: "The Congruent Arc",
+        emoji: "✦",
+        description:
+          "Your four arcs agree — small gaps across energy, thinking, identity, and time.",
+      },
+      {
+        name: "The Layered Arc",
+        emoji: "✦",
+        description:
+          "Some arcs agree and others pull apart — a mixed profile.",
+      },
+      {
+        name: "The Divergent Arc",
+        emoji: "✦",
+        description:
+          "Your four arcs pull in different directions — large internal gaps.",
+      },
+    ],
+    interpretation:
+      "The Full Arc is an exploratory integration layer. Read the congruence and the per-assessment alignment as a prompt for reflection, not a label.",
+    interpretationTips: [
+      "The synthesis is unvalidated — it connects the four assessments; it doesn't replace them.",
+      "A wide gap isn't bad; it's information about where your stated and observed self diverge.",
+      "Retake after a life change — arcs move.",
+    ],
+    next: [
+      { key: "solstice", name: "Solstice", icon: decor1 },
+      { key: "turing", name: "Turing", icon: decor2 },
+      { key: "pride", name: "Pride", icon: decor3 },
+      { key: "passage", name: "Passage", icon: decor4 },
     ],
   },
 };

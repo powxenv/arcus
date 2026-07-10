@@ -1,0 +1,14 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Invalid share token shows the result-not-found state",
+  "description": "Visiting a share URL whose token does not correspond to any stored result renders the result-not-found message, verifying the server read path handles missing tokens gracefully.",
+  "priority": "p2",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to /shared/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz" },
+    {
+      "type": "assertion",
+      "description": "Verify the page renders a 'Result not found' heading and a message that the share link is invalid or has been removed, along with a link to take your own assessment."
+    }
+  ]
+}

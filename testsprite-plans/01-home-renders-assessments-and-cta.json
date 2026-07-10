@@ -1,0 +1,19 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Home renders all four assessments and CTA navigates to Start",
+  "description": "The homepage server-renders the hero and all four assessment cards in a grid, and the hero 'Take a test' call-to-action navigates the user to the Start page.",
+  "priority": "p1",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the homepage" },
+    {
+      "type": "assertion",
+      "description": "Verify the hero headline reads 'See the arc you're on.' and four assessment cards are laid out in a two-by-two grid, each card showing one of these exact titles: 'The Solstice Cycle Assessment', 'The Modes of Mind Assessment', 'The Spectrum of Self Assessment', 'The Passage of Time Assessment'."
+    },
+    { "type": "action", "description": "Click the 'Take a test' call-to-action button in the hero" },
+    {
+      "type": "assertion",
+      "description": "Verify the page navigates to the Start page, which shows the heading 'Pick an assessment to start with.' and a list of four assessments."
+    }
+  ]
+}

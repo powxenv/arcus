@@ -1,0 +1,13 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Passage take page renders a five-point unipolar scale",
+  "description": "The Passage assessment take page loads at question 1 of 28 with a five-point agree-disagree scale.",
+  "priority": "p2",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Passage take page" },
+    { "type": "assertion", "description": "Verify the progress indicator reads '1 of 28' and the first question is a statement with a five-point numbered answer scale (options 1 through 5), with 'Strongly disagree' and 'Strongly agree' labels." },
+    { "type": "action", "description": "Click the number 3 option to answer the first question" },
+    { "type": "assertion", "description": "Verify the progress indicator reads '2 of 28'." }
+  ]
+}

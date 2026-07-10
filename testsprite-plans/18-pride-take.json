@@ -1,0 +1,13 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "Pride take page renders a seven-point bipolar scale",
+  "description": "The Pride assessment take page loads at question 1 of 36 with a seven-point bipolar answer scale (two pole labels), like Solstice.",
+  "priority": "p2",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the Pride take page" },
+    { "type": "assertion", "description": "Verify the progress indicator reads '1 of 36' and the first question prompt is shown with a seven-point numbered answer scale (options numbered 1 through 7)." },
+    { "type": "action", "description": "Click the number 4 option to answer the first question" },
+    { "type": "assertion", "description": "Verify the progress indicator reads '2 of 36'." }
+  ]
+}

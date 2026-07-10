@@ -1,0 +1,18 @@
+{
+  "projectId": "bb4acddb-ddc2-4680-85d7-e9578654d2cd",
+  "type": "frontend",
+  "name": "About page renders its hero and numbered 'What you get' list",
+  "description": "The About page server-renders its hero heading and a 'What you get' section containing a three-item numbered list with two-digit ordinals.",
+  "priority": "p2",
+  "planSteps": [
+    { "type": "action", "description": "Navigate to the About page" },
+    {
+      "type": "assertion",
+      "description": "Verify the hero heading reads 'Personality is a trajectory, not a type.'"
+    },
+    {
+      "type": "assertion",
+      "description": "Verify the 'What you get' section renders a vertical numbered list of exactly three items, each beginning with a two-digit ordinal (01, 02, 03) followed by a bold title and a description sentence."
+    }
+  ]
+}

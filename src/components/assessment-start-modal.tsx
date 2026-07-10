@@ -69,14 +69,21 @@ export function AssessmentStartModal({
               </div>
             </Modal.Body>
             <Modal.Footer>
-              <Link
-                to="/assessment/$key/take"
-                params={{ key: assessment.key }}
-                className={buttonVariants()}
-              >
-                Begin
-                <SolarArrowRightLineDuotone />
-              </Link>
+              {assessment.key === "full-arc" ? (
+                <Link to="/arc/take" className={buttonVariants()}>
+                  Begin
+                  <SolarArrowRightLineDuotone />
+                </Link>
+              ) : (
+                <Link
+                  to="/assessment/$key/take"
+                  params={{ key: assessment.key }}
+                  className={buttonVariants()}
+                >
+                  Begin
+                  <SolarArrowRightLineDuotone />
+                </Link>
+              )}
             </Modal.Footer>
           </Modal.Dialog>
         </Modal.Container>
