@@ -17,7 +17,7 @@ on:
       - '.codex/**'
       - 'LICENSE'
   push:
-    branches: [feat/testsprite-e2e]   # integration branch — update when it changes (e.g. back to main)
+    branches: [main]   # integration branch
     paths-ignore:
       - '**.md'
       - 'docs/**'

@@ -12,8 +12,8 @@
 #
 # Why pull_request/push (not check_run): check_run and schedule events only run
 # the workflow file from the repo's DEFAULT branch. This repo's default is `main`
-# but the integration branch is `feat/testsprite-e2e` (where this file lives), so
-# those events can't fire. pull_request/push use the file on feat/testsprite-e2e.
+# but the integration branch is `main` (where this file lives), so
+# those events can't fire. pull_request/push use the file on main.
 #
 # Notes on the run model:
 #   • Backend tests have their URL baked into the test code (TestSprite ignores
@@ -27,9 +27,9 @@ name: TestSprite E2E
 
 on:
   pull_request:
-    branches: [feat/testsprite-e2e]
+    branches: [main]
   push:
-    branches: [feat/testsprite-e2e]
+    branches: [main]
   workflow_dispatch:
     inputs:
       target_url:
@@ -89,7 +89,7 @@ jobs:
               url="https://${alias}-${WORKERS_DOMAIN}"
               echo "HEAD_SHA=$PR_HEAD_SHA" >> "$GITHUB_ENV" ;;
             push)
-              # feat/testsprite-e2e is Cloudflare's production branch → test prod.
+              # main is Cloudflare's production branch → test prod.
               url="https://${WORKERS_DOMAIN}"
               echo "HEAD_SHA=$PUSH_SHA" >> "$GITHUB_ENV" ;;
             workflow_dispatch)
