@@ -10,6 +10,7 @@ import { RESULT_DETAILS } from "../data/result-details";
 import { ASSESSMENTS } from "./assessment-data";
 import { updateAIAnalysis } from "../server/results";
 import { getAIAnalysis } from "../server/ai-analysis";
+import { ArcChart, ArcChartGrid } from "./arc-chart";
 import {
   Hero,
   PageShell,
@@ -191,6 +192,30 @@ export function ResultView({
         >
           {result.summary}
         </Hero>
+
+        {/* Your arc — position and direction */}
+        {result.assessmentKey === "full-arc" && result.components ? (
+          <Section
+            title="Your four arcs"
+            intro="Each test plots its own position. Laid side by side, they show the shape your personality makes together."
+          >
+            <Surface className="arc-reveal flex flex-col gap-4 py-2">
+              <ArcChartGrid result={result} />
+            </Surface>
+          </Section>
+        ) : (
+          <Section
+            title="Your arc"
+            intro="The mark is where you sit. The sweep is which way you are heading."
+          >
+            <Surface className="flex flex-col gap-3 py-2">
+              <div className="arc-reveal mx-auto w-full max-w-[18rem]">
+                <ArcChart result={result} />
+              </div>
+              <ChartCaption result={result} />
+            </Surface>
+          </Section>
+        )}
 
         {/* What this means for you */}
         {result.detail ? (
@@ -474,6 +499,28 @@ export function ResultView({
         </Modal>
       ) : null}
     </PageShell>
+  );
+}
+
+// A plain-language caption for the arc chart, naming what the mark and the
+// sweep mean for this assessment specifically.
+function ChartCaption({ result }: { result: AssessmentResult }) {
+  const map: Record<string, string> = {
+    solstice:
+      "The dot plots your energy on two axes — how high it sits, and which way it turns. The arc shows whether the cycle feels like it's gathering or settling.",
+    pride:
+      "The dot plots how clearly you know yourself against how honestly you show it. The arc shows whether your identity feels settled or still forming.",
+    turing:
+      "Each point is one side of how you think. The silhouette they make together is the shape of your mind — not any single score.",
+    passage:
+      "Each point is one part of time you inhabit — past, present, future. The silhouette they make together is where your attention lives.",
+  };
+  const text = map[result.assessmentKey];
+  if (!text) return null;
+  return (
+    <p className="mx-auto max-w-md text-center text-sm text-default-500 leading-relaxed text-pretty">
+      {text}
+    </p>
   );
 }
 
